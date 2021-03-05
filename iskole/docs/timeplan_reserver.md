@@ -10,7 +10,7 @@ Reseerveringen av en lærer en bestemt dag og time innebærer at timeplanlegger 
 
 Når timeplan for lærer eller rom vises, for eksempel fra Mine sider>Timeplan, vil teksten som her legges inn som Grunn vises der forkortet fagnavn er oppført når det er en undervisningstime.
 
-##Lærer
+## Lærer
 Velg læreren som skal få registrert at han ikke kan benyttes til undervisning. Når valget er foretatt, vises lærerens timeplan for denne uken. Timer market med grønn farge kan velges for å legge inn en reservasjon, mens timer markert med oransje alt er reservert, og kan eventuelt slettes.
 
 Klikk på en grønn time for å legge til en reservasjon, klikk på en oransj reservasjon for å endre den. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. Dersom noen timer alt er båndlagt, vil disse selvsagt ikke kunne reserveres, da de i alt er reservert.

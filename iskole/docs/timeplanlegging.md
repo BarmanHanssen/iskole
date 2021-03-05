@@ -282,7 +282,8 @@ befinner seg hvis vedkommende har undervisning i en bestemt time i en
 angitt uke.
 For raskt å få et innblikk i hvordan man timeplanlegger klassefag, ser
 vi nå på et enkelt eksempel på hvordan dette kan gjøres. For å få frem
-skjermbildet som er vist under, navigerer man til [_Timeplan > Timeplanlegge klasse_](/iskole/docs/timeplan_klasse).
+skjermbildet som er vist under, navigerer man til 
+[_Timeplan > Timeplanlegge klasse_](/iskole/docs/timeplan_timeplanlegge_klasse).
 Deretter velger man klasse og uke. At man må velge
 en klasse er nokså innlysende, men hvorfor velge uke, og hvilken uke det er
 gunstig å starte med trenger noen kommentarer.
