@@ -12,7 +12,7 @@ Reserveringen av en lærer for en bestemt dag og time innebærer at timeplanlegg
 Benyttes hovedsaklig før skolens timeplan skal legges. Dersom en lærer ikke skal/kan ha undervsning en bestemt time, kan timen reserveres. Da kan timeplnlegger ikke benytte læreren til undervisning på denne timen. Lærerene kan heller ikke få reservere et rom på denne timen. Sagt på en annen måte: En reservasjon blokkerer for annen timeplanlgt aktivitet for denne læreren.
 
 - Registrering
-- 
+
 Først velger man lærer, og hvilken uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises lærerens timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, lærerens øvrige timer er markert, men kan selvsagt ikke reserveres.
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. 
