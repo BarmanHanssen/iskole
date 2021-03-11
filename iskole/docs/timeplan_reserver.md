@@ -17,7 +17,7 @@ Først velger man lærer, og hvilken uke reservasjonen skal gjelde for. Når det
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. 
 
-Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er timeplanlagt i noen uker, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard Grunn er *RESERV.*
+Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er timeplanlagt i noen uker, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard Grunn er *Reservert*
 
 - Sletting av reservering
 
