@@ -9,6 +9,6 @@ Vi har nå tilrettelagt for at det enkelt skal være mulig å endre såvel start
 ### For skoler som har samme timeoppsette for alle klassene
 Klokkeslettene for timene som legges inn her, vil følge alle fag som timeplanlegges. Det forutsettes at ingen timer overlapper, men en påfølgende time kan starte sammtidig som foregående time slutter. Det betyr at en lærer en dag kan ha alle timene, da dette ikke vil medføre noen kollisjon på timeplanen for læreren.
 
-::: Merk
+:::note Merk
 Timeoppsettet kan betraktees som en mal. Når timen timeplanlegges, følger start- og slutt-tiden med. Den timeplanlagte timen kan av timeplanlegges gis endret start- eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-timee. Dette medfører at timetellingen, som gjøres i hvert timeplanlagt fag, vil bli justert tilsvarende endringen som er registrert.
 
