@@ -38,8 +38,70 @@ tre uleste meldinger, ett ubesvart samtykke og to elevsamtaler som ikke er kvitt
 Menyvalg som opplagt ikke er aktuelle for eleven vil ikke vises. Eksempelvis vil ikke menyvalget _Samtykke_ vises hvis ikke skolen har definert noe samtykkeskjema, og heller ikke menyvalget _Internat_ vil vises for elever på en skole som ikke har registrert noe internat.
 :::
 
-## Personalia
-Her kan du se personalia skolen har registrert på deg. Du kan selv endre mobil og e-postadresse.
+## Timeplan
+Her kan du se din timeplan, ukeplan, hvilke lærere du har og læreres timeplaner. Vær oppmerksom på at den kan være forskjellig fra uke til uke og timelengden kan også variere. I timeplanen, kan du også se eventulle prøver faglæreren har lagt inn. 
+
+Nederst i skjermbildet er det fire ikoner for å bytte visning til henholdsvis egen timeplan, egen ukeplan, liste av fag og lærere, og læreres timeplaner.
+
+
+## Fravær
+Dette skjermbildet har fire ikoner nederst som gjør at du kan velge mellom å se og registrere egenmeldinger, registrere oppmøte på de fagene skolen har definert som fag hvor elevene skal føre oppmøte, statistikk over ditt fravær og en oversikt med alt fravær.
+
+Etterhvert som fag- eller kontaktlæreren din registrerer fravær og forsentkomming på deg, kan du se dette her.
+
+### Egenmelding
+Du kan registrere egenmeldinger for dagfravær og timefravær. Egenmeldingen for dagfravær går til kontaktlæreren
+din og du letter arbeidet med å føre dagfravær ved å sende inn egenmelding. Du bør registrere en egenmelding for dagfravær så tidlig som mulig, men det går også an å etterregistrere egenmeldinger for dagfravær. Egenmeldingen for timefravær går til faglæreren din. Du kan også registrere egenmelding for timefravær bakover i tid for å ha som egen dokumentasjon. Har du egenmeldt dagfravær skal du ikke egenemelde timene denne dagen. Dersom du har dokumentasjon for fraværet kan denne lastes opp sammen med egenmeldingen.
+
+:::note Merk
+Mange skoler gir ordensanmerkning dersom det ikke registreres egenmelding. Se skolens ordensreglement eller spør din kontaktlærer.
+:::
+
+### Oppmøte
+I vinduet for føring av oppmøte vises dagens timeplan og det er åpent for å føre oppmøte i gjeldende time. Hvis du ikke har undervisning i øyeblikket eller at skolen ikke har åpnet for at du skal føre oppmøte i faget som undervises i øyeblikket, så kan du heller ikke registrere noe.
+
+### Statistikk
+I vinduet for statistikk listes alle dine fag med prosentangivelse for fravær.
+
+#### Timer avholdt og fravær for fag
+Her telles alt fravær enten det er dokumentert eller ikke. Visningen _Skolestart og frem til i dag_ beregner ditt fravær i forhold til avholdte timer i faget. Visningene _1. halvår_ og _2. halvår_ beregner fraværet ditt mot timeplanlagte timer.
+
+#### Udokumentert fravær
+Her telles fravær som ikke er dokumentert med gyldig årsak. [Se reglement hos Udir](https://www.udir.no/regelverkstolkninger/opplaring/Vitnemal/fravarsgrense---udir-3-2016/hva-omfattes-av-fravarsgrensen/#fravar-som-ikke-omfattes-av-fravarsgrensen) Fraværet er beregnet i klokketimer. Fraværet 1. halvår beregnes mot timeplanlagte timer, mens fraværet for hele året beregnes mot fagets omfang i lærerplanen.
+
+### Alt fravær
+Du kan velge mellom en grafisk fremstilling av fraværet eller en liste. Grønt fravær er registert som dokumentert i henhold til Udirs reglement. Fravær som er blått har innmeldt årsak, enten gjennom egenmelding eller registert av læreren. Rødt fravær har ingen årsak, ved mange skoler vil dette medføre ordensanmerkning. Høyreklikk på fraværet for å registere egenmelding. Hvis du holder musepekeren over fraværet vil du få mer informasjon om timen. Hvis du har zoomet langt nok inn, vil hver boks også ha en kode. 
+
+- D = Dagfravær
+- I = Dagfravær som ikke teller på vitnemålet
+- F = Timefravær
+- O = Organisert studiearbeid (Teller ikke som fravær)
+- S = For sent til timen
+- M = Møtt
+
+![Alt fravær](/iskole/img/iskole_elev_fravaer_alt.png 'Alt fravær')
+
+## Vurderinger
+### Prøver
+Listen _Prøveresultater_ viser alle prøver hvor faglæreren din har gitt deg en vurdering i form av en karakter og eller en kommentar.
+
+Listen _Til behandling_ viser alle prøver som ikke er avhold, eller som ikke er blitt vurdert. Hvis faglæreren har lagt ved dokumenter til prøven, vil disse være tilgjengelig under kolonnen _Prøvedokumenter_. Hvis det er en prøve med innlevering, kan du laste opp dokumenter frem til læreren din har gitt deg en vurdering. Hvis læreren din har satt en innleveringsfrist, og du leverer etter denne fristen, vil innleveringsdatoen markeres med rødt.
+
+### Enkeltvurderinger
+Listen _Vurderinger_ viser vurderinger faglæreren din registrer på deg. Dette kan for eksempel være en muntlig fremføring. Listen _Vurdering av halvårskarakter_ viser eventuelle kommentarer faglæreren legger inn på halvårskarakteren din. Hvis faglæreren din ønsker en egenvurdering, klikk _Rediger_ på linjen til dette faget, skriv inn egenvurderingen og klikk _Lagre_.
+
+### Egenvurderinger
+
+### Karakterer
+Karakterer for alle skoleår vil vises her.
+
+### Orden/atferd
+Viser orden- og atferdkarakterer for skoleåret.
+
+### Eksamen
+I dette vinduet vises eksamensoppmeldingene. Privatisteksamen og norsk hovedmål vises straks man er oppmeldt, mens trekk i muntlig, muntlig/praktisk og praktisk eksamen vises to dager før selve eksamen. Forberedelse, for fag som har det, og innvilget tilrettelagt eksamen vises på hvert fag. Partier med eksamensstart før klokken 14:00 vises klokken 09:15 to dager før. Partier med eksamensstart etter klokken 14:00 vises klokken 14:15 to dager før. Resultatene vises i kolonnen _Sensur} når de er tilgjengelige.
+
+
 
 ## Meldinger
 iSkole har et internt meldingssystem. Du kan sende og motta meldinger fra faglærer, kontaktlærer og medelever i de fagene du er registrert med.
@@ -59,40 +121,38 @@ Viser en liste over sendte meldinger. Hvis du klikker på meldingen, kan du lese
 ## Bulleteng
 Her kan skolen legge ut felles meldinger til elever og ansatte.
 
-## Arkiv
+## Dokumenter
+### Arkiv
 I arkrivet kan du legge skolearbeid du ønsker å ta vare på. Dette kan være nyttig hvis du jobber med et dokument hjemme på egen datamaskin og ønsker å fortsette arbeidet på en av skolens datamaskiner. 
 
-### Opprette ny mappe
+#### Opprette ny mappe
 For å opprette en ny mappe, fyll inn feltet _Ny mappe_ og klikke lagre. Hvis du ikke har valgt noen mappa, vil den lagres direkte under mappen med ditt navn. Hvis du allerede har opprettet en mappe, og velger denne, vil den nye mappen opprettes som en undermappe av denne. 
 
-### Last opp fil
+#### Last opp fil
 For å laste opp en fil, klikk _Utforsk_, naviger til ønsket fil og klikk OK. Du kan skrive noe om filen for lettere å huske innholdet av den senere. Klikk på mappen du ønsker å lagre filen i og avslutt med å trykke _Lagre fil_
 
-## Dokumenter
+### Delt med meg
 Dine faglærere har muligheten til å gjøre dokumenter tilgjengelig for deg, disse vil vises her.
+
+### Elevmappe
+
+## Personalia
+Her kan du se personalia skolen har registrert på deg. Du kan selv endre mobil og e-postadresse.
+
+## Samtykke
+
+## Utlån
+
+## Bibliotek
+
+## Internat
 
 ## Skolerute
 Oversikt over skoleåret. Her vises skoledager, aktivitetsdager, planleggingsdager og fridager.
 
-## Timeplan
-Her kan du se din timeplan. Vær oppmerksom på at den kan være forskjellig fra uke til uke. 
-
-For hver uke, kan du også se eventulle prøver og ukeplaner faglæreren har lagt inn. 
-
-Listen _Fag og lærer i uke.._ viser fagene denne uken med faglærer. Klikk på navnet til faglæreren for å sende mail til faglæreren. Hvis du ønsker å se når faglæreren har undervisning, kan du trykke _Vis_ i kolonnen _Timeplan_. Hvis læreren har registrert bilde, vil dette også vises. 
-
-Nederst på siden kan du se en oversikt over når hver time starter og slutter.
 
 ## Årsplan
 Faglærerne har mulighet til å legge ut planer for året og for alle ukene i skoleåret. Eventuelle planer som er lagret vil vises på denne siden.
-
-## Fravær
-Etterhvert som fag- eller kontaktlæreren din registrerer fravær og forsentkomming på deg, kan du se dette her. _Fraværsoversikt_ viser hele skoleåret og etterfølges av en oppsummering. Fravær og forsentkomminger som registreres vil vises i tabellen _Timefravær innenfor klagefristen_. Du har 4 ukers frist på å klage. Klikk _Legg til_ for å registrere en klage. i nedtrekkslisten _Elev hevder_ velger du det du mener er rett for denne timen. Hvis klagen godkjennes, er det dette som automatisk blir lagret. Du kan også oppgi en forklaring. Klikk _Send_ for å sende inn klagen. For å endre klagen klikk _Endre_ gjør endringen og klikke _Send_. For å slette, klikk _Endre_ og deretter klikk _Slett_. Hvis klagen avvises, vil du få en melding om dette.
-
-Videre listes merknader for time, dagfravær, merknader for dag og fravær som blir overført til vitnemålet.
-
-## Orden/atferd
-Viser orden- og atferdkarakterer for skoleåret.
 
 ## Elevsamtaler
 Kontaktlæreren din kan legge inn en oppsummering etter en elevsamtale. Klikk _Kvittér_ for å vise kontaktlæreren din at du har lest teksten.
@@ -103,19 +163,6 @@ Faglæreren din kan legge inn en oppsummering etter en fagsamtale. Klikk _Kvitt�
 ## IOP
 Søknader og dokumentasjon i forbindelse med en individuell opplæringsplan vil vises her om dette gjelder deg.
 
-## Prøver
-Listen _Prøveresultater_ viser alle prøver hvor faglæreren din har gitt deg en vurdering i form av en karakter og eller en kommentar.
+## Programfag
 
-Listen _Til behandling_ viser alle prøver som ikke er avhold, eller som ikke er blitt vurdert. Hvis faglæreren har lagt ved dokumenter til prøven, vil disse være tilgjengelig under kolonnen _Prøvedokumenter_. Hvis det er en prøve med innlevering, kan du laste opp dokumenter frem til læreren din har gitt deg en vurdering. Hvis læreren din har satt en innleveringsfrist, og du leverer etter denne fristen, vil innleveringsdatoen markeres med rødt.
-
-## Vurdering i fag
-Listen _Vurderinger_ viser vurderinger faglæreren din registrer på deg. Dette kan for eksempel være en muntlig fremføring. Listen _Vurdering av halvårskarakter_ viser eventuelle kommentarer faglæreren legger inn på halvårskarakteren din. Hvis faglæreren din ønsker en egenvurdering, klikk _Rediger_ på linjen til dette faget, skriv inn egenvurderingen og klikk _Lagre_.
-
-## Resultater
-Karakterer for alle skoleår vil vises her.
-
-## Eksamen
-I dette vinduet vises eksamensoppmeldingene. Privatisteksamen og norsk hovedmål vises straks man er oppmeldt, mens trekk i muntlig, muntlig/praktisk og praktisk eksamen vises to dager før selve eksamen. Forberedelse, for fag som har det, og innvilget tilrettelagt eksamen vises på hvert fag. Partier med eksamensstart før klokken 14:00 vises klokken 09:15 to dager før. Partier med eksamensstart etter klokken 14:00 vises klokken 14:15 to dager før. Resultatene vises i kolonnen _Sensur} når de er tilgjengelige.
-
-## Rapport
-Ukeplaner kan lastes ned som pdf-dokumenter.
+## Søkerportal
