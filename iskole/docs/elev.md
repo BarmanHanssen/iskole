@@ -4,22 +4,47 @@ title: iSkole for elever
 sidebar_label: iSkole elev
 ---
 
-iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer. iSkole er tilgjengelig for elever, og foreldre for elever under 18 år.
+iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer. iSkole er tilgjengelig for elever, og foreldre for elever under 18 år. Skjermbildene er dynamiske og tilpasser seg størrelsen på skjermen. iSkole kan også installeres på  marttelefoner som en «Progressive Web App» og dermed få sitt eget ikon som man kan starte iSkole fra.
 
 ## Adgangskontroll
+
+### Innlogging fra iSkole
 For å logge inn i iSkole må man ha brukernavn og passord. Avhengig av rutinene for de forskjellige skolene varierer tildeling av brukernavn og passord. Man kan i hovedsak benytte inntil tre alternativer for brukernavn:
 
 - Fødselsnr, 11 siffer
 - E-post
 - Brukernavn
 
-Passord blir første gang generert og delt ut av f.eks. kontaktlærerne. For å logge på skriver man inn brukernavn og passord og trykker på knappen _Logg inn_. Hvis man stort sett er den eneste som benytter maskinen, kan man krysse av for _Husk brukernavn_, så vil man slippe å skrive det inn neste gang man skal logge inn. 
-For elever som ikke er myndige, vil foreldrene kunne logge på iSkole såfremt de har fått passord. Foreldre benytter elevens brukernavn etterfulgt av enten \#1 eller \#2 avhengig om man er registrert som forelder 1 eller forelder 2 i iSkole. 
+Passord blir første gang generert og delt ut av f.eks. kontaktlærerne. For å logge på skriver man inn brukernavn og passord og trykker på knappen _Logg inn_. Hvis man stort sett er den eneste som benytter maskinen, kan man krysse av for _Husk brukernavn_, så vil man slippe å skrive det inn neste gang man skal logge inn.
 
-Har man glemt passordet sitt kan man få tilsendt et nytt passord på e-post. Trykk i såfall på lenken _Glemt passord?_. Man må da oppgi e-postadresse og fødselsnr for å få tilsendt nytt passord. Foreldre må oppgi egen epostadresse og elevens fødselsnr. Denne tjenesten forutsetter at man er registrert med epostadresse i iSkole.
+Har man glemt passordet sitt kan man få tilsendt et nytt passord på e-post. Trykk i såfall på lenken _Glemt passord?_. Man må da oppgi e-postadresse og fødselsnr for å få tilsendt nytt passord.
+
+### Endre passord
+Når du har logget inn kan du endre passord ved å klikke på navnet ditt øverst til høyre i bildet. Velg _Endre passord._ fra menyen.
+
+### Innlogging via FEIDE
+Hvis skolen har avtale med feide, og man har fått tildelt FEIDE-brukernavn kan man logge inn ved å trykke på knappen _FEIDE_.
+
+## Utforming av skjermbildet i iSkole
+Hovedmenyen i iSkole vises ved å trykke på «burgerikonet» oppe til venstre på siden. Ved å trykke på menyikonet vises menyen til venstre i skjermbildet. Øverst til høyre i vinduet står navnet på eleven. Navnet er også en nedtrekksliste hvor man har menyvalg som _Endre passord_, _Logg ut_ og eventuelt _Bytt skole_. Mellom menyikonet og navnet til eleven vises skolens logo, eventuelt skolens navn, og en overskrift for det valgte skjermbildet.
+
+### Menyen i iSkole
+Trykker man på menyikonet kommer menyen til syne i venstre kant. Noen menyvalg er gruppert. For eksempel samles alt som har med vurderinger i en undermeny _Vureringer_, og tilsvarende alt som har med dokumenter i _Dokumenter_. Hvis eleven har noen uleste meldinger, vises det med et hvitt tall på rød bakgrunn til høyre for menyvalget — i eksempelet nedenfor har eleven
+tre uleste meldinger, ett ubesvart samtykke og to elevsamtaler som ikke er kvittert for. 
+
+![Meny]
+(/iskole/img/iskole_elev_meny.png 'Hovedmeny')
+![Meny - vurderinger]
+(/iskole/img/iskole_elev_meny_vurderinger.png 'Vurderinger.')
+![Meny - dokumenter]
+(/iskole/img/iskole_elev_meny_dokumenter.png 'Dokumenter.')
+
+:::note Merk
+Menyvalg som opplagt ikke er aktuelle for eleven vil ikke vises. Eksempelvis vil ikke menyvalget _Samtykke_ vises hvis ikke skolen har definert noe samtykkeskjema, og heller ikke menyvalget _Internat_ vil vises for elever på en skole som ikke har registrert noe internat.
+:::
 
 ## Personalia
-Her kan du se personalia skolen har registrert på deg. I tillegg kan du endre passordet ditt.
+Her kan du se personalia skolen har registrert på deg. Du kan selv endre mobil og e-postadresse.
 
 ## Meldinger
 iSkole har et internt meldingssystem. Du kan sende og motta meldinger fra faglærer, kontaktlærer og medelever i de fagene du er registrert med.
