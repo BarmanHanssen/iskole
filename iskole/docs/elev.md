@@ -32,12 +32,9 @@ Hovedmenyen i iSkole vises ved å trykke på «burgerikonet» oppe til venstre p
 Trykker man på menyikonet kommer menyen til syne i venstre kant. Noen menyvalg er gruppert. For eksempel samles alt som har med vurderinger i en undermeny _Vureringer_, og tilsvarende alt som har med dokumenter i _Dokumenter_. Hvis eleven har noen uleste meldinger, vises det med et hvitt tall på rød bakgrunn til høyre for menyvalget — i eksempelet nedenfor har eleven
 tre uleste meldinger, ett ubesvart samtykke og to elevsamtaler som ikke er kvittert for. 
 
-![Meny]
-(/iskole/img/iskole_elev_meny.png 'Hovedmeny')
-![Meny - vurderinger]
-(/iskole/img/iskole_elev_meny_vurderinger.png 'Vurderinger.')
-![Meny - dokumenter]
-(/iskole/img/iskole_elev_meny_dokumenter.png 'Dokumenter.')
+![Meny](/iskole/img/iskole_elev_meny.png 'Hovedmeny')
+![Meny - vurderinger](/iskole/img/iskole_elev_meny_vurderinger.png 'Vurderinger.')
+![Meny - dokumenter](/iskole/img/iskole_elev_meny_dokumenter.png 'Dokumenter.')
 
 :::note Merk
 Menyvalg som opplagt ikke er aktuelle for eleven vil ikke vises. Eksempelvis vil ikke menyvalget _Samtykke_ vises hvis ikke skolen har definert noe samtykkeskjema, og heller ikke menyvalget _Internat_ vil vises for elever på en skole som ikke har registrert noe internat.
