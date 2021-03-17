@@ -1,3 +1,9 @@
+---
+id: timeplan_time
+title: Time
+sidebar_label: Time
+---
+
 ## Time
 
 En time på timeplanen er bestemt ved at vi angir når timen starter, og når den slutter. Timelengden er vanligvis 45 eller 60 minutter, den bestemmes på den enkelte skole.

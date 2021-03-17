@@ -10,6 +10,12 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Mine sider',
+      items: ['ms_startside','ms_tilgang','ms_kontrollsenter','ms_logg','ms_planperiode','ms_personalia','ms_eget_fravaer',
+      'ms_meldinger','ms_bulleteng','ms_arkiv','ms_dokumenter','ms_utlaan','ms_bibliotek'],
+    },
+    {
+      type: 'category',
       label: 'Time- og fagfordeling',
       items: ['tf_klassefag'],
     },
