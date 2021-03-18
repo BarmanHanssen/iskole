@@ -17,4 +17,4 @@ Klokkeslettene for timene som legges inn her, vil følge alle fag som timeplanle
 
 :::note Merk
 Timeoppsettet kan betraktees som en mal. Når timen timeplanlegges, følger start- og slutt-tiden med. Den timeplanlagte timen kan av timeplanlegges gis endret start- eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-timee. Dette medfører at timetellingen, som gjøres i hvert timeplanlagt fag, vil bli justert tilsvarende endringen som er registrert.
-
+:::
