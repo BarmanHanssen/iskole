@@ -83,30 +83,35 @@ Du kan velge mellom en grafisk fremstilling av fraværet eller en liste. Grønt 
 
 ## Vurderinger
 ### Prøver
-Listen _Prøveresultater_ viser alle prøver hvor faglæreren din har gitt deg en vurdering i form av en karakter og eller en kommentar.
+Listen _Prøveresultater_ viser alle prøver hvor faglæreren din har gitt deg en vurdering i form av en karakter og eller en kommentar. Klikk på prøven for å se flere detaljer.
 
-Listen _Til behandling_ viser alle prøver som ikke er avhold, eller som ikke er blitt vurdert. Hvis faglæreren har lagt ved dokumenter til prøven, vil disse være tilgjengelig under kolonnen _Prøvedokumenter_. Hvis det er en prøve med innlevering, kan du laste opp dokumenter frem til læreren din har gitt deg en vurdering. Hvis læreren din har satt en innleveringsfrist, og du leverer etter denne fristen, vil innleveringsdatoen markeres med rødt.
+Listen _Til behandling_ viser alle prøver som ikke er avhold, eller som ikke er blitt vurdert. Klikk på en prøve for å se flere detaljer. Hvis faglæreren har lagt ved dokumenter til prøven, vil disse være tilgjengelig i ruten _Prøvedokumenter_. Hvis det er en prøve med innlevering, kan du laste opp dokumenter frem til læreren din har gitt deg en vurdering. Ruten _Innleveringer_ inneholder dokumenter som du har lastet opp og dokumenter som læreren laster opp. Dette kan være din besvarelse med lærerens tilbakemeldinger.
+
+![Prøver](/iskole/img/iskole_elev_prover.png 'Prøver')
+
 
 ### Enkeltvurderinger
-Listen _Vurderinger_ viser vurderinger faglæreren din registrer på deg. Dette kan for eksempel være en muntlig fremføring. Listen _Vurdering av halvårskarakter_ viser eventuelle kommentarer faglæreren legger inn på halvårskarakteren din. Hvis faglæreren din ønsker en egenvurdering, klikk _Rediger_ på linjen til dette faget, skriv inn egenvurderingen og klikk _Lagre_.
+Her samles alle enkeltvurderingene som er gjort. Dette kan for eksempel være en muntlig fremføring.
 
 ### Egenvurderinger
+Fra dette menyvalget kan eleven legge inn egenvurdering for sine fag. Faglæreren kan legge inn tilbakemeldinger på egenmeldingene, denne vil vises under egenvurderingen.
 
 ### Karakterer
-Karakterer for alle skoleår vil vises her.
+Karakterer for alle skoleår vil vises her. Eventuell vurdering av halvårskarakterene vil vises under tabellen.
 
 ### Orden/atferd
-Viser orden- og atferdkarakterer for skoleåret.
+Øverst vises orden- og atferdkarakterer for skoleåret. Under vises eventuelle begrunnelser ført av kontaktlæreren, årsmerknad og anmerkninger. Anmerkninger kan vektes og være av typen atferds- eller ordensanmerkning.
 
 ### Eksamen
-I dette vinduet vises eksamensoppmeldingene. Privatisteksamen og norsk hovedmål vises straks man er oppmeldt, mens trekk i muntlig, muntlig/praktisk og praktisk eksamen vises to dager før selve eksamen. Forberedelse, for fag som har det, og innvilget tilrettelagt eksamen vises på hvert fag. Partier med eksamensstart før klokken 14:00 vises klokken 09:15 to dager før. Partier med eksamensstart etter klokken 14:00 vises klokken 14:15 to dager før. Resultatene vises i kolonnen _Sensur} når de er tilgjengelige.
+I dette vinduet vises eksamensoppmeldingene. Privatisteksamen og norsk hovedmål vises straks man er oppmeldt, mens trekk i muntlig, muntlig/praktisk og praktisk eksamen vises to dager før selve eksamen. Forberedelse, for fag som har det, og innvilget tilrettelagt eksamen vises på hvert fag. Partier med eksamensstart før klokken 14:00 vises klokken 09:15 to dager før. Partier med eksamensstart etter klokken 14:00 vises klokken 14:15 to dager før. Resultatene vises i feltet Sensur når de er tilgjengelige. Bildet nedenfor viser en oppmelding til eksamen for en kandidat hvor også sensuren er kommet.
 
-
+![Eksamen](/iskole/img/iskole_elev_eksamen.png 'Eksamen')
 
 ## Meldinger
-iSkole har et internt meldingssystem. Du kan sende og motta meldinger fra faglærer, kontaktlærer og medelever i de fagene du er registrert med.
+iSkole har et internt meldingssystem. Du kan sende og motta meldinger fra faglærer, kontaktlærer og medelever i de fagene du er registrert med. Nederst på siden kan du bla mellom _Innboks_, _Ny melding_, _Sendt_ og _Brev_.
+
 ### Innkommende meldinger
-Uleste meldinger vises med fet skrift. Klikk på meldingen du ønsker å lese, denne vil da vises til høyere for listen over meldinger. Når du leser eller sletter en melding, vil avsenderen kunne se dette under _Sendte meldinger_. Du kan svare på en melding ved å tykke _Svar_. Hvis du har liten skjerm, kan du trykke på pilen mellom meldingslisten og meldingen, eller mellom meldingen og svarfeltet. Da vil meldingslisten/meldingen skjules. For å slette meldinger, trykker du _Slette valgt melding_. Det er mulig å markere flere meldinger ved å bruke kontroll eller skift tasten.
+Uleste meldinger vises med fet skrift og blått kulepunkt. Klikk på meldingen du ønsker å lese. Når du leser eller sletter en melding, vil avsenderen kunne se dette under _Sendte meldinger_. Du kan svare på en melding ved å tykke _Svar_.
 
 ### Ny melding
 Du kan sende melding til faglærer, kontaktlærer og medelever i de fagene du er oppmeldt i. For å velge flere mottakere kan du holde inne kontroll eller skift tasten når du klikker på navnene, og deretter klikke på > knappen under lista. Hvis du ønsker å sende melding til alle i listen, trykker du >>. Vær oppmerksom på at hver liste har sine egene knapper. 
