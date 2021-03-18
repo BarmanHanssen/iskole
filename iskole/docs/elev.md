@@ -103,7 +103,7 @@ Karakterer for alle skoleår vil vises her. Eventuell vurdering av halvårskarak
 Øverst vises orden- og atferdkarakterer for skoleåret. Under vises eventuelle begrunnelser ført av kontaktlæreren, årsmerknad og anmerkninger. Anmerkninger kan vektes og være av typen atferds- eller ordensanmerkning.
 
 ### Eksamen
-I dette vinduet vises eksamensoppmeldingene. Privatisteksamen og norsk hovedmål vises straks man er oppmeldt, mens trekk i muntlig, muntlig/praktisk og praktisk eksamen vises to dager før selve eksamen. Forberedelse, for fag som har det, og innvilget tilrettelagt eksamen vises på hvert fag. Partier med eksamensstart før klokken 14:00 vises klokken 09:15 to dager før. Partier med eksamensstart etter klokken 14:00 vises klokken 14:15 to dager før. Resultatene vises i feltet Sensur når de er tilgjengelige. Bildet nedenfor viser en oppmelding til eksamen for en kandidat hvor også sensuren er kommet.
+I dette vinduet vises eksamensoppmeldingene. Privatisteksamen og norsk hovedmål vises straks man er oppmeldt, mens trekk i muntlig, muntlig/praktisk og praktisk eksamen vises to dager før selve eksamen. Forberedelse, for fag som har det, og innvilget tilrettelagt eksamen vises på hvert fag. Partier med eksamensstart før klokken 14:00 vises klokken 09:15 to dager før. Partier med eksamensstart etter klokken 14:00 vises klokken 14:15 to dager før. Resultatene vises i feltet _Sensur_ når de er tilgjengelige. Bildet nedenfor viser en oppmelding til eksamen for en kandidat hvor også sensuren er kommet.
 
 ![Eksamen](/iskole/img/iskole_elev_eksamen.png 'Eksamen')
 
@@ -114,32 +114,38 @@ iSkole har et internt meldingssystem. Du kan sende og motta meldinger fra faglæ
 Uleste meldinger vises med fet skrift og blått kulepunkt. Klikk på meldingen du ønsker å lese. Når du leser eller sletter en melding, vil avsenderen kunne se dette under _Sendte meldinger_. Du kan svare på en melding ved å tykke _Svar_.
 
 ### Ny melding
-Du kan sende melding til faglærer, kontaktlærer og medelever i de fagene du er oppmeldt i. For å velge flere mottakere kan du holde inne kontroll eller skift tasten når du klikker på navnene, og deretter klikke på > knappen under lista. Hvis du ønsker å sende melding til alle i listen, trykker du >>. Vær oppmerksom på at hver liste har sine egene knapper. 
+Du kan sende melding til faglærer, kontaktlærer og medelever i de fagene du er oppmeldt i. I feltet _Til_ kan du velge mellom å søke etter mottakere, eller lete i listen som kommer frem når du klikker i feltet. Der er mulig å legge til flere mottakere.
 
-Det er mulig å legge til vedlegg, trykk _Utforsk_, naviger til filen, klikk OK og avslutt med _Legg til_. Vedlegget er lastet opp når det vises i en tabell under _Legg til_. 
-
-Hvis skolen har registrert epostadressen din, kan du også sende kopi av meldingen som epost. Din epost adresse vil da legges inn som avsenderadresse, slik at mottakeren kan svare på eposten din. Eventuelle vedlegg vil også sendes med epost.
+Du kan legge til vedlegg ved å klikke på feltet "Dra og slipp", eller ved å trekke dokumenter over til dette feltet.
 
 ### Sendte meldinger
-Viser en liste over sendte meldinger. Hvis du klikker på meldingen, kan du lese den, samt se informasjon om hver enkelt mottaker har lest og slettet meldingen din.
+Viser en liste over sendte meldinger. Hvis du klikker på meldingen, kan du lese den.
+
+### Brev
+Her kan du laste ned brev som skolen har sendt deg. Når skolen sender deg et brev får du et varsel på e-post om at et brev er tilgjengelig på iSkole. Du går da hit for å laste ned og lese brevet.
 
 ## Bulleteng
 Her kan skolen legge ut felles meldinger til elever og ansatte.
 
 ## Dokumenter
-### Arkiv
-I arkrivet kan du legge skolearbeid du ønsker å ta vare på. Dette kan være nyttig hvis du jobber med et dokument hjemme på egen datamaskin og ønsker å fortsette arbeidet på en av skolens datamaskiner. 
+Dokumenter har samlet alle menyvalg som har med dokumenthåndtering i en undermeny.
 
-#### Opprette ny mappe
-For å opprette en ny mappe, fyll inn feltet _Ny mappe_ og klikke lagre. Hvis du ikke har valgt noen mappa, vil den lagres direkte under mappen med ditt navn. Hvis du allerede har opprettet en mappe, og velger denne, vil den nye mappen opprettes som en undermappe av denne. 
+### Mine dokumenter
+I dette arkrivet kan du legge skolearbeid du ønsker å ta vare på. Dette kan være nyttig hvis du jobber med et dokument hjemme på egen datamaskin og ønsker å fortsette arbeidet på en av skolens datamaskiner. 
 
 #### Last opp fil
-For å laste opp en fil, klikk _Utforsk_, naviger til ønsket fil og klikk OK. Du kan skrive noe om filen for lettere å huske innholdet av den senere. Klikk på mappen du ønsker å lagre filen i og avslutt med å trykke _Lagre fil_
+Du kan laste opp filer til arkivet ved å «dra» filer fra din datamaskin og slippe dem i feltet _Dra og slipp_. Du kan også trykke på feltet og velge filen du ønsker å legge inn i arkivet.
+
+#### Opprette ny mappe
+Har du flere filer kan det være greit å opprette en mappestruktur. For å opprette en ny mappe, fyll inn feltet _Ny mappe_ og klikk på knappen _Ny mappe_.
+
+![Mine dokumenter](/iskole/img/iskole_elev_arkiv.png 'Mine dokumenter')
 
 ### Delt med meg
 Dine faglærere har muligheten til å gjøre dokumenter tilgjengelig for deg, disse vil vises her.
 
 ### Elevmappe
+Her kan du se de dokumentene skolen har lagt inn i din mappe. Alle egenmeldinger som du laster opp i iSkole vises også i mappen din. Du kan laste ned dokumenter ved å trykke på knappen _Last ned_.
 
 ## Personalia
 Her kan du se personalia skolen har registrert på deg. Du kan selv endre mobil og e-postadresse.
