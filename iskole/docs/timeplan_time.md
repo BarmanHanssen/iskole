@@ -21,13 +21,14 @@ Timeoppsettet kan betraktees som en mal. Når en time timeplanlegges, følger st
 
 ### For skoler som har avvikende timeoppsett
 Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig timelengde og/eller forskjellig start-tider på noen (eller allle) timene. Dette lar seg løse, men litt planlegging før man setter i gang vil lønne seg!
+### Endre
 Vi anbefaler følgende arbeidsplan:
-1: Innledningsvis bør alle klasser være på plass med sine fag, og tilornet lærerne som skal undervise i fagene.
-2: En bør om mulig fullføre timeplanleggingen fullt ut for eksempelvis barnetrinnet før en starter timeplanleggingen av ungdomstrinnet.
-3: Det innebærer at man her legger inn start- og sluttider for barnetrinnet, og kun for barnetrinnet.
-4: Deretter følger selve timeplanleggingen for alle klassene på barnetinnet. Timenes start- og slutt-tidspunkt blir registrert med hva som er registrert fra punkt 3
-5: Vi er nå klar for å timeplanlegge ungdomstrinnet. Men først må start- og slutt-tidspunktet justeres slik at det avspeiler ungdomstrinnet.
-6: Nå kan ungdomstrinnet timeplanllegges, og nå med de nye start- og slitt-tider.
+- Innledningsvis bør alle klasser være på plass med sine fag, og tilornet lærerne som skal undervise i fagene.
+- En bør om mulig fullføre timeplanleggingen fullt ut for eksempelvis barnetrinnet før en starter timeplanleggingen av ungdomstrinnet.
+- Det innebærer at man her legger inn start- og sluttider for barnetrinnet, og kun for barnetrinnet.
+- Deretter følger selve timeplanleggingen for alle klassene på barnetinnet. Timenes start- og slutt-tidspunkt blir registrert med hva som er registrert fra punkt 3
+- Vi er nå klar for å timeplanlegge ungdomstrinnet. Men først må start- og slutt-tidspunktet justeres slik at det avspeiler ungdomstrinnet.
+- Nå kan ungdomstrinnet timeplanllegges, og nå med de nye start- og slitt-tider.
 
 Vi har allerede påpekt at timene og timelengden er en mal som benyttes når en timeplanlegger legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, ja da må malen oppdateres.
 
