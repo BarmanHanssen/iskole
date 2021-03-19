@@ -16,8 +16,8 @@ Benyttes hovedsaklig før skolens timeplan skal legges. Reservasjonen betyr at l
 :::note Merk
 Noen benytter reservasjonen for å markere at læreren skal i møte, eller at læreren skal han undervisning med en enkeltelev. Greit nok, men prøv heller dette: 
 
-1: Norsklærerne skal ha seksjonsmøte x ganger. Benytt Reserver rom, og legg til alle aktuelle lærere i de aktuelle ukene.
-2: En lærer skal ta seg av en eller flere elever, kanskje før/etter ordinær timeplan. Benytt grupppefag, da kan elevene knyttes til gruppen, og faget 
+1. Norsklærerne skal ha seksjonsmøte x ganger. Benytt Reserver rom, og legg til alle aktuelle lærere i de aktuelle ukene.
+2. En lærer skal ta seg av en eller flere elever, kanskje før/etter ordinær timeplan. Benytt grupppefag, da kan elevene knyttes til gruppen, og faget 
 timeplanlegges.
 
 Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og alle deltakerene får samme melding på sin timeplan. Tilsvarende for 2: er at både lærerens - og elevens timeplan blir korrekt.
