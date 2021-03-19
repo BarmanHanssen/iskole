@@ -23,7 +23,7 @@ Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og 
 
 - Registrering
 
-Først velger man lærer, og hvilken uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises lærerens timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, lærerens øvrige timer er markert på blå bakgrunn, men kan selvsagt ikke reserveres.
+Først velger man lærer, og hvilken uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises lærerens timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, lærerens øvrige timer er markert på blå bakgrunn, og kan selvsagt ikke reserveres.
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. 
 
@@ -38,7 +38,14 @@ Dersom man ønsker å endre teksten for reservasjonen, kan en først notere ny t
 :::
 
 ## Rom 
-Timeplanlegger kan her reservere et rom, og om ønskelig registrere en eller flere lærere tilknyttete romreserveringen.
+Timeplanlegger kan her reservere et rom, og om ønskelig registrere en eller flere lærere tilknyttet romreserveringen.
 
- Når vi benytter reservering av rom og lærer tilkjennegir vi at læreren er tilgjengelig, og fortrinnsvis er å finne på det rommet som er reservert. Læreren kan i alle fall ikke ha annen undervisning på samme tid.
+Når vi reserverer et rom her, innebærer det at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. 
+
+- Registrering
+
+Først velger man rom, og hvilken uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, øvrige timer hvor rommet alt er opptatt er markert på blå bakgrunn, og kan selvsagt ikke reserveres.
+
+
+Når vi benytter reservering av rom og lærer tilkjennegir vi at læreren er tilgjengelig, og fortrinnsvis er å finne på det rommet som er reservert. Læreren kan i alle fall ikke ha annen undervisning på samme tid.
 
