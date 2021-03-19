@@ -17,8 +17,7 @@ Benyttes hovedsaklig før skolens timeplan skal legges. Reservasjonen betyr at l
 Noen benytter reservasjonen for å markere at læreren skal i møte, eller at læreren skal han undervisning med en enkeltelev. Greit nok, men prøv heller dette: 
 1: Norsklærerne skal ha seksjonsmøte x ganger. Benytt Reserver rom, og legg til alle aktuelle lærere i de aktuelle ukene.
 2: En lærer skal ta seg av en eller flere elever, kanskje før/etter ordinær timeplan. Benytt grupppefag, da kan elevene knyttes til gruppen, og faget timeplanlegges.
-Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og alle deltakerene får samme melding på sin timeplan. Tilsvarende for 2: er at både lærerens - og elevens timeplan blir korrekt.
-:::
+Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og alle deltakerene får samme melding på sin timeplan. Tilsvarende for 2: er at både lærerens - og elevens timeplan blir korrekt.:::
 
 
 - Registrering
@@ -34,8 +33,7 @@ Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen
 Velg lærer, og en uke hvor det er reistrert en reservering som en nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. Timen er avhuket for den timen som er valgt, og for alle andre uker som har samme markerte grunn (Reservert er standard grunn). Nå kan du justere hvilke uker som det er aktuelt å slette. Ingenting slettes før du du trykker på Slett-knapppen. 
 
 :::note Merk
-Dersom man ønsker å endre teksten for reservasjonen, kan en først notere ny tekst i tekstfeltet oppe i venstre hjørne, markere hvilke uker tekstendring skal gjelde for før en trykker på Lagre-knappen.
-:::
+Dersom man ønsker å endre teksten for reservasjonen, kan en først notere ny tekst i tekstfeltet oppe i venstre hjørne, markere hvilke uker tekstendring skal gjelde for før en trykker på Lagre-knappen.:::
 
 ## Rom 
 Timeplanlegger kan her reservere et rom, og om ønskelig registrere en eller flere lærere tilknyttet romreserveringen.
