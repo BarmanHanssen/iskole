@@ -4,9 +4,11 @@ title: Reserver
 sidebar_label: Reserver
 ---
 
-# Reservere lærer og rom
+# Innledning
 
-Reserveringen av en lærer for en bestemt dag og time innebærer at timeplanlegger ikke kan benytte læreren til undervisningen på samme tid. Tilsvarende kan heller ikke et rom som er reservert benyttes til andre formål på samme tid.
+Reserveringen av en lærer for en bestemt dag og time innebærer at timeplanlegger ikke kan benytte læreren til undervisningen på samme tid. 
+Reservering av lærer er ment å tilkjenngi at læreren ikke er tilgjengelig for skolen.
+Reservering av et rom innebærer at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges.
 
 ## Lærer
 Benyttes hovedsaklig før skolens timeplan skal legges. Reservasjonen betyr at læreren ikke skal/kan ha undervsning en bestemt time. Da kan timeplanlegger ikke benytte læreren til undervisning på denne timen. Lærerene kan heller ikke få reservere et rom på denne timen. Sagt på en annen måte: En reservasjon blokkerer for all annen timeplanlagt aktivitet for denne læreren.
@@ -29,14 +31,14 @@ Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen
 
 - Sletting av reservering
 
-Velg lærer, og en uke hvor det er reistrert en reservering som en nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. Timen avhuket for den timen som er valgt, og for alle andre uker som har samme markerte grunn (Reservsrt er standard grunn. Nå kan du justere hvile uker dersom det er aktuelt å slette. Ingenting slettes før du du trykker på Slett-knapppen. 
+Velg lærer, og en uke hvor det er reistrert en reservering som en nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. Timen er avhuket for den timen som er valgt, og for alle andre uker som har samme markerte grunn (Reservert er standard grunn). Nå kan du justere hvilke uker som det er aktuelt å slette. Ingenting slettes før du du trykker på Slett-knapppen. 
 
 :::note Merk
-Dersom man ønsker å endre teksten for reservasjonen, kan en først notere ny tekst i tekstfeltet oppe i venstre hjørne, markere hvilke av ukene tekstendring skal gjelde før en trykker på Lagre-knappen.
+Dersom man ønsker å endre teksten for reservasjonen, kan en først notere ny tekst i tekstfeltet oppe i venstre hjørne, markere hvilke uker tekstendring skal gjelde for før en trykker på Lagre-knappen.
 :::
 
 ## Rom 
-Timeplanlegger kan her reservere et rom 
+Timeplanlegger kan her reservere et rom, og om ønskelig registrere en eller flere lærere tilknyttete romreserveringen.
 
-Reservering av lærer (se ovenfor) er ment å tilkjenngi når læreren ikke er tilgjengelig for skolen. Når vi benytter reservering av rom og lærer tilkjennegir vi at læreren er tilgjengelig, og fortrinnsvis er å finne på det rommet som er reservert. Læreren kan i alle fall ikke ha annen undervisning på samme tid.
+ Når vi benytter reservering av rom og lærer tilkjennegir vi at læreren er tilgjengelig, og fortrinnsvis er å finne på det rommet som er reservert. Læreren kan i alle fall ikke ha annen undervisning på samme tid.
 
