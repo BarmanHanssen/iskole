@@ -21,18 +21,17 @@ Timeoppsettet kan betraktees som en mal. Når en time timeplanlegges, følger st
 
 ### For skoler som har avvikende timeoppsett
 Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig timelengde og/eller forskjellig start-tider på noen (eller allle) timene. Dette lar seg løse, men litt planlegging før man setter i gang vil lønne seg!
-### Endre
+### Før en endrer oppsetter med timenes plassering/lengde
 Vi anbefaler følgende arbeidsplan:
 - Innledningsvis bør alle klasser være på plass med sine fag, og tilornet lærerne som skal undervise i fagene.
 - En bør om mulig fullføre timeplanleggingen fullt ut for eksempelvis barnetrinnet før en starter timeplanleggingen av ungdomstrinnet.
-- Det innebærer at man her legger inn start- og sluttider for barnetrinnet, og kun for barnetrinnet.
-- Deretter følger selve timeplanleggingen for alle klassene på barnetinnet. Timenes start- og slutt-tidspunkt blir registrert med hva som er registrert fra punkt 3
-- Vi er nå klar for å timeplanlegge ungdomstrinnet. Men først må start- og slutt-tidspunktet justeres slik at det avspeiler ungdomstrinnet.
-- Nå kan ungdomstrinnet timeplanllegges, og nå med de nye start- og slitt-tider.
+- Det innebærer at man bør være ferding med timeplanlegging av barnetrinnet før man legger inn start- og sluttider for undomstrinnet.
+- Når timeplanen for barnetrinnet er klar er tiden inne for å legge inn start- og slutt-tidspunkt for timene slik de skal være for ungdomstrinnet.
+- Nå kan ungdomstrinnet timeplanllegges, og nå blir de nye start- og slutt-tider beyttet.
 
-Vi har allerede påpekt at timene og timelengden er en mal som benyttes når en timeplanlegger legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, ja da må malen oppdateres.
+Vi har allerede påpekt at timene og timelengden er en mal som benyttes når en timeplanlegger legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, må malen oppdateres.
 
-Som allerede nevnt, kan også start- og slutt-tid endres under selve timeplanleggingen. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra str- og sluttitiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon.
+Som allerede nevnt, kan også start- og slutt-tid endres under selve timeplanleggingen. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra start- og slutt-tiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
 
 :::tip Tips
 Ved fraværsføring kan en bare føre fravær for en skoletime. Kommer en elev eksempelvis midt i en time, blir det enten fravær for hele timen, eller ikke noe fravær (men kanskje en anmerking). For større feksibilitet kan en 90-minutters time deles i to, men uten friminutt. 
