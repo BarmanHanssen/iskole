@@ -151,22 +151,26 @@ Her kan du se de dokumentene skolen har lagt inn i din mappe. Alle egenmeldinger
 Her kan du se personalia skolen har registrert på deg. Du kan selv endre mobil og e-postadresse.
 
 ## Samtykke
+Hvis skolen har laget et samtykkeskjema, så kan man fylle inn svarene i dette skjermbildet. Hvis skolen endrer på noen av tekstene som man har samtykket i, så vil samtykket automatisk bli trukket og det vil stå _Ikke registrert_. Skolen kan gradere hvor gammel eleven må være for eventuelt å kunne samtykke selv. Etter eleven har fyllt 18 år er det eleven selv som er ansvarlig for alle samtykker. Hvis man velger å samtykke, trykker man på _Ja_, og hvis man ikke samtykker trykker man på _Nei_. Det er også anledning til å skrive inn en merknad til samtykket. Ved å trykke på redigerikonet til høyre for merknadsfeltet får man frem et felt for å skrive inn en merknad.
 
 ## Utlån
+Registrerte utlån av PC og bøker vises under dette menyvalget.
 
 ## Bibliotek
+Hvis skolen benytter bibliotekmodulen til iSkole så vil dette menyvalget vises. Det er da mulig å søke etter bøker på skolens bibliotek. Søk kan gjøres på ISBN, tittel, undertittel og forfatter. Søkefeltet er felles og gjøres automatisk i alle kategorier. Tallet _Tilgjengelig_ viser hvor mange bøker som er tilgjengelig for utlån.
 
 ## Internat
+For elever som bor på internat, så kan man registrere om man ikke skal overnatte, eller om man ikke skal ha middag. Dette bidrar både til at kjøkkenet bedre kan beregne hvor mye mat de skal tilberede, og at nattevaktene vet hvilke rom som ikke er bebodd. 
 
 ## Skolerute
-Oversikt over skoleåret. Her vises skoledager, aktivitetsdager, planleggingsdager og fridager.
+Skoleruten viser oversikt over skole- og fridager i skoleåret. Her vises skoledager, aktivitetsdager, planleggingsdager og fridager.
 
 
 ## Årsplan
 Faglærerne har mulighet til å legge ut planer for året og for alle ukene i skoleåret. Eventuelle planer som er lagret vil vises på denne siden.
 
 ## Elevsamtaler
-Kontaktlæreren din kan legge inn en oppsummering etter en elevsamtale. Klikk _Kvittér_ for å vise kontaktlæreren din at du har lest teksten.
+Kontaktlæreren din kan legge inn en oppsummering etter en elevsamtale. Klikk _Kvittér_ for å vise kontaktlæreren din at du har lest teksten. Hvis innholder i elevsamalen senere endres, vil kvitteringen slettes automatisk.
 
 ## Fagsamtaler
 Faglæreren din kan legge inn en oppsummering etter en fagsamtale. Klikk _Kvittér_ for å vise faglæreren din at du har lest teksten.
@@ -175,5 +179,13 @@ Faglæreren din kan legge inn en oppsummering etter en fagsamtale. Klikk _Kvitt�
 Søknader og dokumentasjon i forbindelse med en individuell opplæringsplan vil vises her om dette gjelder deg.
 
 ## Programfag
+Når skolen har åpnet for valg av programfag for neste skoleår, kan elevene gjøre sine valg direkte fra iSkole. Øverst på siden finner du informasjon om når det er mulig å velge fag.
+
+### Valgte programfag
+Listen viser de fagene som er valgt for neste skoleår. Du kan slette fagene ved å klikke på knappen _Slett valgt fag_.
+
+### Programfag til valg.
+Listen inneholer de fagene skolen har gjort tilgjengelig for valg. Dersom faget er tildelt en _Blokk_ vises nummeret på blokken. Det er bare mulig å velge ette fag fra hver blokk. Til høyre på faglinjene finner du knappen for å velge faget, alternativt informasjon om at faget er valgt, eller at blokken faget tilhører allerede er benyttet. 
 
 ## Søkerportal
+For de skolene som benytter søkerportalen til iSkole, så kan elevene gå direkte til søkerportalen fra dette menyvalget. Hvis du ikke har en konto i søkerportalen får du muligheten til å opprette dette. Når du har en konto i søkerportalen kan du gå direkte til søkerportalen uten å måtte logge inn på nytt.
