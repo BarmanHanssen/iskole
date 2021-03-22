@@ -7,7 +7,7 @@ sidebar_label: Reserver
 # Innledning
 
 Reserveringen av en lærer for en bestemt dag og time innebærer at timeplanlegger ikke kan benytte læreren til undervisningen på samme tid. 
-Reservering av lærer er ment å tilkjenngi at læreren ikke er tilgjengelig for skolen.
+Reservering av lærer en time medfører altså at læreren ikke kan ha andre oppdrag i denne timen.
 Reservering av et rom innebærer at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges.
 
 ## Lærer
