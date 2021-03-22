@@ -3,36 +3,21 @@ id: timeplan_definer_blokknr
 title: Definer blokknr
 sidebar_label: Definer blokknr
 ---
+Dersom man ikke har gruppefag, skal man ikke å avhuke for Bruker blokkskjema. Uten gruppefag skal all undervisning foregå i klassen med alle elevene samlet, og i fag som er registrert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være Timeplanlegg klasse!
 
 # Definer blokknr
-Dersom skolen har fag hvor elever fra ulike klasser er sammen for undervisning i et fag, er dette et gruppefag.
+Dersom skolen har fag hvor elever fra ulike klasser er sammen for undervisning i faget, er dette et gruppefag.
 
-Dersom man ikke har gruppefag, skal man ikke å avhuke for
-Bruker blokkskjema. Uten gruppefag skal all undervisning foregå i klassen med alle elevene samlet,
-og elevens fag er registrert som klassefag. Da er det ikke mere å gjøre her, og man kan gå til neste menyvalg!
+Når skolen har gruppefag, og det er fastlagt hvilke fag som skal gå parallelt (altså tilhøre en bestemt blokk), da først et tiden inne til å resgisterer dette her. Altså kan registreringen her foretas før endelig valg av grupper, og elevenes valg av grupper, er fastlagt.
 
-Dersom elevene imidlertid kan velge fag i
-tillegg til klassens fag, vil fagen kunne ha elever fra forskjellige klasser. Slike fag
-klassifiseres som gruppefag. Gruppefag er en utfordring for timeplanlegger.
-Eleven skal kunne følge alle fag i sin klasse, og i tillegg få undervisning i sine
-valgte gruppefag.
-For å kunne timeplanlegge gruppefagene, må man definere hvor mange
-blokknummer (dvs timer) som trengs for denne undervisningen.
-Gruppefag timeplanlegges ved bruk av blokkskjema der hvert blokknummer
-representerer en time på timeplanen. Blokkskjemaet defineres fra blokknummer
-1 og opp til n hvor n er Antall timer til valg(blokknr). For å plassere
-blokknumrene på timeplanen, se Timeplan > Timeplanlegge blokknr
-Høyeste antall blokknummer som fremkommer i nedtrekkslisten er
-lik antall timer som benyttes på timeplanen. Sjekk derfor at timer på
-timeplanen er definert fra Timeplan > Time dersom nedtrekkslisten ikke
-inneholder et tilstrekkelig høyt tall.
-Typiske gruppefag vil være programfag for programområdet studiespesialisering.
-Det er to strategier som benyttes når elevene skal velge fag.
-1. Elevene kan velge fritt blant alle tilbudte fag.
-2. Elevene kan velge fag, men hvilken fagkombinasjon som kan velges er
-forhåndsbestemt
-Benyttes strategi 1 må timeplanlegger benytte konfliktmatrisen (Rapport
-> Timeplan > Matrise) for å finne ut hvilke fag som kan gå parallelt.
-Benyttes strategi 2 kan timeplanleggingen av gruppefag skje uten kontroll
-via konfliktmatrisen. Om elevene i utgangspunktet velger fritt, eller om
-valgfriheten er innskrenket, så vil det måtte gjøres etterarbeid. Eksempelvis
+## Blokk id
+At fag som skal gå parallelt (lik timeplan) markeres ved at de har samme Id. Vanligvis har aktuelle fag 5 timer per uke. Fag med mindre enn 5 timer kan ligge i en slik blokk, eller kan plasseres i egen blokk. Dersom noen fag har mer enn 5 timer, kan de overskytende timer plasseres under eget Id. Vi anbefaler at en benytter en fortløpende nummerering av Blokknr. Det gir bedre visuell oversikt når gruppefagene for tildelt Blokknr. 
+
+:::note Tips
+Dersom gruppene gis ID fra Time- og fagfordeling>Gruppefag, vil plassering av blokknumrene på fagene (fra Blokknr gruppefag) kunne skje halvautomatisk.
+:
+
+## Trinn 
+Benyttes når elevene selv kan velge gruppefag for neste skoleår. Kan stå blankt her. Hvilken hensikt disse avhukingene har, omtales annet sted.
+
+
