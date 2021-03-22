@@ -5,7 +5,6 @@ sidebar_label: Definer blokknr
 ---
 Dersom man ikke har gruppefag, skal man ikke å avhuke for Bruker blokkskjema. Uten gruppefag skal all undervisning foregå i klassen med alle elevene samlet, og i fag som er registrert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være Timeplanlegg klasse!
 
-# Definer blokknr
 Dersom skolen har fag hvor elever fra ulike klasser er sammen for undervisning i faget, er dette et gruppefag.
 
 Når skolen har gruppefag, og det er fastlagt hvilke fag som skal gå parallelt (altså tilhøre en bestemt blokk), da først et tiden inne til å resgisterer dette her. Altså kan registreringen her foretas før endelig valg av grupper, og elevenes valg av grupper, er fastlagt.
