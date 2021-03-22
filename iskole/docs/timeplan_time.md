@@ -34,7 +34,7 @@ Vi har allerede påpekt at timene og timelengden er en mal som benyttes når en 
 Som allerede nevnt, kan også start- og slutt-tid endres under selve timeplanleggingen. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra start- og slutt-tiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
 
 :::tip Tips
-Ved fraværsføring kan en bare føre fravær for en skoletime. Kommer en elev eksempelvis midt i en time, blir det enten fravær for hele timen, eller ikke noe fravær (men kanskje en anmerking). For større feksibilitet kan en 90-minutters time deles i to, men uten friminutt. 
+Ved fraværsføring kan en bare føre fravær for en hel skoletime. Kommer en elev eksempelvis midt i en time, blir det enten fravær for hele timen, eller ikke noe fravær (men kanskje en anmerking). For større feksibilitet ved fraværsføring kan en 90-minutters time deles i to, men uten friminutt. 
 :::
 
 
