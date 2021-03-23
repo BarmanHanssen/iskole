@@ -51,5 +51,8 @@ Først velger man rom, og hvilken uke reservasjonen skal gjelde for. Når dette 
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til det valgte rommet for hele skoleåret for akkurat den timen som er valgt. 
 
+
+
+
 Når vi benytter reservering av rom og lærer tilkjennegir vi at læreren er tilgjengelig, og fortrinnsvis er å finne på det rommet som er reservert. Læreren kan i alle fall ikke ha annen undervisning på samme tid.
 
