@@ -43,12 +43,13 @@ Dersom man ønsker å endre teksten for reservasjonen, kan en først notere ny t
 ## Rom 
 Timeplanlegger kan her reservere et rom, og om ønskelig registrere en eller flere lærere tilknyttet romreserveringen.
 
-Når vi reserverer et rom her, innebærer det at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. 
+Når timeplanlegger reserverer et rom her, innebærer det at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. Reservering av rommet kan heller ikke endres av lærerne fra Mine side.
 
 - Registrering
 
-Først velger man rom, og hvilken uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, øvrige timer hvor rommet alt er opptatt er markert på blå bakgrunn, og kan selvsagt ikke reserveres.
+Først velger man rom, og hvilken uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, øvrige timer hvor rommet alt er opptatt, og kan selvsagt ikke reserveres.
 
+Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til det valgte rommet for hele skoleåret for akkurat den timen som er valgt. 
 
 Når vi benytter reservering av rom og lærer tilkjennegir vi at læreren er tilgjengelig, og fortrinnsvis er å finne på det rommet som er reservert. Læreren kan i alle fall ikke ha annen undervisning på samme tid.
 
