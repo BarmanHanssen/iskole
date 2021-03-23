@@ -41,18 +41,24 @@ Dersom man ønsker å endre teksten for reservasjonen, kan en først notere ny t
 :::
 
 ## Rom 
-Timeplanlegger kan her reservere et rom, og om ønskelig registrere en eller flere lærere tilknyttet romreserveringen.
+Timeplanlegger kan her reservere et rom, og dermed blokkere rommet for bruk når timeplanlegger skal timeplanlegge fagene.
+Eksempler på når dette kan være aktuelt: Rommet er i em periode leid bort. Rommet skal brukes av andre enn skolens lærere. Stengt for bruk til undervisning.
 
-Når timeplanlegger reserverer et rom her, innebærer det at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. Reservering av rommet kan heller ikke endres av lærerne fra Mine side.
+Reservering av rommet fra dette valget kan gjøres av timeplanlegger, ikke av lærerne fra Mine side>Timeplan>Rom. Likeså kan endringer bare gjøres av timeplanlegger herfra.
+
+Hvilke rom som er reservert herfra, vil fra Mine sider bare vises på timeplanen til rommet.
 
 - Registrering
 
-Først velger man rom, og hvilken uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, øvrige timer hvor rommet alt er opptatt, og kan selvsagt ikke reserveres.
+Først velger man rom, og hvilken uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, øvrige timer hvor rommet alt er opptatt, kan selvsagt ikke reserveres.
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til det valgte rommet for hele skoleåret for akkurat den timen som er valgt. 
 
+## Rom og lærer
+Timeplanlegger kan her i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Lære registrert her kan ikke ha undervisning på samme tid.
 
+På Mines sider vil disse reservasjonene komme frem baåde på timeplanen til rommet, og på timeplanen til de involverte lærere.
 
-
-Når vi benytter reservering av rom og lærer tilkjennegir vi at læreren er tilgjengelig, og fortrinnsvis er å finne på det rommet som er reservert. Læreren kan i alle fall ikke ha annen undervisning på samme tid.
-
+::: Merk 
+En lærer har behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom fra Mine sider>Timeplan>Rom. Der tillates det at læreren både kan ha undervisning og samtidig legge beslag på et annet rom.
+:::
