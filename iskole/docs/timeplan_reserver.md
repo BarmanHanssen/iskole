@@ -65,3 +65,4 @@ På Mines sider vil disse reservasjonene komme frem både på timeplanen til rom
 ::: note Merk 
 En lærer har behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom fra Mine sider>Timeplan>Rom. Der tillates det at læreren både kan ha undervisning og samtidig legge beslag på et annet rom.
 :::
+vvv
