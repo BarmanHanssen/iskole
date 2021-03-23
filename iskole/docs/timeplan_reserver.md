@@ -52,12 +52,15 @@ Hvilke rom som er reservert herfra, vil fra Mine sider bare vises på timeplanen
 
 Først velger man rom, og hvilken uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, øvrige timer hvor rommet alt er opptatt, kan selvsagt ikke reserveres.
 
-Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til det valgte rommet for hele skoleåret for akkurat den timen som er valgt. 
+Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til det valgte rommet for hele skoleåret for akkurat den timen som er valgt.
+
+Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard Grunn er *Reservert*
+
 
 ## Rom og lærer
-Timeplanlegger kan her i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Lære registrert her kan ikke ha undervisning på samme tid.
+Timeplanlegger kan her i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Lærer registrert her kan ikke ha undervisning på samme tid.
 
-På Mines sider vil disse reservasjonene komme frem baåde på timeplanen til rommet, og på timeplanen til de involverte lærere.
+På Mines sider vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere.
 
 ::: Merk 
 En lærer har behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom fra Mine sider>Timeplan>Rom. Der tillates det at læreren både kan ha undervisning og samtidig legge beslag på et annet rom.
