@@ -20,9 +20,7 @@ Noen benytter reservasjonen for å markere at læreren skal i møte, eller at l�
 2. En lærer skal ta seg av en eller flere elever, kanskje før/etter ordinær timeplan. Benytt grupppefag, da kan elevene knyttes til gruppen, og faget 
 timeplanlegges.
 
-Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og alle deltakerene får samme melding på sin timeplan. Tilsvarende for 2: er at både lærerens - og elevens timeplan blir korrekt.
-:::
-
+Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og alle deltakerene får samme melding på sin timeplan. Tilsvarende for 2: er at både lærerens - og elevens timeplan blir korrekt
 
 - Registrering
 
@@ -62,7 +60,7 @@ Timeplanlegger kan her i tillegg til rommet også knytte en eller flere lærere 
 
 På Mines sider vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere.
 
-::: note Merk 
+:::note Merk 
 En lærer har behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom fra Mine sider>Timeplan>Rom. Der tillates det at læreren både kan ha undervisning og samtidig legge beslag på et annet rom.
 :::
 vvv
