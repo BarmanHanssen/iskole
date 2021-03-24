@@ -54,7 +54,6 @@ Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timepl
 
 Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard Grunn er *Reservert*
 
-
 ## Rom og lærer
 Timeplanlegger kan her i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Lærer registrert her kan ikke ha undervisning på samme tid.
 
