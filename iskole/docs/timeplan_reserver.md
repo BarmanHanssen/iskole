@@ -42,7 +42,9 @@ Dersom man ønsker å endre teksten for reservasjonen, kan en først notere ny t
 Timeplanlegger kan her reservere et rom, og dermed blokkere rommet for bruk når timeplanlegger skal timeplanlegge fagene.
 Eksempler på når dette kan være aktuelt: Rommet er i en periode leid bort. Rommet skal brukes av andre enn skolens lærere. Stengt for bruk til undervisning.
 
+:::note Merk
 Reservering av rommet fra dette valget kan gjøres av timeplanlegger, ikke av lærerne fra Mine side>Timeplan>Rom. Likeså kan endringer bare gjøres av timeplanlegger herfra.
+:::
 
 Hvilke rom som er reservert herfra, vil fra Mine sider bare vises på timeplanen til rommet.
 
