@@ -6,18 +6,23 @@ sidebar_label: Blokknr klassefag
 
 ## Innledning
 
+Dersom noen klasser er uten gruppefag, er man klar for timeplanlegging av disse klassene uten å bry seg om dette valget!
+
 Timeplanen i klassefag må legges slik at den ikke kommer i konflikt med
 timeplanen til gruppefag som elevene har valgt. For å lette timeplanleggingen
 av klassefag, er det nødvendig å markere tidene hvor elevene i klassen er
-opptatt med gruppefag. Vi anbefaler følgende:
-Tildel blokknummer til klassen først etter at
-1. Elevene har valgt gruppefag 2. Gruppefagene til elevene har fått tildelt
-blokknummer
-Dersom disse to betingelsene er oppfylt for alle elever i en klasse,
-klikk på Benytt minste utvalg. Programmet vil da finne minste utvalg av
-blokknummer for klassen. Dersom man ønsker at f.eks klassen skal ha en
-felles fritime, kan man legge til blokknummeret som markerer denne timen.
-Husk Lagre-knappen tilslutt.
-Dersom det i løpet av skoleåret skjer endringer i fagsammensetningen til
-elevene, kan man sjekke fra listen under Minste utvalg av blokknummer om
-det er mulig å redusere antall av tildelte blokknummer.
+opptatt med gruppefag. 
+Vi anbefaler å ferdigstille følgende:
+
+1. Elevene valg av gruppefag. (Fra Elevadmin>Fag>Gruppefag)
+2. Gruppefagene har fått tildelt blokknummer. (Fra Blokknr gruppefag)
+3. Blokknumrene er timeplanlagt (Fra Timeplanlegge blokknr)
+
+Dersom disse tre betingelsene er oppfylt for alle fag og elever i en klasse, er du klar for timeplanlegging av denne klassen!
+
+Grunnen er at nå foreligger alle data som trengs for å hindre at timeplanleggingen av et klassefag kommer i konflikt med elevens valg av gruppefag.
+
+## Blokk tildelt klasse for uken
+
+Dersom ikke alt er på plass vedrørende punkt 1 og 2 ovenfor, og man ønsker å timeplanlegge klassefagene før dette er på plass:
+Det kan være greit å markere hvilke timer man ønsker å avsette til gruppefag for klassen. Dette gjøres via punkt 3 ovenfor. Man bestemmer altså hvilke timer som reserveres for gruppefag ved å henvise til blokknummer. Disse timene er disponible for elevenes valg av gruppefag, uten å måtte gjøre endring på timeplanen for klassefagene. 
