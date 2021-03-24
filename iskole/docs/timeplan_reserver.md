@@ -13,7 +13,7 @@ Reservering av et rom innebærer at rommet ikke er tilgjengelig når timeplanen 
 ## Lærer
 Benyttes hovedsaklig før skolens timeplan skal legges. Reservasjonen betyr at læreren ikke skal/kan ha undervsning en bestemt time. Da kan timeplanlegger ikke benytte læreren til undervisning på denne timen. Sagt på en annen måte: En reservasjon blokkerer for all annen timeplanlagt aktivitet for denne læreren.
 
-:::note Merk
+
 Noen benytter reservasjonen for å markere at læreren skal i møte, eller at læreren skal han undervisning med en enkeltelev. Greit nok, men prøv heller dette: 
 
 1. Norsklærerne skal ha seksjonsmøte x ganger. Benytt Reserver rom, og legg til alle aktuelle lærere i de aktuelle ukene.
