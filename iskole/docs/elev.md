@@ -4,7 +4,7 @@ title: iSkole for elever
 sidebar_label: iSkole elev
 ---
 
-iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer. iSkole er tilgjengelig for elever, og foreldre for elever under 18 år. Skjermbildene er dynamiske og tilpasser seg størrelsen på skjermen. iSkole kan også installeres på  marttelefoner som en «Progressive Web App» og dermed få sitt eget ikon som man kan starte iSkole fra.
+iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer. iSkole er tilgjengelig for elever, og foreldre for elever under 18 år. Sidene er responsive og tilpasser seg størrelsen på skjermen. iSkole kan også installeres på  smarttelefoner som en «Progressive Web App» og dermed få sitt eget ikon som man kan starte iSkole fra.
 
 ## Adgangskontroll
 
@@ -15,15 +15,15 @@ For å logge inn i iSkole må man ha brukernavn og passord. Avhengig av rutinene
 - E-post
 - Brukernavn
 
-Passord blir første gang generert og delt ut av f.eks. kontaktlærerne. For å logge på skriver man inn brukernavn og passord og trykker på knappen _Logg inn_. Hvis man stort sett er den eneste som benytter maskinen, kan man krysse av for _Husk brukernavn_, så vil man slippe å skrive det inn neste gang man skal logge inn.
+Passord blir første gang generert og delt ut av f.eks. kontaktlærerne. For å logge på skriver man inn brukernavn og passord og trykker på knappen _Logg inn_.
 
-Har man glemt passordet sitt kan man få tilsendt et nytt passord på e-post. Trykk i såfall på lenken _Glemt passord?_. Man må da oppgi e-postadresse og fødselsnr for å få tilsendt nytt passord.
+Har man glemt passordet sitt kan man få tilsendt et nytt passord på e-post. Trykk i såfall på lenken _Glemt passord?_. Man må oppgi e-postadresse og fødselsnr for å få tilsendt nytt passord.
 
 ### Endre passord
-Når du har logget inn kan du endre passord ved å klikke på navnet ditt øverst til høyre i bildet. Velg _Endre passord._ fra menyen.
+Når du har logget inn kan du endre passord ved å klikke på navnet ditt øverst til høyre i bildet. Velg _Endre passord_ fra menyen.
 
 ### Innlogging via FEIDE
-Hvis skolen har avtale med feide, og man har fått tildelt FEIDE-brukernavn kan man logge inn ved å trykke på knappen _FEIDE_.
+Hvis skolen har avtale med FEIDE, og man har fått tildelt FEIDE-brukernavn kan man logge inn ved å trykke på knappen _FEIDE_.
 
 ## Utforming av skjermbildet i iSkole
 Hovedmenyen i iSkole vises ved å trykke på «burgerikonet» oppe til venstre på siden. Ved å trykke på menyikonet vises menyen til venstre i skjermbildet. Øverst til høyre i vinduet står navnet på eleven. Navnet er også en nedtrekksliste hvor man har menyvalg som _Endre passord_, _Logg ut_ og eventuelt _Bytt skole_. Mellom menyikonet og navnet til eleven vises skolens logo, eventuelt skolens navn, og en overskrift for det valgte skjermbildet.
@@ -43,6 +43,7 @@ Her kan du se din timeplan, ukeplan, hvilke lærere du har og læreres timeplane
 
 Nederst i skjermbildet er det fire ikoner for å bytte visning til henholdsvis egen timeplan, egen ukeplan, liste av fag og lærere, og læreres timeplaner.
 
+![Timeplan](/iskole/img/iskole_elev_timeplan_min.png 'Timeplan')
 
 ## Fravær
 Dette skjermbildet har fire ikoner nederst som gjør at du kan velge mellom å se og registrere egenmeldinger, registrere oppmøte på de fagene skolen har definert som fag hvor elevene skal føre oppmøte, statistikk over ditt fravær og en oversikt med alt fravær.
@@ -51,7 +52,7 @@ Etterhvert som fag- eller kontaktlæreren din registrerer fravær og forsentkomm
 
 ### Egenmelding
 Du kan registrere egenmeldinger for dagfravær og timefravær. Egenmeldingen for dagfravær går til kontaktlæreren
-din og du letter arbeidet med å føre dagfravær ved å sende inn egenmelding. Du bør registrere en egenmelding for dagfravær så tidlig som mulig, men det går også an å etterregistrere egenmeldinger for dagfravær. Egenmeldingen for timefravær går til faglæreren din. Du kan også registrere egenmelding for timefravær bakover i tid for å ha som egen dokumentasjon. Har du egenmeldt dagfravær skal du ikke egenemelde timene denne dagen. Dersom du har dokumentasjon for fraværet kan denne lastes opp sammen med egenmeldingen.
+din og du letter arbeidet med å føre dagfravær ved å sende inn egenmelding. Du bør registrere en egenmelding for dagfravær så tidlig som mulig, men det går også an å etterregistrere egenmeldinger for dagfravær. Egenmeldingen for timefravær går til både kontakt- og faglæreren din. Du kan også registrere egenmelding for timefravær bakover i tid. Har du egenmeldt dagfravær skal du ikke egenemelde timene denne dagen. Dersom du har dokumentasjon for fraværet kan denne lastes opp sammen med egenmeldingen.
 
 :::note Merk
 Mange skoler gir ordensanmerkning dersom det ikke registreres egenmelding. Se skolens ordensreglement eller spør din kontaktlærer.
@@ -61,16 +62,18 @@ Mange skoler gir ordensanmerkning dersom det ikke registreres egenmelding. Se sk
 I vinduet for føring av oppmøte vises dagens timeplan og det er åpent for å føre oppmøte i gjeldende time. Hvis du ikke har undervisning i øyeblikket eller at skolen ikke har åpnet for at du skal føre oppmøte i faget som undervises i øyeblikket, så kan du heller ikke registrere noe.
 
 ### Statistikk
-I vinduet for statistikk listes alle dine fag med prosentangivelse for fravær.
+I vinduet for statistikk listes alle dine fag med prosentangivelse for fravær. Det er to ulike beregninger for fraværet, disse er beskrevet nedenfor. 
 
 #### Timer avholdt og fravær for fag
 Her telles alt fravær enten det er dokumentert eller ikke. Visningen _Skolestart og frem til i dag_ beregner ditt fravær i forhold til avholdte timer i faget. Visningene _1. halvår_ og _2. halvår_ beregner fraværet ditt mot timeplanlagte timer.
 
 #### Udokumentert fravær
-Her telles fravær som ikke er dokumentert med gyldig årsak. [Se reglement hos Udir](https://www.udir.no/regelverkstolkninger/opplaring/Vitnemal/fravarsgrense---udir-3-2016/hva-omfattes-av-fravarsgrensen/#fravar-som-ikke-omfattes-av-fravarsgrensen) Fraværet er beregnet i klokketimer. Fraværet 1. halvår beregnes mot timeplanlagte timer, mens fraværet for hele året beregnes mot fagets omfang i lærerplanen.
+Her telles fravær som ikke er dokumentert med gyldig årsak. [Se reglement hos Udir](https://www.udir.no/regelverkstolkninger/opplaring/Vitnemal/fravarsgrense---udir-3-2016/hva-omfattes-av-fravarsgrensen/#fravar-som-ikke-omfattes-av-fravarsgrensen). Fraværet er beregnet i klokketimer. Fraværet 1. halvår beregnes mot timeplanlagte timer, mens fraværet for hele året beregnes mot fagets omfang gitt i lærerplanen.
 
 ### Alt fravær
 Du kan velge mellom en grafisk fremstilling av fraværet eller en liste. Grønt fravær er registert som dokumentert i henhold til Udirs reglement. Fravær som er blått har innmeldt årsak, enten gjennom egenmelding eller registert av læreren. Rødt fravær har ingen årsak, ved mange skoler vil dette medføre ordensanmerkning. Høyreklikk på fraværet for å registere egenmelding. Hvis du holder musepekeren over fraværet vil du få mer informasjon om timen. Hvis du har zoomet langt nok inn, vil hver boks også ha en kode. 
+
+:::note Fraværskoder
 
 - D = Dagfravær
 - I = Dagfravær som ikke teller på vitnemålet
@@ -78,6 +81,8 @@ Du kan velge mellom en grafisk fremstilling av fraværet eller en liste. Grønt 
 - O = Organisert studiearbeid (Teller ikke som fravær)
 - S = For sent til timen
 - M = Møtt
+
+:::
 
 ![Alt fravær](/iskole/img/iskole_elev_fravaer_alt.png 'Alt fravær')
 
