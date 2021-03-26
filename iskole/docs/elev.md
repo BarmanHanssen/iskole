@@ -64,6 +64,8 @@ I vinduet for føring av oppmøte vises dagens timeplan og det er åpent for å 
 ### Statistikk
 I vinduet for statistikk listes alle dine fag med prosentangivelse for fravær. Det er to ulike beregninger for fraværet, disse er beskrevet nedenfor. 
 
+![Statistikk fravær](/iskole/img/iskole_elev_fravaer_statistikk.png 'Statistikk fravær')
+
 #### Timer avholdt og fravær for fag
 Her telles alt fravær enten det er dokumentert eller ikke. Visningen _Skolestart og frem til i dag_ beregner ditt fravær i forhold til avholdte timer i faget. Visningene _1. halvår_ og _2. halvår_ beregner fraværet ditt mot timeplanlagte timer.
 
@@ -87,22 +89,29 @@ Du kan velge mellom en grafisk fremstilling av fraværet eller en liste. Grønt 
 ![Alt fravær](/iskole/img/iskole_elev_fravaer_alt.png 'Alt fravær')
 
 ## Vurderinger
-### Prøver
-Listen _Prøveresultater_ viser alle prøver hvor faglæreren din har gitt deg en vurdering i form av en karakter og eller en kommentar. Klikk på prøven for å se flere detaljer.
+Alle formene for vurderinger er oppdelt i undermenyvalgene beskrevet nedenfor. 
 
-Listen _Til behandling_ viser alle prøver som ikke er avhold, eller som ikke er blitt vurdert. Klikk på en prøve for å se flere detaljer. Hvis faglæreren har lagt ved dokumenter til prøven, vil disse være tilgjengelig i ruten _Prøvedokumenter_. Hvis det er en prøve med innlevering, kan du laste opp dokumenter frem til læreren din har gitt deg en vurdering. Ruten _Innleveringer_ inneholder dokumenter som du har lastet opp og dokumenter som læreren laster opp. Dette kan være din besvarelse med lærerens tilbakemeldinger.
+### Prøver
+Listen _Prøver med resultat_ viser alle prøver hvor faglæreren din har gitt deg en vurdering i form av en karakter og eller en kommentar. Klikk på prøven for å se flere detaljer.
+
+Listen _Prøver til behandling_ viser alle prøver som ikke er avhold, eller som ikke er blitt vurdert. Klikk på en prøve for å se flere detaljer. Hvis faglæreren har lagt ved dokumenter til prøven, vil disse være tilgjengelig i ruten _Prøvedokumenter_. Hvis det er en prøve med innlevering, kan du laste opp dokumenter frem til læreren din har gitt deg en vurdering. Ruten _Innleveringer_ inneholder dokumenter som du har lastet opp og dokumenter som læreren laster opp. Sistnevnte kan være din besvarelse med lærerens tilbakemeldinger.
 
 ![Prøver](/iskole/img/iskole_elev_prover.png 'Prøver')
-
 
 ### Enkeltvurderinger
 Her samles alle enkeltvurderingene som er gjort. Dette kan for eksempel være en muntlig fremføring.
 
 ### Egenvurderinger
-Fra dette menyvalget kan eleven legge inn egenvurdering for sine fag. Faglæreren kan legge inn tilbakemeldinger på egenmeldingene, denne vil vises under egenvurderingen.
+Fra dette menyvalget kan du legge inn egenvurdering for dine fag. Faglæreren kan legge inn tilbakemeldinger på egenmeldingene, denne vil vises under egenvurderingen.
 
 ### Karakterer
 Karakterer for alle skoleår vil vises her. Eventuell vurdering av halvårskarakterene vil vises under tabellen.
+
+:::tip Tips
+Smale skjermer vil ha færre kolonner. Benytter du telefon kan du legge telefonen på siden for å få frem mer informasjon. Bildet nedenfor viser alle kolonner.
+:::
+
+![Karakterer](/iskole/img/iskole_elev_karakterer.png 'Karakterer')
 
 ### Orden/atferd
 Øverst vises orden- og atferdkarakterer for skoleåret. Under vises eventuelle begrunnelser ført av kontaktlæreren, årsmerknad og anmerkninger. Anmerkninger kan vektes og være av typen atferds- eller ordensanmerkning.
@@ -122,6 +131,8 @@ Uleste meldinger vises med fet skrift og blått kulepunkt. Klikk på meldingen d
 Du kan sende melding til faglærer, kontaktlærer og medelever i de fagene du er oppmeldt i. I feltet _Til_ kan du velge mellom å søke etter mottakere, eller lete i listen som kommer frem når du klikker i feltet. Der er mulig å legge til flere mottakere.
 
 Du kan legge til vedlegg ved å klikke på feltet "Dra og slipp", eller ved å trekke dokumenter over til dette feltet.
+
+![Ny melding](/iskole/img/iskole_elev_meldinger_ny.png 'Ny melding')
 
 ### Sendte meldinger
 Viser en liste over sendte meldinger. Hvis du klikker på meldingen, kan du lese den.
@@ -152,14 +163,20 @@ Dine faglærere har muligheten til å gjøre dokumenter tilgjengelig for deg, di
 ### Elevmappe
 Her kan du se de dokumentene skolen har lagt inn i din mappe. Alle egenmeldinger som du laster opp i iSkole vises også i mappen din. Du kan laste ned dokumenter ved å trykke på knappen _Last ned_.
 
+![Elevmappe](/iskole/img/iskole_elev_mappe.png 'Elevmappe')
+
 ## Personalia
 Her kan du se personalia skolen har registrert på deg. Du kan selv endre mobil og e-postadresse.
 
 ## Samtykke
 Hvis skolen har laget et samtykkeskjema, så kan man fylle inn svarene i dette skjermbildet. Hvis skolen endrer på noen av tekstene som man har samtykket i, så vil samtykket automatisk bli trukket og det vil stå _Ikke registrert_. Skolen kan gradere hvor gammel eleven må være for eventuelt å kunne samtykke selv. Etter eleven har fyllt 18 år er det eleven selv som er ansvarlig for alle samtykker. Hvis man velger å samtykke, trykker man på _Ja_, og hvis man ikke samtykker trykker man på _Nei_. Det er også anledning til å skrive inn en merknad til samtykket. Ved å trykke på redigerikonet til høyre for merknadsfeltet får man frem et felt for å skrive inn en merknad.
 
+![Samtykke](/iskole/img/iskole_elev_samtykke.png 'Samtykke')
+
 ## Utlån
 Registrerte utlån av PC og bøker vises under dette menyvalget.
+
+![Utlån](/iskole/img/iskole_elev_utlaan.png 'Utlån')
 
 ## Bibliotek
 Hvis skolen benytter bibliotekmodulen til iSkole så vil dette menyvalget vises. Det er da mulig å søke etter bøker på skolens bibliotek. Søk kan gjøres på ISBN, tittel, undertittel og forfatter. Søkefeltet er felles og gjøres automatisk i alle kategorier. Tallet _Tilgjengelig_ viser hvor mange bøker som er tilgjengelig for utlån.
@@ -167,9 +184,12 @@ Hvis skolen benytter bibliotekmodulen til iSkole så vil dette menyvalget vises.
 ## Internat
 For elever som bor på internat, så kan man registrere om man ikke skal overnatte, eller om man ikke skal ha middag. Dette bidrar både til at kjøkkenet bedre kan beregne hvor mye mat de skal tilberede, og at nattevaktene vet hvilke rom som ikke er bebodd. 
 
+![Internat](/iskole/img/iskole_elev_internat.png 'Internat')
+
 ## Skolerute
 Skoleruten viser oversikt over skole- og fridager i skoleåret. Her vises skoledager, aktivitetsdager, planleggingsdager og fridager.
 
+![Skolerute](/iskole/img/iskole_elev_skolerute.png 'Skolerute')
 
 ## Årsplan
 Faglærerne har mulighet til å legge ut planer for året og for alle ukene i skoleåret. Eventuelle planer som er lagret vil vises på denne siden.
@@ -179,6 +199,8 @@ Kontaktlæreren din kan legge inn en oppsummering etter en elevsamtale. Klikk _K
 
 ## Fagsamtaler
 Faglæreren din kan legge inn en oppsummering etter en fagsamtale. Klikk _Kvittér_ for å vise faglæreren din at du har lest teksten.
+
+![Fagsamtaler](/iskole/img/iskole_elev_fagsamtale.png 'Fagsamtaler')
 
 ## IOP
 Søknader og dokumentasjon i forbindelse med en individuell opplæringsplan vil vises her om dette gjelder deg.
@@ -190,7 +212,7 @@ Når skolen har åpnet for valg av programfag for neste skoleår, kan elevene gj
 Listen viser de fagene som er valgt for neste skoleår. Du kan slette fagene ved å klikke på knappen _Slett valgt fag_.
 
 ### Programfag til valg.
-Listen inneholer de fagene skolen har gjort tilgjengelig for valg. Dersom faget er tildelt en _Blokk_ vises nummeret på blokken. Det er bare mulig å velge ette fag fra hver blokk. Til høyre på faglinjene finner du knappen for å velge faget, alternativt informasjon om at faget er valgt, eller at blokken faget tilhører allerede er benyttet. 
+Listen inneholer de fagene skolen har gjort tilgjengelig for valg. Dersom faget er tildelt en _Blokk_ vises nummeret på blokken. Det er bare mulig å velge ette fag fra hver blokk. Fag som ikke er tildelt blokknummer kan man velge flere av. Til høyre på faglinjene finner du knappen for å velge faget, alternativt informasjon om at faget er valgt, eller at blokken faget tilhører allerede er benyttet. 
 
 ## Søkerportal
 For de skolene som benytter søkerportalen til iSkole, så kan elevene gå direkte til søkerportalen fra dette menyvalget. Hvis du ikke har en konto i søkerportalen får du muligheten til å opprette dette. Når du har en konto i søkerportalen kan du gå direkte til søkerportalen uten å måtte logge inn på nytt.
