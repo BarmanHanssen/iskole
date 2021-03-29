@@ -496,7 +496,7 @@ Blokkskjemaet gir den optimale oversikten over hvordan undervisningen
 tenkes organisert, uten at man tar stilling til når på dagen undervisningen
 skal finne sted.
 
-![Timer](/iskole/img/tk_timeplan_time.jpg 'Timer.')
+![Timer](/iskole/img/tk_timeplan_time.png 'Timer')
 
 ### Menyvalgene for timeplanlegging av gruppefag
 Når man klikker på menyvalget _Timeplan_, får man oversikt over de
@@ -547,7 +547,7 @@ de deles i tre blokker (blokkid=1, 2 og 3). I tillegg har vi markert at valg av
 disse fagene kan begrenses til elever på vg2 og vg3 siden vi ikke har markert
 for trinn 1 (vg1).
 
-![Definer blokknr](/iskole/img/tk_definer_blokknr.jpg 'Definer blokknr')
+![Definer blokknr](/iskole/img/tk_definer_blokknr.png 'Definer blokknr')
 
 Grupper av timer til valg hvor vi grupperer blokknumrene med
 id (blokkid) forenkler timeplanleggerens fordeling av blokknummer til
