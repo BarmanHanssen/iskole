@@ -12,7 +12,9 @@ module.exports = {
       type: 'category',
       label: 'Mine sider',
       items: ['ms_startside','ms_tilgang','ms_kontrollsenter','ms_logg','ms_planperiode','ms_personalia','ms_eget_fravaer',
-      'ms_meldinger','ms_bulleteng','ms_arkiv','ms_dokumenter','ms_utlaan','ms_bibliotek'],
+      'ms_meldinger','ms_bulleteng','ms_arkiv','ms_dokumenter','ms_utlaan','ms_bibliotek','ms_skolerute','ms_timeplan','ms_arsplan','ms_elever','ms_fravaer',
+      'ms_orden_atferd','ms_elevsamtaler','ms_fagsamtaler','ms_vurderinger','ms_iop','ms_karakterer','ms_permisjon','ms_elevmappe','ms_spraakopplaering',
+      'ms_brev','ms_sensor','ms_brukerrolle','ms_foto','ms_internat','ms_rapporter'],
     },
     {
       type: 'category',
