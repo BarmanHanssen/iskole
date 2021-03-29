@@ -15,14 +15,14 @@ meldinger, trykker du _Slette valgt melding_. Det er mulig å markere flere meld
 ## Ny melding
 Du kan sende melding til ansatte og elever. Adresselistene er delt inn i følgende kategorier:
 
-*Kontaktelever* er tilgjengelig hvis du er kontaktlærer.
-*Elever i mine fag* viser en nedtrekksliste. Når du har valgt et fag, vises elevene i tabellen under.
-*Elever* viser alle elevene på skolen. Filter benyttes for å filtrere elever på første bokstav i etternavnet. Det blanke feltet under brukes for å søke i
-listen. Hvis du først har valgt A i filteret, kan du kun søke etter personer med etternavn som starter med A. Du kan benytte % i isøket. %Ola vil gi alle elever som har Ola som en del av for- eller etternavnet.
-*Elever i fag* inneholder en nedtrekksliste med alle fag ved skolen, etterfult av en tabell med elvene i fag.
-*Elever tilhørende en ansatt* viser alle elevene til en ansatt. Du kan også her benytte det blanke feltet til å gjøre søk. For eksempel %2% for å vise
-alle lærerens elever som går i 2. klasse.
-*Ansatte* tilsvarende fuksjonalitet som for valget _Elever_.
+**Kontaktelever** er tilgjengelig hvis du er kontaktlærer.  
+**Elever i mine fag** viser en nedtrekksliste. Når du har valgt et fag, vises elevene i tabellen under.  
+**Elever** viser alle elevene på skolen. Filter benyttes for å filtrere elever på første bokstav i etternavnet. Det blanke feltet under brukes for å søke i
+listen. Hvis du først har valgt A i filteret, kan du kun søke etter personer med etternavn som starter med A. Du kan benytte % i isøket. %Ola vil gi alle elever som har Ola som en del av for- eller etternavnet.  
+**Elever i fag** inneholder en nedtrekksliste med alle fag ved skolen, etterfult av en tabell med elvene i fag.  
+**Elever tilhørende en ansatt** viser alle elevene til en ansatt. Du kan også her benytte det blanke feltet til å gjøre søk. For eksempel %2% for å vise
+alle lærerens elever som går i 2. klasse.  
+**Ansatte** tilsvarende fuksjonalitet som for valget _Elever_.
 
 For å velge flere mottakere kan du holde inne kontroll eller skift tasten mens du klikker på navn i tabellen. Klikk på > knappen under lista for å
 legge de til som mottakere. Hvis du ønsker å sende melding til alle i listen, trykker du >>. 
