@@ -16,6 +16,6 @@ Ved å klikke på ikonet _Elever over angitt prosent_ vises en ny side som liste
 For at en elev skal regnes som varslet, må varselet være opprettet med avhuking _Fare for å overstige grense 10% udokumentert fravær_.
 :::
 
-:::important 
+:::info Viktig 
 Varslet skal gis «straks». Det vil si at når det er fare for at eleven kan overskride fraværsgrensen, skal det varsles. Selv om det ble varslet i forbindelse med halvårskarakteren, må det varsles på nytt i forbindelse med standpunktkarakteren.
 :::
