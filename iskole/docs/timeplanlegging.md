@@ -288,6 +288,8 @@ Deretter velger man klasse og uke. At man må velge
 en klasse er nokså innlysende, men hvorfor velge uke, og hvilken uke det er
 gunstig å starte med trenger noen kommentarer.
 
+![Timeplanlegge klasse](/iskole/img/tp_klasse_oversikt.png 'Timeplanlegge klasse')
+
 Utgangspunktet vårt er at timeplanen skal legges for et nytt skoleår.
 Etter skolestart kan det være behov for justeringer grunnet skifte av lærer,
 flytting av timer på timeplanen osv.
@@ -450,6 +452,8 @@ valg vil resultatet kunne bli at skoledagen ble vesentlig lengre enn det som er
 ansett som akseptabelt, og at kostnadene vil kunne øke hvis man ender opp med mange små grupper. La oss nå se litt nærmere på fordeler og ulemper
 til de to tilnærmingsmåtene.
 
+![Blokkskjema](/iskole/img/tk_blokkskjema.png 'Blokkskjema')
+
 Bildet viser grupper satt opp i et blokkskjema slik at elevene bare
 kan velge ett fag fra hver blokk. Alle fagene i skjemaet skal ha fem timer
 undervisning per uke. De tre blokkene legger da til sammen beslag på
@@ -483,6 +487,8 @@ disse to elevene) må gjøre omvalg, kan ST2FR2 og ST2SO1 timeplanlegges
 samtidig med ST2ENI (og ST2KJ1). Fagene utgjør da en blokk, se figur 2
 på side 14 som viser oppsett av gruppefag.
 
+![Konfliktmatrise](/iskole/img/tk_konfliktmatrise.png 'Konfliktmatrise')
+
 Uten her å gå nærmere inn på detaljene skjønner man at det fort kan bli
 litt av et puslespill, med en del omvalg, før brikkene faller på plass. Resultatet
 skal til slutt kunne settes opp i et blokkskjema slik det allerede er beskrevet.
@@ -490,8 +496,7 @@ Blokkskjemaet gir den optimale oversikten over hvordan undervisningen
 tenkes organisert, uten at man tar stilling til når på dagen undervisningen
 skal finne sted.
 
-![Timer]
-(/iskole/img/timeplan_time.jpg 'Timer.')
+![Timer](/iskole/img/tk_timeplan_time.jpg 'Timer.')
 
 ### Menyvalgene for timeplanlegging av gruppefag
 Når man klikker på menyvalget _Timeplan_, får man oversikt over de
@@ -524,7 +529,7 @@ søndag som skoledag fremgår av skoleruten. Lørdags- og søndags-timeplan
 vises bare dersom dagene er satt opp som skoledager i skoleruten.
 
 ### Definer blokknr
-Vi ser igjen på blokken vist i 2 på side 14 . Her er det sju gruppef som er
+Vi ser igjen på blokken vist i figur 2 på side 14 . Her er det sju gruppef som er
 satt opp, og de vil legge beslag på femten timer på timeplanen. Fagene er
 delt i tre blokker, og hver blokk har fått en blokkidentifikator hhv. 1, 2 og 3.
 
@@ -536,20 +541,19 @@ menyvalget _Timeplan > Definer blokknr_:
 hvor mange blokker (blokkid) som skal benyttes
 1. Gi hver blokk blokknr og angi hvilke trinn som kan velge blokken
 
-Figur 5 på neste side viser skjermbildet med verdiene utfyllt. Vi har
+Bildet nedenfor viser skjermbildet med verdiene utfyllt. Vi har
 her lagt opp til å bruke femten timer til gruppefag, og vi har tilkjennegitt at
 de deles i tre blokker (blokkid=1, 2 og 3). I tillegg har vi markert at valg av
 disse fagene kan begrenses til elever på vg2 og vg3 siden vi ikke har markert
 for trinn 1 (vg1).
+
+![Definer blokknr](/iskole/img/tk_definer_blokknr.jpg 'Definer blokknr')
 
 Grupper av timer til valg hvor vi grupperer blokknumrene med
 id (blokkid) forenkler timeplanleggerens fordeling av blokknummer til
 gruppefagene. Da må id settes på aktuelle gruppefag fra 
 _Time- og fagfordeling > Gruppefag_ før timeplanleggger går løs på _Timeplan > Blokknr_
 for gruppefag.
-
-![Definer blokknr]
-(/iskole/img/timeplan_definer_blokknr.jpg 'Definer blokknr.')
 
 :::tip Merk
 Hvis man skal ha gruppefag med på timeplanen, må _Antall timer til valg (blokknr)_
