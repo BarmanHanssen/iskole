@@ -288,7 +288,7 @@ Deretter velger man klasse og uke. At man må velge
 en klasse er nokså innlysende, men hvorfor velge uke, og hvilken uke det er
 gunstig å starte med trenger noen kommentarer.
 
-![Timeplanlegge klasse](/iskole/img/tp_klasse_oversikt.png 'Timeplanlegge klasse')
+![Timeplanlegge klasse](/iskole/img/tk_timeplan_klasse_3.png 'Timeplanlegge klasse')
 
 Utgangspunktet vårt er at timeplanen skal legges for et nytt skoleår.
 Etter skolestart kan det være behov for justeringer grunnet skifte av lærer,
