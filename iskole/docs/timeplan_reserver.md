@@ -54,23 +54,27 @@ Hvilke rom som er reservert herfra, vil fra Mine sider bare vises på timeplanen
 
 Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en ny reservasjon.
 
-Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til det valgte rommet for hele skoleåret for akkurat den timen som er valgt.
+Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde. Du skal nå se på den første halvdelen av skjermen:
+
 ![image](https://user-images.githubusercontent.com/80097133/112967465-94cd7680-914b-11eb-9c4f-9973b84b06e7.png)
 
-
+Her kan du taste inn Grunn for reserveringen. Reserver lærer til rommet er her ikke aktuelt, så da klikker du på Lagre og lukk dersom reservasjonen bare skal gjelde for valgte uke. Skal imidlertid reserevasjonen gjelde for flere uker, klikker du på Lagre, og huker av for øvrige uker reservasjonen skal gjelde for.
 
 
 Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard Grunn er *Reservert*
 
 - Sletting av reservering
 
-Velg rom, og en uke hvor det er reistrert en reservering som en nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. Timen er avhuket for den timen som er valgt, og for alle andre uker som har samme markerte grunn. Nå kan du justere hvilke uker som det er aktuelt å slette. Ingenting slettes før du du trykker på Slett-knapppen. 
+Velg rom, og en uke hvor det er reistrert en reservering som du nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. 
+Dersom det bare er denne reservasjonen som skal slettes, gjøres det fra skjermbilde, klikk på Slett reservasjonen uke ... .
+
+Dersom reservasjonen for denne timen skal slettes for flere uker, markeres det på den nedre del av skjermbildet, før en klikker på Slett valgte uker.
 
 ## Rom og lærer
-Timeplanlegger kan her i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Lærer registrert her kan ikke ha undervisning på samme tid.
-Eksempler på når dette kan være aktuelt: Norsklærerne skal ha seksjonsmøte i noen/alle uker. Annen møtevirksomhet med navngitte deltakere i noen/alle uker.
+Timeplanlegger kan i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Lærer registrert her kan ikke ha undervisning på samme tid.
+Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen møtevirksomhet med navngitte deltakere i noen/alle uker.
 
-På Mines sider vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere. Lærere kan ikke ha undervisningsoppdrag som kolliderer med reservasjonen.
+På Mines sider vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere. Lærere kan altså ikke ha undervisningsoppdrag som kolliderer med reservasjonen.
 
 :::note Merk 
 En lærer har behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom fra Mine sider>Timeplan>Rom. Der tillates det at læreren både kan ha undervisning og samtidig legge beslag på et annet rom.
@@ -78,14 +82,21 @@ En lærer har behov for et ekstra rom i en time hvor han har undervisning. Løse
 
 - Registrering
 
-Først velger man rom, og hvilken uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, øvrige timer hvor rommet alt er opptatt, kan selvsagt ikke reserveres.
+Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en ny reservasjon.
 
-Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til det valgte rommet for hele skoleåret for akkurat den timen som er valgt.
+Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde. Du skal nå se på den første halvdelen av skjermen:
 
-Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard Grunn er *Reservert*, og kan endres.
+![image](https://user-images.githubusercontent.com/80097133/112967465-94cd7680-914b-11eb-9c4f-9973b84b06e7.png)
 
-Nederst i vinduet finner man en Legg til..-knapp, og herfra kan man legge til de lærerne som skal ha møte.
+Her kan du taste inn Grunn for reserveringen. Deretter kan du legge til lærere ved å velge fra nedtrekkslisten. Bare personer markert som Pedagogisk ansatt (fra Personal>Ansatt), og som ikke har undervisning denne timen, er valgbare.
 
-- Sletting av reservering
+Klikk på Lagre og lukk dersom reservasjonen bare skal gjelde for den valgte uken. Skal imidlertid reserevasjonen gjelde for flere uker, klikker du på Lagre, og huker av for øvrige uker reservasjonen skal gjelde for.
 
-Velg rom, og en uke hvor det er reistrert en reservering som en nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. Timen er avhuket for den timen som er valgt, og for alle andre uker som har samme markerte grunn. Nå kan du justere hvilke uker som det er aktuelt å slette. Ingenting slettes før du du trykker på Slett-knapppen. 
+Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her.
+
+- Sletting av reservering, gjelder både for Rom og for Rom med lærer reservert til rommet
+
+Velg rom, og en uke hvor det er reistrert en reservering som du nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. 
+Dersom det bare er denne reservasjonen som skal slettes, gjøres det fra øvre del av skjermbildet, trykk da på Slett reservasjonen uke ... .
+
+Dersom reservasjonen for denne timen skal slettes for flere uker, markeres det på den nedre del av skjermbildet, før en klikker på Slett valgte uker.
