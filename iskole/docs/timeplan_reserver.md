@@ -70,7 +70,7 @@ Dersom det bare er denne reservasjonen som skal slettes, gjøres det fra skjermb
 
 Dersom reservasjonen for denne timen skal slettes for flere uker, markeres det på den nedre del av skjermbildet, før en klikker på Slett valgte uker.
 
-## Rom og lærer
+## Reserver Rom og lærer
 Timeplanlegger kan i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Lærer registrert her kan ikke ha undervisning på samme tid.
 Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen møtevirksomhet med navngitte deltakere i noen/alle uker.
 
