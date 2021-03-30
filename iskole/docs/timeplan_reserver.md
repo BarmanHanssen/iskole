@@ -26,11 +26,11 @@ Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og 
 
 - Registrering
 
-Velg lærer, og første uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises lærerens timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, lærerens øvrige timer er markert på blå bakgrunn, og kan selvsagt ikke reserveres.
+Velg lærer, og første uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises lærerens timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, lærerens timer i klasse- og gruppefag er markert på blå bakgrunn, og kan selvsagt ikke reserveres.
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. 
 
-Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er reservert eller timeplanlagt i noen uker for denne læreren, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard Grunn er *Reservert*
+Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er reservert eller timeplanlagt i noen uker for denne læreren, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt for klasse- eller gruppefag, kan ikke velges her. Standard Grunn er *Reservert*
 
 - Sletting av reservering
 
@@ -41,20 +41,24 @@ Dersom man ønsker å endre teksten for reservasjonen, kan en først notere ny t
 :::
 
 ## Reservere Rom 
-Timeplanlegger kan her reservere et rom, og dermed blokkere rommet for bruk for undervisning.
+Timeplanlegger kan her reservere et rom, og dermed blokkere rommet for undervisningsformål.
 Eksempler på når dette kan være aktuelt: Rommet er i en periode leid bort. Rommet skal brukes av andre enn skolens lærere. Stengt for bruk til undervisning.
 
 :::note Merk
-Reservering av rommet fra dette valget kan gjøres av timeplanlegger, ikke av lærerne fra Mine side>Timeplan>Rom. Likeså kan endringer registrert her bare gjøres av timeplanlegger herfra. 
+Rektor kan gi noen/alle lærere tilgang til selv å reservere rom til seg selv. Lærerne kan da reservere rom fra Mine sider>Timeplan>Rom uavhengig av egen timeplan. Altså kan de reservere et rom selv om de har undervining på samme tid i et annet rom. Timeplanlegger kan slette en reservasjon gjort av en lærer, men en lærer kan ikke slette en reservasjon gjort av timeplanlegger.
 :::
 
-Hvilke rom som er reservert herfra, vil fra Mine sider bare vises på timeplanen til rommet.
+Hvilke rom som er reservert herfra, vil fra Mine sider bare vises på timeplanen til rommet. Rom reservert av lærer fra Mine sider vil også vises på lærerens timeplan.
 
 - Registrering
 
-Først velger man rom, og hvilken uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, øvrige timer hvor rommet alt er opptatt, kan selvsagt ikke reserveres.
+Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en ny reservasjon.
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til det valgte rommet for hele skoleåret for akkurat den timen som er valgt.
+![image](https://user-images.githubusercontent.com/80097133/112967465-94cd7680-914b-11eb-9c4f-9973b84b06e7.png)
+
+
+
 
 Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard Grunn er *Reservert*
 
