@@ -13,7 +13,7 @@ Reservering av et rom innebærer at rommet ikke er tilgjengelig når timeplanen 
 
 Reservering av rom og lærer innebærer at de involvert lærere ikke kan ha undervisning på samme tid. En slik reservering vises også på lærerens timeplan
 
-## Reserver Lærer
+## Reservere lærer
 Benyttes hovedsaklig før skolens timeplan skal legges. Reservasjonen betyr at læreren ikke skal/kan ha undervsning en bestemt time. En reservasjon blokkerer for all annen timeplanlagt aktivitet for denne læreren.
 
 Noen benytter reservasjonen for å markere at læreren skal i møte, eller at læreren skal han undervisning med en enkeltelev. Greit nok, men prøv heller dette: 
@@ -30,7 +30,7 @@ Velg lærer, og første uke reservasjonen skal gjelde for. Når dette valget er 
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. 
 
-Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er reservert eller timeplanlagt i noen uker for denne læreren, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt for klasse- eller gruppefag, kan ikke velges her. Standard Grunn er *Reservert*
+Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er reservert eller timeplanlagt i noen uker for denne læreren, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt for klasse- eller gruppefag, kan ikke velges her. Standard _Grunn_ er *Reservert*
 
 ### Sletting av reservering
 
@@ -40,7 +40,7 @@ Velg lærer, og en uke hvor det er reistrert en reservering som en nå ønsker �
 Dersom man ønsker å endre teksten for reservasjonen, kan en først notere ny tekst i tekstfeltet oppe i venstre hjørne, markere hvilke uker tekstendring skal gjelde for før en trykker på Lagre-knappen.
 :::
 
-## Reservere Rom 
+## Reservere rom 
 Timeplanlegger kan her reservere et rom, og dermed blokkere rommet for undervisningsformål.
 Eksempler på når dette kan være aktuelt: Rommet er i en periode leid bort. Rommet skal brukes av andre enn skolens lærere. Stengt for bruk til undervisning.
 
@@ -60,7 +60,7 @@ Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et tod
 
 Her kan du taste inn _Grunn_ for reserveringen. Reservere lærer til rommet er her ikke aktuelt, så da klikker du på _Lagre og lukk_ dersom reservasjonen bare skal gjelde for valgte uke. Skal imidlertid reserevasjonen gjelde for flere uker, klikker du på _Lagre_. Deretter huker du av for øvrige uker reservasjonen skal gjelde for og klikker _Kopier uke ... til valgte uker_.
 
-Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under _Grunn_. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard grunn er *Reservert*
+Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under _Grunn_. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard _Grunn_ er *Reservert*
 
 ### Sletting av reservering
 
@@ -69,7 +69,7 @@ Dersom det bare er denne reservasjonen som skal slettes, gjøres det fra øvre d
 
 Dersom reservasjonen for denne timen skal slettes for flere uker, markeres det på den nedre del av skjermbildet, før en klikker på _Slett valgte uker_.
 
-## Reserver Rom og lærer
+## Reserver rom og lærer
 Timeplanlegger kan i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Lærer registrert her kan ikke ha undervisning på samme tid.
 Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen møtevirksomhet med navngitte deltakere i noen/alle uker.
 
@@ -91,7 +91,7 @@ Her kan du taste inn _Grunn_ for reserveringen. Deretter kan du legge til lærer
 
 Klikk på _Lagre og lukk_ dersom reservasjonen bare skal gjelde for den valgte uken. Skal imidlertid reserevasjonen gjelde for flere uker, klikker du på _Lagre_. Deretter huker du av for øvrige uker reservasjonen skal gjelde for og klikker _Kopier uke ... til valgte uker_. Uker som allerede er båndlagt, kan ikke velges her.
 
-### Sletting av reservering, gjelder både for Rom og for Rom med lærer reservert til rommet
+### Sletting av reservering gjelder både for _Rom_ og for _Rom med lærer_
 
 Velg rom, og en uke hvor det er reistrert en reservering som du nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. 
 Dersom det bare er denne reservasjonen som skal slettes, gjøres det fra øvre del av skjermbildet, trykk da på _Slett reservasjonen uke ..._.
