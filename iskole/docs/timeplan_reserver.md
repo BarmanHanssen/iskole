@@ -56,7 +56,7 @@ Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timepla
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde. Du skal nå se på den første halvdelen av skjermen:
 
-![image](https://user-images.githubusercontent.com/80097133/112967465-94cd7680-914b-11eb-9c4f-9973b84b06e7.png)
+![Reserver rom](/iskole/img/timeplan_reserver_rom.png)
 
 Her kan du taste inn _Grunn_ for reserveringen. Reservere lærer til rommet er her ikke aktuelt, så da klikker du på _Lagre og lukk_ dersom reservasjonen bare skal gjelde for valgte uke. Skal imidlertid reserevasjonen gjelde for flere uker, klikker du på _Lagre_. Deretter huker du av for øvrige uker reservasjonen skal gjelde for og klikker _Kopier uke ... til valgte uker_.
 
@@ -85,7 +85,7 @@ Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timepla
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde. Du skal nå se på den første halvdelen av skjermen:
 
-![image](https://user-images.githubusercontent.com/80097133/112967465-94cd7680-914b-11eb-9c4f-9973b84b06e7.png)
+![Reserver rom](/iskole/img/timeplan_reserver_rom.png)
 
 Her kan du taste inn _Grunn_ for reserveringen. Deretter kan du legge til lærere ved å _Legg til_ i høyre del av bildet. Det vises nå et nytt dialogvindu med en tabell, du kan søke etter ansatte ved å skrive i tekstfeltene øverst i kolonnene og klikke _Enter_-tasten. Bare personer som ikke har undervisning denne timen, er valgbare.
 
