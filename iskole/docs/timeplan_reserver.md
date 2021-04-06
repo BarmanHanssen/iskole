@@ -102,4 +102,4 @@ Merk:
 
 ![image](https://user-images.githubusercontent.com/80097133/113689241-652de980-96ca-11eb-9e13-10c576b3709d.png)
 
-Dersom lærer har reservert ekstra rom, altså et rom i tillegg til der han har undervisning, så markeres det med egen farge, se figuren. Timeplanlegger kan slette denne reservasjonen. Men timeplanlegger kan ikke reservere et ekstra-rom til læreren når læreren har undervisning.
+Dersom lærer har reservert ekstra rom (fra Mine sider>Timeplan>Rom), altså et rom i tillegg til der han har undervisning, så markeres det med egen farge, se figuren. Timeplanlegger kan slette denne reservasjonen. Men timeplanlegger kan ikke reservere et ekstra-rom til læreren når læreren har undervisning.
