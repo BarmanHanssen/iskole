@@ -97,3 +97,9 @@ Velg rom, og en uke hvor det er reistrert en reservering som du nå ønsker å s
 Dersom det bare er denne reservasjonen som skal slettes, gjøres det fra øvre del av skjermbildet, trykk da på _Slett reservasjonen uke ..._.
 
 Dersom reservasjonen for denne timen skal slettes for flere uker, markeres det på den nedre del av skjermbildet, før en klikker på _Slett valgte uker_.
+
+Merk:
+
+![image](https://user-images.githubusercontent.com/80097133/113689241-652de980-96ca-11eb-9e13-10c576b3709d.png)
+
+Dersom lærer har reservert ekstra rom, altså et rom i tillegg til der han har undervisning, så markeres det med egen farge, se figuren. Timeplanlegger kan slette denne reservasjonen. Men timeplanlegger kan ikke reservere et ekstra-rom til læreren når læreren har undervisning.
