@@ -4,9 +4,9 @@ title: Timeplanlegge klasse
 sidebar_label: Timeplanlegge klasse
 ---
 
-Timeplanen for en klasse skal inneholde all organisert undervisning som alle elevene som er registrert i klassen skal delta i. Unntak kan være: Enkeltelever som er fritatt i ett eller flere fag, eller eventuelt har spesialoppfølging i deler av fag. Disse unntak får ingen innvirkning for timeplanlegger i arbeidet med å sette opp klassens timeplan.
+Timeplanen for en klasse skal inneholde all organisert undervisning som alle elevene i klassen skal delta i. Unntak kan være: Enkeltelever som er fritatt i ett eller flere fag, eller eventuelt har spesialoppfølging i deler av fag. Slike unntak får ingen innvirkning for timeplanlegger i arbeidet med å sette opp klassens timeplan. Benevnelsen klassefag, obligatorisk fag og fellesfag er synonyme betegnelser. Vi benytter oftes klassefag.
 
-Dersom elevene i klassen kan velge fag som utover det som hele klassen er satt opp med, altså også kan velge gruppefag, vil dette normalt gi begrensninger for oppsettet av klassens timeplan. Det vil i praksis innebære at noen timer blir reservert for undervisning i gruppefag, og i disse timene kan da ikke klassen ha undervisning i klassens obligatoriske fag. Vi ser her bort fra denne mulighet, og henviser til egne avsnitt om gruppefag. Se veiledningen som du finner ved å laste pdf-filen fra lenken oppe i høyrehjørne.
+Dersom elevene i klassen kan velge fag utover det som hele klassen er satt opp med, klassifiserer vi slike fag som gruppefag. Gruppefag gir naturlig nok begrensninger for oppsettet av klassens timeplan. Timeplanen for klassefag kan ikke kollidere med et gruppefag som en elev i klassen har valgt. Det er av den grunn naturlig først å fastsette når gruppefagene skal ha sine timer før en starter med timeplanleggingen av klassefagene. Vi ser her bort fra slike begrensinger, og henviser til egne avsnitt om gruppefag for hvordan dette kan håndteres. Se veiledningen som du finner ved å laste pdf-filen fra lenken oppe i høyrehjørne.
 
 :::tip Tips
 Ved oppsett av timeplan for nytt skoleår bør en velge første uke i skoleåret som mal. Dette er et gunstig utgangspunkt da timeplan bare kan kopieres fremover i tid.
