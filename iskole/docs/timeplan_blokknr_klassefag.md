@@ -29,7 +29,7 @@ Dersom blokknumrene er timeplanlagt (punkt 3), det innebærer at man har bestemt
 - Bekreft valget med Lagre
 
 ## Etterord
-Når elevenes valg er på plass (se punkt 1 til 3), er egentlig valget med Tildelte blokknr overfødig. Dersom man nå trykker på Benytt minste utvalg, vil systemet selv liste opp hvilke blokknr som inngår for alle elevene i klassen ut fra elevenes valg av gruppefag. Man kan, om man vil, fjerne alle blokknr under Tildelte blokknr. Under timeplanlegging av klassefag, vil systemet automatisk kontrollere mot minste utvalg.
+Når elevenes valg er på plass (se punkt 1 til 3), er egentlig valget med Tildelte blokknr overflødig. Dersom man nå trykker på Benytt minste utvalg, vil systemet selv liste opp hvilke blokknr som inngår for alle elevene i klassen ut fra elevenes valg av gruppefag. Man kan, om man vil, fjerne alle blokknr under Tildelte blokknr. Under timeplanlegging av klassefag, vil systemet automatisk kontrollere mot minste utvalg.
 
 :::note Tips
 Bokknr registrert under Tildelt blokknr for klasse overstyrer elevens valg av gruppefag når klassefagene skal timeplanlegges. Altså kan en blokkere for klassefag selv om ingen elev skal ha undervisning akkurat da. Kan benyttes for eksempel for å legge inn en felles fritime for alle elever i en klasse. Eksempelvis kan man legge inn midt-timen (spisetid?) slik at ikke alle skolens klasser  har samme tid for midt-timen. Denne metoden kan benyttes, selv om klassen ikke har gruppefag.
