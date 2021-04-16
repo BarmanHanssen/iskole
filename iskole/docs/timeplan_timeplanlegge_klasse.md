@@ -26,10 +26,10 @@ Her er listet opp alle fagene som klassen er satt opp med (se Grunnlagsdata>Fag>
 - En timeplanlagt time kan fjernes fra timeplanen ved å høyreklikke på timen. 
 - Det er mulig å legge til fag direkte herfra (se Legg til). Forutsetningen er at faget er finns (se Grunnlagsdata>Fag>Klassefag).
 
-Under listen med fag finner man en nedtrekksliste med romnummer. Alle disponible undervisningsrom skolen disponerer er registrert fra Grunnlagsdata>Rom. Merk at dersom klassen har fått tildelt rom fra Grunnlagsdata>Rom, vil klassens rom være forhåndsvalgt når klassefagene timeplanlegges. Det er mulig å endre dette romnummer, eventuelt legge inn fritt romnummer dersom klassen ikke har fått tildelt rom. Før timen lagres, vil systemet kontrollere at rommet er ledig. 
+Under listen med fag finner man en nedtrekksliste med romnummer. Alle disponible undervisningsrom skolen disponerer er registrert fra Grunnlagsdata>Rom. Merk at dersom klassen har fått tildelt rom fra Grunnlagsdata>Klasse, vil klassens rom være forhåndsvalgt når klassefagene timeplanlegges. Det er mulig å endre dette romnummer, eventuelt legge inn fritt romnummer dersom klassen ikke har fått tildelt rom. Før timen lagres, vil systemet kontrollere at rommet er ledig. 
 
 ## Timeplan klasse ST1A
-Her vises hvilke timer som alt er plassert, her to timer i NAT, og en time i ENG (mandag kl 8:15). Videre ser vi at faget ENG er markert under Fag. Det har fått tildelt en rosa farge, og denne fargen tas med når timene i faget plasseres. Det blir dermed lett å få oversikten som trengs for at timene kan fordeles over ukens dager.
+Her vises hvilke timer som alt er plassert, her to timer i NAT, og en time i ENG (mandag kl 8:15). Videre ser vi at faget ENG er markert under Fag. Det har fått tildelt en rosa farge, og denne fargen tas med når timene i faget plasseres. Det blir dermed lett å få oversikten som trengs for å fordele timene over ukens dager.
 
 Dersom man ønsker en dobbel-time på mandag, klikker man på timen i dette vinduet. Timen plasseres da der, og vinduet for Fag og for Timeplan lærer oppdateres. Tilsvarende plasseres øvrige timer i faget helt til Gjenstår viser tallet null. 
 
@@ -40,7 +40,7 @@ Vi ser at hele torsdag, med unntak av første time, er uten fargemarkering. Det 
 Ut fra dette skjønner en umiddelbart at det ikke er en god ide å timeplanlegge en hel klasse før faglærerne er på plass!
 
 ## Timeplan lærer
-Når en velger et Fag som har fått tildelt lærer, vises automatisk timeplanen til denne læreren i dette skjermbildet. Timeplanen for klassen oppfriskes også, da allerede lagte timer i valgte fag markeres med fagets farge fra Fag. Ledige timer i klassens timeplan hvor læreren alt er opptatt med annen undervisning, og som derfor ikke kan benyttes i klassen i faget som nå skal timeplanlegges, blir blanket ut tilsvarende som for timene på torsdag i skjermbildet ovenfor.
+Når en velger et Fag som har fått tildelt lærer, vises automatisk timeplanen til denne læreren i dette skjermbildet. Timeplanen for klassen oppfriskes også, da allerede lagte timer i valgte fag markeres med fagets fargen fra Fag. Ledige timer i klassens timeplan hvor læreren alt er opptatt med annen undervisning, og som derfor ikke kan benyttes i klassen i faget som nå skal timeplanlegges, blir blanket ut tilsvarende som for timene på torsdag i skjermbildet ovenfor.
 
 ## Vis timeplanen til disse ansatte
 I noen tilfeller kan det være greit å ha oversikt over timeplanen til flere lærere enn bare den som nå har fokus. De utvalgte ekstra-lærerne timeplanen vises da sammen med timeplanen til faglæreren i skjermbildet til Timeplan lærer.
