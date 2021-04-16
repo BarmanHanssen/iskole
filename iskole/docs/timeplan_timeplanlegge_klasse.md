@@ -19,7 +19,8 @@ Ved oppsett av timeplan for nytt skoleår bør en velge første uke i skoleåret
 Skjermen for timeplanlegger er inndelt i fire separate deler som beskriver forskjellige deler av datasettet en timeplanlegger må forholde seg til. Sluttresultatet blir timeplanen for en angitt klasse (her ST1A) i uke 20 (her angitt som 2020-20).
 
 ## Fag
-Her er listet opp alle fagene som klassen er satt opp med (se Grunnlagsdata>Fag>Klassefag), og med faglærerne i det enkelte fag (se Time- og fagfordeling>Klassefag).  - Man kan endre antall timer for et fag i denne uken (via blyant-ikonet bak faget). 
+Her er listet opp alle fagene som klassen er satt opp med (se Grunnlagsdata>Fag>Klassefag), og med faglærerne i det enkelte fag (se Time- og fagfordeling>Klassefag). 
+- Man kan endre antall timer for et fag i denne uken (via blyant-ikonet bak faget). 
 - Dersom faget ikke skal ha timer i denne uken, reduseres timetallet til null. 
 - Dersom noen fag allerede er timeplanlagt, vises antallet timeplanlagte timer i kolonnen TP-lagt. Her gjeldet det kun faget NAT, som skal ha 6 timer, hvorav 2 timer er lagt på tirsdag. Vi ser da at 4 timer Gjenstår i faget. 
 - En timeplanlagt time kan fjernes fra timeplanen ved å høyreklikke på timen. Det er mulig å legge til fag direkte herfra (se Legg til). Forutsetningen er at faget er finns (se Grunnlagsdata>Fag>Klassefag).
