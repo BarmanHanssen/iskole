@@ -46,11 +46,10 @@ Når en velger et Fag som har fått tildelt lærer, vises automatisk timeplanen 
 I noen tilfeller kan det være greit å ha oversikt over timeplanen til flere lærere enn bare den som nå har fokus. De utvalgte ekstra-lærerne timeplanen vises da sammen med timeplanen til faglæreren i skjermbildet til Timeplan lærer.
 
 ## Timeplanlegge klasse>Kopier
-:::note Merk
+
 Vanligste måte å kopiere timeplan på er fra hovedmenyvalget Timeplan>Kopier. Kopieringen gjøres gjerne når hele timeplanen for skolen er ferdigstilt. Da tas den da ferdige timeplan for hele skolen og kopieres fremover til et fritt valg antall uker (ofte: hele skoleåret).
-:::
 
 Å kopiere timeplanen for en separat klasse kan være påkrevd dersom det skjer endringer i klassens timeplan etter at skolens samlede timeplan alt er på plass. Timeplanen for de øvrige klasser kan være ulik den som gjelder for denne uken. Å kopiere en enkelt klasses timeplan krever derfor omfattende kontroller for å fastslå at timeplanen kan implementeres uten at klassens nye timeplan kommer i konflikt med noen av de andre timeplanene.
 
-På e hvilket som helst tidspunkt under timeplanleggingen kan resultatet kopieres fremover til angitte uker. Dersom det blir ønskelig, eller påkrevd, å gjøre endringer i en allerede gjeldene timeplan, og endringen skal gjelde for mere enn uken hvor en gjør korrigeringen, da har man behov for å få den nye timeplanen distribuert. Merk at dersom det bare er snakk om at et fag skal skifte faglærer, men uten endring av timene på timeplanen, så gjøres dette fra Time- og fagfordeling>Klassefag. Der kan man endre faglærer for de ukene dette måtte være aktuelt.
+På et hvilket som helst tidspunkt under timeplanleggingen kan resultatet kopieres fremover til angitte uker. Dersom det blir ønskelig, eller påkrevd, å gjøre endringer i en allerede gjeldene timeplan, og endringen skal gjelde for mere enn uken hvor en gjør korrigeringen, da har man behov for å få den nye timeplanen distribuert. Merk at dersom det bare er snakk om at et fag skal skifte faglærer, men uten endring av timene på timeplanen, så gjøres dette fra Time- og fagfordeling>Klassefag. Der kan man endre faglærer for de ukene dette måtte være aktuelt.
 
