@@ -33,10 +33,5 @@ module.exports = {
       label: 'Emner',
       items: ['timeplanlegging','plagiatkontroll'],
     },
-    {
-      type: 'category',
-      label: 'Docusaurus',
-      items: ['doc1', 'doc2', 'doc3'],
-    },
   ],
 };
