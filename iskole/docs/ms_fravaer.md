@@ -25,6 +25,10 @@ Fagfravær kan føres med to ulike visninger, _Full_ og _Komprimert_. Den kompri
 ### Fullvisning
 Kontroller at du står på rett uke. Fraværsføringen er knyttet sammen med timeplanen. Du vil derfor kun ha mulighet til å føre fravær i de timene faget er timeplanlagt. Gyldige verdier er F for fravær og S for forsentkomming. For private skoler skal det føres M for å dokumentere at eleven har møtt til undervisning og vært til stede og O for organisert studiearbeid. Timene i tabellen vil være markert med - hvis eleven ikke har undervisning. Annet fravær vil være synlig i tabellen, men kan ikke endres her. Siste raden i tabellen dokumenterer om undervisningen er blitt gjennomført. 
 
+:::tip Tips
+Når du står i et tekstfelt, kan du klikke "_Enter_"-tasten for å flytte markøren til feltet nedenfor. 
+:::
+
 1. Timen er avholdt
 2. Timeplanlagt time mistet på grunn av læreplanrelaterte aktiviteter i andre fag eller
 3. Timeplanlagt time mistet av andre grunner.
@@ -47,3 +51,22 @@ Merknader for dag kan fortelle hvorfor en elev er borte. Kanskje har eleven meld
 Hvis det er andre lærere som er involvert i faget og du ønsker at disse skal ha mulighet til å føre fravær, legges disse til her. Når du klikker _Legg til_ åpnes et dialogvindu med en tabell over andre ansatte. Du kan søke ved å skrive inn hele eller deler av navnet øverst i kolonnen og trykke _Enter_-tasten.
 
 
+### Komprimert visning
+Den komprimerte visningen er tenkt brukt på enheter med mindre skjermer, gjerne med touch-skjerm. Her vil kun fagets timer vises og fraværet føres ved å velge verdi fra en nedtrekksliste. 
+
+#### Orden- og atferdsvurdering
+Snarvei til _Vurderinger > "Fag" > Orden- og Atferdsvurderinger_ for faget.
+
+## Klager
+Hvis en elev er uenig i fraværet som er ført, så har de mulighet til å registere en klage. Man kan velge å akseptere klage eller å avvise den. Det gjøres ved tre ulike valg.
+
+- _Aksepter_ klagen tas til følge, dvs. fraværet endres til typen angitt i klagen, og klagen slettes.
+- _Avvis_ avvises klagen og den slettes fra klagelisten. Det går en melding til eleven med innhold som vist under.
+- _Avvis m/grunn_ gjør det samme som valget overnfor, men standardteksten kan endres før den sendes til eleven.
+
+>Emne: Klage på ført fravær er avvist
+>
+>Melding		
+>Din klage der du hevder (fraværstype) (dag) (time). time den (dato) er avvist. Ta kontakt hvis du ikke er enig. Vennlig hilsen _Ditt Navn_
+
+Teksten inni parentesene er variabler som byttes ut med verdier fra klagen i meldingen.
