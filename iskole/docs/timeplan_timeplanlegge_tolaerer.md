@@ -17,6 +17,7 @@ Nå vises timeplanen for tolæreren, og for tolærerfaget som er valgt.
 - Tolærerfagets timer viese på rød bakgrunn der tolæreren allerede er timeplanlagte, og på grønn bakgrunn dersom timen er ledig for tolæreren. 
 - Dersom allerede lagt tolærertime (gjelder fag på rød bakgrunn) skal slettes: Høyreklikk på faget, og velg Slett.
 - Dersom tolæreren skal ha eget rom: Høyreklikk på faget, og velg Rom. Du kan da velge fra en liste med ledige rom for denne timen.
+
 :::note Merk
 Dersom tolærerfaget har tegnet + bak kortnavnet (her BY1C TOB+) viser det at faget har mer enn en tolærer. Dette ses også fra tabellen til venstre, da faget BY1C TOB kommer på to linjer. For tolærerfaget er også romnummeret tatt med. Dersom tolæreren skal ha eget rom, altså ikke være på samme sted som faglærer, kommer faget dobbelt fra. På onsdag 12:15 er altså både Fsal og U15 båndlagt for faget TOB.
 ::::
