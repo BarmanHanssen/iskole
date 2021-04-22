@@ -66,7 +66,7 @@ Hvis en elev er uenig i fraværet som er ført, så har de mulighet til å regis
 
 >Emne: Klage på ført fravær er avvist
 >
->Melding		
+>Melding:  	
 >Din klage der du hevder (fraværstype) (dag) (time). time den (dato) er avvist. Ta kontakt hvis du ikke er enig. Vennlig hilsen _Ditt Navn_
 
 Teksten inni parentesene er variabler som byttes ut med verdier fra klagen i meldingen.
