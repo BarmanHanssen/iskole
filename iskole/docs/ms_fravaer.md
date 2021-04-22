@@ -70,3 +70,13 @@ Hvis en elev er uenig i fraværet som er ført, så har de mulighet til å regis
 >Din klage der du hevder (fraværstype) (dag) (time). time den (dato) er avvist. Ta kontakt hvis du ikke er enig. Vennlig hilsen _Ditt Navn_
 
 Teksten inni parentesene er variabler som byttes ut med verdier fra klagen i meldingen.
+
+## Elevers egenmeldinger
+Elever har adgang til å melde inn dag- og timefravær. Kontaktlærer får egenmeldinger både for dag og time, mens faglærer får egenmeldinger knyttet til sine timer. Egenmeldinger er ment å benyttes til å melde inn fravær før skoledagen starter, men det kan også meldes inn etter fraværet har vært for å dokumentere årsaken til fraværet. Elevers egenmeldinger vises to lister henholdsvis med overskriftene _Elevers egenmeldinger (dag)_ og _Elevers egenmeldinger (time)_. For dagfravær vises dato for dagfraværet, om det allerede er registert fravær, en melding fra eleven, elevens navn samt når egenmeldingen ble registrert. 
+
+For timefravær gjelder samme prinsipp som for dagfravær med den forskjellen at det i tillegg er en kolonne for time. Det vises egenmeldinger for fravær inntil en uke etter datoen er passert.
+
+### Behandle egenmelding
+Vinduet for behandling er delt i tre deler. Først vises elevens egenmelding med eventuell opplastet dokumentasjon, etterfulgt av eventuelt allerede ført fravær og til slutt det man vil bli ført ved å godkjenne egenmeldingen. Verdiene vil være forhåndsutfylt basert på elevens egenmelding, men det kan være behov for å gjøre endringer. Kanskje skal fraværstypen endres fra D til I eller krysset _Dokumentert jf §3-3_ krysses av, dersom dokumentasjonen viser dette.
+
+![Egnemelding dagfravær](/iskole/img/ms_fravaer_egenmelding.png 'Egnemelding dagfravær')
