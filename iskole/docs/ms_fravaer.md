@@ -57,6 +57,7 @@ Den komprimerte visningen er tenkt brukt på enheter med mindre skjermer, gjerne
 #### Orden- og atferdsvurdering
 Snarvei til _Vurderinger > "Fag" > Orden- og Atferdsvurderinger_ for faget.
 
+
 ## Klager
 Hvis en elev er uenig i fraværet som er ført, så har de mulighet til å registere en klage. Man kan velge å akseptere klage eller å avvise den. Det gjøres ved tre ulike valg.
 
@@ -71,12 +72,35 @@ Hvis en elev er uenig i fraværet som er ført, så har de mulighet til å regis
 
 Teksten inni parentesene er variabler som byttes ut med verdier fra klagen i meldingen.
 
+
+
 ## Elevers egenmeldinger
-Elever har adgang til å melde inn dag- og timefravær. Kontaktlærer får egenmeldinger både for dag og time, mens faglærer får egenmeldinger knyttet til sine timer. Egenmeldinger er ment å benyttes til å melde inn fravær før skoledagen starter, men det kan også meldes inn etter fraværet har vært for å dokumentere årsaken til fraværet. Elevers egenmeldinger vises to lister henholdsvis med overskriftene _Elevers egenmeldinger (dag)_ og _Elevers egenmeldinger (time)_. For dagfravær vises dato for dagfraværet, om det allerede er registert fravær, en melding fra eleven, elevens navn samt når egenmeldingen ble registrert. 
+Elever har adgang til å melde inn dag- og timefravær. Kontaktlærer får egenmeldinger både for dag og time, mens faglærer får egenmeldinger knyttet til sine timer. Egenmeldinger er ment å benyttes til å melde inn fravær før skoledagen starter, men det kan også meldes inn etter fraværet har vært for å dokumentere årsaken til fraværet. Elevers egenmeldinger viser to lister henholdsvis med overskriftene _Elevers egenmeldinger (dag)_ og _Elevers egenmeldinger (time)_. For dagfravær vises dato for dagfraværet, om det allerede er registert fravær, en melding fra eleven, elevens navn samt når egenmeldingen ble registrert. 
 
 For timefravær gjelder samme prinsipp som for dagfravær med den forskjellen at det i tillegg er en kolonne for time. Det vises egenmeldinger for fravær inntil en uke etter datoen er passert.
 
 ### Behandle egenmelding
 Vinduet for behandling er delt i tre deler. Først vises elevens egenmelding med eventuell opplastet dokumentasjon, etterfulgt av eventuelt allerede ført fravær og til slutt det man vil bli ført ved å godkjenne egenmeldingen. Verdiene vil være forhåndsutfylt basert på elevens egenmelding, men det kan være behov for å gjøre endringer. Kanskje skal fraværstypen endres fra D til I eller krysset _Dokumentert jf §3-3_ krysses av, dersom dokumentasjonen viser dette.
 
+:::note Merk
+Dersom egenmeldingen er meldt inn av en forelder, så vil dette vises i feltet _Ført av_.
+:::
+
+
 ![Egnemelding dagfravær](/iskole/img/ms_fravaer_egenmelding.png 'Egnemelding dagfravær')
+
+
+## Heldagsprøver
+Hvis du oppretter en prøve i faget med 1 dags varighet, vil dette regnes som en heldagsprøve. Du kan da velge en prøve og huke av de elevene som ikke var tilstede på prøven. Dette vil da regnes som dagfravær.
+
+
+## Sum fravær kontaktelever
+Tabellen gir en oversikt over antall dager og timer kontaktelevene har vært borte i første og andre halvår. Hvis noen av dagene er registrert med I og ikke skal med på vitnemålet, vil disse vises i parantes  bak antall dager. Vær oppmerksom på at første tallet viser totalt antall dager med fravær, så tallet i parantes skal ikke legges til dette. For å føre fravær på kontaktelever, klikk _Rediger_ i kolonnen _Behandle_. Hver dag i valgt uke vil vise _Dagfravær_ og _Merknad_, (Dagmerknad) etterfulgt av en tabell med de timene eleven har denne dagen. Det er altså ikke mulig å føre fravær på en time eleven ikke har registrert undervisning. For gyldige verdier, se oversikten øverst på siden. For private skoler kan det føres M for å dokumentere at eleven har møtt og vært til stede. Det er faglærerne som i hovedsak førerer timefraværet. Det er kun kontaktlæreren som har mulighet til å føre dagfravær. Kontaktlærer kan også markere at fraværet er dokumentert. Dette gjøres tilsvarende som for fravær, bare at det er en avkrysningsboks med feltnavn _Helse/velferd_ som benyttes. 
+
+Fraværsoversikt er en totaloversikt over elevens fravær hele skoleåret. 
+
+For at kontaklæreren raskere skal kunne før dagfravær på alle kontaktelevene for en uke, kan lenken _Behandle dagfravær/dagmerknad for alle kontaktelevene_ benyttes. Her listes alle elevene og eventuelt fravær og forsentkomming vises for hver enkelt time. Å huke av en dag på en elev, er det samme som å føre D. Timer med - betyr at eleven ikke har undervisning, dette gjør det enklere å avgjøre om eleven har vært borte hele dagen. Man kan også her legge til dagmerknader, velg en elev, riktig dato, skriv en merknad og klikk _Lagre_. Kvitteringsoversikt for involverte lærere viser alle fagene med faglærer, hvor alle kontaktelevene er innvolvert. Kolonnen _Kvittert_ viser når faglæreren sist lagret fraværet.
+
+
+## Avslutt fraværsføring
+Når en termin er ferdig, skal fraværet overføres til karakterdokumentesjonen. For å avslutte første halvår, klikk _Sluttfør 1. halvår_. De elevene som har avvik mellom det som skal komme på karakterdokumentasjonen og det fraværet som er registrert, vil automatisk være avhuket. Klikk _Lagre_ for å overføre fraværet. Det er mulig å gjøre dette flere ganger.
