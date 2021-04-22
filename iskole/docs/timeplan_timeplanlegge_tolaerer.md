@@ -16,7 +16,6 @@ Nå vises timeplanen for tolæreren, og for tolærerfaget som er valgt.
 Tolærerfagets timer viese på rød bakgrunn der tolæreren allerede er timeplanlagte, og på grønn bakgrunn dersom timen er ledig for tolæreren. 
 Fagene på blå bakgrunn er andre fag som tolærer allerede er tildelt.
 
-:::note Merk
+::: note Merk
 Dersom tolærerfaget har tegnet + bak kortnavnet (her BY1C TOB+) viser det at faget har mer enn en tolærer. Dette ses også fra tabellen til venstre, da faget BY1C TOB kommer på to linjer.
-
 ::::
