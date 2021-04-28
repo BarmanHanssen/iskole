@@ -102,6 +102,14 @@ Denne rapporten er for kontaktlærer. Rapporten lister alle fagsamtalene elevene
 Lister alle fagsamtale elevene har hatt i det valgte faget.
 
 ## Karakterer
+### Karakterutskrift
+Denne rapporten er for kontaktlærer. Den gir karakterutskrift for de valgte elevene. Karakterutskriften inneholder karakterer for 1. halvår, 2. halvår, standpunkt og eksamen. Den summerer omfang, regner ut gjennomsnittskarakter, viser fravær og karakter i orden og atferd. Fraværet som vises her er det som er sluttført fra menyvalget _Fravær_.
+
+### Underveisvurding i fag
+Denne rapporten lister alle elevene i faget, karakter for 1. halvår, 2. halvår og standpunkt. Den viser også karakterer på prøver og enkeltvurderinger.
+
+### Eksamenskarakterer
+Rapporten lister standpunkt- og eksamenskarakterer for kontaktelevene i de fagene elevene har hatt eksamen.
 
 ## Foto
 
