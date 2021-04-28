@@ -32,6 +32,9 @@ Fravær registrert som organisert studiearbeid (coronafravær) for kontaktelever
 1. Alt fravær
 Rapporten tar med alt fravær, men man må sette inn avgrensninger som fra- og tildato, og hvor mye fravær i prosent man elevene minst må ha for å bli tatt med. Lar man prosenten stå åpen tas alle med. Rapporten kan også sorteres enten etter klasse og navn eller antall timer fravær. Rapporen kan tas ut enten summert eller detaljert. Den detaljerte viser alt fravær for hver kontaktelev, hvor eventuelle merknader ført på dag eller time er inkludert. Det er også en kolonne som angir om fraværet er dokumentert som helse-/velferdsfravær.
 
+#### Sist endret
+Det er to rapporter, hvor den første viser dato for siste endring av fagfravær for kontaktlærerens. Den andre rapporten viser dato for siste endring av fagfravær for lærere, hvor man kan velge lærer i en nedtrekksliste.
+
 ### Orden og atferd
 
 ### Varsel
