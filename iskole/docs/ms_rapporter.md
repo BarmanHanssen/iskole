@@ -25,15 +25,19 @@ De tre rapportene er for faglærerne. Rapporten "Fagfravær" inneholder fagfrav�
 Rapportene er for kontaktlærerne. 
 
 **Fravær i fag med fagkode, inkludert komponenter**
+
 Rapporten inneholder fagfravær, udokumentert fravær, avholde timer, timeplanlagte timer fordelt på 1. halvår og hele skoleåret for kontaktelever.
 
 **Udokumentert fravær**
+
 Fraværsprosenten beregnes utfra udokumenterte fraværstimer i forhold til fagets omfang gitt av Utdanningsdirektoratet. Gjelder for kontaktelever.
 
 **Organisert studiearbeid**
+
 Fravær registrert som organisert studiearbeid (coronafravær) for kontaktelever. Fraværet er summert for hele året.
 
 **Alt fravær**
+
 Rapporten tar med alt fravær, men man må sette inn avgrensninger som fra- og tildato, og hvor mye fravær i prosent man elevene minst må ha for å bli tatt med. Lar man prosenten stå åpen tas alle med. Rapporten kan også sorteres enten etter klasse og navn eller antall timer fravær. Rapporen kan tas ut enten summert eller detaljert. Den detaljerte viser alt fravær for hver kontaktelev, hvor eventuelle merknader ført på dag eller time er inkludert. Det er også en kolonne som angir om fraværet er dokumentert som helse-/velferdsfravær.
 
 #### Sist endret
