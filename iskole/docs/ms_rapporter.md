@@ -41,10 +41,10 @@ Det er to rapporter, hvor den første viser dato for siste endring av fagfravær
 #### Merknad og forsentkomming
 Rapportene viser merknader og forsentkomminger i valgt halvår. Halvåret velges først i en nedtrekksliste øverst i skjermbildet. Det står forhåndsvalgt til nåværende halvår. Det er mulig å ta ut rapporten enten for alle egne kontaktelever eller elever i egne fag.
 
-### Orden og atferd
-Rapporten lister ordens- og atferdskarakterer gitt alle kontaktelevene.
+#### Orden og atferd
+Rapporten lister ordens- og atferdskarakterer gitt alle kontaktelevene dette skoleåret. Den viser også årsmerknader.
 
-### Anmerkninger
+#### Anmerkninger
 Rapporten lister alle anmerkninger gitt alle kontaktelevene.
 
 
@@ -60,6 +60,23 @@ Rapporten lister de de varslene som er generert til sine kontaktelever. Listen i
 Rapporten gir oversikt over varselbrev sendt egne fag.
 
 ### Vurderinger
+1. Oversikt prøver
+Faglisten inneholder fag hvor det er gitt vurdering. Velg mellom alle
+terminer, 1. halvår eller 2. halvår. Rapporten viser alle elevene i faget, dato
+for prøvene og hvilken karakter elvene fikk.
+1. Resultater for elev
+Faglisten inneholder fag hvor det er gitt vurdering. Denne rapporten lister
+en og en elev i faget og viser fellesprøver og enkeltvurderinger. I PDF filen
+er det bokmerker til hver enkelt elev. I Adobe Reader tykker du F4 for å
+vise bokmerkene.
+1. Resultater på enkeltprøve
+Faglisten inneholder fag hvor det er gitt vurdering. Tabellen under faglisten
+viser de prøvene som er gitt i faget. Klikk Vis rapport bak prøven for å liste
+elevene med karakterer og kommentarer for denne prøven.
+1. Fagsamtaler kontaktelever
+Denne rapporten er for kontaktlærer. Rapporten lister alle fagsamtalene elevene har hatt.
+1. Fagsamtaler elever i fag
+Lister alle fagsamtale elevene har hatt i det valgte faget.
 
 ### Karakterer
 
