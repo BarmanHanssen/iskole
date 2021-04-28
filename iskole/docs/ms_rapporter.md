@@ -124,3 +124,35 @@ Alle ansatte listes med navn og bilde. Ved å trykke på knappen _Vis rapport_ v
 Man kan velge klasser i og ta ut fotorapporter for de valgte klassene. 
 
 ## Timeplan
+### Kontaktelever
+### Klasse
+### Finn ledig rom
+Kryss av når du har behov for et rom, velg hvilke rom du ønsker og klikke _Vis ledige rom_. Resultatlisten viser time for time en kommaseparert liste over de rommene som er ledige.
+### Prøver klasse
+Rapporten gir prøveoversikt for elever i klasser. Prøveoversikten er for hele skoleåret.
+### Felles fritimer lærere
+Velg uke og hvilke lærere som det skal søkes etter felles fritimer for. Rapporten viser da felles fritimer i en timeplan for uken, samt lister opp hvor de forskjellige er opptatt.
+
+## Ukeplan
+Hvis man har lagt inn ukeplaner under menyvalget _Års-/ukeplan_ vises ukeplanene for hele året vises i denne rapporten. Vær oppmerksom på at rapportverktøyet ikke støtter alle fonter. Hvis du får melding om at filen er ødelagt, gå til _Års-/ukeplan_ og endre teksten til ingen font eller _Times New Roman_.
+### Fag
+Denne rapporten lister ut årets ukeplaner for det valgte faget.
+### Klasse
+Denne rapporten lister ut ukeplaner i den valgte klassens fag for den valgte uken.
+
+## Navnelister
+### Ansatte
+### Klasselister
+### Faglister m/kontaktlærer
+## Personalia og godkjenning av elektronisk varsling
+
+
+## Samtykkeskjema
+
+## Ny giv (utgått)
+
+## Undervisning
+
+## Eget fravær
+
+## Internat
