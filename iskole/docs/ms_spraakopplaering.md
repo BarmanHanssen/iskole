@@ -18,7 +18,7 @@ I tabellen Sendt til vises sendeloggen. Det er mulig å sende brevet flere gange
 ### Lese brevene
 Elevene har tilgang til Brevene under menyvalget _Melding_ og arkfanen _Brev_. Rektor, administrator og anvasrlig for særskilt språkopplæring leser brevene fra dette menyvalget. For å se hvem som har fått brev generert, benytt tipset ovenfor for kolonnen _Antall_.
 
-:::note Merk 
+:::tip Merk 
 I kolonnen Antall kan du skrive >0 og trykke Enter-tasten for å vise
 alle elever med genererte vedtak. Når du søker etter Klasse kan du skrive
 «ST» for å vise alle klassene med «ST». For å vise både «ST» og «ID»,
