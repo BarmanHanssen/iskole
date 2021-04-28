@@ -54,3 +54,21 @@ I tabellen _Søknader_ klikk på blyanten i kolonnen _Behandle_ på raden til s�
 :::tip Tips
 Du laste ned søknaden så mange ganger du måtte ønske, så du kan trygt slette eventuelle nedlastinger på din maskin. Hvis vil gjøre endringer kan du gjøre ønskede endringer og laste ned søknaden på nytt. Når datoen er satt i feltet _Sendt_ vil det ikke være mulig å legge til/fjerne elever fra søknaden eller endre elevenes søknad.
 :::
+
+### Elevens IOP
+For å jobbe med elevens IOP velger du arkfanen _Elever_ og klikker _Vis elev_ helt til høyre på raden til eleven i tabellen _Elever_.
+Beskrivelse av skjermbildet:
+1. _IOP-Søknad_ viser søknadens status.
+2. _IOP-Dokumenter_ er dokumenter skolen har lastet opp. Vises kun for IOP-administratorer.
+3. _Elevnavn - IOP del 1_ Opprette/endre IOP-del 1 og visning/endring av IOPens status.
+4. _Logg_ viser logg hvor skolen kan legge inn fritekst.
+5. _Elevnavn - IOP del 2_ Elevens fag med fagstatus _Spesialundervisning_ inkl. status for lærerens arbeid.
+6. _Kompetansemål og vurdering_ viser kompetansemål og vurderinger knyttet til faget valgt i tabellen ovenfor.
+
+#### IOP-søknad
+**Registrert** Skolen har opprettet søknaden.
+**Venter på godkjenning** Skolen har gjort søknaden tilgjengelig for elev og foreldre og venter på at søknaden skal godkjennes.
+**Godkjent** Eleven/foreldrene har godkjent at skolen sender søknaden.
+**Under behandling** Elevens søknad er knyttet til skolens søknad som er sendt til fylke/kommune.
+**Innvilget/avslått** Frem til man registrerer innvilet eller avslått vises begge alternativer. Når dette er registrert vil kun _Innvilget_ eller _Avslått_
+vises.
