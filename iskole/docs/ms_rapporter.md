@@ -144,7 +144,7 @@ Denne rapporten lister ut ukeplaner i den valgte klassens fag for den valgte uke
 ### Ansatte
 ### Klasselister
 ### Faglister m/kontaktlærer
-## Personalia og godkjenning av elektronisk varsling
+### Personalia og godkjenning av elektronisk varsling
 
 
 ## Samtykkeskjema
