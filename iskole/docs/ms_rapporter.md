@@ -71,6 +71,19 @@ Klikk _Send_ for å sende varselbrevet til eleven. Ved å klikke _OK_ i vinduet 
 ### Sendelogg
 I tabellen _Send til_ vises sendeloggen. Det er mulig å sende brevet flere ganger. Det kan hende e-postadressen til foreldrene ikke var registrert i iSkole da du sendte varselbrevet første gang. Det blir da to linjer og dette vil også vises to ganger for eleven. e-post- og adresser som brevet er sendt til vises i kolonnen _Sendt til_, er det flere skilles de med ;. For å se lange adresser kan man enten utvide kolonnen, eller holde musepekeren over teksten.
 
+### Lese varselbrevet
+Dokumentet blir tilgjengelig for eleven under menyvalget _Meldinger_ og fanen _Brev_. Når en elev laster ned brevet vil datoen lagres i kolonnen _Åpnet_. Hvis en forelder laster ned brevet, vil datoen lagres i kolonnen _Åpnet forelder_. 
+Fanen _Brev_ er også tilgjengelig for kontaktlæreren og ansatte i brukergruppen _Elevinspektør_. Denne er lokalisert under menyvalget _Mine sider > Elever_. Klikk _Vis_ i kolonnen _Detaljer_. I denne tabellen kan det også vises andre typer brev som er sendt til eleven.
+
+### Opprette varselbrev for fag
+Sending av varselbrev for fag fungerer på samme måte som sending av varselbrev for orden og atferd. Forskjellen er at man har en fagliste over tabellen med elevnavn. Alle varselbrev for fag vil vises for en elev, også de for andre fag. Det er ikke mulig å sende eller slette varsler som andre har laget.
+
+### Elektronisk varsling
+Elektronisk varsling forutsetter at det er registrert e-postadresse for de som skal motta varselet. For foreldrene må det også være aktivert at de godkjenner elektronisk varsling, se _Elevadmin > Elev_.
+
+### Innsyn for ledelsen
+Fra _Elevadmin > Rapport > Varselbrev_ får rektor, administrator, brukergruppen _Kontor_ og brukergruppen _Elevinspektør_, oversikt over alle varselbrev ved skolen. Man kan søke ved å skrive i tekstfeltene i toppen av kolonnene og trykke enter-tasten. For eksempel kan man søke etter «ST3A» i kolonnen _Klasse_, eller «standpunkt» i kolonnen _Tittel_. Man kan søke etter alle varselbrev for NOR1210, ved å skrive «%NOR1210»i kolonnen _Tittel_. Ved siden av hver kolonne overskrift er det piler, disse sorterer kolonnen enten stigende eller synkende. Dette gjør det mulig å for eksempel skille ut alle brev som ikke er sendt, ikke åpnet, eller ikke kvittert. Klikk på tittelen for å lese et brev. Vis rapport gir hele listen i PDF. Du kan velge å kun ta med brev som ikke er sendt. Eventuelle søk i tabellen over, vil ikke ha innvirkning på rapporten.
+
 ## Vurderinger
 ### Oversikt prøver
 Faglisten inneholder fag hvor det er gitt vurdering. Velg mellom alle terminer, 1. halvår eller 2. halvår. Rapporten viser alle elevene i faget, dato for prøvene og hvilken karakter elvene fikk.
