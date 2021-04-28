@@ -59,11 +59,13 @@ Rapportene som genereres her er varselbrev som sendes til elevene det gjelder. M
 3. Samlerapport for kontaktlærer
 4. Varsel sendt i mine fag
 
-Her kan man generere varsel om fare for nedsatt karakter i orden og/eller oppførsel.
-Felles for varslene er at man må fylle ut varselskjema
-Her kan man generere varsel om fare for ikke å få vurdering i faget
-Rapporten lister de de varslene som er generert til sine kontaktelever. Listen inneholder dato for om varselet er sendt, og hvorvidt det er åpnet av mottakerne.
-Rapporten gir oversikt over varselbrev sendt egne fag.
+Man kan generere varsel om fare for nedsatt karakter i orden og/eller oppførsel. Felles for varslene er at man må fylle ut et standard skjema før man genererer varselet. Her må det velges om varselet skal gjelde for halvår eller standpunkt, hvilken karakter som står i fare for å bli nedsatt og hva den kan bli nedsatt til og kommentar. For Nordland føres også antall anmerkninger.
+
+### Generer varsel
+Klikk Generer varsel. Varselbrevet blir nå generert og lagret i databasen. Varselbrevet vises i tabellen under varsler. Eleven vil på dette tidspunkt ikke se varselbrevet. Du har nå mulighet til å laste ned og se over brevet før det sendes til eleven. Det er ennå mulig å slette brevet hvis du vil endre på noe.
+I varselbrevet vises antall anmerkninger i orden og i atferd. Disse legges inn av faglærer fra menyvalget Vurderinger, eller av kontaktlærer/elevinspektør fra menyvalget _Elever_. Se dokumentasjonen under menyvalget _Om iSkole_. Antall timemerknarder er gitt i forbindelse med fraværsføring og føres under menyvalget _Fravær_. Alle tall gjelder for det halvåret som du velger at varselet skal gjelde for. (Nordland benytter ikke anmerkninger under menyvalget _Vurderinger_.)
+
+
 
 ## Vurderinger
 #### Oversikt prøver
