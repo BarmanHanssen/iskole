@@ -86,7 +86,7 @@ Fra _Elevadmin > Rapport > Varselbrev_ får rektor, administrator, brukergruppen
 
 ## Vurderinger
 ### Oversikt prøver
-Faglisten inneholder fag hvor det er gitt vurdering. Velg mellom alle terminer, 1. halvår eller 2. halvår. Rapporten viser alle elevene i faget, dato for prøvene og hvilken karakter elvene fikk.
+Faglisten inneholder fag hvor det er gitt vurdering. Velg mellom alle terminer, 1. halvår eller 2. halvår. Rapporten viser alle elevene i faget, dato for prøvene og hvilken karakter elevene fikk.
 ### Resultater for elev
 Faglisten inneholder fag hvor det er gitt vurdering. Denne rapporten lister
 en og en elev i faget og viser fellesprøver og enkeltvurderinger. I PDF filen
