@@ -112,5 +112,15 @@ Denne rapporten lister alle elevene i faget, karakter for 1. halvår, 2. halvår
 Rapporten lister standpunkt- og eksamenskarakterer for kontaktelevene i de fagene elevene har hatt eksamen.
 
 ## Foto
+Fotorapportene benytter de bildene som er lagt inn på elever og ansatte. Der hvor bilde mangler blir det fyllt inn et standard profilbilde. Merk at hvis et bilde er ødelagt, vil det medføre et unntak i rapportgenereringen slik at man da ikke får en fullstendig liste. 
+
+### Elever
+Man kan ta ut bilder av kontaktelever, elever i egne og andre fag ved skolen. Det forutsettes at bildeansvarlig har lastet opp bilder av elevene. Når man har klikket _Vis_ (kontakt)elever kommer det frem en knapp _Vis rapport_ som gir deg en PDF med alle bildene og navnene.
+
+### Ansatte
+Alle ansatte listes med navn og bilde. Ved å trykke på knappen _Vis rapport_ vil det genereres en PDF som man kan skrive ut.
+
+### Klasser
+Man kan velge klasser i og ta ut fotorapporter for de valgte klassene. 
 
 ## Timeplan
