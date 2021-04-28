@@ -65,10 +65,10 @@ Beskrivelse av skjermbildet:
 5. _Elevnavn - IOP del 2_ Elevens fag med fagstatus _Spesialundervisning_ inkl. status for lærerens arbeid.
 6. _Kompetansemål og vurdering_ viser kompetansemål og vurderinger knyttet til faget valgt i tabellen ovenfor.
 
-#### IOP-søknad
-**Registrert** Skolen har opprettet søknaden.
-**Venter på godkjenning** Skolen har gjort søknaden tilgjengelig for elev og foreldre og venter på at søknaden skal godkjennes.
-**Godkjent** Eleven/foreldrene har godkjent at skolen sender søknaden.
-**Under behandling** Elevens søknad er knyttet til skolens søknad som er sendt til fylke/kommune.
-**Innvilget/avslått** Frem til man registrerer innvilet eller avslått vises begge alternativer. Når dette er registrert vil kun _Innvilget_ eller _Avslått_
+#### IOP-søknad --- status
+1. **Registrert** Skolen har opprettet søknaden.
+2. **Venter på godkjenning** Skolen har gjort søknaden tilgjengelig for elev og foreldre og venter på at søknaden skal godkjennes.
+3. **Godkjent** Eleven/foreldrene har godkjent at skolen sender søknaden.
+4. **Under behandling** Elevens søknad er knyttet til skolens søknad som er sendt til fylke/kommune.
+5. **Innvilget/avslått** Frem til man registrerer innvilet eller avslått vises begge alternativer. Når dette er registrert vil kun _Innvilget_ eller _Avslått_
 vises.
