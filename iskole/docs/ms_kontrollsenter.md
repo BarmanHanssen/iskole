@@ -21,4 +21,4 @@ I ruten _Vikartimer_ vises antall registrerte vikartimer denne uken og summert f
 I denne ruten vises hvor mange varselbrev som ikke er åpnet. Det er summert både totalt, og de som er over ti dager. Ved å trykke i ruten får man frem alle varselbrevene listet i en tabell.
 
 ### Udokumentert fravær
-I denne ruten vises summen av alt udokumentert fravær. Ved å trykke i ruten får man frem en tabell som viser elever med deres fag hvor de har udokumentert fravær. Det vises blant annet fagets omfang, antall klokketimer udokumentert fravær, og hva fraværet utgjør i prosent. Man kan også hente frem varselbrevet som er sendt i de forskjellige fagene. 
+I denne ruten vises summen av alt udokumentert fravær. Ved å trykke i ruten får man frem en tabell som viser elever med deres fag hvor de har udokumentert fravær. Det vises blant annet fagets omfang, antall klokketimer udokumentert fravær, og hva fraværet utgjør i prosent. Man kan også hente frem varselbrevet som er sendt i de forskjellige fagene ved å følge lenken _Vis_ i kolonnen _Brev_.  
