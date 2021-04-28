@@ -19,7 +19,7 @@ Rapporten er for kontaktlærerne. Den viser elevens fravær, forsentkomminger, a
 Rapporten er for kontaktlærerne. Den viser elevens timefravær fra skolestart frem til dags dato. Videre listes merknader til dag- og timefravær, samt ordens- og atferdsvurderinger.
 
 ### Fagfravær
-De tre rapportene er for faglærerne. Rapporten "Fagfravær" inneholder fagfravær, udokumentert fravær, avholde timer, timeplanlagte timer fordelt på 1. halvår og hele skoleåret. Rapporten "Organisert studiearbeid" viser fravær i fag registrert som organisert studiearbeid (coronafravær i coronaperioden). Fraværet er summert for hele året. Rapporten "Udokumentert fravær" lister fag og fraværsprosenten til elevene i fagene.
+De tre rapportene er for faglærerne. Rapporten _Fagfravær_ inneholder fagfravær, udokumentert fravær, avholde timer, timeplanlagte timer fordelt på 1. halvår og hele skoleåret. Rapporten _Organisert studiearbeid_ viser fravær i fag registrert som organisert studiearbeid (coronafravær i coronaperioden). Fraværet er summert for hele året. Rapporten _Udokumentert fravær_ lister fag og fraværsprosenten til elevene i fagene.
 
 ### Totalt fravær
 Rapportene er for kontaktlærerne. 
