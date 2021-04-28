@@ -9,54 +9,48 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Administrativt</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
-      <>
-        • Planlegging av nytt skoleår 
-        Oppsett av fag og klasser med utgangspunkt i forrige skoleårs oppstilling 
-        Opptak av elever 
-        Time- og fagfordeling med beregning av stillingsstørrelser for lærere 
-        Timeplanlegging 
-        Eksamensgjennomføring
-        Kontroll og utskrift av vitnemål og kompetansebevis 
-        Overføring av data til Nasjonal Vitnemålsdatabase, VIGO, WIS og andre 
-        Utlån av PCer 
-        Internat 
-      </>
+      <ul>
+        <li>Planlegging av nytt skoleår</li>
+        <li>Oppsett av fag og klasser med utgangspunkt i forrige skoleårs oppstilling</li>
+        <li>Opptak av elever</li>
+        <li>Time- og fagfordeling med beregning av stillingsstørrelser for lærere</li>
+        <li>Timeplanlegging</li>
+        <li>Eksamensgjennomføring</li>
+        <li>Kontroll og utskrift av vitnemål og kompetansebevis </li>
+        <li>Overføring av data til Nasjonal Vitnemålsdatabase, VIGO, WIS og andre</li>
+        <li>Utlån av PCer</li>
+        <li>Internat</li>
+      </ul>
     ),
   },
   {
     title: <>For lærere</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
-      <>
-        Fraværsføring for egne elever basert på timeplanen 
-        Prøver i fag 
-        Ukeplaner 
-        Elevsamtaler 
-        Vurderinger i fag 
-        Meldingstjeneste 
-      </>
+      <ul>
+        <li>Fraværsføring for egne elever basert på timeplanen</li>
+        <li>Prøver i fag</li>
+        <li>Ukeplaner</li>
+        <li>Elevsamtaler</li>
+        <li>Vurderinger i fag</li> 
+        <li>Meldingstjeneste</li>
+      </ul>
     ),
   },
   {
-    title: <>For elever</>,
+    title: <>For elever og foreldre</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: <>For foreldre</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <ul>
+        <li>Prøveresultater</li> 
+        <li>Meldingstjeneste</li>
+        <li>Timeplan med ukeplan og prøveoversikt</li>
+        <li>Fraværsoversikt</li>
+        <li>Oppmelding til eksamen</li>
+        <li>Valg av programfag for neste skoleår</li>
+      </ul>
     ),
   },
 ];
@@ -81,7 +75,7 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Dokumentasjon - ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
