@@ -54,13 +54,16 @@ Rapporten lister alle anmerkninger gitt alle kontaktelevene.
 
 ## Varsel
 Rapportene som genereres her er varselbrev som sendes til elevene det gjelder. Man kan også i dette skjermbildet se om brevene er åpnet av mottakerne. Det er fire arkfaner:
-1. **Orden og atferd** Her kan man generere varsel om fare for nedsatt karakter i orden og/eller oppførsel.
-2. **Fag** Her kan man generere varsel om fare for ikke å få vurdering i faget
-3. **Samlerapport for kontaktlærer** Rapporten lister de de varslene som er generert til sine kontaktelever. Listen inneholder dato for om varselet er sendt, og hvorvidt det er åpnet av mottakerne.
-4. **Varsel sendt i mine fag** Rapporten gir oversikt over varselbrev sendt egne fag.
+1. Orden og atferd
+2. Fag
+3. Samlerapport for kontaktlærer
+4. Varsel sendt i mine fag
 
+Her kan man generere varsel om fare for nedsatt karakter i orden og/eller oppførsel.
 Felles for varslene er at man må fylle ut varselskjema
-
+Her kan man generere varsel om fare for ikke å få vurdering i faget
+Rapporten lister de de varslene som er generert til sine kontaktelever. Listen inneholder dato for om varselet er sendt, og hvorvidt det er åpnet av mottakerne.
+Rapporten gir oversikt over varselbrev sendt egne fag.
 
 ## Vurderinger
 #### Oversikt prøver
