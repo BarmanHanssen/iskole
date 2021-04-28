@@ -44,3 +44,13 @@ Når skolen får tilbake vedtaket registreres eventuell godkjenning eller avslag
 
 ### Opprett søknad for skolen
 Valgene beskrevet i dette kapittelet er tilgjengelig i fanen Søknader. De søknadene som er blitt godkjent av elever eller foreldre kan legges til skolens samlede søknad. Dersom skolen skal søke til flere fylker / kommuner kan det opprettes en søknad til hvert fylke/kommune.
+
+#### Legg til skolesøknad
+Klikk Legg til over tabellen _Søknader_. Inntil videre er det ikke behov for å gjøre noe i dette dialogvinduet. Klikk OK.
+#### Legg elever til søknaden
+Marker søknaden du ønsker å knytte elever til i tabellen _Søknader_. Klikk deretter knappen Legg til over tabllen Elever knyttet til søknaden. Du kan markere flere elever ved å holde inne _Crtl-_ eller shifttasten samtidig som du klikker på elevene. Alternativt _Ctrl+A_ for å velge alle. Avslutt med _OK_.
+#### Skrive ut søknadene med vedlegg
+I tabellen _Søknader_ klikk på blyanten i kolonnen _Behandle_ på raden til søknaden du ønsker å skrive ut. Klikk _Generer og vis søknadsdokument_. En PDF-fil blir lastet ned til din maskin. Denne inneholder alle tilknyttede søknader og eventuelle vedlegg. Når søknaden er skrevet ut og sendt til fylket/kommunen kan du registrere dato i feltet _Sendt_. 
+:::tip Tips
+Du laste ned søknaden så mange ganger du måtte ønske, så du kan trygt slette eventuelle nedlastinger på din maskin. Hvis vil gjøre endringer kan du gjøre ønskede endringer og laste ned søknaden på nytt. Når datoen er satt i feltet _Sendt_ vil det ikke være mulig å legge til/fjerne elever fra søknaden eller endre elevenes søknad.
+:::
