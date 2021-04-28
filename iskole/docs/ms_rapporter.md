@@ -142,17 +142,34 @@ Denne rapporten lister ut ukeplaner i den valgte klassens fag for den valgte uke
 
 ## Navnelister
 ### Ansatte
+Det er mulig å ta ut to forskjellige navnlister for ansatte:
+1. Telefonliste med adresser
+2. Vikartimer
 ### Klasselister
+Klasselistene kan man ta ut både i PDF-dokumenter eller regneark. Det er fire definerte klasselister:
+1. Klasseliste
+2. Klasseliste med adresse
+3. Klasseliste med foreldre
+4. Klasse liste med født, start- og sluttdato
 ### Faglister m/kontaktlærer
+Man kan ta ut klasselister i alle fag. Fagene er listet i nedtrekkslisten _Fag_. Det er også en nedtrekksliste _Mine fag_ som inneholder kun egne fag. Skal man ta ut en liste i eget fag, så er det lettere å finne faget i denne listen.
 ### Personalia og godkjenning av elektronisk varsling
-
+Rapporten inneholder kontaktelevene til den som tar ut rapporten.
 
 ## Samtykkeskjema
-
-## Ny giv (utgått)
+### Kontaktelever
+Rapporten lister alle samtykkene til kontaktelevene.
+### Kontaktelever som har ufullstendige samtykkeskjemaer
+Denne rapporten finner frem alle samtykker som mangler, dvs. er ubesvart.
 
 ## Undervisning
+Denne rapporten gir oversikt over antall timer lovpålagt og timeplanlagt for egne fag. Rapporten gjelder for timeplanen slik den foreligger pr dags dato. Eventuelle fradrag er registrert av faglærer i forbindelse med fraværsføringen. Omregning til klokketimer er basert på lengden av de enkelte skoletimene.
 
 ## Eget fravær
+Rapporten gir oversikt over alt registrert fravær for den ansatte.
 
 ## Internat
+### Fravær første time
+Rapporten lister alle internatbeboere som har fått fravær første time.
+### Romoversikt/utleie
+Rapporten lister ut rom med beboere. Om ønskelig kan man også ta med bilde på beboerne.
