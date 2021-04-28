@@ -69,7 +69,7 @@ I varselbrevet vises antall anmerkninger i orden og i atferd. Disse legges inn a
 Klikk _Send_ for å sende varselbrevet til eleven. Ved å klikke _OK_ i vinduet som kommer opp, gjøres varselbrevet tilgjengelig for eleven. Det sendes automatisk en intern melding i iSkole som varsler eleven. Hvis eleven og foreldre for umyndige elever har registrert e-postadresse og samtykket i elektronisk varsling, vil de motta en e-post som forteller at varselbrevet er tilgjengelig på iSkole. Etter at varselbrevet er sendt, er det ikke lenger mulig å slette det.
 
 ### Sendelogg
-I tabellen _Send til_ vises sendeloggen. Det er mulig å sende brevet flere ganger. Det kan hende e-postadressen til foreldrene ikke var registrert i iSkole da du sendte varselbrevet første gang. Det blir da to linjer og dette vil også vises to ganger for eleven. e-post- og adresser som brevet er sendt til vises i kolonnen _Sendt til_, er det flere skilles de med ;. For å se lange adresser kan man enten utvide kolonnen, eller holde musepekeren over teksten.
+I tabellen _Send til_ vises sendeloggen. Det er mulig å sende brevet flere ganger. Det kan hende e-postadressen til foreldrene ikke var registrert i iSkole da du sendte varselbrevet første gang. Det blir da to linjer og dette vil også vises to ganger for eleven. e-post- og adresser som brevet er sendt til vises i kolonnen _Sendt til_, er det flere skilles de med semikolon. For å se lange adresser kan man enten utvide kolonnen, eller holde musepekeren over teksten.
 
 ### Lese varselbrevet
 Dokumentet blir tilgjengelig for eleven under menyvalget _Meldinger_ og fanen _Brev_. Når en elev laster ned brevet vil datoen lagres i kolonnen _Åpnet_. Hvis en forelder laster ned brevet, vil datoen lagres i kolonnen _Åpnet forelder_. 
