@@ -8,17 +8,39 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>iSkole</>,
+    title: <>Administrativt</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        • Planlegging av nytt skoleår 
+        Oppsett av fag og klasser med utgangspunkt i forrige skoleårs oppstilling 
+        Opptak av elever 
+        Time- og fagfordeling med beregning av stillingsstørrelser for lærere 
+        Timeplanlegging 
+        Eksamensgjennomføring
+        Kontroll og utskrift av vitnemål og kompetansebevis 
+        Overføring av data til Nasjonal Vitnemålsdatabase, VIGO, WIS og andre 
+        Utlån av PCer 
+        Internat 
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>For lærere</>,
+    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    description: (
+      <>
+        Fraværsføring for egne elever basert på timeplanen 
+        Prøver i fag 
+        Ukeplaner 
+        Elevsamtaler 
+        Vurderinger i fag 
+        Meldingstjeneste 
+      </>
+    ),
+  },
+  {
+    title: <>For elever</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
@@ -28,7 +50,7 @@ const features = [
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>For foreldre</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
