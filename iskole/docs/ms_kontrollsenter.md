@@ -4,3 +4,21 @@ title: Kontrollsenter
 sidebar_label: Kontrollsenter
 ---
 
+Kontrollsenteret viser aktuelle tall for ledelsen. Det er i alt fem områder som summeres:
+1. Ansattfravær
+2. Vikartimer
+3. Varselbrev ikke åpnet 
+4. Permisjonssøknader (fra elever)
+5. Udokumentert fravær
+
+### Ansattfravær
+I ruten _Ansattfravær_ summeres antall fraværende for dagens dato, og summert for skoleåret. Ved å trykke på ruten får man frem det registrerte fraværet for dagen. Dette er da et utgangspunkt for å få oversikt over vikarbehovet denne dagen.
+
+### Vikartimer
+I ruten _Vikartimer_ vises antall registrerte vikartimer denne uken og summert for hele skoleåret. Ved å trykke i ruten får man frem ukens vikarer i tabellen under.
+
+### Varselbrev ikke åpnet
+I denne ruten vises hvor mange varselbrev som ikke er åpnet. Det er summert både totalt, og de som er over ti dager. Ved å trykke i ruten får man frem alle varselbrevene listet i en tabell.
+
+### Udokumentert fravær
+I denne ruten vises summen av alt udokumentert fravær. Ved å trykke i ruten får man frem en tabell som viser elever med deres fag hvor de har udokumentert fravær. Det vises blant annet fagets omfang, antall klokketimer udokumentert fravær, og hva fraværet utgjør i prosent. Man kan også hente frem varselbrevet som er sendt i de forskjellige fagene. 
