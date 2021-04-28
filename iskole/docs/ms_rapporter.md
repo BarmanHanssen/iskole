@@ -65,25 +65,27 @@ Man kan generere varsel om fare for nedsatt karakter i orden og/eller oppførsel
 Klikk Generer varsel. Varselbrevet blir nå generert og lagret i databasen. Varselbrevet vises i tabellen under varsler. Eleven vil på dette tidspunkt ikke se varselbrevet. Du har nå mulighet til å laste ned og se over brevet før det sendes til eleven. Det er ennå mulig å slette brevet hvis du vil endre på noe.
 I varselbrevet vises antall anmerkninger i orden og i atferd. Disse legges inn av faglærer fra menyvalget Vurderinger, eller av kontaktlærer/elevinspektør fra menyvalget _Elever_. Se dokumentasjonen under menyvalget _Om iSkole_. Antall timemerknarder er gitt i forbindelse med fraværsføring og føres under menyvalget _Fravær_. Alle tall gjelder for det halvåret som du velger at varselet skal gjelde for. (Nordland benytter ikke anmerkninger under menyvalget _Vurderinger_.)
 
+### Send varsel
+Klikk _Send_ for å sende varselbrevet til eleven. Ved å klikke _OK_ i vinduet som kommer opp, gjøres varselbrevet tilgjengelig for eleven. Det sendes automatisk en intern melding i iSkole som varsler eleven. Hvis eleven og foreldre for umyndige elever har registrert e-postadresse og samtykket i elektronisk varsling, vil de motta en e-post som forteller at varselbrevet er tilgjengelig på iSkole. Etter at varselbrevet er sendt, er det ikke lenger mulig å slette det.
 
+### Sendelogg
+I tabellen _Send til_ vises sendeloggen. Det er mulig å sende brevet flere ganger. Det kan hende e-postadressen til foreldrene ikke var registrert i iSkole da du sendte varselbrevet første gang. Det blir da to linjer og dette vil også vises to ganger for eleven. e-post- og adresser som brevet er sendt til vises i kolonnen _Sendt til_, er det flere skilles de med ;. For å se lange adresser kan man enten utvide kolonnen, eller holde musepekeren over teksten.
 
 ## Vurderinger
-#### Oversikt prøver
-Faglisten inneholder fag hvor det er gitt vurdering. Velg mellom alle
-terminer, 1. halvår eller 2. halvår. Rapporten viser alle elevene i faget, dato
-for prøvene og hvilken karakter elvene fikk.
-#### Resultater for elev
+### Oversikt prøver
+Faglisten inneholder fag hvor det er gitt vurdering. Velg mellom alle terminer, 1. halvår eller 2. halvår. Rapporten viser alle elevene i faget, dato for prøvene og hvilken karakter elvene fikk.
+### Resultater for elev
 Faglisten inneholder fag hvor det er gitt vurdering. Denne rapporten lister
 en og en elev i faget og viser fellesprøver og enkeltvurderinger. I PDF filen
 er det bokmerker til hver enkelt elev. I Adobe Reader tykker du F4 for å
 vise bokmerkene.
-#### Resultater på enkeltprøve
+### Resultater på enkeltprøve
 Faglisten inneholder fag hvor det er gitt vurdering. Tabellen under faglisten
 viser de prøvene som er gitt i faget. Klikk Vis rapport bak prøven for å liste
 elevene med karakterer og kommentarer for denne prøven.
-#### Fagsamtaler kontaktelever
+### Fagsamtaler kontaktelever
 Denne rapporten er for kontaktlærer. Rapporten lister alle fagsamtalene elevene har hatt.
-#### Fagsamtaler elever i fag
+### Fagsamtaler elever i fag
 Lister alle fagsamtale elevene har hatt i det valgte faget.
 
 ## Karakterer
