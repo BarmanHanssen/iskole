@@ -72,7 +72,9 @@ Hvis en elev er uenig i fraværet som er ført, så har de mulighet til å regis
 
 Teksten inni parentesene er variabler som byttes ut med verdier fra klagen i meldingen.
 
-
+:::tip Tilgang til klager
+Lærere som er involvert i undervisningen til et fag kan behandle klager på fravær fra elever i faget. Ansvarlig faglærer kan behandle klager gjennom hele året, mens de som er lagt inn i uker i time- og fagfordleingen kan behandle klager i uker de har undervisning i faget. Sistnevnte gruppe innbefatter også tolærere og vikarer.
+:::
 
 ## Elevers egenmeldinger
 Elever har adgang til å melde inn dag- og timefravær. Kontaktlærer får egenmeldinger både for dag og time, mens faglærer får egenmeldinger knyttet til sine timer. Egenmeldinger er ment å benyttes til å melde inn fravær før skoledagen starter, men det kan også meldes inn etter fraværet har vært for å dokumentere årsaken til fraværet. Elevers egenmeldinger viser to lister henholdsvis med overskriftene _Elevers egenmeldinger (dag)_ og _Elevers egenmeldinger (time)_. For dagfravær vises dato for dagfraværet, om det allerede er registert fravær, en melding fra eleven, elevens navn samt når egenmeldingen ble registrert. 
