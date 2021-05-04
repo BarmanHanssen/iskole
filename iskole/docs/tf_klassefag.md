@@ -5,7 +5,7 @@ sidebar_label: Klassefag
 ---
 
 ## Klassefag
-Her registreres hvem som skal undervise fagene i en klasse. Registreringen skjer klassevis. Læreren som står på toppen er den som anses som ansvarlig faglærer.Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer for uke for uke. Læreren som står registrert på første linje trenger er fagansvarlig, og er den som fastsetter terminkarakteren i faget.
+Her registreres hvem som skal undervise fagene i en klasse. Registreringen skjer klassevis. Læreren som står på toppen er ansvarlig faglærer. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer for uke for uke. Læreren som står registrert på første linje trenger er fagansvarlig, og er den som fører inn terminkarakteren i faget.
 
 **Klasse** Ekspander en klasse ved å klikke på pilen. Alle fagene for denne klassen vil vises. Læreren er det eneste som kan endres. 
 
@@ -19,12 +19,9 @@ fra den offisielle som er bestemt ut fra _Fagkode_. Den offisielle navnet kommer
 
 
 ### Endre lærer
-Første gang et fag får tildelt lærer, vil læreren som settes som ansvarlig
-faglærer (første linje) automatisk få tildelt undervisning i hele planperioden.
-Hvis man senere gjør en endring av ansvarlig faglærer, så vil ikke iSkole sette
-denne læreren inn i undervisningsukene hvis det er lagt inn minst én lærer
-for minst én uke. Et fag kan noen ganger skifte faglærer i undervisning i
-løpet av skoleåret. For å skifte lærer ut skoleåret gjør en følgende:
+Første gang et fag får tildelt lærer, vil læreren som velges automatisk få tildelt undervisning i hele planperioden.
+Hvis man senere gjør en endring av faglæreren, så vil ikke iSkole sette
+den nye læreren inn i ukene hvor det allerede er regsitret en lærer. Et fag kan skifte faglærer i løpet av skoleåret. Gjør da følgende:
 - Ekspander faget ved å klikke på pilen først på linja.
 - Marker alle ukene som skal ha ny faglærer. For å markere flere uker i en serie, klikk på første uke, hold inne «shift» og klikk på siste uke. For å markere flere enkeltuker, klikk på uken mens du holder inne «ctrl».
 - Klikk _Endre lærer_.
@@ -35,8 +32,8 @@ noen lærere med den aktuelle fagkoden. Hvis det ikke finnes noen fylles listen 
 Når timeplanen vises, hentes læreren ut fra timeplanens ukenummer.
 
 :::note Merk
-Dersom faget som tilordnes en lærer er timeplanlagt, sjekkes det om det blir kollisjon mot lærerens timeplan i de valgte ukene. Det er ikke mulig å registrere faget på læreren i uker som medfører kollisjon på lærerens timeplan.
+Det er ikke mulig å registrere et fag på læreren dersom det vil medfører kollisjon på lærerens allerede lagte timeplan.
 :::
 :::note Merk 2
-Ressursfordelingen for faget gis til faglæreren som står oppført på første linje. Skal ressursen fordeles, må korrigeringen gjøres fra Andre ressurser.
+Ressursfordelingen for faget gis til faglæreren som står oppført på første linje. Skal ressursen fordeles, må det korrigeres fra Andre ressurser.
 :::
