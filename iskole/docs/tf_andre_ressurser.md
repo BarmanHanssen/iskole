@@ -1,6 +1,6 @@
 ---
-id: tf_vikar_i_fag
-title: Vikar i fag
-sidebar_label: Vikar i fag
+id: tf_andre_ressurser
+title: Andre ressurser
+sidebar_label: Andre ressurser
 ---
 
