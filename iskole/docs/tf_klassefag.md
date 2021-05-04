@@ -5,7 +5,7 @@ sidebar_label: Klassefag
 ---
 
 ## Klassefag
-Her registreres hvem som skal undervise fagene i en klasse. Registreringen skjer klassevis. Læreren som står på toppen er ansvarlig faglærer. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer for uke for uke. Læreren som står registrert på første linje trenger er fagansvarlig, og er den som fører inn terminkarakteren i faget.
+Her registreres hvem som skal undervise fagene i en klasse. Registreringen skjer klassevis. Læreren som står på toppen er ansvarlig faglærer. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer for uke for uke. Læreren som står registrert på første linje er fagansvarlig, og er den som fører inn terminkarakteren i faget.
 
 **Klasse** Ekspander en klasse ved å klikke på pilen. Alle fagene for denne klassen vil vises. Læreren er det eneste som kan endres. 
 
@@ -16,7 +16,6 @@ og utskrives på vitnemål eller kompetansebevis.
 
 **Fagnavn** brukes ved utskrift av timeplanen. Teksten kan være forskjellig
 fra den offisielle som er bestemt ut fra _Fagkode_. Den offisielle navnet kommer på vitnemål og kompetansebevis,
-
 
 ### Endre lærer
 Første gang et fag får tildelt lærer, vil læreren som velges automatisk få tildelt undervisning i hele planperioden.
@@ -36,4 +35,11 @@ Det er ikke mulig å registrere et fag på læreren dersom det vil medfører kol
 :::
 :::note Merk 2
 Ressursfordelingen for faget gis til faglæreren som står oppført på første linje. Skal ressursen fordeles, må det korrigeres fra Andre ressurser.
+:::
+
+### Legg til tolærer
+Dersom et fag skal ha mer enn en lærer, kan en legge til ekstra lærer(e) her. Her skal man også oppgi hvor uketimetallet, og antll årstimer. Disse timene kan bare plasseres på timeplanen der faget er timeplanlagt, så den saken må vente til faget timeplanlegges.
+
+:::note Merk
+Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en tolærer...
 :::
