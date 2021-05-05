@@ -44,5 +44,3 @@ Dersom et fag skal ha mer enn en lærer, kan en legge til ekstra lærer(e) her. 
 Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en tolærer...
 :::
 
-
-
