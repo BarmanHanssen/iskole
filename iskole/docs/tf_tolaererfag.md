@@ -11,5 +11,5 @@ Dersom undervisningen skal styrkes ved at mer enn en lærer skal bistå i et fag
 Fra tabellen velger du faget som skal få tolærer, og klikker på Legg til for å registrere lærer med mere.
 
 :::note Merk
-Tolærerfaget kan ikke timeplanlegges før faget er timeplanlagt, da tolærer er knytteet til undervisningstidene for faget.
+Tolærerfaget kan ikke timeplanlegges før faget er timeplanlagt, da tolærer er knyttet til undervisningstidene for faget. Men antall timer som er timeplanlagt kan variere fra uke til uke, det gjelder både for faget og for tolærers tilknytting til faget.
 :::
