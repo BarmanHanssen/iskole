@@ -13,7 +13,7 @@ En timeplan har tradisjonelt inneholdt 6 timer per dag over 5 ukedager. Vanligvi
 Vi har nå tilrettelagt for at det enkelt skal være mulig å endre såvel start- som slutt-tiden for timenes plassering slik at for eksempel 1. time på mandag for klasse 1A kan ha annet start- og slutt-tid enn for klasse 7A. En slik timeplan kan bli ekstra krevende for timeplanlegger da 1. time på mandag  kan overlappe 2. time på mandag for et annet klassetrinn. Læreren med 1. time på mandag kan da ikke fortsette med 2. time siden han ikke vil være ledig når 2. time starter. Litt mer om dette lengre nede.
 
 ### For skoler som har samme timeoppsette for alle klassene
-Klokkeslettene for timene som legges inn her, vil følge alle fag som timeplanlegges. Det forutsettes at ingen timer overlapper, men en påfølgende time kan starte sammtidig som foregående time slutter. Det betyr at en lærer en dag kan ha etterfølgende timene, da dette ikke vil medføre noen kollisjon på timeplanen for læreren.
+Klokkeslettene for timene som legges inn her, vil følge alle fag som timeplanlegges. Det forutsettes at ingen timer overlapper, men en påfølgende time kan starte sammtidig som foregående time slutter. Det betyr at en lærer en dag kan ha etterfølgende timer, da dette ikke vil medføre noen kollisjon på timeplanen for læreren, ller for elevene.
 
 :::note Merk
 Timeoppsettet kan betraktees som en mal. Når en time timeplanlegges, følger start- og slutt-tiden fra gjeldende oppsett med. Den timeplanlagte time i det enkelte fag kan imidlertid av timeplanlegger senere gis endret start- eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-timee. Dette medfører at timetellingen, som gjøres i hvert timeplanlagt fag, vil bli justert tilsvarende endringen som er registrert.
@@ -25,9 +25,9 @@ Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig 
 Vi anbefaler følgende arbeidsplan:
 - Innledningsvis bør alle klasser være på plass med sine fag, og tilornet lærerne som skal undervise i fagene.
 - En bør om mulig fullføre timeplanleggingen fullt ut for eksempelvis barnetrinnet før en starter timeplanleggingen av ungdomstrinnet.
-- Det innebærer at man bør være ferding med timeplanlegging av barnetrinnet før man legger inn start- og sluttider for undomstrinnet.
 - Når timeplanen for barnetrinnet er klar er tiden inne for å legge inn start- og slutt-tidspunkt for timene slik de skal være for ungdomstrinnet.
-- Nå kan ungdomstrinnet timeplanllegges, og nå blir de nye start- og slutt-tider beyttet.
+- Det innebærer at man bør være ferding med timeplanlegging av barnetrinnet før man legger inn start- og sluttider for undomstrinnet.
+- Nå kan ungdomstrinnet timeplanllegges, og de nye start- og slutt-tidene beyttet. Barnetrinnet timeplan blir urørt.
 
 Vi har allerede påpekt at timene og timelengden er en mal som benyttes når en timeplanlegger legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, må malen oppdateres.
 
