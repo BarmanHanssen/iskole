@@ -7,19 +7,25 @@ Dersom man ikke har gruppefag, skal man ikke å avhuke for Bruker blokkskjema. U
 
 Dersom skolen har fag hvor elever fra ulike klasser er sammen for undervisning i faget, er dette et gruppefag.
 
-Når skolen har gruppefag, og det er fastlagt hvilke fag som skal gå parallelt (altså tilhøre en bestemt blokk), da er tiden inne til å registrere oppsettet her. Registreringen kan foretas før endelig valg av grupper, og elevenes valg av grupper, er fastlagt.
+Dersom skolen skal ha gruppefag, må man registrere hvor mange timer gruppefagene kan legge beslag på. Registreringen kan foretas før endelig valg av grupper, og elevenes valg av grupper, er fastlagt.
+
+![image](https://user-images.githubusercontent.com/80097133/118253703-855f7e00-b4aa-11eb-92c2-488a7c8a129c.png)
 
 ## Antall timer til valg (blokknr)
-Vanlig oppsett for videregående skoler er 20 til 25 timer, hvilket tilsvarer 4 eller 5 Id-er (hver ID legger beslag på 5 blokknr, altså 20 eller 25 timer). Maksimalt kan antall timer være lik antall timer som er satt opp fra valget Time. Det er helt ok å registrere 25 timer, timetallet kan om nødvendig økes senere.
+Vanlig oppsett for videregående skoler er 20 til 25 timer, hvilket tilsvarer 4 eller 5 Id-er (hvor hver ID legger beslag på 5 blokknr, altså 20 eller 25 timer). Maksimalt kan antall timer være lik antall timer som er satt opp fra valget Time. Det er helt ok å registrere flere timer, timetallet kan om nødvendig endres senere.
 
 ## Antall blokk id
 Fag som skal gå parallelt (lik timeplan) markeres ved at de har samme Id. Vanligvis har aktuelle fag 5 timer per uke. Fag med mindre enn 5 timer kan ligge i en slik blokk, eller kan plasseres i egen blokk. Dersom noen fag har mer enn 5 timer, kan de overskytende timer plasseres under egen Id. Vi anbefaler at en benytter en fortløpende nummerering av Blokknr. Det gir bedre visuell oversikt når gruppefagene for tildelt Blokknr. 
 
+:::note Merk
+Et blokknummer representerer en spesifikk tidfestet time. Det innebærer at to forskjelllige blokknummer ikke kan ha samme start- og slutt-tid på samme dag. Et fag med tre timer kan være plasert med blokkid=1. At faget bare skal ha tre timer spesifiseres nå vi setter inn Blokknr grupefag. Tilsvarende kan et fag med 7 timer ha 5 timer definert ut fra en bestemt blokkid, og de to resterende timer gis blokknr fra Blokknr gruppefag, eksempelvis blokknr større enn 35 (se figuren ovenfor).
+:::
+
 :::note Tips
-Dersom gruppene gis ID fra Time- og fagfordeling>Gruppefag, vil plassering av blokknumrene på fagene (fra Blokknr gruppefag) kunne skje halvautomatisk.
+Dersom gruppene gis ID fra Time- og fagfordeling>Gruppefag (anbefales!), vil plassering av blokknumrene på fagene (fra Blokknr gruppefag) kunne skje halvautomatisk.
 :::
 
 ## Trinn 
-Benyttes når elevene selv kan velge gruppefag for neste skoleår. Kan stå blankt her. Hvilken hensikt disse avhukingene har, omtales annet sted.
+Benyttes når elevene selv skal velge gruppefag for neste skoleår. Kan stå blankt her. Hvilken hensikt disse avhukingene har, omtales annet sted.
 
 
