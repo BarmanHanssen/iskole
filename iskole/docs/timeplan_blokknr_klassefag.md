@@ -1,5 +1,5 @@
 ---
-id: timeplan_blokknr_klassefag
+id: timeplan_blokknr_klasse
 title: Blokknr klassefag
 sidebar_label: Blokknr klassefag
 ---
