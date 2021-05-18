@@ -5,3 +5,5 @@ sidebar_label: Timeplanlegge rom
 ---
 
 # Timeplanlegge rom
+
+Skal utgå som eget valg...
