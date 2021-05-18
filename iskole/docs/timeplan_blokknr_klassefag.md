@@ -1,7 +1,7 @@
 ---
-id: timeplan_blokknr_klasse
-title: Blokknr klassefag
-sidebar_label: Blokknr klassefag
+id: timeplan_blokknr_klassefag
+title: Blokknr klasse
+sidebar_label: Blokknr klasse
 ---
 
 ## Innledning
