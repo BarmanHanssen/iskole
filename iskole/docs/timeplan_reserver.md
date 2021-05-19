@@ -56,14 +56,14 @@ Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timepla
 
 ![image](https://user-images.githubusercontent.com/80097133/118810959-be359380-b8ac-11eb-98db-212066400313.png)
 
-Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde. Du skal nå se på den første halvdelen av skjermen:
+Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde.  
 
 ![image](https://user-images.githubusercontent.com/80097133/118811542-6a777a00-b8ad-11eb-82b2-45ee4fcd6d43.png)
 
 I bildet over er første time mandag valgt. Nå kan du taste inn _Grunn_ for reserveringen. Skal reserevasjonen gjelde for flere uker huker du av for øvrige uker reservasjonen skal gjelde for før du trykker på Lagre.
 
 
-Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under _Grunn_. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard _Grunn_ er *Reservert*
+Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under kolonnen _Opptatt/grunn_. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard _Grunn_ er *Reservert*
 
 ### Sletting av reservering
 Velg rom, og en uke hvor det er reistrert en reservering som du nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. 
@@ -72,13 +72,12 @@ Dersom det bare er denne reservasjonen som skal slettes, gjøres det fra øvre d
 Dersom reservasjonen for denne timen skal slettes for flere uker, markeres det på den nedre del av skjermbildet, før en klikker på _Slett valgte uker_.
 
 ## Reserver rom og lærer
-Timeplanlegger kan i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Lærer registrert her kan ikke ha undervisning på samme tid.
-Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen møtevirksomhet med navngitte deltakere i noen/alle uker.
+Timeplanlegger kan i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Trykk  på Legg til under overskriften _Reserver lærere til rommet_. Du får da opp en liste med lærere, og trykker på +-tegnet for å legge til akkurat den læreren. Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen møtevirksomhet med navngitte deltakere i noen/alle uker.
 
-På Mines sider vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere. Lærere kan altså ikke ha undervisningsoppdrag som kolliderer med reservasjonen.
+På _Mine sider_ vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere. Lærere kan altså ikke ha undervisningsoppdrag som kolliderer med reservasjonen.
 
 :::note Merk 
-En lærer har behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom fra _Mine sider>Timeplan>Rom_. Der tillates det at læreren både kan ha undervisning og samtidig legge beslag på et annet rom.
+En lærer kan ha behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom (fra _Mine sider>Timeplan>Rom_). Reservasjon derfra tillater at læreren kan ha undervisning i et rom og samtidig legge beslag på et annet rom.
 :::
 
 ### Registrering
