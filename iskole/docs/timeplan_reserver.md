@@ -28,7 +28,7 @@ Velg lærer, og første uke reservasjonen skal gjelde for. Når dette valget er 
 
 ![image](https://user-images.githubusercontent.com/80097133/118784939-ad772480-b890-11eb-9e58-5d4fa722ee59.png)
 
-Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. 
+Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. Her er første time på mandag valgt:
 
 ![image](https://user-images.githubusercontent.com/80097133/118786571-3c387100-b892-11eb-9709-cc54aa3548d7.png)
 
