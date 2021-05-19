@@ -26,7 +26,7 @@ Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og 
 ### Registrering
 Velg lærer, og første uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises lærerens timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, lærerens timer i klasse- og gruppefag er markert på blå bakgrunn, og kan selvsagt ikke reserveres.
 
-![image](https://user-images.githubusercontent.com/80097133/118783399-502ea380-b88f-11eb-964b-52528a9f63ec.png)
+![image](https://user-images.githubusercontent.com/80097133/118784939-ad772480-b890-11eb-9e58-5d4fa722ee59.png)
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. 
 
