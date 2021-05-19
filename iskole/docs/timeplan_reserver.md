@@ -26,6 +26,8 @@ Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og 
 ### Registrering
 Velg lærer, og første uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises lærerens timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, lærerens timer i klasse- og gruppefag er markert på blå bakgrunn, og kan selvsagt ikke reserveres.
 
+![image](https://user-images.githubusercontent.com/80097133/118783399-502ea380-b88f-11eb-964b-52528a9f63ec.png)
+
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. 
 
 Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er reservert eller timeplanlagt i noen uker for denne læreren, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt for klasse- eller gruppefag, kan ikke velges her. Standard _Grunn_ er *Reservert*
