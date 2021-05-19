@@ -23,9 +23,9 @@ Timeoppsettet kan betraktees som en mal. Når en time timeplanlegges, får timen
 Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig timelengde og/eller forskjellig start-tider på noen (eller alle) timene. Dette lar seg løse, men litt planlegging før man setter i gang vil lønne seg!
 ### Før en endrer oppsetter med timenes plassering/lengde
 Vi anbefaler følgende arbeidsplan:
-- Innledningsvis bør alle klasser være på plass med sine fag, og tilornet lærerne som skal undervise i fagene.
-- En bør om mulig fullføre timeplanleggingen av barnetrinnet før en starter timeplanleggingen av ungdomstrinnet (eller omvendt).
-- Først nå timeplanen for barnetrinnet er ferdig lagt er tiden inne for å legge inn start- og slutt-tidspunkt for timene slik de skal være for ungdomstrinnet.
+- Alle klasser bør være på plass med sine fag, og tilornet lærerne som skal undervise i fagene.
+- En bør fullføre timeplanleggingen av barnetrinnet før en starter timeplanleggingen av ungdomstrinnet (eller omvendt).
+- Når timeplanen for barnetrinnet er ferdig lagt, legger man inn start- og slutt-tidspunkt for timene slik de skal være for ungdomstrinnet.
 - Man bør altså være ferding med timeplanlegging av barnetrinnet før man legger inn start- og sluttider for undomstrinnet.
 - Nå kan ungdomstrinnet timeplanllegges, og de nye start- og slutt-tidene benyttes. Barnetrinnet timeplan forblir urørt.
 
