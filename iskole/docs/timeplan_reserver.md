@@ -23,7 +23,7 @@ timeplanlegges.
 
 Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og alle deltakerene får samme melding på sin timeplan. Tilsvarende for 2: er at både lærerens - og elevens timeplan blir korrekt.
 
-### Registrering
+### Registrering av lærer
 Velg lærer, og første uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises lærerens timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, lærerens timer i klasse- og gruppefag er markert på blå bakgrunn, og kan selvsagt ikke reserveres.
 
 ![image](https://user-images.githubusercontent.com/80097133/118784939-ad772480-b890-11eb-9e58-5d4fa722ee59.png)
@@ -34,7 +34,7 @@ Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timepl
 
 Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timer alt er reservert eller timeplanlagt i noen uker for denne læreren, er det market under kollonen _Grunn_. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt for klasse- eller gruppefag, kan ikke velges her. Standard _Grunn_ er *Reservert*
 
-### Sletting av reservering
+### Sletting av reservering for lærer
 Velg lærer, og en uke hvor det er reistrert en reservering som en nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. Timen er avhuket for den timen som er valgt, og for alle andre uker som har samme markerte grunn (Reservert er standard grunn). Nå kan du justere hvilke uker som det er aktuelt å slette. Det er ikke mulig å slette undervisningstimer. Ingenting slettes før du du trykker på Slett-knapppen. 
 
 :::note Merk
@@ -51,7 +51,7 @@ Rektor kan gi noen/alle lærere tilgang til selv å reservere noen/alle rom til 
 
 Hvilke rom som er reservert herfra, vil bare vises på timeplanen til rommet. Rom reservert av lærer fra Mine sider vil i tillegg vises på lærerens timeplan.
 
-### Registrering
+### Registrering av rom
 Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en ny reservasjon.
 
 ![image](https://user-images.githubusercontent.com/80097133/118810959-be359380-b8ac-11eb-98db-212066400313.png)
@@ -65,11 +65,6 @@ I bildet over er første time mandag valgt. Nå kan du taste inn _Grunn_ for res
 
 Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under kolonnen _Opptatt/grunn_. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard _Grunn_ er *Reservert*
 
-### Sletting av reservering
-Velg rom, og en uke hvor det er reistrert en reservering som du nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. 
-Dersom det bare er denne reservasjonen som skal slettes, gjøres det fra øvre del av skjermbildet, klikk på _Slett reservasjonen uke ... _.
-
-Dersom reservasjonen for denne timen skal slettes for flere uker, markeres det på den nedre del av skjermbildet, før en klikker på _Slett valgte uker_.
 
 ## Reserver rom og lærer
 Timeplanlegger kan i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Trykk  på Legg til under overskriften _Reserver lærere til rommet_. Du får da opp en liste med lærere, og trykker på +-tegnet for å legge til akkurat den læreren. Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen møtevirksomhet med navngitte deltakere i noen/alle uker.
@@ -80,7 +75,7 @@ På _Mine sider_ vil disse reservasjonene komme frem både på timeplanen til ro
 En lærer kan ha behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom (fra _Mine sider>Timeplan>Rom_). Reservasjon derfra tillater at læreren kan ha undervisning i et rom og samtidig legge beslag på et annet rom.
 :::
 
-### Registrering
+### Registrering rom og lærer
 Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en ny reservasjon.
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde. Du skal nå se på den første halvdelen av skjermen:
