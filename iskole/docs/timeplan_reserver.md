@@ -24,7 +24,6 @@ timeplanlegges.
 Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og alle deltakerene får samme melding på sin timeplan. Tilsvarende for 2: er at både lærerens - og elevens timeplan blir korrekt.
 
 ### Registrering
-
 Velg lærer, og første uke reservasjonen skal gjelde for. Når dette valget er foretatt, vises lærerens timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en reservasjon, lærerens timer i klasse- og gruppefag er markert på blå bakgrunn, og kan selvsagt ikke reserveres.
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. 
@@ -50,7 +49,6 @@ Rektor kan gi noen/alle lærere tilgang til selv å reservere rom til seg selv. 
 Hvilke rom som er reservert herfra, vil bare vises på timeplanen til rommet. Rom reservert av lærer fra Mine sider vil i tillegg vises på lærerens timeplan.
 
 ### Registrering
-
 Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en ny reservasjon.
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde. Du skal nå se på den første halvdelen av skjermen:
@@ -79,7 +77,6 @@ En lærer har behov for et ekstra rom i en time hvor han har undervisning. Løse
 :::
 
 ### Registrering
-
 Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en ny reservasjon.
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde. Du skal nå se på den første halvdelen av skjermen:
