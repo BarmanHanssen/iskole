@@ -46,13 +46,15 @@ Timeplanlegger kan her reservere et rom, og dermed blokkere rommet for undervisn
 Eksempler på når dette kan være aktuelt: Rommet er i en periode leid bort. Rommet skal brukes av andre enn skolens lærere. Stengt for bruk til undervisning.
 
 :::note Merk
-Rektor kan gi noen/alle lærere tilgang til selv å reservere rom til seg selv. Lærerne kan da reservere rom fra _Mine sider>Timeplan>Rom_ uavhengig av egen timeplan. Altså kan de reservere et rom selv om de har undervisning på samme tid i et annet rom. Timeplanlegger kan slette en reservasjon gjort av en lærer, men en lærer kan ikke slette en reservasjon gjort av timeplanlegger.
+Rektor kan gi noen/alle lærere tilgang til selv å reservere noen/alle rom til seg selv. Lærerne kan da reservere rom fra _Mine sider>Timeplan>Rom_ uavhengig av egen timeplan. Altså kan de reservere et rom selv om de har undervisning på samme tid i et annet rom. Timeplanlegger kan slette en reservasjon gjort av en lærer, men en lærer kan ikke slette en reservasjon gjort av timeplanlegger.
 :::
 
 Hvilke rom som er reservert herfra, vil bare vises på timeplanen til rommet. Rom reservert av lærer fra Mine sider vil i tillegg vises på lærerens timeplan.
 
 ### Registrering
 Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en ny reservasjon.
+
+![image](https://user-images.githubusercontent.com/80097133/118810959-be359380-b8ac-11eb-98db-212066400313.png)
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde. Du skal nå se på den første halvdelen av skjermen:
 
