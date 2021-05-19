@@ -56,7 +56,9 @@ Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et tod
 
 ![Reserver rom](/iskole/img/timeplan_reserver_rom.png)
 
-Her kan du taste inn _Grunn_ for reserveringen. Reservere lærer til rommet er her ikke aktuelt, så da klikker du på _Lagre og lukk_ dersom reservasjonen bare skal gjelde for valgte uke. Skal imidlertid reserevasjonen gjelde for flere uker, klikker du på _Lagre_. Deretter huker du av for øvrige uker reservasjonen skal gjelde for og klikker _Kopier uke ... til valgte uker_.
+I bildet under er første time mandag valgt. Nå kan du taste inn _Grunn_ for reserveringen. Skal reserevasjonen gjelde for flere uker huker du av for øvrige uker reservasjonen skal gjelde for før du trykker på Lagre.
+
+![image](https://user-images.githubusercontent.com/80097133/118785981-abfa2c00-b891-11eb-935c-76f60a05ab00.png)
 
 Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under _Grunn_. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard _Grunn_ er *Reservert*
 
