@@ -58,9 +58,10 @@ Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timepla
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde. Du skal nå se på den første halvdelen av skjermen:
 
-I bildet under er første time mandag valgt. Nå kan du taste inn _Grunn_ for reserveringen. Skal reserevasjonen gjelde for flere uker huker du av for øvrige uker reservasjonen skal gjelde for før du trykker på Lagre.
+![image](https://user-images.githubusercontent.com/80097133/118811542-6a777a00-b8ad-11eb-82b2-45ee4fcd6d43.png)
 
-![image](https://user-images.githubusercontent.com/80097133/118785981-abfa2c00-b891-11eb-935c-76f60a05ab00.png)
+I bildet over er første time mandag valgt. Nå kan du taste inn _Grunn_ for reserveringen. Skal reserevasjonen gjelde for flere uker huker du av for øvrige uker reservasjonen skal gjelde for før du trykker på Lagre.
+
 
 Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under _Grunn_. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt, kan ikke velges her. Standard _Grunn_ er *Reservert*
 
