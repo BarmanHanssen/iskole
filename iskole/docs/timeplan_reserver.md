@@ -30,6 +30,8 @@ Velg lærer, og første uke reservasjonen skal gjelde for. Når dette valget er 
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. 
 
+![image](https://user-images.githubusercontent.com/80097133/118786571-3c387100-b892-11eb-9709-cc54aa3548d7.png)
+
 Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timen alt er reservert eller timeplanlagt i noen uker for denne læreren, er det market under Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt for klasse- eller gruppefag, kan ikke velges her. Standard _Grunn_ er *Reservert*
 
 ### Sletting av reservering
@@ -53,8 +55,6 @@ Hvilke rom som er reservert herfra, vil bare vises på timeplanen til rommet. Ro
 Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en ny reservasjon.
 
 Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde. Du skal nå se på den første halvdelen av skjermen:
-
-![Reserver rom](/iskole/img/timeplan_reserver_rom.png)
 
 I bildet under er første time mandag valgt. Nå kan du taste inn _Grunn_ for reserveringen. Skal reserevasjonen gjelde for flere uker huker du av for øvrige uker reservasjonen skal gjelde for før du trykker på Lagre.
 
