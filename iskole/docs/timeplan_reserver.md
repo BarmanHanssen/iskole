@@ -32,7 +32,7 @@ Klikk på en grønn time for å legge til en reservasjon. Du får nå opp timepl
 
 ![image](https://user-images.githubusercontent.com/80097133/118786571-3c387100-b892-11eb-9709-cc54aa3548d7.png)
 
-Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timer alt er reservert eller timeplanlagt i noen uker for denne læreren, er det market under kollonen Grunn. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt for klasse- eller gruppefag, kan ikke velges her. Standard _Grunn_ er *Reservert*
+Den uken som reserevasjonen planlegges fra, er markert med avhuking. Dersom noen timer alt er reservert eller timeplanlagt i noen uker for denne læreren, er det market under kollonen _Grunn_. Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Uker som allerede er båndlagt for klasse- eller gruppefag, kan ikke velges her. Standard _Grunn_ er *Reservert*
 
 ### Sletting av reservering
 Velg lærer, og en uke hvor det er reistrert en reservering som en nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. Du får nå opp timeplanen til den valgte læreren for hele året for akkurat den timen som er valgt. Timen er avhuket for den timen som er valgt, og for alle andre uker som har samme markerte grunn (Reservert er standard grunn). Nå kan du justere hvilke uker som det er aktuelt å slette. Det er ikke mulig å slette undervisningstimer. Ingenting slettes før du du trykker på Slett-knapppen. 
