@@ -27,7 +27,7 @@ Vi anbefaler følgende arbeidsplan:
 - En bør fullføre timeplanleggingen av barnetrinnet før en starter timeplanleggingen av ungdomstrinnet (eller omvendt).
 - Når timeplanen for barnetrinnet er ferdig lagt, legger man inn start- og slutt-tidspunkt for timene slik de skal være for ungdomstrinnet.
 - Man bør altså være ferding med timeplanlegging av barnetrinnet før man legger inn start- og sluttider for undomstrinnet.
-- Nå kan ungdomstrinnet timeplanllegges, og de nye start- og slutt-tidene benyttes. Barnetrinnet timeplan forblir urørt.
+- Nå kan ungdomstrinnet timeplanllegges, og de nye start- og slutt-tidene benyttes. Barnetrinnets timeplan forblir urørt.
 
 Vi har allerede påpekt at timene og timelengden er en mal som benyttes når en timeplanlegger legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, må malen oppdateres.
 
