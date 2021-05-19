@@ -16,7 +16,7 @@ Vi har tilrettelagt for at det enkelt skal være mulig å endre såvel start- so
 Klokkeslettene for timene som legges inn her, vil følge alle fag som timeplanlegges. Dersom ingen timer overlapper, betyr det at en lærer en dag kan ha etterfølgende timer, da dette ikke vil medføre noen kollisjon på timeplanen for læreren, eller for elevene.
 
 :::note Merk
-Timeoppsettet kan betraktees som en mal. Når en time timeplanlegges, får timen start- og slutt-tiden fra gjeldende oppsett. Den timeplanlagte time i det enkelte fag kan imidlertid senere gis endret start- eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-time. Fra Timeplan>Rapporter>Sum undervisning kan en til enhver tid finne hvor mange klokketimer som er timeplanlagt i det enkelte fag.
+Timeoppsettet kan betraktes som en mal. Når en time timeplanlegges, får timen start- og slutt-tiden fra gjeldende oppsett. Den timeplanlagte time i det enkelte fag kan imidlertid senere gis endret start- eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-time. Fra Timeplan>Rapporter>Sum undervisning kan en til enhver tid finne hvor mange klokketimer som er timeplanlagt i det enkelte fag.
 :::
 
 ### For skoler som har avvikende timeoppsett
