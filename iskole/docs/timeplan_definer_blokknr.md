@@ -13,7 +13,7 @@ Dersom skolen skal ha gruppefag, må man registrere hvor mange timer gruppefagen
 
 
 ## Antall timer til valg (blokknr)
-Vanlig oppsett for videregående skoler er 20 til 25 timer, hvilket tilsvarer 4 eller 5 Id-er (hvor hver ID legger beslag på 5 blokknr, altså 20 eller 25 timer). Maksimalt kan antall timer være lik antall timer som er satt opp fra valget Time. Det er helt ok å registrere flere timer, timetallet kan om nødvendig endres senere.
+Vanlig oppsett for videregående skoler er 20 til 25 timer, hvilket tilsvarer 4 eller 5 Id-er (hvor hver ID legger beslag på 5 blokknr, altså 20 eller 25 timer). Maksimalt kan antall timer være lik antall timer som er satt opp fra valget Time. Timetallet settes til minimum Antall blokid x 5, og kan oppjusteres ved behov.
 
 ## Antall blokk id
 Fag som skal gå parallelt (lik timeplan) markeres ved at de har samme Id. Vanligvis har aktuelle fag 5 timer per uke. Fag med mindre enn 5 timer kan ligge i en slik blokk, eller kan plasseres i egen blokk. Dersom noen fag har mer enn 5 timer, kan de overskytende timer plasseres under egen Id. Vi anbefaler at en benytter en fortløpende nummerering av Blokknr. Det gir bedre visuell oversikt når gruppefagene for tildelt Blokknr. 
