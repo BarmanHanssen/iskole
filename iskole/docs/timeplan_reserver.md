@@ -65,7 +65,7 @@ I bildet over er første time mandag valgt. Nå kan du taste inn _Grunn_ for res
 
 Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under kolonnen _Opptatt/grunn_. 
 
-Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Husk å trykke Kopier uke xxx til de valgte uker i det nedre skjermbildet før du trykker Lagre i det øvre skjermbildet.Uker som allerede er båndlagt, kan ikke velges her. Standard _Grunn_ er Reservering, og bør erstattes med noe mer dekkende.
+Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Husk å trykke _Kopier uke xxx til de valgte uker_ i det nedre skjermbildet før du trykker Lagre i det øvre skjermbildet. 
 
 ## Reserver rom og lærer
 Se skjermbildet ovenfor. Timeplanlegger kan i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Dersom lærer(e) skal knyttes til romreservasjonen: Trykk  på Legg til under overskriften _Reserver lærere til rommet_. Du får da opp en liste med lærere, og trykker på +-tegnet for å legge til en læreren. Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen planlagt møtevirksomhet med navngitte deltakere i noen/alle uker.
