@@ -67,7 +67,7 @@ Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market
 
 
 ## Reserver rom og lærer
-Timeplanlegger kan i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Trykk  på Legg til under overskriften _Reserver lærere til rommet_. Du får da opp en liste med lærere, og trykker på +-tegnet for å legge til akkurat den læreren. Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen møtevirksomhet med navngitte deltakere i noen/alle uker.
+Timeplanlegger kan i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Se skjermbildet ovenfor. Trykk  på Legg til under overskriften _Reserver lærere til rommet_. Du får da opp en liste med lærere, og trykker på +-tegnet for å legge til akkurat den læreren. Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen møtevirksomhet med navngitte deltakere i noen/alle uker.
 
 På _Mine sider_ vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere. Lærere kan altså ikke ha undervisningsoppdrag som kolliderer med reservasjonen.
 
