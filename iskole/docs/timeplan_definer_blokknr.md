@@ -9,7 +9,8 @@ Dersom man ikke har gruppefag, skal man ikke å avhuke for _Bruker blokkskjema_.
 
 Dersom skolen skal ha gruppefag, må man registrere hvor mange timer gruppefagene kan legge beslag på. Registreringen kan foretas før endelig valg av grupper, og elevenes valg av grupper, er fastlagt.
 
-![image](https://user-images.githubusercontent.com/80097133/118253703-855f7e00-b4aa-11eb-92c2-488a7c8a129c.png)
+![image](https://user-images.githubusercontent.com/80097133/118969549-775ba280-b96d-11eb-875d-2cb24fbd8dd7.png)
+
 
 ## Antall timer til valg (blokknr)
 Vanlig oppsett for videregående skoler er 20 til 25 timer, hvilket tilsvarer 4 eller 5 Id-er (hvor hver ID legger beslag på 5 blokknr, altså 20 eller 25 timer). Maksimalt kan antall timer være lik antall timer som er satt opp fra valget Time. Det er helt ok å registrere flere timer, timetallet kan om nødvendig endres senere.
