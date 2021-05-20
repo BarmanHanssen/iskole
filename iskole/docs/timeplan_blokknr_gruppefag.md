@@ -21,10 +21,11 @@ Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og 
 
 Timetallet er det mulig å endre. Det er hentet fra _Grunnlagsdata>Fag_ og kan endres også derfra. 
 Rom Z107 er også hentet fra _Grunnlagsdata>Fag_ og vil bli foreslått når Romnr skal utfylles, og er her blitt eerstattet med Y202.
-Her 
+Dersom faget er gitt ID fra _Time- og fagfordeling>Gruppefag_, vil alle fem timene kunne få innført sine respektive blokknr med et museklikk. Dersom faget ID ikke er innført, må en legge inn blokknr time for time. 
+Når man tryykker på _Lagre_, vil systemet sjekke at valget av blokknr og rom ikke medfører kollisjon mot allerede timeplanlagte aktiviteter.
 
 :::note Merk
-Det kan være aktuelt å gjøre endringer for en eller flere uker. Eksempel: I løpet av skoleåret skal et fag ha flere timer en periode, og færre timer en annen periode ("ploging"). Færre timer kan en fremskaffe ved ikke fylle ut blokknr for timer som skal utgå. For å kunne legge til ekstra timer må man øke timetallet.
+Det kan være aktuelt å gjøre endringer for en eller flere uker. Eksempel: I løpet av skoleåret skal et fag ha flere timer en periode, og færre timer en annen periode ("ploging"). Færre timer kan en fremskaffe ved ikke fylle ut blokknr for timer som skal utgå. For å kunne legge til ekstra timer må man øke timetallet og legge inn blokknr og rom på ekstratimene.
 :::
 
 - Registrere blokknr og romnr
