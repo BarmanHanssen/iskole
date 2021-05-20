@@ -75,17 +75,6 @@ På _Mine sider_ vil disse reservasjonene komme frem både på timeplanen til ro
 En lærer kan ha behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom (fra _Mine sider>Timeplan>Rom_). Reservasjon derfra tillater at læreren kan ha undervisning i et rom og samtidig legge beslag på et annet rom.
 :::
 
-### Registrering rom og lærer
-Velg rom, og hvilken uke reservasjonen skal gjelde for. Da vises rommets timeplan for denne uken. Timer markert med grønn farge kan velges for å legge inn en ny reservasjon.
-
-Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et todelt skjermbilde. Du skal nå se på den første halvdelen av skjermen:
-
-![Reserver rom](/iskole/img/timeplan_reserver_rom.png)
-
-Her kan du taste inn _Grunn_ for reserveringen. Deretter kan du legge til lærere ved å _Legg til_ i høyre del av bildet. Det vises nå et nytt dialogvindu med en tabell, du kan søke etter ansatte ved å skrive i tekstfeltene øverst i kolonnene og klikke _Enter_-tasten. Bare personer som ikke har undervisning denne timen, er valgbare.
-
-Klikk på _Lagre og lukk_ dersom reservasjonen bare skal gjelde for den valgte uken. Skal imidlertid reserevasjonen gjelde for flere uker, klikker du på _Lagre_. Deretter huker du av for øvrige uker reservasjonen skal gjelde for og klikker _Kopier uke ... til valgte uker_. Uker som allerede er båndlagt, kan ikke velges her.
-
 ### Sletting av reservering gjelder både for _Rom_ og for _Rom med lærer_
 
 Velg rom, og en uke hvor det er reistrert en reservering som du nå ønsker å slette. Trykk på timen som er reservert, og som skal slettes. 
