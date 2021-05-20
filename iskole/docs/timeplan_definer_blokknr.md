@@ -23,10 +23,8 @@ Et blokknummer representerer en spesifikk tidfestet time. Det innebærer at to f
 :::
 
 :::note Tips
-Dersom gruppene gis ID fra Time- og fagfordeling>Gruppefag (anbefales!), vil plassering av blokknumrene på fagene (fra Blokknr gruppefag) kunne skje halvautomatisk.
+Dersom gruppene gis ID fra _Time- og fagfordeling>Gruppefag_ (anbefales!), vil plassering av blokknumrene på fagene (fra _Blokknr gruppefag_) gå raskt. Blokknumrene kan plaseres på hvert fag ut fra fagets ID.
 :::
 
 ## Trinn 
 Benyttes når elevene selv skal velge gruppefag for neste skoleår. Kan stå blankt her. Hvilken hensikt disse avhukingene har, omtales annet sted.
-
-
