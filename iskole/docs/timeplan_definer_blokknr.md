@@ -3,7 +3,7 @@ id: timeplan_definer_blokknr
 title: Definer blokknr
 sidebar_label: Definer blokknr
 ---
-Dersom man ikke har gruppefag, skal man ikke å avhuke for Bruker blokkskjema. Uten gruppefag skal all undervisning foregå i klassen med alle elevene samlet, og i fag som er registrert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være Timeplanlegg klasse!
+Dersom man ikke har gruppefag, skal man ikke å avhuke for Bruker blokkskjema. Uten gruppefag skal all undervisning foregå i klassen med alle elevene samlet, og i fag som er registrert som klassefag. Man skal da ikke avhuker for _Bruker blokkskjema_. Og da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være Timeplanlegg klasse!
 
 Dersom skolen har fag hvor elever fra ulike klasser er sammen for undervisning i faget, er dette et gruppefag.
 
