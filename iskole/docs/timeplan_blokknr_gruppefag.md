@@ -29,7 +29,7 @@ Når man trykker på _Lagre_, vil iSkole sjekke at foreslåtte blokknr ikke komm
 Det kan i ettertid være aktuelt å gjøre endringer for en eller flere uker. Eksempel: I løpet av skoleåret skal et fag ha flere timer en periode, og færre timer en annen periode ("ploging"). Derom færre timer kan en fjerne blokknr for timer som skal utgå. For å legge til ekstra timer må man øke timetallet og legge inn blokknr og rom på ekstratimene.
 :::
 
-- Endre blokknr
+## Endre blokknr
 
 Et valgt blokknr kan når som helst byttes ut med et annet. Nytt blokknr kontrolleres på vanig måte (se ovenfor) før det kan lagres.
 Dersom noen av timene skal utgår for en uke: Fjern blokknr for aktuelle timer.
