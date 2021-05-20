@@ -4,7 +4,7 @@ title: Definer blokknr
 sidebar_label: Definer blokknr
 ---
 Dersom skolen har fag hvor elever fra ulike klasser er sammen for undervisning i faget, klassifiseres slike fag som gruppefag.
-Dersom man ikke har gruppefag, skal man ikke å avhuke for Bruker blokkskjema. Uten gruppefag skal all undervisning foregå i klassen med alle elevene samlet, og fagene er klassifisert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være Timeplanlegg klasse!
+Dersom man ikke har gruppefag, skal man ikke å avhuke for _Bruker blokkskjema_. Uten gruppefag skal all undervisning foregå i klassen med alle elevene samlet, og fagene er klassifisert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være Timeplanlegg klasse!
 
 
 Dersom skolen skal ha gruppefag, må man registrere hvor mange timer gruppefagene kan legge beslag på. Registreringen kan foretas før endelig valg av grupper, og elevenes valg av grupper, er fastlagt.
