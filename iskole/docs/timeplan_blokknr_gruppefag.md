@@ -15,8 +15,13 @@ Eksempel hvor blokknumrene er lagt inn på gruppefag:
 ![image](https://user-images.githubusercontent.com/80097133/118975143-f81d9d00-b973-11eb-85e2-40dfb2a2bcef.png)
 
 ## Registrering av blokknr på gruppefag
-Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og rom vises under tabellen med alle gruppefagene.
-Timetallet er det mulig å endre. Det er hentet fra Grunnlagsdata>Fag og kan endres også derfra. 
+Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og rom vises under tabellen med alle gruppefagene. Velger nå ST3:ESA 1 fra skjermbildet ovenfor:
+
+![image](https://user-images.githubusercontent.com/80097133/118976457-513a0080-b975-11eb-80d5-79a9b382adae.png)
+
+Timetallet er det mulig å endre. Det er hentet fra _Grunnlagsdata>Fag_ og kan endres også derfra. 
+Rom Z107 er også hentet fra _Grunnlagsdata>Fag_ og vil bli foreslått når Romnr skal utfylles, og er her blitt eerstattet med Y202.
+Her 
 
 :::note Merk
 Det kan være aktuelt å gjøre endringer for en eller flere uker. Eksempel: I løpet av skoleåret skal et fag ha flere timer en periode, og færre timer en annen periode ("ploging"). Færre timer kan en fremskaffe ved ikke fylle ut blokknr for timer som skal utgå. For å kunne legge til ekstra timer må man øke timetallet.
