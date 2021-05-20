@@ -35,4 +35,4 @@ Et valgt blokknr kan når som helst byttes ut med et annet. Nytt blokknr kontrol
 Dersom noen av timene skal utgår for en uke: Fjern blokknr for aktuelle timer.
 Dersom faget skal utgå for en uke: Endre Timer til 0 (null).
 
-Ingenting lagres før du trykker Lagre!
+Ingenting lagres før du trykker _Lagre_!
