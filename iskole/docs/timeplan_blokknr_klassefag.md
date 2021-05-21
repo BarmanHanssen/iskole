@@ -16,7 +16,7 @@ Dersom elevene i klassen kan velge gruppefag, anbefaler vi derfor å ferdigstill
 2. Gruppefagene har fått tildelt blokknummer. (Fra _Blokknr gruppefag_)
 3. Blokknumrene er timeplanlagt (Fra _Timeplanlegge blokknr_)
 
-Dersom disse tre registrerinene er på plass, er alt klart for timeplanlegging av klassefagene for klassen. Når så klassefagene er timeplanlagt, er timeplanen komplett.
+Dersom disse tre registreringene er på plass, er alt klart for timeplanlegging av klassefagene for klassen. Når så klassefagene er timeplanlagt, er timeplanen komplett.
 
 Grunnen er at nå foreligger alle data som trengs for å hindre at timeplanleggingen av klassefag kommer i konflikt med elevens valg av gruppefag. Hvilke timer hvor elevene (minst en elev!) skal ha gruppefag, blir markert på klassens timeplan (se _Timeplanlegge klasse_), og blokkerer for klassefag.
 
