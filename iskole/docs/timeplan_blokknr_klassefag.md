@@ -12,13 +12,13 @@ Timeplanen for gruppefagene har prioritet foran timeplanen til klassefagene. Vi 
 
 Dersom elevene i klassen kan velge gruppefag, anbefaler vi derfor å ferdigstille følgende før en starter timeplanlegging av klassefag:
 
-1. Elevene har valgt av gruppefag. (Fra Elevadmin>Fag>Gruppefag, eller i kombinasjon med at elevene selv har valgt gruppefag)
-2. Gruppefagene har fått tildelt blokknummer. (Fra Blokknr gruppefag)
-3. Blokknumrene er timeplanlagt (Fra Timeplanlegge blokknr)
+1. Elevene har valgt av gruppefag. (Fra _Elevadmin>Fag>Gruppefag_, eller i kombinasjon med at elevene selv har valgt gruppefag)
+2. Gruppefagene har fått tildelt blokknummer. (Fra _Blokknr gruppefag_)
+3. Blokknumrene er timeplanlagt (Fra _Timeplanlegge blokknr_)
 
 Dersom disse tre registrerinene er på plass, er alt klart for timeplanlegging av klassefagene for klassen. Når så klassefagene er timeplanlagt, er timeplanen komplett.
 
-Grunnen er at nå foreligger alle data som trengs for å hindre at timeplanleggingen av klassefag kommer i konflikt med elevens valg av gruppefag. Hvilke timer hvor elevene (minst en elev!) skal ha gruppefag, blir markert på klassens timeplan (se Timeplanlegge klasse), og blokkerer for klassefag.
+Grunnen er at nå foreligger alle data som trengs for å hindre at timeplanleggingen av klassefag kommer i konflikt med elevens valg av gruppefag. Hvilke timer hvor elevene (minst en elev!) skal ha gruppefag, blir markert på klassens timeplan (se _Timeplanlegge klasse_), og blokkerer for klassefag.
 
 ## Blokk tildelt klasse for uken
 Dersom ikke alt er på plass vedrørende punkt 1 til 3 ovenfor, men man ønsker å timeplanlegge klassefagene i en klasse hvor elevene kan velge gruppefag:
