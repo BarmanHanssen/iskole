@@ -27,7 +27,7 @@ Det kan være greit å markere, før klassefagene plasseres, hvilke timer man ø
 Dersom blokknumrene er timeplanlagt (punkt 3), innebærer det at man har bestemt timeplanen for blokkfagene.
 - Velg klasse
 - Flytt over fra Ledige blokknr til Tildelte blokknr de timene som skal blokkere for klassefag.
-- Bekreft valget med Lagre
+- Bekreft valget med Lagre 
 
 ![image](https://user-images.githubusercontent.com/80097133/119110333-51dca080-ba22-11eb-8894-2298090e2502.png)
 
