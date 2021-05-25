@@ -14,8 +14,6 @@ Men siden start og slutt på hver time er fastsatt fra menyvalget _Time_, kan de
 
 Så vårt klare råd er: Ikke timeplanlegg blokknumrene før det er endelig klargjort hvor hver time skal plasseres. Når hvert blokknummer har fått sin time, vær klar over at det kan skape problemer dersom tabellen  _Time_ endres.
 
-Når et blokknummer får endret plassering på timeplanen, får alle fag med dette blokknummeret endret plassering. Dersom blokknummer 25 flyttes fra onsdag 2.time til fredag 1 time, vil alle fag med blokknummer 25 automatisk få endret sin timeplan. Tilsvarende kan en gruppe fag enkelt kunne få endret timeplanen  med hensyn på fordelingen av dobbel- og enkelttimer. 
-
 Eksempel på ferdiglagt timeplan for blokknr:
 
 ![image](https://user-images.githubusercontent.com/80097133/113118295-9bbdbd00-920f-11eb-89ba-3031a26731f9.png)
