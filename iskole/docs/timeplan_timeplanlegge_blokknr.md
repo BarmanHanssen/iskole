@@ -4,7 +4,7 @@ title: Timeplanlegge blokknr
 sidebar_label: Timeplanlegge blokknr
 ---
 
-Blokknummer er en annen måte å angi en undervisningstime på. Begrunnelsen for å innføre blokknummer er at en ønsker en mer abstrakt måte å angi en time på. At to grupper, begge oppsatt med fem timer, får tildelt den samme nummerserie på fem blokknummer, forteller bare at fagene skal undervises parallelt. Men det sier ikke noe om det skal være to dobbelt-timer, eller på hvilke dager timene skal plasseres på timeplanen. Det er spesifiseringen av tid for hvert blokknummer som skal skje her.
+Blokknummer er en annen måte å angi en undervisningstime på. Begrunnelsen for å innføre blokknummer er at en ønsker en mer abstrakt måte å angi en time på. At to grupper, begge oppsatt med fem timer, får tildelt den samme nummerserie på fem blokknummer, forteller bare at fagene skal undervises parallelt. Men det sier ikke noe om det skal være to dobbelt-timer, eller på hvilke dager timene skal plasseres på timeplanen. Det er denne spesifiseringen av tid for hvert blokknummer som skal skje her.
 
 Poenget med blokknummer er altså å fastslå hvilke timer i gruppefag som skal undervises på samme tid. Det kunne man selvsagt fått til ved direkte fastsette timen som onsdag 2. time i stedet for å benytte blokknummer 25 (se skjermbildet nedenfor). Fordelen med blokknummer er todelt: En eksakt plassering av timene kan utsettes i tid. Eksempelvis kan en bestemme hvike fag som skal kunne velges av elevene, uten at en har bestemt timeplanen til fagene. Det vi har bestemt er at alle gruppefag som har et likt blokknummer skal undervises på samme tid, eksempelvis på onsdag 2. time dersom blokknummeret er 25 (se skjermbildet nedenfor).   
 
