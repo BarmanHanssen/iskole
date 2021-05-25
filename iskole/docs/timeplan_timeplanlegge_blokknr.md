@@ -12,7 +12,7 @@ Det er da innlysende at to blokknummer ikke kan tilordnes samme time, det vil jo
 
 Men siden start og slutt på hver time er fastsatt fra menyvalget _Time_, kan det være utfordrene dersom man endrer disse tidene etter at alle fag har fått tildelt blokknummer. Vær oppmerksom på at når blokknummer plasseres på et fag, så hentes start- og slutt-tid for timen ut fra tabellen i _Time_. Endrer man etterpå tabellen Time, vil dette ikke berøre timene for fag som alt er tildelt blokknummer. Skal endringen kunne skje for et allerede plassert gruppefag, må lagte blokknummer på faget fjernes, og så legges inn på nytt.
 
-Så vårt klare råd er: Ikke timeplanlegg blokknumrene før det er endelig klargjort hvor hver time skal plasseres. Når hvert blokknummer har fått sin time, vær klar over at det kan skape problemer dersom tabellen fra _Time_ endres.
+Så vårt klare råd er: Ikke timeplanlegg blokknumrene før det er endelig klargjort hvor hver time skal plasseres. Når hvert blokknummer har fått sin time, vær klar over at det kan skape problemer dersom tabellen  _Time_ endres.
 
 Når et blokknummer får endret plassering på timeplanen, får alle fag med dette blokknummeret endret plassering. Dersom blokknummer 25 flyttes fra onsdag 2.time til fredag 1 time, vil alle fag med blokknummer 25 automatisk få endret sin timeplan. Tilsvarende kan en gruppe fag enkelt kunne få endret timeplanen  med hensyn på fordelingen av dobbel- og enkelttimer. 
 
