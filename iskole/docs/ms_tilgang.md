@@ -11,7 +11,10 @@ Nøkkelpersonene kan endres av rektor, administrator og skoleeier. Unntak er rek
 - Rektor har alle rettigheter når det gjelder innsyn og bruk av systemet.
 - Administrator har i hovedsak de samme rettigheter som rektor, men kan ikke endre elevers kartakterer.
 - Karakteransvarlig, og rektor, kan rette en innført karakter for et fag etter at standunkt/eksamenskarakter er satt. Rettingen blir loggført, slik at en i ettertid kan se hva som har skjedd.
-
+- Kontaktperson for iSkole er vanligvis den som har best kjennskap til iSkoles virkemåte og derfor er den som kan gi råd og veiledning. Vedkommende er også den som kan hendvende seg til leverandøren angående feil/mangler og ønsker vedrørende bruk av iSkole. Viktigste kanal er support@barman-hanssen.no
+- NVBkontakt er den som har ansvaret for at vitnemål blir overført til Norsk vitnemåls database. Gjelder bare vitnemål for videregående skole.
+- Eksamensansvarlig har med oppsett av såvel muntlige som skrftilige eksamenspartier.
+- PASansvarlig har ansvaret for at oppsatte eksamenspartier blir overført til PAS.
 
 ## Brukergrupper
 
