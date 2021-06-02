@@ -18,6 +18,12 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Grunnlagsdata',
+      items: ['gd_skole','gd_rom','gd_planperiode','gd_skolerute','gd_utdanningsprogram','gd_klassetrinn','gd_fag','gd_klasse','gd_fagklasse'
+      ,'gd_merknad_fag','gd_filialklasse','gd_spesialklasse','gd_sokerportal','gd_samtykkeskjema','gd_oppslagsdata'],
+    },
+    {
+      type: 'category',
       label: 'Time- og fagfordeling',
       items: ['tf_klassefag','tf_gruppefag','tf_tolaererfag','tf_andre_ressurser','tf_kontaktlaerer','tf_vikar_i_fag','tf_stillingsstorrelser','tf_rapporter'],
     },
