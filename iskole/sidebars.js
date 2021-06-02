@@ -38,7 +38,7 @@ module.exports = {
       type: 'category',
       label: 'Elevadmin',
       items: ['ea_sokere','ea_elev','ea_mappe','ea_kontaktlaerer','ea_fag','ea_frav_ord_atf','ea_kardok','ea_kar_fam','ea_vitnemaal','ea_nvb'
-          ,'ea_kompetansebevis','ea_vigo','ea_skyss','ea_oppflytting','ea_passord_forelder','ea_brukernavn','ea_permisjon','ea_rapporter'],
+          ,'ea_kompetansebevis','ea_vigo','ea_skyss','ea_oppflytting','ea_passord_foreldre','ea_brukernavn','ea_permisjon','ea_rapporter'],
     },
     {
       type: 'category',
