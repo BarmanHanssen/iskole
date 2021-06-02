@@ -1,5 +1,5 @@
 ---
-id: ea_kardok.md
+id: ea_kardok
 title: Karakterdokumentasjon
 sidebar_label: Karakterdokumentasjon
 ---
