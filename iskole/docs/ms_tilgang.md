@@ -16,9 +16,16 @@ Nøkkelpersonene kan endres av rektor, administrator og skoleeier. Unntak er rek
 - Eksamensansvarlig har med oppsett av såvel muntlige som skrftilige eksamenspartier.
 - PASansvarlig har ansvaret for at oppsatte eksamenspartier blir overført til PAS.
 
+## Funksjoner
+![image](https://user-images.githubusercontent.com/80097133/120471255-c90c2000-c3a4-11eb-95b2-a17ed9d4efd4.png)
+Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnader.
+
 ## Brukergrupper
 Navn og Beskrivelse sier det meste om over 20 defienerte gruppene. Nevner her bare
 - Superbruker som er tiltenkt person(er) som direkte kan hjelpe andre brukere. Det kan skje ved at en superbruker, fra menyvalget _Brukerrolle_ kan logge seg inn på den brukeren som har bedt om assistanse. Superbruker kan da finne frem, og se på, samme skjermbildet som brukeren. Superbruker har begrenset tilgang til å gjøre endringer for brukeren.
+
+## Brukere
+Her kan rektor/administrator redigere rettigheter til ansatte. Dersom ingen brukergruppe(r) gir ønsket tilgang, er det mulig å gi brukeren tilgang til spesifikke menyvalg.
 
 ## Karakterer
 ![image](https://user-images.githubusercontent.com/80097133/120457815-0b2e6500-c397-11eb-9157-96711b25ea38.png)
