@@ -22,9 +22,12 @@ Navn og Beskrivelse sier det meste om over 20 defienerte gruppene. Nevner her ba
 
 ## Karakterer
 ![image](https://user-images.githubusercontent.com/80097133/120457815-0b2e6500-c397-11eb-9157-96711b25ea38.png)
-
-
+Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, og når elevene gis innsyn til egne resultater.
 
 ## Stenging
-Det er mulig å stenge iSkole for en gitt periode. I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Dette gjøres ved å velge planperioden det gjelder og deretter velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan da logge inn på iSkole og benytte den delen som ikke viser timeplan eller fag. De
-menyvalgene som har med timeplan og fag gir brukeren informasjon om når timeplanen blir tilgjengelig.
+Det er mulig å stenge iSkole for en gitt periode. I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Dette gjøres ved å velge planperioden det gjelder og deretter velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan da logge inn på iSkole og benytte den delen som ikke viser timeplan eller fag. De menyvalgene som har med timeplan og fag gir brukeren informasjon om når timeplanen blir tilgjengelig.
+
+## Romreservering
+Dersom noen annen en timepalnlegger skal kunne reservere et rom, kan en her angi hvilke rom som kan reseerveres av utvalgte ansatte. Dersom man gir en lærer en slik rettighet, kan vedkommende reservere et rom til en time hvor læreren allerede er båndlagt med undervisning i et annet rom. Ekstrarommet vil viese på lærerens timeplan, og på rommets timeplan. Både timeplanlegger, og læreren, kan slette en slik registrering.
+
+Merk: Dette er eneste mulighet for at en lærer skal kunne disponere mer enn et rom når læreren har en undervisningstime.
