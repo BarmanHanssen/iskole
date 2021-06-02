@@ -18,7 +18,7 @@ Nøkkelpersonene kan endres av rektor, administrator og skoleeier. Unntak er rek
 
 ## Brukergrupper
 Navn og Beskrivelse sier det meste om over 20 defienerte gruppene. Nevner her bare
-- Superbruker som er tiltenkt person(er) som direkte kan hjelpe andre brukere i konkrete problemstillinger. Det kan skje ved at en superbruker, fra menyvalget _Brukerrolle_ kan logge seg inn på den brukeren som har bedt om assistanse. Superbruker kan da finne frem, og se, på skjermbildet som skaper problemer. Superbruker har begrenset tilgang til å gjøre endringer for brukeren
+- Superbruker som er tiltenkt person(er) som direkte kan hjelpe andre brukere. Det kan skje ved at en superbruker, fra menyvalget _Brukerrolle_ kan logge seg inn på den brukeren som har bedt om assistanse. Superbruker kan da finne frem, og se på, samme skjermbildet som brukeren. Superbruker har begrenset tilgang til å gjøre endringer for brukeren.
 
 ## Stenging
 Det er mulig å stenge iSkole for en gitt periode. I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Dette gjøres ved å velge planperioden det gjelder og deretter velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan da logge inn på iSkole og benytte den delen som ikke viser timeplan eller fag. De
