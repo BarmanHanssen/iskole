@@ -24,6 +24,9 @@ Navn og Beskrivelse sier det meste om over 20 defienerte gruppene. Nevner her ba
 ![image](https://user-images.githubusercontent.com/80097133/120457815-0b2e6500-c397-11eb-9157-96711b25ea38.png)
 Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, og når elevene gis innsyn til egne resultater.
 
+## Elevers valg av programfag
+Dersom elevene skal velge fag i tillegg til fellesfagene som alle elevene i klassen skal følge, kan dette fagvalget gjøres direkte fra iSkole. Slike fag omtales som gruppefag. Fagvalget foretas vanligvis i januar/februar og gjelder for fag som skal påbegynnes neste skoleår. Valget forutsetter at neste års planperiode er opprettet, og at det er opprettet grupper i de aktuelle valgfagene. 
+
 ## Stenging
 Det er mulig å stenge iSkole for en gitt periode. I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Dette gjøres ved å velge planperioden det gjelder og deretter velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan da logge inn på iSkole og benytte den delen som ikke viser timeplan eller fag. De menyvalgene som har med timeplan og fag gir brukeren informasjon om når timeplanen blir tilgjengelig.
 
