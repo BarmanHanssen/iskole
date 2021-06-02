@@ -42,6 +42,11 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Personal',
+      items: ['p_ansatt','p_grupper','p_brukernavn','p_fravaer','p_oppslagsdata','p_rapporter'],
+    },
+    {
+      type: 'category',
       label: 'Emner',
       items: ['timeplanlegging','plagiatkontroll'],
     },
