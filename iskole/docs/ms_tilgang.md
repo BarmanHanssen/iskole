@@ -30,6 +30,7 @@ Her kan rektor/administrator redigere rettigheter til ansatte. Dersom ingen bruk
 
 ## Karakterer
 ![image](https://user-images.githubusercontent.com/80097133/120457815-0b2e6500-c397-11eb-9157-96711b25ea38.png)
+
 Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, og når elevene gis innsyn til egne resultater.
 
 ## Elevers valg av programfag
