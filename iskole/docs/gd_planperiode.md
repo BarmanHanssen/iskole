@@ -20,4 +20,7 @@ _Inkluder timeplanen_ Dersom timeplanen for fagene fra i år er tilnærmet den s
 
 _Kopier reserveringer_ Dersom skolen benytter iSkole for å beregne lærernes beskjeftigelse, og noen av lærerne er tildelt en fast ressurs som ikke er knyttet til undervisning, så markeres _Kopier reserveringer_
 
+_Kopier grupper (ikke timeplan og lærer)_ Dersom man planlegger med omlag de samme gruppefagene (valgfagene) som forrige skoleår, markeres det her.
+
+_Kopier andre ressurser_ Dersom skolen benytter iSkole for å beregne lærernes beskjeftigelse, og noen av lærerne er tildelt en fast ressurs som ikke er knyttet til undervisning, så markeres _Kopier reserveringer_
 
