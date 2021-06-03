@@ -18,9 +18,11 @@ _En eksisterende planperiode (anbefales)_ Dersom iSkole var i bruk i forutgåend
 
 _Inkluder timeplanen_ Dersom timeplanen for fagene fra i år er tilnærmet den samme som til neste år, selv faglærerne ikke er de samme, kan en huke av her. Det er enkelt å bytte faglærer, og å gjøre de endringene som må til. Denne muligheten er lite benyttet, de fleste finner det hensiktsmessig å begynne timeplanleggingen med blanke kort.
 
-_Kopier reserveringer_ Dersom skolen benytter iSkole for å beregne lærernes beskjeftigelse, og noen av lærerne er tildelt en fast ressurs som ikke er knyttet til undervisning, så markeres _Kopier reserveringer_
+_Kopier reserveringer_ Dersom noen rom, eller noen lærere, har fått båndlagt tider gjennom skoleåret, og dette skal fortsatt gjelde, markeres det her.
 
 _Kopier grupper (ikke timeplan og lærer)_ Dersom man planlegger med omlag de samme gruppefagene (valgfagene) som forrige skoleår, markeres det her.
 
 _Kopier andre ressurser_ Dersom skolen benytter iSkole for å beregne lærernes beskjeftigelse, og noen av lærerne er tildelt en fast ressurs som ikke er knyttet til undervisning, så markeres _Kopier reserveringer_
+
+Hensikten med eventuelle markeringer er at en slipper å registrere på nytt ting som ikke endrer seg nevneverdig fra foregående år. Når ny planperiode tas i bruk, kan en selvsagt korrigere for endringer. Så spørsmålet er hva som gir minst arbeid, nemlig å korrigere for avik, eller begynne med blanke ark.
 
