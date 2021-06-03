@@ -24,5 +24,5 @@ _Kopier grupper (ikke timeplan og lærer)_ Dersom man planlegger med omlag de sa
 
 _Kopier andre ressurser_ Dersom skolen benytter iSkole for å beregne lærernes beskjeftigelse, og noen av lærerne er tildelt en fast ressurs som ikke er knyttet til undervisning, så markeres _Kopier reserveringer_
 
-Hensikten med eventuelle markeringer er at en slipper å registrere på nytt ting som ikke endrer seg nevneverdig fra foregående år. Når ny planperiode tas i bruk, kan en selvsagt korrigere for endringer. Så spørsmålet er hva som gir minst arbeid, nemlig å korrigere for avik, eller begynne med blanke ark.
+Hensikten med eventuelle markeringer er at en slipper å registrere på nytt ting som ikke endrer seg nevneverdig fra foregående år. Når ny planperiode tas i bruk, kan en selvsagt korrigere for endringer. Så spørsmålet er hva som gir minst arbeid, å korrigere for avik, eller begynne med blanke ark.
 
