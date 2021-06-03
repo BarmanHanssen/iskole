@@ -9,3 +9,4 @@ Her skal vi angi rammevilkårene for skoleåret gitt ved følgende parametre:
 
 ![image](https://user-images.githubusercontent.com/80097133/120602780-a6811200-c44b-11eb-9263-43530328bd0d.png)
 
+Tidsperiode er fast fra 1. august til 31. juli. 
