@@ -47,6 +47,21 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Internet',
+      items: ['in_internat','in_utleie','in_rapporter'],
+    },
+    {
+      type: 'category',
+      label: 'Utlån',
+      items: ['ut_pcregister','ut_pcutlaan','ut_pceksportliste','ut_pcrapporter','ut_bokregister','ut_bokutlaan'],
+    },
+    {
+      type: 'category',
+      label: 'Eksamen',
+      items: ['eks_eksamenssted','eks_viktige_datoer','eks_sensor','eks_oppmelding','eks_karakterer','eks_oppmote','eks_klage','eks_pas','eks_prover','eks_rapporter'],
+    },
+    {
+      type: 'category',
       label: 'Emner',
       items: ['timeplanlegging','plagiatkontroll'],
     },
