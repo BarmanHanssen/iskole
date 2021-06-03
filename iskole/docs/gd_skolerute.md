@@ -10,5 +10,5 @@ Her skal man i detalj fastsette organiseringen av hele planperioden. For eksempe
 
 Det er mulig å inkludere også enkelte lørdager og søndager som skoledager. Slike dager kan også timeplanlegges og er i så måte likestilt med alle andre dager. 
 
-::: note Merk:::
-Det er mulig å endre skoleruten etter at skoleåret er startet. Dersom en skoledag endres til fridag, vil timeplanen ikke vises for denne dagen, selv om timeplanen lagt inn. Tilsvarende vil timeplanen for en fridag som endres til skoledag kunne komme frem. Vær oppmerksom på at slike endringer kan skape komplikasjoner dersom man allerede eksempelvis har ført fravær på elever på dager som endrer status.
+::: note Merk
+Det er mulig å endre skoleruten etter at skoleåret er startet. Dersom en skoledag endres til fridag, vil timeplanen ikke vises for denne dagen, selv om timeplanen lagt inn. Tilsvarende vil timeplanen for en fridag som endres til skoledag kunne komme frem. Vær oppmerksom på at slike endringer kan skape komplikasjoner dersom man allerede eksempelvis har ført fravær på elever på dager som endrer status.  :::
