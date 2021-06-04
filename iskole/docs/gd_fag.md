@@ -18,4 +18,7 @@ Kommentarer de utfyllingen av skjemaet:
 - _Komponent av_: Enkelte fag  er så omfattende at det er hensiktsmessig å dele det i flere komponenter. Hver komponent skal ha egen lærer, men en lærer er fagansvarlig når terminkarakterer skal fastsettes. At et fag er komponent av et annet fag, angis med å gi faget fagkoden 999999. Se eksempel:
 
 ![image](https://user-images.githubusercontent.com/80097133/120769703-abae9180-c51d-11eb-9a22-280ea8791e0a.png)
+
 Nedtrekkslisten for _Komponent av_ vi inneholde en liste med alle fag på klassetrinn ID1 som har fagkode forskjellig fra 999999. Kun disse fag er en mulig eier av komponenten ATU. Dersom man skal timeplanelegge en aktivitet som ikke skal ha egen vurdering (eksempelvis Klassens time), vi vi sette fagkoden til 999999, og _Komponent av_ <Ingen>.
+
+  -_Årstimere/Årsramme_:
