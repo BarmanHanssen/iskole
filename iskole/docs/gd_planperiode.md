@@ -4,7 +4,7 @@ title: Planperiode
 sidebar_label: Planperiode
 ---
 
-En planperiode er synonymt med et skoleår. Når et nytt skoleår starter, vil data knyttet til forrige skoleåret forbli upåvirket av hva som nå registreres av data. Hver planperiode inneholder alt som er blitt registrert via iSkole. Altså alle elever, hvilke fag og resultater som er oppnådd, likeså all undervisning i form av timeplaner og lærere, etc.
+En planperiode er synonymt med et skoleår. Når et nytt skoleår starter, vil data knyttet til forrige skoleåret forbli upåvirket av hva som nå registreres av data. Hver planperiode inneholder alt som er blitt registrert gjeldende skoleår. Altså dato om elever, hvilke fag og resultater som er oppnådd, likeså all undervisning i form av timeplaner og lærere, etc.
 Her skal vi angi rammevilkårene for skoleåret gitt ved følgende parametre: 
 
 ![image](https://user-images.githubusercontent.com/80097133/120602780-a6811200-c44b-11eb-9263-43530328bd0d.png)
@@ -14,7 +14,7 @@ Tidsperiode er fast fra 1. august til 31. juli. Datoene for øvrige feriedager o
 ![image](https://user-images.githubusercontent.com/80097133/120613164-3fb52600-c456-11eb-8a98-a116f7f6a22e.png)
 
 - _Legg kun inn den nye planperioden_: Dersom det er første året iSkole benyttes, skal en markere _Legg kun inn den nye planperioden_.
-- _En eksisterende planperiode (anbefales)_: Dersom iSkole var i bruk i forutgående planperiode, markeres _En eksisterende planperiode (anbefales)_
+- _En eksisterende planperiode (anbefales)_: Dersom iSkole var i bruk i forutgående planperiode, markeres _En eksisterende planperiode (anbefales)_. Man får da med oppsettet for klasser og fag slik det er satt opp fra panperioden man velger (det er nok den forrige planperioden som er aktuell...)
 
 - _Inkluder timeplanen_: Dersom timeplanen for fagene fra i år er tilnærmet den samme som til neste år, selv faglærerne ikke er de samme, kan en huke av her. Det er enkelt å bytte faglærer, og å gjøre de endringene som må til. Denne muligheten er lite benyttet, de fleste finner det hensiktsmessig å begynne timeplanleggingen med blanke kort.
 - _Kopier reserveringer_ Dersom noen rom, eller noen lærere, har fått båndlagt tider gjennom skoleåret, og dette skal fortsatt gjelde, markeres det her.
@@ -24,4 +24,6 @@ Tidsperiode er fast fra 1. august til 31. juli. Datoene for øvrige feriedager o
 - _Kopier andre ressurser_: Dersom skolen benytter iSkole for å beregne lærernes beskjeftigelse, og noen av lærerne er tildelt en fast ressurs som ikke er knyttet til undervisning, så markeres _Kopier reserveringer_
 
 Hensikten med eventuelle markeringer er at en slipper å registrere på nytt ting som ikke endrer seg nevneverdig fra foregående år. Når ny planperiode tas i bruk, kan en selvsagt korrigere for endringer. Så spørsmålet er hva som gir minst arbeid, å korrigere for avik, eller begynne med blanke ark.
+
+Siste steget i prosessen er å klikke på _Opprett den nye planperiode_. Planperioden er da klar for bruk. Muligens må en gjøre noen modisfiseringer, eksempelvis justere _Skolerute_, og/eller oppsettet av klasser. Hver spesielt oppmerksom på dersom nye fagkoder er kommet til. Det skaper endel ekstraarbeid dersom dette oppdages først etter at prøver/karakterer er satt.
 
