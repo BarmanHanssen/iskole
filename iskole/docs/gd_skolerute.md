@@ -4,7 +4,7 @@ title: Skolerute
 sidebar_label: Skolerute
 ---
 
-Her skal man i detalj fastsette organiseringen av hele planperioden. For eksempel skal videregeånde skole ha 190 dager med undervisning. At så er tilfelle dokumenteres via skoleruten. Hvor mange dager per måned, og totalt antallet skoledager som er planlagt, kan alle brukerne se fra _Mine sider>Skolerute_.
+Her skal man i detalj fastsette organiseringen av hele planperioden. For eksempel skal videregeånde skole ha 190 dager med undervisning. At så er tilfelle dokumenteres via skoleruten. Fra _Mine sider>Skolerute_ kan alle brukerne se skoleruten, og i tillegg hvor mange dager per måned, og totalt antallet skoledager som er lagt inn. 
 
 ![image](https://user-images.githubusercontent.com/80097133/120627759-477bc700-c464-11eb-802c-092aac4921d8.png)
 
