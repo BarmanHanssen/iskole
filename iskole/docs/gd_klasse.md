@@ -19,3 +19,7 @@ Eksempel hvor fagene allerede er lagt til:
 - _Klassen inngår i eksport til læringsplattform_: Dersom skolen også benytter eksempelvis ItsLearning, avhukes det her.
 - _Kostnadssted_: Brukes kun av Nordland fyylkeskommune. Ta kantakt dersom skolen din ønsker å benytte data herfra i budsjettsammenheng.
 - _Maksimalt elevantall_: Kan noteres, men brukes ikke andre steder.
+- _Klassefag_: I tabellen kommer alle fag som er lagt inn fra menyvalget _Fag_ frem. Ved oppstart av iSkole vil rimeligvis alle fag her være aktuelle fag for klassen. Fagene flyttes over fra _Tilgjengelige_ til _Valgte_.
+- _Dokumentasjonstype_: Vitnemål gjelder som rege for avgangsklassene.
+
+Når utfyllingen er avsluttet, trykkes _OK_ for lagring. Endringer kan gjøres senere. 
