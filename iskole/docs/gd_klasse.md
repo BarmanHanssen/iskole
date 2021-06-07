@@ -10,6 +10,8 @@ Etter at fagene er lagt inn for hvert klassetrinn på alle utdanningsprogram, da
 Eksempel hvor fagene allerede er lagt til:
 ![image](https://user-images.githubusercontent.com/80097133/120977450-a34f9400-c773-11eb-854c-e8e151744a40.png)
 
+Merk at kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget _Fagklasse_
+
 ## Legg til klasse
 
 ![image](https://user-images.githubusercontent.com/80097133/120978053-5ae4a600-c774-11eb-9014-eacd0c1493cd.png)
