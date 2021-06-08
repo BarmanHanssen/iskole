@@ -5,7 +5,7 @@ sidebar_label: Rapporter
 ---
 Gjeldende kodeverk kommer fra Udir. Disse koder benyttes i diverse sammenhenger i iSkole, og tekstene herfra kan/skal ikke endres av brukerne.
 
-Fagkoderegistret inneholder mer enn 17 000 rader. Registeret ble først utarbeidet for videregånde skole. Men nå inneholder det også fag for grunnskolen, og for Steinerskolene.
+Fagkoderegistret inneholder mer enn 17 000 rader. Registeret ble først utarbeidet for videregånede skole. Men nå inneholder det også fag for grunnskolen, og for Steinerskolene.
 
 For å begrense hva som vises, kan en legge inn filter der det er mulig. Se eksemplet nedenfor hvordan det kan gjøres:
 
