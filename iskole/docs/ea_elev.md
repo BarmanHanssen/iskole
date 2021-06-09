@@ -32,3 +32,4 @@ Dersom midlertidig personnummer benyttes, er det to forhold som kan skape proble
 :::
 
 Problemet nevnt ovenfor skyldes at vi kan få en dobbeltregistrering, og grad av oppryddingsarbeidet vil avhenge hvor mye annet som da er registrert på eleven med "midlertidig personnummer".  
+
