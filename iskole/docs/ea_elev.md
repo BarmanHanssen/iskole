@@ -23,7 +23,7 @@ Etter trykk på _+Ny..._ kan registrering av ny elev starte ut fra følgende skj
 
 ![image](https://user-images.githubusercontent.com/80097133/121347490-8b207600-c927-11eb-9b0b-93ef1ea91e18.png)
 
-Såfremt eleven har kjent personnummer, anbefales sterkt å taste inn elevens fødselsnummer. Dersom ikke personnummeret ikke er kjent, benytt eksempelvis 999999 som personnummer, og man huker da av for _Midlertidig personnummer_. Dette kan da erstattes senere nå nummeret blir tilgjenngelig. 
+Såfremt eleven har kjent personnummer, anbefales sterkt å taste inn elevens fødselsnummer. Dersom ikke personnummeret ikke er kjent, benytt eksempelvis 999999 som personnummer, og man huker da av for _Midlertidig personnummer_. Dette kan erstattes senere nå nummeret blir tilgjenngelig. 
 
 ::: note Merk
 Dersom midlertidig personnummer benyttes, er det to forhold som kan skape problemer/merarbeid:
