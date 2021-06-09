@@ -19,7 +19,7 @@ Dersom dette ikke tilfelle, må elevdata manuelt legges inn herfra.
 
 ![image](https://user-images.githubusercontent.com/80097133/121346113-fbc69300-c925-11eb-92ea-4cf69f1da3bb.png)
 
-Etter trykk på 
+Etter trykk på _+Ny..._ kan registrering av ny elev starte ut fra følgende skjermbilde:
 
 ![image](https://user-images.githubusercontent.com/80097133/121347490-8b207600-c927-11eb-9b0b-93ef1ea91e18.png)
 
