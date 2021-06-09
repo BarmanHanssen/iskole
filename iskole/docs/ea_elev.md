@@ -3,7 +3,7 @@ id: ea_elev
 title: Elev
 sidebar_label: Elev
 ---
-### Innledning
+## Innledning
 Veiledningen er to-delt, første del ser vi på å registrere ny elev, andre del hvordan vi redigerrer/endrer data som alt er registrert.
 
 Den vanligste måten å få inn elever til neste skoleår er
@@ -15,6 +15,6 @@ Den vanligste måten å få inn elever til neste skoleår er
 
 Dersom dette ikke tilfelle, må elevdata manuelt legges inn herfra.
 
-## Registrere ny elev
+### Registrere ny elev
 
 ![image](https://user-images.githubusercontent.com/80097133/121346113-fbc69300-c925-11eb-92ea-4cf69f1da3bb.png)
