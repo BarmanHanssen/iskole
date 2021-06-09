@@ -3,7 +3,7 @@ id: ea_elev
 title: Elev
 sidebar_label: Elev
 ---
-## Innledning
+### Innledning
 Veiledningen er to-delt, første del ser vi på å registrere ny elev, andre del hvordan vi redigerrer/endrer data som alt er registrert.
 
 Den vanligste måten å få inn elever til neste skoleår er
