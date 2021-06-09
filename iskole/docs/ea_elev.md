@@ -26,10 +26,12 @@ Etter trykk på _+Ny..._ kan registrering av ny elev starte ut fra følgende skj
 Såfremt eleven har kjent personnummer, anbefales sterkt å taste inn elevens fødselsnummer. Dersom ikke personnummeret ikke er kjent, benytt eksempelvis 999999 som personnummer, og man huker da av for _Midlertidig personnummer_. Dette kan erstattes senere nå nummeret blir tilgjenngelig. 
 
 ::: note Merk
-Dersom midlertidig personnummer benyttes, er det to forhold som kan skape problemer/merarbeid:
+Dersom midlertidig personnummer benyttes, eventuell også fiktiv fødselsdato, er det to forhold som kan skape problemer/merarbeid:
 - Eleven blir lagt inn på nytt, men da registrert med "ekte" personnummer
-- Eleven er allerede registrert i iSkole, eksempelvis fra annen skole
+- Eleven er allerede registrert i iSkole med "ekte" personnummer, eksempelvis fra en annen skole
 :::
 
-Problemet nevnt ovenfor skyldes at vi kan få en dobbeltregistrering, og grad av oppryddingsarbeidet vil avhenge hvor mye annet som da er registrert på eleven med "midlertidig personnummer".  
+Problemet nevnt ovenfor skyldes at vi da får en dobbeltregistrering av eleven, og grad av oppryddingsarbeidet vil avhenge hvor mye annet som er registrert på eleven med "midlertidig personnummer" før dobbletregistreringen oppdages.  
+
+Når gyldig fødselsnr er registrert vil _Fornavn_ og _Etternavn_ kunne vises fra automatisk. Det betyr i såfall at eleven alt er registrert i databasen til iSkole. Da gjenstår det bare å plassere eleven i en klasse før en trykker på _Lagre_.
 
