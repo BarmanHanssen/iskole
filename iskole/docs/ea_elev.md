@@ -56,7 +56,7 @@ Merknad er bare synlig herfra for den skolen som legger inn merknaden. Bytter el
 #### Foreldre 1 og Foreldre 2
 Data herfra benyttes for skolens kommunikasjon med elevens foresatte. Vanligvis bare interessant dersom eleven ikke har nådd myndighetsalder. 
 - E-varsel: Varsel til eleven, feks ved stort fravær, sendes også til foresatte som e-post.
-- Tilgang iSkole: Dersom eleven samtykker, kan foresatte få tilgang til iSkole så lenge eleven er elev ved skolen. 
+- Tilgang iSkole: Foresatte får tilgang til alle data knyttet til eleven så lenge eleven er elev ved skolen. Tilgangen stoppes default ved myndighetsalderen til eleven, dersom ikke annen variant er valgt.
 
 #### Søsken
 Dersom flere elever til foresatte, kan disse registreres her.
