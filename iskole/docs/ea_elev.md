@@ -34,4 +34,5 @@ Dersom midlertidig personnummer benyttes, eventuell også fiktiv fødselsdato, e
 Problemet nevnt ovenfor skyldes at vi da får en dobbeltregistrering av eleven, og grad av oppryddingsarbeidet vil avhenge hvor mye annet som er registrert på eleven med "midlertidig personnummer" før dobbletregistreringen oppdages.  
 
 Når gyldig fødselsnr er registrert vil _Fornavn_ og _Etternavn_ kunne vises fra automatisk. Det betyr i såfall at eleven alt er registrert i databasen til iSkole. Da gjenstår det bare å plassere eleven i en klasse før en trykker på _Lagre_.
+  
 
