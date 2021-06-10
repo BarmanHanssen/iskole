@@ -39,4 +39,8 @@ Når gyldig fødselsnummer er registrert vil _Fornavn_ og _Etternavn_ kunne frem
 ![image](https://user-images.githubusercontent.com/80097133/121490719-94681c00-c9d5-11eb-9558-2fdc1c780e7a.png)
 
 #### Tilknytting til skolen
-
+- Begynt settes default til registreringsdatoen. Helt OK at datoen er før skolestart, men ikke før planperiodens start.
+- Sluttet settes default til 31. juli, og endres bare dersom eleven slutter før siste skoledag. Merk at eleven mister tilgangen til iSkole straks etter denne datoen er passert.
+- Klasse er allerede lagt inn, men kan endres. Eleven får automatisk tildelt klassens fag.
+- Elevstatus settes default til E, men kan endres.
+- Rettstype settes default til blank, se nedtrekksliste for alternativer.
