@@ -6,14 +6,14 @@ sidebar_label: Elev
 ## Innledning
 For å bli definert som elev ved skolen et bestemt skoleår, må eleven være registrert med minimum fødselsnummer og navn, og være plassert i en klasse.
 
-Den vanligste måten å få inn elever til nytt skoleår er
+Alternativer for å få inn elever til nytt skoleår kan være
 
 - Inntak via Inntaksportalen til iSkole (anbefales)
 - Oppflytting fra forrige skoleår (ved nytt skoleår)
 - Inntak via fylket inntaksystem (gjelder videregående elever)
 - Via data fra annen skole som benytter iSkole (se nedenfor)
 
-Alternativt må elevdata tastes inn manuelt.
+I tillegg kan selvsagt elevdata tastes inn manuelt.
 
 ### Registrere ny elev
 
