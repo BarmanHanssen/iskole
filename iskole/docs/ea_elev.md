@@ -48,4 +48,21 @@ Når gyldig fødselsnummer er registrert vil _Fornavn_ og _Etternavn_ kunne frem
 #### Utdanning
 - Programkode og Bevistype er fastsatt fra Grunnlagsdata>Klasse, men kan her endres på individnivå.
 - Fullførtkode skal ikke endres før ved skoleslutt.
-- 
+- Fremmedspråk gs angis for elver som ikke har norsk som morsmål.
+
+#### Merknad
+Merknad vedrørende eleven. Denne er bare synlig herfra for den skolen som legger inn merknaden. Bytter eleven skole, er den ikke synlig på den nye skolen.
+
+#### Foreldre 1 og Foreldre 2
+Data herfra benyttes for skolens kommunikasjon med elevens foresatte. Vanligvis bare interessant dersom eleven ikke har nådd myndighetsalder. 
+- E-varsel: Varsel til eleven, feks ved stort fravær, sendes også til foresatte som e-post.
+- Tilgang iSkole: Dersom eleven samtykker, kan foresatte få tilgang til iSkole så lenge eleven er elev ved skolen. 
+
+#### Søsken
+Dersom flere elever til foresatte, kan disse registreres her.
+
+#### Elevadresse
+Dersom elevens adresse ikke er identisk med Forelder 1, kan riktig adresse innføres her.
+
+#### Portrettbilde
+Kan legge inn bilde fra _Last opp_. Dersom fotograf tar bilde for hele skolen, se _Mine sider>Foto_ for alternativ innlasting av bilde.
