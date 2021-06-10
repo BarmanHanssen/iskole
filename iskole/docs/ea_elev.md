@@ -36,7 +36,7 @@ Problemet nevnt ovenfor skyldes at vi da får en dobbeltregistrering av eleven, 
 
 Når gyldig fødselsnummer er registrert vil _Fornavn_ og _Etternavn_ kunne fremkomme automatisk. Det betyr i såfall at eleven alt er registrert i databasen til iSkole. Da gjenstår det bare å plassere eleven i en klasse før en trykker på _Lagre_. Da vises følgende skjermbilde:
  
-![image](https://user-images.githubusercontent.com/80097133/121494656-3b9a8280-c9d9-11eb-969f-cac699fb46a4.png)
+![image](https://user-images.githubusercontent.com/80097133/121496236-8ec10500-c9da-11eb-8b3e-fd1d925c17d9.png)
 
 #### Tilknytting til skolen
 - Begynt settes default til registreringsdatoen. Helt OK at datoen er før skolestart, men ikke før planperiodens start.
@@ -46,4 +46,5 @@ Når gyldig fødselsnummer er registrert vil _Fornavn_ og _Etternavn_ kunne frem
 - Rettstype settes default til blank, se nedtrekksliste for alternativer.
 
 #### Utdanning
-- Programkode: Klikk på blyant-ikonet for alternativene
+- Programkode må endres i tilfelle at eleven skal ha annen programkode enn den som klassen er satt opp med. Klikk på blyant-ikonet for endring.
+- Bevistype bør 
