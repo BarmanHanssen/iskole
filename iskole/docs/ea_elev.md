@@ -8,12 +8,12 @@ Veiledningen er to-delt, første del ser vi på å registrere ny elev, andre del
 
 Den vanligste måten å få inn elever til neste skoleår er
 
-- Inntak via Inntaksportalen til iSkole
-- Oppflytting fra forrige skoleår
+- Inntak via Inntaksportalen til iSkole (anbefales)
+- Oppflytting fra forrige skoleår (ved nytt skoleår)
 - Inntak via fylket inntaksystem (gjelder videregående elever)
-- Via data fra annen skole som benytter iSkole
+- Via data fra annen skole som benytter iSkole (se nedenfor)
 
-Dersom dette ikke tilfelle, må elevdata manuelt legges inn herfra.
+Alternativt må elevdata manuelt legges inn.
 
 ### Registrere ny elev
 
