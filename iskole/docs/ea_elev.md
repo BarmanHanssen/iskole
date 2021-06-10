@@ -4,16 +4,16 @@ title: Elev
 sidebar_label: Elev
 ---
 ## Innledning
-Veiledningen er to-delt, første del ser vi på å registrere ny elev, andre del hvordan vi redigerer/endrer data som alt er registrert.
+For å bli definert som elev ved skolen et bestemt skoleår, må eleven være registrert med minimum fødselsnummer og navn, og være plassert i en klasse.
 
-Den vanligste måten å få inn elever til neste skoleår er
+Den vanligste måten å få inn elever til nytt skoleår er
 
 - Inntak via Inntaksportalen til iSkole (anbefales)
 - Oppflytting fra forrige skoleår (ved nytt skoleår)
 - Inntak via fylket inntaksystem (gjelder videregående elever)
 - Via data fra annen skole som benytter iSkole (se nedenfor)
 
-Alternativt må elevdata manuelt legges inn.
+Alternativt må elevdata tastes inn manuelt.
 
 ### Registrere ny elev
 
@@ -33,6 +33,6 @@ Dersom midlertidig personnummer benyttes, eventuell også fiktiv fødselsdato, e
 
 Problemet nevnt ovenfor skyldes at vi da får en dobbeltregistrering av eleven, og grad av oppryddingsarbeidet vil avhenge hvor mye annet som er registrert på eleven med "midlertidig personnummer" før dobbletregistreringen oppdages.  
 
-Når gyldig fødselsnr er registrert vil _Fornavn_ og _Etternavn_ kunne vises fra automatisk. Det betyr i såfall at eleven alt er registrert i databasen til iSkole. Da gjenstår det bare å plassere eleven i en klasse før en trykker på _Lagre_.
+Når gyldig fødselsnr er registrert vil _Fornavn_ og _Etternavn_ kunne fremkomme automatisk. Det betyr i såfall at eleven alt er registrert i databasen til iSkole. Da gjenstår det bare å plassere eleven i en klasse før en trykker på _Lagre_.
   
 
