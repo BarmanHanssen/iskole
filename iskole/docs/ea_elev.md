@@ -51,7 +51,7 @@ Når gyldig fødselsnummer er registrert vil _Fornavn_ og _Etternavn_ kunne frem
 - Fremmedspråk gs angis for elver som ikke har norsk som morsmål.
 
 #### Merknad
-Merknad vedrørende eleven. Denne er bare synlig herfra for den skolen som legger inn merknaden. Bytter eleven skole, er den ikke synlig på den nye skolen.
+Merknad er bare synlig herfra for den skolen som legger inn merknaden. Bytter eleven skole, er den ikke synlig på den nye skolen.
 
 #### Foreldre 1 og Foreldre 2
 Data herfra benyttes for skolens kommunikasjon med elevens foresatte. Vanligvis bare interessant dersom eleven ikke har nådd myndighetsalder. 
