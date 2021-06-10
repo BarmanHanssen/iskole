@@ -36,4 +36,5 @@ Problemet nevnt ovenfor skyldes at vi da får en dobbeltregistrering av eleven, 
 
 Når gyldig fødselsnummer er registrert vil _Fornavn_ og _Etternavn_ kunne fremkomme automatisk. Det betyr i såfall at eleven alt er registrert i databasen til iSkole. Da gjenstår det bare å plassere eleven i en klasse før en trykker på _Lagre_.
   
+![image](https://user-images.githubusercontent.com/80097133/121490719-94681c00-c9d5-11eb-9558-2fdc1c780e7a.png)
 
