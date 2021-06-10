@@ -46,5 +46,6 @@ Når gyldig fødselsnummer er registrert vil _Fornavn_ og _Etternavn_ kunne frem
 - Rettstype settes default til blank, se nedtrekksliste for alternativer.
 
 #### Utdanning
-- Programkode må endres i tilfelle at eleven skal ha annen programkode enn den som klassen er satt opp med. Klikk på blyant-ikonet for endring.
-- Bevistype bør 
+- Programkode og Bevistype er fastsatt fra Grunnlagsdata>Klasse, men kan her endres på individnivå.
+- Fullførtkode skal ikke endres før ved skoleslutt.
+- 
