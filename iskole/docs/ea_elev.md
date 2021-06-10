@@ -12,6 +12,7 @@ Alternativer for å få inn elever til nytt skoleår kan være
 - Oppflytting fra forrige skoleår (ved nytt skoleår)
 - Inntak via fylket inntaksystem (gjelder videregående elever)
 - Via data fra annen skole som benytter iSkole (se nedenfor)
+- Ved å hente data fra egen skole ved overgang til å benytte iSkole (gjelder nye skoler)
 
 I tillegg kan selvsagt elevdata tastes inn manuelt.
 
