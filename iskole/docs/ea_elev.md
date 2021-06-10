@@ -59,7 +59,7 @@ Data herfra benyttes for skolens kommunikasjon med elevens foresatte. Vanligvis 
 - Tilgang iSkole: Foresatte får tilgang til alle data knyttet til eleven så lenge eleven er elev ved skolen. Tilgangen stoppes default ved myndighetsalderen til eleven, dersom ikke annen variant er valgt.
 
 #### Søsken
-Dersom flere elever til foresatte, kan disse registreres her.
+Dersom flere elever til foresatte, kan disse registreres her. For oversikt over registrerte søsken, se _Elevadmin.>Rapporter>Navnelister>Søsken_.
 
 #### Elevadresse
 Dersom elevens adresse ikke er identisk med Forelder 1, kan riktig adresse innføres her.
