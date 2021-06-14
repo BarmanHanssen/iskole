@@ -14,3 +14,10 @@ Elevens klassefagene er i utgangspunktet alle fag klassen er satt opp med fra _G
 
  ## Gruppefag
  Gruppefagene er valgfag elevene selv velger. Det er nå vanlig at de elever som har slikt valg selv velger gruppefag. Valget skjer gjerne i januar/februar, og gjelder fag for kommende skoleår. Dersom det blir behov for endring, eller at skolen har valgt en løsning som medfører at valgene til den enkelte elev må innføres av ledelsen, må registreringen gjøres herfra.
+ 
+ En elev i prinsippet kan velge gruppefag uavhengig av hvilken klasse eleven tilhører. _Tilgjengelige gruppefag_ inneholder alle gruppefag som er registrert fra _Time- og fagfordeling_, gruppert på klassetrinn. Så for å finne riktig gruppefag for eleven, må man vite hvilken klassetrinn faget tilhører.
+ 
+ ::: note Merk
+ En elev kan ta et fag (fag er definert ut fra fagkoden) bare en gang. Altså ikke både som klassefag og gruppefag. Det er heller ikke tillatt å ta samme fag på nytt i et etterfølgende skoleår.
+ :::
+ 
