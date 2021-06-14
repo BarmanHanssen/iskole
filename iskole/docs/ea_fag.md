@@ -5,7 +5,7 @@ sidebar_label: Fag
 ---
  Fra dette valget kan en finjusterer fagvalget til enkeltelever.  Fagene til en elev er delt i to grupper: Klassefag og gruppefag.
  
- Ut fra klassetilhørighet finner du først frem eleven som fagvalget skal jmusteres for.
+ Ut fra klassetilhørighet finner du først frem eleven som fagvalget skal justeres for.
 
 ### Klassefag
 Elevens klassefagene er i utgangspunktet alle fag klassen er satt opp med fra _Grunnlagsdata>Klasse_. 
