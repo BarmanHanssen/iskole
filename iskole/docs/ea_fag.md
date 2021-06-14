@@ -9,7 +9,7 @@ sidebar_label: Fag
 
 ### Klassefag
 Elevens klassefagene er i utgangspunktet alle fag klassen er satt opp med fra _Grunnlagsdata>Klasse_. 
-- Dersom eleven ikke skal følge alle fag i klassen, kan en fjerne fag fra eleven. Marker faget som skal ut fra _Valgte for for <navn>_ og flytt det over til _Tilgjengelige klassefag_. 
+- Dersom eleven ikke skal følge alle fag i klassen, kan en fjerne fag fra eleven. Marker faget som skal ut fra _Valgte for ..._ og flytt det over til _Tilgjengelige klassefag_. 
 - Det er mullig for en elev å følge fag fra annen klasse enn sin egen. Til høyre for _Tilgjengelige klassefag_ kan du velge ny _Klasse_, og derfra hente fag som flyttes over til _Valgte fag_.
 
  ## Gruppefag
