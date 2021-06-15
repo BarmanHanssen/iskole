@@ -17,7 +17,7 @@ Det er nå vanlig at elevene via iSkole selv velger gruppefag. Valget skjer gjer
  
  En elev kan velge gruppefag uavhengig av hvilken klasse eleven tilhører. _Tilgjengelige gruppefag_ inneholder alle gruppefag som er registrert fra _Time- og fagfordeling_, gruppert på klassetrinn. Så for å finne riktig gruppefag for eleven, må man vite hvilken klassetrinn faget tilhører.
  
- ::: note Merk
+ :::note Merk
  En elev kan ta et fag (fag er definert ut fra fagkoden) bare en gang. Altså ikke både som klassefag og gruppefag. Det er heller ikke tillatt å ta samme fag på nytt i et etterfølgende skoleår.
  :::
  
