@@ -6,6 +6,8 @@ sidebar_label: Bulleteng
 
 Her kan skolen legge ut felles meldinger til elever og ansatte. Personer som er registrert som redaktører kan legge ut oppslag på bulletengen. Hvis du er redaktør, vil Redaktørinformasjon vise hvilken spalte du skriver for, redaktørperioden og din tittel. 
 
+### Egenskap
+
 ## Legge til et oppslag på bulleteng
 Klikk _Legg til_ for å oppprette et oppslag. Oppgi når oppslaget skal publiseres og når det utgår. Skriv inn en dato på formatet dd.mm.åååå eller trykk på kalendersymbolet til høyre for _Publiser_ og _Utgår_ og velg en dato. Hvis du ønsker at oppslaget kun er tilgjengelig for ansatte, huker du av boksen _Bare for ansatte_. Fyll inn emne og meldingstekst og klikk _Lagre_.
 
