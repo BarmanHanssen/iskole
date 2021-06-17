@@ -4,7 +4,7 @@ title: Bulleteng
 sidebar_label: Bulleteng
 ---
 
-Her kan skolen legge ut felles meldinger til elever og ansatte. Personer som er registrert som redaktører kan legge ut oppslag på bulletengen. Hvis du er redaktør, vil Redaktørinformasjon vise hvilken spalte du skriver for, redaktørperioden og din tittel. 
+Her kan skolen legge ut felles meldinger til elever og ansatte. Personer som er registrert som redaktører kan legge ut oppslag på bulletengen. Hvis du er redaktør, vil Redaktørinformasjon vise hvilken spalte du skriver for, og redaktørperioden og din tittel. 
 
 ### Når, og hvordan, vises en bulleteng?
 Når en logger på iSkole, vises alltid et skjermbide som blant annet viser egen timeplan. Det er bare ett unntak fra en slik oppstart: 
