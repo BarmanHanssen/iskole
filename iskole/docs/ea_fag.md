@@ -7,9 +7,9 @@ sidebar_label: Fag
  
  Ut fra klassetilhørighet finner du først frem eleven som fagvalget skal justeres for.
  
-  :::note Merk
+:::note Merk
  En elev kan ta et fag (fag er definert ut fra fagkoden) bare en gang. Altså ikke både som klassefag og gruppefag. Det er heller ikke tillatt å ta samme fag på nytt i et etterfølgende skoleår.
- :::
+:::
 
 ### Klassefag
 Elevens klassefagene er i utgangspunktet alle fag klassen er satt opp med fra _Grunnlagsdata>Klasse_. 
