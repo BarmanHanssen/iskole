@@ -4,6 +4,7 @@ title: Oppflytting
 sidebar_label: Oppflytting
 ---
 Nye elever til skolen vil bli tatt inn via iSkoles inntaksportal, Vigo inntak, eller ved manuell registrering.
+
 For skoler med flerårig løp, vil vanligvis en elev være tilknyttet skolen i flere planperioder.  Menyvalget _Oppflytting_ gjør det mulig å flytte opp årets elever til neste års planperiode. For at valget skal være mulig, må neste års planperiode være definert, ellers er det ingen klasser i nedtrekkslisten _*Klasse neste år_.
 
 ![image](https://user-images.githubusercontent.com/80097133/122378766-86327680-cf66-11eb-8084-b9d2bb9838d3.png)
