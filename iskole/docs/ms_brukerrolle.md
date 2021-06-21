@@ -14,4 +14,4 @@ Administratorer og superbrukere kan ta identitet til en bruker, men kun innenfor
 
 Når du har valgt _Ta identitet_ til en bruker, får du tilgang til å se det samme som for brukeren du har tatt identiteten til. Men innsynet gjelder kun for  _Mine sider_. Bytter man til en annen modul, vil man automatisk settes tilbake til egen bruker.
 
-Du får altså se på innholdet, men du får ikke endre på data som er lagret.  Innsynet kan være til hjelp dersom du som superbruker skal hjelpe/veilede en mindre erfaren bruker av iSkole. Da er det kjekt å kunne se brukerens data for lettere skjønne hva som er problematisk for denne brukeren.
+Du får altså se på innholdet, men du får ikke endre på data som er lagret.  Innsynet kan være til hjelp dersom du som superbruker skal hjelpe/veilede en mindre erfaren bruker av iSkole. Da er det kjekt å kunne se brukerens data for lettere skjønne hva som er problemet for denne brukeren.
