@@ -4,7 +4,9 @@ title: Elever
 sidebar_label: Elever
 ---
 
-Siden inneholder inntil tre ulike faner, basert på din rolle. _Kontaktelever, Søk etter elev_ og _Elever i mine fag_. Kontaktlærere ser sine kontaktelever og faglærere får liste over sine fag med tilhørende elever. Brukere med rettighet til elevadministrasjon har mulighet til å søke. Felles for alle fanene er at de har et øye-ikon i kolonnen _Detaljer_. Ved å klikke på dette ikonet kommer du til en side som viser elevens personalia, timeplan, fravær, orden/atferd og programfag for valg. Kontaktlærere og elevadministrasjon ser i tillegg vurderinger, elevsamtaler, fagsamtaler, resultater, eksamener og brev. Knappen øverst til venstre på siden tar deg tilbake til elevlisten. 
+Siden inneholder inntil tre ulike faner, _Kontaktelever, Søk etter elev_ og _Elever i mine fag_. Kontaktlærer ser sine kontaktelever og faglærer får liste over sine fag med tilhørende elever. Bare bruker med rettighet til elevadministrasjon får frem fanen _Søk etter elev_  . Felles for alle fanene er at de har et øye-ikon i kolonnen _Detaljer_. Ved å klikke på dette ikonet kommer du til en side som viser elevens personalia, timeplan, fravær, orden/atferd og programfag for valg. Kontaktlærer og elevadministrasjon ser i tillegg vurderinger, elevsamtaler, fagsamtaler, resultater, eksamener og brev. 
+
+Knappen øverst til venstre på siden tar deg tilbake til elevlisten. 
 
 ## Kontaktelever
 Hvis du er kontaktlærer vil alle dine elever vises i fanen _Kontaktelever_. Kolonnen _Sist innlogget_ viser når eleven eller den foresatte sist var innlogget, dette hjelper deg til å se om elevene benytter iSkole.
