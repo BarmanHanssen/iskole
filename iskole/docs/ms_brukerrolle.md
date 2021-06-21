@@ -10,7 +10,7 @@ Brukerroller viser hvilken type bruker man er. Brukerrollen definerer brukerens 
 Første linje i skjermbildet vises brukerrollen din, altså Administrator eller Superbruker.
 
 ### Brukere du kan ta identitet til
-Hierarkiet er som følger: administrator, superbruker, bruker. Administratorer og superbrukere kan ta identitet til en bruker, men kun innenfor modulen _Mine sider_ .
+Administratorer og superbrukere kan ta identitet til en bruker, men kun innenfor modulen _Mine sider_ .
 
 Når du har valgt _Ta identitet_ til en bruker, får du tilgang til å se det samme som for brukeren du har tatt identiteten til. Men innsynet gjelder kun for  _Mine sider_. Bytter man til en annen modul, vil man automatisk settes tilbake til egen bruker.
 
