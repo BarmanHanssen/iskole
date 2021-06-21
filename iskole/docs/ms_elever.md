@@ -12,9 +12,11 @@ Knappen øverst til venstre på siden tar deg tilbake til elevlisten.
 Hvis du er kontaktlærer vil alle dine elever vises i fanen _Kontaktelever_. Kolonnen _Sist innlogget_ viser når eleven eller den foresatte sist var innlogget, dette hjelper deg til å se om elevene benytter iSkole.
 
 ### Passord
-Hvis en elev glemmer passordet sitt, kan kontaktlæreren opprette et nytt passord ved å klikke _Rediger_ i kolonnen _Passord_. Eleven kan logge på og endre dette passordet under menyvalget _Personalia_. 
+Hvis en elev glemmer passordet sitt, kan kontaktlæreren opprette et nytt passord ved å klikke _Rediger_ i kolonnen _Passord_. Denne opsjon for kontaktlærer er overfløding dersom elevens epostadresse er lagt inn. Da kan eleven  selv få tilsendt passord ved å benyttet _Glemt passord?_ ved innlogging. Elev, og ansatte, kan selv endre passord fra _Mine sider>Personalia_.
 
 ### Passord til mange
+Dersom elevens epostadresse er lagt inn, kan eleven  selv få tilsendt passord ved å benyttet _Glemt passord?_ ved innlogging. Da trengs egentlig ikke valget _Passord til mange_!
+
 Når du får en klasse med elever som tidligere ikke har hatt iSkole, kan du benytte lenken _Følg lenken for å generere passord til flere elever på en gang_. iSkole vil kontrollere hvilke elever som ikke har passord, og huke disse av i kolonnen _Generer_. Du kan fritt legge til og trekke fra elever du ønsker å generere passord for. Velger du elever som allerede har passord, vil elevens passord bli overskrevet. Klikk på knappen _Generer passord_, du vil da komme til en side som lister elevene med passord. Du kan eksportere denne tabellen til Excel for lettere å skrive den ut og formidle passordene til elevene. 
 
 ### Vikar/assistent for mine kontaktelever
