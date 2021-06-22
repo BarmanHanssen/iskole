@@ -4,7 +4,7 @@ title: Reserver
 sidebar_label: Reserver
 ---
 
-# Innledning
+## Innledning
 Reserveringen av en lærer for en bestemt dag og time innebærer at læreren ikke kan ha undervisningen på samme tid. 
 Reservering av lærer en time medfører altså at læreren ikke kan ha time i klasse- eller gruppefag i denne timen. Tidene en lærer er reservert vises bare på lærerens timeplan.
 
