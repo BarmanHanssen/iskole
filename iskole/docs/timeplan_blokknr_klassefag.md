@@ -5,7 +5,7 @@ sidebar_label: Blokknr klasse
 ---
 
 ## Innledning
-Dersom noen klasser er uten gruppefag, er man klar for timeplanlegging av disse klassene uten å måtte bry seg om dette valget! Velg da Timeplanlegge klasse.
+Dersom noen klasser er uten gruppefag, er man klar for timeplanlegging av disse klassene uten å måtte bry seg om dette valget! Velg da Timeplanlegge klasse. (Men dersom noen av lærerne i klassefag også er lærer i gruppefag, bør en kanskje utsette timeplanleggingen av klassefagene.)
 
 For klasser med elever som kan velge, eller har valgt, gruppefag:
 Timeplanen for gruppefagene har prioritet foran timeplanen til klassefagene. Vi må vite/ha bestemt når elevene er opptatt med gruppefag når timeplanen legges for klassefagene. Timene for gruppefag kan i ikke benyttes når klassefagene skal timeplanlegges.
