@@ -26,7 +26,7 @@ Her er listet opp alle fagene som klassen er satt opp med (se Grunnlagsdata>Fag>
 - En timeplanlagt time kan fjernes fra timeplanen ved å høyreklikke på timen. 
 - Det er mulig å legge til fag direkte herfra (se Legg til). Forutsetningen er at faget finns (se Grunnlagsdata>Fag>Klassefag).
 
-Under listen med fag finner man en nedtrekkslisten _Rom_. Alle disponible undervisningsrom skolen disponerer er registrert fra Grunnlagsdata>Rom. Merk at dersom klassen har fått tildelt rom fra Grunnlagsdata>Klasse, vil klassens rom være forhåndsvalgt når klassefagene timeplanlegges. Det er mulig å endre dette romnummer, eventuelt legge inn fritt romnummer dersom klassen ikke har fått tildelt rom. Før timen lagres, vil systemet kontrollere at rommet er ledig. 
+Under listen med fag finner man en nedtrekkslisten _Rom_. Her vises alle rom som er registrert fra Grunnlagsdata>Rom. Merk at dersom klassen har fått tildelt rom fra Grunnlagsdata>Klasse, vil klassens rom være forhåndsvalgt når klassefagene timeplanlegges. Det er mulig å endre dette romnummer, eventuelt legge inn fritt romnummer dersom klassen ikke har fått tildelt rom. Før timen lagres, vil systemet kontrollere at rommet er ledig. 
 
 ## Timeplan klasse ST1A
 Her vises hvilke timer som alt er plassert, her to timer i NAT, og en time i ENG (mandag kl 8:15). Videre ser vi at faget ENG er markert under Fag. Det har fått tildelt en rosa farge, og denne fargen tas med når timene i faget plasseres. Det blir dermed lett å få oversikten som trengs for å fordele timene over ukens dager.
