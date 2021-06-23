@@ -47,6 +47,8 @@ I noen tilfeller kan det være greit å ha oversikt over timeplanen til flere l�
 
 ## Timeplanlegge klasse>Kopier
 
+Når man legger ny timeplan for neste skoleår er det unødvendig å benytte dette valget.
+
 Vanligste måte å kopiere timeplan på er fra hovedmenyvalget Timeplan>Kopier. Kopieringen gjøres gjerne når hele timeplanen for skolen er ferdigstilt, altså at samtlige klasse- og gruppefag er timeplanlagt, og hvor alle fag er registrert med lærer og rom. Da tas den da ferdige timeplan for hele skolen og kopieres fremover til et fritt valg antall uker (ofte: hele skoleåret). Det er mulig å kopiere en ny utgave av timeplanen for en uke fremover i tid, og dermed slette forrige versjon som alt er lagt ut.
 
 Å kopiere timeplanen for en separat klasse kan være påkrevd dersom det skjer endringer i klassens timeplan etter at skolens samlede timeplan alt er på plass. Timeplanen for en annen klasse kan være ulik den som gjelder for denne uken. Å kopiere en enkelt klasses timeplan krever derfor omfattende kontroller for å fastslå at timeplanen kan implementeres uten at klassens nye timeplan kommer i konflikt med timeplanen til den andre klassens endrede timeplan. Dersom kollisjon(er) avdekkes, blir det ingen kopiering.
