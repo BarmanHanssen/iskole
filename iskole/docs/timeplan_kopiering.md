@@ -12,8 +12,9 @@ Kopieringen tar med alle klasser og alle gruppefag for skolen. Dersom en klasse 
 
 Her kopieres altså timeplanen for alle skolens klasser og gruppefag under ett, og til en eller flere andre uker. Det er derfor naturlig å vente med kopiering til alle klasse- og gruppefag er ferdig timeplanlagt for en uke før en kopierer fremover i tid til uker som skal ha identisk timeplan.
 
-Det er visse begrensninger knyttet
-til kopieringen dersom skoleåret er begynt, og fraværsføring er innført i den uken man skal kopiere til. Dersom man planlegger endringer i timeplanen på et senere tidspunkt, kan det være hensiktsmessig ikke å kopiere ut timeplanen for hele skoleåret. Det holder ofte at timeplanen er kjent to-tre uker frem i tid.
+Dersom man planlegger endringer i timeplanen på et senere tidspunkt, kan det være hensiktsmessig ikke å kopiere ut timeplanen for hele skoleåret. Det holder ofte at timeplanen er kjent to-tre uker frem i tid.
+
+Merk også at dersom fravær er notert for en elev i den uken man skal kopiere til, så må fraværet annuleres før kopiering kan gjennomføres. 
 
 :::caution OBS!
 Timeplanen i uker det kopieres til vil først bli slettet, deretter legges timeplanen fra valgt uke inn. 
