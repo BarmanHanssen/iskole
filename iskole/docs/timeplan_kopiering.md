@@ -3,8 +3,8 @@ id: timeplan_kopiering
 title: Kopiering
 sidebar_label: Kopiering
 ---
-Timeplanen for en skole vil kunne variere fra den ene uken til den neste. 
-Fra _Timeplanlegge klasse_ timeplanlegges klassefagene for en bestemt uke. Tilsvarende vil _Blokknummer for gruppefag_ angi blokknummmer for gruppefagene for en bestemt uke.  Dersom timeplanen for både klassefagene skal gjelde i flere uker, kan en herfra kopiere alt som er timeplanlagt fremover i fritt antall valgte uker.
+Timeplanen vil kunne variere fra den ene uken til den neste. 
+Fra _Timeplanlegge klasse_ timeplanlegges klassefagene for en bestemt uke. Tilsvarende vil _Blokknummer for gruppefag_ angi blokknummmer for gruppefagene for en bestemt uke.  Dersom timeplanen for både klasse- og gruppefagene skal gjelde i flere uker, kan en herfra kopiere alt som er timeplanlagt fremover i fritt antall valgte uker.
 
 :::note Merk
 Kopieringen tar med alle klasser og alle gruppefag for skolen. Dersom en klasse ikke er timeplanlagt, vil timeplanen forbli blank ved kopiering, selv om klassen var timeplanlagt i en av de ukene som det kopieres til.
