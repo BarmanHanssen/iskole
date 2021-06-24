@@ -47,7 +47,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Internet',
+      label: 'Internat',
       items: ['in_internat','in_utleie','in_rapporter'],
     },
     {
