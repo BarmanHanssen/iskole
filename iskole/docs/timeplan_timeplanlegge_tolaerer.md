@@ -8,6 +8,11 @@ sidebar_label: Timeplanlegge tolærerfag
 Dersom et fag er satt opp med flere lærere, er ekstra lærer(e) registrert fra Time- og fagfordeling>Tolærerfag. Både klasse- og gruppefag som skal ha tolærer vises i tabellen til venstre på skjermen.
 Tolærertimer kan bare timeplanlegges der faget alt er timeplanlagt. Tolærer har ofte færre årstimer en faglæreren.
 
+:::note Tips
+For bare få frem tolærerfag som er klargjort for timeplanlegging: Bruk filter slik som vist her.
+![image](https://user-images.githubusercontent.com/80097133/123410124-3af41580-d5af-11eb-8a68-ce8fd1dcb446.png)
+:::
+
 Velg først fag og tolærer som skal timeplanlegges. Her er faget BY1C TOB med EAN som tilærer valgt:
 
 ![image](https://user-images.githubusercontent.com/80097133/115712313-e9dc6100-a374-11eb-8e22-34255484eb20.png)
