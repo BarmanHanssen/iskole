@@ -14,4 +14,3 @@ Når vikarene er lagt inn, vil vikaren komme frem på timeplanen til vikaren, og
 :::note Merk<
 Dersom eksempelvis et 5-timers fag må ha to vikerer over en begrenset periode (flere uker), kan det være aktuelt å splitte faget, eksempelvis til 3+2 timer i denne perioden. Det gjøres ved å lage en komponent til faget slik at det timeplanmessig opptrer som to fag. Se _Grunnlagsdata>Fag_ for nærmere informasjon.
 :::
-
