@@ -4,8 +4,6 @@ title: Time
 sidebar_label: Time
 ---
 
-## Time
-
 En time på timeplanen er bestemt ved at vi angir når timen starter, og når den slutter. Timelengden er vanligvis 45 eller 60 minutter, den bestemmes på den enkelte skole.
 
 En timeplan har tradisjonelt inneholdt 6 timer per dag over 5 ukedager. Vanligvis har start og slutt-tidene på hver time hvert lik for alle dagene. Dette er en praktisk ordning som letter timeplanleggers arbeid, og også gjør det lettere for alle som er avhengig av timeplanen.
