@@ -36,9 +36,10 @@ Ved fraværsføring kan en bare føre fravær for en hel skoletime. Kommer en el
 :::
 
 ### Spesialtilfelle
-Anta at en skole har flere timeplanleggere, og eksempelvis barneskolens timeplanlegger har et oppsett for start- og slutt-tidene for sine klasser, mens ungdomstrinnet har noe avvikende timeoppsett. Dersom timeplanen for barne- og ungdomstrinnet skal legges på samme tid kreves ekstra omtanke og planlegging!
+Dersom timeplanen for barne- og ungdomstrinnet skal legges på samme tid kreves ekstra omtanke og planlegging!
+Anta videre at en skole har flere timeplanleggere, og eksempelvis barneskolens timeplanlegger har et oppsett for start- og slutt-tidene for sine klasser, mens ungdomstrinnet har noe avvikende timeoppsett. 
 
-Det er fullt mulig å legge inn alle mulige start- og slutt-tider på timene. Alle varianeter vil vises når timeplanlegger velger en klasse. Se eksemplet som er et utsnitt fra menyvalget _Timeplanlegge klasse_:
+Det er fullt mulig å legge inn alle aktuelle start- og slutt-tider på timene. Alle variantene vil vises når timeplanlegger velger en klasse. Se eksemplet som er et utsnitt fra menyvalget _Timeplanlegge klasse_:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/123789398-65aada80-d8dd-11eb-9179-e27caca49684.png)
 
