@@ -35,4 +35,3 @@ Som allerede nevnt, kan også start- og slutt-tid endres under selve timeplanleg
 Ved fraværsføring kan en bare føre fravær for en hel skoletime. Kommer en elev eksempelvis midt i en time, blir det enten fravær for hele timen, eller ikke noe fravær (men kanskje en anmerking). For større feksibilitet ved fraværsføring kan en 90-minutters time deles i to, men uten friminutt. 
 :::
 
-
