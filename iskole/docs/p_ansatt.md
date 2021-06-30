@@ -15,7 +15,5 @@ Dersom ny person skal registreres, trykker man på _+Ny asatt..._
 ![bilde](https://user-images.githubusercontent.com/80097133/123949930-70c83e00-d9a3-11eb-8e38-004a8565d7f8.png)
 
 - * Brukernavn (kort): Hver bruker må ha et internt brukernavn på maksimalt 5 tegn. Prøv de to første bokstaver i for- og etternavn. Brukernavnet må være unikt, og kommer blant annet frem på timeplaner. Kan endres senere.
-- Født og Personnr
-
-
-- Fornavn og Etternavn
+- Født og Personnr: Dersom den nye ansatte har personnummeret, anbefales sterkt at dette registreres ved innføringen her. Det er mullig å benytte fiktivt personnummer, eksempelvis 99999
+- Fornavn og Etternavn: Kan ikke stå blankt!
