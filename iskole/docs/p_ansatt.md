@@ -17,3 +17,7 @@ Dersom ny person skal registreres, trykker man på _+Ny asatt..._
 - * Brukernavn (kort): Hver bruker må ha et internt brukernavn på maksimalt 5 tegn. Prøv de to første bokstaver i for- og etternavn. Brukernavnet må være unikt, og kommer blant annet frem på timeplaner. Kan endres senere.
 - Født og Personnr: Dersom den nye ansatte har personnummeret, anbefales sterkt at dette registreres ved innføringen her. Det er mullig å benytte fiktivt personnummer, eksempelvis 99999
 - Fornavn og Etternavn: Kan ikke stå blankt!
+
+:::note Merk
+Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med disse data. Inntreffer dersom personen har vært elev, eller ansatt, ved en annen skole som bruker iSkole. Da vil for- og etternavn automtisk fylles ut.
+:::
