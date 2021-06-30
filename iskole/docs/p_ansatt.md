@@ -12,6 +12,8 @@ Personer som skal kunne få tilgang til iSkole må være registrert i systemet. 
 
 Dersom ny person skal registreres, trykker man på _+Ny asatt..._
 
+![bilde](https://user-images.githubusercontent.com/80097133/123949930-70c83e00-d9a3-11eb-8e38-004a8565d7f8.png)
+
 - * Brukernavn (kort)
 - Født og Personnr
 - Fornavn og Etternavn
