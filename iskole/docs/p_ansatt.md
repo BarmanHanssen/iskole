@@ -21,3 +21,5 @@ Dersom ny person skal registreres, trykker man på _+Ny asatt..._
 :::note Merk
 Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med disse data. Inntreffer dersom personen har vært elev, eller ansatt, ved en annen skole som bruker iSkole. Da vil for- og etternavn automtisk fylles ut.
 :::
+
+Nå er tilstrekkelig data om personen registrert, og vedkommende kan få tilgang som bruker av iSkole, dog med meget begrenset tilgang.
