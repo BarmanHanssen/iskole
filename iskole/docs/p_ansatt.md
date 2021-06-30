@@ -11,3 +11,7 @@ Personer som skal kunne få tilgang til iSkole må være registrert i systemet. 
 - _Vis alle_ tar også med de som har sluttet.
 
 Dersom ny person skal registreres, trykker man på _+Ny asatt..._
+
+- * Brukernavn (kort)
+- Født og Personnr
+- Fornavn og Etternavn
