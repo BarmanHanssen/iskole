@@ -36,7 +36,7 @@ Neste trinn er å legge inn flere data for den nytilsatte:
 - Kontaktopplysninger/Pårørende: Vi anbefaler minimum å registrere e-post.
 
 :::note Merk
-Det er viktig å få registrert sluttet-dato når den foreligger. Etter denne dato vil den ansatte ikke lengre kunne logg seg på iSkole.
+Det er viktig å få registrert sluttet-dato når den foreligger. Etter denne dato vil den ansatte ikke lengre kunne logge seg på iSkole.
 :::
 
 
