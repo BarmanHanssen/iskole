@@ -29,10 +29,10 @@ Neste trinn er å legge inn flere data for den nytilsatte:
 ![bilde](https://user-images.githubusercontent.com/80097133/124095958-72a10880-da5a-11eb-8d6f-58c3de6bf309.png)
 
 ### Ansatt
-Kortnavn på timeplan: Kan endres. Kontrolleres mot andre ansatte, da to personer på skolen ikke kan ha likt kortnavn.
-Født og Persnr: Kan endres. Kun gyldige personnummer godtas. 
-Brukernavn: Alterantiv brukernavn for å kunne logge inn på iSkole. Ansatte kan uansett bruke fødselsnummer eller epost som brukernavn.
-Ansattnr: Opprettes automatisk ved registrering, brukes internt, og kan ikke endres.
+- Kortnavn på timeplan: Kan endres. Kontrolleres mot andre ansatte, da to personer på skolen ikke kan ha likt kortnavn.
+- Født og Persnr: Kan endres. Kun gyldige personnummer godtas. 
+- Brukernavn: Alterantiv brukernavn for å kunne logge inn på iSkole. Ansatte kan uansett bruke fødselsnummer eller epost som brukernavn.
+- Ansattnr: Opprettes automatisk ved registrering, brukes internt, og kan ikke endres.
 
 Kontaktopplysninger/Pårørende: Vi anbefaler minimum å registrere e-post.
 
