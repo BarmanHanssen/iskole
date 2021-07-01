@@ -23,3 +23,9 @@ Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns
 :::
 
 Nå er tilstrekkelig data om personen registrert, og vedkommende kan få tilgang som bruker av iSkole, dog med meget begrenset tilgang.
+
+Neste trinn er å legge inn flere dato for den nytilsatte:
+
+![bilde](https://user-images.githubusercontent.com/80097133/124095958-72a10880-da5a-11eb-8d6f-58c3de6bf309.png)
+
+
