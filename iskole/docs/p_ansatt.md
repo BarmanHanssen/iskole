@@ -35,6 +35,11 @@ Neste trinn er å legge inn flere data for den nytilsatte:
 - Ansattnr: Opprettes automatisk ved registrering, brukes internt, og kan ikke endres.
 - Kontaktopplysninger/Pårørende: Vi anbefaler minimum å registrere e-post.
 
+:::note Merk
+Det er viktig å få registrert sluttet-dato når den foreligger. Etter denne dato vil den ansatte ikke lengre kunne logg seg på iSkole.
+:::
+
+
 ### Diverse
 - Begyntte: Registreringsdatoen legges inn automatisk. Kan endres.
 - Sluttet: Står blank ved registrering.
