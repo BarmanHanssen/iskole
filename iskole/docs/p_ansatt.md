@@ -39,3 +39,5 @@ Neste trinn er å legge inn flere data for den nytilsatte:
 - Begyntte: Registreringsdatoen legges inn automatisk. Kan endres.
 - Sluttet: Står blank ved registrering.
 - Utgår fra jubileumslisten: Fra _Personal>Rappoter>Jubileum_ får man oversikt hvem som runder 30-, 40 år osv. Noen ønsker ikke noen oppmerksomhet ved slike anledninger. Huker en av her, kommer vedkommende ikke med på denne listen.
+
+
