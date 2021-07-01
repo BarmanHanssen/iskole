@@ -44,5 +44,14 @@ Det er viktig å få registrert sluttet-dato når den foreligger. Etter denne da
 - Begyntte: Registreringsdatoen legges inn automatisk. Kan endres.
 - Sluttet: Står blank ved registrering.
 - Utgår fra jubileumslisten: Fra _Personal>Rappoter>Jubileum_ får man oversikt hvem som runder 30-, 40 år osv. Noen ønsker ikke noen oppmerksomhet ved slike anledninger. Huker en av her, kommer vedkommende ikke med på denne listen.
+- Avdeling: Større skoler kan ha nytte av å knytte ansatte til en, eller flere, avdelinger. Fra _Grunnlagsdata>Skole_ kan en registrere avdelinger.
+
+### Ansettelse og ansiennitet
+- Pedagogisk ansatt: Hukes av dersom vedkommende skal kunne ha undervisningsoppdrag.
+- Prosent: Deltidsansatte har mindre enn 100 % stilling.
+
+En god del av de øvrige felt er til nytte under arbeid med budsjett, og er av mindre betydning for private skoler...
+
+
 
 
