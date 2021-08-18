@@ -25,3 +25,7 @@ Merk at kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under me
 - _Dokumentasjonstype_: Vitnemål gjelder som rege for avgangsklassene.
 
 Når utfyllingen er avsluttet, trykkes _OK_ for lagring. Endringer kan gjøres senere. 
+
+:::note Merk
+Hvis man tar ut et fag av klassen, så vil faget miste læreren fra time- og fagfordelingen, og timeplanlagte timer blir slettet. 
+:::
