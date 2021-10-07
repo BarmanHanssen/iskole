@@ -33,7 +33,7 @@ Neste trinn er å legge inn flere data for den nytilsatte:
 - Født og Persnr: Kan endres. Kun gyldige personnummer godtas. 
 - Brukernavn: Alterantivt brukernavn for å kunne logge inn på iSkole. Se menyvalget _Brukernavn_ for generering av brukernavn. Ansatte kan også bruke fødselsnummer eller epost som brukernavn.
 - Ansattnr: Opprettes automatisk ved registrering, brukes internt, og kan ikke endres.
-- Kontaktopplysninger/Pårørende: Vi anbefaler minimum å registrere e-post til den ansatte. Den trengs blant annet dersom den ansatte har glemt passordet for å kunne logge seg på iSkole.
+- Kontaktopplysninger/Pårørende: Vi anbefaler minimum å registrere e-post til den ansatte. Den trengs blant annet dersom den ansatte har glemt/ikke har fått passord for å kunne logge seg på iSkole.
 
 :::note Merk
 Det er viktig å få registrert sluttet-dato når den foreligger. Etter denne dato vil den ansatte ikke lengre kunne logge seg på iSkole.
