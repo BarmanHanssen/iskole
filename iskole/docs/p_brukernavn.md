@@ -13,4 +13,4 @@ Her er listen med de tre alternativene:
 
 Merk: eposten kreves for at den enkelte kan få logget seg på første gang (før passord er lagt inn), eller når passordet er glemt.
 Fødselsnummeret er jo personlig, og enttydig, og er kanskje det som de flest bruker.
-Brukernavn generet herfra, eller lagt inn manuelt fra Mine sider>Ansatt må også være entydig innefor alle som er registrert i iSkole. Dersom et forslått brukernavn alt er i bruk, får man ikke lagret det herfra.
+Brukernavn generet herfra, eller lagt inn manuelt fra Mine sider>Ansatt, må også være entydig for alle som er registrert i iSkole. Dersom et forslått brukernavn alt er i bruk, får man ikke lagret det herfra.
