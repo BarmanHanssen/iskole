@@ -7,8 +7,10 @@ sidebar_label: Grupper
 
 Man kan opprette grupper/avdelinger  ed skolen. Hver gruppe/avdeling kan ha en leder og ingen eller flere medlemmer.
 
-![image](https://user-images.githubusercontent.com/80097133/136387884-9fad965d-5a42-435c-887c-394ab2262928.png)
- Eksempel:
- Start med _+Legg til gruppe_ der man legger inn leder, kode (kortnavn for gruppen), gruppenavn og epost. Klikk _V Lagre_ for å lagre dataene--
+Eksempel:
+Start med _+Legg til gruppe_ der man legger inn leder, kode (kortnavn for gruppen), gruppenavn og epost. Klikk _V Lagre_ for å lagre dataene
  
- Deretter kan man _Legge til ansatte i gruppen_. Marker en eller flere pot4ensielle medlemmene, deretter benytt ikonet _+Legg til ansatte i gruppen_, da flyttes de over til Ansatte i gruppen. Derfra kan også medlemmer fjernes dersom det skulle bli aktuelt.
+Deretter kan man _Legge til ansatte i gruppen_. Marker en eller flere potensielle medlemmene, benytt deretter ikonet _+Legg til ansatte i gruppen_, da flyttes de over til Ansatte i gruppen. Derfra kan også medlemmer fjernes dersom det skulle bli aktuelt.
+
+
+![image](https://user-images.githubusercontent.com/80097133/136387884-9fad965d-5a42-435c-887c-394ab2262928.png)
