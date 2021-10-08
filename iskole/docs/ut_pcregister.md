@@ -4,5 +4,4 @@ title: PC-register
 sidebar_label: PC-register
 ---
 
-![image](https://user-images.githubusercontent.com/80097133/136548705-80c29ecf-bb62-4fbf-875b-2f7df6f44da7.png)
-
+![image](https://user-images.githubusercontent.com/80097133/136549577-6d3d2d7b-5877-4e2b-bc7f-52914102f4a0.png)
