@@ -9,4 +9,4 @@ sidebar_label: Fravær/orden/atferd
  
 
 
-![image](https://user-images.githubusercontent.com/80097133/136759492-67b2b7fc-72d2-44c7-b0f4-c17976cfed45.png)
+
