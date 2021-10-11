@@ -7,5 +7,6 @@ sidebar_label: Fravær/orden/atferd
  
  Her er det mulig å gjøre justeringer på sluttoppgjør for 1. og 2. halvår klassevis. Endringene herfra overstyrer kontaktlærers innføringer.
  
+![Skjermbilde](https://user-images.githubusercontent.com/80097133/136761959-39985b8f-b113-419f-acaa-1a8377a50312.PNG)
 
 
