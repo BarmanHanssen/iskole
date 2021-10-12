@@ -22,7 +22,7 @@ Her vises alle fag med offisiell fagkode som er registrert på eleven over alle 
 ![image](https://user-images.githubusercontent.com/80097133/136935122-e69f2f0b-4780-44b6-9d66-7e6a884d784c.png)
 Dersom eleven kan dokumentere fag tatt ved annen skole, og dette faget ønskes med på vitnemål/kompetansebevis, kan det legges til herfra.
 
-_
+![image](https://user-images.githubusercontent.com/80097133/136942570-d7d04ac2-425e-42bb-ad63-a9c3260380e9.png)
 
 
-
+![image](https://user-images.githubusercontent.com/80097133/136942771-ed6a58d6-3aee-4b62-9ce7-e6f02ab5a97d.png)
