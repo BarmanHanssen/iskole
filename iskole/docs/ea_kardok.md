@@ -48,4 +48,6 @@ Det er bare Karakteransvarlig som kan slette et fag herfra.
 
 ![image](https://user-images.githubusercontent.com/80097133/137116192-c7f7d71a-1948-4b4a-a41c-5c1504c78acb.png)
 
-_Programliste_ oppsummerer hva som er registrert i henhold til kolonnene i tabellen. Dersom det er behov for endringer, må det markeres under _Overstyr vitnemål/kompetsebevis_
+_Programliste_ oppsummerer hva som er registrert i henhold til kolonnene i tabellen. Dersom det er behov for endringer, må det markeres under _Overstyr vitnemål/kompetsebevis_.
+
+
