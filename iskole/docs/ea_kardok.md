@@ -31,3 +31,10 @@ Det er som regel faglærer som setter karakterene på sine fag, unntatt eksamens
 
 Alle fag hvor det er innført standpunkt- og/eller eksamenskarakter blir tatt med ved utskrift av vitnemål og kompetansebevis. Dersom et fag ikke skal med, kan en markere det her.
 
+![image](https://user-images.githubusercontent.com/80097133/137088788-c555c6dc-a5c2-440d-a2f5-17c940bed3b9.png)
+
+Dersom et fag skal ha en FAM-merknad kan den legges til her.
+
+![image](https://user-images.githubusercontent.com/80097133/137089305-48384170-3aad-439d-8e1a-f1af56e6cf4a.png)
+
+Dersom ny eller utsatt prøve, eller særskilt prøve, er avlagt på høsten, skal det registreres her.
