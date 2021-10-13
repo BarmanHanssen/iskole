@@ -27,8 +27,7 @@ Dersom eleven kan dokumentere fag tatt ved annen skole, og dette faget ønskes m
 
 Det er som regel faglærer som setter karakterene på sine fag, unntatt eksamenskarakterer. I tillegg vil de som tilhører brukergruppen Kontor kunne føre inn alle karakterer. Når en karakter først er innført, og lagret, er det kun to personer ved skolen som kan endre den: rektor og Karakteransvarlig (se Mine sider>Tilgang>Nøkkelpersoner).
 
-![image](https://user-images.githubusercontent.com/80097133/136942771-ed6a58d6-3aee-4b62-9ce7-e6f02ab5a97d.png)
-
+![image](https://user-images.githubusercontent.com/80097133/137087613-4f46fe53-1469-4d92-a336-a77cfb727666.png)
 
 
 
