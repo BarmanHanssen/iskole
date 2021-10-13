@@ -7,4 +7,6 @@ sidebar_label: Karakterer/FAM
 
 ### Et meget viktig hjelpemiddel for å forhåndsjekke fagsammenmsetnikngen til alle elever som tar sikte på å få vitnemål ved utgangen av skoleåret!
 
-![image](https://user-images.githubusercontent.com/80097133/137125726-2989e165-d3a6-4ce8-a8aa-d7d6e3e97cf4.png)
+En naturlig start her vil være å velge klasse, og  sjekke elev for elev at fagsammensetningen gir grunnlag for å kunne få vitnemål.
+
+![image](https://user-images.githubusercontent.com/80097133/137127337-23d84bdd-4a91-4b87-a395-7729c85197dc.png)
