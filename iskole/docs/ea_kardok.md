@@ -44,4 +44,7 @@ Dersom ny eller utsatt prøve, eller særskilt prøve, er avlagt på høsten, sk
 
 Det er bare Karakteransvarlig som kan slette et fag herfra. 
 
+## Program
+
+![image](https://user-images.githubusercontent.com/80097133/137116192-c7f7d71a-1948-4b4a-a41c-5c1504c78acb.png)
 
