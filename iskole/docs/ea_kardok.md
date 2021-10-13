@@ -5,6 +5,8 @@ sidebar_label: Karakterdokumentasjon
 ---
 På grunn av all informasjonen som vises og redigeres, vil bare et fåtall brukere få tilgang til dette valget. Det er kun de som tilhører brukergruppen _Kontor_ og _Elevinspektør_ (se _Mine sider>Tilgang>Brukere_).
 
+Fagene som vises kommer fra flere kilder. Når en elev tildeles en klasse, får eleven alle klassefagene tildelt. I tillegg kommer eventuelle gruppefag som eleven velger. Fagene akkumuleres, slik at fagene for alle skoleårene vises.
+
 Dokumentasjon som er samlet her er påkrevd for å kunne skrive ut kompetansebevis og vitnemål til eleven. Herfra kan man gjøre tilføying/endring/tilpasninger dersom det skulle være nødvendig. Det er bare rektor og karakteransvarlig som kan endre på innførte standpunkt- og eksamenskarakter. Endringer blir loggført, se fanen _Karakter endret av_.
 Standard er at termin- stanpunktkarakterer føres inn av faglærer fra Mine sider>Karakterer. Orden og atferd fører kontaktlærer fra Mine sider>Orden/atferd. Kontaktlærer har også ansvar for at fagfraværet blir sluttført, det gjøres fra Mine sider>Fravær (siste post på siden).
 
