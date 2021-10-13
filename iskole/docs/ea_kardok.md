@@ -29,5 +29,5 @@ Det er som regel faglærer som setter karakterene på sine fag, unntatt eksamens
 
 ![image](https://user-images.githubusercontent.com/80097133/137087613-4f46fe53-1469-4d92-a336-a77cfb727666.png)
 
-Alle fag hvor det er innført standpunkt- og/eller eksamenskarakter blir tatt med når en tar utskrift av vitnemål og kompetansebevis. Dersom et fag ikke skal med, kan en markere det her.
+Alle fag hvor det er innført standpunkt- og/eller eksamenskarakter blir tatt med ved utskrift av vitnemål og kompetansebevis. Dersom et fag ikke skal med, kan en markere det her.
 
