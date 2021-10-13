@@ -38,3 +38,8 @@ Dersom et fag skal ha en FAM-merknad kan den legges til her.
 ![image](https://user-images.githubusercontent.com/80097133/137089305-48384170-3aad-439d-8e1a-f1af56e6cf4a.png)
 
 Dersom ny eller utsatt prøve, eller særskilt prøve, er avlagt på høsten, skal det registreres her.
+
+![image](https://user-images.githubusercontent.com/80097133/137092437-1ab1a3bc-ac8e-4f10-9397-879220024cf2.png)
+
+Det er bare Karakteransvarlig som kan slette et fag herfra. 
+
