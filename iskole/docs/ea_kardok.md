@@ -3,7 +3,7 @@ id: ea_kardok
 title: Karakterdokumentasjon
 sidebar_label: Karakterdokumentasjon
 ---
-På grunn av all informasjonen som vises og redigeres, vil bare et fåtall brukere få tilgang til dette valget. Det er kun de som tilhører brukergruppen _Kontor_ og _Elevinspektør_ (se _Mine sider>Tilgang>Brukere_).
+På grunn av all informasjonen som vises og redigeres, vil bare et fåtall brukere få tilgang til dette valget. De utvalgte tilhører brukergruppen _Kontor_ og _Elevinspektør_ (se _Mine sider>Tilgang>Brukere_).
 
 Fagene som vises kommer fra flere kilder. Når en elev tildeles en klasse, får eleven alle klassefagene tildelt. I tillegg kommer eventuelle gruppefag som eleven velger. Fagene akkumuleres, slik at fagene for alle skoleårene vises.
 
