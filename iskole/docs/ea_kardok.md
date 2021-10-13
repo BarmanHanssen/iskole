@@ -26,3 +26,5 @@ Dersom eleven kan dokumentere fag tatt ved annen skole, og dette faget ønskes m
 
 
 ![image](https://user-images.githubusercontent.com/80097133/136942771-ed6a58d6-3aee-4b62-9ce7-e6f02ab5a97d.png)
+
+xx
