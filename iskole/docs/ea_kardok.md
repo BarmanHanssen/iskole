@@ -62,6 +62,9 @@ _Utskrvevne vitnemål/kompetansebevis_ Dersom det er tatt noen utskrift, vil det
 
 Det er tre dokumenthoder som kan benyttes: Annullering av eksamen, årsak til fravær, eller forsøk. Utfyllende tekst innføres fra _Dokumentlinjer_.
 
+## Karakter innført av/Karakterendret av/Program endret av
+
+Oppsumering av hvem som har utført endringer, og dato for endringen ble bokført..
 
 
 
