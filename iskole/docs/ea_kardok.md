@@ -7,7 +7,7 @@ På grunn av all informasjonen som vises og redigeres, vil bare et fåtall bruke
 
 Fagene som vises kommer fra flere kilder. Når en elev tildeles en klasse, får eleven alle klassefagene tildelt. I tillegg kommer eventuelle gruppefag som eleven velger. Fagene akkumuleres, slik at fagene for alle skoleårene vises.
 
-Dokumentasjon som er samlet her er påkrevd for å kunne skrive ut kompetansebevis og vitnemål til eleven. Herfra kan man gjøre tilføying/endring/tilpasninger dersom det skulle være nødvendig. Det er bare rektor og karakteransvarlig som kan endre på innførte standpunkt- og eksamenskarakter. Endringer blir loggført, se fanen _Karakter endret av_.
+Dokumentasjon som er samlet her er påkrevd for å kunne skrive ut kompetansebevis og vitnemål til eleven. Herfra kan man gjøre tilføying/endring/tilpasninger dersom det skulle være nødvendig. 
 Standard er at termin- stanpunktkarakterer føres inn av faglærer fra Mine sider>Karakterer. Orden og atferd fører kontaktlærer fra Mine sider>Orden/atferd. Kontaktlærer har også ansvar for at fagfraværet blir sluttført, det gjøres fra Mine sider>Fravær (siste post på siden).
 
 For å lette oversikten inneholder skjermbildet flere arkfaner.
@@ -26,7 +26,7 @@ Dersom eleven kan dokumentere fag tatt ved annen skole, og dette faget ønskes m
 
 ![image](https://user-images.githubusercontent.com/80097133/137087920-672ad919-195d-4c67-a7df-4ad43b497781.png)
 
-Det er som regel faglærer som setter karakterene på sine fag, unntatt eksamenskarakterer. I tillegg vil de som tilhører brukergruppen Kontor kunne føre inn alle karakterer. Når en karakter først er innført, og lagret, er det kun to personer ved skolen som kan endre den: rektor og Karakteransvarlig (se Mine sider>Tilgang>Nøkkelpersoner).
+Det er som regel faglærer som setter karakterene på sine fag, unntatt eksamenskarakterer. I tillegg vil de som tilhører brukergruppen Kontor kunne føre inn alle karakterer. Når en karakter først er innført, og lagret, er det kun to personer ved skolen som kan endre den: rektor og Karakteransvarlig (se Mine sider>Tilgang>Nøkkelpersoner). Endringer blir loggført, se fanen _Karakter endret av_.
 
 ![image](https://user-images.githubusercontent.com/80097133/137087613-4f46fe53-1469-4d92-a336-a77cfb727666.png)
 
