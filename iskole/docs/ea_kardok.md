@@ -64,7 +64,7 @@ Det er tre dokumenthoder som kan benyttes: Annullering av eksamen, årsak til fr
 
 ## Karakter innført av/Karakterendret av/Program endret av
 
-Oppsumering av hvem som har utført endringer, og dato for endringen ble bokført..
+Oppsumering av hvem som har utført endringer, og dato for endringen.
 
 
 
