@@ -50,4 +50,18 @@ Det er bare Karakteransvarlig som kan slette et fag herfra.
 
 _Programliste_ oppsummerer hva som er registrert i henhold til kolonnene i tabellen. Dersom det er behov for endringer, må det markeres under _Overstyr vitnemål/kompetsebevis_.
 
+## Vitnemål/kopetansebevis
+
+_Vitnemålstype_ beregnes automatisk, men kan endres her dersom nødvendig.
+
+_Merknad på vitnemål/kompetansebevis_ Her legges det til VMM- merknader etter behov.
+
+_Utskrvevne vitnemål/kompetansebevis_ Dersom det er tatt noen utskrift, vil det markeres her. Utskriften er lagret, og kan hentes fram fra Elevadmin.>Vitnemål. 
+
+## Dokumenter
+
+Det er tre dokumenthoder som kan benyttes: Annullering av eksamen, årsak til fravær, eller forsøk. Utfyllende tekst innføres fra _Dokumentlinjer_.
+
+
+
 
