@@ -14,10 +14,9 @@ For å lette oversikten inneholder skjermbildet flere arkfaner.
 Her vises alle fag med offisiell fagkode som er registrert på eleven over alle år. Dersom noen fag er fullført på annen skole som benytter iSkole, vises skolenummeret til skolen i kolonne 2. Det er ikke mulig å gjøre andre endringer på fag avlagt på annen skole enn å utelukke det fra utskrift på kompetansebevis/vitnemål.
 :::
 
-![image](https://user-images.githubusercontent.com/80097133/137098971-7458c84b-9f04-4726-87eb-21d2444a2d7b.png)
-
 ## Karakterer
-![image](https://user-images.githubusercontent.com/80097133/136934282-56ea8a46-b918-4a43-aefc-fac09c4a5060.png)
+![image](https://user-images.githubusercontent.com/80097133/137099248-494d2ad0-fa97-4bee-9d28-38415adb7194.png)
+
 
 ![image](https://user-images.githubusercontent.com/80097133/136935122-e69f2f0b-4780-44b6-9d66-7e6a884d784c.png)
 
