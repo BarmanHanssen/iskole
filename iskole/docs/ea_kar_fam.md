@@ -24,3 +24,4 @@ Kontroll av vitnemål gir ingen mening før alle standpunkt- og eksamenskarakter
 Før alle karakterer er innført kan en fra _Vis kladd_ ta en utskrift av alle fag som eleven følger. Fagsammensetningen blir ikke kontrollert mot kontrollmotoren.
 
 ![image](https://user-images.githubusercontent.com/80097133/137270836-91154968-b4e5-449e-b0f7-8b27f3d5d6d3.png)
+gg
