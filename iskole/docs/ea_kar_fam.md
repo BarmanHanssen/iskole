@@ -9,7 +9,7 @@ sidebar_label: Karakterer/FAM
 
 En naturlig start her vil være å velge klasse, og  sjekke elev for elev at fagsammensetningen gir grunnlag for å kunne få vitnemål.
 
-![image](https://user-images.githubusercontent.com/80097133/137127337-23d84bdd-4a91-4b87-a395-7729c85197dc.png)
+![image](https://user-images.githubusercontent.com/80097133/137271364-62bd050a-35b8-4369-bf7c-18fbaef75ca7.png)
 
 Det er et omfattende, og komplisert lovverk som fastsetter hvilke fagsammensetning som kan godkjennes for at et vitnemål skal kunne bli utstedt. Denne kontrollen kan heldigvis gjøres via programvare fra Udir. Vårt bidrag er alltid å ha sist versjon av kotrollmotoren tilgjengelig. 
 
