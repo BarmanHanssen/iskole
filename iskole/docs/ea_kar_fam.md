@@ -31,4 +31,4 @@ Dersom _Kontoller vitnemål_ viser at alt er ok, er det klart for _Generer vitne
 
 Utskrift av selve vitnemålet er likt for de to valgene. Untaket er at at kommer et tillegg som viser at dette er et duplikat. Benyttes når eleven trenger ny papirkopi av allerede utstedt vitnemål.
 
-#### Dersom vitnemål må annuleres, gjøres det fra Elevadmin,>Karakterdokumentasjon>Vitnemål/kompetansebevis
+#### Dersom et vitnemål må annuleres, gjøres det fra Elevadmin,>Karakterdokumentasjon>Vitnemål/kompetansebevis
