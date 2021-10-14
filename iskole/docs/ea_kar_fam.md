@@ -16,7 +16,7 @@ Det er et omfattende, og komplisert lovverk som fastsetter hvilke fagsammensetni
 ::: Merk Ikonene i høyre kant er enten blå- eller gråfarget. Fargevalget kan variere avhengig av hvilken elev du hhar utpekt. Bare de blå ikonene er valgbare.
 :::
 
-'![image](https://user-images.githubusercontent.com/80097133/137128660-ac09896c-754d-49bc-bd24-f2cc8464b0bc.png)
+![image](https://user-images.githubusercontent.com/80097133/137128660-ac09896c-754d-49bc-bd24-f2cc8464b0bc.png)
 
 Første steget er å kontrollere fagsammensetningen. Det kan gjøres når som helst, men fortrinnsvis så tidlig at eventuell justering av fagvalget er mulig.
 
