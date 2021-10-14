@@ -5,7 +5,7 @@ sidebar_label: Karakterer/FAM
 ---
 ## Vitnemål
 
-### Et meget viktig hjelpemiddel for å forhåndsjekke fagsammensettingen til alle elever som tar sikte på å få vitnemål ved utgangen av skoleåret!
+#### Et meget viktig hjelpemiddel for å undersøke fagsammensettingen til alle elever som tar sikte på å få vitnemål ved utgangen av skoleåret!
 
 En naturlig start her vil være å velge klasse, og  sjekke elev for elev at fagsammensetningen gir grunnlag for å kunne få vitnemål.
 
