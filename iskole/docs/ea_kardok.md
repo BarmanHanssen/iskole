@@ -50,7 +50,7 @@ Det er bare Karakteransvarlig som kan slette et fag herfra.
 
 _Programliste_ oppsummerer hva som er registrert i henhold til kolonnene i tabellen. Dersom det er behov for endringer, må det markeres under _Overstyr vitnemål/kompetsebevis_.
 
-## Vitnemål/kopetansebevis
+## Vitnemål/kompetansebevis
 
 _Vitnemålstype_ beregnes automatisk, men kan endres her dersom nødvendig.
 
