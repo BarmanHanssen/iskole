@@ -29,4 +29,4 @@ Dersom _Kontoller vitnemål_ viser at alt er ok, er det klart for _Generer vitne
 
 ![image](https://user-images.githubusercontent.com/80097133/137270836-91154968-b4e5-449e-b0f7-8b27f3d5d6d3.png)
 
-Utskrift av seleve vitnemålet er likt for de to valgene. Untaket er at at kommer et tillegg som viser at dette er et duplikat. Benyttes når eleven trenger ny papirkopi av allerede utstedt vitnemål.
+Utskrift av selve vitnemålet er likt for de to valgene. Untaket er at at kommer et tillegg som viser at dette er et duplikat. Benyttes når eleven trenger ny papirkopi av allerede utstedt vitnemål.
