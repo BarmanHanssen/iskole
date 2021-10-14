@@ -28,4 +28,5 @@ Før alle karakterer er innført kan en fra _Vis kladd_ ta en utskrift av alle f
 Dersom _Kontoller vitnemål_ viser at alt er ok, er det klart for _Generer vitnemål_. Vitnemålet lagres med et vitnemålsnummer, og kan hentes frem fra _Vis vitnemål_.
 
 ![image](https://user-images.githubusercontent.com/80097133/137270836-91154968-b4e5-449e-b0f7-8b27f3d5d6d3.png)
-gg
+
+Utskrift av seleve vitnemålet er likt for de to valgene. Untaket er at at kommer et tillegg som viser at dette er et duplikat. Benyttes når eleven trenger ny papirkopi av allerede utstedt vitnemål.
