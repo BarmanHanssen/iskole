@@ -13,6 +13,9 @@ En naturlig start her vil være å velge klasse, og  sjekke elev for elev at fag
 
 Det er et omfattende, og komplisert lovverk som fastsetter hvilke fagsammensetning som kan godkjennes for at et vitnemål skal kunne bli utstedt. Denne kontrollen kan heldigvis gjøres via programvare fra Udir. Vårt bidrag er alltid å ha sist versjon av kotrollmotoren tilgjengelig. 
 
+::: Merk Ikonene i høyre kant er enten blå- eller gråfarget. Fargevalget kan variere avhengig av hvilken elev du hhar utpekt. Bare de blå ikonene kan bruke.
+:::
+
 '![image](https://user-images.githubusercontent.com/80097133/137128660-ac09896c-754d-49bc-bd24-f2cc8464b0bc.png)
 
 Første steget er å kontrollere fagsammensetningen. Det kan gjøres når som helst, men fortrinnsvis så tidlig at eventuell justering av fagvalget er mulig.
