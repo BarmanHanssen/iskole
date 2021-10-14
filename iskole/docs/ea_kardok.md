@@ -19,7 +19,7 @@ Her vises alle fag med offisiell fagkode som er registrert på eleven over alle 
 ## Karakterer
 ![image](https://user-images.githubusercontent.com/80097133/137099248-494d2ad0-fa97-4bee-9d28-38415adb7194.png)
 
-# Ikonene til høyre på skjermbildet:
+### Ikonene til høyre på skjermbildet:
 
 ![image](https://user-images.githubusercontent.com/80097133/136935122-e69f2f0b-4780-44b6-9d66-7e6a884d784c.png)
 
