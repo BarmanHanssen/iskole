@@ -51,6 +51,13 @@ Det er bare Karakteransvarlig som kan slette et fag herfra.
 
 _Programliste_ oppsummerer hva som er registrert i henhold til kolonnene i tabellen. Dersom det er behov for endringer, må det markeres under _Overstyr vitnemål/kompetsebevis_.
 
+## Fravær/orden/atferd
+
+![image](https://user-images.githubusercontent.com/80097133/137268116-98aa0404-bec1-4cb7-9ce5-a2fed4feef1f.png)
+
+
+Det er summert dager og timer som kommer på vitnemål/kompetansebevis. Her vil det bli 2 dager og 5 timer. Orden og atferd tas alltid fra 2. halvår. Men disse data kan altså overstyres fra _Program_.
+
 ## Vitnemål/kompetansebevis
 
 _Vitnemålstype_ beregnes automatisk, men kan endres her dersom nødvendig.
