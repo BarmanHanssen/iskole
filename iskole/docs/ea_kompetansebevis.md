@@ -8,4 +8,6 @@ sidebar_label: Kompetansebevis
 
 _Vis kladd_: Her vises alle fag hvor det er gitt standpunkt- eller eksamensår. Dersom ikke alle fag skal være med på kompetansebeviset, kan de merkes fra Elevadmin.>Karakterdokumentasjon>Karakterer med Utgår kompetansebevis.
 
-_Generer kompetansebevis/Vis kompetansebevis_: Når en genererer kompetansebevis blir lagret en fil merket med kompetansebevisnr. Bruk deretter ikonet Vis kompetansebevis for å kunne ta utskrift av kompetansebeviset.
+_Generer kompetansebevis/Vis kompetansebevis_: Når en genererer kompetansebevis vil det bli lagret en fil merket med kompetansebevisnr. Bruk deretter ikonet Vis kompetansebevis for å kunne ta utskrift av kompetansebeviset.
+
+Et kompetansebevis kan annuleres. Det skjer eventuelt fra Elevadmin.>Karakterdokumentasjon>Vitnemål/kompetansebevis.
