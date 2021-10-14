@@ -18,3 +18,8 @@ Det er et omfattende, og komplisert lovverk som fastsetter hvilke fagsammensetni
 Første steget er å kontrollere fagsammensetningen. Det kan gjøres når som helst, men fortrinnsvis så tidlig at eventuell justering av fagvalget er mulig.
 
 Kontroll av vitnemål gir ingen mening før alle standpunkt- og eksamenskarakterer er innført. Vitnemål som slipper gjennom kontrollen kan utstedes, og kan sendes til Norsk vitnemålsdatabase.
+
+![image](https://user-images.githubusercontent.com/80097133/137270739-91b580e9-d60a-43af-948b-4844bafaa1ac.png)
+
+
+![image](https://user-images.githubusercontent.com/80097133/137270836-91154968-b4e5-449e-b0f7-8b27f3d5d6d3.png)
