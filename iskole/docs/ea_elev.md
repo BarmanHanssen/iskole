@@ -58,10 +58,10 @@ Når gyldig fødselsnummer er registrert vil _Fornavn_ og _Etternavn_ kunne frem
 Merknad er bare synlig herfra for den skolen som legger inn merknaden. Bytter eleven skole, er den ikke synlig på den nye skolen.
 
 #### Foreldre 1 og Foreldre 2
-Fram til eleven er myndig, kan foreldre gis innsyn i data til sine barn. Dersom foreldres fødselsnummer regsitreres, kan det også benyttes som brukernavn ved innlogging til iSkole.
-Data herfra benyttes også for skolens kommunikasjon med elevens foresatte. Vanligvis bare interessant dersom eleven ikke har nådd myndighetsalder. 
+Fram til eleven er myndig, har foreldre innsyn i data til sine barn. Dersom foreldres fødselsnummer regsitreres, kan det også benyttes som brukernavn ved innlogging til iSkole.
+Data herfra benyttes også for skolens kommunikasjon med elevens foresatte. Vanligvis bare interessant til eleven har nådd myndighetsalder. 
 - E-varsel: Varsel til eleven, feks ved stort fravær, sendes også til foresatte som e-post.
-- Tilgang iSkole: Foresatte får tilgang til alle data knyttet til eleven så lenge eleven er elev ved skolen. Tilgangen stoppes default ved myndighetsalderen til eleven, dersom ikke annen variant er valgt.
+- Tilgang iSkole: Foresatte får tilgang til alle data knyttet til eleven så lenge eleven er elev ved skolen. Tilgangen stoppes ved myndighetsalderen til eleven, dersom ikke annen variant eksplisitt er valgt.
 
 #### Søsken
 Dersom flere elever til foresatte, kan disse registreres her. For oversikt over registrerte søsken, se _Elevadmin.>Rapporter>Navnelister>Søsken_.
