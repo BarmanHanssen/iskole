@@ -10,4 +10,4 @@ sidebar_label: Passord foreldre
 Kun elever hvor det er registrert hvem som er foreldre, med epost og/eller postadresse, kan får tilsendt passord. Foreldredata legges inn fra Elevadmin.>Elev.
 :::
 
-Dersom foreldrenes fødselsnummer og epost er registrert, kan foreldre selv få sendt passord på epost. Ved pålogging på iSkole bruker da fødselsnr som brukernavn, og klikker på _Glemt passord_.
+Dersom foreldrenes fødselsnummer og epost er registrert, kan foreldre selv få sendt passord på epost. Ved pålogging på iSkole bruker de da sitt eget fødselsnr som brukernavn, og klikker på _Glemt passord?_.
