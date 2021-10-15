@@ -6,6 +6,10 @@ sidebar_label: Elev
 ## Innledning
 For å bli definert som elev ved skolen et bestemt skoleår, må eleven være registrert med minimum fødselsnummer og navn, og være plassert i en klasse.
 
+:::note Merk
+Alle fag som skal på kompetansebevis/vitnmål til en elev må registreres på skoleåret faget tas. Desom eksempelvis fag tatt ved annen skole et skoleår eleven ikke var elev her, må eleven først plasseres i klasse her. Deretter kan faget knyttes til eleven, det utføres fra Elevadmin.>Karakterdokumentasjon.
+:::
+
 Alternativer for å få inn elever til nytt skoleår kan være
 
 - Inntak via Inntaksportalen til iSkole (anbefales)
