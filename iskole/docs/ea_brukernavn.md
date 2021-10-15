@@ -10,3 +10,4 @@ Det er også mulig å gi brukernavn fra _Elevadmin.>Elev_Personlig>Brukernavn_. 
 Av skjermbilde fremgår hvilke muligheter som foreligger. Ikke glem at et kort brukernavn er letterer å husk/bruke enn et langt brukernavn!
 
 ![image](https://user-images.githubusercontent.com/80097133/137476410-22086355-68f9-44dd-9360-b5028978cadf.png)
+  
