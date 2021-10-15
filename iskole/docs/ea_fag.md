@@ -19,5 +19,5 @@ Elevens klassefagene er i utgangspunktet alle fag klassen er satt opp med fra _G
  ### Gruppefag
 Det er nå vanlig at elevene via iSkole selv velger gruppefag. Valget skjer gjerne i januar/februar, og gjelder fag for kommende skoleår. Dersom det blir behov for endring, eller at skolen har valgt en løsning som medfører at valgene til den enkelte elev må innføres av ledelsen, må registreringen gjøres herfra. Også elever som starter skolegangen om høsten, og som skal velge fag etter skolestart, må få registrert sine valg herfra.
  
- En elev kan velge gruppefag uavhengig av hvilken klasse eleven tilhører. _Tilgjengelige gruppefag_ inneholder alle gruppefag som er registrert fra _Time- og fagfordeling_, gruppert på klassetrinn. Så for å finne riktig gruppefag for eleven, må man vite hvilken klassetrinn faget tilhører.
+En elev kan velge gruppefag uavhengig av hvilken klasse eleven tilhører. _Tilgjengelige gruppefag_ inneholder alle gruppefag som er registrert fra _Time- og fagfordeling_, gruppert på studieretning og klassetrinn. Så for å finne riktig gruppefag for eleven, må man vite hvilken studieretning ogklassetrinn faget tilhører.
  
