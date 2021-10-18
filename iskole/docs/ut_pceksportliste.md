@@ -7,4 +7,4 @@ sidebar_label: PC-eksportliste
 
 Her fås oversikt over utlån, og navnelister over utlån til vg1-elevene.
 
-Se også neste menyvalg, _PC-rapporter_, den gir oversikt over utlån utlistetsom regneark.
+Se også neste menyvalg, _PC-rapporter_, den gir oversikt over utlån utlistet som regneark.
