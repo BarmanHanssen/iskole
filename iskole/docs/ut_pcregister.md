@@ -10,3 +10,5 @@ Skjermbildet er todelt, det viser både hva som er utlånt (øvre del av skjerme
 Dersom skole praktiserer utlån av PC til alle/mange elever, gjør de gjerne innkjøp av flere enheter. Det vil da være kjekt å kunne automatisere registreringen av nyanskaffelsen. Det betinger at leverandør kan levere denne kildefilen for importen:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/137712122-479d186b-652d-4db3-97ce-7afa36eda590.png)
+
+Dersom en ny PC skal registreres, kan det gjøres manuelt, velg da ikonet _+ Legg til_.
