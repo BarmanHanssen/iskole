@@ -7,5 +7,6 @@ Når sensuren er klar, kan resultatet registreres. Eksamenspartiene, og kandidat
 
 :::note Merk
 Før karakteren er innført, står det * som karakter.
+:::
 
 ![bilde](https://user-images.githubusercontent.com/80097133/137895240-dd6a902b-aa68-435d-a4b1-8fdbcffe2f51.png)
