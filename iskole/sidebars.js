@@ -20,7 +20,7 @@ module.exports = {
       type: 'category',
       label: 'Grunnlagsdata',
       items: ['gd_skole','gd_rom','gd_planperiode','gd_skolerute','gd_utdanningsprogram','gd_klassetrinn','gd_fag','gd_klasse','gd_fagklasse'
-      ,'gd_merknad_fag','gd_ressurs_kontaktlaerer','gd_filialklasse','gd_spesialklasse','gd_sokerportal','gd_samtykkeskjema','gd_oppslagsdata'],
+      ,'gd_ressurs_kontaktlaerer','gd_filialklasse','gd_spesialklasse','gd_sokerportal','gd_samtykkeskjema','gd_oppslagsdata'],
     },
     {
       type: 'category',
