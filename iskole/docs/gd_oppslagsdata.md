@@ -13,4 +13,5 @@ For å begrense hva som vises, kan en legge inn filter der det er mulig. Se ekse
 
 ![image](https://user-images.githubusercontent.com/80097133/123762941-93832580-d8c3-11eb-9553-4ae7914e143d.png)
 
+Arkfanen "Fagmerknader" viser alle FAM-kodene. Kodeverket gjelder for videregående skoler. Udir har en gruppe merknader som skal kunne brukes ved utskrift av vitnemål/Kompetansebevis. Her vises oversikten over gjeldende koder. Disse FAM-kodene kan benyttes på elevnivå, se Elevadmin>Karakterdokumentasjon og Elevadmin>Karakterer/FAM. Utgåtte fagmerknader vises også, men da med rødskrift.
 
