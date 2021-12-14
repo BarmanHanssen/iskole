@@ -27,4 +27,4 @@ Dersom gruppene gis ID fra _Time- og fagfordeling>Gruppefag_ (anbefales!), vil p
 :::
 
 ## Trinn 
-Benyttes når elevene selv skal velge gruppefag for neste skoleår. Kan stå blankt her. Hvilken hensikt disse avhukingene har, omtales annet sted.
+Benyttes når elevene selv skal velge gruppefag for neste skoleår. Eksempelvis kan vg1-elever (trinn 1) bare velge fag som fra _Time- og fagfordeling>Gruppefag_ som er med id=6 (se figuren ovenfor). Kan stå blankt. 
