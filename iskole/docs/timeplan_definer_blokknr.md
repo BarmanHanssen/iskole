@@ -15,10 +15,10 @@ Dersom skolen skal ha gruppefag, må man hule av for _Bruker blokkskjema_. Regis
 
 Det vi registrer her er hvordan vi har tenkt å sette opp timeplanen for gruppefagene, uten nødvendigvis ennå å ha full oversikt over hvilke grupper som skal igangsettes. Det vi skal fastsette er et rammeverk som gjør det enkelt å gruppere fag som skal undervises parallelt. Når undervisningen eksakt skal finne sted gjøres fra menyvalget _Timeplanlegge blokknr_.
 
-## Antall timer til valg (blokknr)
+### Antall timer til valg (blokknr)
 Gruppefagene har typisk fem undervisningstimer per uke. Vanlig oppsett for videregående skoler er at man planlegger for 35 uketimer til undervisning. Herav planlegges det å bruke 25 til 30 timer per uke  til undervisning av gruppefag, hvilket tilsvarer 5 eller 6 Id-er (hvor hvert fag typisk tildeles en Id, og hvor hver Id legger beslag på 5 blokknr, altså 5 timer). Maksimalt kan antall timer til gruppefag være lik antall timer som er satt opp fra valget Time. Timetallet settes til minimum _Antall blokid_ x 5, og kan oppjusteres ved behov.
 
-## Antall blokk id
+### Antall blokk id
 Vi anbefaler at en benytter en fortløpende nummerering av Blokknr. Det gir bedre visuell oversikt når gruppefagene for tildelt Blokknr. 
 Fag som skal gå parallelt (ha lik timeplan) markeres ved at de har samme Id (Id for faget registreres fra _Time- og fagfrodeling>Gruppefag_). Vanligvis har gruppefagene 5 timer per uke. Fag med mindre enn 5 timer kan ligge i en slik blokk, hvilke bloknr som skal benyttes bestemmes av timeplanlegger (registreres fra _Blokknr gruppefag_). Dersom noen fag har mer enn 5 timer, kan de overskytende timer plasseres fritt. 
 :::note Merk
@@ -29,5 +29,5 @@ Et blokknummer representerer en spesifikk tidfestet time. Det innebærer at to f
 Dersom gruppene gis ID fra _Time- og fagfordeling>Gruppefag_ (anbefales!), vil plassering av blokknumrene på fagene (fra _Blokknr gruppefag_) gå raskt. Blokknumrene kan plasseres på hvert fag ut fra fagets ID.
 :::
 
-## Trinn 
+### Trinn 
 Benyttes dersom elevene selv skal kunne velge gruppefag for neste skoleår. Se figuren ovenfor: Eksempelvis kan vg1-elever (trinn 1) bare velge fag som fra _Time- og fagfordeling>Gruppefag_ er markert med id=6. Kan stå blankt. 
