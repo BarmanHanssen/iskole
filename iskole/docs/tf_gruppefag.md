@@ -16,7 +16,7 @@ Fagene som fremkommer her, er registrert fra _Grunnlagsdata>Gruppefag_. Hvilke g
 Ressursfordelingen for faget ( se _Grunnlagsdata>Fag_. Årstime/Årsramme gir ressursen) gis til faglæreren som står oppført på første linje. Skal ressursen fordeles, må det korrigeres fra _Andre ressurser_. 
 :::
 
-### Elevant,
+### Elevant
 Når ny gruppe registreres, vil  elevantallet  være null. Når elevene legges inn, fra _Elevadmin.>Fag_, og/eller ved at elevene selv velger fag, vil tallet avspeile hvor mange elever som har valgt det enkelte fag.
 
 ### Uketimer
