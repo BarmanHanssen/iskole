@@ -42,7 +42,7 @@ Vi får da frem alle ukene i planperioden, se eksemplet:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/146524656-64eb5121-788b-4d1a-916b-7f502f94f63a.png)
 
-Når en legger til en ny gruppe og gruppen lærer, blir læreren satt som lærer i hele planperioden. Dersom det i løpet av palnperioden må sette inn en ny lærer (velg _Endre gruppe_) blir opprinnelig lærer likevel tående urørt, altså ikke erstatet med ny lærer eksempelvis i uke 35. Skjer lærerbyttet i uke 35, og skal gjelde ut skoleåret, må en gjøre endringen fra det eksponerrte bildet. Man markerer uke 35, holdlder Shift-tasten ned når siste uke i planperrioden markeres slik at ny lærer kan settes inn for hele perioden. 
+Når en legger til en ny gruppe og gruppens lærer, blir læreren satt som lærer i hele planperioden. Dersom det i løpet av planperioden må sette inn en ny lærer (velg _Endre gruppe_), blir opprinnelig lærer likevel stående urørt, altså ikke erstatet med ny lærer eksempelvis i uke 35. Skjer lærerbyttet i uke 35, og skal gjelde ut skoleåret, må en gjøre endringen fra det ekspanderte bildet. Man markerer uke 35, holdlder Shift-tasten ned når siste uke i planperrioden markeres, Da kan ny lærer settes inn for hele perioden. 
 
 :::note Merk
 Dersom det er et vikariat (altså begrenset periode med annen lærer), kan menyvalget _Vikar i fag_ være et bedre alterntiv.
@@ -50,7 +50,7 @@ Dersom det er et vikariat (altså begrenset periode med annen lærer), kan menyv
 ## Legg til tolærer
 ![bilde](https://user-images.githubusercontent.com/80097133/146531536-c97961e5-415e-45dd-9727-5373c4f01c46.png)
 
-Dersom undervisningen i faget skal styrkes med ekstra lærer(e), legges det inn her. Tolærer-ordningen kan gjelde for en begrenset periode, det blir synliggjort av timeplanen. Her føres opp uketimer, og totalt timer for hele planperioden. Det er timeplanlegger som skal fordele årstimene på fagets timeplan. Tolærertimene kan bare plasseres der faget har ordinær undervisning.
+Dersom undervisningen i faget skal styrkes med ekstra lærer(e), legges det inn her. Tolærer-ordningen kan gjelde for en begrenset periode, det blir synliggjort på timeplanen. Her føres opp uketimer, og totalt timer for hele planperioden. Det er timeplanlegger som skal fordele årstimene på fagets timeplan. Tolærertimene kan av timeplanlegger bare plasseres der faget har ordinær undervisning.
 
 
 
