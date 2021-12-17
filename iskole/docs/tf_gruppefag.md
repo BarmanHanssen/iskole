@@ -36,3 +36,6 @@ Kan legges inn senere, og kan gjøre det raskere for timeplanlegger når gruppef
 
 Endre lærer/Legg til tolærer: Tilsvarende som for Klassefag.
 
+![bilde](https://user-images.githubusercontent.com/80097133/146524656-64eb5121-788b-4d1a-916b-7f502f94f63a.png)
+
+
