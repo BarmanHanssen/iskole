@@ -46,6 +46,7 @@ Når en legger til en ny gruppe og gruppens lærer, blir læreren satt som lære
 
 :::note Merk
 Dersom det er et vikariat (altså begrenset periode med annen lærer), kan menyvalget _Vikar i fag_ være et bedre alterntiv.
+:::
 
 ## Legg til tolærer
 ![bilde](https://user-images.githubusercontent.com/80097133/146531536-c97961e5-415e-45dd-9727-5373c4f01c46.png)
