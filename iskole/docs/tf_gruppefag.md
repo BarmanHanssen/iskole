@@ -53,5 +53,7 @@ Dersom det er et vikariat (altså begrenset periode med annen lærer), kan menyv
 
 Dersom undervisningen i faget skal styrkes med ekstra lærer(e), legges det inn her. Tolærer-ordningen kan gjelde for en begrenset periode, det blir synliggjort på timeplanen. Her føres opp uketimer, og totalt timer for hele planperioden. Det er timeplanlegger som skal fordele årstimene på fagets timeplan. Tolærertimene kan av timeplanlegger bare plasseres der faget har ordinær undervisning.
 
+Alternativt kan en legge til/endre tolærer fra menyvalget _Tolærerfag_.
+
 
 
