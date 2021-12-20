@@ -10,7 +10,7 @@ I noen tilfeller gir ikke fagene riktig prosent for alle lærerne. Det kan skyld
 
 ![image](https://user-images.githubusercontent.com/80097133/117817919-61145f00-b268-11eb-80aa-28c4bcc11a45.png)
 
-Finn riktig person fra nedtrekkslisten for Lærer, og trykk på Legg til. 
+Finn riktig person fra nedtrekkslisten for _Lærer_, og trykk på _Legg til_. 
 
 ![image](https://user-images.githubusercontent.com/80097133/117818627-16471700-b269-11eb-926d-822cf06df1d3.png)
 
