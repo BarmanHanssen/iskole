@@ -14,6 +14,6 @@ Finn riktig person fra nedtrekkslisten for Lærer, og trykk på Legg til.
 
 ![image](https://user-images.githubusercontent.com/80097133/117818627-16471700-b269-11eb-926d-822cf06df1d3.png)
 
-Dersom iSkole ikke benyttes til budsjettering, lar en Kategori og Postkode stå uendret. Dersom det gjelder en reduksjon, settes et minustegn (altså - ) foran tallet. Fra Funksjon/stilling settes inn tekst som klargjør bakgrunnen for tillegget.
+Dersom iSkole ikke benyttes til budsjettering, lar en _Kategori_ og _Postkode_ stå uendret. Dersom det gjelder en reduksjon, settes et minustegn (altså - ) foran tallet. Fra _Funksjon/stilling_ settes inn tekst som klargjør bakgrunnen for endringen.
 
-Fra menyvalget Stillingsstørrelse får en frem total ressurs for den enkelte lærer.
+Fra menyvalget _Stillingsstørrelse_ får en frem total ressurs for den enkelte lærer.
