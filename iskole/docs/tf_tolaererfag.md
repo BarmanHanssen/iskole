@@ -4,7 +4,7 @@ title: Tolærerfag
 sidebar_label: Tolærerfag
 ---
 
-Dersom undervisningen skal styrkes ved at mer enn en lærer skal bistå i et fag, bruker vi begrepet tolærer(e) om den/de som kommer i tillegg. Tolærer kan legges til her, eller alternativt fra menyvalgene _Klassefag_ og _Gruppefag_.
+Dersom undervisningen skal styrkes ved at mer enn en lærer skal bistå i et fag, bruker vi begrepet tolærer(e) om den/de som kommer i tillegg. Tolærer kan legges til her, eller alternativt fra menyvalgene _Klassefag_ og _Gruppefag_. Ved å benytte _Ekspander alle fag med tolærer_ kan en få frem alle fag på hele skolen som alt er tildelt tolærer, og dermed få en skoleoversikt. Fra _Klassefag_ og _Gruppefag_ må man ekspandere klassen eller studeiretningog årstrinn for å få frem hvilke fag som har fått tildelt tolærer.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/146538359-70fdd5a6-e6a0-4bb8-aa3b-bf95fee4c7b7.png)
 
