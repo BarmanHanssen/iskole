@@ -4,7 +4,7 @@ title: Andre ressurser
 sidebar_label: Andre ressurser
 ---
 
-Dette valget benyttes bare dersom en bruker iSkole til å beregne stilllingsstørrelsen til de ansatte. For lærere beregnes denne ut fra hvilke undervisningsfag læreren er tildelt. Tildelingen av fag redigeres fra valgene Klassefag, Gruppefag og Tolærerfag. Hvor stor prosentvis del av hel stilling hvert fag representerer, er gitt fra Grunnlagsdata>Fag gjennom brøken Årstimer/Årsramme.
+Dette valget benyttes dersom man bruker iSkole til å beregne stilllingsstørrelsen til de ansatte. For lærere beregnes denne hovedsakelig ut fra hvilke undervisningsfag læreren skal ha. Tildelingen av fag til lærer skjer fra valgene _Klassefag_, :Gruppefag_ og _Tolærerfag_. Hvor stor prosentvis del av hel stilling hvert fag representerer, er gitt fra _Grunnlagsdata>Fag_ gjennom brøken Årstimer/Årsramme.
 
 I noen tilfeller gir ikke fagene riktig prosent for alle lærerne. Det kan skyldes flere forhold, eksempelvis at en lærer ikke har faget hele skoleåret. For å korrigere for slike forhold, kan en legge til, eller trekke fra, ressurs til navngitte lærere.
 
