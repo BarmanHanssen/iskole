@@ -3,10 +3,10 @@ id: tf_kontaktlaerer
 title: Planlegging, kontaktlærer
 sidebar_label: Planlegging, kontaktlærer
 ---
+Når en lærer blir registrert som kontaktlærer for en, eller flere,elever, tildeles læreren automatisk en ressurs for dette. Størrelsen på ressursen er fastlagt fra _Grunnlagsdat>Ressurs til kotaktlærer_.
 
-For å få full oversikt over ressursforbruket til undervisning, kan det være greit å få registrert kontaktlærerressursen før en har bestemt hvor den skal benyttes.
+For å få full oversikt over ressursforbruket til kontaktlærere før neste års elever er tatt inn, kan en benytte følgende fremgangsmåte:.
 
-Når en lærer blir registrert som kontaktlærer for elever, tildeles læreren automatisk en ressurs for dette. 
 
 Neste års time- og fagsammensetning kan settes opp før elevene er tatt inn. For å få full oversikt over ressursforbruketer det nødvendig å få registrert kontaktlærerressursen uten at elevene er påplass. Dette kan gjøres på to måter:
 
