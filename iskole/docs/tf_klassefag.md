@@ -16,18 +16,16 @@ Her registreres hvem som skal undervise fagene i en klasse. Registreringen skjer
 **Fagkode** Dersom fagkoden er forskjellig fra 999999, skal faget ha vurdering
 og utskrives på vitnemål eller kompetansebevis.
 
-**Fagnavn** brukes ved utskrift av timeplanen. Teksten kan være forskjellig
-fra den offisielle som er bestemt ut fra _Fagkode_. Den offisielle navnet kommer på vitnemål og kompetansebevis,
+**Fagnavn** brukes ved utskrift av timeplanen. Teksten kan være forskjellig fra det offisielle navnet som er bestemt ut fra _Fagkode_. Den offisielle navnet kommer på kompetansebevis og/eller vitnemål. Navnet for timeplanen kan endres fra _Grunnlagsdata>Fag_.
 
 ### Endre lærer
 Første gang et fag får tildelt lærer, vil læreren som velges automatisk få tildelt undervisning i hele planperioden.
 Hvis man senere gjør en endring av faglæreren, så vil ikke iSkole sette
 den nye læreren inn i ukene hvor det allerede er regsitret en lærer. Et fag kan skifte faglærer i løpet av skoleåret. Gjør da følgende:
 - Ekspander faget ved å klikke på pilen først på linja.
-- Marker alle ukene som skal ha ny faglærer. For å markere flere uker i en serie, klikk på første uke, hold inne «shift» og klikk på siste uke. For å markere flere enkeltuker, klikk på uken mens du holder inne «ctrl».
+- Marker alle ukene som skal ha ny faglærer. For å markere flere uker i en serie, klikk på første uke, hold inne «shift» og klikk på siste uke. For å markere flere enkeltuker, klikk på uken mens du holder inne «ctrl»-tasten.
 - Klikk _Endre lærer_.
-- Velg læreren fra nedtrekkslista. Hvis det er markert i avkrystningsboksen _Vis kun lærere som har fagkoden - hvis ingen er knyttet til faget vises alle_, så vil kun lærere som har fått registrert fagkoden vises såfremt det finnes
-noen lærere med den aktuelle fagkoden. Hvis det ikke finnes noen fylles listen med alle lærerne ved skolen. Se _Personal -> Ansatt_ og arkfanen _Undervisningsfag_ for å redigere fag til en lærer.
+- Velg læreren fra nedtrekkslista. Hvis det er markert i avkrystningsboksen _Vis kun lærere som har fagkoden - hvis ingen er knyttet til faget vises alle_, så vil kun lærere som har fått registrert fagkoden vises såfremt det finnes noen lærere med den aktuelle fagkoden. Hvis det ikke finnes noen fylles listen med alle lærerne ved skolen. Se _Personal -> Ansatt_ og arkfanen _Undervisningsfag_ for å redigere fag til en lærer.
 - Trykk på _OK_.
 
 Når klassens timeplanen vises, hentes læreren ut fra timeplanens ukenummer slik det er registrert her.
@@ -36,7 +34,7 @@ Når klassens timeplanen vises, hentes læreren ut fra timeplanens ukenummer sli
 Det er ikke mulig å registrere et fag på læreren dersom det vil medfører kollisjon på lærerens allerede lagte timeplan.
 :::
 :::note Merk 2
-Ressursfordelingen for faget gis til faglæreren som står oppført på første linje. Skal ressursen fordeles, må det korrigeres fra Andre ressurser.
+Ressursfordelingen for faget gis til faglæreren som står oppført på første linje. Skal ressursen fordeles, må det korrigeres fra _Andre ressurser_ ved å legge inn et fradrag for læreren som står oppført som fagansvarlig, og legge til denne ressursen til lærern som underviser.
 :::
 
 ### Legg til tolærer
