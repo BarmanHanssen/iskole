@@ -19,7 +19,7 @@ Velg først hvem som _Skal ha vikar_, klikk deretter på riktig time. Du får da
 
 ### Lærers undervisningsfag
 
-Disse legges automatisk til ut fra tidligere undervisning i faget, gruppert på fagkode. Se under menyvalget _Ansatt_, under Diverse. Merk at man manuelt kan legge til , endre og slette fag fra listen.
+Disse legges automatisk til ut fra tidligere undervisning i faget, gruppert på fagkode. Se under menyvalget _Ansatt_, under Diverse. Merk at man manuelt kan legge til , endre og slette fag fra listen. _Gyldig til_ er hentet fra fagkoderegisteret. Fag som er utgått, markeres med rød farge, og kan slettes.
  
  ![bilde](https://user-images.githubusercontent.com/80097133/146923256-e37bbe42-72a8-4425-b64c-7e01c789c3b1.png)
 
