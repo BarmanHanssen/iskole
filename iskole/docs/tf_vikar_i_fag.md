@@ -3,16 +3,17 @@ id: tf_vikar_i_fag
 title: Vikar i fag
 sidebar_label: Vikar i fag
 ---
-Vikar i fag benyttes ved kortvarig endring på timeplanen fordi en lærer ikke kan utføre planlagt undervisningsoppdrag. Ved lengre fravær (en eller flere uker) kan det være enklere/mer hensiktsmessig å legge vikaren inn fra _Klassefag/Gruppefag_ dersom vikaren tar alle timene i faget for hele perioden. Da mister en muligheten til å markere at timen skal utbetales, og det markeres heller ikke på timeplanen til lærer og involverte elever at dette er et vikariat.
+Vikar i fag benyttes ved kortvarig endring på timeplanen fordi en lærer ikke kan utføre planlagt undervisning i sine fag. 
 
-Ved plutselig sykdom må en sette inn vikar for en dag, eller kanskje flere dager. Dersom eksempelvis vikariatet skal dekke 5 timer norsk, og en må bruke to vikarer, må en bruke _Vikar i fag_.
+Dersom vikaren tar alle timene i et fag ved et lengre fravær (en eller flere uker), kan det være enklere/mer hensiktsmessig å legge vikaren inn fra _Klassefag/Gruppefag_. Da mister man muligheten til å samtidig å registrere et timene skal utbetales som vikariat, og det markeres heller ikke på timeplanen til læreren og involverte elever i faget at dette egentlig er et vikariat.
 
-Når fagtildelingen er utført fra _Klassefag/Gruppefag_, er utgangspunktet at faglæreren tar all undervisningen i faget for hele planperioden. Dette kan endres, faget kan om nødvendig skifte lærer fra uke til uke.
+Ved plutselig sykdom kan man registrere inn vikar for en dag, eller kanskje flere dager. For å dekke et vikariatet i et 5-timers fag trengs kanskje mer enn en lærer, det går greit siden vikaren settes inn på time-basis.
 
 Når vikarene er lagt inn, vil vikaren komme frem på timeplanen til vikaren, og til alle elevene som har fag med vikar.
 
-:::note Merk
-Dersom eksempelvis et 5-timers fag må ha to vikerer over en begrenset periode (flere uker), kan det være aktuelt å splitte faget, eksempelvis til 3+2 timer i denne perioden. Det gjøres ved å lage en komponent til faget slik at det timeplanmessig opptrer som to fag. Se _Grunnlagsdata>Fag_ for nærmere informasjon.
-:::
+## Registrering av vikar
 
-![bilde](https://user-images.githubusercontent.com/80097133/146918379-5abd074a-4696-4680-a9bc-dbbfaf467b7d.png)
+![bilde](https://user-images.githubusercontent.com/80097133/146921036-c0d7c2d4-47d2-42f9-be4a-750023f8d760.png)
+
+
+
