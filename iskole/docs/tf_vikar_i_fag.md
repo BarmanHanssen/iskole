@@ -15,5 +15,7 @@ Når vikarene er lagt inn, vil vikaren komme frem på timeplanen til vikaren, og
 
 ![bilde](https://user-images.githubusercontent.com/80097133/146921036-c0d7c2d4-47d2-42f9-be4a-750023f8d760.png)
 
+Velg først hvem som _Skal ha vikar_, klikk deretter på riktig time. Du får da opp listen med alle lærerne på skolen. De som har undervisningskompetanse i faget kommer først. I eksemplet er det ingen. 
+ 
 
 
