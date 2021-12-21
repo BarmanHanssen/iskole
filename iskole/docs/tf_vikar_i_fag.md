@@ -9,7 +9,7 @@ Dersom vikaren tar alle timene i et fag i flere uker, kan det være enklere/mer 
 
 Ved plutselig sykdom kan man registrere inn vikar for en dag, eller kanskje flere dager. For å dekke et vikariatet i et 5-timers fag trengs kanskje mer enn en lærer, det går greit siden vikaren settes inn på time-basis.
 
-Når vikarene er lagt inn, vil vikaren komme frem på timeplanen til vikaren, og til alle elevene som har fag med vikar.
+Når vikaren er lagt inn, vil timene være markert som vikariat på timeplanen til vikaren, og til alle elevene som har fag.
 
 ## Registrering av vikar
 
