@@ -7,7 +7,7 @@ Vikar i fag benyttes ved kortvarig endring på timeplanen fordi en lærer ikke k
 
 Ved plutselig sykdom må en sette inn vikar for en dag, eller kanskje flere dager. Dersom eksempelvis vikariatet skal dekke 5 timer norsk, og en må bruke to vikarer, må en bruke _Vikar i fag_.
 
-Når fagtildelingen er utført fra _Klassefag/Gruppefag_, er utgangspunktet at faglæreren ta all undervisningen i faget for hele planperioden. Dette kan endres, faget kan om nødvendig skifte lærer fra uke til uke.
+Når fagtildelingen er utført fra _Klassefag/Gruppefag_, er utgangspunktet at faglæreren tar all undervisningen i faget for hele planperioden. Dette kan endres, faget kan om nødvendig skifte lærer fra uke til uke.
 
 Når vikarene er lagt inn, vil vikaren komme frem på timeplanen til vikaren, og til alle elevene som har fag med vikar.
 
