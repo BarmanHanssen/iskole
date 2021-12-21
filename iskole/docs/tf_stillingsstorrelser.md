@@ -11,3 +11,4 @@ Dersom læreren har andre oppdrag enn undervisning, registreres det fra _Time- o
 
 ![bilde](https://user-images.githubusercontent.com/80097133/146929621-71ba4ac4-2ccc-419c-9c30-ac52df1a727a.png)
 
+Høyre del av bilde viser detaljene som i sum altså er lærerens planlagte beskjeftigelse for planperioden. Det er i siste instans rektors ansvar å gjøre nødvendige grep for eventuelt å gjøre endringer for å minske/eliminere avviket.
