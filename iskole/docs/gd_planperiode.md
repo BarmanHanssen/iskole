@@ -11,6 +11,7 @@ Når en ny planperiode starter, vil data knyttet til forrige planperiode forbli 
 :::note Merk
 En elev får bare tilgang til sine data fra iSkole innenfor planperioden han er registrert som elev. Dersom planperioden eksempelvis har 24. juni som Tildato, vil eleven ikke kunne logge seg inn etter 24. juni. Dersom eleven slutter i løpet av planperioden, får han ikke tilgang til iSkole etter at han har sluttet.
 :::
+
 For å opprette ny planperiode klikkes det på _+ Legg til_, og følgende verdier skal innsettes: 
 
 ![image](https://user-images.githubusercontent.com/80097133/120602780-a6811200-c44b-11eb-9263-43530328bd0d.png)
