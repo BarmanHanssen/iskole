@@ -22,7 +22,7 @@ Tidsperiode er fast fra 1. august til 31. juli. Datoene for øvrige feriedager o
 - _Inkluder timeplanen_: Dersom timeplanen for fagene fra i år er tilnærmet den samme som til neste år, selv om faglærerne ikke er de samme, kan en huke av her. Det er enkelt å bytte faglærer  og å gjøre de endringene som må til. (se  f.eks _Time- og fagfordeling>Klassefag_.) Denne muligheten er lite benyttet, de fleste finner det hensiktsmessig å begynne timeplanleggingen med blanke kort.
 - _Kopier reserveringer_ Dersom noen rom, eller noen lærere, har fått båndlagt tider gjennom skoleåret, og dette skal fortsatt gjelde, markeres det her.
 
-- _Kopier grupper (ikke timeplan og lærer)_: Dersom man planlegger med omlag de samme gruppefagene (valgfagene) som forrige skoleår, markeres det her. For mange skoler er det stort sett de samme gruppefagene som går igjen år etter år.
+- _Kopier grupper (ikke timeplan og lærer)_: Dersom man planlegger med omlag de samme gruppefagene (valgfagene) som forrige skoleår, markeres det her. For mange skoler er det stort sett de samme gruppefagene som går igjen år etter år. Også her er det enkelt å gjøre nødvendige justeringer, se _Time- og fagfordeling>Gruppefag_-
 
 - _Kopier andre ressurser_: Dersom skolen benytter iSkole for å beregne lærernes beskjeftigelse, og noen av lærerne er tildelt en fast ressurs som ikke er knyttet til undervisning, så markeres _Kopier reserveringer_
 
