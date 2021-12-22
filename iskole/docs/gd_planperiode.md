@@ -30,7 +30,7 @@ Tidsperiode er fast fra 1. august til 31. juli. Datoene for øvrige feriedager o
 
 - _Kopier andre ressurser_: Dersom skolen benytter iSkole for å beregne lærernes beskjeftigelse, og noen av lærerne er tildelt en fast ressurs som ikke er knyttet til undervisning, så markeres _Kopier reserveringer_. (Justeringer gjøres fra _Time- og fagfordelin>Andre ressurser_.)
 
-Hensikten med eventuelle markeringer er altså at en slipper å registrere på nytt ting som alt ligger inne og som ikke har endret seg nevneverdig fra foregående planperiode. Når ny planperiode tas i bruk, kan en selvsagt korrigere for data som er tatt med. Spørsmålet er hva som gir minst arbeid, å korrigere for avik, eller begynne med blanke ark.
+Hensikten med eventuelle markeringer er altså at en slipper å registrere på nytt ting som alt ligger inne og som ikke har endret seg nevneverdig fra foregående planperiode. Når ny planperiode er olpprettet, kan en selvsagt korrigere for data som er tatt med. Spørsmålet er hva som gir minst arbeid, å korrigere for avik, eller begynne med blanke ark.
 
-Siste steget i prosessen er å klikke på _Opprett den nye planperiode_. Planperioden blir da klar for bruk. Muligens må en gjøre noen modisfiseringer, eksempelvis justere _Skolerute_, og/eller oppsettet av klasser. Vær spesielt oppmerksom på dersom noen fagkoder er foreldet og erstattet nye fagkoder. Det skaper endel ekstraarbeid dersom dette oppdages først etter at prøver/karakterer er innført.
+Siste steg i prosessen er å klikke på _Opprett den nye planperiode_. Planperioden blir da lagt inn, og er umiddelbart klar for bruk. Muligens må en gjøre noen modisfiseringer, eksempelvis justere _Skolerute_, og/eller oppsettet av fag og klasser. Vær spesielt oppmerksom på dersom noen fagkoder er foreldet og erstattet nye fagkoder. Det skaper endel ekstraarbeid dersom dette oppdages først etter at prøver/karakterer er innført.
 
