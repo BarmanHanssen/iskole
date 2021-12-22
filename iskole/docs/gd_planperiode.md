@@ -6,7 +6,7 @@ sidebar_label: Planperiode
 Planperiode er et gitt tidsrom mellom mellom to datoer, her angitt som en Fradato og Tildato. For en skole er dette typisk et skoleår, fra 1. august og frem til 31. juli. Merk at dette representerer et kalenderår, ikke dato for når organsisert undervisning starter og siste skoledag. 
 Detaljer om når det eksempelvis er skolestart og fridager registreres under _Skolerute_.
 
-Når et nytt skoleår starter, vil data knyttet til forrige skoleåret forbli upåvirket av hva som nå registreres av data. Hver planperiode inneholder alt som er blitt registrert i løpet av planperioden. Altså dato om elever, hvilke fag og resultater som er oppnådd, likeså all undervisning i form av timeplaner og lærere, etc.
+Når et ny planperiode starter, vil data knyttet til forrige planperiode forbli upåvirket av hva som nå registreres av data. Hver planperiode inneholder alt som er blitt registrert i løpet av planperioden. Altså dato om elever, hvilke fag og resultater som er oppnådd, likeså all undervisning i form av timeplaner og lærere, etc. (Etter-registrering av data til en tidligere planperiode er selvsagt mulig.)
 
  For en ny planperiode skal følgende verdier innsettes: 
 
