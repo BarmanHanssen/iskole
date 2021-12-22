@@ -20,17 +20,17 @@ Tidsperiode er fast fra 1. august til 31. juli. Datoene for øvrige feriedager o
 
 ![image](https://user-images.githubusercontent.com/80097133/120613164-3fb52600-c456-11eb-8a98-a116f7f6a22e.png)
 
-- _Legg kun inn den nye planperioden_: Dersom det er første året iSkole benyttes, skal en markere _Legg kun inn den nye planperioden_.
-- _En eksisterende planperiode (anbefales)_: Dersom iSkole var i bruk i forrige planperiode, markeres _En eksisterende planperiode (anbefales)_. Man får da med oppsettet for klasser og fag slik det er satt opp fra planperioden man velger. (Det er nok den forrige planperioden som er aktuell...)
+- _Legg kun inn den nye planperioden_: Dersom det er første året iSkole benyttes, må en markere _Legg kun inn den nye planperioden_.
+- _En eksisterende planperiode (anbefales)_: Dersom iSkole var i bruk i forrige planperiode, markeres _En eksisterende planperiode (anbefales)_. Man får da med oppsettet for klasser og fag slik det er satt opp fra planperioden man velger. Det er den forrige planperioden som er det opplagte valget her!
 
 - _Inkluder timeplanen_: Dersom timeplanen for fagene fra i år er tilnærmet den samme som til neste år, selv om faglærerne ikke er de samme, kan en huke av her. Det er enkelt å bytte faglærer  og å gjøre de endringene som må til. (se  f.eks _Time- og fagfordeling>Klassefag_.) Denne muligheten er lite benyttet, de fleste finner det hensiktsmessig å begynne timeplanleggingen med blanke kort.
 - _Kopier reserveringer_ Dersom noen rom, eller noen lærere, har fått båndlagt tider gjennom skoleåret, og dette skal fortsatt gjelde, markeres det her.
 
 - _Kopier grupper (ikke timeplan og lærer)_: Dersom man planlegger med omlag de samme gruppefagene (valgfagene) som forrige skoleår, markeres det her. For mange skoler er det stort sett de samme gruppefagene som går igjen år etter år. Også her er det enkelt å gjøre nødvendige endringer, som innsetting av lærer, slette/sette inn ny gruppe. (Dette gjøres fra _Time- og fagfordeling>Gruppefag_.)
 
-- _Kopier andre ressurser_: Dersom skolen benytter iSkole for å beregne lærernes beskjeftigelse, og noen av lærerne er tildelt en fast ressurs som ikke er knyttet til undervisning, så markeres _Kopier reserveringer_. (usteringer gjøres fra _Time- og fagfordelin>Andre ressurser_.)
+- _Kopier andre ressurser_: Dersom skolen benytter iSkole for å beregne lærernes beskjeftigelse, og noen av lærerne er tildelt en fast ressurs som ikke er knyttet til undervisning, så markeres _Kopier reserveringer_. (Justeringer gjøres fra _Time- og fagfordelin>Andre ressurser_.)
 
-Hensikten med eventuelle markeringer er at en slipper å registrere på nytt ting som ikke endrer seg nevneverdig fra foregående år. Når ny planperiode tas i bruk, kan en selvsagt korrigere for overførte data. Spørsmålet er hva som gir minst arbeid, å korrigere for avik, eller begynne med blanke ark.
+Hensikten med eventuelle markeringer er altså at en slipper å registrere på nytt ting som alt ligger inne og som ikke har endret seg nevneverdig fra foregående planperiode. Når ny planperiode tas i bruk, kan en selvsagt korrigere for data som er tatt med. Spørsmålet er hva som gir minst arbeid, å korrigere for avik, eller begynne med blanke ark.
 
 Siste steget i prosessen er å klikke på _Opprett den nye planperiode_. Planperioden blir da klar for bruk. Muligens må en gjøre noen modisfiseringer, eksempelvis justere _Skolerute_, og/eller oppsettet av klasser. Vær spesielt oppmerksom på dersom noen fagkoder er foreldet og erstattet nye fagkoder. Det skaper endel ekstraarbeid dersom dette oppdages først etter at prøver/karakterer er innført.
 
