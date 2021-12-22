@@ -17,7 +17,7 @@ Tidsperiode er fast fra 1. august til 31. juli. Datoene for øvrige feriedager o
 ![image](https://user-images.githubusercontent.com/80097133/120613164-3fb52600-c456-11eb-8a98-a116f7f6a22e.png)
 
 - _Legg kun inn den nye planperioden_: Dersom det er første året iSkole benyttes, skal en markere _Legg kun inn den nye planperioden_.
-- _En eksisterende planperiode (anbefales)_: Dersom iSkole var i bruk i forutgående planperiode, markeres _En eksisterende planperiode (anbefales)_. Man får da med oppsettet for klasser og fag slik det er satt opp fra panperioden man velger (det er nok den forrige planperioden som er aktuell...)
+- _En eksisterende planperiode (anbefales)_: Dersom iSkole var i bruk i forrige planperiode, markeres _En eksisterende planperiode (anbefales)_. Man får da med oppsettet for klasser og fag slik det er satt opp fra planperioden man velger (det er nok den forrige planperioden som er aktuell...)
 
 - _Inkluder timeplanen_: Dersom timeplanen for fagene fra i år er tilnærmet den samme som til neste år, selv faglærerne ikke er de samme, kan en huke av her. Det er enkelt å bytte faglærer, og å gjøre de endringene som må til. Denne muligheten er lite benyttet, de fleste finner det hensiktsmessig å begynne timeplanleggingen med blanke kort.
 - _Kopier reserveringer_ Dersom noen rom, eller noen lærere, har fått båndlagt tider gjennom skoleåret, og dette skal fortsatt gjelde, markeres det her.
