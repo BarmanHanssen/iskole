@@ -8,7 +8,7 @@ Detaljer om når det eksempelvis er skolestart og fridager registreres under _Sk
 
 Når en ny planperiode starter, vil data knyttet til forrige planperiode forbli upåvirket av hva som nå registreres av data. Hver planperiode inneholder alt som er blitt registrert i løpet av planperioden. Altså dato om elever når eleven starter (20. august(?), når han slutter (31. juli(!)), hvilke fag og resultater som er oppnådd, likeså all undervisning i form av timeplaner og lærere, etc. (Etter-registrering av data til en tidligere planperiode er selvsagt mulig.)
 
- For en ny planperiode skal følgende verdier innsettes: 
+ For å opprette ny planperiode klikkes det på _+ Legg til_, og følgende verdier skal innsettes: 
 
 ![image](https://user-images.githubusercontent.com/80097133/120602780-a6811200-c44b-11eb-9263-43530328bd0d.png)
 
