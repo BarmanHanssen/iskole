@@ -22,8 +22,7 @@ Denne todelingen av fag skyldes ene og alene at det skal være håndterbart å t
 #### Oversikt
 
 #### Utgåtte fagkoder
-
-
+##
 
 Her skal en registrere alle fag som hører til hvert klassetrinn som er registrert fra menyvalg _Klassetrinn_. Klikker en på _+Legg til_ får vi frem følgende bilde:
 Kommentarer de utfyllingen av skjemaet:
