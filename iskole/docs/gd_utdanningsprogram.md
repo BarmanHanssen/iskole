@@ -12,5 +12,5 @@ Dersom skal registrere en ny grunnskole, vil en kunne bruke BT og UT for henhold
 
 Klikk på _+Legg til..._ for å få frem registreringsskjemaet
 
-![bilde](https://user-images.githubusercontent.com/80097133/147213665-d6882b17-705d-4c8f-b151-3aca3f3b0dae.png)
+![bilde](https://user-images.githubusercontent.com/80097133/147214048-6ee008ce-7d2c-46fb-9b39-ac172fe675d5.png)
 
