@@ -8,4 +8,9 @@ Eksempelet viser en videregående skole med tre utdanningsprogram:
 
 ![image](https://user-images.githubusercontent.com/80097133/120633181-24541600-c46a-11eb-93d9-3e296a7504cc.png)
 
-Dersom skolen var en grunnskole, vil en kunne bruke BT og UT for henholdsvis barne- og ungdomsstrinnet.
+Dersom skal registrere en ny grunnskole, vil en kunne bruke BT og UT for henholdsvis barne- og ungdomsstrinnet. Fremgangsmåten blir da følgende:
+
+Klikk på _+Legg til..._ for å få frem registreringsskjemaet
+
+![bilde](https://user-images.githubusercontent.com/80097133/147213665-d6882b17-705d-4c8f-b151-3aca3f3b0dae.png)
+
