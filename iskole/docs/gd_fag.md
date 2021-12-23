@@ -5,7 +5,7 @@ sidebar_label: Fag
 ---
 Her skal en registrere alle fag som hører til hvert klassetrinn som er registrert fra menyvalg _Klassetrinn_. Klikker en på _+Legg til_ får vi frem følgende bilde:
 
-![image](https://user-images.githubusercontent.com/80097133/120638407-5c5e5780-c470-11eb-8d1e-844d5c92341c.png)
+![bilde](https://user-images.githubusercontent.com/80097133/147219783-fb892eb7-d594-4093-b139-fa230e0dbed2.png)
 
 Kommentarer de utfyllingen av skjemaet:
 
