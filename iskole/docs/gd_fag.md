@@ -15,6 +15,15 @@ Dersom elevene kan velge noen fag i tillegg til klassefagene, eller at elevene i
 
 Denne todelingen av fag skyldes ene og alene at det skal være håndterbart å timeplanlegge fagene slik at alle elevene skal få en timeplan uten kollisjon på sin timeplan.
 
+#### Fag med flere komponenter
+
+#### 999999-fag, ikke komponent
+
+#### Oversikt
+
+#### Utgåtte fagkoder
+
+
 
 Her skal en registrere alle fag som hører til hvert klassetrinn som er registrert fra menyvalg _Klassetrinn_. Klikker en på _+Legg til_ får vi frem følgende bilde:
 Kommentarer de utfyllingen av skjemaet:
