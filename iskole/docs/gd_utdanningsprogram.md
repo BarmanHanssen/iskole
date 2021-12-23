@@ -18,4 +18,4 @@ _*Kode_ velges fritt, men bare to tegn tillates. Denne koden kan ikke endres. Be
 
 _*Navn_ brukes internt på skolen, kunne eksempelvis her være Barnetrinnet.
 
-_*Utdanningsprogram_ inneholder en liste med offisielle navn for videregående skole. For grunnskolen er det kun GS som er aktuelt. Dersom ingenting passer, brukes -=.
+_*Utdanningsprogram_ inneholder en liste med offisielle navn for videregående skole. For grunnskolen er det kun GS som er aktuelt. Dersom ingenting passer, brukes -=. Navnet benyttes blant annet på elevens kompetansebvis og vitnemål.
