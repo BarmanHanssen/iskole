@@ -7,7 +7,14 @@ sidebar_label: Fag
 
 ![bilde](https://user-images.githubusercontent.com/80097133/147219783-fb892eb7-d594-4093-b139-fa230e0dbed2.png)
 
-#### Klassefag
+#### Klassefag og Gruppefag
+
+Hver elev ved skolen blir ved opptak plasseert i en klasse, og bare en klasse. Elevene tilbys undervisning i fag. Hver klasse har fag som alle elevene i klassen skal følge (avvik kan forekomme). Fagene som tilhører klassen kaller vi klassefag. Alle elevene i klassen er samlet til undervisning i samme fag til samme tid.
+
+Dersom elevene kan velge noen fag i tillegg til klassefagene, eller at elevene i klassen deles i mindre grupper i et klassefag, vil vi kalle slike fag for gruppefag.
+
+Denne todelingen av fag skyldes ene og alene at det skal være håndterbart å timeplanlegge fagene slik at alle elevene skal få en timeplan uten kollisjon på sin timeplan.
+
 
 Her skal en registrere alle fag som hører til hvert klassetrinn som er registrert fra menyvalg _Klassetrinn_. Klikker en på _+Legg til_ får vi frem følgende bilde:
 Kommentarer de utfyllingen av skjemaet:
