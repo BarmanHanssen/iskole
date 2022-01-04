@@ -10,7 +10,7 @@ sidebar_label: Fag
 
 Fagene som tilhører klassen kaller vi klassefag. Hver klasse har fag som alle elevene i klassen skal følge (avvik kan forekomme). Ved opptak blir en elev plassert i en klasse, og bare i en klasse. Alle elevene i klassen er samlet til undervisning i samme fag til samme tid. 
 
-Dersom elevene kan velge noen fag i tillegg til klassefagene, eller at elevene i klassen deles i mindre grupper i et klassefag, vil vi kalle slike fag for gruppefag.
+Dersom elevene kan velge noen fag i tillegg til klassefagene, eller at elevene i klassen deles i mindre grupper i et klassefag, kaller vi slike fag for gruppefag.
 
 Denne todelingen av fag skyldes ene og alene at det skal være håndterbart å timeplanlegge fagene slik at alle elevene skal få en timeplan uten kollisjon på sin timeplan.
 
