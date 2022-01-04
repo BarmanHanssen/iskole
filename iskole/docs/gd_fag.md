@@ -18,6 +18,7 @@ Denne todelingen av fag skyldes ene og alene at det skal være håndterbart å t
 #### Fag med flere komponenter
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148037649-05605fdd-6d6f-4fd0-9c82-05146c6f4296.png)
+
 I enkelte tilfeller skal en eller flere av elevene som følger et fag (f.eks PSP5053) ha timer i tillegg til det som faget er satt opp med. Vi kaller ekstra-faget for en kompnent. Da vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
 
 
