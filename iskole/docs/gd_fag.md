@@ -31,7 +31,7 @@ Klikker en på _+Legg til_ når _Klassefag_ er markert får vi frem følgende bi
 Vi laster ned listen med fagkoder fra Udir, slik at den skal være oppdatert til enhver tid. For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden. 
 :::
 
-- _Komponent av_: Enkelte fag  er så omfattende at det er hensiktsmessig å dele det i flere komponenter. Hver komponent skal ha egen lærer, men en lærer er fagansvarlig når terminkarakterer skal fastsettes. Bare fag med fagkoden 999999 kan være en komponent av et annet fag.
+- _Komponent av_: Enkelte fag  er så omfattende at det er hensiktsmessig å dele det i flere komponenter. Bare fag med fagkoden 999999 kan være en komponent av et annet fag. Hver komponent skal ha egen lærer, men kun lærer som er fagansvarlig (eieren av komponenten(e)) kan føre inn terminkarakterer. 
 
 Kolonnen  Komponent av vil vise alle fag som er komponent av et annet fag. Fag som skal timeplanelegge og som ikke skal ha egen vurdering (eksempelvis Klassens time), skal ha fagkoden til 999999, og _Komponent av_ «Ingen». 
 
