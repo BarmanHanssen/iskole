@@ -15,7 +15,7 @@ Dersom elevene kan velge noen fag i tillegg til klassefagene, eller at elevene i
 
 Denne todelingen av fag skyldes ene og alene at det skal være håndterbart å timeplanlegge fagene slik at alle elevene skal få en timeplan uten kollisjon på sin timeplan.
 
-Her skal en registrere alle fag som hører til hvert klassetrinn som er registrert fra menyvalg _Klassetrinn_. Klikker en på _+Legg til_ får vi frem følgende bilde:
+Klikker en på _+Legg til_ får vi frem følgende bilde:
 
 - _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget _Klassetrinn_.
 - _Navn (kort)_: Tre tegn som blant annet benyttes på timeplanen. Eksempel: NOR for faget norsk, kan brukes på alle trinn selv om faginnholdet er vidt forskjellig.
