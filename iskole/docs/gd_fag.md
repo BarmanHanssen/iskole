@@ -17,7 +17,8 @@ Denne todelingen av fag skyldes ene og alene at det skal være håndterbart å t
 ![bilde](https://user-images.githubusercontent.com/80097133/148041004-0e047e22-ac84-4239-b191-955d75c78994.png)
 
 Klikker en på _+Legg til_ får vi frem følgende bilde:
-![image](https://user-images.githubusercontent.com/80097133/120769703-abae9180-c51d-11eb-9a22-280ea8791e0a.png)
+
+![bilde](https://user-images.githubusercontent.com/80097133/148051512-459f58df-eb82-42dc-9084-2741a80e8c4d.png)
 
 - _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget _Klassetrinn_.
 - _Navn (kort)_: Tre tegn som blant annet benyttes på timeplanen. Eksempel: NOR for faget norsk, kan brukes på alle trinn selv om faginnholdet er vidt forskjellig.
