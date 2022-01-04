@@ -32,7 +32,6 @@ I enkelte tilfeller skal en eller flere av elevene som følger et fag (f.eks PSP
 ##
 
 Her skal en registrere alle fag som hører til hvert klassetrinn som er registrert fra menyvalg _Klassetrinn_. Klikker en på _+Legg til_ får vi frem følgende bilde:
-Kommentarer de utfyllingen av skjemaet:
 
 - _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget _Klassetrinn_.
 - _Navn (kort)_: Tre tegn som blant annet benyttes på timeplanen. Eksempel: NOR for faget norsk, kan brukes på alle trinn selv om faginnholdet er vidt forskjellig.
