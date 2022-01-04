@@ -4,7 +4,7 @@ title: Fag
 sidebar_label: Fag
 ---
 
-![bilde](https://user-images.githubusercontent.com/80097133/147219783-fb892eb7-d594-4093-b139-fa230e0dbed2.png)
+![bilde](https://user-images.githubusercontent.com/80097133/148050893-fbad2df0-8c63-447f-b20a-b795b568995d.png)
 
 #### Klassefag og Gruppefag
 
