@@ -26,6 +26,10 @@ Klikker en på _+Legg til_ når _Klassefag_ er markert får vi frem følgende bi
 - _Timer_: Fag er oftes definert ut fra et ukentlig timetall. Norsk eksempelvis med 5 uketimer. Dette tallet er utgangspunktet for timeplanlegging av faget, men på timeplanen kan faget ha ulikt timetall fra den ene uken til den andre. Slike endringer gjøres direkte av timeplanlegger.
 - _Rom_: Noe fag, eksempelvis kroppsøving, krever spesialrom. Da kan det være greit å knytte romet til faget her. Det innebærer at timeplanlegger får presentert dette rommet som førstevalg. Kan endres når faget timeplanlegges.
 - _Fagkode_: Alle fag i grunnskolen og i videregående skole, som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klar for bruk. Trykk _Endre_, så får du opp en overveldende lang liste! Forhåpentligvis har du oversikt over fagkodene som skal benyttes slik at du enkelt kan plukke ut riktig fagkode.
+
+:::note Merk
+Tast inn navnet på faget, eller fagkoden, for å begrense innholdet i nedtrekkslisten. Vi laster ned listen fra Udir, slik at den skal være oppdatert til enhver tid.
+:::
 - _Komponent av_: Enkelte fag  er så omfattende at det er hensiktsmessig å dele det i flere komponenter. Hver komponent skal ha egen lærer, men en lærer er fagansvarlig når terminkarakterer skal fastsettes. At et fag er komponent av et annet fag, angis med å gi faget fagkoden 999999. Se eksempel:
 
 
