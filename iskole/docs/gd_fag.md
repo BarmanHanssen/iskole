@@ -34,7 +34,7 @@ Vi laster ned listen med fagkoder fra Udir, slik at den skal være oppdatert til
 - _Komponent av_: Enkelte fag  er så omfattende at det er hensiktsmessig å dele det i flere komponenter. Bare fag med fagkoden 999999 kan være en komponent av et annet fag. Hver komponent skal ha egen lærer, men kun lærer som er fagansvarlig (eieren av komponenten(e)) kan føre inn terminkarakterer. 
 Fag som skal timeplanelegges, og som ikke skal ha egen vurdering (eksempelvis Klassens time), skal ha fagkoden til 999999, og er ikke komponent til noe annet fag.
 
-- _Årstimere/Årsramme_: Her fastsettes lesebrøken for faget. Den er gjerne et resultat av forhandlinger mellom fagforening og skoleier og kan bli justert. Det er brøken årstimer/årsramme gir fagets stillingsstørrelse. Nå brukes fortrinnsvis klokketimer, ikke antall 45-timers time som måltall. Årstimer er da minimum omfanget slik det fremgår fra fagets fagkode, og årsrammen er fremforhandlet mellom partene fagforening/skoleier.
+- _Årstimere/Årsramme_: Her fastsettes lesebrøken for faget. Den er gjerne et resultat av forhandlinger mellom fagforening og skoleier og kan bli justert. Det er brøken årstimer/årsramme gir fagets stillingsstørrelse. Nå brukes fortrinnsvis klokketimer, ikke antall 45-timers time som måltall. Årstimer er da omfanget slik det fremgår fra fagets fagkode, og årsrammen er fremforhandlet mellom partene fagforening/skoleier.
 
 
 #### Fag med flere komponenter
