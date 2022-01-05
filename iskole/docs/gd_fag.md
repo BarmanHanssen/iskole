@@ -36,6 +36,12 @@ Fag som skal timeplanelegges, og som ikke skal ha egen vurdering (eksempelvis Kl
 
 - _Årstimere/Årsramme_: Her fastsettes lesebrøken for faget. Den er gjerne et resultat av forhandlinger mellom fagforening og skoleier og kan bli justert. Det er brøken årstimer/årsramme gir fagets stillingsstørrelse. Nå brukes fortrinnsvis klokketimer, ikke antall 45-timers time som måltall. Årstimer er da omfanget slik det fremgår fra fagets fagkode, og årsrammen er fremforhandlet mellom partene fagforening/skoleier.
 
+- _Tilsvarer stillingsprosent_: Fremkommer som Årstimer/Årsramme*100
+
+- _Elever_: Viser alle elever på utdanningsprogrammets trinn som per dags dato alt er registrert med dette faget.
+
+- _Elever kan føre tilstedeværelse_: Huker en av for dette kan elevene i faget selv markere tilstedeværelse i timene i faget. Uten avhuking er det bare læreren som kan gjøre det.
+
 
 #### Fag med flere komponenter
 
