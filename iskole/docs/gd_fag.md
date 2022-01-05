@@ -42,6 +42,8 @@ Fag som skal timeplanelegges, og som ikke skal ha egen vurdering (eksempelvis Kl
 
 - _Elever kan føre tilstedeværelse_: Huker en av for dette kan elevene i faget selv markere tilstedeværelse i timene i faget. Uten avhuking er det bare læreren som kan gjøre det.
 
+![bilde](https://user-images.githubusercontent.com/80097133/148216979-4a70e97a-f144-4965-90fa-2c32c94b88e9.png)
+
 
 #### Fag med flere komponenter
 
