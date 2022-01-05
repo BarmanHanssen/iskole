@@ -14,7 +14,7 @@ Dersom elevene kan velge noen fag i tillegg til klassefagene, eller at elevene i
 
 Denne todelingen av fag skyldes ene og alene at det skal være håndterbart å timeplanlegge fagene slik at alle elevene skal få en timeplan uten kollisjon på sin timeplan.
 
-![bilde](https://user-images.githubusercontent.com/80097133/148041004-0e047e22-ac84-4239-b191-955d75c78994.png)
+![bilde](https://user-images.githubusercontent.com/80097133/148217099-db9f8d2c-d627-4a13-814a-ef3103f40efa.png)
 
 Klikker en på _+Legg til_ når _Klassefag_ er markert får vi frem følgende bilde (tilsvarende bilde for _Gruppefag_):
 
