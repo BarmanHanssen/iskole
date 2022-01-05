@@ -54,7 +54,7 @@ Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, ti
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148037649-05605fdd-6d6f-4fd0-9c82-05146c6f4296.png)
 
-I enkelte tilfeller skal en eller flere av elevene som følger et fag (f.eks PSP5053) ha timer i tillegg til det som faget er satt opp med. Vi kaller ekstra-faget for en kompnent. Da vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
+Her fås en oversikt over fag som alt er registrert som komponent av et annet fag. I enkelte tilfeller skal en eller flere av elevene som følger et fag (f.eks PSP5053) ha timer i tillegg til det som faget er satt opp med. Vi kaller ekstra-faget for en kompnent. Da vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
 
 
 #### 999999-fag, ikke komponent
