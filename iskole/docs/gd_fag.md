@@ -54,15 +54,21 @@ Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, ti
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148037649-05605fdd-6d6f-4fd0-9c82-05146c6f4296.png)
 
-Her fås en oversikt over fag som alt er registrert som komponent av et annet fag. I enkelte tilfeller skal en eller flere av elevene som følger et fag (f.eks PSP5053) ha timer i tillegg (her: til det som faget er satt opp med. Vi kaller ekstra-faget for en kompnent. Da vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
-
+Her fås en oversikt over fag som alt er registrert som komponent av et annet fag. I enkelte tilfeller skal en eller flere av elevene som følger et fag (f.eks PSP5053) ha timer i tillegg (her: SP1-elevene). Ekstra-faget er altså en komponent. Da vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
 
 #### 999999-fag, ikke komponent
+
 ![bilde](https://user-images.githubusercontent.com/80097133/148039601-e0a285a0-3e6a-4384-9363-3c0f3c2e9cd7.png)
 
+Det spesielle med disse fag er at de ikke skal medtas på karakterdokumentasjonen, og følgelig heller ikke med på diverse oversikter, f.eks til Wis. Ellers ingen forskjell.
 
 #### Oversikt
+Her vises både klasse- og grupppefag samlet. Merk at muligheten til å sortere på kolonne. En bestemt fagkode kan være registrert både som klasse- og gruppefag på flere trinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode.
 
 #### Utgåtte fagkoder
-##
+
+![bilde](https://user-images.githubusercontent.com/80097133/148227777-d2027624-be2f-4743-b5cc-2d258dfc011f.png)
+
+
+
 
