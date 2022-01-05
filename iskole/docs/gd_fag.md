@@ -27,7 +27,7 @@ Klikker en på _+Legg til_ når _Klassefag_ er markert får vi frem følgende bi
 - _Rom_: Noe fag, eksempelvis kroppsøving, krever spesialrom. Da kan det være greit å knytte romet til faget her. Det innebærer at timeplanlegger får presentert dette rommet som førstevalg. Kan endres når faget timeplanlegges.
 - _Fagkode_: Alle fag i grunnskolen og i videregående skole, som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klar for bruk. Trykk _Endre_, så får du opp en overveldende lang liste! Forhåpentligvis har du oversikt over fagkodene som skal benyttes slik at du enkelt kan plukke ut riktig fagkode.
 
-:::note Merk
+:::note Merk 
 Vi laster ned listen med fagkoder fra Udir, slik at den skal være oppdatert til enhver tid. For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden. 
 :::
 
