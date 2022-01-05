@@ -44,6 +44,11 @@ Fag som skal timeplanelegges, og som ikke skal ha egen vurdering (eksempelvis Kl
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148216979-4a70e97a-f144-4965-90fa-2c32c94b88e9.png)
 
+Alt kan endres, untatt Trinn og kort-navn. 
+
+::: note Endre fagkode
+Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, tilsvarende for gruppefag. Endres fagkoden herfra, vil det ikke endre fagkoden for allerede opptatte elever i faget. Endring av fagkoden til elever gjøres fra Elevadmin.>Fag ved å ta ut faget, og sette det inn på nytt. Dersom endringen først gjøres etter at fravær og vurderinger er innført, vil endring av fagkode bli mer komplisert.
+:::
 
 #### Fag med flere komponenter
 
