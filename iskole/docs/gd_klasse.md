@@ -9,7 +9,7 @@ Når klassetrinn og utdanningsprogram er registrert, kan man spesifisere hvilke 
 Eksempel fra skole hvor fagene allerede er lagt til:
 ![image](https://user-images.githubusercontent.com/80097133/120977450-a34f9400-c773-11eb-854c-e8e151744a40.png)
 
-Merk at kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget _Fagklasse_.
+Kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget _Fagklasse_.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148358866-5c9991f1-4d19-42f0-9096-74b204e95b86.png)
 
