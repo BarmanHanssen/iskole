@@ -22,7 +22,7 @@ Kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget
 - _Maksimalt elevantall_: Kan noteres, men brukes ikke andre steder.
 - _Klassefag_: I tabellen kommer alle fag som er lagt inn fra menyvalget _Fag_ frem. Aktuelle fag for klassen flyttes over fra _Tilgjengelige_ til _Valgte_.
 -_Programkode_: Her får man opp en omfattende liste som omfatter både grunnskole og videregående skole. Man kan filtrere ved skrive krav, eksempelvis:
-![bilde](https://user-images.githubusercontent.com/80097133/148363077-a61ec951-ef65-4956-a01b-f9e94f5aaf7f.png)
+ ![bilde](https://user-images.githubusercontent.com/80097133/148363077-a61ec951-ef65-4956-a01b-f9e94f5aaf7f.png)
 
 - _Dokumentasjonstype_: Vitnemål gjelder som regel for avgangsklassene. 
 
