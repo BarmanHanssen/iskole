@@ -8,7 +8,7 @@ Det være aktuelt å slå sammen to, eller flere klasser, for felles undervisnin
 ![image](https://user-images.githubusercontent.com/80097133/120986532-fed24f80-c77c-11eb-9e4a-d54d52f39336.png)
 
 :::note Merk
-Faget KRØ skal ikke være fag i gjesteklassen. Altså skal ikke EL2A ha KRØ i sin fagliste (se figuren).
+Faget KRØ skal ikke være fag i gjesteklassen. Altså skal ikke KRØ  være registrert i klassen EL2A ha KRØ i sin fagliste (se figuren).
 :::
 
 Dersom elevene omgrupperes på annen måte, altså ikke sammenslåing av hele klasser, så benytter vi gruppefag. Gruppefag er omtalt under menyvalget _Fag_.
