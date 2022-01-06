@@ -12,3 +12,7 @@ Se figuren ovenfor. KRØ skal altså bare være registrert i klasse BU2A (moderk
 :::
 
 Dersom elevene omgrupperes på annen måte, altså ikke sammenslåing av hele klasser, så benytter vi gruppefag. Gruppefag er omtalt under menyvalget _Fag_.
+
+![bilde](https://user-images.githubusercontent.com/80097133/148374550-0c5c7ab8-ada0-4e82-a09f-c67807992760.png)
+ 
+ ![bilde](https://user-images.githubusercontent.com/80097133/148374862-0c71e359-f7a7-4d8a-a079-6c2658a5f1cb.png)
