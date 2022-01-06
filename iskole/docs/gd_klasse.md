@@ -12,7 +12,7 @@ Eksempel hvor fagene allerede er lagt til:
 
 Merk at kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget _Fagklasse_.
 
-## Legg til klasse
+![bilde](https://user-images.githubusercontent.com/80097133/148358866-5c9991f1-4d19-42f0-9096-74b204e95b86.png)
 
 ![image](https://user-images.githubusercontent.com/80097133/120978053-5ae4a600-c774-11eb-9014-eacd0c1493cd.png)
 
