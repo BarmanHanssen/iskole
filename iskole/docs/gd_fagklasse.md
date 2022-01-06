@@ -19,4 +19,4 @@ Eksempel: Dersom man her ønsker at ST1A skal være moderklasse i ENG, fås dett
  
 ![bilde](https://user-images.githubusercontent.com/80097133/148374862-0c71e359-f7a7-4d8a-a079-6c2658a5f1cb.png)
 
-Skolen har en klasse ST1B, men den klassen kommer ikke med blant tilgjengelige klasser. Grunnen er at ST1B alt har ENG som fag. Slettes 
+Skolen har en klasse ST1B, men den klassen kommer ikke med blant tilgjengelige klasser. Grunnen er at ST1B alt har ENG som fag. Dersom man fra menyvalget _Klasse_ endrer fagsammensetningen i ST1B ved å ta ut ENG, vil klassen være en mulig kandidat som gjesteklasse.
