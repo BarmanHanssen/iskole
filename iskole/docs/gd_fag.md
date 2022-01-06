@@ -72,5 +72,4 @@ Her vises både klasse- og grupppefag samlet. Merk at muligheten til å sortere 
 Velg først _Oppdater fagkoderegister_! Da blir eventuelle nye fag fra UDIR lastes ned, og være klare for bruk.
 
 _Kjør kontroll mot UDIR_
-
 Tabellen viser fagkoder som er utgått, eller er vil utgå innen planperiodens utløp. Fag med allerede utgåtte fagkoder kan trygt slettes, eller få endret fagkoden. For å gjøre endringer må arkfanen _Klassefag_ eller _Gruppefag_ velges.
