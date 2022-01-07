@@ -17,6 +17,8 @@ For å komme igang, må skolen legge inn følgende:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148524582-f27bc63f-25b3-4655-a26c-5147043a2159.png)
 
+Her henvises det til dokument som skolen har lagt ut på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon til for søknaden.
+
 #### Eksempel på _Informasjon til søkere_
 
 _Personalia_: Se skjermbildet ovenfor
