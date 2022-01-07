@@ -13,6 +13,6 @@ Modulen lar søkeren selv fylle inn nødvendige data, og legge ved dokumentasjon
 
 For å komme igang, må skolen legge inn følgende:
 
-![image](https://user-images.githubusercontent.com/80097133/121015766-a494b700-c79b-11eb-853a-3fc00bd06b74.png)
+![bilde](https://user-images.githubusercontent.com/80097133/148524582-f27bc63f-25b3-4655-a26c-5147043a2159.png)
 
 For potensielle nye brukere: Ta kontakt med leverandøren av iSkole for ytterlige informasjon.
