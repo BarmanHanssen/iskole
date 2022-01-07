@@ -32,5 +32,3 @@ Her legger skolen inn sitt tilbud til elevene.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148527706-f3defa52-4e38-4611-9e20-b8283f87b687.png)
 
-
-For potensielle nye brukere: Ta kontakt med leverandøren av iSkole for ytterlige informasjon.
