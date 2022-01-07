@@ -11,6 +11,7 @@ Skolen henviser fra sin hjemmeside til portalen. Potensielle nye elever kan derf
 
 Modulen lar søkeren selv fylle inn nødvendige data, og legge ved dokumentasjon. Ved innvilgelse av skoleplass skal da eleven være plassert i en klasse, og klar for skolestart.
 
+For å komme igang, må skolen legge inn følgende:
 
 ![image](https://user-images.githubusercontent.com/80097133/121015766-a494b700-c79b-11eb-853a-3fc00bd06b74.png)
 
