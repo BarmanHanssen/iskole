@@ -17,9 +17,9 @@ For å komme igang, må skolen legge inn følgende:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148524582-f27bc63f-25b3-4655-a26c-5147043a2159.png)
 
-_Lenke til skolens vilkår for søknad om skoleplass_:
+_Lenke til skolens reglement for inntak_ og _Lenke til skolens vilkår for søknad om skoleplass_:
 
-Dokument som skolen har lagt ut på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon til for søknaden. 
+Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon til for søknaden. 
 
 #### Eksempel på _Informasjon til søkere_
 
