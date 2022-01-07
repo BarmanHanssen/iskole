@@ -13,6 +13,8 @@ Modulen lar søkeren selv fylle inn nødvendige data, og legge ved dokumentasjon
 
 For å komme igang, må skolen legge inn følgende:
 
+### Felles opplysninger for alle planperioder
+
 ![bilde](https://user-images.githubusercontent.com/80097133/148524582-f27bc63f-25b3-4655-a26c-5147043a2159.png)
 
 #### Eksempel på _Informasjon til søkere_
@@ -23,5 +25,12 @@ _Dokumenter_: Vitnemål og karakterer fra inneværende skoleår leveres skolen s
 Skolegang ved Tomb vgs trenger ikke å dokumenteres.
 
 _Søknad_: Søknadene behandles etter søknadsfristen. Søknader sendt etter fristen behandles fortløpende.
+
+### Tilbud
+
+Her legger skolen inn sitt tilbud til elevene.
+
+![bilde](https://user-images.githubusercontent.com/80097133/148527706-f3defa52-4e38-4611-9e20-b8283f87b687.png)
+
 
 For potensielle nye brukere: Ta kontakt med leverandøren av iSkole for ytterlige informasjon.
