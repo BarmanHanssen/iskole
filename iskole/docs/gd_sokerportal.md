@@ -19,7 +19,7 @@ For å komme igang, må skolen legge inn følgende:
 
 _Lenke til skolens reglement for inntak_ og _Lenke til skolens vilkår for søknad om skoleplass_:
 
-Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon til for søknaden. 
+Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon. 
 
 #### Eksempel på _Informasjon til søkere_
 
