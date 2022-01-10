@@ -9,7 +9,7 @@ Registeret ble først utarbeidet for videregående skole. Men nå inneholder det
 
 For å begrense hva som vises, kan en legge inn filter i raden over navnet på kolonnene.
 
-_Utdaningsprogram_
+####_Utdaningsprogram_
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148767105-e055bd1a-2d0d-49d2-af6d-eeb5be250ce6.png)
 
