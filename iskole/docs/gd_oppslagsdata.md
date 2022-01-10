@@ -3,15 +3,16 @@ id: gd_oppslagsdata
 title: Oppslagsdata
 sidebar_label: Oppslagsdata
 ---
-Her er samlet en gruppe tabeller fra Utdanningsdirektoratet. Tabellene innholdet data som etterspørres og benyttes av iSkole.
+Her er samlet en gruppe tabeller fra Utdanningsdirektoratet. Innholdet er definert av UDIR, og kan ikke endres fra iSkole. Tabellene innholdet data som etterspørres og benyttes av iSkole.Fagkoderegisteret er tabellen med flest rader, her finner mer enn 17 000 rader.
 
-Tekstene herfra kan/skal ikke endres av brukerne. Fagkoderegisteret er tabellen med flest rader.
+Registeret ble først utarbeidet for videregående skole. Men nå inneholder det også data for grunnskolen, og for Steinerskolene. 
 
-Fagkoderegistret inneholder nå mer enn 17 000 rader. Registeret ble først utarbeidet for videregående skole. Men nå inneholder det også fag for grunnskolen, og for Steinerskolene. Hittil har UDIR tilføyd nye rader hvert år.
+For å begrense hva som vises, kan en legge inn filter i raden over navnet på kolonnene.
 
-For å begrense hva som vises, kan en legge inn filter der det er mulig. Se eksemplet nedenfor hvordan det kan gjøres:
+_Utdaningsprogram_
 
-![image](https://user-images.githubusercontent.com/80097133/123762941-93832580-d8c3-11eb-9553-4ae7914e143d.png)
+![bilde](https://user-images.githubusercontent.com/80097133/148767105-e055bd1a-2d0d-49d2-af6d-eeb5be250ce6.png)
+
 
 Arkfanen "Fagmerknader" viser alle FAM-kodene. Kodeverket gjelder for videregående skoler. Udir har en gruppe merknader som skal kunne brukes ved utskrift av vitnemål/Kompetansebevis. Her vises oversikten over gjeldende koder. Disse FAM-kodene kan benyttes på elevnivå, se Elevadmin>Karakterdokumentasjon og Elevadmin>Karakterer/FAM. Utgåtte fagmerknader vises også, men da med rødskrift.
 
