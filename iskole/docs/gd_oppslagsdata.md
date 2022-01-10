@@ -5,13 +5,13 @@ sidebar_label: Oppslagsdata
 ---
 Her er samlet en gruppe tabeller fra Utdanningsdirektoratet. Innholdet er definert av UDIR, og kan ikke endres fra iSkole. Tabellene innholdet data som etterspørres og benyttes av iSkole.Fagkoderegisteret er tabellen med flest rader, her finner mer enn 17 000 rader.
 
-Registeret ble først utarbeidet for videregående skole. Men nå inneholder det også data for grunnskolen, og for Steinerskolene. 
+Registeret ble først utarbeidet for videregående skole. Men nå inneholder det også data for grunnskolen, og for Steinerskolen. 
 
 For å begrense hva som vises, kan en legge inn filter i raden over navnet på kolonnene.
 
 #### _Utdaningsprogram_
 
-Merk at grunnskolen bare er represnetert med en kode, GS, mens videregående skole har et finmasket kodeverk for å angi innholdet i utdanningen. Teksten herfra benyttes ved utskrift av blant annet av kompetansebevis og vitnemål. Kompetansebevis og vitnemål kan også utskrives med engelsk tekst.
+Merk at grunnskolen bare er representert med en kode, GS, mens videregående skole har et finmasket kodeverk for å angi innholdet i utdanningen. Teksten herfra benyttes ved utskrift av blant annet av kompetansebevis og vitnemål. Kompetansebevis og vitnemål kan også utskrives med engelsk tekst.
 
 :::note Tips
 Det ingen av tekstene er dekkende, kan en benytte --
