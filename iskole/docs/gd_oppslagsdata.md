@@ -9,9 +9,13 @@ Registeret ble først utarbeidet for videregående skole. Men nå inneholder det
 
 For å begrense hva som vises, kan en legge inn filter i raden over navnet på kolonnene.
 
+::: note Tips
+Det ingen av tekstene er dekkende, kan en benytte --
+:::
+
 #### _Utdaningsprogram_
 
-Merk at grunnskolen bare er represnetert med en kode, GS, mens videregående skole har et finmasket kodeverk for å angi innholdet i utdanningen. Teksten herfra benyttes ved utskrift av blant annet av kompetansebevis og vitnemål. Kompetansebevis og vitnemål kan også tas ut med engelsk tekst,
+Merk at grunnskolen bare er represnetert med en kode, GS, mens videregående skole har et finmasket kodeverk for å angi innholdet i utdanningen. Teksten herfra benyttes ved utskrift av blant annet av kompetansebevis og vitnemål. Kompetansebevis og vitnemål kan også utskrives med engelsk tekst.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148767105-e055bd1a-2d0d-49d2-af6d-eeb5be250ce6.png)
 
