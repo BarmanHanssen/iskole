@@ -5,7 +5,7 @@ sidebar_label: Søkerportal
 ---
 Søkerportalen ble introdusert i 2014 og brukes av et stigende antall skoler.
 
-Nye skoler kan kostadsfritt teste ut søkermodulen for å se hvilke muligheter som ligger inne for å forenkle/spare tid ved behandlingen av søkere. Søkerportalen er en tilleggsmodul, og medfører kostnader først etter at søkeren er opptatt og blitt elev ved skolen. 
+Ved bruk av søkermodulen vil skolen forenkle, og derigjennom spare tid, ved behandlingen av søkere. Nye skoler kan kostadsfritt teste ut søkermodulen. Søkerportalen er en tilleggsmodul, og medfører kostnader først etter at søkeren er opptatt og blitt elev ved skolen. Altså vil en skole med 1000 søkere hvor kun 100 blir tatt opp faktureres for 100. 
 
 Skolen henviser fra sin hjemmeside til portalen. Potensielle nye elever kan derfra fullføre søknaden og kommunisere med skolen helt frem til å bli opptatt og plassert som elev i en klasse.
 
