@@ -21,7 +21,7 @@ Dersom ingen av tekstene er dekkende, kan man benytte --
 
 #### _Programområde_
 
-Når en ny klasse opprettes, fra menyvalget _Klasse_, etterspørres _Programkode_. Koden som kan legges inn må hentes fra tabellen som her heter _Programområde_. Hver kode er knyttet til ett, og bare ett,_Utdanningsprogram_ som automatisk følger med på lasset. Utgåtte koder er røde.
+Når en ny klasse opprettes, fra menyvalget _Klasse_, etterspørres _Programkode_. Koden som kan legges inn må hentes fra tabellen som her heter _Programområde_. Hver kode er knyttet til ett, og bare ett, _Utdanningsprogram_, som automatisk følger med på lasset. Utgåtte koder er røde.
 
 #### _Programområder-standpunkt_
 
