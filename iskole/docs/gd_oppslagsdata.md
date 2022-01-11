@@ -37,7 +37,7 @@ Her vises godkjente koder for hva som er grunnlaget for karakteren som settes p�
 
 #### _Fagmarknader_
 
-Kodeverket gjelder for videregående skoler. Udir har en gruppe merknader som skal kunne brukes ved utskrift av vitnemål/Kompetansebevis. Her vises oversikten over gjeldende koder. Disse FAM-kodene kan benyttes på elevnivå, se _Elevadmin>Karakterdokumentasjon_ og _Elevadmin>Karakterer/FAM_. Utgåtte fagmerknader vises også, men da med rødskrift.
+Kodeverket gjelder for videregående skoler. Udir har en gruppe merknader som skal kunne brukes ved utskrift av kompetansebevis/vitnemål. Disse FAM-kodene kan benyttes på elevnivå, se _Elevadmin>Karakterdokumentasjon_ og _Elevadmin>Karakterer/FAM_. Utgåtte fagmerknader vises også, men da med rød skrift.
 
 #### _Ekskluderende fag_
 
