@@ -31,12 +31,13 @@ Teksten herfra benyttes ved utskrift av blant annet av kompetansebevis og vitnem
 
 Alle fag som er godkjent av UDIR er samlet i denne tabellen. Den inneholder mer enn 17 00 rader. Fagkodene som er utgått per dags dato er markert med rød farge. På udir.no finner man fagplaner mm for hvert fag. Vet du navnet på faget, men ikke fagkode, skriv da inn første del av navnet i feltet over _Fagnavn_.
 
-
-
-
 #### _Vurderingsform_
 
+Her vises godkjente koder for hva som er grunnlaget for karakteren som settes på fagene som skal utskrives på kompetansebevis/vitnemål. Merk at her er også tysk medtatt, men vi ingen offisielle fagnavn på tysk i fagkoderegiisterer.
+
 #### _Fagmarknader_
+
+Fagmerknader, fastsatt av UIR,  som kan benyttes på kompetansebevis/vitnemål for videregående skoler.
 
 #### _Ekskluderende fag_
 
