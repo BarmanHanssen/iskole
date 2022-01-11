@@ -41,7 +41,7 @@ Kodeverket gjelder for videregående skoler. Udir har en gruppe merknader som sk
 
 #### _Ekskluderende fag_
 
-Noen fag, typisk norskfaget, tas over flere år. Men på kompetansebevis/vitnemål skal bare fagkoden på høyeste nivå, ofte på vg3-nivå, tas med.  Andre fag som tas over flere år, typisk fysikk/kjemi/engelsk, har ikke dette opplegget, da de kan avsluttes før høyeste nivå. Denne tabellen fås ikke fra Udir, så det vi som må legge til nye fagkombinasjoner når det skjer endringer. Dette kan skje ved at bruker av iSkole gir beskjed til oss, eksempelvis via support@barman-hanssen.no. Når slike fakoder er lagt inn, vil utskrift av kompetansebevis/vitnemål automatisk sløyfe fagene på underliggende nivå.
+Noen fag, typisk norskfaget, tas over flere år. Men på kompetansebevis/vitnemål skal bare fagkoden på høyeste nivå, ofte på vg3-nivå, tas med.  Andre fag som tas over flere år, typisk fysikk/kjemi/engelsk, har ikke dette opplegget, da de kan avsluttes uten å ta høyeste nivå. Denne tabellen fås ikke fra Udir, så det vi som må legge til nye fagkombinasjoner når det skjer endringer. Dette kan skje ved at bruker av iSkole gir beskjed til oss, eksempelvis via support@barman-hanssen.no. Når slike fakoder er lagt inn, vil utskrift av kompetansebevis/vitnemål automatisk sløyfe fagene på underliggende nivå.
 
 #### _Toterminsfag_
 Noen fag,eksempelvis norsk, skal først dokumenteres på kompetansebevis/vitnemål, da med standpunkt og/eller eksamensvurdering. Slike fag skal da ha termin 2-karakter på årstrinn før avgangsårstrinnet. Dette kunne skape forvinklinger før denne tabellen var på plass og kunne holde orden! Nå vil iSkole tillate at bare termin 2-vurdering kan settes for fag som er listet opp her. For alle andre fag vil det kun være standpunkt-vurdering.
