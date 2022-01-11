@@ -21,7 +21,7 @@ Dersom ingen av tekstene er dekkende, kan man benytte --
 
 #### _Programområde_
 
-Teksten herfra benyttes ved utskrift av blant annet av kompetansebevis og vitnemål. Når en klasse opprettes, fra menyvalget _Klasse_, etterspørres _Programkode_. Koden som kan legges inn må hentes fra denne tabellen. Hver kode er knyttet til ett _Utdanningsprogram_ som automatisk følger med på lasset. Utgåtte koder er røde.
+Teksten herfra benyttes ved utskrift av blant annet av kompetansebevis og vitnemål. Når en ny klasse opprettes, fra menyvalget _Klasse_, etterspørres _Programkode_. Koden som kan legges inn må hentes fra denne tabellen. Hver kode er knyttet til ett _Utdanningsprogram_ som automatisk følger med på lasset. Utgåtte koder er røde.
 
 #### _Programområder-standpunkt_
 
