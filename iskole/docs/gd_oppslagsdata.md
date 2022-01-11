@@ -27,6 +27,8 @@ Teksten herfra benyttes ved utskrift av blant annet av kompetansebevis og vitnem
 
 #### _Fagkoderegister_
 
+![bilde](https://user-images.githubusercontent.com/80097133/148937507-67d7138e-6e9a-4962-9418-539a230a6f48.png)
+
 Alle fag som er godkjent av UDIR er samlet i denne tabellen. Den inneholder mer enn 17 00 rader. Fagkodene som er utgått per dags dato er markert med rød farge. På udir.no finner man fagplaner mm for hvert fag. Vet du navnet på faget, men ikke fagkode, skriv da inn første del av navnet i feltet over _Fagnavn_.
 
 
