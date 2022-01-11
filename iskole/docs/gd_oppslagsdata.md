@@ -3,7 +3,7 @@ id: gd_oppslagsdata
 title: Oppslagsdata
 sidebar_label: Oppslagsdata
 ---
-Her er samlet en gruppe tabeller, de fleste kommer fra Utdanningsdirektoratet. Innholdet er definert av UDIR, og kan ikke endres fra iSkole. Tabellene innholdet data som etterspørres og benyttes av iSkole.Fagkoderegisteret er tabellen med flest rader, her finner mer enn 17 000 rader.
+Her er samlet en gruppe tabeller, de fleste kommer fra Utdanningsdirektoratet. Innholdet er definert av UDIR, og kan ikke endres av brukerne av iSkole. Tabellene innholdet data som etterspørres og benyttes av iSkole.Fagkoderegisteret er tabellen med flest rader, her finner mer enn 17 000 rader.
 
 Registeret ble først utarbeidet for videregående skole. Men nå inneholder det også data for grunnskolen, og for Steinerskolen. 
 
