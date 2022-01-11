@@ -33,7 +33,7 @@ Alle fag som er godkjent av UDIR er samlet i denne tabellen. Den inneholder mer 
 
 #### _Vurderingsform_
 
-Her vises godkjente koder for hva som er grunnlaget for karakteren som settes på fagene som skal utskrives på kompetansebevis/vitnemål. Merk at her er også tysk medtatt, men vi ingen offisielle fagnavn på tysk i fagkoderegiisterer.
+Her vises godkjente koder for hva som er grunnlaget for karakteren som settes på fagene som skal utskrives på kompetansebevis/vitnemål. Merk at her er også tysk medtatt, men vi ingen offisielle fagnavn på tysk i fagkoderegisteret.
 
 #### _Fagmarknader_
 
