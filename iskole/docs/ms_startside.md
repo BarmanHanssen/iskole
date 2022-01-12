@@ -4,9 +4,11 @@ title: Startside
 sidebar_label: Startside
 ---
 
-Skjermbildet gir en pekepinn for dagens oppgaver. Timeplanen viser derfor kun dagens timeplan. Informasjonsboksene fungerer som lenker slik at man kan navigere til sider hvor man kan se nærmere på datamaterialet bak. Timeplanen navigerer til fraværsføringen. Informasjonsboksen for udokumentert fravær navigerer til en detaljert oversikt hvor man også kan endre prosenten for å se hvem som kommer med i utvalget. Kun fag man har karakteransvar for tas med i beregningen. Det vil si at om man er tolærer eller vikar, så vil man ikke få med disse fagene. Siden startsiden er ment å gi en pekepinn for dagens oppgaver, så vil utførte oppgaver ikke vises. Eksempelvis vil ikke elever som allerede har fått varselbrev om høyt fravær komme med i tellingen på startsiden — dette fordi oppgaven er løst og er ferdig.
+Startsiden gir en pekepinn til dagens oppgaver.  Informasjonsboksene fungerer som lenker slik at man kan navigere til sider hvor man kan se nærmere på datamaterialet bak. Timeplanen navigerer til fraværsføringen. Informasjonsboksen for udokumentert fravær navigerer til en detaljert oversikt hvor man også kan endre prosenten for å se hvem som kommer med i utvalget. Kun fag man har karakteransvar for tas med i beregningen. Det vil si at om man er tolærer eller vikar, så vil man ikke få med disse fagene. Siden startsiden er ment å gi en pekepinn for dagens oppgaver, så vil utførte oppgaver ikke vises. Eksempelvis vil ikke elever som allerede har fått varselbrev om høyt fravær komme med i tellingen på startsiden — dette fordi oppgaven er løst og er ferdig.
 
 ### Timeplan
+
+Her vises din timeplanen for i dag. Timeplanen for hele uken fås fra menyvalget _Timeplan_.
 
 ### Nye meldinger
 
