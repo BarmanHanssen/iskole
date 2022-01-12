@@ -41,4 +41,4 @@ Varslet skal gis «straks». Det vil si at når det er fare for at eleven kan ov
 
 ### Fremtidige vikartimer
 
-Dersom du allerede er lagt inn som vikar vil antall timer, og betingelser vises her.
+Dersom du allerede er lagt inn som vikar vil antall timer, og betingelser vises her. Klikker du på ikonet hvor vikartimer er større enn 0, vil du få opp timeplanen hvor vikartimene er markert med egen farge.
