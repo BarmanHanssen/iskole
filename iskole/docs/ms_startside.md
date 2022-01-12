@@ -24,7 +24,9 @@ Skolens ledere kan sendte ut meldinger til alle ansatte ved å benytte en bullet
 Her vises antall klager og egenmeldinger som du ennå ikke har behandlet.
 
 ### Udokumentert fravær
-Ved å klikke på ikonet _Elever over angitt prosent_ vises en ny side som lister ut elever og fag med udokumentert fravær over angitt prosent. Som standard ekskluderes de som har fått varsel, huk av _Inkluder elever som har fått varsel_ for å se alle elever. Prosenten er beregnet mot fagets omfang, slik det fremgår fra fagkoden til faget. Elever som har mer enn 7% fravær vil vises i listen hvis de ikke er varslet for 2. halvår. Dette uavhengig av hvilken prosent man velger. Dette for å fange opp de som allerede 1. halvår står i fare for å miste standpunktkarakteren.
+Fraværsprosenten beregnes ut fra fagets omfang, altså for antall timer for hele skoleåret. For å få oversikt over hvem som kan være i faresonen, kan du få listet ut elevene i dine fag som har prosentvis fravæ på minst prosentsatsen som er lagt inn. Prosentsatsen kan du selv velge.
+
+Som standard ekskluderes de som har fått varsel, men du kan huke av _Inkluder elever som har fått varsel_ for å se alle elever. Elever som har mer enn 7% fravær vil vises i listen hvis de ikke er varslet for 2. halvår, uavhengig av hvilken prosent man velger. Dette for å fange opp elever som allerede 1. halvår står i fare for å miste standpunktkarakteren.
 
 [Se reglement hos Udir](https://www.udir.no/regelverkstolkninger/opplaring/Vitnemal/fravarsgrense---udir-3-2016/)
 
@@ -38,3 +40,5 @@ Varslet skal gis «straks». Det vil si at når det er fare for at eleven kan ov
 :::
 
 ### Fremtidige vikartimer
+
+Dersom du allerede er lagt inn som vikar vil antall timer, og betingelser vises her.
