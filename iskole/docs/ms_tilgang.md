@@ -32,7 +32,7 @@ Rektor kan gi den enkelte ansatte tilgang til det enkelte menyvalg uavhengig av 
 Velg en brukergruppe fra nedtrekkslisten. Man får da en oversikt hvilke menyvalg som da blir tilgjengelig, og hvilke rettigheter som tildeles.
 
 ### Brukere
-Her kan rektor/administrator redigere rettigheter til ansatte. Dersom ingen brukergruppe(r) gir ønsket tilgang, er det mulig å gi brukeren tilgang til spesifikke menyvalg.
+Her kan rektor/administrator redigere rettigheter til ansatte. Dersom ingen brukergruppe(r) gir ønsket tilgang, kan rektor gi brukeren tilgang til spesifikke menyvalg.
 
 ### Karakterer
 ![image](https://user-images.githubusercontent.com/80097133/120457815-0b2e6500-c397-11eb-9157-96711b25ea38.png)
