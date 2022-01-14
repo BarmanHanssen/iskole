@@ -21,9 +21,14 @@ Nøkkelpersonene kan endres av rektor, administrator og skoleeier. Unntak er rek
 
 Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnader.
 
+
 ## Brukergrupper
 Navn og Beskrivelse sier det meste om over 20 defienerte gruppene. Nevner her bare
-- Superbruker som er tiltenkt person(er) som direkte kan hjelpe andre brukere. Det kan skje ved at en superbruker, fra menyvalget _Brukerrolle_ kan logge seg inn på den brukeren som har bedt om assistanse. Superbruker kan da finne frem, og se på, samme skjermbildet som brukeren. Superbruker har begrenset tilgang til å gjøre endringer for brukeren.
+
+## Grupperettigheter
+
+
+
 
 ## Brukere
 Her kan rektor/administrator redigere rettigheter til ansatte. Dersom ingen brukergruppe(r) gir ønsket tilgang, er det mulig å gi brukeren tilgang til spesifikke menyvalg.
