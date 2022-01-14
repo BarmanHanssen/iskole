@@ -51,5 +51,5 @@ En effektiv måte for å publisere meldinger til alle aktive brukere av iSkole! 
 ### Romreservering
 Dersom noen annen en timepalnlegger skal kunne reservere et rom, kan en her angi hvilke rom som kan reseerveres av utvalgte ansatte. Dersom man gir en lærer en slik rettighet, kan vedkommende reservere et rom til en time hvor læreren allerede er båndlagt med undervisning i et annet rom. Ekstrarommet vil viese på lærerens timeplan, og på rommets timeplan. Timeplanlegger, og læreren, kan slette en slik reservering.
 
-::: note Merk: Dette er eneste mulighet for at en lærer skal kunne disponere mer enn et rom når læreren har en undervisningstime.
+:::note Merk: Dette er eneste mulighet for at en lærer skal kunne disponere mer enn et rom når læreren har en undervisningstime.
 :::
