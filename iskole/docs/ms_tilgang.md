@@ -35,9 +35,10 @@ Velg en brukergruppe fra nedtrekkslisten. Man får da en oversikt hvilke menyval
 Her kan rektor/administrator redigere rettigheter til ansatte. Dersom ingen brukergruppe(r) gir ønsket tilgang, kan rektor gi brukeren tilgang til spesifikke menyvalg.
 
 ### Karakterer
+Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, og når elevene gis innsyn til egne resultater.
+
 ![image](https://user-images.githubusercontent.com/80097133/120457815-0b2e6500-c397-11eb-9157-96711b25ea38.png)
 
-Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, og når elevene gis innsyn til egne resultater.
 ## Elevers valg av programfag
 Dersom elevene skal velge fag i tillegg til fellesfagene som alle elevene i klassen skal følge, kan dette fagvalget gjøres direkte fra iSkole. Slike fag omtales som gruppefag. Fagvalget foretas vanligvis i januar/februar og gjelder for fag som skal påbegynnes neste skoleår. Valget forutsetter at neste års planperiode er opprettet, og at det er opprettet grupper i de aktuelle valgfagene. 
 
