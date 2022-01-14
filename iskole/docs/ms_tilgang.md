@@ -45,11 +45,15 @@ Dersom elevene skal velge fag i tillegg til fellesfagene som alle elevene i klas
 ### Stenging
 Det er mulig å stenge iSkole for en gitt periode. I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Dette gjøres ved å velge planperioden det gjelder og deretter velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan logge inn på iSkole, men får ikke tilgang timeplanen. De menyvalgene som viser timeplan og fag vises først etter _Tilgjengelig fra_.
 
-### Bulleteng
-En effektiv måte for å publisere meldinger til alle aktive brukere av iSkole! Dersom en ny melding legges ut, vil den vises straks en bruker logger seg på iSkole. Altså vil alle brukere få frem meldingen en gang, uten noe ekstra museklikk. Redaktøren bestemmer hvor lenge meldingen skal ligge ute. En melding kan publiseres bare til ansatte, eller til elever og ansatte.
-
 ### Romreservering
 Dersom noen annen en timepalnlegger skal kunne reservere et rom, kan en her angi hvilke rom som kan reseerveres av utvalgte ansatte. Dersom man gir en lærer en slik rettighet, kan vedkommende reservere et rom til en time hvor læreren allerede er båndlagt med undervisning i et annet rom. Ekstrarommet vil viese på lærerens timeplan, og på rommets timeplan. Timeplanlegger, og læreren, kan slette en slik reservering.
 
 :::note Merk: Dette er eneste mulighet for at en lærer skal kunne disponere mer enn et rom når læreren har en undervisningstime.
 :::
+
+### Bulleteng
+En effektiv måte for å publisere meldinger til alle aktive brukere av iSkole! Dersom en ny melding legges ut, vil den vises straks en bruker logger seg på iSkole. Altså vil alle brukere få frem meldingen en gang, uten noe ekstra museklikk. Redaktøren bestemmer hvor lenge meldingen skal ligge ute. En melding kan publiseres bare til ansatte, eller til elever og ansatte.
+
+### Foreldre
+
+Det er mulig å begrense foreldres innsyn i dataene til sine barn. Fra _Elevadmin.>Elev_ er det mulig, da for den enkelte elev, å utvide retten til innsyn.
