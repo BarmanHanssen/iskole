@@ -43,12 +43,12 @@ Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, 
 Dersom elevene skal velge fag i tillegg til fellesfagene som alle elevene i klassen skal følge, kan dette fagvalget gjøres direkte fra iSkole. Slike fag omtales som gruppefag. Fagvalget foretas vanligvis i januar/februar og gjelder for fag som skal påbegynnes neste skoleår. Valget forutsetter at neste års planperiode er opprettet, og at det er opprettet grupper i de aktuelle valgfagene. 
 
 ### Stenging
-Det er mulig å stenge iSkole for en gitt periode. I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Dette gjøres ved å velge planperioden det gjelder og deretter velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan da logge inn på iSkole og benytte den delen som ikke viser timeplan eller fag. De menyvalgene som har med timeplan og fag gir brukeren informasjon om når timeplanen blir tilgjengelig.
+Det er mulig å stenge iSkole for en gitt periode. I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Dette gjøres ved å velge planperioden det gjelder og deretter velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan logge inn på iSkole, men får ikke tilgang timeplanen. De menyvalgene som viser timeplan og fag vises først etter _Tilgjengelig fra_.
 
 ### Bulleteng
-En effektiv måte for å publisere meldinger til alle brukrerne av iSkole! Dersom en ny melding legges ut, vil den vises straks en bruker logger seg på iSkole. Altså vil alle brukere få frem meldingen en gang, uten noe ekstra museklikk. Redaktøren bestemmer hvor lenge meldingen skal ligge ute. En melding kan publiseres bare til ansatte, eller til elever og ansatte.
+En effektiv måte for å publisere meldinger til alle aktive brukere av iSkole! Dersom en ny melding legges ut, vil den vises straks en bruker logger seg på iSkole. Altså vil alle brukere få frem meldingen en gang, uten noe ekstra museklikk. Redaktøren bestemmer hvor lenge meldingen skal ligge ute. En melding kan publiseres bare til ansatte, eller til elever og ansatte.
 
 ### Romreservering
-Dersom noen annen en timepalnlegger skal kunne reservere et rom, kan en her angi hvilke rom som kan reseerveres av utvalgte ansatte. Dersom man gir en lærer en slik rettighet, kan vedkommende reservere et rom til en time hvor læreren allerede er båndlagt med undervisning i et annet rom. Ekstrarommet vil viese på lærerens timeplan, og på rommets timeplan. Både timeplanlegger, og læreren, kan slette en slik registrering.
+Dersom noen annen en timepalnlegger skal kunne reservere et rom, kan en her angi hvilke rom som kan reseerveres av utvalgte ansatte. Dersom man gir en lærer en slik rettighet, kan vedkommende reservere et rom til en time hvor læreren allerede er båndlagt med undervisning i et annet rom. Ekstrarommet vil viese på lærerens timeplan, og på rommets timeplan. Timeplanlegger, og læreren, kan slette en slik reservering.
 
 Merk: Dette er eneste mulighet for at en lærer skal kunne disponere mer enn et rom når læreren har en undervisningstime.
