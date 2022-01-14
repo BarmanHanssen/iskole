@@ -22,7 +22,8 @@ Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilv
 ![image](https://user-images.githubusercontent.com/80097133/120471255-c90c2000-c3a4-11eb-95b2-a17ed9d4efd4.png)
 
 ### Brukergrupper
-Navn og Beskrivelse sier det meste om over 20 defienerte gruppene. Fra _Grupperettigheter_ fås oversikt over hvilke menyvalg den enkelte brukergruppe får tilgang til.
+Navn og Beskrivelse sier det meste om de 25 definerte gruppene. Fra _Grupperettigheter_ fås detljert oversikt over hvilke menyvalg den enkelte brukergruppe får tilgang til.
+
 ::: Merk
 Rektor kan gi den enkelte ansatte tilgang til det enkelte menyvalg uavhengig av brukergruppene.
 :::
