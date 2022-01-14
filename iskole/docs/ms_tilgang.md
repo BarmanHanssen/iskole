@@ -17,10 +17,9 @@ Nøkkelpersonene kan endres av rektor, administrator og skoleeier. Unntak er rek
 - PASansvarlig har ansvaret for at oppsatte eksamenspartier blir overført til PAS.
 
 ## Funksjoner
-![image](https://user-images.githubusercontent.com/80097133/120471255-c90c2000-c3a4-11eb-95b2-a17ed9d4efd4.png)
-
 Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnader.
 
+![image](https://user-images.githubusercontent.com/80097133/120471255-c90c2000-c3a4-11eb-95b2-a17ed9d4efd4.png)
 
 ## Brukergrupper
 Navn og Beskrivelse sier det meste om over 20 defienerte gruppene. Nevner her bare
