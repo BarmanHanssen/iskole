@@ -3,10 +3,10 @@ id: ms_logg
 title: Logg
 sidebar_label: Logg
 ---
-
-Hendelsesloggen i iSkole gir alle ansatte en mulighet for å loggføre små og store hendelser som skjer i løpet av skoledagen. Det er åtte predefinerte hendelsestyper registrert:
-1. Annen
-2. Observasjon
+Her kan ansatte notere hendelser hvor en elev er innblandet, og hvor hendelsen er av en slik art at det er greit å ha en dokumentasjon.
+Det er åtte predefinerte hendelsestyper registrert:
+- Annen
+- Observasjon
 3. Adferd
 4. Mobbing
 5. Ulykke
