@@ -22,7 +22,8 @@ Elever/foresatte kan sende inn søknad om permisjon fra meyvalget _Meldinger_. E
 I denne ruten vises summen av alt udokumentert fravær. Ved å trykke i ruten får man frem en tabell som viser elever med deres fag hvor de har udokumentert fravær. Det vises blant annet fagets omfang, antall klokketimer udokumentert fravær, og hva fraværet utgjør i prosent. For valgt elev kan også hente frem alle varselbrev til eleven ved å følge lenken _Vis_ i kolonnen _Brev_.  
 
 :::note Merk
-![bilde](https://user-images.githubusercontent.com/80097133/149929575-aca951f4-3a36-4d13-84c6-f108cd0bb797.png)
 
 Man kan skrive i feltene over kolonnenavene for å sile innholdet, og/eller sortere radene i kolonnen for å bedre oversikten.
+
+![bilde](https://user-images.githubusercontent.com/80097133/149929575-aca951f4-3a36-4d13-84c6-f108cd0bb797.png)
 ::
