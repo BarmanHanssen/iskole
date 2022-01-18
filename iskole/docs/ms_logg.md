@@ -4,7 +4,7 @@ title: Logg
 sidebar_label: Logg
 ---
 Her kan ansatte notere hendelser hvor en elev er innblandet, og hvor hendelsen er av en slik art at det er greit å ha en dokumentasjon.
-Det er åtte predefinerte hendelsestyper registrert:
+Man velger blant åtte predefinerte hendelsestyper:
 - Annen
 - Observasjon
 - Adferd
