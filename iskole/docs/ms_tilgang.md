@@ -46,7 +46,7 @@ Dersom elevene skal velge fag i tillegg til fellesfagene som alle elevene i klas
 Det er mulig å stenge iSkole for en gitt periode. I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Dette gjøres ved å velge planperioden det gjelder og deretter velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan logge inn på iSkole, men får ikke tilgang timeplanen. De menyvalgene som viser timeplan og fag vises først etter _Tilgjengelig fra_.
 
 ### Romreservering
-Dersom andre enn timeplanlegger skal kunne reservere et rom, kan en her angi hvilke rom som kan reserveres av utvalgte ansatte. Dersom man gir en lærer en slik rettighet, kan vedkommende reservere et rom til en time hvor læreren allerede er båndlagt med undervisning i et annet rom. Ekstrarommet vil vises på lærerens timeplan, og på rommets timeplan. Se _Mine sider>Timeplan>Romtimeplan_ under fanene _Mine reservereiner_ og _Rom som du kan reservere_. Timeplanlegger, og læreren, kan slette en slik reservering.
+Dersom andre enn timeplanlegger skal kunne reservere et rom, kan en her angi hvilke rom som kan reserveres av utvalgte ansatte. Dersom man gir en lærer en slik rettighet, kan vedkommende reservere et rom til en time hvor læreren allerede er båndlagt med undervisning i et annet rom. Ekstrarommet vil vises på lærerens timeplan, og på rommets timeplan. Se _Mine sider>Timeplan>Romtimeplan_ under fanene _Mine reserveringer_ og _Rom som du kan reservere_. Timeplanlegger, og læreren, kan slette en slik reservering.
 
 :::note Merk
 Dette er eneste mulighet for at en lærer skal kunne disponere mer enn et rom når læreren har en undervisningstime.
