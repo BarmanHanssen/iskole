@@ -19,7 +19,7 @@ I denne ruten vises hvor mange varselbrev som ikke er åpnet. Det er summert bå
 Elever/foresatte kan sende inn søknad om permisjon fra meyvalget _Meldinger_. Elevens kontaktlærer kan behandle søknaden fra menyvalget _Permisjon_, adminstrasjonen fra _Elevadmin.>Permisjon_.
 
 ### Udokumentert fravær
-I denne ruten vises summen av alt udokumentert fravær. Ved å trykke i ruten får man frem en tabell som viser elever med deres fag hvor de har udokumentert fravær. Det vises blant annet fagets omfang, antall klokketimer udokumentert fravær, og hva fraværet utgjør i prosent. For valgt elev kan også hente frem alle varselbrev til eleven ved å følge lenken _Vis_ i kolonnen _Brev_.  
+I denne ruten vises alt udokumentert fravær i alle fag hvor fraværet er registrert. Men man får bare med fag som har fravær større enn den angitt prosenten. Ved å trykke på et navn får man frem en samlet oversikt over alt fravær og merknader for denne eleven. For valgt elev kan også hente frem alle varselbrev til eleven ved å følge lenken _Vis_ i kolonnen _Brev_.  
 
 :::note Merk
 
