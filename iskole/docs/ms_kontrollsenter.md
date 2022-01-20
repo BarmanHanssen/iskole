@@ -23,7 +23,7 @@ I denne ruten vises alt udokumentert fravær i alle fag hvor fraværet er regist
 
 :::note Merk
 
-Benytt  _Informasjon_ for næærmere forklaring av utvalget. Man kan skrive i feltene over kolonnenavene for å sile innholdet, og/eller sortere radene i kolonnen for å bedre oversikten.
+Benytt  _Informasjon_ for nærmere forklaring av utvalget. Man kan skrive i feltene over kolonnenavene for å sile innholdet, og/eller sortere radene i kolonnen for å bedre oversikten.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/149929575-aca951f4-3a36-4d13-84c6-f108cd0bb797.png)
 ::
