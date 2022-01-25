@@ -20,12 +20,15 @@ _Stillingsoversikt_:
 Her viser alle dine fag på listeform, samt eventuell tillegg, og summert din stillingsstørrelse.
 
 ## Romtimeplan
-Her vises timeplanen til valgte rom. Timeplanen kan lastes ned som et pdf-dookument dersom det er ønskelig.
+Her vises timeplanen til valgte rom. Timeplanen kan lastes ned som et pdf-dokument dersom det er ønskelig.
 
 _Rom som du kan reservere_
-Dersom det er åpnet for at lærere kan reservere et rom, utføres reserasjonen her. Hvilke rom du er gitt tilgang til å reservere kan du se under fanen _Rom som du kan reservere_. Det tillates at en lærer kan reservere et ekstra rom, selv om læreren har undervisning på annet rom i samme time.
+Dersom rektor/administrator har åpnet for reservasjon (fra menyvalget _Tilgang_), vises alle rom du kan reservere her.
 
-Velg ønsket rom fra nedtrekkslisten. Ledige timer vil vises med grønne bokser. Ved å klikke på den grønne boksen vil det automatisk opprettes en reservasjon med teksten _Reservert_. Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. For å slette reservasjonen venstreklikker du på reservasjonen. Du kan også se dine reservasjonen under fanen _Egne reserveringer_. Her har du også mulighet til å endre tekstene. Hvis du endrer den, klikk utenfor tekstfeltet når du er ferdig, slik at knappen _Lagre_ blir aktiv og trykk på denne. Du kan slette en reservasjon ved å markere den og klikke _Slett valgt reservering_. Romreserveringer gjort herfra og disse blir ikke kopiert videre om timeplanlegger skulle kopiere timeplanen fremover i tid. Ønskes en fast reservering av rom for lærer, så må timeplanleggeren legge den inn fra Timeplan>Reserver rom. 
+_Egne reserveringer_. 
+En lærer kan reservere et ekstra rom, selv om læreren har undervisning på annet rom i samme time.
+Velg ønsket rom fra nedtrekkslisten. Ledige timer for rommet vises med grønne bokser. Ved å klikke på en grønn boks vil det automatisk opprettes en reservasjon med teksten _Reservert_. Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. 
+For å slette reservasjonen venstreklikker du på reservasjonen. 
 
 ## Lærertimeplan
 Nedtrekkslisten inneholder navnene til alle som har undervisning ved skolen inneværende planperiode. Planleggingsdager er markert med gul, fridager med fiolett farge. Uker uten undervisning vises ikke. Klikk på en time for å se flere detaljer.
