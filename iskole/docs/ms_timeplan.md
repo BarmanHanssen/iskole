@@ -28,6 +28,7 @@ Dersom rektor/administrator har åpnet for reservasjon (fra menyvalget _Tilgang_
 _Egne reserveringer_:  
 En lærer kan reservere et ekstra rom, selv om læreren har undervisning på annet rom i samme time.
 Velg ønsket rom fra nedtrekkslisten. Ledige timer for rommet vises med grønne bokser. Ved å klikke på en grønn boks vil det automatisk opprettes en reservasjon med teksten _Reservert_. Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. 
+
 For å slette reservasjonen venstreklikker du på reservasjonen. 
 
 ## Lærertimeplan
