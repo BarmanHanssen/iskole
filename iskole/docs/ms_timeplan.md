@@ -22,10 +22,10 @@ Her viser alle dine fag på listeform, samt eventuell tillegg, og summert din st
 ## Romtimeplan
 Her vises timeplanen til valgte rom. Timeplanen kan lastes ned som et pdf-dokument dersom det er ønskelig.
 
-_Rom som du kan reservere_
+_Rom som du kan reservere_: 
 Dersom rektor/administrator har åpnet for reservasjon (fra menyvalget _Tilgang_), vises alle rom du kan reservere her.
 
-_Egne reserveringer_. 
+_Egne reserveringer_:  
 En lærer kan reservere et ekstra rom, selv om læreren har undervisning på annet rom i samme time.
 Velg ønsket rom fra nedtrekkslisten. Ledige timer for rommet vises med grønne bokser. Ved å klikke på en grønn boks vil det automatisk opprettes en reservasjon med teksten _Reservert_. Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. 
 For å slette reservasjonen venstreklikker du på reservasjonen. 
