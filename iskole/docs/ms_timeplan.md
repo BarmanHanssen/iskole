@@ -14,7 +14,6 @@ Bruk valget _Zoom_ for å tilpasse visningen av timeplanen til den skjermen du b
 Dine timer vises med fag og romnr. Dersom du har fått reservert ekstra rom til en time, vil det rommet også vises på din timeplan. Dagene er farget likt som i skoleruten. Fridager/fritimer er hvite. Dersom det skal være prøve i et av fagene dine vil den vises med grønn farge. Klikk på en time for å få frem flere detaljer om timen. 
 
 _Ukeplan_
-
 Hvis du har lagret en ukeplan til et fag (fra Års-/ukeplan_),  vil planen i faget vises her. 
 
 _Stillingsoversikt_  
