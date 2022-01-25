@@ -22,7 +22,7 @@ Her viser alle dine fag på listeform, samt eventuell tillegg, og summert din st
 ## Romtimeplan
 Her vises timeplanen til valgte rom. Timeplanen kan lastes ned som et pdf-dokument dersom det er ønskelig.
 
-_Rom som du kan reservere_: 
+_Rom som du kan reservere_:  
 Dersom rektor/administrator har åpnet for reservasjon (fra menyvalget _Tilgang_), vises alle rom du kan reservere her.
 
 _Egne reserveringer_:  
