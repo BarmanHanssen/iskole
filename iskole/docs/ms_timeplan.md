@@ -12,7 +12,7 @@ Hvis du endrer uken, vil dette bli gjeldende uke også på andre menyvalg.
 :::
 
 ## Min timeplan
-Dine timer vises ved fag og romnr, eventuelle reservasjoner vil også vises på din timeplan. Dagene er farget likt som i skoleruten. Unntak er skoledager, som her er hvite. Klikk på en time for å få se flere detaljer om timen. Hvis du har lagret en ukeplan til et fag, (se Års-/ukeplan), vil planen i faget vises under fanen _Ukeplan_.
+Dine timer vises med fag og romnr. Dersom du har fått reservert ekstra rom til en time, vil det også vises på din timeplan. Dagene er farget likt som i skoleruten. Fridager/fritimer er hvite. Dersom det skal være prøve i et av fagene dine vil den vises med grønn farge. Klikk på en time for å få frem flere detaljer om timen. Hvis du har lagret en ukeplan til et fag, (se _Års-/ukeplan_), vil planen i faget vises under fanen _Ukeplan_. _Stillingsoversikt_ viser alle dine fag, samt eventuell tillegg, og summert din stillingsstørrelse.
 
 :::tip Tips
 Zoom inn så mye du kan og fortsatt se alle timer, før du laster ned timeplanen.
