@@ -4,11 +4,11 @@ title: Timeplan
 sidebar_label: Timeplan
 ---
 
-Alle timeplanene kan endres fra uke til uke. Påse at du har valgt ønsket uke. Når du logger på iSkole, vil du automatisk være på gjeldende uke. Unntak er uker som ikke er i skoleruten, da vil neste uke vises. Øverst i vinduet vises faner for de forskjellige timeplanene, Min timeplan er standardvalget første gang timeplanen vises.
+Alle timeplanene kan endres fra uke til uke. Påse at du har valgt ønsket uke. Når du logger på iSkole, vil du automatisk være på gjeldende uke. Unntak er uker som ikke er i skoleruten, da vil neste uke vises. Øverst i vinduet vises faner for de forskjellige timeplanene, _Min timeplan_ er standardvalget første gang timeplanen vises.
 
 
 :::note Merk
-Hvis du endrer uken, vil dette være gjeldende også på andre menyvalg.
+Hvis du endrer uken, vil dette bli gjeldende uke også på andre menyvalg.
 :::
 
 ## Min timeplan
