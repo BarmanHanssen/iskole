@@ -4,22 +4,27 @@ title: Timeplan
 sidebar_label: Timeplan
 ---
 
-Alle timeplanene kan endres fra uke til uke. Påse at du har valgt ønsket uke. Når du logger på iSkole, vil du automatisk være på gjeldende uke. Unntak er uker som ikke er i skoleruten, da vil neste uke vises. Øverst i vinduet vises faner for de forskjellige timeplanene, _Min timeplan_ er standardvalget første gang timeplanen vises.
-
+Alle timeplanene kan endres fra uke til uke. Påse at du har valgt ønsket uke. Når du logger på iSkole, vil du automatisk komme til gjeldende uke. Unntak er uker som ikke er i skoleruten, da vil neste uke vises. Øverst i vinduet vises faner for de forskjellige timeplanene, _Min timeplan_ er standardvalget første gang timeplanen vises. Hvis du endrer uke, vil dette bli gjeldende uke også for nye menyvalg.
 
 :::note Merk
-Hvis du endrer uken, vil dette bli gjeldende uke også på andre menyvalg.
+Bruk valget _Zoom_ for å tilpasse visningen av timeplanen til den skjermen du benytter. 
 :::
 
 ## Min timeplan
-Dine timer vises med fag og romnr. Dersom du har fått reservert ekstra rom til en time, vil det også vises på din timeplan. Dagene er farget likt som i skoleruten. Fridager/fritimer er hvite. Dersom det skal være prøve i et av fagene dine vil den vises med grønn farge. Klikk på en time for å få frem flere detaljer om timen. Hvis du har lagret en ukeplan til et fag, (se _Års-/ukeplan_), vil planen i faget vises under fanen _Ukeplan_. _Stillingsoversikt_ viser alle dine fag, samt eventuell tillegg, og summert din stillingsstørrelse.
+Dine timer vises med fag og romnr. Dersom du har fått reservert ekstra rom til en time, vil det rommet også vises på din timeplan. Dagene er farget likt som i skoleruten. Fridager/fritimer er hvite. Dersom det skal være prøve i et av fagene dine vil den vises med grønn farge. Klikk på en time for å få frem flere detaljer om timen. 
+_Ukeplan_
+Hvis du har lagret en ukeplan til et fag (fra Års-/ukeplan_),  vil planen i faget vises her. 
+_Stillingsoversikt_ viser alle dine fag på listeform, samt eventuell tillegg, og summert din stillingsstørrelse.
 
 :::tip Tips
 Zoom inn så mye du kan og fortsatt se alle timer, før du laster ned timeplanen.
 :::
 
 ## Romtimeplan
-Her vises timeplanen til valgte rom. Men dersom det er åpnet for at lærere kan reservere et rom, utføres reserasjonen her. Hvilke rom du er gitt tilgang til å reservere kan du se under fanen _Rom som du kan reservere_. Det tillates at en lærer kan reservere et ekstra rom, selv om læreren har undervisning på annet rom i samme time.
+Her vises timeplanen til valgte rom. Timeplanen kan lastes ned som et pdf-dookument dersom det er ønskelig.
+
+
+Men dersom det er åpnet for at lærere kan reservere et rom, utføres reserasjonen her. Hvilke rom du er gitt tilgang til å reservere kan du se under fanen _Rom som du kan reservere_. Det tillates at en lærer kan reservere et ekstra rom, selv om læreren har undervisning på annet rom i samme time.
 
 Velg ønsket rom fra nedtrekkslisten. Ledige timer vil vises med grønne bokser. Ved å klikke på den grønne boksen vil det automatisk opprettes en reservasjon med teksten _Reservert_. Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. For å slette reservasjonen venstreklikker du på reservasjonen. Du kan også se dine reservasjonen under fanen _Egne reserveringer_. Her har du også mulighet til å endre tekstene. Hvis du endrer den, klikk utenfor tekstfeltet når du er ferdig, slik at knappen _Lagre_ blir aktiv og trykk på denne. Du kan slette en reservasjon ved å markere den og klikke _Slett valgt reservering_. Romreserveringer gjort herfra og disse blir ikke kopiert videre om timeplanlegger skulle kopiere timeplanen fremover i tid. Ønskes en fast reservering av rom for lærer, så må timeplanleggeren legge den inn fra Timeplan>Reserver rom. 
 
