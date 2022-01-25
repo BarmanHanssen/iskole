@@ -16,7 +16,7 @@ Dine timer vises med fag og romnr. Dersom du har fått reservert ekstra rom til 
 _Ukeplan_
 Hvis du har lagret en ukeplan til et fag (fra Års-/ukeplan_),  vil planen i faget vises her. 
 
-_Stillingsoversikt_  
+_Stillingsoversikt_
 Her viser alle dine fag på listeform, samt eventuell tillegg, og summert din stillingsstørrelse.
 
 :::tip Tips
