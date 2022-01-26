@@ -7,6 +7,7 @@ sidebar_label: Timeplan
 Alle timeplanene kan endres fra uke til uke. Påse at du har valgt ønsket uke. Når du logger på iSkole, vil du automatisk komme til gjeldende uke. Unntak er uker som ikke er i skoleruten, da vil neste uke vises. Øverst i vinduet vises faner for de forskjellige timeplanene, _Min timeplan_ er standardvalget første gang timeplanen vises. Hvis du endrer uke, vil dette bli gjeldende uke også for nye menyvalg.
 
 :::note Merk
+For alle timeplaner er det mulig å velge _Last ned timeplanen_ i PDF-format.
 Bruk valget _Zoom_ for å tilpasse visningen av timeplanen til den skjermen du benytter. 
 :::
 
@@ -33,10 +34,11 @@ Velg ønsket rom fra nedtrekkslisten. Ledige timer for rommet vises med grønne 
 For å slette reservasjonen venstreklikker du på reservasjonen. 
 
 ## Lærertimeplan
-Nedtrekkslisten inneholder navnene til alle som har undervisning ved skolen inneværende planperiode. Planleggingsdager er markert med gul, fridager med fiolett farge. Uker uten undervisning vises ikke. Klikk på en time for å se flere detaljer.
+Her finner du timeplanen til samtlige lærere ved skolen. Nedtrekkslisten inneholder derfor navnene til alle som har undervisning ved skolen inneværende planperiode. Planleggingsdager er markert med gul, fridager med fiolett farge. Uker uten undervisning vises ikke. Klikk på en time for å få flere detaljer!
 
 ## Elevtimeplan
-Søk etter elever ved å klikke på forstørrelsesglasset. Skriv inn hele eller deler av navnet og klikk _Enter_-tasten, velg ønsket elev og klikk _Lukk_. Legg merke til at fargekodene er forskjellig fra ansattes timeplan. For elever farges fravær og forsentkomming. Prøver vises i grønt øverst i kalenderen. Elevens kontaktlærer vises over tabellen. Ukeplaner og faglærere vises under egne faner.
+Her finner du timeplanen til samtlige elever ved skolen.
+Søk etter elever ved å klikke på forstørrelsesglasset. Skriv inn hele eller deler av navnet og klikk _Enter_-tasten, velg ønsket elev og klikk _Lukk_. Legg merke til at fargekodene er forskjellig fra ansattes timeplan. For elever farges fravær og forsentkomming. Prøver vises i grønt øverst i kalenderen. Elevens kontaktlærer vises over tabellen. _Ukeplan_ og _Faglærere_ for den valgte eleven kan også vises.
 
 ## Klassetimeplan
-Nedtrekkslisten _Klasse_ viser bare klasser som har fått timer lagt ut på timeplanen. Tider markert med *Gruppe* er timer hvor elevene kan ha forskjellige fag. Hvilke fag den enkelte har valgt vil fremgå av elevens timeplan. Klikk på knappen _Vis klassens faglærere_ for en liste over alle elevens faglærere.
+Nedtrekkslisten _Klasse_ viser bare klasser som har fått timer lagt ut på timeplanen. Tider markert med *Gruppe* er timer hvor elevene kan ha gruppefag. Hvilke fag den enkelte har valgt vil fremgå av elevens timeplan. Klikk på knappen _Vis klassens faglærere_ for en liste over alle elevens faglærere.
