@@ -46,7 +46,9 @@ Prøver for valgte elev denne uken vises i grønt øverst i kalenderen.
  _Faglærere_: Her vises faglærere og eventuelle tolærere i elevens klasse- og gruppefag. 
 
 ## Klassetimeplan
-Nedtrekkslisten _Klasse_ viser bare klasser som har fått timer lagt ut på timeplanen. Timer markert med *Gruppe* er timer hvor elevene hra/kan ha gruppefag. Hvilke fag den enkelte har valgt vil fremgå av elevens timeplan. Klikk på knappen _Vis klassens faglærere_ for en liste over alle elevens faglærere, inkludert gruppefag som elevene har i sin fagkrets.
+Nedtrekkslisten inneholder bare klasser som har fått timer lagt ut på timeplanen. Klassefag kommer på blå bakgrunn. Elevenes gruppefag har grønn bakgrunn. Bare gruppefag som minst en elev i klassen har valgt kommer med. 
+
+_Vis klassens faglærere_: Listen inneholder alle elevens faglærere, altså også faglærere i gruppefag som elevene måtte ha i sin fagkrets.
 
 ## Tid
 Her vises start- og slutt-tider som timeplanlegger har til sin rådighet. Dette er en mal som gjelder for nye timer som timeplanlegges. Det innebærer at klokkeslettene ikke behøver å være identiske med tidene som nå vises på timeplanen. Eventuelle avvik skyldes at timene for faget ble timeplanlagt med en avvikende mal.
