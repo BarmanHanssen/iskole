@@ -18,10 +18,14 @@ _Ukeplan_:
 Hvis du har lagret en ukeplan til et fag (fra Års-/ukeplan_),  vil planen i faget vises her. 
 
 _Stillingsoversikt_:
-Her viser alle dine fag på listeform, samt eventuell tillegg, og summert din stillingsstørrelse.
+Her viser alle dine fag på listeform, samt eventuell tillegg. Summen er din stillingsstørrelse.
 
 ## Romtimeplan
-Her vises timeplanen til valgte rom. Timeplanen kan lastes ned som et pdf-dokument dersom det er ønskelig.
+Her vises timeplanen til et bestemt rom. Alle rom som kan timeplanlegges, finner du i nedtrekkslisten. 
+
+Dersom du kan reservere rommet, vil ledige timer være farget grønn. Ved å klikke på en grønn boks vil det automatisk opprettes en reservasjon med teksten _Reservert_. Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. 
+
+For å slette reservasjonen venstreklikker du på reservasjonen. 
 
 _Rom som du kan reservere_:  
 Det er kun rom fra denne listen du kan reservere til deg selv.
@@ -29,9 +33,7 @@ Det er rektor/administrator som fra menyvalget _Tilgang_ kan åpne for reservasj
 
 _Egne reserveringer_:  
 En lærer kan reservere et ekstra rom, selv om læreren har undervisning på annet rom i samme time.
-Velg ønsket rom fra nedtrekkslisten. Ledige timer for rommet vises med grønne bokser. Ved å klikke på en grønn boks vil det automatisk opprettes en reservasjon med teksten _Reservert_. Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. 
-
-For å slette reservasjonen venstreklikker du på reservasjonen. 
+Velg ønsket rom fra nedtrekkslisten. Ledige timer for rommet vises med grønne bokser.
 
 ## Lærertimeplan
 Her finner du timeplanen til samtlige lærere ved skolen. Nedtrekkslisten inneholder derfor navnene til alle som har undervisning ved skolen inneværende planperiode. Planleggingsdager er markert med gul, fridager med fiolett farge. Uker uten undervisning vises ikke. Klikk på en time for å få flere detaljer!
