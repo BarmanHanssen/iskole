@@ -4,11 +4,11 @@ title: Timeplan
 sidebar_label: Timeplan
 ---
 
-Øverst i vinduet vises faner for de forskjellige timeplanene. _Min timeplan_ er standardvalget første gang timeplanen vises. Når du logger på iSkole, vil du automatisk komme til gjeldende uke. Men du kan fritt velge en annen uke fra nedtrekkslisten.  Hvis du endrer uke, vil dette bli gjeldende uke også for nye menyvalg.
+_Min timeplan_ er standardvalget første gang timeplanen vises. Når du logger på iSkole, vil du automatisk komme til gjeldende uke. Men du kan fritt velge en annen uke fra nedtrekkslisten.  Hvis du endrer uke, vil dette bli gjeldende uke også for nye menyvalg.
 
 :::note Merk
-Bruk valget _Zoom_ for å tilpasse visningen av timeplanen til den skjermen du benytter. 
-For alle timeplaner er det mulig å velge _Last ned timeplanen_ i PDF-format.
+Bruk valget _Zoom_ for å tilpasse visningen av timeplanen til skjermen du benytter. 
+Fra _Last ned timeplanen_ kan du lagre timeplanen i PDF-format.
 :::
 
 ## Min timeplan
