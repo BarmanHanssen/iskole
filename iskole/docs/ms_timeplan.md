@@ -25,7 +25,7 @@ Her vises timeplanen til et bestemt rom. Alle rom som kan timeplanlegges, finner
 
 Dersom du kan reservere rommet, vil ledige timer være farget grønn. Ved å klikke på en grønn boks vil det automatisk opprettes en reservasjon med teksten _Reservert_. Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. 
 
-For å slette reservasjonen venstreklikker du på reservasjonen. 
+For å slette reservert time venstreklikker du på timen. 
 
 _Rom som du kan reservere_:  
 Det er kun rom fra denne listen du kan reservere til deg selv.
