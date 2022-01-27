@@ -44,4 +44,4 @@ Søk etter elever ved å klikke på forstørrelsesglasset. Skriv inn hele eller 
 Nedtrekkslisten _Klasse_ viser bare klasser som har fått timer lagt ut på timeplanen. Timer markert med *Gruppe* er timer hvor elevene hra/kan ha gruppefag. Hvilke fag den enkelte har valgt vil fremgå av elevens timeplan. Klikk på knappen _Vis klassens faglærere_ for en liste over alle elevens faglærere, inkludert gruppefag som elevene har i sin fagkrets.
 
 ## Tid
-Her vises start- og slutt-tider som timeplanlegger har til sin rådighet. Dette er en mal som gjelder for nye timer som timeplanlegges. Det innebærer at klokkeslettene ikke behøver å være identiske med tidene som nå vises på timeplanen. Eventuelle avvik skyldes at timene for faget ble timeplanlagt med en avvikene mal.
+Her vises start- og slutt-tider som timeplanlegger har til sin rådighet. Dette er en mal som gjelder for nye timer som timeplanlegges. Det innebærer at klokkeslettene ikke behøver å være identiske med tidene som nå vises på timeplanen. Eventuelle avvik skyldes at timene for faget ble timeplanlagt med en avvikende mal.
