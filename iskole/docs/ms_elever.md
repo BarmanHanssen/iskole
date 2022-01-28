@@ -11,7 +11,7 @@ Knappen øverst til venstre på siden tar deg tilbake til elevlisten.
 ## _Kontaktelever_
 Hvis du er kontaktlærer vil alle dine elever vises i fanen _Kontaktelever_. Kolonnen _Sist innlogget_ viser når eleven eller den foresatte sist var innlogget, dette hjelper deg til å se om elevene benytter iSkole.
 
-### Passord
+#### Passord
 Kontaktlæreren kan opprette nytt passord ved å klikke _Rediger_ i kolonnen _Passord_. Denne opsjon for kontaktlærer er overfløding dersom elevens epostadresse er registrert. Da kan eleven selv få tilsendt passord per epost ved å benyttet _Glemt passord?_ ved innlogging. Elevene kan selv endre passordet fra _Mine sider>Personalia_.
 
 ### Passord til mange
