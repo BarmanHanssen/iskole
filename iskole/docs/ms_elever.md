@@ -24,6 +24,7 @@ Som kontaktlærer kan du legge til vikarer eller assistenter for en angitt perio
 
 ## _Søk etter elev_
 Lærer/kontaktlærer har ikke rettigheter for å få frem dette valget!
+
 Søk kan gjøres basert på klasse, navn eller elevnr. Søkeresultatet vises i en tabell tilsvarende tabellen som kontaktlæreren har. 
 
 :::tip Tips
