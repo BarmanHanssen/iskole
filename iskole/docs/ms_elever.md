@@ -22,13 +22,13 @@ Når du får en klasse med elever som tidligere ikke har hatt iSkole, kan du ben
 #### Vikar/assistent for mine kontaktelever
 Som kontaktlærer kan du legge til vikarer eller assistenter for en angitt periode. Disse personene vil få de samme rettighetene som du har både til å se informasjon om eleven, føre fravær, registrere elevsamtaler og ta ut rapporter.
 
-## _Elever i mine fag_
-Tabellen viser elevene i faget valgt i nedtrekkslisten. Faglæreren har får bare informasjon om _Timeplan, Fravær, Orden/atferd_ og _Programfag til valg_.
-
 ## _Søk etter elev_
-Lærer/kontaktlærer har ikke rettigheter for å få frem dette valget.
+Lærer/kontaktlærer har ikke rettigheter for å få frem dette valget!
 Søk kan gjøres basert på klasse, navn eller elevnr. Søkeresultatet vises i en tabell tilsvarende tabellen som kontaktlæreren har. 
 
 :::tip Tips
 Det er ikke nødvendig å skrive hele navnet på eleven, ofte holder det med et par bokstaver fra for- og etternavnet. % kan benyttes i søket for å angi at det kan være hva som helst. Er du usikker på om eleven heter Nordmann eller Normann, kan du søke etter Nor%mann.
 :::
+
+## _Elever i mine fag_
+Tabellen viser elevene i faget valgt i nedtrekkslisten. Faglæreren har får bare informasjon om _Timeplan, Fravær, Orden/atferd_ og _Programfag til valg_.
