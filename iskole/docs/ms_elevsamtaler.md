@@ -3,7 +3,7 @@ id: ms_elevsamtaler
 title: Elevsamtaler
 sidebar_label: Elevsamtaler
 ---
-Menyvalget ####_Elevsamtaler_ er bare synlig for kontaktlærer og andre dedikerte brukere!
+Menyvalget #### _Elevsamtaler_ er bare synlig for kontaktlærer og andre dedikerte brukere!
 
 For å dokumentere samtaler med kontaktelever, kan det opprettes elevsamtaler. Klikk på lenken i kolonnen _Behandle_ for å registrere en elevsamtale. Da fås en oversikt over eventuelle allerede registrerte fagsamtaler med denne eleven. 
 
