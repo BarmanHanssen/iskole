@@ -14,12 +14,12 @@ Hvis du er kontaktlærer vil alle dine elever vises i fanen _Kontaktelever_. Kol
 #### Passord
 Kontaktlæreren kan opprette nytt passord ved å klikke _Rediger_ i kolonnen _Passord_. Denne opsjon for kontaktlærer er overfløding dersom elevens epostadresse er registrert. Da kan eleven selv få tilsendt passord per epost ved å benyttet _Glemt passord?_ ved innlogging. Elevene kan selv endre passordet fra _Mine sider>Personalia_.
 
-### Passord til mange
+#### Passord til mange
 Dersom elevens epostadresse er lagt inn, kan eleven  selv få tilsendt passord ved å benyttet _Glemt passord?_ ved innlogging. Da trengs egentlig ikke valget _Passord til mange_!
 
 Når du får en klasse med elever som tidligere ikke har hatt iSkole, kan du benytte lenken _Følg lenken for å generere passord til flere elever på en gang_. iSkole vil kontrollere hvilke elever som ikke har passord, og huke disse av i kolonnen _Generer_. Du kan fritt legge til og trekke fra elever du ønsker å generere passord for. Velger du elever som allerede har passord, vil elevens passord bli overskrevet. Klikk på knappen _Generer passord_, du vil da komme til en side som lister elevene med passord. Du kan eksportere denne tabellen til Excel for lettere å skrive den ut og formidle passordene til elevene. 
 
-### Vikar/assistent for mine kontaktelever
+#### Vikar/assistent for mine kontaktelever
 Som kontaktlærer kan du legge til vikarer eller assistenter for en angitt periode. Disse personene vil få de samme rettighetene som du har både til å se informasjon om eleven, føre fravær, registrere elevsamtaler og ta ut rapporter.
 
 ## _Elever i mine fag_
