@@ -4,7 +4,7 @@ title: Kontrollsenter
 sidebar_label: Kontrollsenter
 ---
 
-## Kontrollsenteret vises kun for ledelsen
+Ved innlogging er dette er start-skjermen for rektor, administrator og de som tilhører bruergrppen _kontor_. Ingen andre brukere av iSkole får dette menyvalget opp på sin skjerm.
 
 ### Ansattfravær
 I ruten _Ansattfravær_ summeres antall fraværende for dagens dato, og summert for skoleåret. Ved å trykke på ruten får man frem det registrerte fraværet for dagen. Dette er da et utgangspunkt for å få oversikt over vikarbehovet denne dagen. Forutsetter at den ansatte har registrerer fraværet sitt fra mneyvalget _Eget fravær_.
