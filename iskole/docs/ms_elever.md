@@ -8,7 +8,7 @@ Siden inneholder inntil tre ulike faner, _Kontaktelever, Søk etter elev_ og _El
 
 Knappen øverst til venstre på siden tar deg tilbake til elevlisten. 
 
-## Kontaktelever
+## _Kontaktelever_
 Hvis du er kontaktlærer vil alle dine elever vises i fanen _Kontaktelever_. Kolonnen _Sist innlogget_ viser når eleven eller den foresatte sist var innlogget, dette hjelper deg til å se om elevene benytter iSkole.
 
 ### Passord
