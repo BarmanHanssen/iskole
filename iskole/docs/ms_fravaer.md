@@ -45,10 +45,10 @@ Dersom det skal føres en anmerkning på en elev, benyttes lenken _Orden- og atf
 Merknader benyttes for å legge til merknader på elever i fagets timer. Disse merknadene  gjelder typisk for hvorfor eleven var fraværende eller kom for sent. De trenger med andre ord ikke bety brudd på skolens reglement. Merknader for brudd på skolens reglement kan føres som _Orden- og atferdsvurderinger_. 
 
 #### Merknader for dager
-Merknader for dag kan fortelle hvorfor en elev er borte. Kanskje har eleven meldt inn at vedkommende er borte hele dagen.
+Merknader for dag kan fortelle hvorfor en elev er borte. Kanskje har eleven/foresatte meldt inn at fravær for hele dagen.
 
 #### Andre som kan føre fravær i faget
-Hvis det er andre lærere som er involvert i faget og du ønsker at disse skal ha mulighet til å føre fravær, legges disse til her. Når du klikker _Legg til_ åpnes et dialogvindu med en tabell over andre ansatte. Du kan søke ved å skrive inn hele eller deler av navnet øverst i kolonnen og trykke _Enter_-tasten.
+Her kan faglærer gi andre ansatte tilgang til fraværsføring i faget. Klikk på _Legg til_ for å åpne et dialogvindu med en tabell over andre ansatte. Velg navn og trykk _Enter_.
 
 
 ### Komprimert visning
