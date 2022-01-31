@@ -61,9 +61,9 @@ Snarvei til _Vurderinger > "Fag" > Orden- og Atferdsvurderinger_ for faget.
 ## Klager
 Hvis en elev er uenig i fraværet som er ført, så har de mulighet til å registere en klage. Man kan velge å akseptere klage eller å avvise den. Det gjøres ved tre ulike valg.
 
-- _Aksepter_ klagen tas til følge, dvs. fraværet endres til typen angitt i klagen, og klagen slettes.
-- _Avvis_ avvises klagen og den slettes fra klagelisten. Det går en melding til eleven med innhold som vist under.
-- _Avvis m/grunn_ gjør det samme som valget overnfor, men standardteksten kan endres før den sendes til eleven.
+- _Aksepter_: klagen tas til følge, dvs. fraværet endres til typen angitt i klagen, og klagen slettes.
+- _Avvis_ avvises: klagen og den slettes fra klagelisten. Det går en melding til eleven med innhold som vist under.
+- _Avvis m/grunn_: standardteksten kan endres før den sendes til eleven. Klagen slettes fra klagelisten.
 
 >Emne: Klage på ført fravær er avvist
 >
