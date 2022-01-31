@@ -20,7 +20,7 @@ Dette menyvalget inneholder fagfravær, egenmeldinger, klager, heldagsprøver, f
 ## Fagfravær
 Fagfravær kan føres med to ulike visninger, _Full_ og _Komprimert_. Den komprimerte er beregnet på små skjermer og inneholder et minimum av informasjon. Fullvisningen viser elevens fravær i alle timer. På den måten kan du se om en elev som er borte også var borte de foregående timene. Klikk på ikonet for å velge visning.
 
-![Fagliste fravær](/iskole/img/ms_fravaer_fagliste.png 'Fagliste fravær')
+![bilde](https://user-images.githubusercontent.com/80097133/151780517-282b2ce9-2c6b-4b59-969f-3dc53e0b8883.png)
 
 ### Fullvisning
 Kontroller at du står på rett uke. Fraværsføringen er knyttet sammen med timeplanen. Du vil derfor kun ha mulighet til å føre fravær i de timene faget er timeplanlagt. Gyldige verdier er F for fravær og S for forsentkomming. For private skoler skal det føres M for å dokumentere at eleven har møtt til undervisning og vært til stede og O for organisert studiearbeid. Timene i tabellen vil være markert med - hvis eleven ikke har undervisning. Annet fravær vil være synlig i tabellen, men kan ikke endres her. Siste raden i tabellen dokumenterer om undervisningen er blitt gjennomført. 
