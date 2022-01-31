@@ -38,7 +38,7 @@ Markering av fravær/tilstedeværelse henviser til gjeldende timeplan. Dersom en
 :::
 
 #### Orden- og atferdsvurdering
-Snarvei til _Vurderinger > "Fag" > Orden- og Atferdsvurderinger_ for faget.
+Dersom det skal føres en anmerkning på en elev, benyttes lenken _Orden- og atferdsvurdering_. Dette er en snarvei til menyvalget _Vurderinger > "Fag" > Orden- og Atferdsvurderinger_.
 
 
 #### Merknader
