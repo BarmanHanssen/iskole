@@ -23,7 +23,11 @@ Fagfravær kan føres med to ulike visninger, _Full_ og _Komprimert_. Den kompri
 ![bilde](https://user-images.githubusercontent.com/80097133/151780517-282b2ce9-2c6b-4b59-969f-3dc53e0b8883.png)
 
 ### Fullvisning
-Kontroller at du står på rett uke. Fraværsføringen er knyttet sammen med timeplanen. Du vil derfor kun ha mulighet til å føre fravær i de timene faget er timeplanlagt. Gyldige verdier er F for fravær og S for forsentkomming. For private skoler skal det føres M for å dokumentere at eleven har møtt til undervisning og vært til stede og O for organisert studiearbeid. Timene i tabellen vil være markert med - hvis eleven ikke har undervisning. Annet fravær vil være synlig i tabellen, men kan ikke endres her. Siste raden i tabellen dokumenterer om undervisningen er blitt gjennomført. 
+Kontroller at du står på rett uke. Fraværsføringen er knyttet sammen med timeplanen. Du vil derfor kun ha mulighet til å føre fravær i de timene faget er timeplanlagt. Gyldige verdier er F for fravær og S for forsentkomming. Det kan føres M for å dokumentere at eleven har møtt til undervisning, og O for organisert studiearbeid, altså ikke tilstede for undervisning. Timene i tabellen vil være markert med - hvis eleven ikke har undervisning. Fraværsføring i andre fag er altså synlig i tabellen, men kan ikke endres her.
+
+Dersom du skal markere for fremmøte med koden M, gjøres dette raskt og effektiv:
+
+![bilde](https://user-images.githubusercontent.com/80097133/151784297-067b2d56-4ded-48c4-b51d-8fd203812de2.png)
 
 :::tip Tips
 Når du står i et tekstfelt, kan du klikke "_Enter_"-tasten for å flytte markøren til feltet nedenfor. 
