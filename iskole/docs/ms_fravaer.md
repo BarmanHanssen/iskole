@@ -18,7 +18,7 @@ Dette menyvalget inneholder fagfravær, egenmeldinger, klager, heldagsprøver, f
 :::
 
 ## Fagfravær
-Fagfravær kan føres med to ulike visninger, _Full_ og _Komprimert_. Den komprimerte er beregnet på små skjermer og viser informasjon kun om valgte fag for gjeldende uk. Fullvisningen viser elevens totale fravær i alle timer for gjeldende uke. Da kan du se om en elev som er borte i din time også var borte de foregående timene. Klikk på ikonet for å velge visning.
+Fagfravær kan føres med to ulike visninger, _Full_ og _Komprimert_. Den komprimerte er beregnet på små skjermer og viser informasjon kun om valgte fag for gjeldende uk. Fullvisningen viser elevens totale fravær i alle timer for gjeldende uke. Da kan du se om en elev som er borte i din time også var borte de foregående timene. Klikk på ønsket ikonet for å velge visningsform.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/151780517-282b2ce9-2c6b-4b59-969f-3dc53e0b8883.png)
 
