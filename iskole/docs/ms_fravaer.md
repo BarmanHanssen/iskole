@@ -73,7 +73,7 @@ Hvis en elev er uenig i fraværet som er ført, så har de mulighet til å regis
 Teksten inni parentesene er variabler som byttes ut med verdier fra klagen i meldingen.
 
 :::tip Tilgang til klager
-Ansvarlig faglærer kan behandle klager gjennom hele året. Dersom andre har undervisning i faget i enkelte uker (registrert fra mnyvalget _Time- og fagfordeling_, har også denne gruppen lærer tilgang til klagene. Sistnevnte gruppe innbefatter også tolærere og vikarer.
+Ansvarlig faglærer kan behandle klager gjennom hele året. Dersom andre har undervisning i faget i enkelte uker (registrert fra mnyvalget _Time- og fagfordeling_), har også denne gruppen lærer tilgang til klagene. Sistnevnte gruppe innbefatter også tolærere og vikarer.
 :::
 
 ## Elevers egenmeldinger
