@@ -38,7 +38,7 @@ Når du står i et tekstfelt, kan du klikke "_Enter_"-tasten for å flytte mark�
 3. Timeplanlagt time mistet av andre grunner.
 
 :::note Merk
-Markering av avholdt / ikke avholdt time gjelder skolens dokumentasjon for avholdt undervisning. Dersom en time blir avholdt på et annet tidspunkt bør den flyttes av timeplanlegger. På den måte vil du få mulighet til å føre fravær på rett time og fag.
+Markering av fravær/tilstedeværelse henviser til gjeldende timeplan. Dersom en time blir flyttet til et annet tidspunkt bør den straks flyttes av timeplanlegger slik at timeplanen til enhver tid er korrekt.
 :::
 
 #### Orden- og atferdsvurdering
