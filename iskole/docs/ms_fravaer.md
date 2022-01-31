@@ -107,6 +107,5 @@ Fraværsoversikt er en totaloversikt over elevens fravær hele skoleåret.
 
 For at kontaklæreren raskere skal kunne før dagfravær på alle kontaktelevene for en uke, kan lenken _Behandle dagfravær/dagmerknad for alle kontaktelevene_ benyttes. Her listes alle elevene og eventuelt fravær og forsentkomming vises for hver enkelt time. Å huke av en dag på en elev, er det samme som å føre D. Timer med - betyr at eleven ikke har undervisning, dette gjør det enklere å avgjøre om eleven har vært borte hele dagen. Man kan også her legge til dagmerknader, velg en elev, riktig dato, skriv en merknad og klikk _Lagre_. Kvitteringsoversikt for involverte lærere viser alle fagene med faglærer, hvor alle kontaktelevene er innvolvert. Kolonnen _Kvittert_ viser når faglæreren sist lagret fraværet.
 
-
 ## Avslutt fraværsføring
 Når en termin er ferdig, skal fraværet overføres til karakterdokumentesjonen. For å avslutte første halvår, klikk _Sluttfør 1. halvår_. De elevene som har avvik mellom det som skal komme på karakterdokumentasjonen og det fraværet som er registrert, vil automatisk være avhuket. Klikk _Lagre_ for å overføre fraværet. Det er mulig å gjøre dette flere ganger.
