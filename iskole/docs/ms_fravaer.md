@@ -47,7 +47,7 @@ Dersom det skal føres en anmerkning på en elev, benyttes lenken _Orden- og atf
 
 
 #### Merknader
-Merknader benyttes for å legge til merknader på elever i fagets timer. Disse merknadene  gjelder typisk for hvorfor eleven var fraværende eller kom for sent. De trenger med andre ord ikke bety brudd på skolens reglement. Merknader for brudd på skolens reglement kan føres som _Orden- og atferdsvurderinger_. 
+Merknader benyttes for å legge til merknader på elever i fagets timer. Eksepelvis grunn for fravær eller kom forsentkomming. De trenger med andre ord ikke bety brudd på skolens reglement. Merknader for brudd på skolens reglement kan føres som _Orden- og atferdsvurderinger_. 
 
 #### Merknader for dager
 Merknader for dag kan fortelle hvorfor en elev er borte. Kanskje har eleven/foresatte meldt inn at fravær for hele dagen.
