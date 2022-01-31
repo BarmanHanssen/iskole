@@ -33,10 +33,6 @@ Dersom du skal markere for fremmøte med koden M, gjøres dette raskt og effekti
 Når du står i et tekstfelt, kan du klikke "_Enter_"-tasten for å flytte markøren til feltet nedenfor. 
 :::
 
-1. Timen er avholdt
-2. Timeplanlagt time mistet på grunn av læreplanrelaterte aktiviteter i andre fag eller
-3. Timeplanlagt time mistet av andre grunner.
-
 :::note Merk
 Markering av fravær/tilstedeværelse henviser til gjeldende timeplan. Dersom en time blir flyttet til et annet tidspunkt bør den straks flyttes av timeplanlegger slik at timeplanen til enhver tid er korrekt.
 :::
