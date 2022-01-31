@@ -28,7 +28,7 @@ Klikk på ønsket ikon for å velge visningsform:
 ## Fullvisning
 Kontroller at du står på rett uke. Fraværsføringen tar utgangspunkt i timeplanen. Timene i tabellen vil være markert med - hvis eleven ikke har undervisning. Fraværsføring i andre fag er synlig i tabellen, men kan ikke endres her. 
 
-Fravær kan kun føres der ditt fag er timeplanlagt. Gyldige verdier er F for fravær og S for forsentkomming. Det kan føres M for å dokumentere at eleven har møtt til undervisning, og O for organisert studiearbeid, altså ikke tilstede for undervisning, men bokføres ikke som fravær. 
+Fravær kan kun føres der ditt fag er timeplanlagt. Gyldige verdier er F for fravær og S for forsentkomming. Det kan føres M for å dokumentere at eleven har møtt til undervisning. O benyttes for organisert studiearbeid, altså at eleven ikke er tilstede for undervisning, men hvor timen ikke bokføres som fravær. 
 
 Dersom du skal markere for fremmøte (kode M), gjøres dette raskt og effektiv ved å benytte lenken _Før oppmøte for avholdte timer_:
 
