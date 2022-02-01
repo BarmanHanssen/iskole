@@ -30,7 +30,7 @@ Klikk på ønsket ikon for å velge visningsform:
 Holdes musepekeren på et elevnavn, vil bilde av eleven vises på skjermen.
 :::
 
-Kontroller at du står på rett uke. Fraværsføringen tar utgangspunkt i timeplanen. Timene i tabellen vil være markert med - hvis eleven ikke har undervisning. Fraværsføring i andre fag er synlig i tabellen, men kan ikke endres her. 
+Kontroller at du står på rett uke. Fraværsføringens utgangspunkt er timeplanen. Timene i tabellen vil være markert med - hvis eleven ikke har undervisning. Fraværsføring i andre fag er synlig i tabellen, men kan ikke endres her. 
 
 Fravær kan kun føres der ditt fag er timeplanlagt. Gyldige verdier er F for fravær og S for forsentkomming. Det kan føres M for å dokumentere at eleven har møtt til undervisning. O benyttes for organisert studiearbeid, altså at eleven ikke er tilstede for undervisning, men hvor timen ikke bokføres som fravær. 
 
@@ -51,7 +51,7 @@ Dersom det skal føres en anmerkning på en elev, benyttes lenken _Orden- og atf
 
 
 #### Merknader
-Merknader benyttes for å legge til merknader på elever i fagets timer. Eksepelvis grunn for fravær eller kom forsentkomming. De trenger med andre ord ikke bety brudd på skolens reglement. Merknader for brudd på skolens reglement kan føres som _Orden- og atferdsvurderinger_. 
+Merknader kan registreres på enkeltelever i faget. Eksepelvis grunn for fravær og forsentkomming. Merknaden trenger med andre ord ikke bety brudd på skolens reglement. Merknader for brudd på skolens reglement kan føres som _Orden- og atferdsvurderinger_. 
 
 #### Merknader for dager
 Merknader for dag kan fortelle hvorfor en elev er borte. Kanskje er fravær for hele dagen meldt inn av eleven eller av foresatte.
