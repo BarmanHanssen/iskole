@@ -64,7 +64,7 @@ Her kan faglærer gi andre ansatte tilgang til fraværsføring i faget. Klikk p�
 Den komprimerte visningen er tenkt brukt på enheter med mindre skjermer, gjerne med touch-skjerm. Her vil kun fagets timer vises og fraværet føres ved å velge verdi fra en nedtrekksliste. 
 
 #### Orden- og atferdsvurdering
-Snarvei til _Vurderinger > "Fag" > Orden- og Atferdsvurderinger_ for faget.
+Snarvei til _Vurderinger > Fag> Orden- og Atferdsvurderinger_ for faget.
 
 
 ## Klager
