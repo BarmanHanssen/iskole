@@ -83,7 +83,7 @@ Dersom faglærer vil avvise klagen går det en standard melding til eleven med i
 
 Teksten inni parentesene er variabler som byttes ut med verdier fra klagen i meldingen. Denne teksten kan endres av faglærer. 
 
-Merk at eleven må ta kontakt dersom avslaget på klagen ikke godtas av faglæreren. Alternativt kan eleven sende en melding, den havner i faglærers Meldingsboks, altså ikke som her under Klager på faget.
+Merk at eleven må ta kontakt med faglæreren dersom faglæreren avviser klagen. Alternativt kan eleven sende en melding, den havner i faglærers Meldingsboks, altså ikke som her under Klager på faget.
 
 :::tip Tilgang til klager
 Ansvarlig faglærer kan behandle klager gjennom hele året. Dersom andre har undervisning i faget i enkelte uker (registrert fra mnyvalget _Time- og fagfordeling_), har også denne gruppen lærer tilgang til klagene. Sistnevnte gruppe innbefatter også tolærere og vikarer.
