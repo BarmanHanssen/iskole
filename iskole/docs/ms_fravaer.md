@@ -90,9 +90,12 @@ Ansvarlig faglærer kan behandle klager gjennom hele året. Dersom andre har und
 :::
 
 ## Elevers egenmeldinger
-Elever har adgang til å melde inn dag- og timefravær. Kontaktlærer får egenmeldinger både for dag og time, mens faglærer får egenmeldinger knyttet til sine timer. Egenmeldinger er ment å benyttes til å melde inn fravær før skoledagen starter, men det kan også meldes inn etter fraværet har vært for å dokumentere årsaken til fraværet. Elevers egenmeldinger viser to lister henholdsvis med overskriftene _Elevers egenmeldinger (dag)_ og _Elevers egenmeldinger (time)_. For dagfravær vises dato for dagfraværet, om det allerede er registert fravær, en melding fra eleven, elevens navn samt når egenmeldingen ble registrert. 
 
-For timefravær gjelder samme prinsipp som for dagfravær med den forskjellen at det i tillegg er en kolonne for time. Det vises egenmeldinger for fravær inntil en uke etter datoen er passert.
+Egenmeldinger for fravær vises bare inntil en uke etter datoen for fraværet er passert.
+
+Eleven kan selv registrere dag- og timefravær. Kontaktlærer får egenmeldinger både for dag og time, mens faglærer får egenmeldinger knyttet til sine timer. Egenmeldinger kan registreres før skoledagen starter, men det kan også registreres etter at fraværet har funnet sted. Elevers egenmeldinger viser under overskriftene _Elevers egenmeldinger (dag)_ og _Elevers egenmeldinger (time)_. For dagfravær vises dato for dagfraværet, om det allerede er registert fravær, meldingen fra eleven, elevens navn samt når egenmeldingen ble registrert. 
+
+Timefravær har i tillegg er en kolonne for time. 
 
 ### Behandle egenmelding
 Vinduet for behandling er delt i tre deler. Først vises elevens egenmelding med eventuell opplastet dokumentasjon, etterfulgt av eventuelt allerede ført fravær og til slutt det man vil bli ført ved å godkjenne egenmeldingen. Verdiene vil være forhåndsutfylt basert på elevens egenmelding, men det kan være behov for å gjøre endringer. Kanskje skal fraværstypen endres fra D til I eller krysset _Dokumentert jf §3-3_ krysses av, dersom dokumentasjonen viser dette.
