@@ -6,6 +6,9 @@ sidebar_label: Meldinger
 
 iSkole har et internt meldingssystem. Du kan sende og motta meldinger fra ansatte og elever.
 
+![bilde](https://user-images.githubusercontent.com/80097133/152986821-a3de4d36-43b1-4c2c-9d60-95611fc90536.png)
+
+
 ## Innkommende meldinger
 Uleste meldinger vises med fet skrift. Klikk på meldingen du ønsker å lese, denne vil da vises til høyere for listen over meldinger. Når du leser eller
 sletter en melding, vil avsenderen kunne se dette under _Sendte meldinger_. Du kan svare på en melding ved å tykke _Svar_. Hvis du har liten skjerm,
