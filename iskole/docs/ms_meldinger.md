@@ -49,5 +49,5 @@ kan sende kopi av meldingen på e-post til foresatte. Det er også mulig å kun 
 Selv om man krysser av for sending av e-post til foresatte, så sendes den ikke til foresatte dersom eleven er over 18 år. Skal man sende ut invitasjoner til et arrangement ved skolen til alle foresatte, også de som har elever over 18 år, så må elevene som er myndige, gi beskjeden videre.
 :::
 
-## Sendte meldinger
-Viser en liste over sendte meldinger. Hvis du klikker på meldingen, kan du lese den, samt se informasjon om hver enkelt mottaker har lest og slettet meldingen din.
+## Sendt
+Her vises en kronologisk liste over sendte meldinger. Dersom en dato står i parentes etter navnet på mottaker, er det datoen mottaker åpnet meldingen. Hvis du klikker på meldingen, kan du lese den, samt se dato for når meldingen ble lest og eventuelt slettet fra mottakers innboks.
