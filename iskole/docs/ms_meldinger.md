@@ -13,13 +13,13 @@ Akkurat nå kan SMS bares sendes til alle elever og/eller til alle foreldre. Alt
 En ny meldingen sendes bare en gang til et mobilnummer, selv om nummeret er registrerrt på eksempelvis både elev og foresatt.
 :::
 
-## Innkommende meldinger
+### Innboks
 Uleste meldinger vises med fet skrift. Klikk på meldingen du ønsker å lese, denne vil da vises til høyere for listen over meldinger. Når du leser eller
 sletter en melding, vil avsenderen kunne se dette under _Sendte meldinger_. Du kan svare på en melding ved å tykke _Svar_. Hvis du har liten skjerm,
 kan du trykke på pilen mellom meldingslisten og meldingen, eller mellom meldingen og svarfeltet. Da vil meldingslisten/meldingen skjules. For å slette
 meldinger, trykker du _Slette valgt melding_. Det er mulig å markere flere meldinger ved å bruke kontroll eller skift tasten.
 
-## Ny melding
+### Ny melding
 Du kan sende melding til ansatte og elever. Adresselistene er delt inn i følgende kategorier:
 
 **Kontaktelever** er tilgjengelig hvis du er kontaktlærer.  
