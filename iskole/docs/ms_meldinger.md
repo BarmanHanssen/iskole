@@ -33,7 +33,7 @@ listen. Hvis du først har valgt A i filteret, kan du kun søke etter personer m
 **Elever i fag** inneholder en nedtrekksliste med alle fag ved skolen, etterfult av en tabell med elvene i fag.  
 **Elever tilhørende en ansatt** viser alle elevene til en ansatt. Du kan også her benytte det blanke feltet til å gjøre søk. For eksempel %2% for å vise
 alle lærerens elever som går i 2. klasse.  
-**Ansatte** tilsvarende fuksjonalitet som for valget _Elever_.
+**Ansatte** Settes filteret til A fås alle etternavn som begynner på A, og/eller alle fornavn som begynner på.
 
 For å velge flere mottakere kan du holde inne kontroll eller skift tasten mens du klikker på navn i tabellen. Klikk på > knappen under lista for å
 legge de til som mottakere. Hvis du ønsker å sende melding til alle i listen, trykker du >>. 
