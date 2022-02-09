@@ -19,7 +19,7 @@ Tabellen viser alle meldinger du har sendt via _Ny melding_.
 Uleste meldinger vises med fet skrift. Klikk på meldingen du ønsker å lese, denne vil da vises til høyere for listen over meldinger. Når du leser eller
 sletter en melding, vil avsenderen kunne se dette under _Sendte meldinger_. Dette er mulig siden all kommunikasjon går via iSkoles database.
 
-Du kan svare på valgte melding ved å tykke _Svar_. Hvis du har liten skjerm, kan du trykke på pilen mellom meldingslisten og meldingen, eller mellom meldingen og svarfeltet. Da vil meldingslisten/meldingen skjules. 
+Du kan svare på valgte melding ved å trykke _Svar_. Hvis du har liten skjerm, kan du trykke på pilen mellom meldingslisten og meldingen, eller mellom meldingen og svarfeltet. Da vil meldingslisten/meldingen skjules. 
 
 For å slette meldinger, trykker du _Slette valgt melding_. Det er mulig å markere flere meldinger ved å bruke kontroll- eller skift tasten.
 
