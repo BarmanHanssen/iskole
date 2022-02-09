@@ -36,7 +36,7 @@ alle lærerens elever som går i 2. klasse.
 **Ansatte** Settes filteret til A fås alle etternavn som begynner på A, og/eller alle fornavn som begynner på.
 
 For å velge flere mottakere kan du holde inne kontroll eller skift tasten mens du klikker på navn i tabellen. Klikk på > knappen under lista for å
-legge de til som mottakere. Hvis du ønsker å sende melding til alle i listen, trykker du >>. 
+legge de til som mottakere. Hvis du ønsker å sende melding til alle i listen, trykker du >>. (Alternativt: Ctrl A etterfulgt av >)
 
 Det er mulig å legge til vedlegg, trykk _Utforsk_, naviger til filen, klikk OK og avslutt med _Legg til_. Vedlegget er lastet opp når det vises i en tabell
 direkte under knappen _Legg til_.
