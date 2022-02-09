@@ -4,10 +4,9 @@ title: Meldinger
 sidebar_label: Meldinger
 ---
 
-iSkole har et integrert meldingssystem. Du kan sende meldinger til ansatte og elever og foresatte via SMS, epost eller intern via iSkole. Merk at SMS-meldinger ikke kan besvares via SMS gjennom denne kanalen.
-
 ![bilde](https://user-images.githubusercontent.com/80097133/152986821-a3de4d36-43b1-4c2c-9d60-95611fc90536.png)
 
+### SMS
 
 ## Innkommende meldinger
 Uleste meldinger vises med fet skrift. Klikk på meldingen du ønsker å lese, denne vil da vises til høyere for listen over meldinger. Når du leser eller
