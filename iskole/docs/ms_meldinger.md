@@ -21,7 +21,7 @@ sletter en melding, vil avsenderen kunne se dette under _Sendte meldinger_. Dett
 
 Du kan svare på valgte melding ved å tykke _Svar_. Hvis du har liten skjerm, kan du trykke på pilen mellom meldingslisten og meldingen, eller mellom meldingen og svarfeltet. Da vil meldingslisten/meldingen skjules. 
 
-For å slette meldinger, trykker du _Slette valgt melding_. Det er mulig å markere flere meldinger ved å bruke kontroll eller skift tasten.
+For å slette meldinger, trykker du _Slette valgt melding_. Det er mulig å markere flere meldinger ved å bruke kontroll- eller skift tasten.
 
 ### Ny melding
 Du kan sende melding til ansatte og elever. Adresselistene er delt inn i følgende kategorier:
