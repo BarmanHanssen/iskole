@@ -7,7 +7,7 @@ sidebar_label: Meldinger
 ![bilde](https://user-images.githubusercontent.com/80097133/152986821-a3de4d36-43b1-4c2c-9d60-95611fc90536.png)
 
 ### SMS
-Akkurat nå kan SMS bares sendes til alle elever og/eller til alle foreldre. Altså meget begrenset nytteverdi. Kommer snart med samme utvalgs-muligheter som når en benytter epost. 
+Akkurat nå kan SMS bares sendes til alle elever og/eller til alle foreldre. Altså meget begrenset nytteverdi. Kommer snart med samme utvalgs-muligheter som når en benytter _Ny Melding_. 
 
 :::note Merk
 En ny meldingen sendes bare en gang til et mobilnummer, selv om nummeret er registrerrt på eksempelvis både elev og foresatt.
