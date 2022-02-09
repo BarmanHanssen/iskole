@@ -46,7 +46,7 @@ slik at mottakeren kan svare på e-posten din. Eventuelle vedlegg vil også send
 kan sende kopi av meldingen på e-post til foresatte. Det er også mulig å kun sende meldingen til foresatte, uten at den sendes som melding i iSkole.
 
 :::note Merk
-Når man krysser av for sending av e-post til foresatte, så sendes den ikke om eleven er over 18 år. Slik er man forhindret fra å sende brev til foreldre av myndige elever. Skal man sende ut invitasjoner til arrangementer ved skolen til alle foreledrene - også de som har barn over 18 år - så må man opplyse om det til de elevene som er myndige, at de må gi beskjed til sine foreldre.
+Selv om man krysser av for sending av e-post til foresatte, så sendes den ikke til foresatte dersom eleven er over 18 år. Skal man sende ut invitasjoner til et arrangement ved skolen til alle foresatte, også de som har elever over 18 år, så må elevene som er myndige, gi beskjeden videre.
 :::
 
 ## Sendte meldinger
