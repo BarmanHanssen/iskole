@@ -56,7 +56,7 @@ Dette er eneste mulighet for at en lærer skal kunne disponere mer enn et rom n�
 En effektiv måte for å publisere meldinger til alle aktive brukere av iSkole! Dersom en ny melding legges ut, vil den vises straks en bruker logger seg på iSkole. Altså vil alle brukere få frem meldingen en gang, uten noe ekstra museklikk. Redaktøren bestemmer hvor lenge meldingen skal ligge ute. En melding kan publiseres bare til ansatte, eller til elever og ansatte.
 
 ### Opprett redaktør
-Det er rektor og administrator som kan utnevne/slette redaktører. Dette utføres fra _Mine sider>Tilgang>Bulleteng_.
+Det er rektor og administrator som her kan utnevne/slette redaktører.
 
 ### Opprett en bulleteng
 Dersom du er redaktør vises dette  skjermbilde:
