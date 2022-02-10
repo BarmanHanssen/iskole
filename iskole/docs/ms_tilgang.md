@@ -61,7 +61,7 @@ Det er rektor og administrator som her kan utnevne/slette redaktører.
 ### Opprett en bulleteng
 Dersom du er redaktør vises dette  skjermbilde:
 
-![bilde](https://user-images.githubusercontent.com/80097133/153401586-5e566b75-289d-4dc1-a764-c269f802df2e.png)
+![bilde](https://user-images.githubusercontent.com/80097133/153401777-2046ff7a-0323-4fd9-a724-477c0e0c62fd.png)
 
 Klikk _Legg til_ for å oppprette et oppslag. Oppgi når oppslaget skal publiseres og når det utgår. Skriv inn en dato på formatet dd.mm.åååå eller trykk på kalendersymbolet til høyre for _Publiser_ og _Utgår_ og velg en dato. 
 
