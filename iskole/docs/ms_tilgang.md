@@ -6,7 +6,7 @@ sidebar_label: Tilgang
 
 Dette menyvalget er tilgjengelig for alle, men kun rektor og administrator har rettigheter til å gjøre endringer. Arkfanene _Brukere_ og _Romreservering_ er ikke synlig for andre enn rektor og administrator.
 
-### Nøkkelpersoner
+## Nøkkelpersoner
 Nøkkelpersonene kan endres av rektor, administrator og skoleeier. Unntak er rektor som bare kan endres av skoleeier, og administrator som bare kan endres av skoleeier og rektor.
 - Rektor har alle rettigheter når det gjelder innsyn og bruk av systemet.
 - Administrator har i hovedsak de samme rettigheter som rektor, men kan ikke endre elevers kartakterer.
@@ -21,20 +21,20 @@ Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilv
 
 ![image](https://user-images.githubusercontent.com/80097133/120471255-c90c2000-c3a4-11eb-95b2-a17ed9d4efd4.png)
 
-### Brukergrupper
+## Brukergrupper
 Navn og Beskrivelse sier det meste om de 25 definerte gruppene. Fra _Grupperettigheter_ fås detaljert oversikt over hvilke menyvalg den enkelte brukergruppe får tilgang til.
 
 :::note Merk
 Rektor kan gi den enkelte ansatte tilgang til det enkelte menyvalg uavhengig av brukergruppe.
 :::
 
-### Grupperettigheter
+## Grupperettigheter
 Velg en brukergruppe fra nedtrekkslisten. Man får da en oversikt hvilke menyvalg som da blir tilgjengelig, og hvilke rettigheter som tildeles.
 
-### Brukere
+## Brukere
 Her kan rektor/administrator redigere rettigheter til ansatte. Dersom ingen brukergruppe(r) gir ønsket tilgang, kan rektor gi brukeren tilgang til spesifikke menyvalg.
 
-### Karakterer
+## Karakterer
 Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, og når elevene gis innsyn til egne resultater.
 
 ![image](https://user-images.githubusercontent.com/80097133/120457815-0b2e6500-c397-11eb-9157-96711b25ea38.png)
@@ -42,17 +42,17 @@ Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, 
 ## Elevers valg av programfag
 Dersom elevene skal velge fag i tillegg til fellesfagene som alle elevene i klassen skal følge, kan dette fagvalget gjøres direkte fra iSkole. Slike fag omtales som gruppefag. Fagvalget foretas vanligvis i januar/februar og gjelder for fag som skal påbegynnes neste skoleår. Valget forutsetter at neste års planperiode er opprettet, og at det er opprettet grupper i de aktuelle valgfagene. 
 
-### Stenging
+## Stenging
 Det er mulig å stenge iSkole for en gitt periode. I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Dette gjøres ved å velge planperioden det gjelder og deretter velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan logge inn på iSkole, men får ikke tilgang timeplanen. De menyvalgene som viser timeplan og fag vises først etter _Tilgjengelig fra_.
 
-### Romreservering
+## Romreservering
 Dersom andre enn timeplanlegger skal kunne reservere et rom, kan en her angi hvilke rom som kan reserveres av utvalgte ansatte. Dersom man gir en lærer en slik rettighet, kan vedkommende reservere et rom til en time hvor læreren allerede er båndlagt med undervisning i et annet rom. Ekstrarommet vil vises på lærerens timeplan, og på rommets timeplan. Se _Mine sider>Timeplan>Romtimeplan_ under fanene _Mine reserveringer_ og _Rom som du kan reservere_. 
 
 :::note Merk
 Dette er eneste mulighet for at en lærer skal kunne disponere mer enn et rom når læreren har en undervisningstime.
 :::
 
-### Bulleteng
+## Bulleteng
 En effektiv måte for å publisere meldinger til alle aktive brukere av iSkole! Dersom en ny melding legges ut, vil den vises straks en bruker logger seg på iSkole. Altså vil alle brukere få frem meldingen en gang, uten noe ekstra museklikk. Redaktøren bestemmer hvor lenge meldingen skal ligge ute. En melding kan publiseres bare til ansatte, eller til elever og ansatte.
 
 ### Opprett redaktør
@@ -72,9 +72,6 @@ Dersom du ikke huker for _Bare for ansatte_, vil bulletengen være synlig for al
 ### Endre og slette
 Aktive oppslag du har opprettet kan nås fra menyvalget _Bulleteng_ innenfor publiseringstiden.. Hvis du ønsker å endre eller slette oppslaget, bruk linkene under det aktuelle oppslaget. Innaktive oppslag er tilgjengelig under linken _Vis meddelelser utenfor publiseringstiden_. Hvis du ønsker at et utgått oppslag skal vises på nytt, endrer du _Utgår_ til en ny dato.
 
-
-
-
-### Foreldre
+## Foreldre
 
 Det er mulig å begrense foreldres innsyn i dataene til sine barn. Fra _Elevadmin.>Elev_ er det mulig, da for den enkelte elev, å utvide retten til innsyn.
