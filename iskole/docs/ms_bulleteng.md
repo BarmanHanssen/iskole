@@ -28,4 +28,4 @@ Merk at du kan kopiere inn ikke bare tekst, men legge inn figurer/bilder fra utk
 Dersom du ikke huker for _Bare for ansatte_, vil bulletengen være synlig for alle brukere av iSkole. 
 
 ### Endre og slette
-Aktive oppslag du har opprettet kan nås fra menyvalget _Bulleteng_ innenfor publiseringstiden. Hvis du ønsker å endre eller slette oppslaget, bruk linkene under det aktuelle oppslaget. Redaktørens innaktive oppslag er tilgjengelig under linken _Vis meddelelser utenfor publiseringstiden_. Hvis du ønsker at et utgått oppslag skal vises på nytt, endrer du _Utgår_ til en ny dato.
+Aktive oppslag du har opprettet kan nås fra menyvalget _Bulleteng_ i. Redaktørens innaktive oppslag er tilgjengelig under linken _Vis meddelelser utenfor publiseringstiden_. Hvis du ønsker at et utgått oppslag skal vises på nytt, endrer du _Utgår_ til en ny dato. Hvis du ønsker å endre eller slette oppslaget, bruk linkene under det aktuelle oppslaget. 
