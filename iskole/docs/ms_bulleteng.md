@@ -17,7 +17,7 @@ Når en ansatt logger seg på iSkole, vil bulletengen poppe opp som første skje
 :::
 
 ### Opprett redaktør
-Det er rektor og administrator som kan utnevne/slette redaktører. Dette utføres fra _Mine sider>Tilggang>Bulleteng_.
+Det er rektor og administrator som kan utnevne/slette redaktører. Dette utføres fra _Mine sider>Tilgang>Bulleteng_.
 
 ### Legge til et oppslag på bulleteng
 
