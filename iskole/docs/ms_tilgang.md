@@ -60,7 +60,7 @@ Dersom du er redaktør vises dette  skjermbilde:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/153401777-2046ff7a-0323-4fd9-a724-477c0e0c62fd.png)
 
-Klikk _Legg til_ for å oppprette et oppslag. 
+Klikk _Legg til_ for å oppprette en ny redaktør. Merk at også en elev kan få redaktørstatus (feks elvevrådsleder). 
 
 ## Foreldre
 
