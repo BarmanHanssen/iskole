@@ -55,6 +55,26 @@ Dette er eneste mulighet for at en lærer skal kunne disponere mer enn et rom n�
 ### Bulleteng
 En effektiv måte for å publisere meldinger til alle aktive brukere av iSkole! Dersom en ny melding legges ut, vil den vises straks en bruker logger seg på iSkole. Altså vil alle brukere få frem meldingen en gang, uten noe ekstra museklikk. Redaktøren bestemmer hvor lenge meldingen skal ligge ute. En melding kan publiseres bare til ansatte, eller til elever og ansatte.
 
+## Opprett redaktør
+Det er rektor og administrator som kan utnevne/slette redaktører. Dette utføres fra _Mine sider>Tilgang>Bulleteng_.
+
+### Opprett en bulleteng
+Dersom du er redaktør vises dette  skjermbilde:
+
+![bilde](https://user-images.githubusercontent.com/80097133/153376310-15b4256a-bfdb-4e78-89cd-d42d09ddc065.png)
+
+Klikk _Legg til_ for å oppprette et oppslag. Oppgi når oppslaget skal publiseres og når det utgår. Skriv inn en dato på formatet dd.mm.åååå eller trykk på kalendersymbolet til høyre for _Publiser_ og _Utgår_ og velg en dato. 
+
+Merk at du kan kopiere inn ikke bare tekst, men legge inn figurer/bilder fra utklippsverktøy.
+
+Dersom du ikke huker for _Bare for ansatte_, vil bulletengen være synlig for alle brukere av iSkole. 
+
+### Endre og slette
+Aktive oppslag du har opprettet kan nås fra menyvalget _Bulleteng_ innenfor publiseringstiden.. Hvis du ønsker å endre eller slette oppslaget, bruk linkene under det aktuelle oppslaget. Innaktive oppslag er tilgjengelig under linken _Vis meddelelser utenfor publiseringstiden_. Hvis du ønsker at et utgått oppslag skal vises på nytt, endrer du _Utgår_ til en ny dato.
+
+
+
+
 ### Foreldre
 
 Det er mulig å begrense foreldres innsyn i dataene til sine barn. Fra _Elevadmin.>Elev_ er det mulig, da for den enkelte elev, å utvide retten til innsyn.
