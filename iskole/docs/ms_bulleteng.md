@@ -4,13 +4,25 @@ title: Bulleteng
 sidebar_label: Bulleteng
 ---
 
-Her kan skolen legge ut felles meldinger til elever og ansatte. Personer som er registrert som redaktører kan legge ut oppslag på bulletengen. Hvis du er redaktør, vil Redaktørinformasjon vise hvilken spalte du skriver for, og redaktørperioden og din tittel. 
+Dersom man ønsker å informere alle ansatte som bruker iSkole raskt og effektivt, kan meldingen offentliggjøres som en bulleteng.
 
-### Når, og hvordan, vises en bulleteng?
-Når en logger på iSkole, vises alltid et skjermbide som blant annet viser egen timeplan. Det er bare ett unntak fra en slik oppstart: 
-En nettopp ny, eller redigert bulletegn, kommer opp som første skjermbilde når brukeren logger seg på! Det betyr at dette er en meget effektiv måte å kommunisere med alle brukerne av iSkole, da de fleste vel er innlogget minst en gang per dag?
+Dersom man tilsvarende vil informere alle elevene ved skolen, kan meldingen offentliggjøres som en bulleteng. Meldingen til elevene vil også gå til de ansatte.
+
+En bulleteng blir publisert på dato og klokkeslett som redaktørene av bulletengen setter. 
+
+Når en logger på iSkole, vises alltid blant annet egen timeplan. Det er bare ett unntak fra standard skjermbilde: 
+
+:::note Merk
+Når en ansatt logger seg på iSkole, vil bulletengen poppe opp som første skjermbilde dersom dato og klokkeslett satt av redaktøren tilsier dette. Dersom bulletengen er adressert elevene, får også de opp samme skjermbilde. Bulletengen kan etter første visning fås frem i hele publiseringsperioden ved å benytte menyvalget _Bulleteng_
+:::
+
+### Opprett redaktør
+Det er rektor og administrator som kan utnevne/slette redaktører. Dette utføres fra _Mine sider>Tilggang>Bulleteng_.
 
 ### Legge til et oppslag på bulleteng
+
+![bilde](https://user-images.githubusercontent.com/80097133/153376310-15b4256a-bfdb-4e78-89cd-d42d09ddc065.png)
+
 Klikk _Legg til_ for å oppprette et oppslag. Oppgi når oppslaget skal publiseres og når det utgår. Skriv inn en dato på formatet dd.mm.åååå eller trykk på kalendersymbolet til høyre for _Publiser_ og _Utgår_ og velg en dato. Hvis du ønsker at oppslaget kun er tilgjengelig for ansatte, huker du av boksen _Bare for ansatte_. Fyll inn emne og meldingstekst og klikk _Lagre_.
 
 ### Endre og slette
