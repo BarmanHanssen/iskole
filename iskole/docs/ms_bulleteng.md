@@ -8,7 +8,7 @@ Dersom man ønsker å informere alle ansatte som bruker iSkole raskt og effektiv
 
 Dersom man tilsvarende vil informere alle elevene ved skolen, kan meldingen offentliggjøres som en bulleteng. Meldingen til elevene vil også gå til de ansatte.
 
-En bulleteng blir publisert på dato og klokkeslett som redaktørene av bulletengen setter. 
+En bulleteng blir publisert på dato som redaktøren av bulletengen setter. 
 
 Når en logger på iSkole, vises alltid blant annet egen timeplan. Det er bare ett unntak fra standard skjermbilde: 
 
@@ -25,7 +25,7 @@ Klikk _Legg til_ for å oppprette et nytt innlegg. Oppgi når oppslaget skal pub
 
 Merk at du kan kopiere inn ikke bare tekst, men legge inn figurer/bilder fra utklippsverktøy.
 
-Dersom du ikke huker for _Bare for ansatte_, vil bulletengen være synlig for alle brukere av iSkole. 
+Dersom du ikke huker av for _Bare for ansatte_, vil bulletengen være synlig for alle brukere av iSkole. 
 
 ### Endre og slette
 Aktive oppslag du har opprettet kan nås fra menyvalget _Bulleteng_ i. Redaktørens innaktive oppslag er tilgjengelig under linken _Vis meddelelser utenfor publiseringstiden_. Hvis du ønsker at et utgått oppslag skal vises på nytt, endrer du _Utgår_ til en ny dato. Hvis du ønsker å endre eller slette oppslaget, bruk linkene under det aktuelle oppslaget. 
