@@ -4,7 +4,11 @@ title: Arkiv
 sidebar_label: Arkiv
 ---
 
-## Mine dokumenter
+### Mine dokumenter
+
+![bilde](https://user-images.githubusercontent.com/80097133/153581596-03823ef3-d127-4bf9-881f-4146e9323292.png)
+
+
 I arkivet kan du legge dokumenter du ønsker å ta vare på. Dette kan være nyttig hvis du jobber med et dokument hjemme på egen datamaskin og ønsker å fortsette arbeidet på en av skolens datamaskiner. Ved å høyreklikke på et dokument vil du få opp valg for å laste ned, slette, endre og dele dokumentet. Dokumentet kan deles med elevene i lærerens egne fag, men også med elever i andre fag. For lærerne kan det være en ide å samle dokumenter som angår egen undervisning i arkivet. Man kan opprette egne mapper for hvert enkelt fag, f.eks. mappe for matematikk og norsk, eventuelt med undermapper for vg1, vg2 og vg3. I arkivet vil en også kunne lagre prøver med tanke på gjenbruk på et senere tidspunkt.
 
 ### Opprette ny mappe
