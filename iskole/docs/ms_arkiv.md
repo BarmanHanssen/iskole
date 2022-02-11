@@ -5,7 +5,7 @@ sidebar_label: Arkiv
 ---
 
 ### Mine dokumenter
-I arkivet kan du legge dokumenter du ønsker å ta vare på. 
+I arkivet kan du legge dokumenter du ønsker å ta vare på. Du kan olpprette mapper for lettere oversikt over hvor ting er lagret. For å få oversikt over mappe-strukturen din: Klikk  på >-tegnet markert på gul bakgrunn:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/153581596-03823ef3-d127-4bf9-881f-4146e9323292.png)
 
