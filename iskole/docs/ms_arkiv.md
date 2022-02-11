@@ -10,13 +10,15 @@ I arkivet kan du legge dokumenter du ønsker å ta vare på. Du kan olpprette ma
 ![bilde](https://user-images.githubusercontent.com/80097133/153581596-03823ef3-d127-4bf9-881f-4146e9323292.png)
 
 
-Ved å høyreklikke på et dokument vil du få opp valg for å laste ned, slette, endre og dele dokumentet. Dokumentet kan deles med elevene i lærerens egne fag, men også med elever i andre fag. For lærerne kan det være en ide å samle dokumenter som angår egen undervisning i arkivet. Man kan opprette egne mapper for hvert enkelt fag, f.eks. mappe for matematikk og norsk, eventuelt med undermapper for vg1, vg2 og vg3. I arkivet vil en også kunne lagre prøver med tanke på gjenbruk på et senere tidspunkt.
+Ved å høyreklikke på et dokument vil du få opp valg for å laste ned, slette, endre og dele dokumentet. Dokumentet kan deles med elevene i lærerens egne fag, men også med elever i andre fag. For lærerne kan det være en ide å samle dokumenter som angår egen undervisning i arkivet.
 
 ### Opprette ny mappe
-For å opprette en ny mappe, fyll inn feltet _Ny mappe_ og klikke _Lagre_. Hvis du ikke har valgt noen mappe, vil den lagres direkte under mappen med ditt navn. Hvis du allerede har opprettet en mappe, og velger denne, vil den nye mappen opprettes som en undermappe av denne.
+For å opprette en ny mappe, fyll inn mappenavnet i i _Ny mappe_, og klikke _Lagre_. Hvis du ikke har valgt noen mappe, vil den lagres direkte under mappen med ditt navn. Hvis du allerede har opprettet en mappe, og velger denne, vil den nye mappen opprettes som en undermappe av denne.
 
-### Last opp fil
-For å laste opp en fil, klikk _Utforsk_, naviger til ønsket fil og klikk _OK_. Du kan skrive noe om filen for lettere å huske innholdet av den senere. Klikk på mappen du ønsker å lagre filen i og avslutt med å trykke _Lagre fil_.
+ Man kan opprette egne mapper for hvert enkelt fag, f.eks. mappe for matematikk og norsk, eventuelt med undermapper for vg1, vg2 og vg3. I arkivet vil en eksempelvis lagre prøver med tanke på gjenbruk.
+
+### Last opp dokument
+For å laste opp en fil, klikk _Velg fil_, naviger til ønsket fil og klikk _OK_. Du kan skrive noe om filen for lettere å huske innholdet av den senere. Klikk på mappen du ønsker å lagre filen i og avslutt med å trykke _Lagre fil_.
 
 #### Plagiatkontroll
 For skoler som benytter plagiatkontroll kan man krysse av _Last opp som referansefil til plagiatkontrollen_ for at filen skal være med i grunnlaget for plagiatkontrollen av elevenes innleveringer. Kolonnen _Plag.ref._ viser om dokumentet er lastet opp som referanse. Plag.ref. vil være "Nei" inntil vi får bekreftelse på at opplastingen var vellykket.
