@@ -31,5 +31,7 @@ Søk kan gjøres basert på klasse, navn eller elevnr. Søkeresultatet vises i e
 Det er ikke nødvendig å skrive hele navnet på eleven, ofte holder det med et par bokstaver fra for- og etternavnet. % kan benyttes i søket for å angi at det kan være hva som helst. Er du usikker på om eleven heter Nordmann eller Normann, kan du søke etter Nor%mann.
 :::
 
+Her vises de samme data som eleven selv kan få frem fra iSkole.
+
 ## _Elever i mine fag_
 Tabellen viser elevene i faget valgt i nedtrekkslisten. Faglæreren har får bare informasjon om _Timeplan, Fravær, Orden/atferd_ og _Programfag til valg_.
