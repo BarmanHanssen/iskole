@@ -43,7 +43,9 @@ Her finner du timeplanen til samtlige elever ved skolen.
 Søk etter elever ved å klikke på forstørrelsesglasset. Velg ønsket elev og klikk _Lukk_. For elever vises timer med fravær og forsentkomming med henholdsvis rød og grønn farge. Klikker du på timen fås flere detaljer frem.
 Prøver for valgte elev denne uken vises i grønt øverst i kalenderen. 
 
- _Faglærere_: Her vises faglærere og eventuelle tolærere i elevens klasse- og gruppefag. 
+_Ukeplan_: Dersom faglærer har lagt inn ukeplan for gjeldende uke, vil planen i faget vises her. 
+
+_Faglærere_: Her vises faglærere, og eventuelle tolærere, i alle elevens klasse- og gruppefag. 
 
 ## Klassetimeplan
 Nedtrekkslisten inneholder bare klasser som har fått timer lagt ut på timeplanen. Klassefag kommer på blå bakgrunn. Elevenes gruppefag har grønn bakgrunn. Bare gruppefag som minst en elev i klassen har valgt kommer med. 
