@@ -40,7 +40,7 @@ Vi ser at hele torsdag, med unntak av første time, er uten fargemarkering. Det 
 Ut fra dette skjønner en umiddelbart at det ikke er en god ide å timeplanlegge en hel klasse før faglærerne er på plass!
 
 :::note  Merk
-Noen timer på klassens timeplan kan være hvite. Det betyr at disse timene ikke kan benyttes for det valgte faget, tiltross for at læreren er ledig. Dette skyldes at en, eller flere, elever alt er opptatt i timen med et klassefag som tas i en annen klasse. Gå til Mine sider>Timeplan>Elevtimeplan, bruk filter _Klasse_, og velg første elev. Du får da frem timeplanen til eleven. Bruk pil-tast på elevlisten til å bla fremover til du finner elev som er timeplanlagt på blokkerte tidspunkt.
+Noen timer på klassens timeplan kan være hvite. Det betyr at disse timene ikke kan benyttes for det valgte faget, tiltross for at læreren er ledig. Dette kan skyldes at en, eller flere, elever alt er opptatt i timen med et klassefag som tas i en annen klasse. Gå til Mine sider>Timeplan>Elevtimeplan, bruk filter _Klasse_, og velg første elev. Du får da frem timeplanen til eleven. Bruk pil-tast på elevlisten til å bla fremover til du finner elev som er timeplanlagt på blokkerte tidspunkt. En annen mulighet: En elev fra en annen klasse følger faget. Gå til Elevadmin.>Rapporter>Faglister, der finner du alle elevene i faget.
 :::
 
 ## Timeplan lærer
