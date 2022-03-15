@@ -47,30 +47,17 @@ Fordeler/ulemper med 3:
 + Dersom timeplanen må endres i løpet av skoleåret, er alle disponible timelengder på plass.
 - Kan komme i skade for å velge feil timelengde når timene utplasseres fra _Timeplanlegge klasse_.
 
-
-
-
 ### Før en endrer oppsetter med timenes plassering/lengde
-Vi anbefaler følgende arbeidsplan:
-- Alle klasser bør være på plass med sine fag, og tilordnet lærerne som skal undervise i fagene.
-- En bør fullføre timeplanleggingen av barnetrinnet før en starter timeplanleggingen av ungdomstrinnet (eller omvendt).
-- Når timeplanen for barnetrinnet er ferdig lagt, legger man inn start- og slutt-tidspunkt for timene slik de skal være for ungdomstrinnet.
-- Man bør altså være ferding med timeplanlegging av barnetrinnet før man legger inn start- og sluttider for undomstrinnet.
-- Nå kan ungdomstrinnet timeplanllegges, og de nye start- og slutt-tidene benyttes. Barnetrinnets timeplan forblir urørt.
+Timene og timelengden som lagre her er en mal som benyttes når en legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, må malen oppdateres.
 
-Vi har allerede påpekt at timene og timelengden er en mal som benyttes når en timeplanlegger legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, må malen oppdateres.
-
-Som allerede nevnt, kan også start- og slutt-tid endres under selve timeplanleggingen. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra start- og slutt-tiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
+Som allerede nevnt, kan også start- og slutt-tid for et fag endres under selve timeplanleggingen. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra start- og slutt-tiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
 
 :::tip Tips
 Ved fraværsføring kan en bare føre fravær for en hel skoletime. Kommer en elev eksempelvis midt i en time, blir det enten fravær for hele timen, eller ikke noe fravær (men kanskje en anmerking). For større feksibilitet ved fraværsføring kan en 90-minutters time deles i to, men uten friminutt. 
 :::
 
 ### Spesialtilfelle
-Dersom timeplanen for barne- og ungdomstrinnet skal legges på samme tid kreves ekstra omtanke og planlegging!
-Anta videre at en skole har flere timeplanleggere, og eksempelvis barneskolens timeplanlegger har et oppsett for start- og slutt-tidene for sine klasser, mens ungdomstrinnet har noe avvikende timeoppsett. 
-
-Det er fullt mulig å legge inn alle aktuelle start- og slutt-tider på timene. Alle variantene vil vises når timeplanlegger velger en klasse. Se eksemplet som er et utsnitt fra menyvalget _Timeplanlegge klasse_:
+Det er fullt mulig å legge inn alle aktuelle start- og slutt-tider på timene. Se punkt 3: ovenfor. Alle variantene vil vises når timeplanlegger velger en klasse. Se eksemplet som er et utsnitt fra menyvalget _Timeplanlegge klasse_:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/123789398-65aada80-d8dd-11eb-9179-e27caca49684.png)
 
