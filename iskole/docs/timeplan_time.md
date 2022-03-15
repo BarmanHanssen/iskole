@@ -13,7 +13,7 @@ Det er imidlertid mulig å ha forskjellig start- og slutt-tid for timene. For ek
 :::note Merk
 Timeoppsettet kan betraktes som en mal. Når en time timeplanlegges, får timen start- og slutt-tiden fra gjeldende oppsett. Dersom malen endres, vil det ikke påvirke timer som alt er timeplanlagt. Men når nye timer timeplanlegges, vil alltid gjeldende mal benyttes. 
 
-Den timeplanlagte time i et klassefag kan imidlertid også gis endret start- eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-time. Dette gjøres ved å høyreklikke på timen fra _Timeplanlegge klasse_.
+En timeplanlagte time i et klassefag kan imidlertid også gis endret start- eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-time. Dette gjøres ved å høyreklikke på timen fra _Timeplanlegge klasse_.
 :::
 
 ### For skoler som har samme timeoppsette for alle klassene
