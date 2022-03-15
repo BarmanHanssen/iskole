@@ -25,7 +25,7 @@ Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig 
 1: Vi legger bare inn timene som har felles start- og slutt-tid for alle skolens klasser (dersom slike finnes!).
 Da kan vi timeplanlegge alle fag som er aktuelle, uavhengig av klassetrinn.
 
-Fordeler/ulemper med 1: 
+Fordeler/ulemper med 1:
 + Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.
 - Kan ikke ferdigstille timeplanen for alle fag.
 
