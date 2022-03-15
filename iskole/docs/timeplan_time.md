@@ -8,12 +8,12 @@ En time på timeplanen er bestemt ved at vi angir når timen starter, og når de
 
 En timeplan har tradisjonelt inneholdt 6 timer per dag over 5 ukedager. Vanligvis har start og slutt-tidene på hver time vært lik for alle dagene. Dette er en praktisk ordning som letter timeplanleggers arbeid, og også gjør det lettere for alle som er avhengig av timeplanen.
 
-Det er mulig å ha forskjellig start- og slutt-tid for timene. For eksempel kan 1. time på mandag for klasse 1A kan ha annen start- og slutt-tid enn for klasse 7A. En slik timeplan kan bli ekstra krevende for timeplanlegger da 1. time på mandag  kan overlappe 2. time på mandag for et annet klassetrinn. Læreren med 1. time på mandag kan da ikke fortsette med 2. time siden han ikke vil være ledig når 2. time starter. Litt mer om dette lengre nede.
+Det er mulig å ha forskjellig start- og slutt-tid for timene. For eksempel kan 1. time på mandag for klasse 1A kan ha annen start- og slutt-tid enn for klasse 7A. En slik timeplan kan bli ekstra krevende for timeplanlegger da 1. time på mandag  kan overlappe 2. time på mandag for et annet klassetrinn. Læreren med 1. time på mandag kan da ikke fortsette med 2. time siden han ikke vil være ledig når 2. time starter.
 
 :::note Merk
 Timeoppsettet kan betraktes som en mal. Når en time timeplanlegges, får timen start- og slutt-tiden fra gjeldende oppsett. Dersom malen endres, vil det ikke påvirke timer som alt er timeplanlagt. Men når nye timer timeplanlegges, vil alltid gjeldende mal benyttes. 
 
-Den timeplanlagte time i det enkelte fag kan imidlertid også gis endret start- eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-time. Fra Timeplan>Rapporter>Sum undervisning kan en til enhver tid finne hvor mange klokketimer som er timeplanlagt i det enkelte fag.
+Den timeplanlagte time i et klassefag kan imidlertid også gis endret start- eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-time. Dette gjøres ved å høyreklikke på timen fra _Timeplanlegge klasse_.
 :::
 
 ### For skoler som har samme timeoppsette for alle klassene
