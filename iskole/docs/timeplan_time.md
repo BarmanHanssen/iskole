@@ -17,7 +17,7 @@ Klokkeslettene for timene som legges inn her, vil følge alle fag som timeplanle
 Timeoppsettet kan betraktes som en mal. Når en time timeplanlegges, får timen start- og slutt-tiden fra gjeldende oppsett. Den timeplanlagte time i det enkelte fag kan imidlertid senere gis endret start- eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-time. Fra Timeplan>Rapporter>Sum undervisning kan en til enhver tid finne hvor mange klokketimer som er timeplanlagt i det enkelte fag.
 :::
 
-### For skoler som har avvikende timeoppsett
+## For skoler som har avvikende timeoppsett
 Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig timelengde og/eller forskjellig start-tider på noen (eller alle) timene. Dette lar seg løse, men litt planlegging før man setter i gang vil lønne seg!
 ### Før en endrer oppsetter med timenes plassering/lengde
 Vi anbefaler følgende arbeidsplan:
