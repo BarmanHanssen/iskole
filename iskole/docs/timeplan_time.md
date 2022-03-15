@@ -38,7 +38,7 @@ Fordeler/ulemper med 2:
 - Må gjøre timeplanen ferdig for ett skoletrinn før man kan ta neste skoletrinn.
 - Dersom timeplanen senere skal endres, må man eventuelt endre timelengde dersom oppsettet ikke dekker skoletrinnet hvor endringen gjøres.
 
-3: Vi ønsker å stå fritt til å jobbe parallelt med timeplanlegging av barne- og ungdomstrinnet.
+3: Vi ønsker å jobbe parallelt med timeplanlegging av barne- og ungdomstrinnet.
 Da må timeoppsettet dekke alle kombinasjoner av start- og slutt-tider, uten hensyn til hva som skal benyttes på hvert klassetrinn. Dette kan gjøres slik:
 Timene 0 (eller 1) til 9 brukes til barnetrinnet. Dersom ungdommstrinnet eksempelvis har avvikende timelengde bare for 1. til 3. time hver dag: Tilføy time 11 til 13 på malen med riktig start- og slutt-tider for ungdomstrinnet. Tilsvarende kan avvikende tid for time 5 legges inn som time 15. En slik metodikk gjør det lettere å få oversikt over avviket i oppsettet.
 
