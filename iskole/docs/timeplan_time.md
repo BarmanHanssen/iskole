@@ -20,7 +20,36 @@ Den timeplanlagte time i det enkelte fag kan imidlertid også gis endret start- 
 Klokkeslettene for timene som legges inn her, vil følge alle fag som timeplanlegges. Dersom ingen timer overlapper, betyr det at en lærer en dag kan ha etterfølgende timer, da dette ikke vil medføre noen kollisjon på timeplanen for læreren, eller for elevene.
 
 ## For skoler som har avvikende timeoppsett
-Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig timelengde og/eller forskjellig start-tider på noen (eller alle) timene. Dette lar seg løse, men litt planlegging før man setter i gang vil lønne seg!
+Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig timelengde og/eller forskjellig start-tider på noen (eller alle) timene. Dette lar seg løse på flere måter, her skisseres tre fremgangsmåter. Vi anbefaler å starte med 1: og forsette med enten 2: eller 3:
+
+1: Vi legger bare inn timene som har felles start- og slutt-tid for alle skolens klasser (dersom slike finnes!).
+Da kan vi timeplanlegge alle fag som er aktuelle, uavhengig av klassetrinn.
+
+Fordeler/ulemper med 1: 
++ Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.
+- Kan ikke ferdigstille timeplanen for alle fag.
+
+2: Vi timeplanlegger ferdig barne-trinnet før vi timeplanlegger ungdomstrinnet (eller i omvendt rekkefølge).
+Da må timeoppsettet være tilpasset barnetrinnet. Alle timene får da riktig start- og slutt-tid.
+Når alle fag på barnetrinnet er timeplanlagt (fra _Timplanlegg klasse_), endres malen slik at start- og slutt-tidene dekker  ungdomstrinnet. Da er alt klart for å legge timeplanen for ungdomstrinnet.
+
+Fordeler/ulemper med 2: 
++ Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.
+- Må gjøre timeplanen ferdig for ett skoletrinn før man kan ta neste skoletrinn.
+- Dersom timeplanen senere skal endres, må man eventuelt endre timelengde dersom oppsettet ikke dekker skoletrinnet hvor endringen gjøres.
+
+3: Vi ønsker å stå fritt til å jobbe parallelt med timeplanlegging av barne- og ungdomstrinnet.
+Da må timeoppsettet dekke alle kombinasjoner av start- og slutt-tider, uten hensyn til hva som skal benyttes på hvert klassetrinn. Dette kan gjøres slik:
+Timene 0 (eller 1) til 9 brukes til barnetrinnet. Dersom ungdommstrinnet eksempelvis har avvikende timelengde bare for 1. til 3. time hver dag: Tilføy time 11 til 13 på malen med riktig start- og slutt-tider for ungdomstrinnet. Tilsvarende kan avvikende tid for time 5 legges inn som time 15. En slik metodikk gjør det lettere å få oversikt over avviket i oppsettet.
+
+Fordeler/ulemper med 3: 
++ Kan timeplanlegge alle klassene uten å gjøre endringer på malen som definerer start- og slutt-tider.
++ Dersom timeplanen må endres i løpet av skoleåret, er alle disponible timelengder på plass.
+- Kan komme i skade for å velge feil timelengde når timene utplasseres fra _Timeplanlegge klasse_.
+
+
+
+
 ### Før en endrer oppsetter med timenes plassering/lengde
 Vi anbefaler følgende arbeidsplan:
 - Alle klasser bør være på plass med sine fag, og tilordnet lærerne som skal undervise i fagene.
