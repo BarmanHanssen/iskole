@@ -16,7 +16,7 @@ Timeoppsettet kan betraktes som en mal. Når en time timeplanlegges, får timen 
 En timeplanlagte time i et klassefag kan imidlertid også gis endret start- eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-time. Dette gjøres ved å høyreklikke på timen fra _Timeplanlegge klasse_.
 :::
 
-### For skoler som har samme timeoppsette for alle klassene
+### For skoler som har samme timeoppsett for alle klassene
 Klokkeslettene for timene som legges inn her, vil følge alle fag som timeplanlegges. Dersom ingen timer overlapper, betyr det at en lærer en dag kan ha etterfølgende timer, da dette ikke vil medføre noen kollisjon på timeplanen for læreren, eller for elevene.
 
 ## For skoler som har avvikende timeoppsett
