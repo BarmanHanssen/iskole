@@ -85,7 +85,7 @@ Slettes romreservereingen, slettes også eventuelle læærere som måtte være k
 
 Dersom reservasjonen for denne timen skal slettes for flere uker, markeres det på den nedre del av skjermbildet, før en klikker på _Slett valgte uker_.
 
-::: Merk:
+:::note Merk:
 Dersom lærer har reservert ekstra rom (fra Mine sider>Timeplan>Rom), altså et rom i tillegg til der han har undervisning, så markeres det med egen farge på lærerens timeplan, se figuren. Timeplanlegger kan slette denne reservasjonen. Men timeplanlegger kan ikke reservere et ekstra-rom til læreren når læreren har undervisning.
 :::
 ![bilde](https://user-images.githubusercontent.com/80097133/158583194-20026174-10ac-4ef9-8b3e-e661e8f81447.png)
