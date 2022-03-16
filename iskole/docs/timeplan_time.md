@@ -57,11 +57,16 @@ Ved fraværsføring kan en bare føre fravær for en hel skoletime. Kommer en el
 :::
 
 ### Eksempel
-Det er fullt mulig å legge inn alle aktuelle start- og slutt-tider på timene. Se punkt 3: ovenfor. Alle variantene vil vises når timeplanlegger velger en klasse. Se eksemplet som er et utsnitt fra menyvalget _Timeplanlegge klasse_:
+Det er fullt mulig å legge inn alle aktuelle start- og slutt-tider på timene. Se punkt 3: ovenfor. Alle variantene vil vises når timeplanlegger velger en klasse. 
+Dersom oppsettet herfra er slik:
+
+![bilde](https://user-images.githubusercontent.com/80097133/158549676-73bc825b-4a0c-4a7e-920d-3c3c32ead2ea.png)
+
+vil timeplanlegger få dette skjermbilde fra _Timeplanlegge klasse_:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/158548921-624dd3bd-8cf5-4110-8a30-7e6479dc5fb2.png)
 
-En time som skal starte kl 13:05 kan her enten gå til 13:50 eller 14:40. Den vil uansett kunne bli blokkert dersom timen 12:10 til 13:50 alt var benyttet. Så her må timeplanlegger være ekstra påpasselig slik at riktig tidspunkt velges!
+Her må timeplanlegger være ekstra påpasselig slik at riktig tidspunkt velges!
 
 
 
