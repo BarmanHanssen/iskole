@@ -8,7 +8,7 @@ Dersom man ut fra det ovenstående ikke har behov gruppefag, skal man ikke å av
 
 ## Blokkskjema
 
-Dersom skolen skal ha gruppefag, må man hule av for _Bruker blokkskjema_. Registreringen av gruppefag skjer fra _Grunnlagsdata>Fag_. Hvilke gruppefag som skal benyttes inneværende skoleår registreres fra _Time- og fagfordeling>Gruppefag_, og må være utført før elevene kan velge gruppefag. Men man kan klargjøre oppsettet her uten at gruppefagene og elevene er på plass.
+Dersom skolen skal ha gruppefag, må man huke av for _Bruker blokkskjema_. Registreringen av gruppefag skjer fra _Grunnlagsdata>Fag_. Hvilke gruppefag som skal benyttes inneværende skoleår registreres fra _Time- og fagfordeling>Gruppefag_, og må være utført før elevene kan velge gruppefag. Men man kan klargjøre oppsettet her uten at gruppefagene og elevene er på plass.
 
 
 ![image](https://user-images.githubusercontent.com/80097133/118969549-775ba280-b96d-11eb-875d-2cb24fbd8dd7.png)
