@@ -28,7 +28,7 @@ Når så klassefagene er timeplanlagt, er timeplanen komplett for både for lær
 
 ## Blokk tildelt klasse for uken
 Dersom ikke alt er på plass vedrørende punkt 1 til 3 ovenfor, men man ønsker å timeplanlegge klassefagene i en klasse hvor elevene kan velge gruppefag:
-Det kan være greit å markere, før klassefagene plasseres, hvilke timer man ønsker å avsette til gruppefag for klassen. Dette kan være bestemt før elevene kan velge gruppefag. Timene i gruppefag må elevene kunne følge, og i disse timene kan da ikke klassefag timeplanenlegges.
+Det kan være greit å markere, før klassefagene plasseres, hvilke timer man ønsker å avsette til gruppefag for klassen. Dette må da være bestemt før elevene kan velge gruppefag. Timene i gruppefag skal elevene kunne følge, og i disse timene kan ikke klassefag timeplanenlegges.
 
 Dersom blokknumrene er timeplanlagt (punkt 3), innebærer det at man har bestemt timeplanen for blokkfagene.
 - Velg klasse
