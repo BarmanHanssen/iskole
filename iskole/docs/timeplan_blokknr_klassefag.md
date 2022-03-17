@@ -4,6 +4,17 @@ title: Blokknr klasse
 sidebar_label: Blokknr klasse
 ---
 
+Hensikten med dette valget:
+
+- Å blokkere for timeplanlegging av klassefag i enkelte timer
+
+For klasser hvor elevene ikke kan velge grupppefag kan det altså være ønskelig å markere at en time ikke skal kunne brukes til undervisning i fag.
+
+For klasser hvor elevene kan velge grupppefag kan det være ønskelig å markere at en time tiltenkt undervisning i et gruppefag.
+
+
+
+
 ## Innledning
 Dersom noen klasser er uten gruppefag, er man klar for timeplanlegging av disse klassene uten å måtte bry seg om dette valget! Velg da Timeplanlegge klasse. (Men dersom noen av lærerne i klassefag også er lærer i gruppefag, bør en kanskje utsette timeplanleggingen av klassefagene.)
 
