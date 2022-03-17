@@ -40,7 +40,7 @@ Dersom blokknumrene er timeplanlagt (punkt 3), innebærer det at man har bestemt
 ## Etterord
 Når punktene 1 til 3 er på plass, er valget med _Tildelte blokknr_ overflødig hva angår gruppefag. Under overskriften _Minste utvalg av blokknummer_ vil det listes opp hvilke blokknr som er aktuelle for klassen ut fra elevenes valg av gruppefag. Bak hvert blokknr som listes opp finns det altså gruppefag som minst en elev i klassen har valgt. 
 Dersom man nå trykker på Benytt minste utvalg, vil systemet selv overføre disse blokknumrene til _Tildelte blokknr_. 
-Under timeplanlegging av klassefag, vil systemet automatisk kontrollere både mot minste utvalg, selv om ikke alle blokknr er plassert under _Tildelte blokknr_, og mot.
+Under timeplanlegging av klassefag, vil systemet automatisk kontrollere både mot minste utvalg, selv om ikke alle blokknr er plassert under _Tildelte blokknr_, og mot _Tildelte blokknr_...
 
 :::note Merk
 Bokknr registrert under _Tildelt blokknr_ blokkerer absolutt for timeplanlegging av klassefag i denne klasen. Altså kan en blokkere for klassefag selv om ingen elev skal ha undervisning akkurat da. Kan benyttes for eksempel for å legge inn en felles fritime for alle elever i en klasse. Eksempelvis kan man legge inn midt-timen (spisetid?) slik at ikke alle skolens klasser har samme tid for midt-timen. Denne metoden kan benyttes, selv om klassen ikke har gruppefag.
