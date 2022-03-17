@@ -21,9 +21,10 @@ Dersom man benytter følgende opplegg, behøver man ikke manuelt å blokkere noe
 2. Gruppefagene har fått tildelt blokknummer. (Fra _Blokknr gruppefag_)
 3. Blokknumrene er timeplanlagt (Fra _Timeplanlegge blokknr_)
 
-Dersom disse tre registreringene er på plass, er alt klart for timeplanlegging av klassefagene for klassen. Når så klassefagene er timeplanlagt, er timeplanen komplett for både for lærere og elever.
+Dersom disse tre registreringene er på plass, er alt klart for timeplanlegging av klassefagene for klassen. 
 
 Grunnen er at nå foreligger alle data som trengs for å hindre at timeplanleggingen av klassefag kommer i konflikt med elevens valg av gruppefag. Hvilke timer hvor elevene (minst en elev!) skal ha gruppefag, blir markert på klassens timeplan (se _Timeplanlegge klasse_), og vil blokkerer for timeplanlegging av  klassefag.
+Når så klassefagene er timeplanlagt, er timeplanen komplett for både for lærere og elever.
 
 ## Blokk tildelt klasse for uken
 Dersom ikke alt er på plass vedrørende punkt 1 til 3 ovenfor, men man ønsker å timeplanlegge klassefagene i en klasse hvor elevene kan velge gruppefag:
