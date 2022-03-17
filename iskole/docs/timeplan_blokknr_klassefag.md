@@ -44,5 +44,5 @@ Dersom man nå trykker på _Benytt minste utvalg_, vil systemet selv overføre d
 Når man timeplanlegger klassefag, vil systemet automatisk kontrollere både mot  _Minste utvalg av blokknummer_, og mot _Tildelte blokknr_.
 
 :::note Merk
-Bokknr registrert under _Tildelt blokknr_ blokkerer absolutt for timeplanlegging av klassefag i denne klasen. Altså kan en blokkere for klassefag selv om ingen elev skal ha undervisning akkurat da. Kan benyttes for eksempel for å legge inn en felles fritime for alle elever i en klasse. Eksempelvis kan man legge inn midt-timen (spisetid?) slik at ikke alle skolens klasser har samme tid for midt-timen. Dette kan gjøres, selv om klassen ikke har gruppefag.
+Blokknr registrert under _Tildelt blokknr_ blokkerer absolutt for timeplanlegging av klassefag i denne klasen. Altså kan en blokkere for klassefag selv om ingen elev skal ha undervisning akkurat da. Kan benyttes for eksempel for å legge inn en felles fritime for alle elever i en klasse. Eksempelvis kan man legge inn midt-timen (spisetid?) slik at ikke alle skolens klasser har samme tid for midt-timen. Dette kan gjøres, selv om klassen ikke har gruppefag.
 :::
