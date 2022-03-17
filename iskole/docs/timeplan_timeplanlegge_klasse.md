@@ -7,8 +7,8 @@ Benevnelsen klassefag, obligatorisk fag og fellesfag er synonyme betegnelser. Vi
 
 Timeplanen for klassefag skal inneholde all organisert undervisning i  alle klassefag til klassen. Hvilke klassefag klassen har, fremgår blant annet fra _Grunnlagsdata>Fag>Klassefag_. Merk at enkeltelever fra annen klasse kan følge fag i annen klasse. Dette vil fremgå blant annet fra _Elevadmin,>Rapporter>Faglister_.
 
-Noen elever kan være fritatt i ett eller flere klassefag. Slike unntak får ingen innvirkning for timeplanlegger i arbeidet med å sette opp klassens timeplan. 
-Derimot kan elev fra annen klasse som følger undervisningen i klassen skape begrensninger. Denne elevens timeplan kan allerede være være timeplanlagt, og medføre kollisjoner i når timeplanen legges.
+Noen elever kan være fritatt i ett eller flere klassefag. Slike unntak får ingen innvirkning for klassens timeplan. 
+Derimot kan elev fra annen klasse som følger undervisningen i et fag i klassen skape begrensninger. Denne elevens timeplan kan allerede være være timeplanlagt, og medføre kollisjoner når timeplanen legges.
 
 Dersom elevene i klassen kan velge fag utover det som hele klassen er satt opp med, klassifiserer vi slike fag som gruppefag. Gruppefag gir naturlig nok begrensninger for oppsettet av klassens timeplan. Timeplanen for klassefag kan ikke kollidere med et gruppefag som en elev i klassen har valgt. Det er av den grunn naturlig først å fastsette når gruppefagene skal ha sine timer før en starter med timeplanleggingen av klassefagene. Vi henviser til egne avsnitt om gruppefag for hvordan dette kan håndteres. Se også veiledningen som du finner ved å laste pdf-filen fra lenken oppe i høyrehjørne.
 
