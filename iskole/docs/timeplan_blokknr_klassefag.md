@@ -39,7 +39,7 @@ Dersom blokknumrene er timeplanlagt (punkt 3), innebærer det at man har bestemt
 
 ## Etterord
 Når punktene 1 til 3 er på plass, er valget med _Tildelte blokknr_ overflødig hva angår gruppefag. Under overskriften _Minste utvalg av blokknummer_ vil det listes opp hvilke blokknr som er aktuelle for klassen ut fra elevenes valg av gruppefag. Bak hvert blokknr som listes opp finns det altså gruppefag som minst en elev i klassen har valgt. 
-Dersom man nå trykker på Benytt minste utvalg, vil systemet selv overføre disse blokknumrene til _Tildelte blokknr_. 
+Dersom man nå trykker på _Benytt minste utvalg_, vil systemet selv overføre disse blokknumrene til _Tildelte blokknr_. 
 
 Når man timeplanlegger klassefag, vil systemet automatisk kontrollere både mot  _Minste utvalg av blokknummer_, og mot _Tildelte blokknr_.
 
