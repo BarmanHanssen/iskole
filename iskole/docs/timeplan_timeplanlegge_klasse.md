@@ -20,7 +20,7 @@ Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleå
 
 [tp_klasse_oversikt]: https://barmanhanssen.github.io/iskole/img/tp_klasse_oversikt.png 'Timeplanlegge klasse oversikt.'
 
-Skjermen for timeplanlegger er inndelt i fire separate deler (Fag,Timeplan klasse, Timeplan lærer, Vis timeplan ansatte) som beskriver forskjellige deler av datasettet en timeplanlegger må forholde seg til. Sluttresultatet blir timeplanen for en angitt klasse (her ST1A) i en valgt uke (her 2020-09).
+Skjermen for timeplanlegger er inndelt i fire separate deler (Fag,Timeplan klasse, Timeplan lærer, Vis timeplan for disse ansatte) som beskriver forskjellige deler av datasettet en timeplanlegger må forholde seg til. Sluttresultatet blir timeplanen for en angitt klasse (her ST1A) i en valgt uke (her 2020-09).
 
 ## Fag
 Her vises alle fagen som klassen er satt opp med (se Grunnlagsdata>Fag>Klassefag), og med faglærerne i det enkelte fag (se Time- og fagfordeling>Klassefag). 
