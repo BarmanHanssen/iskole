@@ -10,7 +10,7 @@ Hensikten med dette valget:
 
 For klasser hvor elevene ikke kan velge grupppefag kan det være ønskelig å markere at en time ikke skal kunne brukes til undervisning.
 
-For klasser hvor elevene kan velge grupppefag kan det være ønskelig å markere at en time tiltenkt undervisning i et gruppefag.
+For klasser hvor elevene kan velge grupppefag kan det være ønskelig å markere at en time er tiltenkt undervisning i et gruppefag.
 
 For klasser med elever som kan velge, eller har valgt, gruppefag:
 Når timeplanen for klassefagene legges, må vi vite når elevene er opptatt med gruppefag. Grunnen er at timene for gruppefag hvor det er elever fra klassen, vil blokkerer for klassefag. 
