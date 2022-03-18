@@ -17,7 +17,7 @@ Når timeplanen for klassefagene legges, må man vite når elevene er opptatt me
 
 ### Dersom elevene i klassen kan velge gruppefag
 
-Dersom man benytter følgende opplegg, behøver man ikke manuelt å blokkere noen timer:
+Dersom man benytter følgende opplegg, behøver man ikke å blokkere noen timer:
 
 1. Elevene har valgt gruppefag. (Fra _Elevadmin>Fag>Gruppefag_, eller i kombinasjon med at elevene selv har valgt gruppefag.)
 2. Gruppefagene har fått tildelt blokknummer. (Fra _Blokknr gruppefag_)
