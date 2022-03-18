@@ -13,7 +13,7 @@ For klasser hvor elevene ikke kan velge grupppefag: Det kan være ønskelig å m
 For klasser hvor elevene kan velge, eller har valgt, gruppefag:
 Når timeplanen for klassefagene legges, må man vite når elevene er opptatt med gruppefag. Grunnen er at timene for gruppefag hvor det er elever fra klassen, vil blokkerer for klassefag. 
 
-:::note Merk Blokknr registrert under Tildelt blokknr blokkerer absolutt for timeplanlegging av klassefag i denne klassen. Altså kan en blokkere for klassefag selv om ingen elev skal ha undervisning akkurat da. Kan benyttes for eksempel for å legge inn en felles fritime for alle elever i en klasse. Eksempelvis kan man legge inn midt-timen (spisetid?) slik at ikke alle skolens klasser har samme tid for midt-timen. Dette kan gjøres, selv om klassen ikke har gruppefag. :::
+:::note Merk Blokknr registrert under _Tildelt blokknr_ blokkerer absolutt for timeplanlegging av klassefag i denne klassen. planlegging av klassefag. Kan benyttes for eksempel for å legge inn en felles fritime for alle elever i en klasse. Eksempelvis kan man legge inn midt-timen (spisetid?) slik at ikke alle skolens klasser har samme tid for midt-timen. Dette kan gjøres, selv om klassen ikke har gruppefag. :::
 
 ### Dersom elevene i klassen kan velge gruppefag
 
