@@ -25,7 +25,7 @@ Dersom man benytter følgende opplegg, behøver man ikke å blokkere noen timer:
 
 Dersom disse tre registreringene er på plass, er alt klart for timeplanlegging av klassefagene for klassen. 
 
-Grunnen er at nå foreligger alle data som trengs for å hindre at timeplanleggingen av klassefag kommer i konflikt med elevens valg av gruppefag. Hvilke timer hvor elevene (minst en elev!) skal ha gruppefag, blir markert på klassens timeplan (se _Timeplanlegge klasse_), og vil blokkerer for timeplanlegging av  klassefag.
+Grunnen er at nå foreligger alle data som trengs for å hindre at timeplanleggingen av klassefag kommer i konflikt med elevens valg av gruppefag. Hvilke timer hvor elevene (minst en elev!) skal ha gruppefag, blir markert på klassens timeplan (se _Timeplanlegge klasse_), og vil blokkere for timeplanlegging av  klassefag.
 Når så klassefagene er timeplanlagt, er timeplanen komplett for både for lærere og elever.
 
 ## Blokk tildelt klasse for uken
