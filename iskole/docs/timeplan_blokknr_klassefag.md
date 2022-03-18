@@ -6,7 +6,7 @@ sidebar_label: Blokknr klasse
 
 Hensikten med dette valget:
 
-- Å blokkere for timeplanlegging av klassefag i enkelte timer
+- Å blokkere for timeplanlegging av klassefag i enkelte timer  
 
 For klasser hvor elevene ikke kan velge grupppefag: Det kan være ønskelig å markere at en time ikke skal kunne brukes til undervisning.
 
