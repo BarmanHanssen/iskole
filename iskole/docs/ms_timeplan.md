@@ -53,4 +53,4 @@ Nedtrekkslisten inneholder bare klasser som har fått timer lagt ut på timeplan
 _Vis klassens faglærere_: Listen inneholder alle elevens faglærere, altså også faglærere i gruppefag som elevene måtte ha i sin fagkrets.
 
 ## Tid
-Her vises start- og slutt-tider som timeplanlegger har til sin rådighet. Dette er en mal som gjelder for nye timer som timeplanlegges. Det innebærer at klokkeslettene ikke behøver å være identiske med tidene som nå vises på timeplanen. Eventuelle avvik skyldes at timene for faget ble timeplanlagt med en avvikende mal.
+Her vises start- og slutt-tider som timeplanlegger har til sin rådighet. Dette er en mal som gjelder for nye timer som timeplanlegges. Det innebærer at klokkeslettene ikke behøver å være identiske med tidene som nå vises på timeplanen. Eventuelle avvik skyldes at timene for faget ble timeplanlagt med en avvikende mal. Malen kan endres fra _Timeplan>Tider_.
