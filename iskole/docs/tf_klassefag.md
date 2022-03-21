@@ -5,7 +5,7 @@ sidebar_label: Klassefag
 ---
 
 ## Klassefag
-Her registreres hvem som skal undervise fagene i en klasse. Registreringen skjer klassevis. Læreren som står på toppen er ansvarlig faglærer. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer for uke for uke. Læreren som står registrert på første linje er fagansvarlig, og er den som fører inn terminkarakteren i faget.
+Her registreres hvem som skal undervise i en klasse. Registreringen skjer klassevis. Læreren som står på toppen er ansvarlig faglærer. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer for uke for uke. Læreren som står registrert på første linje er fagansvarlig, og er den som fører inn terminkarakteren i faget.
 
 **Klasse** Ekspander en klasse ved å klikke på pilen. Alle fagene for denne klassen vil vises. Læreren er det eneste som kan endres. 
 
