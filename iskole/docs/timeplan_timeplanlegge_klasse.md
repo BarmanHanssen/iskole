@@ -6,7 +6,7 @@ sidebar_label: Timeplanlegge klasse
 
 Benevnelsen klassefag, obligatorisk fag og fellesfag er synonyme betegnelser. Vi benytter oftes klassefag.
 
-Timeplanen for klassefag skal inneholde all organisert undervisning i  alle klassefag til klassen. Hvilke klassefag klassen har, fremgår blant annet fra _Grunnlagsdata>Fag>Klassefag_. Merk at enkeltelever fra annen klasse kan følge fag i annen klasse. Dette vil fremgå blant annet fra _Elevadmin,>Rapporter>Faglister_.
+Timeplanen for klassefag skal inneholde all organisert undervisning i  alle klassefag til klassen. Hvilke klassefag klassen har, fremgår blant annet fra _Grunnlagsdata>Fag>Klassefag_. Merk at en elev kan følge fag i annen klasse. Dette vil fremgå blant annet fra _Elevadmin,>Rapporter>Faglister_.
 
 Noen elever kan være fritatt i ett eller flere klassefag. Slike unntak får ingen innvirkning for klassens timeplan. 
 Derimot kan elev fra annen klasse som følger undervisningen i et fag i klassen skape begrensninger. Denne elevens timeplan kan allerede være være timeplanlagt, og medføre kollisjoner når timeplanen legges.
