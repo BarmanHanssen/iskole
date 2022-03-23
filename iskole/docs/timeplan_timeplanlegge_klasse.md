@@ -28,7 +28,7 @@ Her vises alle fag som klassen er satt opp med (fra _Grunnlagsdata>Fag>Klassefag
 
 - Man kan endre antall timer for et fag i denne uken (via blyant-ikonet bak faget). 
 - Dersom faget ikke skal ha timer i denne uken, reduseres timetallet til null. 
-- Dersom noen fag allerede er timeplanlagt, vises antallet timeplanlagte timer i kolonnen TP-lagt. Se på faget NAT, som skal ha 6 timer, hvorav 2 timer er lagt på tirsdag. Vi ser da at 4 timer _Gjenstår i faget_. 
+- Dersom noen fag allerede er timeplanlagt, vises antallet timeplanlagte timer i kolonnen _TP-lagt_. Se på faget NAT, som skal ha 6 timer, hvorav 2 timer er lagt på tirsdag. Vi ser da at 4 timer _Gjenstår i faget_. 
 - En timeplanlagt time kan fjernes fra timeplanen ved å høyreklikke på timen. Da justeres _Gjenstår i faget_.
 - Det er mulig å legge til fag direkte herfra (se _+Legg til_). Forutsetningen er at faget er tilgjengelig (Se på klassen fra Grunnlagsdata>Fag_, klikk på _Endre_).
 
