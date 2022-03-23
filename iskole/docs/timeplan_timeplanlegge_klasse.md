@@ -37,7 +37,7 @@ Under listen med fag finner man en nedtrekkslisten _Rom_. Her vises alle rom som
 ## Timeplan klasse ST1A
 Fargekoder:
 - Grønn: Timen er ledig, og kan timeplanlegges.
-- Blå:  Timen er timeplanlagt. Kan fjernes fra timeplanen ved å høyre-klikke på timen.
+- Blå:  Timen er timeplanlagt. Kan fjernes fra timeplanen ved å høyre-klikke på timen (gjelder ikke gruppefag).
 - Rosa: Når en velger _Fag_, vil valgte fags timeplan markeres med denne fargen.
 - Hvit: Timen kan ikke benyttes. Mulig årsak: Elev i klassen opptatt med undervisning i annen klasse, eller elev fra annen klasse er elev i dette faget.
 
