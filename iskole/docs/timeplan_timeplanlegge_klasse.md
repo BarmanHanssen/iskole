@@ -41,9 +41,9 @@ Fargekoder:
 - Rosa: Når en velger _Fag_, vil valgte fags timeplan markeres med denne fargen.
 - Hvit: Timen kan ikke benyttes. Mulig årsak: Elev i klassen opptatt med undervisning i klassefag i annen klasse, eller elev fra annen klasse er elev i dette faget.
 
-Her vises hvilke timer som alt er plassert, her to timer i NAT, og en time i ENG (mandag kl 8:15). Videre ser vi at faget ENG er markert under Fag. Det har fått tildelt en rosa farge, og denne fargen tas med når timene i faget plasseres. Det blir dermed lett å få oversikten som trengs for å fordele timene over ukens dager.
+Her vises hvilke timer som alt er plassert, nemlig to timer i NAT, og en time i ENG (mandag kl 8:15). Videre ser vi at faget ENG er markert under Fag. 
 
-Dersom man ønsker en dobbel-time på mandag, klikker man på timen i dette vinduet. Timen plasseres, og vinduet for Fag og for Timeplan lærer oppdateres. Tilsvarende plasseres øvrige timer i faget helt til _Gjenstår_ viser tallet null. 
+Når neste time i ENG plasseres, blir  _TP-lagt_ økt og _Gjenstår_ nedjustert. 
 
 Noen timer er markert med grønn farge. Det er alle timene som kan timeplanlegges i denne uken, uten å kollidere mot andre fag i klassen, eller mot timer i andre fag som faglærer i faget allerede har fått tildelt. 
 
