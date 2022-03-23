@@ -43,7 +43,7 @@ Fargekoder:
 
 I skjermbildet ovenfor vises hvilke timer som alt er plassert, nemlig to timer i NAT, og en time i ENG (mandag kl 8:15). Videre ser vi at faget ENG er markert under Fag. 
 
-Når neste time i ENG plasseres, blir  _TP-lagt_ økt og _Gjenstår_ nedjustert. 
+Når neste time i ENG plasseres, blir  _TP-lagt_ økt og _Gjenstår_ nedjustert for faget. 
 
 Noen timer er markert med grønn farge. Det er alle timene som kan timeplanlegges i denne uken, uten å kollidere mot andre fag i klassen, eller mot timer i andre fag som faglærer i faget allerede har fått tildelt. 
 
