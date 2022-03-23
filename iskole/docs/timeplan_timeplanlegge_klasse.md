@@ -39,7 +39,7 @@ Fargekoder:
 - Grønn: Timen er ledig, og kan timeplanlegges.
 - Blå:  Timen er timeplanlagt. Kan fjernes fra timeplanen ved å høyre-klikke på timen (gjelder ikke gruppefag).
 - Rosa: Når en velger _Fag_, vil valgte fags timeplan markeres med denne fargen.
-- Hvit: Timen kan ikke benyttes. Mulig årsak: Elev i klassen opptatt med undervisning i annen klasse, eller elev fra annen klasse er elev i dette faget.
+- Hvit: Timen kan ikke benyttes. Mulig årsak: Elev i klassen opptatt med undervisning i klassefag i annen klasse, eller elev fra annen klasse er elev i dette faget.
 
 Her vises hvilke timer som alt er plassert, her to timer i NAT, og en time i ENG (mandag kl 8:15). Videre ser vi at faget ENG er markert under Fag. Det har fått tildelt en rosa farge, og denne fargen tas med når timene i faget plasseres. Det blir dermed lett å få oversikten som trengs for å fordele timene over ukens dager.
 
