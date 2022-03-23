@@ -49,7 +49,8 @@ Noen timer er markert med grønn farge. Det er alle timene som kan timeplanlegge
 
 Vi ser at hele torsdag, med unntak av første time, er uten fargemarkering. Det skyldes at læreren som har det utvalgte faget vi ser på (ENG), allerede er opptatt med annen undervisning den dagen. Faget ENG kan derfor bare få en time på torsdag med denne faglærer. Dersom klassen skal ha mer enn en time ENG på torsdag, må en allerede lagt time på torsdag for denne læreren frigis.
 
-Ut fra dette skjønner en umiddelbart at det ikke er en god ide å timeplanlegge en hel klasse før faglærerne er på plass
+Ut fra dette skjønner en umiddelbart at det er en god ide å  ha faglærerne på plass før en timeplanlegge en hel klasse.
+
 :::note  Merk
 Noen timer på klassens timeplan kan være hvite. Det betyr at disse timene ikke kan benyttes for det valgte faget, tiltross for at læreren er ledig. Dette kan skyldes at en, eller flere, elever alt er opptatt i timen med et klassefag som tas i en annen klasse. Gå til Mine sider>Timeplan>Elevtimeplan, bruk filter _Klasse_, og velg første elev. Du får da frem timeplanen til eleven. Bruk pil-tast på elevlisten til å bla fremover til du finner elev som er timeplanlagt på blokkerte tidspunkt. En annen mulighet: En elev fra en annen klasse følger faget. Gå til Elevadmin.>Rapporter>Faglister, der finner du alle elevene i faget.
 :::
