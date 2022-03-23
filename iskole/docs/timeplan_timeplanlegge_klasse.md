@@ -35,6 +35,12 @@ Her vises alle fag som klassen er satt opp med (fra _Grunnlagsdata>Fag>Klassefag
 Under listen med fag finner man en nedtrekkslisten _Rom_. Her vises alle rom som er registrert fra _Grunnlagsdata>Rom_. Merk at dersom klassen har fått tildelt rom fra _Grunnlagsdata>Klasse_, vil klassens rom være forhåndsvalgt når klassefagene timeplanlegges. Det er mulig å endre rom. Før timen lagres, vil systemet kontrollere at valgte rom er ledig. Det også mulig å utsette valg av rom, altså la timen stå registrert uten rom.
 
 ## Timeplan klasse ST1A
+Fargekoder:
+- Grønn
+- Blå
+- Rosa
+- Hvit
+
 Her vises hvilke timer som alt er plassert, her to timer i NAT, og en time i ENG (mandag kl 8:15). Videre ser vi at faget ENG er markert under Fag. Det har fått tildelt en rosa farge, og denne fargen tas med når timene i faget plasseres. Det blir dermed lett å få oversikten som trengs for å fordele timene over ukens dager.
 
 Dersom man ønsker en dobbel-time på mandag, klikker man på timen i dette vinduet. Timen plasseres, og vinduet for Fag og for Timeplan lærer oppdateres. Tilsvarende plasseres øvrige timer i faget helt til _Gjenstår_ viser tallet null. 
