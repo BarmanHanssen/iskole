@@ -56,7 +56,7 @@ Noen timer på klassens timeplan kan være hvite. Det betyr at disse timene ikke
 :::
 
 ## Timeplan lærer
-Når en velger et Fag som har fått tildelt lærer, vises automatisk timeplanen til denne læreren i dette skjermbildet med den fargekoden som faget er tildelt. Timeplanen for klassen oppfriskes også, og allerede lagte timer i valgte fag markeres med rosa farge. Ledige timer i klassens timeplan hvor læreren alt er opptatt med annen undervisning blir blanket ut. Se timeplanen på torsdag i skjermbildet ovenfor!
+Når en velger et Fag som har fått tildelt lærer, vises automatisk timeplanen til valgte lærer i dette skjermbildet med den fargekoden som faget er tildelt. Timeplanen for klassen oppfriskes også, og allerede lagte timer i valgte fag markeres med rosa farge. Ledige timer i klassens timeplan hvor læreren alt er opptatt med annen undervisning blir blanket ut. Se timeplanen på torsdag i skjermbildet ovenfor!
 
 ## Vis timeplanen til disse ansatte
 Ofte kan det være greit å ha oversikt over timeplanen til andre lærere enn bare den som nå har fokus. De utvalgte ekstra-lærerne timeplanen vises da sammen med timeplanen til faglæreren i skjermbildet Timeplan lærer.
