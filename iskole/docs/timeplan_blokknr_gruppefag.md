@@ -24,6 +24,10 @@ Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og 
 
 Timetallet er det mulig å endre. Det er hentet fra _Grunnlagsdata>Fag_ og kan endres også derfra. 
 Rom Z107 er også hentet fra _Grunnlagsdata>Fag_ og vil bli foreslått når Romnr skal utfylles. Her er  det valgt rom Y202.
+
+Dersom man nå skal registrere blokknr på et nytt gruppefag, vil skjermbildet bli slik:
+![bilde](https://user-images.githubusercontent.com/80097133/160113124-95ebbf9b-4d55-47df-bb4a-54c7637a418a.png)
+
 Dersom faget er gitt ID fra _Time- og fagfordeling>Gruppefag_, vil alle fem timene kunne få innført sine respektive blokknr med et museklikk. Dersom en må gjøre dette manuelt, og dersom blokknr er i rekkefølge: Legg inn det førstee blokknr for faget, videre kan førstevalget i nedtrekksliste benyttes: «+1»
 
 Når man trykker på _Lagre_, vil iSkole sjekke at foreslåtte blokknr ikke kommer i konflikt med annen aktivtet for læreren. Dersom elever er registrert i gruppefag, gjøres også sjekk mot deres timeplan. Også romvalget kontrollleres.
