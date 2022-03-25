@@ -18,7 +18,7 @@ Eksempel hvor blokknumrene er lagt inn på gruppefag:
 ![image](https://user-images.githubusercontent.com/80097133/118975143-f81d9d00-b973-11eb-85e2-40dfb2a2bcef.png)
 
 ## Registrering av blokknr på gruppefag
-Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og rom vises under tabellen med alle gruppefagene. Velger nå ST3:ESA 1 fra skjermbildet ovenfor, kommer følgende frem under tabellen med fag:
+Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og rom vises under tabellen med alle gruppefagene. Velges ST3:ESA 1 fra skjermbildet ovenfor, kommer følgende frem under tabellen med fag:
 
 ![image](https://user-images.githubusercontent.com/80097133/118976457-513a0080-b975-11eb-80d5-79a9b382adae.png)
 
