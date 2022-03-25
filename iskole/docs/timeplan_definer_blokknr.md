@@ -17,7 +17,7 @@ Dersom skolen skal ha gruppefag, må man huke av for _Bruker blokkskjema_. Regis
 Det vi registrer her er hvordan vi har tenkt å sette opp timeplanen for gruppefagene, uten nødvendigvis ennå å ha oversikt over hvilke grupper som skal igangsettes. Vi skal fastsette et rammeverk som gjør det enkelt å gruppere fag som skal undervises parallelt. Når undervisningen eksakt skal finne sted gjøres fra menyvalget _Timeplanlegge blokknr_.
 
 ### _* Antall timer til valg (blokknr)_
-Gruppefagene har typisk fem undervisningstimer per uke. Vanlig oppsett for videregående skoler er at man planlegger for opptil 35 uketimer til undervisning. Herav planlegges det gjerne å bruke 25 til 30 timer per uke  til undervisning av gruppefag, hvilket tilsvarer 5 eller 6 Id-er (hvor hvert fag typisk tildeles en Id, og hvor hver Id legger beslag på 5 blokknr, altså 5 timer). Maksimalt kan antall timer til gruppefag være lik antall timer som er satt opp fra valget Time. Timetallet settes til minimum _Antall blokid_ x 5, og kan oppjusteres ved behov.
+Gruppefagene har typisk fem undervisningstimer per uke. Vanlig oppsett for videregående skoler er at man planlegger for opptil 35 uketimer til undervisning. Herav planlegges det gjerne å bruke 25 til 30 timer per uke  til undervisning av gruppefag, hvilket tilsvarer 5 eller 6 Id-er (hvor hvert fag typisk tildeles en Id, og hvor hver Id legger beslag på 5 blokknr, altså 5 timer). Timetallet settes til minimum _Antall blokid_ x 5, og kan oppjusteres ved behov.
 
 ## Gruppering av timer til valg
 
