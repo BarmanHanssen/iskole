@@ -7,7 +7,7 @@ sidebar_label: Blokknr gruppefag
 ## Innledning
 Skjermbildet viser hvordan fagene er gruppert i forhold til hverandre. Gruppefag med lik timeplan har like blokknumre. Hvilken dag og time hvert blokknummer skal ha, er registreres fra menyvalget _Timeplanlegge blokknr_.
 
-Hvert blokknummer representerer altså en bestemt dag og time på timeplanen. Men blokkskjemaet kan settes opp før man har bestemt hvilken dag
+Hvert blokknummer representerer altså en bestemt time på timeplanen. Men blokkskjemaet kan settes opp før man har bestemt hvilken dag
 og time det enkelte blokknummer skal tildeles. 
 Vi velger først hvilken uke vi skal legge inn blokknr for, første skoleuke anbefales. Det er komplisert, og derfor sjeldent aktuelt, å endre på oppsettet som gjøres her. Det innebærer at når man har ferdigstilt registrering i første skoleuke, så kopierer man resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, da systemet til enhver tid vil kontrollere at ikke kollisjoner oppstår.
 
