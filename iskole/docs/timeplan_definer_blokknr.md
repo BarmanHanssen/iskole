@@ -24,7 +24,7 @@ Gruppefagene har typisk fem undervisningstimer per uke. Vanlig oppsett for vider
 ### Antall blokk id
 Fag som planlegges å ha lik timeplan markeres ved at de har samme Id. Merk: Id for et gruppefaget registreres fra _Time- og fagfordeling>Gruppefag_, og det kreves at Id-en alt er registert herfra.
 
-Vi anbefaler å benytte fortløpende nummerering av Blokknr. Det gir bedre visuell oversikt når gruppefagene tildeles Blokknr. Vanligvis har gruppefagene 5 timer per uke. Fag med mindre enn 5 timer kan ligge i en blokk med 5 timer, hvilke bloknr som skal benyttes bestemmes av timeplanlegger (registreres fra _Blokknr gruppefag_). Dersom noen fag har mer enn 5 timer, kan de overskytende timer plasseres fritt. 
+Dersom man benytte fortløpende nummerering av Blokknr gir det  god visuell oversikt når gruppefagene tildeles Blokknr. Vanligvis har gruppefagene 5 timer per uke. Fag med mindre enn 5 timer kan ligge i en blokk med 5 timer, hvilke bloknr som skal benyttes bestemmes av timeplanlegger (registreres fra _Blokknr gruppefag_). Dersom noen fag har mer enn 5 timer, kan de overskytende timer plasseres fritt. 
 
 :::note Tips
 Dersom gruppene gis ID fra _Time- og fagfordeling>Gruppefag_ (anbefales!), vil plassering av blokknumrene på fagene (fra _Blokknr gruppefag_) gå raskt. Blokknumrene kan da plasseres på hvert fag ut fra fagets ID.
