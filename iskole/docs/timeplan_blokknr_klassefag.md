@@ -11,7 +11,7 @@ Hensikten med dette valget:
 - For klasser hvor elevene kan velge gruppefag: I tillegg til timene som gruppefagene legger beslag på, kan en herfra markere ekstra timer hvor klassefag ikke kan timeplanlegges. 
 
 :::note Tips 
-Blokknr registrert under _Tildelt blokknr_ blokkerer absolutt for timeplanlegging av klassefag i denne klassen. Kan benyttes for eksempel for å legge inn en felles fritime for alle elever i en klasse. Eksempelvis kan man legge inn midt-timen (spisetid?) slik at ikke alle skolens klasser har samme tid for midt-timen. Dette kan gjøres, selv om klassen ikke har gruppefag. 
+Blokknummer registrert under _Tildelt blokknr_ blokkerer absolutt for timeplanlegging av klassefag i denne klassen. Kan benyttes for eksempel for å legge inn en felles fritime for alle elever i en klasse. Eksempelvis kan man legge inn midt-timen (spisetid?) slik at ikke alle skolens klasser har samme tid for midt-timen. Dette kan gjøres, selv om klassen ikke har gruppefag. 
 :::
 
 ### Dersom elevene i klassen kan velge gruppefag
