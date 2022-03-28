@@ -39,7 +39,4 @@ Det kan i ettertid være aktuelt å gjøre endringer for en eller flere uker. Ek
 ## Endre blokknr
 
 Et valgt blokknr kan når som helst byttes ut med et annet. Nytt blokknr kontrolleres på vanlig måte (se ovenfor) før det kan lagres.
-Dersom noen av timene skal utgår for en uke: Fjern blokknr for aktuelle timer.
-Dersom faget skal utgå for en uke: Endre Timer til 0 (null).
-
 Ingenting lagres før du trykker _Lagre_!
