@@ -13,7 +13,7 @@ For bare få frem tolærerfag som er klargjort for timeplanlegging: Bruk filter 
 ![image](https://user-images.githubusercontent.com/80097133/123410124-3af41580-d5af-11eb-8a68-ce8fd1dcb446.png)
 :::
 
-Velg først fag og tolærer som skal timeplanlegges. Her er faget BY1C TOB med EAN som tilærer valgt:
+Velg først fag og tolærer som skal timeplanlegges. Her er faget BY1C TOB med EAN som tolærer valgt:
 
 ![image](https://user-images.githubusercontent.com/80097133/115712313-e9dc6100-a374-11eb-8e22-34255484eb20.png)
 
