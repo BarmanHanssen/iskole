@@ -16,7 +16,7 @@ Blokknr registrert under _Tildelt blokknr_ blokkerer absolutt for timeplanleggin
 
 ### Dersom elevene i klassen kan velge gruppefag
 
-Dersom man benytter følgende opplegg, behøver man ikke å blokkere noen timer:
+Dersom man benytter følgende opplegg, behøver man ikke å blokkere noen timer for å få plassert gruppefagene:
 
 1. Elevene har valgt gruppefag. (Fra _Elevadmin>Fag>Gruppefag_, eller i kombinasjon med at elevene selv har valgt gruppefag.)
 2. Gruppefagene har fått tildelt blokknummer. (Fra _Blokknr gruppefag_)
