@@ -30,7 +30,7 @@ Timer hvor elevene (minst en elev!) skal ha gruppefag, blir da markert på klass
 Dersom ikke alt er på plass vedrørende punkt 1 til 3 ovenfor, men man ønsker å timeplanlegge klassefagene i en klasse hvor elevene kan velge gruppefag:
 Det kan være greit å markere, før klassefagene plasseres, hvilke timer man ønsker å avsette til gruppefag for klassen. Dette bør være bestemt før elevene kan velge gruppefag. Timene i gruppefag skal elevene kunne følge, og i disse timene kan da klassefag ikke timeplanenlegges.
 
-Dersom blokknumrene er timeplanlagt (punkt 3), innebærer det at man har bestemt timeplanen for blokkfagene. Gjør da følgende:
+Dersom blokknumrene er timeplanlagt (punkt 2), innebærer det at man har bestemt hvor gruppefagene skal timeplanlegges. Gjør da følgende:
 - Velg klasse
 - Flytt over fra _Ledige blokknr_ til _Tildelte blokknr_ for de timene som skal blokkere for klassefag.
 - Bekreft valget med Lagre 
@@ -38,7 +38,7 @@ Dersom blokknumrene er timeplanlagt (punkt 3), innebærer det at man har bestemt
 ![image](https://user-images.githubusercontent.com/80097133/119110333-51dca080-ba22-11eb-8894-2298090e2502.png)
 
 ## Etterord
-Når punktene 1 til 3 er på plass, er valget med _Tildelte blokknr_ overflødig hva angår gruppefag. Under overskriften _Minste utvalg av blokknummer_ vil det listes opp hvilke blokknr som er aktuelle for klassen ut fra elevenes valg av gruppefag. Bak hvert blokknr som listes opp finns det altså gruppefag som minst en elev i klassen har valgt. 
-Dersom man nå trykker på _Benytt minste utvalg_, vil systemet selv overføre disse blokknumrene til _Tildelte blokknr_. 
+Når punktene 1 til 3 er på plass, er valget med _Tildelte blokknr_ overflødig hva angår gruppefagenes plassering. Under overskriften _Minste utvalg av blokknummer_ vil det listes opp hvilke blokknr som er aktuelle for klassen ut fra elevenes valg av gruppefag. Bak hvert blokknr som listes opp finns det altså gruppefag som minst en elev i klassen har valgt. 
+Valget _Benytt minste utvalg_, som overfører disse blokknumrene til _Tildelte blokknr_ for klassen, kan en trygt ignorere! 
 
-Når man timeplanlegger klassefag, vil systemet automatisk kontrollere både mot  _Minste utvalg av blokknummer_, og mot _Tildelte blokknr_.
+Oppsummert: Når man timeplanlegger klassefag, vil systemet automatisk kontrollere både mot  _Minste utvalg av blokknummer_, og mot _Tildelte blokknr_.
