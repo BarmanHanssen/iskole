@@ -35,7 +35,7 @@ Dersom blokknumrene er timeplanlagt (punkt 2), innebærer det at man har bestemt
 - Flytt over fra _Ledige blokknr_ til _Tildelte blokknr_ for de timene som skal blokkere for klassefag.
 - Bekreft valget med _Lagre_.
 
-![image](https://user-images.githubusercontent.com/80097133/119110333-51dca080-ba22-11eb-8894-2298090e2502.png)
+![bilde](https://user-images.githubusercontent.com/80097133/160382311-6be42fbd-36e2-4a03-902e-99678c959ae5.png)
 
 ## Etterord
 Når punktene 1 til 3 er på plass, er valget med _Tildelte blokknr_ overflødig hva angår gruppefagenes plassering. Under overskriften _Minste utvalg av blokknummer_ vil det listes opp hvilke blokknr som er aktuelle for klassen ut fra elevenes valg av gruppefag. Bak hvert blokknr som listes opp finns det altså gruppefag som minst en elev i klassen har valgt. 
