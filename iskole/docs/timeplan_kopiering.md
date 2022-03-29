@@ -3,20 +3,13 @@ id: timeplan_kopiering
 title: Kopiering
 sidebar_label: Kopiering
 ---
-Timeplanen vil kunne variere fra den ene uken til den neste. 
-Fra _Timeplanlegge klasse_ timeplanlegges klassefagene for en bestemt uke. Tilsvarende vil _Blokknummer for gruppefag_ angi timeplanen for gruppefagene for en bestemt uke.  Dersom timeplanen for både klasse- og gruppefagene skal gjelde i flere uker, kan en herfra kopiere alt som er timeplanlagt fremover i tid.
+Timeplanen for en bestemt uke er komplett når alle timer er timeplanlagt for faglærere og tolærere i alle klasse- og gruppefag.
+Dersom timeplanen for denne uken skal gjelde for flere uker fremover i tid, kan den enkelt videreføres ved kopiering. Kopiering kan finne sted, selv om ikke alle fag er timplanlagt.
 
 :::note Merk
 Kopieringen tar med alle klasser og alle gruppefag for skolen for gjeldende uke. Dersom en klasse ikke er timeplanlagt, vil timeplanen forbli blank ved kopiering, selv om klassen var timeplanlagt i en av de ukene som det kopieres til.
 :::
 
-Her kopieres altså timeplanen for alle skolens klasser og gruppefag under ett, og fremover i tid. Det er derfor naturlig å vente med kopiering til alle klasse- og gruppefag, og tolærerfag, er ferdig timeplanlagt før en kopierer.
-
 Dersom man planlegger endringer i timeplanen på et senere tidspunkt, kan det være hensiktsmessig ikke å kopiere ut timeplanen for hele skoleåret. Det holder ofte at timeplanen er kjent to-tre uker frem i tid.
 
-Merk også at dersom fravær er notert for en elev i den uken man skal kopiere til, så må fraværet annuleres før kopiering kan gjennomføres. 
-
-:::caution OBS!
-Timeplanen i uker det kopieres til vil først bli slettet, deretter legges timeplanen fra valgt uke inn. 
-Du kan dermed slette en timeplan for en klasse ved å kopiere fra en uke hvor klassens timeplan er tom.
-:::
+Når timeplanen for hele skoleåret er på plass, kan man kjøre rapporter som viser hvor mange timer som er timeplanlagt i det enkelte fag. Timeplanlegger kan da få konrollert at hvert fag har fått nok timer jamført med fagets fagplan. Justeringer kan om nødvendig gjøres for enkelte uker for å komme i mål.
