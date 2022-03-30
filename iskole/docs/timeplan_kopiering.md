@@ -12,4 +12,4 @@ Kopieringen tar med timeplanen for alle klasser og alle gruppefag for skolen fra
 
 Timeplanen kan selvsagt endres på et senere tidspunkt.
 
-Det anbefales å gjøre timeplanen for hele skoleåret ferdig så tidlig som mulig. Når timeplanen for hele skoleåret er på plass, kan man kjøre rapport som viser hvor mange timer som er timeplanlagt i det enkelte fag. Timeplanlegger kan da få konrollert at hvert fag har fått nok timer jamført med fagets fagplan. Justeringer kan om nødvendig gjøres for enkelte uker for å komme i mål.
+Det anbefales å gjøre timeplanen for hele skoleåret ferdig så tidlig som mulig. Når timeplanen for hele skoleåret er på plass, kan man kjøre rapport som viser hvor mange timer som er timeplanlagt i det enkelte fag, se _Timeplan>Rapporter>Sum undervisning_. Timeplanlegger kan da få konrollert at hvert fag har fått nok timer jamført med fagets fagplan. Justeringer kan om nødvendig gjøres for enkelte uker for å komme i mål.
