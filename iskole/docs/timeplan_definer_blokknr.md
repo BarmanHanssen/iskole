@@ -37,7 +37,6 @@ Dersom gruppene gis ID fra _Time- og fagfordeling>Gruppefag_ (anbefales!), vil p
 :::
 
 ### Trinn 
-Benyttes dersom elevene selv skal kunne velge gruppefag for neste skoleår. Det er årets vg1- og vg2-elever som er aktuelle kandidater til å velge gruppefag for neste skoleår. De blir da henholdsvis vg2- og vg3-elever og kan da velge kun fag med ulik ID.
+Benyttes dersom elevene selv skal kunne velge gruppefag for neste skoleår. Det er årets vg1- og vg2-elever som er aktuelle kandidater til å velge gruppefag for neste skoleår. De blir da henholdsvis vg2- og vg3-elever og kan da kun velge fag med ulik ID. 
 
-
-Se figuren ovenfor: Eksempelvis kan neste års vg2-elever (trinn 2) bare kunne velge fag som fra _Time- og fagfordeling>Gruppefag_ er markert med id=6. 
+Se figuren ovenfor: Eksempelvis kan neste års vg2-elever (trinn 2) bare kunne velge et fag fra _Time- og fagfordeling>Gruppefag_ som er har ID=4, og et fag som har ID=5. 
