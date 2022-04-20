@@ -7,7 +7,7 @@ sidebar_label: Blokknr gruppefag
 ## Innledning
 
 :::note Merk
-Blokknummeret må være timeplanlgt fra _Timeplan blokknr_ før blokknr kan reigstreres på gruppefag. Før blokknumrene er timeplanlagt, kan man imidlertid reservere tider for gruppefagene på klassens timeplan fra _Blokknr klasse_.
+Blokknummeret må være timeplanlagt fra _Timeplan blokknr_ før blokknr kan reigstreres på gruppefag. Før blokknumrene er timeplanlagt, kan man imidlertid reservere tider for gruppefagene på klassens timeplan fra _Blokknr klasse_.
 :::
 
 Skjermbildet viser hvordan fagene er gruppert i forhold til hverandre. Gruppefag med lik timeplan har like blokknumre. 
