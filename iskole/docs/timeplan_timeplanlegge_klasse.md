@@ -30,7 +30,7 @@ Her vises alle fag som klassen er satt opp med (fra _Grunnlagsdata>Fag>Klassefag
 - Dersom faget ikke skal ha timer i denne uken, reduseres timetallet til null. 
 - Dersom noen fag allerede er timeplanlagt, vises antallet timeplanlagte timer i kolonnen _TP-lagt_. Se på faget NAT, som skal ha 6 timer, hvorav 2 timer er lagt på tirsdag. Vi ser da at 4 timer _Gjenstår i faget_. 
 - En timeplanlagt time kan fjernes fra timeplanen ved å høyreklikke på timen. Da justeres _Gjenstår i faget_.
-- Det er mulig å legge til fag direkte herfra (se _+Legg til_). Forutsetningen er at faget er tilgjengelig (Se på klassen fra Grunnlagsdata>Fag_, klikk på _Endre_).
+- Det er mulig å legge til fag direkte herfra (se _+Legg til_). Forutsetningen er at faget er tilgjengelig (Se på klassen fra _Grunnlagsdata>Fag_, klikk på _Endre_).
 
 Under listen med fag finner man en nedtrekkslisten _Rom_. Her vises alle rom som er registrert fra _Grunnlagsdata>Rom_. Merk at dersom klassen har fått tildelt rom fra _Grunnlagsdata>Klasse_, vil klassens rom være forhåndsvalgt når klassefagene timeplanlegges. Det er mulig å endre rom. Før timen lagres, vil systemet kontrollere at valgte rom er ledig. Det også mulig å utsette valg av rom, altså la timen stå registrert uten rom.
 
