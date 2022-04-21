@@ -23,7 +23,7 @@ Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og 
 ![image](https://user-images.githubusercontent.com/80097133/118976457-513a0080-b975-11eb-80d5-79a9b382adae.png)
 
 Timetallet er det mulig å endre. Det er hentet fra _Grunnlagsdata>Fag_ og kan endres også derfra. 
-Rom Z107 er også hentet fra _Grunnlagsdata>Fag_ og vil bli foreslått når Romnr skal utfylles. Her er  det valgt rom Y202.
+Rom Z107 er også hentet fra _Grunnlagsdata>Fag_ og vil bli foreslått når Romnr skal utfylles. Her har timeplanlegger valgt å endre rom for faget, det valgt rom Y202 fra nedtrekkslisten som viser mulige rom.
 
 Dersom man nå skal registrere blokknr på et nytt gruppefag, vil skjermbildet bli slik:
 ![bilde](https://user-images.githubusercontent.com/80097133/160113124-95ebbf9b-4d55-47df-bb4a-54c7637a418a.png)
