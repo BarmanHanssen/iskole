@@ -50,7 +50,13 @@ Det er viktig å få registrert sluttet-dato når den foreligger. Etter denne da
 - Pedagogisk ansatt: Hukes av dersom vedkommende skal kunne ha undervisningsoppdrag.
 - Prosent: Deltidsansatte har mindre enn 100 % stilling.
 
-En god del av de øvrige felt er til nytte under arbeid med budsjett, og er av mindre betydning for private skoler...
+### Undervisningsfag
+
+Disse legges automatisk til ut fra tidligere undervisning i faget, gruppert på fagkode. Se under menyvalget _Ansatt_, under Diverse. Merk at man manuelt kan legge til , endre og slette fag fra listen. _Gyldig til_ er hentet fra fagkoderegisteret. Fag som er utgått, markeres med rød farge, og kan slettes.
+ 
+ ![bilde](https://user-images.githubusercontent.com/80097133/146923256-e37bbe42-72a8-4425-b64c-7e01c789c3b1.png)
+
+
 
 
 
