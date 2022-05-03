@@ -8,8 +8,8 @@ Når en lærer blir registrert som kontaktlærer for en, eller flere, elever, ti
 Under planleggingen av neste års time- og fagfordeling kan det være greit å planlegge hvem som skal være kontaktlærere,
 For å få full oversikt over ressursforbruket til kontaktlærere før neste års elever er tatt inn, kan en benytte to fremgangsmåter:
 
-1. Ressursen legges den enkelte kontaktlærer som Annet tillegg. Se 
-2. Ressursen registreres ved å knytte læreren som kontaktlærer til en elev.
+- Ressursen legges den enkelte kontaktlærer som Annet tillegg. Se mynyvalget _Andre ressurser_.
+- Ressursen registreres ved å knytte læreren som kontaktlærer til en elev.
  
 Benyttes 1: må man enkeltvis legge inn ressursen på hver lærer, og senere fjerne den når elevene er kommet på plass og riktig registreringen av kontaktlærer  foretas. 
 
