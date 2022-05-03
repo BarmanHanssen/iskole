@@ -36,7 +36,7 @@ Det er rektor/administrator som fra menyvalget _Tilgang_ kan åpne for reservasj
 _Egne reserveringer_: Her får du oversikt over alle rom som du har reservert for denne uken.
 
 ## Lærertimeplan
-Her finner du timeplanen til samtlige lærere ved skolen. Nedtrekkslisten inneholder derfor navnene til alle som har undervisning ved skolen inneværende planperiode. Planleggingsdager er markert med gul, fridager med fiolett farge. Uker uten undervisning vises ikke. Klikk på en time for å få flere detaljer!
+Her finner du timeplanen til samtlige lærere ved skolen. Nedtrekkslisten inneholder derfor navnene til alle som har undervisning ved skolen inneværende planperiode. Planleggingsdager er markert med gul, fridager med fiolett farge. Uker uten undervisning vises ikke. Klikk på en time for å få flere detaljer! 
 
 ## Elevtimeplan
 Her finner du timeplanen til samtlige elever ved skolen.
