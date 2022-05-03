@@ -5,17 +5,17 @@ sidebar_label: Vikar i fag
 ---
 Vikar i fag benyttes ved kortvarig endring på timeplanen fordi en lærer ikke kan utføre planlagt undervisning i sine fag. 
 
-Dersom vikaren tar alle timene i et fag i flere uker, kan det være enklere/mer hensiktsmessig å legge vikaren inn for disse ukene fra _Klassefag/Gruppefag_. Da mister man muligheten til å samtidig å registrere et timene skal utbetales som vikariat, og det markeres heller ikke på timeplanen til læreren og involverte elever i faget at dette egentlig er et vikariat.
+Dersom vikaren tar alle timene i et fag i en eller flere uker, kan det være enklere/mer hensiktsmessig å legge vikaren inn for disse ukene fra _Klassefag/Gruppefag_. Da mister man muligheten til å samtidig å registrere et timene skal utbetales som vikariat, og det markeres heller ikke på timeplanen til læreren, vikaren og involverte elever i faget at dette egentlig er et vikariat.
 
-Ved plutselig sykdom kan man registrere inn vikar for en dag, eller kanskje flere dager. For å dekke et vikariatet i et 5-timers fag trengs kanskje mer enn en lærer, det går greit siden vikaren settes inn på time-basis.
+Man kan registrere inn vikar for en eller flere timer i et fag, for en dag, eller kanskje flere dager. For å dekke et vikarbehovet i et 5-timers fag trengs kanskje mer enn en lærer, det går greit siden vikaren settes inn på time-basis.
 
-Når vikaren er lagt inn, vil timene være markert som vikariat på timeplanen til vikaren, og til alle elevene som har fag.
+Når vikaren er lagt inn, vil timene til vikaren være markert på timeplanen til læreren, vikaren og til alle elevene som har fag.
 
 ## Registrering av vikar
 
 ![bilde](https://user-images.githubusercontent.com/80097133/146921036-c0d7c2d4-47d2-42f9-be4a-750023f8d760.png)
 
-Velg først hvem som _Skal ha vikar_, klikk deretter på riktig time. Du får da opp listen med alle lærerne på skolen. De som har undervisnings-erfaring i faget kommer først. I eksemplet er det ingen. 
+Velg først hvem som _Skal ha vikar_, klikk deretter på riktig time. Du får da opp listen med alle ansatte markert som _Pedagogisk ansatt_ på skolen. De som har undervisnings-erfaring i faget kommer først. I eksemplet er det ingen. Verdien JA/NEI i kolonnen _Kompetanse_ hentes fra _Personal>Ansatt_, se _Undervisningsfag_.
 
 
 
