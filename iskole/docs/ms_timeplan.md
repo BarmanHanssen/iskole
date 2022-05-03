@@ -4,7 +4,7 @@ title: Timeplan
 sidebar_label: Timeplan
 ---
 
-_Min timeplan_ er standardvalget første gang timeplanen vises. Når du logger på iSkole, vil du automatisk komme til gjeldende uke. Men du kan fritt velge en annen uke fra nedtrekkslisten.  Hvis du endrer uke, vil dette bli gjeldende uke også for nye menyvalg.
+_Min timeplan_ er standardvalget når man klikker på _Timeplan_. Når du logger på iSkole, vil du automatisk komme til gjeldende uke. Men du kan fritt velge en annen uke fra nedtrekkslisten.  Hvis du endrer uke, vil dette bli gjeldende uke også for nye menyvalg.
 
 :::note Merk
 Bruk valget _Zoom_ for å tilpasse visningen av timeplanen til skjermen du benytter. 
