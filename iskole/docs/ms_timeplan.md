@@ -23,7 +23,7 @@ Her viser alle dine fag på listeform, samt eventuell tillegg. Summen er din sti
 ## Romtimeplan
 Her vises timeplanen til et bestemt rom. Alle rom som kan timeplanlegges, finner du i nedtrekkslisten. 
 
-Dersom du kan reservere rommet, vil ledige timer være farget grønn. Ved å klikke på en grønn boks vil det automatisk opprettes en reservasjon med teksten _Reservert_.  Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. 
+Dersom du kan reservere rommet, vil ledige timer være farget grønn. Merk at du kan reservere et rom i en time hvor du allerede er opptatt med undervisning. Ved å klikke på en grønn boks vil det automatisk opprettes en reservasjon med teksten _Reservert_.  Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. 
 
 Rommet blir bare reservert for denne ene uken.
 
