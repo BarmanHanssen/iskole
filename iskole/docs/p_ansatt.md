@@ -47,8 +47,8 @@ Det er viktig å få registrert sluttet-dato når den foreligger. Etter denne da
 - Avdeling: Større skoler kan ha nytte av å knytte ansatte til en, eller flere, avdelinger. Fra _Grunnlagsdata>Skole_ kan en registrere avdelinger.
 
 ### Ansettelse og ansiennitet
-- Pedagogisk ansatt: Hukes av dersom vedkommende skal kunne ha undervisningsoppdrag.
-- Prosent: Deltidsansatte har mindre enn 100 % stilling.
+- Pedagogisk ansatt: Hukes av dersom vedkommende skal kunne ha undervisningsoppdrag. Fra _Time- og fagfordeling_ kan bare pedagogisk ansatte registreres som faglærer. 
+- Prosent: Deltidsansatte har mindre enn 100 % stilling. Fra _Time- og fagfordeling>Stillingsstørrelser_ fremkommer avviket mellom stillingsstørrelsen og registrerte pålagte oppgaver (undervisning og annet).
 
 ### Undervisningsfag
 
