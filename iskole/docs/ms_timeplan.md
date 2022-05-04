@@ -25,7 +25,7 @@ Her vises timeplanen til et bestemt rom. Alle rom som kan timeplanlegges, finner
 
 Dersom du kan reservere rommet, vil ledige timer være farget grønn. Merk at du kan reservere et ekstra rom i en time hvor du allerede er opptatt med undervisning et annet sted. Ved å klikke på en grønn boks vil det automatisk opprettes en reservasjon med teksten _Reservert_.  Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. 
 
-Rommet blir bare reservert for denne ene uken.
+Rommet blir bare reservert for denne ene uken. 
 
 For å slette reservert time venstreklikker du på timen.  
 
