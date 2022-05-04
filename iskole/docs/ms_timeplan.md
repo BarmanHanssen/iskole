@@ -36,16 +36,16 @@ Det er rektor/administrator som fra menyvalget _Tilgang_ kan åpne for reservasj
 _Egne reserveringer_: Her får du oversikt over alle rom som du har reservert for denne uken.
 
 ## Lærertimeplan
-Her finner du timeplanen til samtlige lærere ved skolen. Nedtrekkslisten inneholder derfor navnene til alle som har undervisning ved skolen inneværende planperiode. Planleggingsdager er markert med gul, fridager med fiolett farge. Uker uten undervisning vises ikke. Klikk på en time for å få flere detaljer! 
+Her finner du timeplanen til samtlige lærere ved skolen. Nedtrekkslisten inneholder derfor navnene til alle som har undervisning ved skolen inneværende planperiode. Planleggingsdager er markert med gul, fridager med fiolett og vikartimer med grønn farge. Uker uten undervisning vises ikke. Klikk på en time for å få flere detaljer. Da vises også fagets navn, når timen slutter, eventuell vikar og om også tolærer er tilknyttet timen.
 
 ## Elevtimeplan
 Her finner du timeplanen til samtlige elever ved skolen.
-Søk etter elever ved å klikke på forstørrelsesglasset. Velg ønsket elev og klikk _Lukk_. For elever vises timer med fravær og forsentkomming med henholdsvis rød og grønn farge. Klikker du på timen fås flere detaljer frem.
+Søk etter elever ved å klikke på forstørrelsesglasset. Velg ønsket elev og klikk _Lukk_. For elever vises timer med fravær og forsentkomming med henholdsvis rød og grønn farge. Klikker du på timen får du også frem fagets navn, når timen slutter, om det er notert fravær og egenmelding for eventuelt fravær.
 Prøver for valgte elev denne uken vises i grønt øverst i kalenderen. 
 
 _Ukeplan_: Dersom faglærer har lagt inn ukeplan for gjeldende uke, vil planen i faget vises her. 
 
-_Faglærere_: Her vises faglærere, og eventuelle tolærere, i alle elevens klasse- og gruppefag. 
+_Faglærere_: Her vises alle klasse- og gruppefag eleven følger, med faglærer, og eventuelle tolærere.
 
 ## Klassetimeplan
 Nedtrekkslisten inneholder bare klasser som har fått timer lagt ut på timeplanen. Klassefag kommer på blå bakgrunn. Elevenes gruppefag har grønn bakgrunn. Bare gruppefag som minst en elev i klassen har valgt kommer med. 
