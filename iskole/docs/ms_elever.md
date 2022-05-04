@@ -13,11 +13,14 @@ Siden inneholder inntil tre ulike faner, _Kontaktelever, Søk etter elev_ og _El
 
 Hvis du er kontaktlærer vil alle dine elever vises i fanen _Kontaktelever_. Kolonnen _Sist innlogget_ viser når eleven eller den foresatte sist var innlogget, dette hjelper deg til å se om elevene benytter iSkole.
 
+#### Detaljer
+Her vises de samme data som eleven selv kan få frem fra iSkole. Tar ikke detaljeneher, men viser undermenyene:
+![bilde](https://user-images.githubusercontent.com/80097133/166658921-edc8b55d-f71c-4ec1-b7f8-ee3e646fb3ca.png)
+
 ![bilde](https://user-images.githubusercontent.com/80097133/166649933-ac26c2d9-efe0-42a8-a3f6-6c8ed20351ce.png)
 
 Som kontaktlærer kan du legge til vikarer eller assistenter for en spesifisert periode. Vikaren vil få de samme rettighetene som du har både til å se informasjon om eleven, føre fravær, registrere elevsamtaler og ta ut rapporter.
 
-Her vises de samme data som eleven selv kan få frem fra iSkole.
 
 
 ## _Elever i mine fag_
