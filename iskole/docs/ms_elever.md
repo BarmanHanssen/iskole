@@ -17,6 +17,9 @@ Hvis du er kontaktlærer vil alle dine elever vises i fanen _Kontaktelever_. Kol
 
 Som kontaktlærer kan du legge til vikarer eller assistenter for en spesifisert periode. Vikaren vil få de samme rettighetene som du har både til å se informasjon om eleven, føre fravær, registrere elevsamtaler og ta ut rapporter.
 
+Her vises de samme data som eleven selv kan få frem fra iSkole.
+
+
 ## _Elever i mine fag_
 Tabellen viser elevene i faget valgt i nedtrekkslisten. Faglæreren har får bare informasjon om _Timeplan, Fravær, Orden/atferd_ og _Programfag til valg_ til den enkelte elev.
 
