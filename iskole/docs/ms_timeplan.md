@@ -27,7 +27,7 @@ Dersom du kan reservere rommet, vil ledige timer være farget grønn. Merk at du
 
 Rommet blir bare reservert for denne ene uken.
 
-For å slette reservert time venstreklikker du på timen. 
+For å slette reservert time venstreklikker du på timen.  
 
 _Rom som du kan reservere_:  
 Det er kun rom fra denne listen du kan reservere til deg selv. Disse rommenes fritimer vil vises med grønn farge under arkfanen _Romtimeplan_.
