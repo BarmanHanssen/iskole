@@ -35,5 +35,6 @@ Søk kan gjøres basert på klasse, navn eller elevnr. Søkeresultatet vises i e
 Det er ikke nødvendig å skrive hele navnet på eleven, ofte holder det med et par bokstaver fra for- og etternavnet. % kan benyttes i søket for å angi at det kan være hva som helst. Er du usikker på om eleven heter Nordmann eller Normann, kan du søke etter Nor%mann.
 :::
 
-Her vises de samme data som eleven selv kan få frem fra iSkole.
+#### Detaljer
+Undermenyene er vist ovenfor.
 
