@@ -12,4 +12,5 @@ Kontaktlærer kan her dokumentere avholdte elevsamtaler. Her fås også en overs
 Klikk på blyant-ikonet i kolonnen _Behandle_ for å registrere en elevsamtale. 
 Velg dato fra kalenderen og klikk på knappen _Lagre_. Skriv inn referat av samtalen og klikke _Lagre_. Du kan lagre flere ganger underveis. Her har du også mulighet til å slette samtalen. Klikk på lenken _Tilbake til elevsamtalene_ for å komme til listen over elevens samtaler. Du har bare mulighet til å endre eller slette elevsamtalen frem til eleven kvittérer. 
 
- _Søk etter elev_: Elevinspektører får også fram dette menyvalget. Elevinspektøren kan da legge inn elevsamtaler på samme måte som beskrevet over. Det er kun mulig å endre, eller slette, elevsamtaler man selv har skrevet.
+ _Søk etter elev_
+Elevinspektører får også fram dette menyvalget. Elevinspektøren kan da legge inn elevsamtaler på samme måte som beskrevet over. Det er kun mulig å endre, eller slette, elevsamtaler man selv har skrevet.
