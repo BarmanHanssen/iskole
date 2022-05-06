@@ -20,7 +20,7 @@ Vi registrer hvordan vi har tenkt å sette opp timeplanen for gruppefagene, uten
 Gruppefagene har typisk fem undervisningstimer per uke. Vanlig oppsett for videregående skoler er at man planlegger for opptil 35 uketimer til undervisning. Herav planlegges det gjerne å avsette 25 til 30 timer per uke  til undervisning av gruppefag, hvilket tilsvarer 5 eller 6 Id-er (hvor hvert fag typisk tildeles en Id, og hvor hver Id legger beslag på 5 blokknr, altså 5 timer). Timetallet settes til minimum _Antall blokid_ x 5, og kan oppjusteres ved behov.
 
 ## Gruppering av timer til valg
-Det er mulig å benytte gruppefag, og timeplanlegging av disse, uten å benytte ID, eller koplinen mellom ID og blokknr. Men det anbefales å benytte denne muligheten, da det gir bedre oversiikt, og letter arbeidet videre.
+Det er mulig å benytte gruppefag, og timeplanlegging av disse, uten å benytte ID, eller koplingen mellom ID og blokknr. Men det anbefales å benytte denne muligheten, da det gir bedre oversiikt, og letter arbeidet videre.
 
 Vi grupperer på to måter:
 - ID: Fag med lik ID skal ha lik timeplan. Altså kan en elev bare velge gruppefag med ulike ID-er.
