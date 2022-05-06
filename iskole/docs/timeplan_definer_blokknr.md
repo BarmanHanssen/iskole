@@ -34,7 +34,7 @@ Dersom man benytte fortløpende nummerering av Blokknr gir det  god visuell over
 :::note Tips
 Dersom gruppene gis ID fra _Time- og fagfordeling>Gruppefag_ (anbefales!), vil plassering av blokknumrene på fagene (fra _Blokknr gruppefag_) gå raskt. Blokknumrene kan da plasseres på hvert fag ut fra fagets ID.
 :::
-
+ 
 ### Trinn 
 Benyttes dersom elevene selv skal kunne velge gruppefag for neste skoleår. For at elevene skal kunne valge gruppefag for neste skoleår kreves følgende: 
 1. Neste års planperiode må være opprettet. (Se Grunnlagsdata>Planperiode)
