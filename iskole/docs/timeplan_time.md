@@ -1,10 +1,11 @@
-#### For en helhetlig gjennomgang av timeplanlegging med iSkole som hjelpemmel henvises det til _Emner>Timeplanlegging_.
 
 ---
 id: timeplan_time
 title: Time
 sidebar_label: Time
 ---
+
+### For en helhetlig gjennomgang av timeplanlegging med iSkole som hjelpemmel henvises det til _Emner>Timeplanlegging_.
 
 En time på timeplanen er bestemt ved at vi angir når timen starter, og når den slutter. Lengden på hver time bestemmes herfra, og må ikke nødvendigvis være 45 eller 60 minutter.
 
