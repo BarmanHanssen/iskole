@@ -1,3 +1,5 @@
+For en helhetlig gjennomgang av timeplanlegging henvises det til _Emner>Timeplanlegging_.
+
 ---
 id: timeplan_time
 title: Time
