@@ -1,4 +1,3 @@
-
 ---
 id: timeplan_time
 title: Time
