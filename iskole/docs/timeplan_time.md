@@ -1,4 +1,4 @@
-For en helhetlig gjennomgang av timeplanlegging henvises det til _Emner>Timeplanlegging_.
+#### For en helhetlig gjennomgang av timeplanlegging med iSkole som hjelpemmel henvises det til _Emner>Timeplanlegging_.
 
 ---
 id: timeplan_time
