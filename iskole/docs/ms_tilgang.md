@@ -40,9 +40,9 @@ Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, 
 ![image](https://user-images.githubusercontent.com/80097133/120457815-0b2e6500-c397-11eb-9157-96711b25ea38.png)
 
 ## Elevers valg av programfag
-Dersom elevene kan velge fag i tillegg til klassefagene, kan elevene foreta valget direkte fra iSkole. Det er gruppefag som kan velges. Fagvalget foretas vanligvis i januar/februar og gjelder for fag som skal påbegynnes neste skoleår. Valget forutsetter at neste års planperiode er opprettet.  Deretter at det er opprettet grupper i de aktuelle valgfagene (fra Time- og fagfordeling>Gruppefag),  og at de av årets elever som skal velge fag er flyttet opp til neste års planperiode (fra Elevadmin.>Oppflytting). 
+Dersom elevene kan velge fag i tillegg til klassefagene, kan elevene foreta valget direkte fra iSkole. Det er gruppefag som kan velges. Fagvalget foretas vanligvis i januar/februar og gjelder for fag som skal påbegynnes neste skoleår. Valget forutsetter derfor at neste års planperiode er opprettet.  Deretter at det er opprettet grupper i de aktuelle valgfagene (fra Time- og fagfordeling>Gruppefag),  og at de av årets elever som skal velge fag er flyttet opp til neste års planperiode (fra Elevadmin.>Oppflytting). 
 
-For nærmere orientering om opplegget vedrørende elevenes valg av programfag: Se _Timeplan>Definer blokknr_.
+For nærmere orientering om opplegget vedrørende elevenes valg av gruppefag: Se _Timeplan>Definer blokknr_.
 
 ## Stenging
 Det er mulig å stenge iSkole for en gitt periode. I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Dette gjøres ved å velge planperioden det gjelder og deretter velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan logge inn på iSkole, men får ikke tilgang timeplanen. De menyvalgene som viser timeplan og fag vises først etter _Tilgjengelig fra_.
