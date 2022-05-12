@@ -40,7 +40,7 @@ Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, 
 ![image](https://user-images.githubusercontent.com/80097133/120457815-0b2e6500-c397-11eb-9157-96711b25ea38.png)
 
 ## Elevers valg av programfag
-Dersom elevene skal velge fag i tillegg til fellesfagene som alle elevene i klassen skal følge, kan dette fagvalget gjøres direkte fra iSkole. Det er gruppefag som kan velges. Fagvalget foretas vanligvis i januar/februar og gjelder for fag som skal påbegynnes neste skoleår. Valget forutsetter at neste års planperiode er opprettet.  Deretter at det er opprettet grupper i de aktuelle valgfagene (fra Time- og fagfordeling>Gruppefag),  og at de av årets elever som skal velge fag er flyttet opp til neste års planperiode (fra Elevadmin.>Oppflytting). 
+Dersom elevene skal velge fag i tillegg til klassefagene som alle elevene i klassen skal følge, kan elevene foreta valget direkte fra iSkole. Det er gruppefag som kan velges. Fagvalget foretas vanligvis i januar/februar og gjelder for fag som skal påbegynnes neste skoleår. Valget forutsetter at neste års planperiode er opprettet.  Deretter at det er opprettet grupper i de aktuelle valgfagene (fra Time- og fagfordeling>Gruppefag),  og at de av årets elever som skal velge fag er flyttet opp til neste års planperiode (fra Elevadmin.>Oppflytting). 
 
 For nærmere orientering om opplegget vedrørende elevenes valg av programfag: Se _Timeplan>Definer blokknr_.
 
