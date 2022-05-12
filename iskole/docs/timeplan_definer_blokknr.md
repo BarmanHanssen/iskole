@@ -37,10 +37,10 @@ Dersom gruppene gis ID fra _Time- og fagfordeling>Gruppefag_ (anbefales!), vil p
  
 ### Trinn 
 Benyttes dersom elevene selv skal kunne velge gruppefag for neste skoleår. For at elevene skal kunne valge gruppefag for neste skoleår kreves følgende: 
-- Neste års planperiode er opprettet. (Se Grunnlagsdata>Planperiode)
-- Gruppefagene som skal kunne velges er opprettet i neste års planperiode, og tildeldelt ID. (Se Time- og fagfordeling>Gruppefag)
-- Årets elever som skal kunne velge gruppefag må flyttes opp til neste planperiode. (Se Elevadmin.>Oppflytting)
-- Det er åpnet et tidsintervall fra årets planperiode for når valget kan finne sted. (Se Mine sider>Tilgang>Elevers valg av gruppefag)
+- Neste års planperiode er opprettet. (Se _Grunnlagsdata>Planperiode_)
+- Gruppefagene som skal kunne velges er opprettet i neste års planperiode, og tildeldelt ID. (Se _Time- og fagfordeling>Gruppefag_)
+- Årets elever som skal kunne velge gruppefag må flyttes opp til neste planperiode. (Se _Elevadmin.>Oppflytting_)
+- Det er åpnet et tidsintervall fra årets planperiode for når valget kan finne sted. (Se _Mine sider>Tilgang>Elevers valg av gruppefag_)
 
 Det er altså årets vg1- og vg2-elever som er aktuelle kandidater til å velge gruppefag for neste skoleår. De blir da henholdsvis vg2- og vg3-elever og kan velge fag registrert med ID, og kan kun velge fag med ulik ID. 
 
