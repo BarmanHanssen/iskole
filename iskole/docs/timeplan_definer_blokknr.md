@@ -29,7 +29,7 @@ Vi grupperer på to måter:
 Gruppefagene kan knyttes til en ID fra _Time- og fagfordeling>Gruppefag_, begrenset til de registrerte ID-er som er lagt inn her. Dersom elevene selv skal kunne få velge gruppefag for neste skoleår: Se _Mine sider>Tilgang>Elevers valg av programfag_.
 
 ### Blokknr
-Dersom man benytte fortløpende nummerering av Blokknr gir det  god visuell oversikt når gruppefagene tildeles blokknr fra _Blokknr gruppefag_. Vanligvis har gruppefagene 5 timer per uke. Fag med mindre enn 5 timer kan ligge i en blokk med 5 timer, hvilke bloknr som skal benyttes bestemmes fra _Blokknr gruppefag_. Dersom noen fag har mer enn 5 timer, kan de overskytende timer også plasseres fra _Blokknr gruppefag_. 
+Dersom man benytte fortløpende nummerering av blokknr gir det  god visuell oversikt når gruppefagene tildeles blokknr fra _Blokknr gruppefag_. Vanligvis har gruppefagene 5 timer per uke. Fag med mindre enn 5 timer kan ligge i en blokk med 5 timer, hvilke bloknr som skal benyttes bestemmes fra _Blokknr gruppefag_. Dersom noen fag har mer enn 5 timer, kan de overskytende timer også plasseres fra _Blokknr gruppefag_. 
 
 :::note Tips
 Dersom gruppene gis ID fra _Time- og fagfordeling>Gruppefag_ (anbefales!), vil plassering av blokknumrene på fagene (fra _Blokknr gruppefag_) gå raskt. Blokknumrene kan da plasseres på hvert fag ut fra fagets ID.
