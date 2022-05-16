@@ -4,14 +4,17 @@ title: Blokknr klasse
 sidebar_label: Blokknr klasse
 ---
 
-Hva skal timeplanlegges først, klasse- eller gruppe-fagene? Uansett rekkefølge, en må tenke enhetelig på timeplanen under hele prosessen. 
+Hva skal timeplanlegges først, klasse- eller gruppe-fagene? Uansett rekkefølge, litt planlegging før start vil lønne seg! 
 
 ## Dersom klassefagene skal timeplanlegges først
 
-Det vil være hensiktsmessig å ha en plan for hvor gruppefagene skal plasseres. Gruppefagene kan da plasseres i etttertid der vi har avsatt tid for disse. Dersom disse timene er bestemt, og vises på timeplanen når klassefagene skal legges, unngås konflikt og endringer på klassetimeplanen. Og gruppefagene kan sømløst få  sin timeplan på plass i ettertid.
+Det kan være hensiktsmessig å ha bestemt hvor gruppefagene skal plasseres. Gruppefagene kan da plasseres i ettertid der vi har avsatt tid for disse. Dersom disse timene er bestemt, og vises på timeplanen når klassefagene skal legges, unngås konflikt og endringer på klassetimeplanen. Og gruppene kan sømløst få sin timeplan ferdigstillet når gruppene, med elever, er på plass.
 
-Det trengs altså en metode for å tilkjenngi at en time skal reserveres for gruppefag. Vi benytter blokknummer. For at metoden skal fungere, må blokknumrene være timeplanlagt når klassefagene skal timeplanlegges. Men det er mulig å planlegge blokkeringen før blokknumrene er timeplanlagt.
+Det trengs da en metode for å tilkjenngi at en time skal reserveres for gruppefag. Vi benytter blokknummer. For at metoden skal fungere, må blokknumrene være timeplanlagt (fra _Timeplanlegge blokknr_) innen klassefagene timeplanlegges. 
 
+:::note Merk 
+Blokkering for timeplanlegging av klassefag kan benyttes selv om en ikke benytter gruppefag. Og at det er mulig å blokkere før blokknumrene er timeplanlagt.
+:::
 
 
 Hensikten med dette valget:
