@@ -33,7 +33,7 @@ Velg Romnr for første blokknr. Dette rommet tas automatisk med videre som førs
 Når man trykker på _Lagre_, vil iSkole først sjekke at blokknumrene er timeplanlagt, og deretter at foreslåtte blokknr ikke kommer i konflikt med annen aktivtet for fagets lærer. Dersom elever er registrert i gruppefag, gjøres også sjekk mot deres timeplan. Også romvalget kontrollleres. Dersom ingen kollisjoner påvises, vil blokknumrene for faget lagres. Da er faget ferdig timeplanlagt, og vil nå vises på faglærers, og alle fagets elevers timeplan.
 
 :::note Merk
-Det kan i ettertid være aktuelt å gjøre endringer for en eller flere uker. Eksempel: I løpet av skoleåret skal et fag ha flere timer en periode, og færre timer en annen periode ("ploging"). Derom færre timer kan en fjerne blokknr for timer som skal utgå. For å legge til ekstra timer må man øke timetallet og legge inn blokknr og rom på ekstratimene.
+Det kan i ettertid være aktuelt å gjøre endringer for en eller flere uker. Eksempel: I løpet av skoleåret skal et fag ha flere timer en periode, og færre timer en annen periode ("ploging"). Dersom færre timer kan en fjerne blokknr for timer som skal utgå. For å legge til ekstra timer må man øke timetallet og legge inn blokknr og rom på ekstratimene.
 :::
 
 ## Endre blokknr
