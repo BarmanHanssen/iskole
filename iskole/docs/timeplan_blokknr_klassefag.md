@@ -6,6 +6,21 @@ sidebar_label: Blokknr klasse
 
 Hva skal timeplanlegges først, klasse- eller gruppe-fagene? Uansett rekkefølge, litt planlegging før start vil lønne seg! 
 
+
+## Dersom gruppefagene timeplanlegges først
+
+:::note Merk
+Dersom elevenes valg av gruppefag er gjennomført, og i tillegg følgende er på plass: 
+1. Gruppefagenes blokknr er registert (fra _Blokknr gruppefag_).
+2. Blokknumrene er timeplanlagt (fra _Timeplanlegge blokknr_).
+
+Da vil timene som elevene i en klasse skal følge i sine gruppefag automatisk være blokkert for timeplanlegging av klassefag.
+:::
+
+Blokknumrene til gruppefag som klassens elever har valgt listes opp. Disse blokknumrenes timeplan vil automatisk blokkere for timeplanlegging av klassefag. Dersom det skulle være behov for ytterligere blokkering for klassefag må dette gjøres separat (se nedenfor).
+
+Dersom det er praktisk mulig, vil vi anbefale at prosessen med elevers valg av gruppefag er gjennomført, og at gruppefagene er timeplanlagt før klassens timeplan legges. Men det dersom en ønsker å timeplanlegge klassefagene først, kan en gjøre det. Det kan da være hensiktsmessig å avsette plass til gruppefage, selv om dette oppsettet ikke er klargjort. Se neste avsnitt!
+
 ## Dersom klassefagene timeplanlegges først
 
 Hensikten med dette valget:
@@ -20,17 +35,6 @@ Det trengs da en metode for å tilkjenngi at en time skal reserveres for gruppef
 Blokkering for timeplanlegging av klassefag kan benyttes selv om en ikke benytter gruppefag. Og at det er mulig å registrere blokknr før blokknumrene er timeplanlagt.
 :::
 
-## Dersom gruppefagene timeplanlegges først
-
-:::note Merk
-Dersom elevenes valg av gruppefag er gjennomført, og i tillegg følgende er på plass: 
-1. Gruppefagenes blokknr er registert (fra _Blokknr gruppefag_).
-2. Blokknumrene er timeplanlagt (fra _Timeplanlegge blokknr_).
-
-Da vil timene som elevene i en klasse skal følge i sine gruppefag automatisk være blokkert for timeplanlegging av klassefag.
-:::
-
-Blokknumrene til gruppefag som klassens elever har valgt listes opp. Disse blokknumrenes timeplan vil automatisk blokkere for timeplanlegging av klassefag. Dersom det skulle være behov for ytterligere blokkering for klassefag må dette gjøres separat (se ovenfor).
 
 - For klasser hvor elevene kan velge gruppefag: I tillegg til timene som gruppefagene vil legge beslag på, kan en herfra markere ekstra timer hvor klassefag ikke kan timeplanlegges. 
 
