@@ -30,7 +30,7 @@ Dersom elevenes valg av gruppefag er gjennomført, og i tillegg følgende er på
 Da vil timene som elevene i en klasse skal følge i sine gruppefag automatisk være blokkert for timeplanlegging av klassefag.
 :::
 
-Blokknumrene som dekker alle klassens elever listes opp. Dersom det er behov for ytterligere blokkering for klassefag må dette gjøres separat (se ovenfor).
+Blokknumrene til gruppefag som klassens elever har valgt listes opp. Disse blokknumrenes timeplan vil automatisk blokkere for timeplanlegging av klassefag. Dersom det skulle være behov for ytterligere blokkering for klassefag må dette gjøres separat (se ovenfor).
 
 - For klasser hvor elevene kan velge gruppefag: I tillegg til timene som gruppefagene vil legge beslag på, kan en herfra markere ekstra timer hvor klassefag ikke kan timeplanlegges. 
 
