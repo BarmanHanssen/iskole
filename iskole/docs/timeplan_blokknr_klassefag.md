@@ -16,7 +16,7 @@ Hensikten med dette valget:
 
 - Å markere at en time i valgte klasse ikke skal kunne brukes til timeplanlegging av et klassefag.
 
-Det kan være hensiktsmessig å ha bestemt hvor gruppefagene skal timeplanlegges. Da kan gruppefagene plasseres i ettertid der vi har avsatt tid for disse. Dersom timene er bestemt, uavhengig av valg av gruppefag, og vises på timeplanen når klassefagene skal legges, unngås konflikt og endringer på klassetimeplanen. Og gruppene kan sømløst få sin timeplan ferdigstillet når gruppene, med elever, er på plass.
+Det kan være hensiktsmessig å ha bestemt hvor gruppefagene skal timeplanlegges. Da kan gruppefagene plasseres i ettertid der vi har avsatt tid for disse. Dersom timene er bestemt, uavhengig av valg av gruppefag, og vises på timeplanen når klassefagene skal legges, unngås konflikt og endringer på klassetimeplanen. Og gruppene kan sømløst få sin timeplan når gruppene, med elever, er på plass.
 
 Det trengs da en metode for å tilkjenngi at en time skal reserveres for gruppefag, eller av andre grunner. Vi benytter blokknummer. For at metoden skal fungere, må blokknumrene være timeplanlagt (fra _Timeplanlegge blokknr_) før klassefagene timeplanlegges. 
 
