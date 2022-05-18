@@ -26,7 +26,9 @@ Blokkering for timeplanlegging av klassefag kan benyttes selv om en ikke benytte
 Dersom elevenes valg av gruppefag er gjennomført, og i tillegg følgende er på plass: 
 1. Gruppefagenes blokknr er registert (fra _Blokknr gruppefag_).
 2. Blokknumrene er timeplanlagt (fra _Timeplanlegge blokknr_).
+3. 
 Da vil timene som elevene i en klasse skal følge i sine gruppefag automatisk være blokkert for timeplanlegging av klassefag.
+:::
 
 Blokknumrene som dekker alle klassens elever listes opp. Dersom det er behov for ytterligere blokkering for klassefag må dette gjøres separat (se ovenfor).
 
