@@ -43,18 +43,6 @@ Dersom det er praktisk mulig, vil vi anbefale at prosessen med elevers valg av g
 Blokknummer registrert under _Tildelt blokknr_ blokkerer absolutt for timeplanlegging av klassefag i denne klassen. Kan benyttes for eksempel for å legge inn en felles fritime for alle elever i en klasse. Eksempelvis kan man legge inn midt-timen (spisetid?) slik at ikke alle skolens klasser har samme tid for midt-timen. Dette kan gjøres, selv om klassen ikke har gruppefag. 
 :::
 
-### Dersom elevene i klassen kan velge gruppefag
-
-Benyttes følgende opplegg, behøver man ikke å blokkere noen timer for å få plassert gruppefagene:
-
-1. Elevenes valg av gruppefag er registrert. (Se _Mine sider>Tilgang>Elevers valg av programfag_ eller _Elevadmin.>Fag>Gruppefag_.)
-2. Blokknumrene er timeplanlagt (Fra _Timeplanlegge blokknr_)
-3. Gruppefagene har fått tildelt blokknummer. (Fra _Blokknr gruppefag_)
-
-Dersom disse tre registreringene er på plass, vil timeplanlegging av klassefag kunne finne sted uten å komme i konflikt med elevenes valg av gruppefag.
-
-Timer hvor elevene (minst en elev!) skal ha gruppefag, blir da markert på klassens timeplan (se _Timeplanlegge klasse_), og vil blokkere for timeplanlegging av  klassefag. Når så klassefagene er timeplanlagt, er timeplanen komplett for både for lærere og elever.
-
 ## Blokknummer tildelt klasse for uken
 Dersom ikke alt er på plass vedrørende punkt 1 til 3 ovenfor, men man ønsker å timeplanlegge klassefagene i en klasse hvor elevene kan velge gruppefag:
 Det kan være greit å markere, før klassefagene plasseres, hvilke timer man ønsker å avsette til gruppefag for klassen. Dette bør være bestemt før elevene kan velge gruppefag. Timene i gruppefag skal elevene kunne følge, og i disse timene kan da klassefag ikke timeplanenlegges.
