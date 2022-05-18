@@ -23,6 +23,10 @@ Dersom det er praktisk mulig, vil vi anbefale at prosessen med elevers valg av g
 
 ## Dersom klassefagene timeplanlegges først 
 
+:::note Merk 
+Blokkering for timeplanlegging av klassefag kan benyttes selv om en ikke benytter gruppefag. Og at det er mulig å registrere blokknr før blokknumrene er timeplanlagt.
+:::
+
 Hensikten med dette valget:
 
 - Å markere at en time i valgte klasse ikke skal kunne brukes til timeplanlegging av et klassefag.
@@ -31,9 +35,6 @@ Det kan være hensiktsmessig å ha bestemt hvor gruppefagene skal plasseres. Da 
 
 Det trengs da en metode for å tilkjenngi at en time skal reserveres for gruppefag, eller av andre grunner. Vi benytter blokknummer. For at metoden skal fungere, må blokknumrene være timeplanlagt (fra _Timeplanlegge blokknr_) før klassefagene timeplanlegges. 
 
-:::note Merk 
-Blokkering for timeplanlegging av klassefag kan benyttes selv om en ikke benytter gruppefag. Og at det er mulig å registrere blokknr før blokknumrene er timeplanlagt.
-:::
 
 
 - For klasser hvor elevene kan velge gruppefag: I tillegg til timene som gruppefagene vil legge beslag på, kan en herfra markere ekstra timer hvor klassefag ikke kan timeplanlegges. 
