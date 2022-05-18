@@ -38,7 +38,6 @@ Dersom det er praktisk mulig, vil vi anbefale at prosessen med elevers valg av g
 
 - For klasser hvor elevene har valgt gruppefag: I tillegg til timene som gruppefagene vil legge beslag på, kan en herfra markere ekstra timer hvor klassefag ikke kan timeplanlegges. 
 
-
 ## Blokknummer tildelt klasse for uken
 Dersom ikke alt er på plass vedrørende punkt 1 til 3 ovenfor, men man ønsker å timeplanlegge klassefagene i en klasse hvor elevene kan velge gruppefag:
 Det kan være greit å markere, før klassefagene plasseres, hvilke timer man ønsker å avsette til gruppefag for klassen. Dette bør være bestemt før elevene kan velge gruppefag. Timene i gruppefag skal elevene kunne følge, og i disse timene kan da klassefag ikke timeplanenlegges.
