@@ -31,11 +31,10 @@ Dersom elevenes valg av gruppefag er gjennomført, og i tillegg følgende er på
 Da vil timene som elevene i en klasse skal følge i sine gruppefag automatisk være blokkert for timeplanlegging av klassefag.
 :::
 
-Se
-Dersom det er praktisk mulig, vil vi anbefale at prosessen med elevers valg av gruppefag er gjennomført, og at gruppefagene er timeplanlagt før klassens timeplan legges. Men det dersom en ønsker å timeplanlegge klassefagene først, kan en gjøre det. Det kan da være hensiktsmessig å avsette plass til gruppefage, selv om dette oppsettet ikke er klargjort. Se neste avsnitt!
+Dersom det er praktisk mulig, vil vi anbefale at prosessen med elevers valg av gruppefag er gjennomført, og at gruppefagene er timeplanlagt før klassens timeplan legges. Men det dersom en ønsker å timeplanlegge klassefagene først, kan en gjøre det. Det kan da være hensiktsmessig å avsette plass til gruppefage, selv om dette oppsettet ikke er klargjort. Se nedenfor!
 
 
-- For klasser hvor elevene har valgt gruppefag: I tillegg til timene som gruppefagene vil legge beslag på, kan en herfra markere ekstra timer hvor klassefag ikke kan timeplanlegges. 
+- For klasser hvor elevene har valgt gruppefag: I tillegg til timene som gruppefagene vil legge beslag på, kan en herfra markere ekstra timer hvor klassefag ikke kan timeplanlegges. Se skjermbildet nedenfor hvor ytterligere blokknumre for klasse ID1C kan rekvireres.
 
 ## Blokknummer tildelt klasse for uken
 Dersom ikke alt er på plass vedrørende punkt 1 til 3 ovenfor, men man ønsker å timeplanlegge klassefagene i en klasse hvor elevene kan velge gruppefag:
