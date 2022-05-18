@@ -21,7 +21,7 @@ Det kan være hensiktsmessig å ha bestemt hvor gruppefagene skal plasseres. Da 
 Det trengs da en metode for å tilkjenngi at en time skal reserveres for gruppefag, eller av andre grunner. Vi benytter blokknummer. For at metoden skal fungere, må blokknumrene være timeplanlagt (fra _Timeplanlegge blokknr_) før klassefagene timeplanlegges. 
 
 
-## Dersom gruppefagene timeplanlegges først
+## Dersom gruppefagene timeplanlegges først 
 
 :::note Merk
 Dersom elevenes valg av gruppefag er gjennomført, og i tillegg følgende er på plass: 
