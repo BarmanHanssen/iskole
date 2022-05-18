@@ -18,7 +18,7 @@ Hensikten med dette valget:
 
 Det kan være greit å ha bestemt hvor gruppefagene skal timeplanlegges. Da kan aktuelle gruppefag plasseres i ettertid der vi har avsatt tid for disse. Dersom timene alt er bestemt, før valget av gruppefag, og vises på timeplanen når klassefagene skal legges, unngås konflikt og endringer på klassetimeplanen. Og gruppene kan sømløst få sin timeplan når gruppene, med elever, er på plass.
 
-Det trengs da en metode for å tilkjenngi at en time ikke skal kunne benyttes til undervisning i et klassefag. Vi benytter blokknummer. For at metoden skal fungere, må blokknumrene være timeplanlagt (fra _Timeplanlegge blokknr_) før klassefagene timeplanlegges. 
+Det er en metode for å markere at en time ikke skal kunne benyttes til undervisning i et klassefag. Vi benytter blokknummer. For at metoden skal fungere, må blokknumrene være timeplanlagt (fra _Timeplanlegge blokknr_) før klassefagene timeplanlegges. 
 
 
 ## Dersom gruppefagene timeplanlegges først 
@@ -48,6 +48,8 @@ Gjør da følgende:
 - Bekreft valget med _Lagre_.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/160382311-6be42fbd-36e2-4a03-902e-99678c959ae5.png)
+
+For at blokkeringen skal vises for timeplanlegger av klassefag må som nevnt _Timeplanllegge blokknr_ være fullført.
 
 ## Etterord
 
