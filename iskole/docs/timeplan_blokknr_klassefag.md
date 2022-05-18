@@ -21,7 +21,7 @@ Blokknumrene til gruppefag som klassens elever har valgt listes opp. Disse blokk
 
 Dersom det er praktisk mulig, vil vi anbefale at prosessen med elevers valg av gruppefag er gjennomført, og at gruppefagene er timeplanlagt før klassens timeplan legges. Men det dersom en ønsker å timeplanlegge klassefagene først, kan en gjøre det. Det kan da være hensiktsmessig å avsette plass til gruppefage, selv om dette oppsettet ikke er klargjort. Se neste avsnitt!
 
-## Dersom klassefagene timeplanlegges først
+## Dersom klassefagene timeplanlegges først 
 
 Hensikten med dette valget:
 
