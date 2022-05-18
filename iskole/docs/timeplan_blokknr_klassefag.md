@@ -36,12 +36,8 @@ Blokknumrene til gruppefag som klassens elever har valgt listes opp. Disse blokk
 Dersom det er praktisk mulig, vil vi anbefale at prosessen med elevers valg av gruppefag er gjennomført, og at gruppefagene er timeplanlagt før klassens timeplan legges. Men det dersom en ønsker å timeplanlegge klassefagene først, kan en gjøre det. Det kan da være hensiktsmessig å avsette plass til gruppefage, selv om dette oppsettet ikke er klargjort. Se neste avsnitt!
 
 
+- For klasser hvor elevene har valgt gruppefag: I tillegg til timene som gruppefagene vil legge beslag på, kan en herfra markere ekstra timer hvor klassefag ikke kan timeplanlegges. 
 
-- For klasser hvor elevene kan velge gruppefag: I tillegg til timene som gruppefagene vil legge beslag på, kan en herfra markere ekstra timer hvor klassefag ikke kan timeplanlegges. 
-
-:::note Tips 
-Blokknummer registrert under _Tildelt blokknr_ blokkerer absolutt for timeplanlegging av klassefag i denne klassen. Kan benyttes for eksempel for å legge inn en felles fritime for alle elever i en klasse. Eksempelvis kan man legge inn midt-timen (spisetid?) slik at ikke alle skolens klasser har samme tid for midt-timen. Dette kan gjøres, selv om klassen ikke har gruppefag. 
-:::
 
 ## Blokknummer tildelt klasse for uken
 Dersom ikke alt er på plass vedrørende punkt 1 til 3 ovenfor, men man ønsker å timeplanlegge klassefagene i en klasse hvor elevene kan velge gruppefag:
