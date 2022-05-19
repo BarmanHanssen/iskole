@@ -29,16 +29,16 @@ Da kan vi timeplanlegge alle fag som er aktuelle, uavhengig av klassetrinn.
 
 Fordeler/ulemper med 1:
 + Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.
-- Kan ikke ferdigstille timeplanen for alle fag.
++ Kan ikke ferdigstille timeplanen for alle fag.
 
 2: Vi timeplanlegger barne-trinnet før vi timeplanlegger ungdomstrinnet (eller i omvendt rekkefølge).
 Da må timeoppsettet være tilpasset barnetrinnet. Alle timene får da riktig start- og slutt-tid.
-Når alle fag på barnetrinnet er timeplanlagt (fra _Timplanlegg klasse_), endres malen slik at start- og slutt-tidene dekker  ungdomstrinnet. Da er alt klart for å legge timeplanen for ungdomstrinnet.
+Når alle fag på barnetrinnet er timeplanlagt (fra _Timplanlegge klasse_), endres malen slik at start- og slutt-tidene dekker  ungdomstrinnet. Da er alt klart for å legge timeplanen for ungdomstrinnet.
 
 Fordeler/ulemper med 2: 
 + Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.
-- Må gjøre timeplanen ferdig for ett skoletrinn før man kan ta neste skoletrinn.
-- Dersom timeplanen senere skal endres, må man eventuelt endre timelengde dersom oppsettet ikke dekker skoletrinnet hvor endringen gjøres.
++ Må gjøre timeplanen ferdig for ett skoletrinn før man kan ta neste skoletrinn.
++ Dersom timeplanen senere skal endres, må man eventuelt endre timelengde dersom oppsettet ikke dekker skoletrinnet hvor endringen gjøres.
 
 3: Vi ønsker å jobbe parallelt med timeplanlegging av barne- og ungdomstrinnet.
 Da må timeoppsettet dekke alle kombinasjoner av start- og slutt-tider, uten hensyn til hva som skal benyttes på hvert klassetrinn. Dette kan gjøres slik:
@@ -47,15 +47,15 @@ Timene 0 (eller 1) til 9 brukes til barnetrinnet. Dersom ungdommstrinnet eksempe
 Fordeler/ulemper med 3: 
 + Kan timeplanlegge alle klassene uten å gjøre endringer på malen som definerer start- og slutt-tider.
 + Dersom timeplanen må endres i løpet av skoleåret, er alle disponible timelengder på plass.
-- Kan komme i skade for å velge feil timelengde når timene utplasseres fra _Timeplanlegge klasse_.
++ Kan komme i skade for å velge feil timelengde når timene utplasseres fra _Timeplanlegge klasse_.
 
 ### Før en endrer oppsetter med timenes plassering/lengde
 Timene og timelengden som lagre her er en mal som benyttes når en legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, må malen oppdateres. Benyttes metode 3: er dette alt på plass! Merk at det er mulig å endre timelengden eksempelvis etter første halvår. Da må timeplanen legges på nytt for å få aktivert de nye tidene.
 
 Som allerede nevnt, kan også start- og slutt-tid for et fag endres fra _Timeplanlegge klasse_. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra start- og slutt-tiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
 
-:::tip Tips
-Ved fraværsføring kan en bare føre fravær for en hel skoletime. Kommer en elev eksempelvis midt i en time, blir det enten fravær for hele timen, eller ikke noe fravær (men kanskje en anmerking). For større feksibilitet ved fraværsføring kan en 90-minutters time deles i to, men uten friminutt. 
+:::tip Merk
+Kommer en elev eksempelvis midt i en time, kan faglærer nå angi fraværes lengde i minutter. Tidligere var det enten hele timens fravær, eller ikke fravær, men bare anmerkning om forsentkomming.
 :::
 
 ### Eksempel
@@ -68,7 +68,7 @@ vil timeplanlegger få dette skjermbilde fra _Timeplanlegge klasse_:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/158548921-624dd3bd-8cf5-4110-8a30-7e6479dc5fb2.png)
 
-Her må timeplanlegger være ekstra påpasselig slik at riktig tidspunkt velges!
+Her må timeplanlegger være ekstra påpasselig slik at riktig time velges!
 
 
 
