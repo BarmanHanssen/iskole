@@ -14,4 +14,4 @@ Eksempel på ferdiglagt timeplan for blokknr:
 
 ![image](https://user-images.githubusercontent.com/80097133/113118295-9bbdbd00-920f-11eb-89ba-3031a26731f9.png)
 
-Her tilhører blokknr 1 til 5 fag hjemmehørende under Id=1 (se _Timeplan>Definer blokknr_). Vi ser at hvert av fagene er tildelt to dobbel-timer (mandag og fredag) og en enkel-time onsdag.
+Her tilhører blokknr 1 til 5 fag hjemmehørende under Id=1 (se _Timeplan>Definer blokknr_). Vi ser at hvert av fagene er tildelt to dobbel-timer (mandag og fredag) og en enkel-time onsdag. 
