@@ -54,7 +54,7 @@ Timene og timelengden som lagre her er en mal som benyttes når en legger timepl
 
 Som allerede nevnt, kan også start- og slutt-tid for et fag endres fra _Timeplanlegge klasse_. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra start- og slutt-tiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
 
-:::tip Merk
+:::note Merk
 Kommer en elev eksempelvis midt i en time, kan faglærer nå angi fraværets lengde i minutter. Tidligere var det enten hele timens fravær, eller ikke fravær, men bare anmerkning for forsentkomming.
 :::
 
