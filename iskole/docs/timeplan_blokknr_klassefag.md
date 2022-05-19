@@ -15,12 +15,12 @@ Blokkering for timeplanlegging av klassefag kan benyttes selv om skolen ikke ben
 
 Hensikten med dette valget:
 
-- Å markere at en time i valgt klasse ikke skal/kan kunne brukes til timeplanlegging av et klassefag.
+- Å markere at en time i valgt klasse ikke skal/kan brukes til timeplanlegging av et klassefag.
 
 Markeringen gjøres ved hjelp av blokknummer.
 
 Dersom gruppefag benyttes:
-Det kan være greit å ha bestemt hvor gruppefagene skal timeplanlegges allerede før elevene har valgt gruppe. Da kan aktuelle gruppefag plasseres i ettertid der vi har avsatt tid for disse. Dersom timene alt er bestemt, kan konflikt og endringer på klassetimeplanen unngås. Og gruppene kan sømløst få sin timeplan når gruppene, med elever, er på plass.
+Det kan være greit å ha bestemt hvor gruppefagene skal timeplanlegges allerede før elevene har valgt gruppefag. Da kan aktuelle gruppefag plasseres i ettertid der vi har avsatt tid for disse. Dersom timene alt er bestemt, kan konflikt og endringer på klassetimeplanen unngås. Og gruppene kan sømløst få sin timeplan når gruppene, med elever, er på plass.
 
 ## Dersom gruppefagene timeplanlegges først 
 
@@ -50,7 +50,7 @@ Gjør da følgende:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/160382311-6be42fbd-36e2-4a03-902e-99678c959ae5.png)
 
-For at blokkeringen skal vises når timeplanlegging av klassefag av klassefag finner sted må som nevnt _Timeplanllegge blokknr_ være fullført.
+For at blokkeringen skal vises når timeplanlegging av klassefag av klassefag finner sted, må som nevnt _Timeplanllegge blokknr_ være fullført.
 
 ## Etterord
 
