@@ -44,6 +44,6 @@ Benyttes når elevene selv skal velge gruppefag for neste skoleår. For at eleve
 
 Det er altså årets vg1- og vg2-elever som er aktuelle kandidater til å velge gruppefag for neste skoleår. De blir da henholdsvis vg2- og vg3-elever og kan velge fag registrert med ulik ID. 
 
-Merk at også registrert gruppefag uten ID kommer opp på elevens valgsliste, og kan velges. Dette muliggjør et annet mønster for valg hvor en i første valgomgang ikke benytter ID. Da må en etter valget foretar en analyse for å sette opp hvilke fag som kan timeplanelegges parallelt, og deretter eventuelt legge inn ID på fagene. Vi henviser til menyvalget _Emner>Timeplanlegging_ i venstre marg hvor det redegjøres for en slik løsning.
+Merk at også registrert gruppefag uten ID kommer opp på elevens valgsliste, og kan velges. Dette muliggjør et annet mønster for valg hvor en i første valgomgang ikke benytter ID. Da må en etter valget foretar en analyse for å sette opp hvilke fag som kan timeplanelegges parallelt, og deretter eventuelt legge inn ID på fagene. Se spesielt avsnittet _De enkelte elevs valgmuligheter_ som du finner under menyvalget _Emner>Timeplanlegging_ i venstre marg.
 
 Se figuren ovenfor: Eksempelvis kan neste års vg2-elever (trinn 2) bare kunne velge to gruppefag, nemlig et fag som har ID=4, og et fag som har ID=5. Vg3-elevene har her hele 5 grupper fag å velge mellom!
