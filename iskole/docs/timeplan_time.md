@@ -10,7 +10,7 @@ En time på timeplanen er bestemt ved at vi angir når timen starter, og når de
 
 En timeplan har tradisjonelt inneholdt 6 timer per dag over 5 ukedager. Vanligvis har start og slutt-tidene på hver time vært lik for alle dagene. Dette er en praktisk ordning som letter timeplanleggers arbeid, og også gjør det lettere for alle som er avhengig av timeplanen.
 
-Det er imidlertid mulig å ha forskjellig start- og slutt-tid for timene. For eksempel kan 1. time på mandag for klasse 1A kan ha annen start- og slutt-tid enn for klasse 7A. En slik timeplan kan bli ekstra krevende for timeplanlegger da 1. time på mandag  kan overlappe 2. time på mandag for et annet klassetrinn. Læreren med 1. time på mandag kan da ikke fortsette med 2. time siden han ikke vil være ledig når 2. time starter.
+Det er imidlertid mulig å ha forskjellig start- og slutt-tid for timene. For eksempel kan 1. time på mandag for klasse 1A kan ha annen start- og slutt-tid enn for klasse 7A. En slik timeplan kan bli ekstra krevende for timeplanlegger da 1. time på mandag  kan overlappe 2. time på mandag for et annet klassetrinn. Læreren med 1. time på mandag i 1A  kan da ikke fortsette med 2. time i 7A siden han ikke vil være ledig når 2. time starter.
 
 :::note Merk
 Timeoppsettet kan betraktes som en mal. Når en time timeplanlegges, får timen start- og slutt-tiden fra gjeldende oppsett. Dersom malen endres, vil det ikke påvirke timer som alt er timeplanlagt. Men når nye timer timeplanlegges, vil alltid gjeldende mal benyttes. 
@@ -25,7 +25,7 @@ Klokkeslettene for timene som legges inn her, vil følge alle fag som timeplanle
 Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig timelengde og/eller forskjellig start-tider på noen (eller alle) timene. Dette lar seg løse på flere måter, her skisseres tre fremgangsmåter. Vi anbefaler å starte med 1: og forsette med enten 2: eller 3:
 
 1: Vi legger bare inn timene som har felles start- og slutt-tid for alle skolens klasser (dersom slike timer finnes!).
-Da kan vi timeplanlegge alle fag som er aktuelle, uavhengig av klassetrinn.
+Da kan vi timeplanlegge alle klasser i alle fag som er aktuelle.
 
 Fordeler/ulemper med 1:
 + Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.
@@ -50,9 +50,9 @@ Fordeler/ulemper med 3:
 + Kan komme i skade for å velge feil timelengde når timene utplasseres fra _Timeplanlegge klasse_.
 
 ### Før en endrer oppsetter med timenes plassering/lengde
-Timene og timelengden som lagre her er en mal som benyttes når en legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, må malen oppdateres. Benyttes metode 3: er dette alt på plass! Merk at det er mulig å endre timelengden eksempelvis etter første halvår. Da må timeplanen legges på nytt for å få aktivert de nye tidene.
+Timene og timelengden som lagres her er altså en mal som benyttes når en legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, må malen oppdateres. Benyttes metode 3: er dette alt på plass! Merk at det er mulig å endre timelengden eksempelvis etter første halvår. Da må timeplanen legges på nytt for å få aktivert de nye tidene.
 
-Som allerede nevnt, kan også start- og slutt-tid for et fag endres fra _Timeplanlegge klasse_. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra start- og slutt-tiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
+Som allerede nevnt, kan også start- og slutt-tid for et fag endres fra _Timeplanlegge klasse_. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra endret start- og slutt-tiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
 
 :::note Merk
 Kommer en elev eksempelvis midt i en time, kan faglærer nå angi fraværets lengde i minutter. Tidligere var det enten hele timens fravær, eller ikke fravær, men bare anmerkning for forsentkomming.
