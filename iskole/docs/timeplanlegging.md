@@ -505,31 +505,27 @@ timeplanleggingen utfra rekkefølgen i menyen, men det er ikke påkrevet.
 De fire valgene som har med gruppefag å gjøre er listet opp under:
 
 1. Definer blokknr
-1. Blokknr gruppefag
-1. Blokknr klasse
 1. Timeplanlegge blokknr
+1. Blokknr klasse
+1. Blokknr gruppefag
 
 Vi skal gjennomgå de fire valgene i tur og orden, men først skal vi kaste
 et blikk på det aller første menyvalget _Timeplan > Time_. I skjermbildet
-som vist i figur 4 bestemmes hvilke tider som kan timeplanlegges. Merk at
+som vist ovenfor bestemmes hvilke tider som kan timeplanlegges. Merk at
 også lørdag og søndag inngår. Det er vanlig med lik start- og slutt på hver
 time for alle ukedagene, men skolen står her helt fritt til å definere start- og
 slutt-tid på hver timen.
 
 Når timeplanen er lagt for hele året, kan man ta ut en rapport som
-omregner alle timeplanlagte timer i hvert fag til klokketimer. Skal det
-bli riktig, kan man ikke endre oppsettet av start- og sluttiden etter at
-skolen har startet. (Vi har planer om å fjerne kravet om at timelengden
-må være uendret i løpet av et skoleår.) Hvis tidene ikke endres, kan
-timeplanlegger kontrollere antall timeplanlagte timer mot fagets omfang.
-Fraværet for elevene blir timelengden automatisk omregnet til klokketimer
-når kontaktlærerne sluttfører fraværet etter første og andre halvår slik at det
-kommer riktig på karakterdokumentasjonen. Hvorvidt man bruker lørdag og
+omregner alle timeplanlagte timer i hvert fag til klokketimer. Timeplanlegger kan da kontrollere antall timeplanlagte timer mot fagets omfang.
+For fravær registrert på en elev blir timelengden automatisk omregnet til klokketimer slik at det
+bblir riktig på karakterdokumentasjonen. Hvorvidt man bruker lørdag og
 søndag som skoledag fremgår av skoleruten. Lørdags- og søndags-timeplan
 vises bare dersom dagene er satt opp som skoledager i skoleruten.
 
 ### Definer blokknr
-Vi ser igjen på blokken vist i figur 2 på side 14 . Her er det sju gruppef som er
+![Blokkskjema](/iskole/img/tk_blokkskjema.png 'Blokkskjema')
+Vi ser igjen på blokken vist i figur ovenfor. Her er det sju gruppef som er
 satt opp, og de vil legge beslag på femten timer på timeplanen. Fagene er
 delt i tre blokker, og hver blokk har fått en blokkidentifikator hhv. 1, 2 og 3.
 
@@ -550,8 +546,8 @@ for trinn 1 (vg1).
 ![Definer blokknr](/iskole/img/tk_definer_blokknr.png 'Definer blokknr')
 
 Grupper av timer til valg hvor vi grupperer blokknumrene med
-id (blokkid) forenkler timeplanleggerens fordeling av blokknummer til
-gruppefagene. Da må id settes på aktuelle gruppefag fra 
+Id (blokkid) forenkler timeplanleggerens fordeling av blokknummer til
+gruppefagene. Da må Id settes på aktuelle gruppefag fra 
 _Time- og fagfordeling > Gruppefag_ før timeplanleggger går løs på _Timeplan > Blokknr_
 for gruppefag.
 
@@ -573,10 +569,9 @@ viktigste er å klassifisere fagene for å få oversikt over hvilke fag som skal
 parallellt, uten at man har bestemt hvor fagene skal plasseres på timeplanen.
 
 Når den innbyrdes plasseringen til gruppefagene er klargjort gjennom et
-blokkskjema som viser oppsettet av gruppefag (se eksempelet i figur 2 på
-side 14 som viser oppsett av gruppefag), kan oppsettet overføres til iSkole
-fra valget _Timeplan > Blokknr_ for gruppefag. Innføringen kan skje uten at
-man bruker _Id_ som nevnt tidligere, men da blir det adskillig flere museklikk
+blokkskjema som viser oppsettet av gruppefag (se eksempelet i figuren som viser oppsett av gruppefag), kan oppsettet overføres til iSkole
+fra valget _Timeplan > Blokknr_ for gruppefag først etter at times plassering på timeplanen er fastlagt fra _Timeplan_Timeplanlegge blokknr_.
+Som nevnt tidligere kan innføringen  skje uten at en bruker Id, men da blir det adskillig flere museklikk
 for å få alt på plass.
 
 ### Blokknr klasse
@@ -584,22 +579,19 @@ Dersom man planlegger å timeplanlegge klassefagene før elevene har valgt
 gruppefag, bør en gå gjennom alle klassene som vil kunne ha elever som kan
 velge gruppefag. Valget skal lette arbeidet med å timeplanlegge klassefagene
 ved at en allerede her bestemmer hvile timer som blir beslaglagt av
-gruppefagenes timeplan.
+gruppefagenes timeplan.  Men merk at blokkering av timeplanlegging av klassefag fra valget
+_Timeplan>Blokknr klasse_ kun er nødvendig for blokkrering av timer som ikke blir blokkert av gruppefagene.
 
 Dersom en elev har valgt et gruppefag som skal ha undervisning 2. time
 på mandag, da skal 2. time mandag være blokkert for timeplanlegging av
 et klassefag på den timen. (Navnevalget blokkskjema har nok sin bakgrunn herfra.)
 
-Dersom elevene har valgt gruppefag, og gruppefgenes blokknumre alt
-er innført, er det med ett unntak ikke nødvendig å gjøre noen her. Da vil
+Dersom elevene har valgt gruppefag, og gruppefagenes blokknumre alt
+er innført, er det ikke nødvendig å gjøre noen her. Da vil
 iSkole finne elevenes gruppefag med tilhørende blokknummer, og ut fra dette
 finne hvilke blokknummer som elevene legger beslag på i hver enkelt klasse. I
-praksis betyr dette at timeplanlegging av klassefag ikke bør starte før dette
-valget er gjennomført, og først etter at blokknumrene er timeplanlagt (se
-_Timeplan > Timeplanlegge blokknr_). Unntaket er: Dersom man vil legge inn
-en felles fritime for alle elever i en klasse, kan det angis med et blokknummer
-som ikke er i bruk for noen av timene som tilhører gruppefag til elevene i
-klassen.
+praksis betyr dette at timeplanlegging av klassefag ideelt sett ikke bør starte først etter at
+valget _Timeplan >Blokknr gruppefag_) et fullført.
 
 ### Timeplanlegge blokknr
 Oppsettet av blokknr for hvert gruppefag er som nevnt den delen av
@@ -628,7 +620,7 @@ få til uten at alle de andre fagene i blokken får den samme fordelingen.
 På grunn av kompleksiteten ved at eleven kommer fra forskjellige klasser,
 er det vanlig at timeplanen for gruppefagen er satt opp likt uke for uke
 gjennom hele skolåret. Men det er fullt mulig også å endre timeplanen for
-gruppefagene på ukebasis. Eksempelvis kan et fag skal eller minke timetallet
+gruppefagene på ukebasis. Eksempelvis kan et fag minke timetallet
 i en periode — dette omtales ofte som _ploging_ eller _periodisering_. Timetallet
 justeres ved å klikke på ikonet blyant som står bak _Timer_ (når gruppefaget
 er valgt under menyvalget _Timeplan > Blokknr gruppefag_)
