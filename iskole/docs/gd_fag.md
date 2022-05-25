@@ -6,7 +6,7 @@ sidebar_label: Fag
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148050893-fbad2df0-8c63-447f-b20a-b795b568995d.png)
 
-#### Klassefag og Gruppefag
+## Klassefag og Gruppefag
 
 Fagene som tilhører klassen kaller vi klassefag. Hver klasse har fag som alle elevene i klassen skal følge (avvik kan forekomme). Ved opptak blir en elev plassert i en klasse, og bare i en klasse. Alle elevene i klassen er samlet til undervisning i samme fag til samme tid. 
 
