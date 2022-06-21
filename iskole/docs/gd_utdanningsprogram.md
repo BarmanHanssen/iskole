@@ -5,7 +5,7 @@ sidebar_label: Utdanningsprogram
 ---
 Utdanningsprogram er den mest generelle, og minst spesifikke måten, å dokumentere hvilke undervisningsopplegg som skolen tilbyr.
 
-<img width="623" alt="Skjermbilde 2022-06-21 kl  09 27 17" src="https://user-images.githubusercontent.com/10975905/174741813-dc65df3c-5e85-45eb-a3f4-231b4d7f0681.png">
+<img width="610" alt="Skjermbilde 2022-06-21 kl  09 39 35" src="https://user-images.githubusercontent.com/10975905/174743687-9731c194-93b8-429a-b803-41966081a5e9.png">
 
 Eksempelet viser en skole med elever både på videregående skole og ungdomsskolen. På videregående er det registrert utdanningsprogrammene HO, ID og ST:
 I tillegg har skolen også grunnskoleelever. I den offisielle tabellen finns bare en kode, GS. Det er vanlig på skolene å skillle mellom barnetrinnet (1. til 7. trinn) og ungdomstrinnet (8. til 10. trinn) med BT og UT. På samme måte ser vi at skolen har valgt å kalle utdanningsprogrammet for helse og oppvekstfag for HO, selv om den offisielle koden er HS. 
