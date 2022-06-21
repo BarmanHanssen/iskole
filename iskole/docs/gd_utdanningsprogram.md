@@ -19,3 +19,5 @@ _*Kode_ velges fritt, men bare to tegn tillates. Koden benyttes når ny klasse s
 _*Navn_ brukes internt på skolen, ville eksempelvis her være Barnetrinnet.
 
 _*Utdanningsprogram_ inneholder en liste med offisielle navn for videregående skole. For grunnskolen er det kun GS som ligger inne. Dersom ingenting passer, brukes -=. Utdanningsprogram-navnet benyttes blant annet når kompetansebvis og vitnemål skal skrives ut.
+
+Man kan også legge inn klassetrinnene for utdanningsprogrammene. Trykk på knappen _Legg til trinn..._ og marker ønskede trinn i dialogvinduet som kommer opp. For å slette trinn trykker man på knappen _Slett klassetrinn..._ og velger hvilket trinn som skal slettes. Man må da også skrive inn planperioden for å bekrefte slettingen.
