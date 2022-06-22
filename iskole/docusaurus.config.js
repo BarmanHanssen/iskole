@@ -16,7 +16,7 @@ module.exports = {
       items: [
         {
           to: 'docs/oversikt',
-          activeBasePath: 'docs',
+          //activeBasePath: 'docs',
           label: 'Dokumentasjon',
           position: 'left',
         },
@@ -34,10 +34,10 @@ module.exports = {
         {
           title: 'Dokumentasjon',
           items: [
-            {
+            /*{
               label: 'Timeplanlegger',
               to: 'docs/timeplan_klasse',
-            },
+            },*/
             {
               label: 'iSkole - Elev',
               to: 'docs/elev',
@@ -80,17 +80,5 @@ module.exports = {
         },
       },
     ],
-  ],
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-    localeConfigs: {
-      en: {
-        label: 'English',
-        direction: 'ltr',
-        htmlLang: 'en-US',
-        calendar: 'gregory',
-      }
-    },
-  },
+  ]
 };
