@@ -34,10 +34,10 @@ module.exports = {
         {
           title: 'Dokumentasjon',
           items: [
-            /*{
-              label: 'Timeplanlegger',
-              to: 'docs/timeplan_klasse',
-            },*/
+            {
+              label: 'Timeplanlegging',
+              to: 'docs/timeplanlegging',
+            },
             {
               label: 'iSkole - Elev',
               to: 'docs/elev',
