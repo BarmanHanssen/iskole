@@ -2,7 +2,7 @@ module.exports = {
   title: 'iSkole - skoleadministrativt system',
   tagline: 'Dokumentasjon består av to deler. Den første delen dokumenterer hvert enkelt menyvalg på iSkole, den andre delen er basert på emner og forteller hvordan man utfører ulike oppgaver.',
   url: 'https://dokumentasjon.iskole.net/',
-  baseUrl: '/',
+  baseUrl: '/iskole/',
   favicon: 'img/iskole.ico',
   organizationName: 'BarmanHanssen', // Usually your GitHub org/user name.
   projectName: 'iskole', // Usually your repo name.
@@ -13,7 +13,7 @@ module.exports = {
         alt: 'Logo',
         src: 'img/iskole-512.png',
       },
-      links: [
+      items: [
         {
           to: 'docs/oversikt',
           activeBasePath: 'docs',
@@ -81,4 +81,16 @@ module.exports = {
       },
     ],
   ],
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US',
+        calendar: 'gregory',
+      }
+    },
+  },
 };
