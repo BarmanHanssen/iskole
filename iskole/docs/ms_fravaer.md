@@ -105,7 +105,7 @@ Dersom egenmeldingen er meldt inn av en forelder, så vil dette vises i feltet _
 :::
 
 
-![Egnemelding dagfravær](/iskole/img/ms_fravaer_egenmelding.png 'Egnemelding dagfravær')
+![Egnemelding dagfravær](/img/ms_fravaer_egenmelding.png 'Egnemelding dagfravær')
 
 
 ## Heldagsprøver
