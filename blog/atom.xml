@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dokumentasjon.iskole.net/blog</id>
+    <title>iSkole - skoleadministrativt system Blog</title>
+    <updated>2019-05-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dokumentasjon.iskole.net/blog"/>
+    <subtitle>iSkole - skoleadministrativt system Blog</subtitle>
+    <icon>https://dokumentasjon.iskole.net/img/iskole.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dokumentasjon på nett]]></title>
+        <id>/2019/05/28/hola</id>
+        <link href="https://dokumentasjon.iskole.net/blog/2019/05/28/hola"/>
+        <updated>2019-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For å gjøre dokumentasjonen lettere tilgjengelig flytter vi den til ut på nett. I tillegg til dokumentasjon av hvert enkelt menyvalg, har vi også dokumentasjon for ulike oppgaver. Denne finner du under «Emner»]]></summary>
+        <content type="html"><![CDATA[<p>For å gjøre dokumentasjonen lettere tilgjengelig flytter vi den til ut på nett. I tillegg til dokumentasjon av hvert enkelt menyvalg, har vi også dokumentasjon for ulike oppgaver. Denne finner du under «Emner»</p>]]></content>
+        <author>
+            <name>Thomas Hannestad</name>
+            <uri>https://github.com/thomashannestad</uri>
+        </author>
+        <category label="hola" term="hola"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>
