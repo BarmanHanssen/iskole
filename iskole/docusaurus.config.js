@@ -1,8 +1,8 @@
 module.exports = {
   title: 'iSkole - skoleadministrativt system',
   tagline: 'Dokumentasjon består av to deler. Den første delen dokumenterer hvert enkelt menyvalg på iSkole, den andre delen er basert på emner og forteller hvordan man utfører ulike oppgaver.',
-  url: 'https://barmanhanssen.github.io/',
-  baseUrl: '/iskole/',
+  url: 'https://dokumentasjon.iskole.net/',
+  baseUrl: '/',
   favicon: 'img/iskole.ico',
   organizationName: 'BarmanHanssen', // Usually your GitHub org/user name.
   projectName: 'iskole', // Usually your repo name.
