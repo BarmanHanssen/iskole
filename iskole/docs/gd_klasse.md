@@ -20,7 +20,7 @@ Kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget
 - _Klassen inngår i eksport til læringsplattform_: Dersom skolen også benytter eksempelvis ItsLearning, avhukes det her.
 - _Kostnadssted_: Brukes av Nordland fylkeskommune. Ta kantakt dersom skolen din ønsker å benytte data herfra i budsjettsammenheng.
 - _Maksimalt elevantall_: Kan noteres, men brukes ikke andre steder.
-- _Klassefag_: I tabellen kommer alle fag som er lagt inn fra menyvalget _Fag_ frem. Aktuelle fag for klassen flyttes over fra _Tilgjengelige_ til _Valgte_.
+- _Klassefag_: Når ny klasse er lagt inn kommer alle fag som er lagt inn fra menyvalget _Fag_ frem under kolonnen _Tilgjengelige_. Aktuelle fag for klassen flyttes over fra _Tilgjengelige_ til _Valgte_. Dersom et et nytt klassefag skal legges inn, må det altså først registreres under _Fag_, og deretter legges inn her.
 - _Programkode_: Her får man opp en omfattende liste som omfatter både grunnskole og videregående skole. Man kan filtrere ved skrive inn tekst, eksempelvis:
  
 ![bilde](https://user-images.githubusercontent.com/80097133/148363077-a61ec951-ef65-4956-a01b-f9e94f5aaf7f.png)
