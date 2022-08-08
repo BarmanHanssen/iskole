@@ -4,7 +4,7 @@ title: Timeplanlegge klasse
 sidebar_label: Timeplanlegge klasse
 ---
 
-Benevnelsen klassefag, obligatorisk fag og fellesfag er synonyme betegnelser. Vi benytter oftes klassefag.
+Benevnelsen klassefag, obligatorisk fag og fellesfag er synonyme betegnelser. Vi benytter oftes klassefag. 
 
 Timeplanen for klassefag skal inneholde all organisert undervisning i  alle klassefag til klassen. Endring av fagsammensetningen gjøres fra _Grunnlagsdata>Fag>Klassefag_. 
 
