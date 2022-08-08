@@ -30,8 +30,7 @@ Fag uten lærer skiller seg ut ved at de ikke er tildelt fargekode. Dersom det s
 #### +Legg til
 Dersom et fag mangler, kan det legges til her. Det forutsetter at faget alt er registrert fra _Grunnlagsdata>Fag_ under klassens studieretning og klassetrenn.
 
-#### Kopier
-Man kan kopierer timeplanen for denne uken frem i tid. Se eget avsnitt om kopiering nederst på siden.
+#### Kopier Man kan kopierer timeplanen for denne uken frem i tid. Se eget avsnitt om kopiering nederst på siden.
 
 - Man kan endre antall timer for et fag i denne uken (via blyant-ikonet bak faget). 
 - Dersom faget ikke skal ha timer i denne uken, reduseres timetallet til null. 
