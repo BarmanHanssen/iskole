@@ -27,10 +27,10 @@ Skjermen for timeplanlegger er inndelt i fire separate deler (Fag, Timeplan klas
 Her vises alle fag som klassen er satt opp med (fra _Grunnlagsdata>Fag>Klassefag_), og med faglærerne i det enkelte fag (se _Time- og fagfordeling>Klassefag_). 
 Fag uten lærer skiller seg ut ved at de ikke er tildelt fargekode. Dersom det står MODERKL under overskriften Type, er elevene fra en annen klasse gjest i faget. Slike fag anbefales å timeplanlegge før en tar KLFAG.
 
-#### +Legg til
+##### +Legg til
 Dersom et fag mangler, kan det legges til her. Det forutsetter at faget alt er registrert fra _Grunnlagsdata>Fag_ under klassens studieretning og klassetrenn.
 
-#### Kopier Man kan kopierer timeplanen for denne uken frem i tid. Se eget avsnitt om kopiering nederst på siden.
+##### Kopier: Man kan kopierer timeplanen for denne uken frem i tid. Se eget avsnitt om kopiering nederst på siden.
 
 - Man kan endre antall timer for et fag i denne uken (via blyant-ikonet bak faget). 
 - Dersom faget ikke skal ha timer i denne uken, reduseres timetallet til null. 
