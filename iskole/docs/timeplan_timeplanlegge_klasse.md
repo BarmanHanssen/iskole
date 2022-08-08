@@ -28,7 +28,7 @@ Her vises alle fag som klassen er satt opp med (fra _Grunnlagsdata>Fag>Klassefag
 Fag uten lærer skiller seg ut ved at de ikke er tildelt fargekode. Dersom det står MODERKL under overskriften Type, er elevene fra en annen klasse gjest i faget. Slike fag anbefales å timeplanlegge før en tar KLFAG.
 
 ##### +Legg til
-Dersom et fag mangler, kan det legges til her. Det forutsetter at faget alt er registrert fra _Grunnlagsdata>Fag_ under klassens studieretning og klassetrenn.
+Dersom et fag mangler, kan det legges til her. Det forutsetter at faget alt er registrert fra _Grunnlagsdata>Fag_ under klassens studieretning og klassetrinn.
 
 ##### Kopier: Man kan kopierer timeplanen for denne uken frem i tid. Se eget avsnitt om kopiering nederst på siden.
 
