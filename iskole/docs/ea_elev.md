@@ -71,3 +71,11 @@ Dersom elevens adresse ikke er identisk med Forelder 1, kan riktig adresse innf�
 
 #### Portrettbilde
 Kan legge inn bilde fra _Last opp_. Dersom fotograf tar bilde for hele skolen, se _Mine sider>Foto_ for alternativ innlasting av bilde.
+
+### Slett elev
+Normalt sletter man ikke en elev, men setter i stedet sluttdato. Ved feilregistrering, at eleven ikke startet eller av andre grunner ønsker å slette eleven er dette mulig med knappen _Slett_. iSkole vil gjennomføre følgende kontroll før sletting.
+1. Har eleven fått karakterer dette skoleåret? Nei: Eleven slettes fra detet skoleåret. Ja: Sletting avbrytes og sluttdato må benyttes.
+2. Har eleven karakterer andre skoleår? 
+3. Har eleven andre roller på iSkole? (Elev annen skole, forelder, ansatt)
+
+Hvis nei i punkt 2 og 3, så vil personen slettes helt fra iSkole.
