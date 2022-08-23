@@ -52,11 +52,24 @@ Etterhvert som fag- eller kontaktlæreren din registrerer fravær og forsentkomm
 
 ### Egenmelding
 Du kan registrere egenmeldinger for dagfravær og timefravær. Egenmeldingen for dagfravær går til kontaktlæreren
-din og du letter arbeidet med å føre dagfravær ved å sende inn egenmelding. Du bør registrere en egenmelding for dagfravær så tidlig som mulig, men det går også an å etterregistrere egenmeldinger for dagfravær. Egenmeldingen for timefravær går til både kontakt- og faglæreren din. Du kan også registrere egenmelding for timefravær bakover i tid. Har du egenmeldt dagfravær skal du ikke egenemelde timene denne dagen. Dersom du har dokumentasjon for fraværet kan denne lastes opp sammen med egenmeldingen.
+din og du letter arbeidet med å føre dagfravær ved å sende inn egenmelding. Du bør registrere en egenmelding for dagfravær så tidlig som mulig, men det går også an å etterregistrere egenmeldinger for dagfravær. Egenmeldingen for timefravær går til både kontakt- og faglæreren din. Du kan også registrere egenmelding for timefravær bakover i tid. Har du egenmeldt dagfravær skal du ikke egenmelde timene denne dagen. Dersom du har dokumentasjon for fraværet kan denne lastes opp sammen med egenmeldingen.
 
 :::note Merk
 Mange skoler gir ordensanmerkning dersom det ikke registreres egenmelding. Se skolens ordensreglement eller spør din kontaktlærer.
 :::
+
+<img width="1094" alt="Skjermbilde_egenmelding_1_oversikt" src="https://user-images.githubusercontent.com/10975905/186133325-b4f69ae6-af38-427e-9e95-78d0bde89167.png">
+Skjermbildet over viser oversikt over de egenmeldingene du kan registrere. Trykk på knappen _Legg til_ for å legge til en egenmelding. 
+
+<img width="601" alt="Skjermbilde_egenmelding_2_legg_til_dagfravaer" src="https://user-images.githubusercontent.com/10975905/186134113-800bc66a-4be3-4a9c-b66b-3c2eeb476dd7.png">
+Skjermbildet over viser dialogen hvor du legger inn dato for egenmeldingen av fravær, samt grunnen for fraværet. Hvis du har sykemelding, så kan du markere det på radioknappene. Ved å velge _ja_ så vil det komme frem et felt hvor du kan dra og slippe dokumentet som inneholder sykemeldingen. Hvis du gjør det fra telefonen din, så kan du også ta bilde av sykemeldingen med telefonen i stedenfor å laste opp et dokument.
+
+<img width="820" alt="Skjermbilde_egenmelding_3_legg_til_dagfravaer_feilelding_mangler_dokumentasjon" src="https://user-images.githubusercontent.com/10975905/186146572-6bc40afd-0ca1-47f4-8cba-3444e2f27587.png">
+Hvis du har krysset av for sykemelding, men ikke har registrert den med fil eller bilde, så vil ikke iSkole lagre egenmeldingen. Du kan da velge å fortsette uten å laste opp sykemeldingen ved å markere en av radioknappene _Nei_ eller _Ja, allerede fremvist_. 
+
+<img width="577" alt="Skjermbilde_egenmelding_4_legg_til_dagfravaer_med_dokumentasjon" src="https://user-images.githubusercontent.com/10975905/186146903-388096a4-038b-479c-8a36-7efb6e67ae03.png">
+Velger du å laste opp en sykemelding, vil den vises som et ikon og filnavn nederst i skjermbildet, slik som vist i skjermbildet over. 
+
 
 ### Oppmøte
 I vinduet for føring av oppmøte vises dagens timeplan og det er åpent for å føre oppmøte i gjeldende time. Hvis du ikke har undervisning i øyeblikket eller at skolen ikke har åpnet for at du skal føre oppmøte i faget som undervises i øyeblikket, så kan du heller ikke registrere noe.
