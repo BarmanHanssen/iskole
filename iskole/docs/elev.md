@@ -58,6 +58,7 @@ din og du letter arbeidet med å føre dagfravær ved å sende inn egenmelding. 
 Mange skoler gir ordensanmerkning dersom det ikke registreres egenmelding. Se skolens ordensreglement eller spør din kontaktlærer.
 :::
 
+#### Registrere egenmelding
 Skjermbildet nedenfor viser oversikt over de egenmeldingene du kan registrere. Trykk på knappen _Legg til_ for å legge til en egenmelding. 
 ![Skjermbilde_egenmelding_1_oversikt](https://user-images.githubusercontent.com/10975905/186133325-b4f69ae6-af38-427e-9e95-78d0bde89167.png)
 
