@@ -58,17 +58,20 @@ din og du letter arbeidet med å føre dagfravær ved å sende inn egenmelding. 
 Mange skoler gir ordensanmerkning dersom det ikke registreres egenmelding. Se skolens ordensreglement eller spør din kontaktlærer.
 :::
 
-![Skjermbilde_egenmelding_1_oversikt](https://user-images.githubusercontent.com/10975905/186133325-b4f69ae6-af38-427e-9e95-78d0bde89167.png) 'Skjermbilde_egenmelding_1_oversikt')
-Skjermbildet over viser oversikt over de egenmeldingene du kan registrere. Trykk på knappen _Legg til_ for å legge til en egenmelding. 
+Skjermbildet nedenfor viser oversikt over de egenmeldingene du kan registrere. Trykk på knappen _Legg til_ for å legge til en egenmelding. 
+![Skjermbilde_egenmelding_1_oversikt](https://user-images.githubusercontent.com/10975905/186133325-b4f69ae6-af38-427e-9e95-78d0bde89167.png)
 
-![Skjermbilde_egenmelding_2_legg_til_dagfravaer](https://user-images.githubusercontent.com/10975905/186134113-800bc66a-4be3-4a9c-b66b-3c2eeb476dd7.png 'Skjermbilde_egenmelding_2_legg_til_dagfravaer')
-Skjermbildet over viser dialogen hvor du legger inn dato for egenmeldingen av fravær, samt grunnen for fraværet. Hvis du har sykemelding, så kan du markere det på radioknappene. Ved å velge _ja_ så vil det komme frem et felt hvor du kan dra og slippe dokumentet som inneholder sykemeldingen. Hvis du gjør det fra telefonen din, så kan du også ta bilde av sykemeldingen med telefonen i stedenfor å laste opp et dokument.
 
-![Skjermbilde_egenmelding_3_legg_til_dagfravaer_feilelding_mangler_dokumentasjon](https://user-images.githubusercontent.com/10975905/186146572-6bc40afd-0ca1-47f4-8cba-3444e2f27587.png 'Skjermbilde_egenmelding_3_legg_til_dagfravaer_feilelding_mangler_dokumentasjon')
+Skjermbildet under viser dialogen hvor du legger inn dato for egenmeldingen av fravær, samt grunnen for fraværet. Hvis du har sykemelding, så kan du markere det på radioknappene. Ved å velge _ja_ så vil det komme frem et felt hvor du kan dra og slippe dokumentet som inneholder sykemeldingen. Hvis du gjør det fra telefonen din, så kan du også ta bilde av sykemeldingen med telefonen i stedenfor å laste opp et dokument.
+![Skjermbilde_egenmelding_2_legg_til_dagfravaer](https://user-images.githubusercontent.com/10975905/186134113-800bc66a-4be3-4a9c-b66b-3c2eeb476dd7.png)
+
+
 Hvis du har krysset av for sykemelding, men ikke har registrert den med fil eller bilde, så vil ikke iSkole lagre egenmeldingen. Du kan da velge å fortsette uten å laste opp sykemeldingen ved å markere en av radioknappene _Nei_ eller _Ja, allerede fremvist_. 
+![Skjermbilde_egenmelding_3_legg_til_dagfravaer_feilelding_mangler_dokumentasjon](https://user-images.githubusercontent.com/10975905/186146572-6bc40afd-0ca1-47f4-8cba-3444e2f27587.png)
 
-![Skjermbilde_egenmelding_4_legg_til_dagfravaer_med_dokumentasjon](https://user-images.githubusercontent.com/10975905/186146903-388096a4-038b-479c-8a36-7efb6e67ae03.png)'Skjermbilde_egenmelding_4_legg_til_dagfravaer_med_dokumentasjon')
-Velger du å laste opp en sykemelding, vil den vises som et ikon og filnavn nederst i skjermbildet, slik som vist i skjermbildet over. Trykk _OK_ for å fullføre registreringen.
+
+Velger du å laste opp en sykemelding, vil den vises som et ikon og filnavn nederst i skjermbildet, slik som vist i skjermbildet nedenfor. Trykk _OK_ for å fullføre registreringen.
+![Skjermbilde_egenmelding_4_legg_til_dagfravaer_med_dokumentasjon](https://user-images.githubusercontent.com/10975905/186146903-388096a4-038b-479c-8a36-7efb6e67ae03.png)
 
 
 ### Oppmøte
