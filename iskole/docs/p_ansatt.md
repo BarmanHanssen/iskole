@@ -30,7 +30,7 @@ Neste trinn er å legge inn flere data for den nytilsatte:
 
 ### Ansatt
 - Kortnavn på timeplan: Kan endres. Kontrolleres mot andre ansatte, da to personer på skolen ikke kan ha likt kortnavn.
-- Født og Persnr: Kan endres. Kun gyldige personnummer godtas. 
+- Født og Persnr: Kan endres, men kun gyldige personnummer godtas samt midlertidige personnummer i serien 990xx. 
 - Brukernavn: Alterantivt brukernavn for å kunne logge inn på iSkole. Se menyvalget _Brukernavn_ for generering av brukernavn. Ansatte kan også bruke fødselsnummer eller epost som brukernavn.
 - Ansattnr: Opprettes automatisk ved registrering, brukes internt, og kan ikke endres.
 - Kontaktopplysninger/Pårørende: Vi anbefaler minimum å registrere e-post til den ansatte. Den trengs blant annet dersom den ansatte har glemt/ikke har fått passord for å kunne logge seg på iSkole.
@@ -56,6 +56,11 @@ Disse legges automatisk til ut fra tidligere undervisning i faget, sortert på f
  
  ![bilde](https://user-images.githubusercontent.com/80097133/146923256-e37bbe42-72a8-4425-b64c-7e01c789c3b1.png)
 
+
+### Passord
+
+Man har anledning til å gi ansatte nytt passord herfra. Man kan enten la iSkole generere et passord, eller skrive inn et nytt passord selv. Det nye passordet kan da sendes til den ansatte på e-post. 
+Ønsker man å slå på tofaktorautentisering ved innlogging, så må man generere en kode som den ansatte kan legge inn i en kodegenerator som f.eks. Google Authenticator på sin telefon. Koden kan enten tastes inn på telefonen, eller avleses av QR-koden som kommer frem på skjermen etter man har trykket på knappen _Generer kode_. Ønsker man siden å slå av kravet om tofaktorautentisering, så kan man slette koden ved å trykke på knappen _Slett kode_.
 
 
 
