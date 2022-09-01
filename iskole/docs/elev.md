@@ -13,7 +13,6 @@ For å logge inn i iSkole må man ha brukernavn og passord. Avhengig av rutinene
 
 - Fødselsnr, 11 siffer
 - E-post
-- Brukernavn
 
 Passord blir første gang generert og delt ut av f.eks. kontaktlærerne. For å logge på skriver man inn brukernavn og passord og trykker på knappen _Logg inn_.
 
