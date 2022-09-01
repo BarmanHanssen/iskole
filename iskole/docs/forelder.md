@@ -20,6 +20,15 @@ For de som ønsker å benytte iSkole fra telefonen, så kan man med fordel velge
 Passordbrevet fra skolen inneholder nettadressen og passordet, og informasjon om hva forelderen skal benytte som brukernavn. Det er to versjoner av
 passordbrevet — en for foreldre som ikke er registrert med eget fødselsnr i iSkole, og en for foreldre som er registrert med eget fødselsnr i iSkole. I eksemplene benytter vi de fiktive navnene _Marte Kirkerud_ på eleven og _Hans Tastad_ på avsenderen av passordbrevet.
 
+Under vises et utklipp av passordbrevet for forelder _2_ hvor det ikke er registrert fødselnummer på forelderen. 
+
+![image](https://user-images.githubusercontent.com/10975905/187922913-ba926474-105a-4e5d-b2dc-b048ed860ade.png)
+
+Under vises vises et utsnitt av passordbrevet til forelder _1_ som har fått registrert sitt fødselsnummer i iSkole. 
+
+![image](https://user-images.githubusercontent.com/10975905/187923030-dece63b5-f32b-4b55-a1d8-06156ab879a2.png)
+
+
 ### Pålogging
 
 #### For foreldre uten eget fødselsnr i iSkole
