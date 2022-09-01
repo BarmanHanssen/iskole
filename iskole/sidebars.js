@@ -9,6 +9,10 @@ module.exports = {
       id: 'elev',
     },
     {
+      type: 'doc',
+      id: 'forelder',
+    },
+    {
       type: 'category',
       label: 'Mine sider',
       items: ['ms_startside','ms_tilgang','ms_kontrollsenter','ms_logg','ms_planperiode','ms_personalia','ms_eget_fravaer',
