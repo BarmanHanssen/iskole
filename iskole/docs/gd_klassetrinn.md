@@ -3,12 +3,6 @@ id: gd_klassetrinn
 title: Klassetrinn
 sidebar_label: Klassetrinn
 ---
-Når utdanningsprogrammene er registrert, er neste steg å angi på hvilket nivå skolen tilbyr opplæring. Tradisjonelt benytter en her årstrinn.
-Her spesifiserer vi hvilke klassetrinn som forbindes med det enkelte utdanningsprogram. For videregående skoler benyttes trinnene 1 til 3. For grunnskolen benyttes vanligvis 1 til 7 for barnetrinnet, og 8 til 10 for ungdomstrinnet.
-
-Skjermbildet nedenfor viser en skole som har alle klassetrinn på grunnskolen, og alle tre trinn på studiespesialisering på videregående skole. 
-
-![bilde](https://user-images.githubusercontent.com/80097133/147217944-66c63013-3f64-4e8f-bc85-7525af6c73be.png)
-
+Redigering av klassetrinn er lagt inn i skjermbildet fra menyvalget _Utdanning_. Av den grunn ble det unødvendig å ha et eget skjermbilde kun for klassetrinn, og det ble derfor tatt ut av iSkole.
 
 
