@@ -1,6 +1,6 @@
 ---
 id: gd_utdanningsprogram
-title: Utdanningsprogram
+title: Utdanning
 sidebar_label: Utdanning
 ---
 Utdanningsprogram er den mest generelle, og minst spesifikke måten, å dokumentere hvilke undervisningsopplegg som skolen tilbyr.
