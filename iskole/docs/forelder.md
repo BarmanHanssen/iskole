@@ -32,8 +32,11 @@ For å registrere foreldrekonto på iSkole må man først ha fått et informasjo
 
 Gå til <a href="https://iskole.net/jet_iskole_forelder" target="_blank">https://iskole.net/forelder</a> og klikk _Registrer foreldrekonto_.
 
-![Innlogging og registrering](/img/iskole_forelder_innlogging.png)
-*Innlogging og registrering*
+<figure>
+    <img src="/img/iskole_forelder_innlogging.png"
+         alt="Innlogging og registrering">
+    <figcaption>Innlogging og registrering for foreldre</figcaption>
+</figure>
 
 Fyll inn opplysningene som etterspørres. Alle feltene er obligatoriske og må fylles ut.
 ![Registrering](/img/iskole_forelder_registrering_1.png)
