@@ -6,52 +6,47 @@ sidebar_label: iSkole forelder
 
 iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer. iSkole er tilgjengelig for elever, og foreldre for elever under 18 år. Sidene er responsive og tilpasser seg størrelsen på skjermen. iSkole kan også installeres på  smarttelefoner som en «Progressive Web App» og dermed få sitt eget ikon som man kan starte iSkole fra.
 
+:::tip Merk
+Funksjonaliteten beskrevet her er under konstruksjon og blir snart tilgjengelig.
+:::
+
 ## Pålogging for foreldre
 
 ### Innledning 
-Foreldre kan logge på iSkole straks skolen har registrert dem. Skolen kan generere et informasjonsbrev som opplyser om iSkoles adresse, og hvilket
-brukernavn og passord man skal benytte for pålogging. 
+Foreldre kan logge på iSkole straks skolen har registrert dem. Skolen må generere et informasjonsbrev som opplyser om iSkoles adresse og en kode som må benyttes for å opprette en foreldre konto. 
 
-iSkole krever at det er registrert eget fødselsnr på forelderen for at forelderen skal kunne logge på. 
+iSkole krever at det er registrert fødselsnr på forelderen, dette fylles inn av forelderen ved registrering. 
 
-For de som ønsker å benytte iSkole fra telefonen, så kan man med fordel velge å installere og iSkole som en «progressive web app». Det er en beskrivelse for hvordan man gjør det fra info-siden i iSkole. 
+For de som ønsker å benytte iSkole fra telefonen, så kan man med fordel velge å installere og iSkole som en «progressive web app». Det er en beskrivelse for hvordan man gjør dette fra info-siden i iSkole. 
 
-### Passordbrevet fra skolen
-Passordbrevet fra skolen inneholder nettadressen og passordet, og informasjon om hva forelderen skal benytte som brukernavn. Det er to versjoner av
-passordbrevet — en for foreldre som ikke er registrert med eget fødselsnr i iSkole, og en for foreldre som er registrert med eget fødselsnr i iSkole. I eksemplene benytter vi de fiktive navnene _Marte Kirkerud_ på eleven og _Hans Tastad_ på avsenderen av passordbrevet.
+### Informasjonsbrev fra skolen
+Informasjonsbrevet fra skolen inneholder nettadressen (_https://iskole.net/forelder_), en og kode. I eksemplene benytter vi de fiktive navnene _Marte Kirkerud_ på eleven og _Hans Tastad_ på avsenderen av informasjonsbrevet.
 
-Under vises et utklipp av passordbrevet for forelder _2_ hvor det ikke er registrert fødselnummer på forelderen. 
+Under vises et utklipp av informasjonsbrevet til forelderen.
 
 ![image](https://user-images.githubusercontent.com/10975905/187922913-ba926474-105a-4e5d-b2dc-b048ed860ade.png)
 
-Under vises vises et utsnitt av passordbrevet til forelder _1_ som har fått registrert sitt fødselsnummer i iSkole. 
-
-![image](https://user-images.githubusercontent.com/10975905/187923030-dece63b5-f32b-4b55-a1d8-06156ab879a2.png)
-
-
 ### Pålogging
+Foreldrene kan ikke benytte seg av Feide, men må benytte brukernavn og passord. Brukernavnet er forelderens fødselsnummer og passordet blir sendt på e-post ved registrering. Dersom man tidligere har benyttet iSkole, men har glemt passord, kan man benytte _Glemt passord?_-funksjonen fra innlogginssiden.
 
-#### For foreldre uten eget fødselsnr i iSkole
-Foreldrene kan ikke benytte seg av Feide, men må benytte brukernavn og passord gitt fra skolen eller hentet med _Glemt passord?_-funksjonen. Som eksempelet vist i brevet for pålogging uten eget fødselsnr, er adressen til iSkole _https://iskole.net_ og forelderen skal benytte Martes fødselsnummer etterfulgt av \#2 som brukernavn. Martes fødselsnummer er ikke med i brevet, men det har forelderen tilgang på enten ved å se i passet til Marte, eller fødselsattesten til Marte. I dette eksempelet er Marte født den 20. januar 2004 og har personnummer 55555. Fødselsnummeret er elleve siffer og for Marte er det da 20010455555. Siden det er forelder _2_ som skal logge på, så må _#2_ legges bak fødselsnummeret til Marte for å få et fullstendig brukernavn. Påloggingssiden er vist i skjermutklippet under.
+#### Registrering på iSkole
+For å registrere foreldrekonto på iSkole må man først ha fått et informasjonsbrev fra skolen med en kode som skal benyttes til registreringen.
 
-![image](https://user-images.githubusercontent.com/10975905/187921550-2132347c-7059-4106-b586-581053a034d5.png)
+Gå til <a href="https://iskole.net/jet_iskole_forelder" target="_blank">https://iskole.net/forelder</a> og klikk _Registrer foreldrekonto_.
+![Innlogging og registrering](/img/iskole_forelder_innlogging.png 'Innlogging og registrering')
 
-Etter pålogging får forelderen anledning til å registrere egen fødselsdato og eget personnummer. Det er nødvendig for å komme videre. Skjermbildet for å registrere fødselsdato og personnummer er vist i skjermutklippet under.
+Fyll inn opplysningene som etterspørres, alle er obligatoriske og må fylles ut.
+![Registrering](/img/iskole_forelder_registrering_1.png 'Registrering')
 
-![image](https://user-images.githubusercontent.com/10975905/187921425-cf8802d5-32df-46e4-a50d-c78b09539643.png)
+Når alle opplysninger er utfylt, klikk _Kontroller opplysninger_. iSkole vil nå knytte din konto til eleven. Dersom skolen allerede har lagret en e-postadresse på deg, vil vi forhåndsutfylle denne, du kan endre denne om ønskelig. Denne e-postadressen vil bli brukt for å sende deg passord til iSkole og kan benyttes av skolen for å sende deg informasjon.
 
+Fyll inn, eventuelt korriger e-postadressen og klikk _Registrer konto_. Et passord vil nå bli generert og sendt på e-post.
+![Registrering_2](/img/iskole_forelder_registrering_2.png 'Registrering del 2')
 
-Forelderen må taste inn fødselsdato og personnummer og trykke på knappen _Registrer_. iSkole gjør en kontroll av inntastede data og sjekker at de gir grunnlag for et gyldig fødselsnr. Hvis kontrollen godkjenner de inntastede data, så vil iSkole lagre dem og gjøre knappen _Nye iskole_ tilgjengelig slik at forelderen kan velge å fortsette inn i iSkole, vist i skjermutklippet under
+#### Jeg er allerede registrert
+Dersom du har flere barn eller allerede har en konto på iSkole kan du logge inn og legge til barnet fra menyvalget _Barn_. Klikk _Legg til barn_ og fyll inn elevens fødselsdato, personnummer og koden fra informasjonsbrevet.
 
-![image](https://user-images.githubusercontent.com/10975905/187921707-41de5986-7385-4542-9701-fe58bb066218.png)
-
-Merk at hvis man har flere barn ved skolen, så må man gjøre det samme en gang for hvert barn. Dette er fordi iSkole må opprette koblingen mellom forelder og barn. 
-
-#### For foreldre med eget fødselsnr i iSkole
-
-Foreldrene med eget fødselsnr registrert i iSkole benytter dette som brukernavn. Innloggingssiden for nye iSkole for foreldre har nettadressen _https://iskole.net/jet_iskole_forelder_ og ser ut som vist i skjermutklippet under.
-
-![image](https://user-images.githubusercontent.com/10975905/187921896-e3840a6f-b47e-449e-9e59-04932edb60eb.png)
+![image](/img/iskole_forelder_legg_til_barn.png)
 
 ### Etter pålogging
 Hvis du har flere barn på skolen, må du velge hvilket barn du ønsker å se. Du kan når som helst bytte barn ved å velge _Barn_ i hovedmenyen.
