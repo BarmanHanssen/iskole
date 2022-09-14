@@ -13,9 +13,7 @@ Funksjonaliteten beskrevet her er under konstruksjon og blir snart tilgjengelig.
 ## Pålogging for foreldre
 
 ### Innledning 
-Foreldre kan logge på iSkole straks skolen har registrert dem. Skolen må generere et informasjonsbrev som opplyser om iSkoles adresse og en kode som må benyttes for å opprette en foreldre konto. 
-
-iSkole krever at det er registrert fødselsnr på forelderen, dette fylles inn av forelderen ved registrering. 
+Foreldre kan logge på iSkole straks skolen har registrert dem. Skolen må generere et informasjonsbrev som opplyser om iSkoles adresse og en kode som må benyttes for å opprette en foreldrekonto. 
 
 For de som ønsker å benytte iSkole fra telefonen, så kan man med fordel velge å installere og iSkole som en «progressive web app». Det er en beskrivelse for hvordan man gjør dette fra info-siden i iSkole. 
 
@@ -27,15 +25,16 @@ Under vises et utklipp av informasjonsbrevet til forelderen.
 ![image](https://user-images.githubusercontent.com/10975905/187922913-ba926474-105a-4e5d-b2dc-b048ed860ade.png)
 
 ### Pålogging
-Foreldrene kan ikke benytte seg av Feide, men må benytte brukernavn og passord. Brukernavnet er forelderens fødselsnummer og passordet blir sendt på e-post ved registrering. Dersom man tidligere har benyttet iSkole, men har glemt passord, kan man benytte _Glemt passord?_-funksjonen fra innlogginssiden.
+Foreldre logger inn med brukernavn og passord. Brukernavnet er forelderens fødselsnummer og passordet blir sendt på e-post ved registrering. Dersom man tidligere har benyttet iSkole, men har glemt passord, kan man benytte _Glemt passord?_-funksjonen fra innlogginssiden. Foreldre kan ikke benytte seg av Feide.
 
 #### Registrering på iSkole
 For å registrere foreldrekonto på iSkole må man først ha fått et informasjonsbrev fra skolen med en kode som skal benyttes til registreringen.
 
 Gå til <a href="https://iskole.net/jet_iskole_forelder" target="_blank">https://iskole.net/forelder</a> og klikk _Registrer foreldrekonto_.
+
 ![Innlogging og registrering](/img/iskole_forelder_innlogging.png 'Innlogging og registrering')
 
-Fyll inn opplysningene som etterspørres, alle er obligatoriske og må fylles ut.
+Fyll inn opplysningene som etterspørres. Alle feltene er obligatoriske og må fylles ut.
 ![Registrering](/img/iskole_forelder_registrering_1.png 'Registrering')
 
 Når alle opplysninger er utfylt, klikk _Kontroller opplysninger_. iSkole vil nå knytte din konto til eleven. Dersom skolen allerede har lagret en e-postadresse på deg, vil vi forhåndsutfylle denne, du kan endre denne om ønskelig. Denne e-postadressen vil bli brukt for å sende deg passord til iSkole og kan benyttes av skolen for å sende deg informasjon.
@@ -55,5 +54,5 @@ Hvis du har flere barn på skolen, må du velge hvilket barn du ønsker å se. D
 Om man ønsker å bytte passordet til noe enklere enn det som er maskingenerert, så er det full anledning til det. Velg da _Endre passord_ fra menyen som nås gjennom å trykke på navnet oppe til høyre i skjermbildet. 
 
 ### Bestille nytt passord
-Foreldre som er registrert med sin e-postadresse i iSkole, kan også selv bestille nytt passord ved å trykke på lenken _Glemt passord?_ fra innloggingssiden. Man må deretter fylle inn egen e-post og eget fødselsnr. iSkole vil generere et nytt passord og sende det til den oppgitte e-postadressen såfremt det er den samme som er registrert i iSkole. 
+Foreldre kan selv bestille nytt passord ved å trykke på lenken _Glemt passord?_ fra innloggingssiden. Man må deretter fylle inn egen e-post og eget fødselsnr. iSkole vil generere et nytt passord og sende det til den oppgitte e-postadressen såfremt det er den samme som er registrert i iSkole. 
 
