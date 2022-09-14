@@ -44,7 +44,7 @@ Fyll inn, eventuelt korriger e-postadressen og klikk _Registrer konto_. Et passo
 
 
 ### Jeg er allerede registrert
-Dersom du har flere barn eller allerede har en konto på iSkole kan du logge inn og legge til barnet fra menyvalget _Barn_. Klikk _Legg til barn_ og fyll inn elevens fødselsdato, personnummer og koden fra informasjonsbrevet.
+Dersom du har flere barn og tidligere gjennomført registreringen, eller allerede har en konto på iSkole, kan du logge inn og legge til barnet fra menyvalget _Barn_. Klikk _Legg til barn_ og fyll inn elevens fødselsdato, personnummer og koden fra informasjonsbrevet.
 
 ![image](/img/iskole_forelder_legg_til_barn.png)   
 *Dialogvinduet for å legge til barn*
