@@ -6,10 +6,6 @@ sidebar_label: iSkole forelder
 
 iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer. iSkole er tilgjengelig for elever, og foreldre for elever under 18 år. Sidene er responsive og tilpasser seg størrelsen på skjermen. iSkole kan også installeres på  smarttelefoner som en «Progressive Web App» og dermed få sitt eget ikon som man kan starte iSkole fra.
 
-:::warning Merk
-Funksjonaliteten beskrevet her er under konstruksjon og blir snart tilgjengelig.
-:::
-
 ## Pålogging for foreldre
 
 ### Innledning 
@@ -47,7 +43,7 @@ Fyll inn, eventuelt korriger e-postadressen og klikk _Registrer konto_. Et passo
    
 
 ### Jeg er allerede registrert
-Dersom du har flere barn og tidligere gjennomført registreringen, eller allerede har en konto på iSkole, kan du logge inn og legge til barnet fra menyvalget _Barn_. Klikk _Legg til barn_ og fyll inn elevens fødselsdato, personnummer og koden fra informasjonsbrevet.
+Dersom du har flere barn og tidligere har gjennomført registreringen, eller allerede har en konto på iSkole, kan du logge inn og legge til barnet fra menyvalget _Barn_. Klikk _Legg til barn_ og fyll inn elevens fødselsdato, personnummer og koden fra informasjonsbrevet.
 
 ![image](/img/iskole_forelder_legg_til_barn.png)   
 *Dialogvinduet for å legge til barn*
