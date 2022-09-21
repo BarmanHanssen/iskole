@@ -1,6 +1,6 @@
 ---
 id: ea_passord_foreldre
-title: Passord foreldre
+title: Tilgang foreldre
 sidebar_label: Tilgang foreldre
 ---
 
