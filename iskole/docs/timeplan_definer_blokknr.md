@@ -25,11 +25,15 @@ Det er mulig å benytte gruppefag, og timeplanlegging av disse, uten å benytte 
 Vi grupperer på to måter:
 - ID: Fag med lik ID skal ha lik timeplan. Altså kan en elev bare velge gruppefag med ulike ID-er.
 - Blokkknr: Her spesifiseres timene, før timeplanen er bestemt. Et bestemt blokknr kan bare benyttes en gang.
+- Trinn: Benyttes i forbindelse når elevene selv velger gruppefag.
 
 Gruppefagene kan knyttes til en ID fra _Time- og fagfordeling>Gruppefag_, begrenset til de registrerte ID-er som er lagt inn her. Dersom elevene selv skal kunne få velge gruppefag for neste skoleår: Se _Mine sider>Tilgang>Elevers valg av gruppefag_.
 
+### ID
+Identifikator som gjør det enkelt å gruppere fag som skal ha lik timeplan. Bør tas i bruk, da den letter arbeidet med å ferdigstille timeplanen. ID kan legges inn på faget fra _Time- og fagfordeling>Gruppefag_.
+
 ### Blokknr
-Dersom man benytte fortløpende nummerering av blokknr gir det  god visuell oversikt når gruppefagene tildeles blokknr fra _Blokknr gruppefag_. Vanligvis har gruppefagene 5 timer per uke. Fag med mindre enn 5 timer kan ligge i en blokk med 5 timer, hvilke bloknr som skal benyttes bestemmes fra _Blokknr gruppefag_. Dersom noen fag har mer enn 5 timer, kan de overskytende timer også plasseres fra _Blokknr gruppefag_. 
+Dersom man benytter fortløpende nummerering av blokknr gir det god visuell oversikt når gruppefagene tildeles blokknr fra _Blokknr gruppefag_. Vanligvis har gruppefagene 5 timer per uke. Fag med mindre enn 5 timer kan ligge i en blokk med 5 timer, hvilke bloknr som skal benyttes bestemmes fra _Blokknr gruppefag_. Dersom noen fag har mer enn 5 timer, kan de overskytende timer også plasseres fra _Blokknr gruppefag_. 
 
 :::note Tips
 Dersom gruppene gis ID fra _Time- og fagfordeling>Gruppefag_ (anbefales!), vil plassering av blokknumrene på fagene (fra _Blokknr gruppefag_) gå raskt. Blokknumrene kan da plasseres på hvert fag ut fra fagets ID.
@@ -42,8 +46,8 @@ Benyttes når elevene selv skal velge gruppefag for neste skoleår. For at eleve
 - Årets elever som skal kunne velge gruppefag må flyttes opp til neste planperiode. (Se _Elevadmin.>Oppflytting_)
 - Det er åpnet et tidsintervall fra årets planperiode for når valget kan finne sted. (Se _Mine sider>Tilgang>Elevers valg av gruppefag_)
 
-Det er altså årets vg1- og vg2-elever som er aktuelle kandidater til å velge gruppefag for neste skoleår. De blir da henholdsvis vg2- og vg3-elever og kan velge fag registrert med ulik ID. 
+Det er altså årets vg1- og vg2-elever som er aktuelle kandidater til å velge gruppefag for neste skoleår. De blir da henholdsvis vg2- og vg3-elever og kan velge fag registrert med ulik ID. Men neste års vg2-elever kan eksempelvis bare velge fag med ID hvor det er huket av for _Trinn 2_.
 
-Merk at også registrert gruppefag uten ID kommer opp på elevens valgsliste, og kan velges. Dette muliggjør et annet mønster for valg hvor en i første valgomgang ikke benytter ID. Da må en etter valget foretar en analyse for å sette opp hvilke fag som kan timeplanelegges parallelt, og deretter eventuelt legge inn ID på fagene. Se spesielt avsnittet _De enkelte elevs valgmuligheter_ som du finner under menyvalget _Emner>Timeplanlegging_ i venstre marg.
+Merk at også registrert gruppefag uten ID kommer opp på elevens valgsliste, og fagene kan da velges fritt uten noen begrensning. Da må en etter valget foretar en analyse for å sette opp hvilke fag som kan timeplanelegges parallelt, og deretter eventuelt legge inn ID på fagene. Se spesielt avsnittet _De enkelte elevs valgmuligheter_ som du finner under menyvalget _Emner>Timeplanlegging_ i venstre marg.
 
 Se figuren ovenfor: Eksempelvis kan neste års vg2-elever (trinn 2) bare kunne velge to gruppefag, nemlig et fag som har ID=4, og et fag som har ID=5. Vg3-elevene har her hele 5 grupper fag å velge mellom!
