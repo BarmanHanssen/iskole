@@ -7,7 +7,7 @@ sidebar_label: Blokknr gruppefag
 ## Innledning
 
 :::note Merk
-Blokknummeret må være timeplanlagt fra _Timeplan blokknr_ før blokknr kan reigstreres på gruppefag. Før blokknumrene er timeplanlagt, kan man imidlertid reservere tider for gruppefagene på klassens timeplan fra _Blokknr klasse_.
+Blokknummeret må være timeplanlagt fra _Timeplan blokknr_ før blokknr kan reigstreres på gruppefag. Før gruppefagene er timeplanlagt, kan man imidlertid reservere tider for gruppefagene på klassens timeplan fra _Blokknr klasse_. På den måten kan en reservere timer på timeplanen for gruppefag, og derigjennom  forhindre konflikt mellom gruppe- og klassefag dersom man velger å timeplanlegge klassefagene først.
 :::
 
 Skjermbildet viser hvordan fagene er gruppert i forhold til hverandre. Gruppefag med lik timeplan har like blokknumre. 
@@ -15,18 +15,17 @@ Skjermbildet viser hvordan fagene er gruppert i forhold til hverandre. Gruppefag
 Hvert blokknummer representerer altså en bestemt time på timeplanen. Vi velger først hvilken uke vi skal legge inn blokknr for, første skoleuke anbefales. Det er komplisert, og derfor sjeldent aktuelt, å endre på oppsettet som gjøres her. Etter å ha ferdigstilt registrering i første skoleuke, kan man så kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, da systemet til enhver tid vil kontrollere at ikke kollisjoner oppstår.
 
 Eksempel hvor blokknumrene er lagt inn på gruppefag:
-![bilde](https://user-images.githubusercontent.com/80097133/191733578-e056ded5-6f40-4033-a0f3-d13e119d42d5.png)
+![image](https://user-images.githubusercontent.com/80097133/118975143-f81d9d00-b973-11eb-85e2-40dfb2a2bcef.png)
 
 ## Registrering av blokknr på gruppefag
 Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og rom vises under tabellen med alle gruppefagene. Velges ST3:ESA 1 fra skjermbildet ovenfor, kommer følgende frem under tabellen med fag:
 
-![image](https://user-images.githubusercontent.com/80097133/118976457-513a0080-b975-11eb-80d5-79a9b382adae.png)
+![bilde](https://user-images.githubusercontent.com/80097133/191734251-18eb25ff-f7d6-43f6-a97a-711c963938a7.png)
 
 Timetallet er det mulig å endre. Det er hentet fra _Grunnlagsdata>Fag_ og kan endres også derfra. 
 Rom Z107 er også hentet fra _Grunnlagsdata>Fag_ og vil bli foreslått når Romnr skal utfylles. Her har timeplanlegger valgt å endre rom for faget, det valgt rom Y202 fra nedtrekkslisten som viser mulige rom.
 
 Dersom man nå skal registrere blokknr på et nytt gruppefag, vil skjermbildet bli slik:
-![bilde](https://user-images.githubusercontent.com/80097133/191733989-32b6adb4-a041-4873-abc1-f9fe0f612536.png)
 
 Velg Romnr for første blokknr. Dette rommet tas automatisk med videre som førstevalg. Dersom faget er gitt ID fra _Time- og fagfordeling>Gruppefag_ (anbefales, kan etterregistreres!),og tabellen med ID og blokknr er lagt inn fra _Definer blokknr_, vil alle fem timene innføres med sine respektive blokknr, og valgte romnr, med et museklikk. Dersom en må gjøre dette manuelt, og dersom blokknr er i rekkefølge: Legg inn det første blokknr for faget, videre kan førstevalget i nedtrekksliste benyttes: «+1»
 
