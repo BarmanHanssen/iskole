@@ -8,7 +8,7 @@ Begrunnelsen for å innføre blokknummer var et ønske om en mer abstrakt måte 
 
 To blokknummer bør altså ikke overlappe hverandre i tid, det ville kunne medføre kollisjon på timeplanen (noe systemet automatisk vil avdekke).
 
-Når blokknummer legges på et fag, så hentes start- og slutt-tid for timen ut fra tabellen i _Time_. Endrer man etterpå tabellen Time, vil dette ikke berøre timene for fag som alt er tildelt blokknummer. Skal endringen kunne skje for et allerede plassert gruppefag, må lagte blokknummer på faget fjernes, og så legges inn på nytt.
+Når blokknummer legges på et fag, så hentes start- og slutt-tid for timen ut fra tabellen i _Time_. Endrer man etterpå tabellen Time, vil dette ikke berøre timene for fag som alt er tildelt blokknummer. Tabellen _Time_ er altså en mal som gjør det enkelt å besteme dag og start-/slutt på en undervisningstime. Når blokknummeret blir lagret på et fag, overføres altså dag og start-/slutt til timen, og koplingen mot tabellen opphører. Det betyr at dersom det i ettertid gjøres endringer i tabellen _Time_, så påvirker ikke dette allerede blokknumre som er plassert på gruppefag. Det sier seg selv at innholdet i tabellen _Time_ ikke bør endres etter at fagene har fått tildelt blokknumre. Skal endringen kunne skje for et allerede plassert blokknummer i et fag, og blokknummeret får endret dag/tid, må blokknummer på faget fjernes, og så legges inn på nytt.
 
 Eksempel på ferdiglagt timeplan for blokknr:
 
