@@ -15,7 +15,7 @@ Skjermbildet viser hvordan fagene er gruppert i forhold til hverandre. Gruppefag
 Hvert blokknummer representerer altså en bestemt time på timeplanen. Vi velger først hvilken uke vi skal legge inn blokknr for, første skoleuke anbefales. Det er komplisert, og derfor sjeldent aktuelt, å endre på oppsettet som gjøres her. Etter å ha ferdigstilt registrering i første skoleuke, kan man så kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, da systemet til enhver tid vil kontrollere at ikke kollisjoner oppstår.
 
 Eksempel hvor blokknumrene er lagt inn på gruppefag:
-![image](https://user-images.githubusercontent.com/80097133/118975143-f81d9d00-b973-11eb-85e2-40dfb2a2bcef.png)
+![bilde](https://user-images.githubusercontent.com/80097133/191733578-e056ded5-6f40-4033-a0f3-d13e119d42d5.png)
 
 ## Registrering av blokknr på gruppefag
 Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og rom vises under tabellen med alle gruppefagene. Velges ST3:ESA 1 fra skjermbildet ovenfor, kommer følgende frem under tabellen med fag:
@@ -26,7 +26,7 @@ Timetallet er det mulig å endre. Det er hentet fra _Grunnlagsdata>Fag_ og kan e
 Rom Z107 er også hentet fra _Grunnlagsdata>Fag_ og vil bli foreslått når Romnr skal utfylles. Her har timeplanlegger valgt å endre rom for faget, det valgt rom Y202 fra nedtrekkslisten som viser mulige rom.
 
 Dersom man nå skal registrere blokknr på et nytt gruppefag, vil skjermbildet bli slik:
-![bilde](https://user-images.githubusercontent.com/80097133/160113124-95ebbf9b-4d55-47df-bb4a-54c7637a418a.png)
+![bilde](https://user-images.githubusercontent.com/80097133/191733989-32b6adb4-a041-4873-abc1-f9fe0f612536.png)
 
 Velg Romnr for første blokknr. Dette rommet tas automatisk med videre som førstevalg. Dersom faget er gitt ID fra _Time- og fagfordeling>Gruppefag_ (anbefales, kan etterregistreres!),og tabellen med ID og blokknr er lagt inn fra _Definer blokknr_, vil alle fem timene innføres med sine respektive blokknr, og valgte romnr, med et museklikk. Dersom en må gjøre dette manuelt, og dersom blokknr er i rekkefølge: Legg inn det første blokknr for faget, videre kan førstevalget i nedtrekksliste benyttes: «+1»
 
