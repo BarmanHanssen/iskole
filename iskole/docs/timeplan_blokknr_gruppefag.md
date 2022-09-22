@@ -29,6 +29,7 @@ Blokknr: Dag og tid for hvert blokknummer er opprinnelig hentet fra hva som er l
 Rom Z107 er også hentet fra _Grunnlagsdata>Fag_ og vil bli foreslått når Romnr skal utfylles. Her har timeplanlegger valgt å endre rom for faget. Det valgte rom ,Y202, er hentet fra nedtrekkslisten. Rommene i nedtrekkslisten er registrert fra _Grunnlagsdata>Rom_.
 
 Dersom man nå skal registrere blokknr på et nytt gruppefag, vil skjermbildet bli slik:
+![bilde](https://user-images.githubusercontent.com/80097133/191739144-f83d8a36-f805-45f0-acc4-44f6f88d93ee.png)
 
 Velg Romnr for første blokknr. Dette rommet tas automatisk med videre som førstevalg. Dersom faget er gitt ID fra _Time- og fagfordeling>Gruppefag_ (anbefales, kan etterregistreres!),og tabellen med ID og blokknr er lagt inn fra _Definer blokknr_, vil alle fem timene innføres med sine respektive blokknr, og valgte romnr, med et museklikk. Dersom en må gjøre dette manuelt, og dersom blokknr er i rekkefølge: Legg inn det første blokknr for faget, videre kan førstevalget i nedtrekksliste benyttes: «+1»
 
