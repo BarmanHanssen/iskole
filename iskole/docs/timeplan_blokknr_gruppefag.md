@@ -31,7 +31,7 @@ Rom Z107 er også hentet fra _Grunnlagsdata>Fag_ og vil bli foreslått når Romn
 Dersom man nå skal registrere blokknr på et nytt gruppefag, vil skjermbildet bli slik:
 ![bilde](https://user-images.githubusercontent.com/80097133/191739144-f83d8a36-f805-45f0-acc4-44f6f88d93ee.png)
 
-Velg Romnr for første blokknr. Dette rommet tas automatisk med videre som førstevalg. Dersom faget er gitt ID fra _Time- og fagfordeling>Gruppefag_ (anbefales, kan etterregistreres!),og tabellen med ID og blokknr er lagt inn fra _Definer blokknr_, vil alle fem timene innføres med sine respektive blokknr, og valgte romnr, med et museklikk. Dersom en må gjøre dette manuelt, og dersom blokknr er i rekkefølge: Legg inn det første blokknr for faget, videre kan førstevalget i nedtrekksliste benyttes: «+1»
+Velg Romnr for første blokknr. Dette rommet tas automatisk med videre som førstevalg. Dersom faget er gitt ID fra _Time- og fagfordeling>Gruppefag_ (anbefales, kan etterregistreres!),og tabellen med ID og blokknr er lagt inn fra _Definer blokknr_, vil alle timene innføres med sine respektive blokknr, og valgte romnr, med et museklikk. Dersom en må gjøre dette manuelt, og dersom blokknr er i rekkefølge: Legg inn det første blokknr for faget, videre kan førstevalget i nedtrekksliste benyttes: «+1»
 
 Når man trykker på _Lagre_, vil iSkole først sjekke at blokknumrene er timeplanlagt, og deretter at foreslåtte blokknr ikke kommer i konflikt med annen aktivtet for fagets lærer. Dersom elever er registrert i gruppefag, gjøres også sjekk mot deres timeplan. Også romvalget kontrollleres. Dersom ingen kollisjoner påvises, vil blokknumrene for faget lagres. Da er faget ferdig timeplanlagt, og vil nå vises på faglærers, og alle fagets elevers timeplan.
 
