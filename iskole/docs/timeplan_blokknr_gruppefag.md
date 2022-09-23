@@ -41,5 +41,5 @@ Det kan i ettertid være aktuelt å gjøre endringer for en eller flere uker. Ek
 
 ## Endre blokknr
 
-Et valgt blokknr kan når som helst byttes ut med et annet. Nytt blokknr kontrolleres på vanlig måte (se ovenfor) før det kan lagres.
-Ingenting lagres før du trykker _Lagre_!
+Et valgt blokknr kan når som helst byttes ut med et annet. Nytt blokknr kontrolleres og vil avdekke kollisjoner for involverte elever og faglærer. Kollisjon for lærer godtas ikke, men timeplanlegger kan tillate kollisjon på elevs timeplan.
+Ingenting lagres før det trykkes _Lagre_!
