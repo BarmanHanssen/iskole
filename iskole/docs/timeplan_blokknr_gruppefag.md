@@ -24,7 +24,7 @@ Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og 
 
 Timetallet (her: _Timer 5_) er det mulig å endre for denne uken. Det er hentet fra _Grunnlagsdata>Fag_ og kan endres også derfra. 
 
-Blokknr: Dag og tid for et blokknummer må være registrert fra menyvalget _Time_ før det kan innsettes her. Dersom det gjøres endringer på dag og/eller tid på et blokknummer fra _Time_ etter at gruppefaget ble timeplangt, vil endringen ikke avspeiles her. Dersom endringen skal gjelde for dette faget, må man velge blokknumret på nytt fra nedtrekkslisten. Nedtrekkslisten representerer til enhver tid  gjeldende dag/tid for timeplanlegger.
+Blokknr: Dag og tid for et blokknummer må være registrert fra menyvalget _Time_ før det kan innsettes her. Dersom det gjøres endringer på dag og/eller tid på et blokknummer fra _Time_ etter at gruppefaget ble timeplangt, vil endringen ikke avspeiles her. Dersom endringen skal gjelde for dette faget, må man velge blokknumret på nytt fra nedtrekkslisten. Nedtrekkslisten representerer til enhver tid  gjeldende dag/tid for hvert blokknummer.
 
 Rom Z107 er også hentet fra _Grunnlagsdata>Fag_ og vil bli foreslått når Romnr skal utfylles. Her har timeplanlegger valgt å endre rom for faget. Det valgte rom ,Y202, er hentet fra nedtrekkslisten. Rommene i nedtrekkslisten er registrert fra _Grunnlagsdata>Rom_.
 
