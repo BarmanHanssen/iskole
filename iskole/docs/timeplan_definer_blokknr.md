@@ -5,6 +5,8 @@ sidebar_label: Definer blokknr
 ---
 Når undervisning i et fag har elever fra ulike klasser, klassifiseres faget som gruppefag. Merk at dersom klassens elever i et klassensfag deles i flere grupper, kan også dette faget klassifiseres som gruppefag.
 
+Begrunnelsen for å innføre blokknummer var et ønske om en mer abstrakt måte å angi en undervisningstime på. Eksempelvis skal to grupper ha fem timer undervisning per uke og undervises parallelt. Vi gir da gruppene like blokknumre. At gruppene har like blokknumre forteller bare at fagene skal undervises parallelt. I utgangspunktet sier det ikke hvor timene skal plasseres på timeplanen. Det kan bestemmes på et senere tidspunkt (se _Timeplanlegge blokknr._).
+
 Dersom skolen ikke har gruppefag, skal man ikke å avhuke for _Bruker blokkskjema_. Uten gruppefag skal all undervisning i fag foregå i klassen med alle elevene samlet, og fagene er klassifisert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Timeplanlegge klasse_.
 
 ## Blokkskjema
