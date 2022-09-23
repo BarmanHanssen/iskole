@@ -15,8 +15,7 @@ Hensikten med dette valget:
 
 Markeringen kan altså gjøres ved hjelp av blokknummer.
 
-Dersom gruppefag benyttes:
-Det kan være greit å ha bestemt hvor gruppefagene skal timeplanlegges allerede før elevene har valgt gruppefag. Da kan aktuelle gruppefag plasseres i ettertid der vi har avsatt tid for disse. Dersom timene alt er bestemt, kan konflikt og endringer på klassetimeplanen unngås. Og gruppene kan sømløst få sin timeplan når gruppene, med elever, er på plass.
+Det kan være greit å ha bestemt hvor gruppefagene skal timeplanlegges, endog før gruppefagene er satt opp, og alså før elevene har valgt gruppefag. Da kan aktuelle gruppefag plasseres i ettertid der vi har avsatt tid for disse. Dersom tidene alt er bestemt, kan konflikt og endringer på klassetimeplanen unngås. Og gruppene kan sømløst få sin timeplan når gruppene, med elever, er på plass.
 
 ## Dersom gruppefagene timeplanlegges først 
 
