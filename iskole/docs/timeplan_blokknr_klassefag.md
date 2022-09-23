@@ -49,6 +49,8 @@ For at blokkeringen skal vises når timeplanlegging av klassefag av klassefag fi
 
 ## Etterord
 
-Valget _Benytt minste utvalg_, som overfører elevenes blokknumrene til _Tildelte blokknr_ for klassen, kan en trygt ignorere! 
+_Minste utvalg av blokknummer_ 
+Dersom elevene har valgt gruppefag, og gruppefagene har fått tildelt blokknumme: iSkole lister da opp blokknumrene som inngår i elevenes valg av gruppefag.
 
-Når en timeplanlegger klassefag, vil systemet automatisk kontrollere både mot  _Minste utvalg av blokknummer_, og mot _Tildelte blokknr_.
+Når klassefag timeplanlegges, vil systemet automatisk kontrollere både mot  _Minste utvalg av blokknummer_, og mot _Tildelte blokknr_.
+
