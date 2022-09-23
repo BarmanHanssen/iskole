@@ -9,13 +9,9 @@ Hva skal timeplanlegges først, klasse- eller gruppe-fagene? Timeplanlegger best
 
 ## Dersom klassefagene timeplanlegges først 
 
-:::note Merk 
-Blokkering for timeplanlegging av klassefag kan benyttes selv om skolen ikke benytter gruppefag. Det er mulig å registrere blokknr før blokknumrene er timeplanlagt.
-:::
-
 Hensikten med dette valget:
 
-- Å markere at en time i valgt klasse ikke skal/kan brukes til timeplanlegging av et klassefag.
+- Å markere at en time i valgt klasse ikke skal/kan brukes til timeplanlegging av et klassefag. Vanligvis for å avsette tid for gruppefag, men også for andre formål.
 
 Markeringen gjøres ved hjelp av blokknummer.
 
@@ -26,8 +22,8 @@ Det kan være greit å ha bestemt hvor gruppefagene skal timeplanlegges allerede
 
 :::note Merk
 Dersom elevenes valg av gruppefag er gjennomført, og i tillegg følgende er på plass: 
-- Gruppefagenes blokknr er registert (fra _Blokknr gruppefag_).
 - Blokknumrene er timeplanlagt (fra _Timeplanlegge blokknr_).
+- Gruppefagenes blokknr er registert (fra _Blokknr gruppefag_).
 
 Da vil timene som elevene i en klasse skal følge i sine gruppefag automatisk være blokkert for timeplanlegging av klassefag!
 :::
