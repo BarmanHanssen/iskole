@@ -24,7 +24,6 @@ Gruppefagene har typisk fem undervisningstimer per uke. Vanlig oppsett for vider
 ## Gruppering av timer til valg
 Det er mulig å benytte gruppefag, og timeplanlegging av disse, uten å benytte ID, eller koplingen mellom ID og blokknr. Men det anbefales å benytte denne muligheten, da det gir bedre oversikt, og letter arbeidet videre.
 
-Vi grupperer på to måter:
 - ID: Fag med lik ID skal ha lik timeplan. Altså kan en elev bare velge gruppefag med ulike ID-er.
 - Blokkknr: Her spesifiseres timene, før timeplanen er bestemt. Et bestemt blokknr kan bare benyttes en gang.
 - Trinn: Benyttes i forbindelse når elevene selv velger gruppefag.
