@@ -91,7 +91,7 @@ Her telles fravær som ikke er dokumentert med gyldig årsak. [Se reglement hos 
 ### Alt fravær
 Du kan velge mellom en grafisk fremstilling av fraværet eller en liste. Grønt fravær er registert som dokumentert i henhold til Udirs reglement. Fravær som er blått har innmeldt årsak, enten gjennom egenmelding eller registert av læreren. Rødt fravær har ingen årsak, ved mange skoler vil dette medføre ordensanmerkning. Høyreklikk på fraværet for å registere egenmelding. Hvis du holder musepekeren over fraværet vil du få mer informasjon om timen. Hvis du har zoomet langt nok inn, vil hver boks også ha en kode. 
 
-:::note Fraværskoder
+:::important Fraværskoder
 
 - D = Dagfravær
 - I = Dagfravær som ikke teller på vitnemålet
