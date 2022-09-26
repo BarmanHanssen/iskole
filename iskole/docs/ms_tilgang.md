@@ -22,7 +22,6 @@ Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilv
 
 ![image](https://user-images.githubusercontent.com/80097133/120471255-c90c2000-c3a4-11eb-95b2-a17ed9d4efd4.png)
 
-
 ## Brukergrupper
 _Navn_ og _Beskrivelse_ sier det meste om de 25 definerte gruppene. Fra _Grupperettigheter_ fås detaljert oversikt over hvilke menyvalg den enkelte brukergruppe får tilgang til.
 
@@ -56,6 +55,10 @@ Rektor/administrator kan redigere rettigheter til ansatte. Dersom ingen brukergr
 Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, og når elevene gis innsyn til egne resultater.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/192269981-cb54cfaf-5aef-4b36-8724-b2bb1b596ebc.png)
+
+#### Innsyn for elevene fra og med/Avvikende publiseringsdatoer fro klasser
+Det er altså mulig å gi elevene i hver enkelt klasse spesifikk publiseringsdato. Når datoen er satt, vil datoen også vises for eleven.
+
 
 ## Elevers valg av programfag
 Dersom elevene kan velge fag i tillegg til klassefagene, kan elevene foreta valget direkte fra iSkole. Det er gruppefag som kan velges. Fagvalget foretas vanligvis i januar/februar og gjelder for fag som skal påbegynnes neste skoleår. Valget forutsetter derfor at neste års planperiode er opprettet.  Deretter at det er opprettet grupper i de aktuelle valgfagene (fra Time- og fagfordeling>Gruppefag),  og at de av årets elever som skal velge fag er flyttet opp til neste års planperiode (fra Elevadmin.>Oppflytting). 
