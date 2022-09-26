@@ -36,7 +36,7 @@ _Ansatt_: For å kunne få tilgang til denne modulen av iSkole må personen vær
 
 For ansatte hvor det er avhuket med _Pedagogisk ansatt_ vil vedkommende _(tildeles automatisk)_ rettigheter ut fra oppgaver som tildeles. Eksempelvis: Tildeles undervisning (fra _Time- og fagfordeling_) fås rettigheter til _Faglærer_ og _Fraværsfører_. I de fleste tilfeller skal pedagogisk ansatte ikke ha flere rettigheter. Eventuelt utvidede rettigheter kan tildeles av rektor, se under _Brukere_.
 
-_Kontor_: Denne gruppen gis tilgang til utvalgte deler av menyvalget _Elevadmin._ 
+_Kontor_: Denne gruppen gis tilgang til utvalgte deler av menyvalget _Elevadmin._ Ingen automatisk tilgang til denne gruppen!
 
 _Superbruker_: En superbruker gis rettighet til å overta identitet til annen bruker (se _Mine sider>Brukerrolle_).  Hensikten er å kunne veilede/hjelpe andre brukere. Superbruker kan imidlertid ikke endre data for den som skal hjelpes, det må vedkommende gjøre selv.
 
