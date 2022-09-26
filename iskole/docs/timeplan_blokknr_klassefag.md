@@ -34,7 +34,7 @@ Dersom dette er på plass, er valget med _Tildelte blokknr_ overflødig hva ang�
 - I tillegg til timene som gruppefagene vil legge beslag på, kan en fra _Blokknummer tildelt klasse for uken_ velge ekstra timer hvor klassefag ikke kan timeplanlegges. Se skjermbildet nedenfor hvor ytterligere to blokknumre for klasse ID1C er valgt.
 
 ## Blokknummer tildelt klasse for uken
-Dersom skolen har gruppefag, men at elevenes valg av gruppefagene ikke er fullført, og man ønsker å starte timeplanlegging av klassefagene:
+Dersom skolen har gruppefag, men elevenes valg av gruppefagene ikke er fullført, og man ønsker å starte timeplanlegging av klassefagene:
 
 Det kan være greit å markere hvilke timer som ikke kan timeplanenlegges med klassefag. Markeringen gir da mulig åpning for å plassere gruppefagene her.
 
