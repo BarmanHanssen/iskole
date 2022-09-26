@@ -46,7 +46,11 @@ Mer detaljert oversikt over hvilken tilgang som tildeles når en bruker tildeles
 Velg en brukergruppe fra nedtrekkslisten. Man får da en oversikt hvilke menyvalg som da blir tilgjengelig, og hvilke rettigheter som tildeles.
 
 ## Brukere
-Her kan rektor/administrator redigere rettigheter til ansatte. Dersom ingen brukergruppe(r) gir ønsket tilgang, kan rektor gi brukeren tilgang til spesifikke menyvalg.
+Her fås en oversikt som viser hvilke rettigheter de ansatte er tildelt.
+
+![bilde](https://user-images.githubusercontent.com/80097133/192266224-aefc230b-f2a0-4a8b-8930-ac73ceb55eeb.png)
+
+Rektor/administrator kan redigere rettigheter til ansatte. Dersom ingen brukergruppe(r) gir ønsket tilgang, kan rektor gi brukeren tilgang til spesifikke menyvalg.
 
 ## Karakterer
 Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, og når elevene gis innsyn til egne resultater.
