@@ -28,6 +28,8 @@ Navn og Beskrivelse sier det meste om de 25 definerte gruppene. Fra _Grupperetti
 Rektor kan gi den enkelte ansatte tilgang til det enkelte menyvalg uavhengig av brukergruppe.
 :::
 
+![bilde](https://user-images.githubusercontent.com/80097133/192249086-6ee0ffc9-6f83-45f5-b85d-252069ca4d72.png)
+
 ## Grupperettigheter
 Velg en brukergruppe fra nedtrekkslisten. Man får da en oversikt hvilke menyvalg som da blir tilgjengelig, og hvilke rettigheter som tildeles.
 
