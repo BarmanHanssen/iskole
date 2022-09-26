@@ -4,7 +4,8 @@ title: Tilgang
 sidebar_label: Tilgang
 ---
 
-Dette menyvalget er tilgjengelig for alle, men kun rektor og administrator har rettigheter til å gjøre endringer. Arkfanene _Brukere_ og _Romreservering_ er ikke synlig for andre enn rektor og administrator.
+Dette menyvalget er tilgjengelig for alle ansatte som er registrert. Når en asatt blir registrert med sluttet-dato, vil vekommende etter slutte-datoen ikke få tilgang til iSkole. Kun rektor og administrator har rettigheter til å gjøre endringer på den enkeltes rettigheter utover det som automatisk blir tildelt. 
+Arkfanene _Brukere_ og _Romreservering_ er ikke synlig for andre enn rektor og administrator.
 
 ## Nøkkelpersoner
 Nøkkelpersonene kan endres av rektor, administrator og skoleeier. Unntak er rektor som bare kan endres av skoleeier, og administrator som bare kan endres av skoleeier og rektor.
@@ -20,6 +21,8 @@ Nøkkelpersonene kan endres av rektor, administrator og skoleeier. Unntak er rek
 Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnader.
 
 ![image](https://user-images.githubusercontent.com/80097133/120471255-c90c2000-c3a4-11eb-95b2-a17ed9d4efd4.png)
+
+Når en
 
 ## Brukergrupper
 Navn og Beskrivelse sier det meste om de 25 definerte gruppene. Fra _Grupperettigheter_ fås detaljert oversikt over hvilke menyvalg den enkelte brukergruppe får tilgang til.
