@@ -55,7 +55,7 @@ Rektor/administrator kan redigere rettigheter til ansatte. Dersom ingen brukergr
 ## Karakterer
 Her blir det fastsatt når faglærerne kan innføre termin- og standpunktkarer, og når elevene gis innsyn til egne resultater.
 
-![image](https://user-images.githubusercontent.com/80097133/120457815-0b2e6500-c397-11eb-9157-96711b25ea38.png)
+![bilde](https://user-images.githubusercontent.com/80097133/192269981-cb54cfaf-5aef-4b36-8724-b2bb1b596ebc.png)
 
 ## Elevers valg av programfag
 Dersom elevene kan velge fag i tillegg til klassefagene, kan elevene foreta valget direkte fra iSkole. Det er gruppefag som kan velges. Fagvalget foretas vanligvis i januar/februar og gjelder for fag som skal påbegynnes neste skoleår. Valget forutsetter derfor at neste års planperiode er opprettet.  Deretter at det er opprettet grupper i de aktuelle valgfagene (fra Time- og fagfordeling>Gruppefag),  og at de av årets elever som skal velge fag er flyttet opp til neste års planperiode (fra Elevadmin.>Oppflytting). 
