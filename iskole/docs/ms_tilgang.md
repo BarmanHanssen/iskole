@@ -34,7 +34,7 @@ Rektor kan gi den enkelte ansatte tilgang til det enkelte menyvalg uavhengig av 
 
 _Ansatt_: For å kunne få tilgang til denne modulen av iSkole må personen være registreret fra _Elevadmin.>Ansatt_. Tilgangen er tidsbegrenset til datoene gitt mellom _Begynte_ og _Sluttet_.
 
-For ansatte hvor det er avhuket med _Pedagogisk ansatt_ vil de _(tildeles automatisk)_ rettigheter ut fra oppgaver de tildeles. Eksempelvis: Tildeles de undervisning (fra _Time- og fagfordeling_) får de rettigheter til _Faglærer_ og _Fraværsfører_. I de fleste tilfeller skal pedagogisk ansatte ikke ha flere rettigheter. Eventuelt utvidede rettigheter kan tildeles av rektor, se  under _Brukere_.
+For ansatte hvor det er avhuket med _Pedagogisk ansatt_ vil vedkommende _(tildeles automatisk)_ rettigheter ut fra oppgaver som tildeles. Eksempelvis: Tildeles undervisning (fra _Time- og fagfordeling_) fås rettigheter til _Faglærer_ og _Fraværsfører_. I de fleste tilfeller skal pedagogisk ansatte ikke ha flere rettigheter. Eventuelt utvidede rettigheter kan tildeles av rektor, se under _Brukere_.
 
 _Kontor_: Denne gruppen gis tilgang til utvalgte deler av menyvalget _Elevadmin._ 
 
