@@ -34,6 +34,13 @@ Rektor kan gi den enkelte ansatte tilgang til det enkelte menyvalg uavhengig av 
 
 _Ansatt_: Betingelsen for å kunne få tilgang til denne modulen av iSkole er at personen er registreres fra _Elevadmin.>Ansatt_.  Tilgangen er tidsbegrenset,  gitt fra _Begynte_ og til _Sluttet_.
 
+For ansatte hvor det er avhuket med _Pedagogisk ansatt_ vil de _(tildeles automatisk)_ rettigheter ut fra oppgaver de tildeles. Eksempelvis: Tildeles de undervisning (fra _Time- og fagfordeling_) får de rettigheter til _Faglærer_ og _Fraværsfører_. I de fleste tilfeller skal pedagogisk ansatte ikke ha flere rettigheter. Eventuelt utvidede rettigheter kan tildeles av rektor, se  under _Brukere_.
+
+_Kontor_: Denne gruppen gis tilgang til utvalgte deler av menyvalget _Elevadmin._ 
+
+_Superbruker_: En superbruker gis rettighet til å overta identitet til annen bruker (se _Mine sider>Brukerrolle_).  Hensikten er å kunne veilede/hjelpe andre brukere. Superbruker kan imidlertid ikke endre data for den som skal hjelpes, det må vedkommende gjøre selv.
+
+Mer detaljert oversikt over hvilken tilgang som tildeles når en bruker tildeles en brukergruppe fås fra _Grupperettigheter_.
 
 ## Grupperettigheter
 Velg en brukergruppe fra nedtrekkslisten. Man får da en oversikt hvilke menyvalg som da blir tilgjengelig, og hvilke rettigheter som tildeles.
