@@ -66,7 +66,7 @@ Dersom elevene kan velge fag i tillegg til klassefagene, kan elevene foreta valg
 - Det er opprettet grupper i de aktuelle valgfagene (se _Time- og fagfordeling>Gruppefag_).
 - De av årets elever som skal velge fag er flyttet opp til neste års planperiode (se _Elevadmin.>Oppflytting_). 
 
-For nærmere orientering om opplegget vedrørende elevenes valg av gruppefag: Se _Timeplan>Definer blokknr_.
+For nærmere orientering om opplegget vedrørende elevenes valg av gruppefag: Se _Timeplan>Definer blokknr_, spesielt under overskriften _Trinn_.
 
 ## Stenging
 Det er mulig å stenge iSkole for en gitt periode. I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Dette gjøres ved å velge planperioden det gjelder og deretter velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan logge inn på iSkole, men får ikke tilgang timeplanen. De menyvalgene som viser timeplan og fag vises først etter _Tilgjengelig fra_.
