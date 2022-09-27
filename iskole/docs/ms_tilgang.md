@@ -73,11 +73,12 @@ Det er mulig å stenge iSkole helt, eller delvis, for en gitt periode.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/192467223-6f45b2a9-0f96-41f1-90d0-846080d23389.png)
 
-I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Dette gjøres ved å velge planperioden det gjelder og deretter velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan logge inn på iSkole, men får ikke tilgang timeplanen. De menyvalgene som viser timeplan og fag vises først etter _Tilgjengelig fra_.
-
 #### Stenging av iSkole
+Det er rektor og administrator som kan gjøre at ingen andre ansatte eller elever kan logge seg på iSkole.
 
 #### Tilgang til iSkole i planperioden
+I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Noen skoler begynner allerede timeplanarbeidet for neste skoleår på vårparten. Da kan det være greit å få arbeide uforstyrret! Dette gjøres ved å velge neste års planperioden velge datoen den skal bli synlig for elever og ansatte. Elever og ansatte kan logge inn på iSkole hele tiden, men får ikke fram timeplanen før etter angitte datoer.
+
 
 ## Romreservering
 Dersom andre enn timeplanlegger skal kunne reservere et rom, kan en her angi hvilke rom som kan reserveres av utvalgte ansatte. Dersom man gir en lærer en slik rettighet, kan vedkommende reservere et rom til en time hvor læreren allerede er båndlagt med undervisning i et annet rom. Ekstrarommet vil vises på lærerens timeplan, og på rommets timeplan. Se _Mine sider>Timeplan>Romtimeplan_ under fanene _Mine reserveringer_ og _Rom som du kan reservere_. 
