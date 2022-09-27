@@ -98,7 +98,8 @@ Klikk _Legg til_ for å oppprette en ny redaktør. Merk at også en elev kan få
 
 ## Foreldre
 
-Det er mulig å begrense foreldres innsyn i dataene til sine barn. Fra _Elevadmin.>Elev_ er det mulig, da for den enkelte elev, å utvide retten til innsyn.
+Skolen kan begrense foreldres innsyn i dataene til sine barn. Her kan aldersgrensen innsnevres for spesifikke data.
+For enkeltelever er det mulig  å utvide, eller innsvevre retten. Se  _Elevadmin.>Elev_ under _Forelder 1_ og _Forelder 2_.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/192475976-666930c5-c7f8-4d37-9ef7-426c40971938.png)
 
