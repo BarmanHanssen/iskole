@@ -99,3 +99,6 @@ Klikk _Legg til_ for å oppprette en ny redaktør. Merk at også en elev kan få
 ## Foreldre
 
 Det er mulig å begrense foreldres innsyn i dataene til sine barn. Fra _Elevadmin.>Elev_ er det mulig, da for den enkelte elev, å utvide retten til innsyn.
+
+![bilde](https://user-images.githubusercontent.com/80097133/192475976-666930c5-c7f8-4d37-9ef7-426c40971938.png)
+
