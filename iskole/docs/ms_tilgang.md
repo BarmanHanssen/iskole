@@ -61,7 +61,10 @@ Det er altså mulig å gi elevene i hver enkelt klasse spesifikk publiseringsdat
 
 
 ## Elevers valg av programfag
-Dersom elevene kan velge fag i tillegg til klassefagene, kan elevene foreta valget direkte fra iSkole. Det er gruppefag som kan velges. Fagvalget foretas vanligvis i januar/februar og gjelder for fag som skal påbegynnes neste skoleår. Valget forutsetter derfor at neste års planperiode er opprettet.  Deretter at det er opprettet grupper i de aktuelle valgfagene (fra Time- og fagfordeling>Gruppefag),  og at de av årets elever som skal velge fag er flyttet opp til neste års planperiode (fra Elevadmin.>Oppflytting). 
+Dersom elevene kan velge fag i tillegg til klassefagene, kan elevene foreta valget direkte fra iSkole. Det er altså gruppefag som kan velges. Eksempelvis foretas vanligvis i januar/februar fagvalget for årets vg1- og vg2-elever for fag som skal påbegynnes neste skoleår. Før valget kan foretas må følgende være på plass:
+- Neste års planperiode er opprettet (se _Grunnlagsdata>Planperiode_).  
+- Det er opprettet grupper i de aktuelle valgfagene (se _Time- og fagfordeling>Gruppefag_).
+- De av årets elever som skal velge fag er flyttet opp til neste års planperiode (se _Elevadmin.>Oppflytting_). 
 
 For nærmere orientering om opplegget vedrørende elevenes valg av gruppefag: Se _Timeplan>Definer blokknr_.
 
