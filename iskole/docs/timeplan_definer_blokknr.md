@@ -47,7 +47,7 @@ Benyttes når elevene selv skal velge gruppefag for neste skoleår. For at eleve
 - Årets elever som skal kunne velge gruppefag må flyttes opp til neste planperiode. (Se _Elevadmin.>Oppflytting_)
 - Det er åpnet et tidsintervall fra årets planperiode for når valget kan finne sted. (Se _Mine sider>Tilgang>Elevers valg av gruppefag_)
 
-Det er altså årets vg1- og vg2-elever som er aktuelle kandidater til å velge gruppefag for neste skoleår. De blir da henholdsvis vg2- og vg3-elever og kan velge fag registrert med ulik ID. Men neste års vg2-elever kan eksempelvis bare velge fag med ID hvor det er huket av for _Trinn 2_.
+Det er typisk årets vg1- og vg2-elever som er aktuelle kandidater til å velge gruppefag for neste skoleår. De blir da henholdsvis vg2- og vg3-elever og kan velge fag registrert med ulik ID. Men neste års vg2-elever kan eksempelvis bare velge fag med ID hvor det er huket av for _Trinn 2_.
 
 Merk at også registrert gruppefag uten ID kommer opp på elevens valgsliste, og fagene kan da velges fritt uten noen begrensning. Da må en etter valget foretar en analyse for å sette opp hvilke fag som kan timeplanelegges parallelt, og deretter eventuelt legge inn ID på fagene. Se spesielt avsnittet _De enkelte elevs valgmuligheter_ som du finner under menyvalget _Emner>Timeplanlegging_ i venstre marg.
 
