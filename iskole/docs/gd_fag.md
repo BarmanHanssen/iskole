@@ -30,10 +30,10 @@ Klikker en på _+Legg til_ når _Klassefag_ er markert får vi frem følgende bi
 - _Navn_: Dette navnet kommer frem på timeplanen. Merk at offisielt navn er navnet som er gitt ved fagkoden fra Udir, dette benyttes på karakterutskrifter etc.
 - _Timer_: Fag er oftes definert ut fra et ukentlig timetall. Norsk eksempelvis med 5 uketimer. Dette tallet er utgangspunktet for timeplanlegging av faget, men på timeplanen kan faget ha ulikt timetall fra den ene uken til den andre. Slike endringer gjøres direkte av timeplanlegger.
 - _Rom_: Noe fag, eksempelvis kroppsøving, krever spesialrom. Da kan det være greit å knytte romet til faget her. Det innebærer at timeplanlegger får presentert dette rommet som førstevalg. Kan endres når faget timeplanlegges.
-- _Fagkode_: Alle fag i grunnskolen og i videregående skole, som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klar for bruk. Trykk _Endre_, så får du opp en overveldende lang liste! Forhåpentligvis har du oversikt over fagkodene som skal benyttes slik at du enkelt kan plukke ut riktig fagkode.
+- _Fagkode_: Alle fag i grunnskolen og i videregående skole, som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klar for bruk. Trykk _Endre_, så får du opp en overveldende lang liste! For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden. 
 
 :::note Merk 
-Vi laster ned listen med fagkoder fra Udir, slik at den skal være oppdatert til enhver tid. For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden. 
+Steinerskolen fagkoder har RS som en del av fagkoden, altså xxRSxxx. Steinerskolene kan endre omfanget på disse fagene.
 :::
 
 - _Komponent av_: Enkelte fag  er så omfattende at det er hensiktsmessig å dele det i flere komponenter. Bare fag med fagkoden 999999 kan være en komponent av et annet fag. Hver komponent skal ha egen lærer, men kun lærer som er fagansvarlig (eieren av komponenten(e)) kan føre inn terminkarakterer. 
