@@ -22,7 +22,7 @@ _*Navn_ brukes internt på skolen, ville eksempelvis her være Barnetrinnet.
 
 _*Utdanningsprogram_ inneholder en liste med offisielle navn for videregående skole. For grunnskolen er det kun GS som ligger inne. Dersom ingenting passer, brukes -=. Utdanningsprogram-navnet benyttes blant annet når kompetansebvis og vitnemål skal skrives ut.
 
-### _+Legg til klassetrinn_ 
+![bilde](https://user-images.githubusercontent.com/80097133/194031706-5d37211a-cb14-4ed8-8c70-4f2d205cd9b1.png)
 
 For å kunne oprette klasser på utdanningsprogrammet må man også legge inn klassetrinn. 
 For å slette trinn trykker man på knappen _Slett klassetrinn..._ og velger hvilket trinn som skal slettes. Man må da også skrive inn planperioden for å bekrefte slettingen. 
