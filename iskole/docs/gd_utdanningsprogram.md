@@ -10,7 +10,9 @@ Utdanningsprogram er den mest generelle, og minst spesifikke måten, å tilkjenn
 Eksempelet viser en skole med elever både på videregående skole og ungdomsskolen. På videregående er det registrert utdanningsprogrammene HO, ID og ST:
 I tillegg har skolen også grunnskoleelever. I den offisielle tabellen finns bare en kode for grunnskolen, GS. Det er vanlig på skolene å skillle mellom barnetrinnet (1. til 7. trinn) og ungdomstrinnet (8. til 10. trinn) med BT og UT. På samme måte ser vi at skolen har valgt å kalle utdanningsprogrammet for helse og oppvekstfag for HO, selv om den offisielle koden er HS. 
 
-Klikk på ###_+Legg til program_ for å få frem registreringsskjemaet
+###_+Legg til program_ 
+
+for å få frem registreringsskjemaet
 
 ![bilde](https://user-images.githubusercontent.com/80097133/147214048-6ee008ce-7d2c-46fb-9b39-ac172fe675d5.png)
 
