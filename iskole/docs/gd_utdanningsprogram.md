@@ -12,7 +12,7 @@ I tillegg har skolen også grunnskoleelever. I den offisielle tabellen finns bar
 
 ### _+Legg til program_ 
 
-for å få frem registreringsskjemaet
+viser registreringsskjemaet:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/147214048-6ee008ce-7d2c-46fb-9b39-ac172fe675d5.png)
 
