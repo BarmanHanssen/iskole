@@ -24,5 +24,5 @@ _*Utdanningsprogram_ inneholder en liste med offisielle navn for videregående s
 
 ### _+Legg til klassetrinn_ 
 
-For å kunne oprette klasser på utdanningsprogrammene må man også legge inn klassetrinn. (Kan også utføres fra menyvalget _Klassetrinn_.)
+For å kunne oprette klasser på utdanningsprogrammet må man også legge inn klassetrinn. 
 For å slette trinn trykker man på knappen _Slett klassetrinn..._ og velger hvilket trinn som skal slettes. Man må da også skrive inn planperioden for å bekrefte slettingen. 
