@@ -4,7 +4,7 @@ title: Klasse
 sidebar_label: Klasse
 ---
 
-Når klassetrinn er registrert, kan man spesifisere hvilke klasser skolen skal ha i denne planperioden. For store skoler vil det kunne være flere klasser på hvert klassetrinn. Klassene kan registreres selv om ikke alle fagene som skal inngå er på plass.
+Når klassetrinn er registrert (se _Utdanningsprogram_), kan man spesifisere hvilke klasser skolen skal ha på det enkelte utdanningsprogram i denne planperioden. For store skoler vil det kunne være flere klasser på hvert klassetrinn. Klassene registreres fra eget menyvalg, se _Klasse_.
 
 Eksempel fra skole hvor fagene allerede er lagt til:
 ![image](https://user-images.githubusercontent.com/80097133/120977450-a34f9400-c773-11eb-854c-e8e151744a40.png)
