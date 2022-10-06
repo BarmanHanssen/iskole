@@ -17,7 +17,7 @@ Dersom elevene omgrupperes på annen måte, altså ikke sammenslåing av hele kl
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148374550-0c5c7ab8-ada0-4e82-a09f-c67807992760.png)
 
-Eksempel: Dersom man her ønsker at ST1A skal være moderklasse i ENG, og ST1B skal være gjest, fås dette utvalget:
+Eksempel: Dersom man her ønsker at ST1A skal være moderklasse i ENG, og ST1B skal være gjesteklasse, fås dette utvalget:
  
 ![bilde](https://user-images.githubusercontent.com/80097133/148374862-0c71e359-f7a7-4d8a-a079-6c2658a5f1cb.png)
 
