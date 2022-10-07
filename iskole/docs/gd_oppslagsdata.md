@@ -48,5 +48,4 @@ Noen fag,eksempelvis norsk, skal først dokumenteres på kompetansebevis/vitnem�
 
 #### _Sum omfang_
 
-Fag som går over flere år, eksempelvis norsk, har egen fagkode for hvert årstrinn. Årstimetallet forteller omfanget av undervisning for faget det året faget tas.
-Da oppstår et problem ved utskrift av kompetansebevis/vitnemål, noe som løses her. Nemlig at på utskriften skal timetallet vise summen av timer over flere år, og ikke timetallet som hører til fagkoden, altså årets timetall. Også denne tabellen oppdateres av oss. Dersom noe ikke stemmer, gi beskjed til oss, eksempelvis via support@barman-hanssen.no!
+Fag som går over flere år, eksempelvis norsk, har egen fagkode for hvert årstrinn. Årstimetallet forteller omfanget av undervisning for faget det året faget tas. Da oppstår et problem ved utskrift av kompetansebevis/vitnemål, noe som løses her. Nemlig at på utskriften skal timetallet vise summen av timer over flere år, og ikke timetallet som hører til fagkoden, altså årets timetall. Denne tabellen oppdateres av oss. Dersom et slikt fag ikke ligger inne her, så gi beskjed til oss, eksempelvis via support@barman-hanssen.no!
