@@ -17,7 +17,7 @@ Ressursfordelingen for faget ( se _Grunnlagsdata>Fag_. Årstime/Årsramme gir re
 :::
 
 ### Elevant
-Når ny gruppe registreres, vil  elevantallet  være null. Når elevene legges inn, fra _Elevadmin.>Fag_, og/eller ved at elevene selv velger fag, vil tallet avspeile hvor mange elever som har valgt det enkelte fag.
+Når ny gruppe registreres, vil  elevantallet  være null. Når elevene legges inn, fra _Elevadmin.>Fag_, og/eller ved at elevene selv velger fag, vil tallet avspeile hvor mange elever som er registrert i faget.
 
 ### Uketimer
 Uketimer, registrert fra _Grunnlagsdata>Fag_, er gjerne fast gjennom hele skoleåret. Men timeplanlegger kan justere det på ukesbasis når timeplanen legges.
@@ -29,12 +29,10 @@ Fastsatt gjennom fagplanen, hentes fra fagkoderegisteret. Timeplanlegger må på
 Angir leseprosenten i faget, beregenet ut fra årstimer/årsramme registert på faget (fra _Grunnlagsdata>Fag_).
 
 ### Lærer
-Kortnavn som identifiserer lærerens hele navn. Brukes blant annet på timeplaner.
+Kortnavn som identifiserer lærerens hele navn. Brukes blant annet på timeplanen.
 
 ### Blokkid (vises ikke på figuren)
-Kan legges inn senere, og kan gjøre det raskere for timeplanlegger når gruppefagene skal timeplanlegges. Se _Timeplan>Definer blokknr_.
-
-Endre lærer/Legg til tolærer: Tilsvarende som for Klassefag.
+Fag med likt blokkid timeplanlegges parallelt. Kan legges inn senere, og gjør det raskere å timeplanlegge gruppefagene. Se _Timeplan>Definer blokknr_.
 
 ### Ekspander et fag
 
@@ -48,12 +46,14 @@ Når en legger til en ny gruppe og gruppens lærer, blir læreren satt som lære
 Dersom det er et vikariat (altså begrenset periode med annen lærer), kan menyvalget _Vikar i fag_ være et bedre alterntiv.
 :::
 
-## Legg til tolærer
-![bilde](https://user-images.githubusercontent.com/80097133/146531536-c97961e5-415e-45dd-9727-5373c4f01c46.png)
+![bilde](https://user-images.githubusercontent.com/80097133/195068769-d4313ffe-b00b-47eb-8992-c21182c4d81a.png)
 
 Dersom undervisningen i faget skal styrkes med ekstra lærer(e), legges det inn her. Tolærer-ordningen kan gjelde for en begrenset periode, det blir synliggjort på timeplanen. Her føres opp uketimer, og totalt timer for hele planperioden. Det er timeplanlegger som skal fordele årstimene på fagets timeplan. Tolærertimene kan av timeplanlegger bare plasseres der faget har ordinær undervisning.
 
 Alternativt kan en legge til/endre tolærer fra menyvalget _Tolærerfag_.
+
+![bilde](https://user-images.githubusercontent.com/80097133/146531536-c97961e5-415e-45dd-9727-5373c4f01c46.png)
+
 
 
 
