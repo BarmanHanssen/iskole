@@ -5,7 +5,7 @@ sidebar_label: Klassefag
 ---
 
 ## Klassefag
-Her registreres hvem som skal undervise i en klasse. Registreringen skjer klassevis. Læreren som står på toppen er ansvarlig faglærer. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer uke for uke. Læreren som står registrert på første linje er fagansvarlig, og er den som fører inn terminkarakteren i faget.
+Her registreres hvem som skal undervise i en klasse. Registreringen skjer klassevis. Læreren som står registrert på første linje er fagansvarlig, og er den som fører inn terminkarakteren i faget. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer uke for uke.
 
 I eksemplet har vi ekspandert klasse ST3A:
 
@@ -20,11 +20,11 @@ Her har vi eksandert faget HIS. Da vises alle ukene i skoleåret. Når faglærer
 
 **Fagkode** 
 
-Dersom fagkoden er 999999, skal faget ikke ha vurdering. Men faget (kaskje er komponent av annet fag?) skal timeplanlegges på ordinær måte.
+Dersom fagkoden er 999999, skal faget ikke ha vurdering. Men faget (kanskje en komponent av annet fag?) skal timeplanlegges på ordinær måte.
 
 **Fagnavn** 
 
-Brukes ved utskrift av timeplanen og er hentet fra . Teksten kan være forskjellig fra det offisielle navnet som er bestemt ut fra tabellen som fås frem fra _Grunnlagsdata>Fagkode_. Den offisielle navnet kommer på kompetansebevis og vitnemål. Navnet vises når timeplanen timeplanen skrives ut kan som nevnt ovenfor endres fra.
+Brukes ved utskrift av timeplanen og er hentet fra _Grunnlagsdata>Fag_ se _Timeplandata_. Teksten kan være forskjellig fra det offisielle navnet som er bestemt ut fra tabellen som fås frem fra _Grunnlagsdata>Fagkode_. Den offisielle navnet kommer på kompetansebevis og vitnemål.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/194848385-1667bdf4-40a3-487e-ab71-280159ff262a.png)
 Første gang et fag får tildelt lærer, vil læreren som velges automatisk få tildelt undervisning i hele planperioden.
@@ -33,7 +33,7 @@ den nye læreren inn i ukene hvor det allerede er regsitret en lærer. Et fag ka
 - Ekspander faget ved å klikke på pilen først på linja.
 - Marker alle ukene som skal ha ny faglærer. For å markere flere uker i en serie, klikk på første uke, hold inne «shift» og klikk på siste uke. For å markere flere enkeltuker, klikk på uken mens du holder inne «ctrl»-tasten.
 - Klikk _Endre lærer_.
-- Velg læreren fra nedtrekkslista. Hvis det er markert i avkrystningsboksen _Vis kun lærere som har fagkoden - hvis ingen er knyttet til faget vises alle_, så vil kun lærere som har fått registrert fagkoden vises såfremt det finnes noen lærere med den aktuelle fagkoden. Hvis det ikke finnes noen fylles listen med alle lærerne ved skolen. Se _Personal -> Ansatt_ og arkfanen _Undervisningsfag_ for å redigere fag til en lærer.
+- Velg læreren fra nedtrekkslista. Hvis det er markert i avkrystningsboksen _Vis kun lærere som har fagkoden_ , så vil kun lærere som tidligere har hatt faget vises. Hvis det ikke finnes noen fylles listen med alle lærerne ved skolen. Se _Personal -> Ansatt_ og arkfanen _Undervisningsfag_ for å redigere fag til en lærer. Kun ansatte hvor det er avhuket for _Pedagogisk ansatt_ kommer med på nedtrekkslisten.
 - Trykk på _OK_.
 
 Når klassens timeplanen vises, hentes læreren ut fra timeplanens ukenummer slik det er registrert her.
@@ -49,7 +49,7 @@ Ressursfordelingen for faget gis til faglæreren som står oppført på første 
 ![bilde](https://user-images.githubusercontent.com/80097133/194858834-62731284-434c-4ba9-8688-cf11fbba31a6.png)
 
 
-Dersom et fag skal ha mer enn en lærer, kan en legge til ekstra lærer(e) her. Her skal man også oppgi hvor uketimetallet, og antall årstimer. Tolærer har sine timer på samme tidspunkt som fageet, men kanskje ikke i alle ukene i skoleåret. Disse timene kan kan først plasseres på timeplanen når faget er timeplanlagt.
+Dersom et fag skal ha mer enn en lærer, kan en legge til ekstra lærer(e) her. Her skal man også oppgi uketimetallet, og antall årstimer. Tolærer har sine timer på samme tidspunkt som fageet, men kanskje ikke i alle ukene i skoleåret. Disse timene kan kan først plasseres på timeplanen når faget timeplanlegges.
 :::note Merk
 Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en tolærer...
 :::
