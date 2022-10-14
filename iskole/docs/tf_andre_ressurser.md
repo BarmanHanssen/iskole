@@ -17,3 +17,8 @@ Finn riktig person fra nedtrekkslisten for _Lærer_, og trykk på _Legg til_.
 Dersom iSkole ikke benyttes til budsjettering, kan _Kategori_ og _Postkode_ stå uendret. Dersom det gjelder en reduksjon, settes et minustegn (altså - ) foran tallet. Fra _Funksjon/stilling_ settes inn tekst som klargjør bakgrunnen for endringen.
 
 Fra menyvalget _Stillingsstørrelse_ får en frem total ressurs for den enkelte lærer, altså både bidrag fra undervisning og fra _Andre ressurser_.
+
+## Undervisningsressurser
+Her får en oversikt over elevtallet og ressursbruk for hvert fag. Merk at vi for tolærer har satt elevtallet til 0 (null), da skolen selv bestemmer hvordan ressursen fordeles. Registrerte vikartimer vises som egen rapport.
+
+![bilde](https://user-images.githubusercontent.com/80097133/195825777-bbf2b5f0-51ef-46a2-84a3-de11f2ddbc20.png)
