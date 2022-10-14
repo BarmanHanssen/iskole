@@ -22,3 +22,11 @@ Fra menyvalget _Stillingsstørrelse_ får en frem total ressurs for den enkelte 
 Her får en oversikt over elevtallet og ressursbruk for hvert fag. Merk at vi for tolærer har satt elevtallet til 0 (null), da skolen selv bestemmer hvordan ressursen fordeles. Registrerte vikartimer vises som egen rapport.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/195825777-bbf2b5f0-51ef-46a2-84a3-de11f2ddbc20.png)
+
+## Andre ressurser
+Alle tillegg/korrigeringer som er lagt inn fra menyvalget _Andre ressurser_ kommer med i denne rapporten.
+
+## Fagoversikt
+Her er innholdet sortert på lærerens navn. Rapporten skrives ut på regneark, og man kan selv derfor sortere innholdet, for eksempel på fag eller fagkode.
+![bilde](https://user-images.githubusercontent.com/80097133/195842793-3e70ad70-70ed-4ba8-b7ed-cd66b6ef2106.png)
+
