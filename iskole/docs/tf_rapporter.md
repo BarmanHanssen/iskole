@@ -5,8 +5,18 @@ sidebar_label: Rapporter
 ---
 ![bilde](https://user-images.githubusercontent.com/80097133/195299852-22dfc189-722e-47ce-bb9d-49abaf0cbdc3.png)
 
+## Kontaktlærer
 
-Rapportene her får tale for seg selv. 
+## Undervisningsressurser
+
+## Andre ressurser
+
+## Stillingsoversikt
+
+## Fagoversikt
+
+
+
 
 Gi gjerne tilbakemelding dersom noe er uklart, eller forslag om endring. Bruk da support@barman-hanssen.no
 
