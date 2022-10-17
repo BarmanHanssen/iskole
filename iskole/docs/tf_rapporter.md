@@ -6,7 +6,7 @@ sidebar_label: Rapporter
 ![bilde](https://user-images.githubusercontent.com/80097133/195299852-22dfc189-722e-47ce-bb9d-49abaf0cbdc3.png)
 
 ### Kontaktlærer
-Alle kontaktlærere som er registreres fra _Elevadmin>Kontaktlærer_ listes ut her.
+Alle kontaktlærere som er registreret fra _Elevadmin>Kontaktlærer_ listes ut her.
 
 ### Undervisningsressurser
 Alle som står oppført som fagansvarlig for undervisning, registrert fra menyvallgene _Klassefag/Gruppefag/Tolærerfag_ listes ut her. 
