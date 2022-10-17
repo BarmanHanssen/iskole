@@ -14,9 +14,10 @@ Fag med kode 99999 kan være komponent til et fag med offisiell fagkode, det fre
 Vi har valgt å utelate elevtallet for tolærerfag da det ikke av timeplanen fremgår hvilken funksjon tolæreren har.
 
 ### Andre ressurser
-
+Her legges inn eventuelle justering/korrigeringe til undervisningsressursen, eksempelvis ved endring av fagansvarlig i løpet av plnpperioden. I tillegg kan en registrere ressurs for andre oppdrag, eksempelvis for rektor/inspektør. Ponget er at det er mulig å få eksakt stilllingsstørrelse som da kan være utgangspunktet for avlønning av alle ansatte når en summerer undervisningsressurs og andre ressurser. Akkurat den sammenstillingen vil fremgå av neste rapport, nemlig _Stillingsoversikt_.
 
 ### Stillingsoversikt
+Her en summeres undervisningsressurs og andre ressurser, gruppert på person. Kan gi en oversikt over grunnlaget for avlønning av alle ansatte.
 
 ### Fagoversikt
 
