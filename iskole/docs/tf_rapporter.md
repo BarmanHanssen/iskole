@@ -11,9 +11,10 @@ Alle kontaktlærere som er registreret fra _Elevadmin>Kontaktlærer_ listes ut h
 ### Undervisningsressurser
 Alle som står oppført som fagansvarlig for undervisning, registrert fra menyvallgene _Klassefag/Gruppefag/Tolærerfag_ listes ut her. 
 Fag med kode 99999 kan være komponent til et fag med offisiell fagkode, det fremkommer ikke av rappporten.
-Vi har valgt å utelate elevtallet for tolærerfag da det ikke fremgår hvilken funksjon tolæreren har.. 
+Vi har valgt å utelate elevtallet for tolærerfag da det ikke av timeplanen fremgår hvilken funksjon tolæreren har.
 
 ### Andre ressurser
+
 
 ### Stillingsoversikt
 
