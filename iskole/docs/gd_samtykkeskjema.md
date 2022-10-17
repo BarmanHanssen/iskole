@@ -15,4 +15,4 @@ Klikker en på ![bilde](https://user-images.githubusercontent.com/80097133/19451
  ![bilde](https://user-images.githubusercontent.com/80097133/194519821-d22ba397-6663-4dc8-b41c-d97e04032729.png)
 
  Når eleven er innlogget på iSkole vil et eget menyvalg (_Samtykke_) vise hva som er mulig å gi samtykke til.
- Dersom eleven er under angitt aldersgrense er det foreldre/foresatte som får forespørselen.
+ Dersom eleven er under angitt aldersgrense er det foreldre/foresatte som får forespørselen. Når eleven er over angitte aldersgrense, kan eleven gi samtykke til at foreldre/foresatte gis innsyn sålenge eleven er elev ved skolen, såfremt eleven ikke trekker samtykket.
