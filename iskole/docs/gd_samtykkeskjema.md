@@ -16,4 +16,4 @@ Klikker en på  fås detaljene frem:
 <img width="457" alt="mg_samtykkeskjema_2" src="https://user-images.githubusercontent.com/80097133/196361523-3e841a01-f72d-4a91-b2b9-023c13af1ed6.png">
 
 Når eleven er innlogget på iSkole vil et eget menyvalg (_Samtykke_) vise hva som er mulig å gi samtykke til.
-Dersom eleven er under angitt aldersgrense er det foreldre/foresatte som får forespørselen. Når eleven er over angitte aldersgrense, kan eleven gi samtykke til at foreldre/foresatte gis innsyn i alle data som er lagret i iSkole om eleven.
+Dersom eleven er under angitt aldersgrense er det foreldre/foresatte som får forespørselen. Når eleven er over angitte aldersgrense, kan eleven gi samtykke til at foreldre/foresatte gis innsyn i alle data som er lagret i iSkole om eleven.  
