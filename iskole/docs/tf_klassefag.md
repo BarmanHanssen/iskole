@@ -56,6 +56,6 @@ Ressursfordelingen for faget gis til faglæreren som står oppført på første 
 
 Dersom et fag skal ha mer enn en lærer, kan en legge til ekstra lærer(e) her. Her skal man også oppgi uketimetallet, og antall årstimer. Tolærer har sine timer på samme tidspunkt som fageet, men kanskje ikke i alle ukene i skoleåret. Disse timene kan kan først plasseres på timeplanen når faget timeplanlegges.
 :::note Merk
-Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en tolærer...
+Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en tolærer.
 :::
 
