@@ -40,7 +40,7 @@ Vi får da frem alle ukene i planperioden, se eksemplet:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/146524656-64eb5121-788b-4d1a-916b-7f502f94f63a.png)
 
-Når en legger til en ny gruppe og gruppens lærer, blir læreren satt som lærer i hele planperioden. Dersom det i løpet av planperioden må sette inn en ny lærer (velg _Endre gruppe_), blir opprinnelig lærer likevel stående urørt, altså ikke erstatet med ny lærer eksempelvis i uke 35. Skjer lærerbyttet i uke 35, og skal gjelde ut skoleåret, må en gjøre endringen fra det ekspanderte bildet. Man markerer uke 35, holdlder Shift-tasten ned når siste uke i planperrioden markeres, Da kan ny lærer settes inn for hele perioden. 
+Når en legger til en ny gruppe og gruppens lærer, blir læreren satt som lærer i hele planperioden. Dersom det i løpet av planperioden må sette inn en ny lærer (velg _Endre gruppe_), blir opprinnelig lærer likevel stående urørt, altså ikke erstatet med ny lærer eksempelvis i uke 34. Skjer lærerbyttet i uke 34, og skal gjelde ut skoleåret, må en gjøre endringen fra det ekspanderte bildet. Man markerer uke 34, holdlder Shift-tasten ned når siste uke i planperrioden markeres, Da kan ny lærer settes inn for hele perioden. 
 
 :::note Merk
 Dersom det er et vikariat (altså begrenset periode med annen lærer), kan menyvalget _Vikar i fag_ være et bedre alterntiv.
