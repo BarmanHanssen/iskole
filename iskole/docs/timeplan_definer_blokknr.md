@@ -1,7 +1,7 @@
 ---
 id: timeplan_definer_blokknr
-title: Definer blokknr
-sidebar_label: Definer blokknr
+title: Blokk
+sidebar_label: Blokk
 ---
 Når undervisning i et fag har elever fra ulike klasser, klassifiseres faget som gruppefag. Merk at dersom klassens elever i et klassensfag deles i flere grupper, kan også dette faget klassifiseres som gruppefag.
 
