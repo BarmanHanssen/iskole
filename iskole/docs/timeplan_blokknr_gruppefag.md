@@ -1,7 +1,7 @@
 ---
 id: timeplan_blokknr_gruppefag
-title: Blokknr gruppefag
-sidebar_label: Blokknr gruppefag
+title: Grupper
+sidebar_label: Grupper
 ---
 
 ## Innledning
