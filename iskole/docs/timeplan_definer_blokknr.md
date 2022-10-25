@@ -10,7 +10,7 @@ Begrunnelsen for å innføre blokknummer var et ønske om en mer abstrakt måte 
 
 Dersom skolen ikke har gruppefag, kan man sette antall blokknr til 0. Uten gruppefag skal all undervisning i fag foregå i klassen med alle elevene samlet, og fagene er klassifisert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
 
-## Blokknr og timeplanlegging av blokknr
+## Blokknr
 
 Dersom skolen skal ha gruppefag, må man legge inn blokknr som skal angi hvor fagene skal plasseres på timeplanen. Registreringen av aktuelle gruppefag skjer fra _Grunnlagsdata>Fag_. Hvilke gruppefag som skal benyttes inneværende skoleår registreres fra _Time- og fagfordeling>Gruppefag_, og må være utført før elevene kan velge gruppefag. Men man kan klargjøre oppsettet her uten at gruppefagene og elevene er på plass.
 
@@ -23,6 +23,22 @@ Gruppefagene har typisk fem undervisningstimer per uke. Vanlig oppsett for vider
 <!--
 , hvilket tilsvarer 5 eller 6 Id-er (hvor hvert fag typisk tildeles en Id, og hvor hver Id legger beslag på 5 blokknr, altså 5 timer). Timetallet settes til minimum _Antall blokid_ x 5, og kan oppjusteres ved behov. 
 -->
+
+### Timeplanlegging av blokknr
+
+Begrunnelsen for å innføre blokknummer var et ønske om en mer abstrakt måte å angi en undervisningstime på. Eksempelvis skal to grupper få den samme nummerserie på fem blokknummer. At gruppene skal ha like blokknumre forteller bare at fagene skal undervises parallelt. I utgangspunktet sier det ikke hvor timene skal plasseres på timeplanen. Det er nå først at dette skal bestemmes!
+
+To blokknummer bør altså ikke overlappe hverandre i tid, det ville kunne medføre kollisjon på timeplanen (noe systemet automatisk vil avdekke).
+
+Når blokknummer legges på et fag, så hentes start- og slutt-tid for timen ut fra tabellen i _Time_. Endrer man etterpå tabellen Time, vil dette ikke berøre timene for fag som alt er tildelt blokknummer. Tabellen _Time_ er altså en mal som gjør det enkelt å besteme dag og start-/slutt på en undervisningstime. Når blokknummeret blir lagret på et fag, overføres altså dag og start-/slutt til timen, og koplingen mot tabellen opphører. Det betyr at dersom det i ettertid gjøres endringer i tabellen _Time_, så påvirker ikke dette allerede blokknumre som er plassert på gruppefag. Det sier seg selv at innholdet i tabellen _Time_ ikke bør endres etter at fagene har fått tildelt blokknumre. Skal endringen kunne skje for et allerede plassert blokknummer i et fag, og blokknummeret får endret dag/tid, må blokknummer på faget fjernes, og så legges inn på nytt.
+
+Ser man på eksempel på ferdiglagt timeplan for blokknr vist over, så ser vi at man har valgt å legge blokknumrene i rekkefølge. Det medfører at man lettere kan koble blokknummeret mot timen, men samtidig blir det et mere fragmentert blokkskjema når man timeplanlegger gruppene i _Timeplan>Grupper_. Alternativt kan man legge blokknummer i bolker slik at f.eks. blokknr 1-5 er spredt på timeplanen, men samler de fagene som har disse fem blokknumrene i _Timeplan>Grupper_.
+
+<!--
+![image](https://user-images.githubusercontent.com/80097133/113118295-9bbdbd00-920f-11eb-89ba-3031a26731f9.png)
+Her tilhører blokknr 1 til 5 fag hjemmehørende under Id=1 (se _Timeplan>Definer blokknr_). Vi ser at hvert av fagene er tildelt to dobbel-timer (mandag og fredag) og en enkel-time onsdag. 
+-->
+
 
 ## Gruppering av timer til valg
 Det er mulig å benytte gruppefag, og timeplanlegging av disse, uten å benytte ID, eller koplingen mellom ID og blokknr. Men det anbefales å benytte denne muligheten, da det gir bedre oversikt, og letter arbeidet videre.
