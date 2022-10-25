@@ -5,21 +5,28 @@ sidebar_label: Blokk
 ---
 Når undervisning i et fag har elever fra ulike klasser, klassifiseres faget som gruppefag. Merk at dersom klassens elever i et klassensfag deles i flere grupper, kan også dette faget klassifiseres som gruppefag.
 
-Begrunnelsen for å innføre blokknummer var et ønske om en mer abstrakt måte å angi en undervisningstime på. Eksempelvis skal to grupper ha fem timer undervisning per uke og undervises parallelt. Vi gir da gruppene like blokknumre. At gruppene har like blokknumre forteller bare at fagene skal undervises parallelt. I utgangspunktet sier det ikke hvor timene skal plasseres på timeplanen. Det kan bestemmes på et senere tidspunkt (se _Timeplanlegge blokknr._).
+Begrunnelsen for å innføre blokknummer var et ønske om en mer abstrakt måte å angi en undervisningstime på. Eksempelvis skal to grupper ha fem timer undervisning per uke og undervises parallelt. Vi gir da gruppene like blokknumre. At gruppene har like blokknumre forteller at fagene skal undervises parallelt. 
+<!--I utgangspunktet sier det ikke hvor timene skal plasseres på timeplanen.  Det kan bestemmes på et senere tidspunkt (se _Timeplanlegge blokknr._).-->
 
-Dersom skolen ikke har gruppefag, skal man ikke å avhuke for _Bruker blokkskjema_. Uten gruppefag skal all undervisning i fag foregå i klassen med alle elevene samlet, og fagene er klassifisert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Timeplanlegge klasse_.
+Dersom skolen ikke har gruppefag, kan man sette antall blokknr til 0. Uten gruppefag skal all undervisning i fag foregå i klassen med alle elevene samlet, og fagene er klassifisert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
 
-## Blokkskjema
+## Blokknr
 
-Dersom skolen skal ha gruppefag, må man huke av for _Bruker blokkskjema_. Registreringen av aktuelle gruppefag skjer fra _Grunnlagsdata>Fag_. Hvilke gruppefag som skal benyttes inneværende skoleår registreres fra _Time- og fagfordeling>Gruppefag_, og må være utført før elevene kan velge gruppefag. Men man kan klargjøre oppsettet her uten at gruppefagene og elevene er på plass.
+Dersom skolen skal ha gruppefag, må man legge inn blokknr som skal angi hvor fagene skal plasseres på timeplanen. Registreringen av aktuelle gruppefag skjer fra _Grunnlagsdata>Fag_. Hvilke gruppefag som skal benyttes inneværende skoleår registreres fra _Time- og fagfordeling>Gruppefag_, og må være utført før elevene kan velge gruppefag. Men man kan klargjøre oppsettet her uten at gruppefagene og elevene er på plass.
 
+![image](https://user-images.githubusercontent.com/10975905/197773937-90bc1c67-9b51-4a66-8536-d66334311856.png)
 
-![image](https://user-images.githubusercontent.com/80097133/118969549-775ba280-b96d-11eb-875d-2cb24fbd8dd7.png)
 
 Vi registrer hvordan vi har tenkt å sette opp timeplanen for gruppefagene, uten nødvendigvis ennå å ha oversikt over hvilke grupper som skal igangsettes. Vi skal fastsette et rammeverk som gjør det enkelt å gruppere fag som skal undervises parallelt. Når undervisningen eksakt skal finne sted gjøres fra menyvalget _Timeplanlegge blokknr_.
 
 ### _* Antall timer til valg (blokknr)_
-Gruppefagene har typisk fem undervisningstimer per uke. Vanlig oppsett for videregående skoler er at man planlegger for opptil 35 uketimer til undervisning. Herav planlegges det gjerne å avsette 25 til 30 timer per uke  til undervisning i gruppefag, hvilket tilsvarer 5 eller 6 Id-er (hvor hvert fag typisk tildeles en Id, og hvor hver Id legger beslag på 5 blokknr, altså 5 timer). Timetallet settes til minimum _Antall blokid_ x 5, og kan oppjusteres ved behov.
+Gruppefagene har typisk fem undervisningstimer per uke. Vanlig oppsett for videregående skoler er at man planlegger for opptil 35 uketimer til undervisning. Herav planlegges det gjerne å avsette 25 til 30 timer per uke  til undervisning i gruppefag.
+<!--
+, hvilket tilsvarer 5 eller 6 Id-er (hvor hvert fag typisk tildeles en Id, og hvor hver Id legger beslag på 5 blokknr, altså 5 timer). Timetallet settes til minimum _Antall blokid_ x 5, og kan oppjusteres ved behov. 
+-->
+
+## Timeplan blokknr
+
 
 ## Gruppering av timer til valg
 Det er mulig å benytte gruppefag, og timeplanlegging av disse, uten å benytte ID, eller koplingen mellom ID og blokknr. Men det anbefales å benytte denne muligheten, da det gir bedre oversikt, og letter arbeidet videre.
