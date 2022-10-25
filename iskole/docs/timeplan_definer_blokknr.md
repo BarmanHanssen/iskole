@@ -99,7 +99,7 @@ Gjør da følgende:
 - Flytt over fra _Ledige blokknr_ til _Tildelte blokknr_ for de timene som skal blokkere for klassefag.
 - Bekreft valget med _Lagre_.
 
-![bilde](https://user-images.githubusercontent.com/80097133/192219936-6ca28600-4138-4565-922e-0f6bd83e24d1.png)
+![bilde](https://user-images.githubusercontent.com/10975905/197775926-51fd018b-53c5-4764-acd3-2c75cf2acfd3.png)
 
 For at blokkeringen skal vises når timeplanlegging av klassefag av klassefag finner sted, må som nevnt _Timeplanllegge blokknr_ være fullført.
 
