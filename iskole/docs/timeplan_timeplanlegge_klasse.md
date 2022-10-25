@@ -1,7 +1,7 @@
 ---
 id: timeplan_timeplanlegge_klasse
-title: Timeplanlegge klasse
-sidebar_label: Timeplanlegge klasse
+title: Klasser
+sidebar_label: Klasser
 ---
 
 Benevnelsen klassefag, obligatorisk fag og fellesfag er synonyme betegnelser. Vi benytter oftes klassefag. 
