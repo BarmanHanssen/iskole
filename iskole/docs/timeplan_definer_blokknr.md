@@ -33,7 +33,7 @@ Det er mulig å benytte gruppefag, og timeplanlegging av disse, uten å benytte 
 
 Gruppefagene kan knyttes til en ID fra _Time- og fagfordeling>Gruppefag_, begrenset til de registrerte ID-er som er lagt inn her. Dersom elevene selv skal kunne få velge gruppefag for neste skoleår: Se _Mine sider>Tilgang>Elevers valg av gruppefag_.
 
-![image](https://user-images.githubusercontent.com/10975905/197776780-a6dfc862-a550-447f-b5f5-1cd948644e9d.png)
+![image](https://user-images.githubusercontent.com/10975905/197777147-27e94fe2-eeca-4023-a492-34e6f93b7669.png)
 
 ### ID
 Identifikator som gjør det enkelt å gruppere fag som skal ha lik timeplan. Bør tas i bruk, da den letter arbeidet med å ferdigstille timeplanen. ID kan legges inn på faget fra _Time- og fagfordeling>Gruppefag_.
