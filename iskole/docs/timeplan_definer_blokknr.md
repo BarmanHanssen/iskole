@@ -14,8 +14,7 @@ Dersom skolen ikke har gruppefag, kan man sette antall blokknr til 0. Uten grupp
 
 Dersom skolen skal ha gruppefag, må man legge inn blokknr som skal angi hvor fagene skal plasseres på timeplanen. Registreringen av aktuelle gruppefag skjer fra _Grunnlagsdata>Fag_. Hvilke gruppefag som skal benyttes inneværende skoleår registreres fra _Time- og fagfordeling>Gruppefag_, og må være utført før elevene kan velge gruppefag. Men man kan klargjøre oppsettet her uten at gruppefagene og elevene er på plass.
 
-![image](https://user-images.githubusercontent.com/10975905/197773937-90bc1c67-9b51-4a66-8536-d66334311856.png)
-
+![image](https://user-images.githubusercontent.com/10975905/197776611-e8eb1673-e9e3-4415-b7cf-d04f723eac6a.png)
 
 Vi registrer hvordan vi har tenkt å sette opp timeplanen for gruppefagene, uten nødvendigvis ennå å ha oversikt over hvilke grupper som skal igangsettes. Vi skal fastsette et rammeverk som gjør det enkelt å gruppere fag som skal undervises parallelt. Når undervisningen eksakt skal finne sted gjøres fra menyvalget _Timeplanlegge blokknr_.
 
@@ -33,6 +32,8 @@ Det er mulig å benytte gruppefag, og timeplanlegging av disse, uten å benytte 
 - Trinn: Benyttes i forbindelse når elevene selv velger gruppefag.
 
 Gruppefagene kan knyttes til en ID fra _Time- og fagfordeling>Gruppefag_, begrenset til de registrerte ID-er som er lagt inn her. Dersom elevene selv skal kunne få velge gruppefag for neste skoleår: Se _Mine sider>Tilgang>Elevers valg av gruppefag_.
+
+![image](https://user-images.githubusercontent.com/10975905/197776780-a6dfc862-a550-447f-b5f5-1cd948644e9d.png")
 
 ### ID
 Identifikator som gjør det enkelt å gruppere fag som skal ha lik timeplan. Bør tas i bruk, da den letter arbeidet med å ferdigstille timeplanen. ID kan legges inn på faget fra _Time- og fagfordeling>Gruppefag_.
