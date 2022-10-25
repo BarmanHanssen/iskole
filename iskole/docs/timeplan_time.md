@@ -1,7 +1,7 @@
 ---
 id: timeplan_time
-title: Time
-sidebar_label: Time
+title: Timer
+sidebar_label: Timer
 ---
 
 ### For en helhetlig gjennomgang av timeplanlegging med iSkole som hjelpemmel henvises det til _Emner>Timeplanlegging_.
