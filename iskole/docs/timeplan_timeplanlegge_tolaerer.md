@@ -1,7 +1,7 @@
 ---
 id: timeplan_timeplanlegge_tolaerer
-title: Timeplanlegge tolærerfag
-sidebar_label: Timeplanlegge tolærerfag
+title: Tolærere
+sidebar_label: Tolærere
 ---
 
 # Timeplanlegge tolærerfag
