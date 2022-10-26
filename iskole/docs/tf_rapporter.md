@@ -9,9 +9,13 @@ sidebar_label: Rapporter
 Alle kontaktlærere som er registreret fra _Elevadmin>Kontaktlærer_ listes ut her.
 
 ### Undervisningsressurser
+
+![bilde](https://user-images.githubusercontent.com/80097133/198007928-a1bd6d11-17e8-4122-bc80-170192263de5.png)
+
+
 Alle som står oppført som fagansvarlig for undervisning, registrert fra menyvallgene _Klassefag/Gruppefag/Tolærerfag_ listes ut her. 
 Fag med kode 99999 kan være komponent til et fag med offisiell fagkode, det fremkommer ikke av rappporten.
-Vi har valgt å utelate elevtallet for tolærerfag da det ikke av timeplanen fremgår hvilken funksjon tolæreren har.
+Vi har valgt å utelate elevtallet for tolærerfag da det av timeplanen ikke fremgår hvilken funksjon tolæreren har.
 
 ### Andre ressurser
 Her legges inn eventuelle justering/korrigeringe til undervisningsressursen, eksempelvis ved endring av fagansvarlig i løpet av plnpperioden. I tillegg kan en registrere ressurs for andre oppdrag, eksempelvis for rektor/inspektør. Ponget er at det er mulig å få eksakt stilllingsstørrelse som da kan være utgangspunktet for avlønning av alle ansatte når en summerer undervisningsressurs og andre ressurser. Akkurat den sammenstillingen vil fremgå av neste rapport, nemlig _Stillingsoversikt_.
