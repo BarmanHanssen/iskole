@@ -3,16 +3,15 @@ id: timeplan_definer_blokknr
 title: Blokk
 sidebar_label: Blokk
 ---
-Når undervisning i et fag har elever fra ulike klasser, klassifiseres faget som gruppefag. Merk at dersom klassens elever i et klassensfag deles i flere grupper, kan også dette faget klassifiseres som gruppefag.
-
-Begrunnelsen for å innføre blokknummer var et ønske om en mer abstrakt måte å angi en undervisningstime på. Eksempelvis skal to grupper ha fem timer undervisning per uke og undervises parallelt. Vi gir da gruppene like blokknumre. At gruppene har like blokknumre forteller at fagene skal undervises parallelt. 
-<!--I utgangspunktet sier det ikke hvor timene skal plasseres på timeplanen.  Det kan bestemmes på et senere tidspunkt (se _Timeplanlegge blokknr._).-->
+Når undervisning i et fag har elever fra ulike klasser, klassifiseres faget som gruppefag. Merk at dersom klassens elever i et klassensfag deles i flere grupper, bør også dette faget klassifiseres som gruppefag.
 
 Dersom skolen ikke har gruppefag, kan man sette antall blokknr til 0. Uten gruppefag skal all undervisning i fag foregå i klassen med alle elevene samlet, og fagene er klassifisert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
 
+Blokknummer er innført for å kunne angi at undervisningstimer med samme blokknummer skal undervises på samme tid, før en har bestemt dag og time for blokknummeret. Eksempelvis skal to grupper ha fem timer undervisning per uke og undervises parallelt. Vi gir da gruppene like blokknumre. At gruppene har like blokknumre forteller at fagene skal undervises parallelt. Bruk av blokknummer gjør det raskere å få oversikt over hvilke gruppefag som undervises på samme tid, uten å spesifisere når undervisningen finner sted. Med utgangspunkt i fagenes blokknummer går også timeplanleggingen av gruppefagene raskere.
+
 ## Blokknr
 
-Dersom skolen skal ha gruppefag, må man legge inn blokknr som skal angi hvor fagene skal plasseres på timeplanen. Registreringen av aktuelle gruppefag skjer fra _Grunnlagsdata>Fag_. Hvilke gruppefag som skal benyttes inneværende skoleår registreres fra _Time- og fagfordeling>Gruppefag_, og må være utført før elevene kan velge gruppefag. Men man kan klargjøre oppsettet her uten at gruppefagene og elevene er på plass.
+Dersom skolen skal ha gruppefag, må man legge inn blokknr som skal angi hvor fagene skal plasseres på timeplanen. Registreringen av aktuelle gruppefag skjer fra _Grunnlagsdata>Fag_. Hvilke gruppefag som skal benyttes inneværende skoleår registreres fra _Time- og fagfordeling>Gruppefag_, og må være utført før elevene kan velge gruppefag. Men man kan klargjøre oppsettet her før registrering av gruppefag og elever er på plass.
 
 ![image](https://user-images.githubusercontent.com/10975905/197776611-e8eb1673-e9e3-4415-b7cf-d04f723eac6a.png)
 
@@ -45,9 +44,9 @@ Det er mulig å benytte gruppefag, og timeplanlegging av disse, uten å benytte 
 
 - ID: Fag med lik ID skal ha lik timeplan. Altså kan en elev bare velge gruppefag med ulike ID-er.
 - Blokkknr: Her spesifiseres timene, før timeplanen er bestemt. Et bestemt blokknr kan bare benyttes en gang.
-- Trinn: Benyttes i forbindelse når elevene selv velger gruppefag.
+- Trinn: Benyttes i forbindelse når elevene selv skal velge gruppefag for neste skoleår.
 
-Gruppefagene kan knyttes til en ID fra _Time- og fagfordeling>Gruppefag_, begrenset til de registrerte ID-er som er lagt inn her. Dersom elevene selv skal kunne få velge gruppefag for neste skoleår: Se _Mine sider>Tilgang>Elevers valg av gruppefag_.
+Gruppefagene kan knyttes til en ID fra _Time- og fagfordeling>Gruppefag_. En lærer kan ikke undervise to grupper med lik ID. Dersom elevene selv skal kunne få velge gruppefag for neste skoleår: Se _Mine sider>Tilgang>Elevers valg av gruppefag_.
 
 ![image](https://user-images.githubusercontent.com/10975905/197777147-27e94fe2-eeca-4023-a492-34e6f93b7669.png)
 
@@ -82,6 +81,7 @@ Hva skal timeplanlegges først, klasse- eller gruppe-fagene? Timeplanlegger best
 
 ### Dersom klassefagene timeplanlegges først 
 
+Før en starter timeplanleggingen av klassefagene: Klikk ikonet Legg til... under overskriften Blokknummer tildelt klassen for uken.
 Hensikten med dette valget:
 
 - Å markere at en time i valgt klasse ikke skal/kan brukes til timeplanlegging av et klassefag. Vanligvis for å avsette tid for gruppefag, men også for andre formål.
