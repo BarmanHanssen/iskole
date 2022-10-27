@@ -15,7 +15,7 @@ Det er imidlertid mulig å ha forskjellig start- og slutt-tid for timene. For ek
 :::note Merk
 Timeoppsettet er en mal. Når en time timeplanlegges, får timen start- og slutt-tiden fra gjeldende mal. Dersom malen endres, vil det ikke påvirke timer som alt er timeplanlagt. Men når nye timer timeplanlegges, vil alltid gjeldende mal benyttes. 
 
-En allerede timeplanlagt time i et klassefag kan gis endret start- og/eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-time. Dette gjøres ved å høyreklikke på timen fra _Timeplanlegge klasse_.
+En allerede timeplanlagt time i et klassefag kan gis endret start- og/eller slutt-tid. Eksempelvis kan en dobbelt-time med friminutt mellom timene gjøres om slik at friminuttet fjernes. Eller en time kan forlenges inn i en midt-time. Dette gjøres ved å høyreklikke på timen fra _Timeplan>Klasser_.
 :::
 
 ### For skoler som har samme timeoppsett for alle klassene
@@ -25,7 +25,7 @@ Klokkeslettene for timene som legges inn her, vil følge alle fag som timeplanle
 Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig timelengde og/eller forskjellig start-tider på noen (eller alle) timene. Dette lar seg løse på flere måter, her skisseres tre fremgangsmåter. Vi anbefaler å starte med 1: og forsette med enten 2: eller 3:
 
 1: Vi legger bare inn timene som har felles start- og slutt-tid for alle skolens klasser (dersom slike timer finnes!).
-Da kan vi timeplanlegge alle klasser i alle fag som er aktuelle.
+Da kan vi timeplanlegge alle fag i alle klasser innenfor malen som er satt opp.
 
 Fordeler/ulemper med 1:
 + Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.
@@ -47,12 +47,12 @@ Timene 0 (eller 1) til 9 brukes til barnetrinnet. Dersom ungdommstrinnet eksempe
 Fordeler/ulemper med 3: 
 + Kan timeplanlegge alle klassene uten å gjøre endringer på malen som definerer start- og slutt-tider.
 + Dersom timeplanen må endres i løpet av skoleåret, er alle disponible timelengder på plass.
-+ Kan komme i skade for å velge feil timelengde når timene utplasseres fra _Timeplanlegge klasse_.
++ Kan komme i skade for å velge feil timelengde når timene utplasseres fra _Timeplan>Klasser_.
 
 ### Før en endrer oppsetter med timenes plassering/lengde
-Timene og timelengden som lagres her er altså en mal som benyttes når en legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, må malen oppdateres. Benyttes metode 3: er dette alt på plass! Merk at det er mulig å endre timelengden eksempelvis etter første halvår. Da må timeplanen legges på nytt for å få aktivert de nye tidene.
+Timene og timelengden som lagres her er altså en mal som benyttes når en legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, må malen oppdateres. Benyttes metode 3: er alt på plass! Merk at det er mulig å endre timelengden eksempelvis etter første halvår. Da må timeplanen legges på nytt for å få aktivert de nye tidene.
 
-Det er også mulig å endre start- og slutt-tid for en enkel time fra _Timeplan> klasser_. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra endret start- og slutt-tiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
+Det er også mulig å endre start- og slutt-tid for en enkel time fra _Timeplan>Klasser_. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra endret start- og slutt-tiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
 
 :::note Merk
 Kommer en elev eksempelvis midt i en time, kan faglærer nå angi fraværets lengde i minutter. Tidligere var det enten hele timens fravær, eller ikke fravær, men bare anmerkning for forsentkomming.
@@ -60,15 +60,15 @@ Kommer en elev eksempelvis midt i en time, kan faglærer nå angi fraværets len
 
 ### Eksempel
 Det er fullt mulig å legge inn alle aktuelle start- og slutt-tider på timene. Se punkt 3: ovenfor. Alle variantene vil vises når timeplanlegger velger en klasse. 
-Dersom oppsettet herfra er slik:
+Dersom dette er oppsettet:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/158549676-73bc825b-4a0c-4a7e-920d-3c3c32ead2ea.png)
 
-vil timeplanlegger få dette skjermbilde fra _Timeplanlegge klasse_:
+vil timeplanlegger få dette skjermbilde fra _Klasser_:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/158548921-624dd3bd-8cf5-4110-8a30-7e6479dc5fb2.png)
 
-Her må timeplanlegger være ekstra påpasselig slik at riktig time velges!
+Her må timeplanlegger være ekstra påpasselig slik at riktig start-tid for timen velges!
 
 
 
