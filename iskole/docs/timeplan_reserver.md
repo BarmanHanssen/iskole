@@ -5,11 +5,11 @@ sidebar_label: Reserver
 ---
 
 ## Innledning
-Reserveringen av en lærer for en bestemt time innebærer at læreren ikke kan ha undervisningen i klasse- eller gruppefag i denne timen. Timene en lærer er reservert vises bare på lærerens timeplan.
+Reserveringen av en _lærer_ for en bestemt time innebærer at læreren ikke kan ha undervisningen i klasse- eller gruppefag i denne timen. Timene en lærer er reservert vises bare på lærerens timeplan.
 
-Reservering av et rom innebærer at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. Disse tidene vises bare på rommets timeplan.
+Reservering av et _rom_ innebærer at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. Disse tidene vises bare på rommets timeplan.
 
-Reservering av rom og lærer innebærer at de involvert lærere ikke kan ha undervisning på samme tid. En slik reservering vises også på lærerens timeplan
+Reservering av _rom og lærer_ innebærer at de involvert lærere ikke kan ha undervisning på samme tid. En slik reservering vises også på lærerens timeplan
 
 ## Reservere lærer
 Benyttes hovedsaklig før skolens timeplan skal legges. Reservasjonen betyr at læreren ikke skal/kan ha undervsning en bestemt time. En reservasjon blokkerer for all annen timeplanlagt aktivitet for denne læreren.
@@ -64,12 +64,14 @@ Klikk på en grønn time for å legge til en reservasjon. Du får nå opp et tod
 I bildet over er første time mandag valgt. Nå kan du taste inn _Grunn_ for reserveringen. Skal reserevasjonen gjelde for flere uker huker du av for øvrige uker reservasjonen skal gjelde for før du trykker på Lagre.
 
 
-Dersom noen timen alt er reservert eller timeplanlagt i noen uker, er det market under kolonnen _Opptatt/grunn_. 
+Dersom noen timen alt er reservert eller timeplanlagt i noen uker, blir det market under kolonnen _Opptatt/grunn_. 
 
 Ønsker man at reservasjonen skal gjelde for flere uker, kanskje for hele skoleåret, må en markeres dette ved å merke disse ukene. Husk å trykke _Kopier uke xxx til de valgte uker_ i det nedre skjermbildet før du trykker Lagre i det øvre skjermbildet. 
 
 ## Reserver rom og lærer
-Se skjermbildet ovenfor. Timeplanlegger kan i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Dersom lærer(e) skal knyttes til romreservasjonen: Trykk  på Legg til under overskriften _Reserver lærere til rommet_. Du får da opp en liste med lærere, og trykker på +-tegnet for å legge til en læreren. Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen planlagt møtevirksomhet med navngitte deltakere i noen/alle uker.
+Reservering av rom og lærer er nå en del av reservasjon av rom. Se derfor skjermbildet ovenfor!
+
+Timeplanlegger kan i tillegg til rommet også knytte en eller flere lærere til romreserveringen. Dersom lærer(e) skal knyttes til romreservasjonen: Trykk  på ikonet _Legg til_ under overskriften _Reserver lærere til rommet_. Du får da opp en liste med lærere, og trykker på +-ikonet for å legge til en læreren. Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen planlagt møtevirksomhet med navngitte deltakere i noen/alle uker.
 
 På _Mine sider_ vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere. Lærere kan ikke ha undervisningsoppdrag som kolliderer med reservasjonen.
 
