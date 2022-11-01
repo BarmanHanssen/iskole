@@ -7,7 +7,7 @@ sidebar_label: Grupper
 ## Innledning
 
 :::note Merk
-Blokknummeret må være timeplanlagt fra _Timeplan blokknr_ før blokknr kan reigstreres på gruppefag. Før gruppefagene er timeplanlagt, kan man imidlertid reservere tider for gruppefagene på klassens timeplan fra _Blokknr klasse_. På den måten kan en reservere timer på timeplanen for gruppefag, og derigjennom  forhindre konflikt mellom gruppe- og klassefag dersom man velger å timeplanlegge klassefagene først.
+Blokknummeret må være timeplanlagt fra _Blokk>Timeplan blokknr_ før blokknr kan reigstreres på gruppefag. Før gruppefagene er timeplanlagt, kan man imidlertid reservere tider for gruppefagene på klassens timeplan fra _Blokk>Blokknr klasse_. På den måten kan en reservere timer på timeplanen for gruppefag, og derigjennom  forhindre konflikt mellom gruppe- og klassefag dersom man velger å timeplanlegge klassefagene først.
 :::
 
 Skjermbildet viser hvordan fagene er gruppert i forhold til hverandre. Gruppefag med lik timeplan har like blokknumre. 
@@ -15,12 +15,12 @@ Skjermbildet viser hvordan fagene er gruppert i forhold til hverandre. Gruppefag
 Hvert blokknummer representerer altså en bestemt time på timeplanen. Vi velger først hvilken uke vi skal legge inn blokknr for, første skoleuke anbefales. Det er komplisert, og derfor sjeldent aktuelt, å endre på oppsettet som gjøres her. Etter å ha ferdigstilt registrering i første skoleuke, kan man så kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, da systemet til enhver tid vil kontrollere at ikke kollisjoner oppstår.
 
 Eksempel hvor blokknumrene er lagt inn på gruppefag:
-![image](https://user-images.githubusercontent.com/80097133/118975143-f81d9d00-b973-11eb-85e2-40dfb2a2bcef.png)
+![bilde](https://user-images.githubusercontent.com/80097133/199228418-89ba38be-ca9c-4f20-80e2-2f32aafd69af.png)
 
 ## Registrering av blokknr på gruppefag
-Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og rom vises under tabellen med alle gruppefagene. Velges ST3:ESA 1 fra skjermbildet ovenfor, kommer følgende frem under tabellen med fag:
+Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og rom vises under tabellen med alle gruppefagene. Velges LA1: AG1 1 fra skjermbildet ovenfor, kommer følgende frem under tabellen med fag:
 
-![bilde](https://user-images.githubusercontent.com/80097133/191734251-18eb25ff-f7d6-43f6-a97a-711c963938a7.png)
+![bilde](https://user-images.githubusercontent.com/80097133/199229735-5201c5d7-3aca-4aad-8a00-f6b6ea7abc31.png)
 
 Timetallet (her: _Timer 5_) er det mulig å endre for denne uken. Det er hentet fra _Grunnlagsdata>Fag_ og kan endres også derfra. 
 
