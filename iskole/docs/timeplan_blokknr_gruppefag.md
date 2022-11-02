@@ -12,7 +12,7 @@ Blokknummeret må være timeplanlagt fra _Blokk>Timeplan blokknr_ før blokknr k
 
 Skjermbildet viser hvordan fagene er gruppert i forhold til hverandre. Gruppefag med lik timeplan har like blokknumre. 
 
-Hvert blokknummer representerer altså en bestemt time på timeplanen. Vi velger først hvilken uke vi skal legge inn blokknr for, første skoleuke anbefales. Det er komplisert, og derfor sjeldent aktuelt, å endre på oppsettet som gjøres her. Etter å ha ferdigstilt registrering i første skoleuke, kan man så kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, da systemet til enhver tid vil kontrollere at ikke kollisjoner oppstår.
+Hvert blokknummer representerer altså en bestemt time på timeplanen. Vi velger først hvilken uke vi skal legge inn blokknr for, første skoleuke anbefales. Når hele timeplanen er ferdig lagt vil det kunne være komplisert, og derfor sjeldent aktuelt, å endre på oppsettet som gjøres her. Etter å ha ferdigstilt registrering i første skoleuke, kan man så kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, da systemet til enhver tid vil kontrollere at ikke kollisjoner oppstår.
 
 Eksempel hvor blokknumrene er lagt inn på gruppefag:
 ![bilde](https://user-images.githubusercontent.com/80097133/199228418-89ba38be-ca9c-4f20-80e2-2f32aafd69af.png)
@@ -24,14 +24,17 @@ Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og 
 
 Timetallet (her: _Timer 5_) er det mulig å endre for denne uken. Det er hentet fra _Grunnlagsdata>Fag_ og kan endres også derfra. 
 
-Blokknr: Dag og tid for et blokknummer må være registrert fra menyvalget _Time_ før det kan innsettes her. Dersom det gjøres endringer på dag og/eller tid på et blokknummer fra _Time_ etter at gruppefaget ble timeplangt, vil endringen ikke avspeiles her. Dersom endringen skal gjelde for dette faget, må man velge blokknumret på nytt fra nedtrekkslisten. Nedtrekkslisten representerer til enhver tid  gjeldende dag/tid for hvert blokknummer.
+Blokknr: Dag og tid for et blokknummer må være registrert fra menyvalget _Time_ før det kan innsettes her. Dersom det gjøres endringer på dag og/eller tid på et blokknummer fra menyvalget _Time_ etter at gruppefaget ble timeplangt, vil endringen ikke avspeiles her. Dersom endringen skal gjelde for dette faget, må man velge blokknumret på nytt fra nedtrekkslisten. Nedtrekkslisten representerer til enhver tid  gjeldende dag/tid for hvert blokknummer.
 
-Rom Z107 er også hentet fra _Grunnlagsdata>Fag_ og vil bli foreslått når Romnr skal utfylles. Her har timeplanlegger valgt å endre rom for faget. Det valgte rom ,Y202, er hentet fra nedtrekkslisten. Rommene i nedtrekkslisten er registrert fra _Grunnlagsdata>Rom_.
+Romnr: Nedtrekkslisten henter rom registrert fra _Grunnlagsdata>Rom_. Dersom faget har et foretrukket rom, kan det registreres på faget fra _Grunnlagsdata>Fag_, og vil i så fall frem frem automtisk.
+kkslisten. Rommene i nedtrekkslisten er registrert fra _Grunnlagsdata>Rom_.
 
 Dersom man nå skal registrere blokknr på et nytt gruppefag, vil skjermbildet bli slik:
 ![bilde](https://user-images.githubusercontent.com/80097133/191739144-f83d8a36-f805-45f0-acc4-44f6f88d93ee.png)
 
-Velg Romnr for første blokknr. Dette rommet tas automatisk med videre som førstevalg. Dersom faget er gitt ID fra _Time- og fagfordeling>Gruppefag_ (anbefales, kan etterregistreres!), og tabellen med ID og blokknr er lagt inn fra _Definer blokknr_, vil alle timene innføres med sine respektive blokknr, og valgte romnr, med et museklikk. Dersom en må gjøre dette manuelt, og dersom blokknr er i rekkefølge: Legg inn det første blokknr for faget, videre kan førstevalget i nedtrekksliste benyttes: «+1»
+Velg Romnr for første blokknr. Dette rommet tas automatisk med videre som førstevalg. 
+
+Dersom faget er gitt ID fra _Time- og fagfordeling>Gruppefag_ (anbefales, kan etterregistreres!), og tabellen med ID og blokknr er lagt inn fra _Definer blokknr_, vil alle timene innføres med sine respektive blokknr, og valgte romnr, med et museklikk. Dersom en må gjøre dette manuelt, og dersom blokknr er i rekkefølge: Legg inn det første blokknr for faget, videre kan førstevalget i nedtrekksliste benyttes: «+1»
 
 Når man trykker på _Lagre_, vil iSkole først sjekke at blokknumrene er timeplanlagt, og deretter at foreslåtte blokknr ikke kommer i konflikt med annen aktivtet for fagets lærer. Dersom elever er registrert i gruppefag, gjøres også sjekk mot deres timeplan. Også romvalget kontrollleres. Dersom ingen kollisjoner påvises, vil blokknumrene for faget lagres. Da er faget ferdig timeplanlagt, og vil nå vises på faglærers, og alle fagets elevers timeplan.
 
