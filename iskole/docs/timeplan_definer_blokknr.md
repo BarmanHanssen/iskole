@@ -11,6 +11,7 @@ Blokknummer er innført for å kunne angi at undervisningstimer med samme blokkn
 
 ::: note 
 En detaljert gjennomgang av bruken av gruppefag finner du i dokumentasjonen _Timeplanlegging_. Den finner du oppe i høyre hjørne:
+
 ![bilde](https://user-images.githubusercontent.com/80097133/199449947-e7edc076-9c3f-4b02-be9f-b9eccc3cf605.png)
 :::
 
