@@ -9,6 +9,10 @@ Dersom skolen ikke har gruppefag, kan man sette antall blokknr til 0. Uten grupp
 
 Blokknummer er innført for å kunne angi at undervisningstimer med samme blokknummer skal undervises på samme tid, før en har bestemt dag og time for blokknummeret. Eksempelvis skal to grupper ha fem timer undervisning per uke og undervises parallelt. Vi gir da gruppene like blokknumre. At gruppene har like blokknumre forteller at fagene skal undervises parallelt. Bruk av blokknummer gjør det raskere å få oversikt over hvilke gruppefag som undervises på samme tid, uten å spesifisere når undervisningen finner sted. Med utgangspunkt i fagenes blokknummer går også timeplanleggingen av gruppefagene raskere.
 
+::: note En detaljert gjennomgang av bruken av gruppefag finner du i dokumentasjonen _Timeplanlegging_. Den finner du oppe i høyre hjørne:
+![bilde](https://user-images.githubusercontent.com/80097133/199449947-e7edc076-9c3f-4b02-be9f-b9eccc3cf605.png)
+:::
+
 ## Blokknr
 
 Dersom skolen skal ha gruppefag, må man legge inn blokknr som skal angi hvor fagene skal plasseres på timeplanen. Registreringen av aktuelle gruppefag skjer fra _Grunnlagsdata>Fag_. Hvilke gruppefag som skal benyttes inneværende skoleår registreres fra _Time- og fagfordeling>Gruppefag_, og må være utført før elevene kan velge gruppefag. Men man kan klargjøre oppsettet her før registrering av gruppefag og elever er på plass.
