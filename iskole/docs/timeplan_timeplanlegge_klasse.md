@@ -6,7 +6,7 @@ sidebar_label: Klasser
 
 Benevnelsen klassefag, obligatorisk fag og fellesfag er synonyme betegnelser. Vi benytter oftes klassefag. 
 
-Timeplanen for klassefag skal inneholde all organisert undervisning i  alle klassefag til klassen. Endring av fagsammensetningen gjøres fra _Grunnlagsdata>Fag>Klassefag_. 
+Timeplanen for klassefag skal inneholde all organisert undervisning i  alle klassefag til klassen. Eventuell endring av fagsammensetningen gjøres fra _Grunnlagsdata>Fag>Klassefag_. 
 
 Noen elever kan være fritatt i ett eller flere klassefag. Slike unntak får ingen innvirkning for legging av klassens timeplan. 
 Derimot kan elev fra annen klasse som følger undervisningen i et fag i klassen skape begrensninger. Denne elevens timeplan kan allerede være være timeplanlagt, og medføre kollisjoner når timeplanen legges.
@@ -14,25 +14,23 @@ Derimot kan elev fra annen klasse som følger undervisningen i et fag i klassen 
 Dersom elevene i klassen kan velge fag utover det som hele klassen er satt opp med, klassifiserer vi slike fag som gruppefag. Gruppefag gir naturlig nok begrensninger for oppsettet av klassens timeplan. Timeplanen for klassefag kan ikke kollidere med et gruppefag som en elev i klassen har valgt. Det er av den grunn naturlig først å fastsette når gruppefagene skal ha sine timer før en starter med timeplanleggingen av klassefagene. Vi henviser til egne avsnitt om gruppefag for hvordan dette kan håndteres. Trykk på ?-ikonet oppe i høyre hjørne, der finner du lenken til dokumentasjon for timeplanlegging.
 
 :::tip Tips
-Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleåret som utgangspunkt. Når alle klassene er timeplanlagt, kan man kopiere timeplanen for alle klassene fremover, se menyvalget _Kopiering_. Det er også mulig bare å kopiere den ene klassens timeplan fremover. Det kan teknisk ta noe tid, da omfattende kontroller må utføres før kopieringen av en enkelt klasse kan finne sted.
+Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleåret som utgangspunkt. Når alle klassene er timeplanlagt, kan man kopiere timeplanen for alle klassene fremover, se menyvalget _Kopiering_. Det er også mulig bare å kopiere den ene klassens timeplan fremover. Det kan ta noe tid, da omfattende kontroller må utføres før kopieringen av en enkelt klasse kan finne sted.
 :::
  
 :::note Merk
-Dersom et fag har tolærer, kan timeplanlegging av timene til tolærer plassers etter at faget er timeplanlagt i klassen. Alternativt kan dette gjøres fra eget menuvalg, se _Timeplanlegge tolærerfag_.
+Dersom et fag har tolærer, kan timeplanlegging av timene til tolærer først plassers etter at faget er timeplanlagt i klassen. Alternativt kan dette gjøres fra eget menuvalg, se _Timeplanlegge tolærerfag_.
 :::
 
-![Timeplanlegge klasse][tp_klasse_oversikt]
+![bilde](https://user-images.githubusercontent.com/80097133/199943122-7551939d-4aa5-453e-a7fe-81d78d04dc22.png)
 
-[tp_klasse_oversikt]: /img/tp_klasse_oversikt.png 'Timeplanlegge klasse oversikt.'
-
-Skjermen for timeplanlegger er inndelt i fire separate deler (Fag, Timeplan klasse, Timeplan lærer, Vis timeplan for disse ansatte) som viser forskjellige deler av datasettet en timeplanlegger må forholde seg til. Sluttresultatet blir timeplanen for en angitt klasse (her ST1A) i en valgt uke (her 2020-09).
+Skjermen for timeplanlegger er inndelt i fire separate deler (_Fag, Timeplan klasse, Timeplan lærer, Vis timeplan for disse ansatte_) som viser forskjellige deler av datasettet en timeplanlegger må forholde seg til. Sluttresultatet blir timeplanen for en valgt klasse (her ID2C) i en valgt uke (her 2020-43).
 
 ## Fag
-Her vises alle fag som klassen er satt opp med (fra _Grunnlagsdata>Fag>Klassefag_), og med faglærerne i det enkelte fag (se _Time- og fagfordeling>Klassefag_). 
-Fag uten lærer skiller seg ut ved at de ikke er tildelt fargekode. Dersom det står MODERKL under overskriften Type, er elevene fra en annen klasse gjest i faget. Slike fag anbefales å timeplanlegge før en tar KLFAG.
+Her vises alle fag som klassen er satt opp med (fra _Grunnlagsdata>Klasse_), og med faglærerne i det enkelte fag (se _Time- og fagfordeling>Klassefag_). 
+Fag uten lærer skiller seg ut ved at de ikke er tildelt fargekode. Dersom det står MODERKL under overskriften Type, er elevene fra en annen klasse gjest i faget. Slike fag anbefales å timeplanlegge før en tar KLFAG da det også involverer elevene i gjesteklassen.
 
 ##### +Legg til
-Dersom et fag mangler, kan det legges til her. Det forutsetter at faget alt er registrert fra _Grunnlagsdata>Fag_ under klassens studieretning og klassetrinn.
+Dersom et fag mangler, kan det legges til her. (Vanligvis er alle fag på plass før en tenker på å timeplanlegge! Fagsammensetningen gjøres fra _Grunnlagsdata_.)
 
 ##### Kopier: Man kan kopierer timeplanen for denne uken frem i tid. Se eget avsnitt om kopiering nederst på siden.
 
