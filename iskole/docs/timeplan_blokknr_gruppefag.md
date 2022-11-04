@@ -7,12 +7,12 @@ sidebar_label: Grupper
 ## Innledning
 
 :::note Merk
-Blokknummeret må være timeplanlagt fra _Blokk>Timeplan blokknr_ før blokknr kan reigstreres på gruppefag. Før gruppefagene er timeplanlagt, kan man imidlertid reservere tider for gruppefagene på klassens timeplan fra _Blokk>Blokknr klasse_. På den måten kan en reservere timer på timeplanen for gruppefag, og derigjennom  forhindre konflikt mellom gruppe- og klassefag dersom man velger å timeplanlegge klassefagene først.
+Blokknummeret må være timeplanlagt fra _Blokk>Timeplan blokknr_ før blokknr kan reigstreres på gruppefag. Før gruppefagene er timeplanlagt, kan man imidlertid reservere tider for gruppefagene på klassens timeplan fra _Blokk>Blokknr klasse_. På den måten kan en timeplanlegge klassefagene før gruppefagene, men da kun utenom timene som en har reservert for gruppefagene.
 :::
 
 Skjermbildet viser hvordan fagene er gruppert i forhold til hverandre. Gruppefag med lik timeplan har like blokknumre. 
 
-Hvert blokknummer representerer altså en bestemt time på timeplanen. Vi velger først hvilken uke vi skal legge inn blokknr for, første skoleuke anbefales. Når hele timeplanen er ferdig lagt vil det kunne være komplisert, og derfor sjeldent aktuelt, å endre på oppsettet som gjøres her. Etter å ha ferdigstilt registrering i første skoleuke, kan man så kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, da systemet til enhver tid vil kontrollere at ikke kollisjoner oppstår.
+Hvert blokknummer representerer altså en bestemt time på timeplanen. Vi velger først hvilken uke vi skal legge inn blokknr for, første skoleuke anbefales. Når hele timeplanen er ferdig lagt vil det kunne være komplisert, og derfor sjeldent aktuelt, å endre på oppsettet som gjøres for gruppefagene. Etter å ha ferdigstilt registrering i første skoleuke, kan man så kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, da systemet til enhver tid vil kontrollere at ikke kollisjoner oppstår.
 
 Eksempel hvor blokknumrene er lagt inn på gruppefag:
 ![bilde](https://user-images.githubusercontent.com/80097133/199228418-89ba38be-ca9c-4f20-80e2-2f32aafd69af.png)
@@ -22,12 +22,11 @@ Når man markerer et fag, vil fagets navn, faglærer, timer (for denne uken) og 
 
 ![bilde](https://user-images.githubusercontent.com/80097133/199229735-5201c5d7-3aca-4aad-8a00-f6b6ea7abc31.png)
 
-Timetallet (her: _Timer 5_) er det mulig å endre for denne uken. Det er hentet fra _Grunnlagsdata>Fag_ og kan endres også derfra. 
+Timetallet (her: _Timer 3_) er det mulig å endre for denne uken. Det er hentet fra _Grunnlagsdata>Fag_ og kan endres også derfra. 
 
 Blokknr: Dag og tid for et blokknummer må være registrert fra menyvalget _Time_ før det kan innsettes her. Dersom det gjøres endringer på dag og/eller tid på et blokknummer fra menyvalget _Time_ etter at gruppefaget ble timeplangt, vil endringen ikke avspeiles her. Dersom endringen skal gjelde for dette faget, må man velge blokknumret på nytt fra nedtrekkslisten. Nedtrekkslisten representerer til enhver tid  gjeldende dag/tid for hvert blokknummer.
 
-Romnr: Nedtrekkslisten henter rom registrert fra _Grunnlagsdata>Rom_. Dersom faget har et foretrukket rom, kan det registreres på faget fra _Grunnlagsdata>Fag_, og vil i så fall frem frem automtisk.
-kkslisten. Rommene i nedtrekkslisten er registrert fra _Grunnlagsdata>Rom_.
+Romnr: Nedtrekkslisten henter rom registrert fra _Grunnlagsdata>Rom_. Dersom faget har et foretrukket rom, kan det registreres på faget fra _Grunnlagsdata>Fag_, og vil i så fall fremkomme  automtisk.
 
 Dersom man nå skal registrere blokknr på et nytt gruppefag, vil skjermbildet bli slik:
 ![bilde](https://user-images.githubusercontent.com/80097133/191739144-f83d8a36-f805-45f0-acc4-44f6f88d93ee.png)
