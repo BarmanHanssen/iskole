@@ -4,21 +4,21 @@ title: Tilgang
 sidebar_label: Tilgang
 ---
 
-Dette menyvalget er tilgjengelig for alle ansatte som er registrert. Når en asatt blir registrert med sluttet-dato, vil vedkommende etter slutte-datoen ikke få tilgang til iSkole. Kun rektor og administrator har rettigheter til å gjøre endringer på den enkeltes rettigheter utover det som automatisk blir tildelt. 
+Dette menyvalget er tilgjengelig for alle ansatte som er registrert. Men når en ansatt blir registrert med sluttet-dato, vil vedkommende etter slutte-datoen ikke få tilgang til iSkole. Kun rektor og administrator kan øke eller minske den enkeltes rettigheter utover det som automatisk blir tildelt. 
 Arkfanene _Brukere_ og _Romreservering_ er ikke synlig for andre enn rektor og administrator.
 
 ## Nøkkelpersoner
 Nøkkelpersonene kan endres av rektor, administrator og skoleeier. Unntak er rektor som bare kan endres av skoleeier, og administrator som bare kan endres av skoleeier og rektor.
 - Rektor har alle rettigheter når det gjelder innsyn og bruk av systemet.
-- Administrator har i hovedsak de samme rettigheter som rektor, men kan ikke endre elevers kartakterer.
-- Karakteransvarlig, og rektor, kan rette en innført karakter for et fag etter at standunkt/eksamenskarakter er satt. Rettingen blir loggført, slik at en i ettertid kan se hvem/hva som har skjedd.
+- Administrator har i hovedsak de samme rettigheter som rektor, men kan ikke endre elevers karakterer.
+- Karakteransvarlig, og rektor, kan rette en innført karakter for et fag etter at standunkt/eksamenskarakter er satt. Rettingen blir loggført, slik at en i ettertid kan se hva som er endret.
 - Kontaktperson for iSkole er vanligvis den som har best kjennskap til iSkoles virkemåte og derfor er den som kan gi råd og veiledning. Vedkommende er også den som kan hendvende seg til leverandøren angående feil/mangler og ønsker vedrørende bruk av iSkole. Viktigste kanal er support@barman-hanssen.no
 - NVBkontakt er den som har ansvaret for at vitnemål blir overført til Norsk vitnemåls database. Gjelder bare vitnemål for videregående skole.
 - Eksamensansvarlig har med oppsett av såvel muntlige som skrftilige eksamenspartier.
 - PASansvarlig har ansvaret for at oppsatte eksamenspartier blir overført til PAS.
 
 ## Funksjoner
-Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnader.
+Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnader. Når det avhukes for en tilleggs-funkson, eksempelvis for internat, vil _Internat_ tilføyes som arkfane, og ekstra programvare er derved tilgjengelig.
 
 ![image](https://user-images.githubusercontent.com/80097133/120471255-c90c2000-c3a4-11eb-95b2-a17ed9d4efd4.png)
 
@@ -31,9 +31,9 @@ Rektor kan gi den enkelte ansatte tilgang til det enkelte menyvalg uavhengig av 
 
 ![bilde](https://user-images.githubusercontent.com/80097133/192249086-6ee0ffc9-6f83-45f5-b85d-252069ca4d72.png)
 
-_Ansatt_: For å kunne få tilgang til denne modulen av iSkole må personen være registreret fra _Elevadmin.>Ansatt_. Tilgangen er tidsbegrenset til datoene gitt mellom _Begynte_ og _Sluttet_.
+_Ansatt_: For å kunne få tilgang til denne modulen av iSkole må personen være registreret fra _Personal>Ansatt_. Tilgangen er tidsbegrenset til datoene gitt mellom _Begynte_ og _Sluttet_.
 
-For ansatte hvor det er avhuket med _Pedagogisk ansatt_ vil vedkommende _(tildeles automatisk)_ rettigheter ut fra oppgaver som tildeles. Eksempelvis: Tildeles undervisning (fra _Time- og fagfordeling_) fås rettigheter til _Faglærer_ og _Fraværsfører_. I de fleste tilfeller skal pedagogisk ansatte ikke ha flere rettigheter. Eventuelt utvidede rettigheter kan tildeles av rektor, se under _Brukere_.
+For ansatte hvor det er avhuket med _Pedagogisk ansatt_ tildeles noen rettigheter automatisk utfra pålagte oppgaver. Eksempelvis: Tildeles undervisning (fra _Time- og fagfordeling_) fås rettigheter til _Faglærer_ og _Fraværsfører_. I de fleste tilfeller skal pedagogisk ansatte ikke ha flere rettigheter. Eventuelt utvidede rettigheter kan tildeles av rektor/administrator, se under _Brukere_.
 
 _Kontor_: Denne gruppen gis tilgang til utvalgte deler av menyvalget _Elevadmin._ Ingen automatisk tilgang til denne gruppen!
 
