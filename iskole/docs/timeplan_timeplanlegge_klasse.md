@@ -18,7 +18,7 @@ Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleå
 :::
  
 :::note Merk
-Dersom et fag har tolærer, kan timeplanlegging av timene til tolærer først plassers etter at faget er timeplanlagt i klassen. Alternativt kan dette gjøres fra eget menuvalg, se _Tolærere_.
+Dersom et fag har tolærer, kan timeplanlegging av timene til tolærer først plassers etter at faget er timeplanlagt i klassen. Alternativt kan dette gjøres fra eget menyvalg, se _Tolærere_.
 :::
 
 ![bilde](https://user-images.githubusercontent.com/80097133/199968729-afd9263f-f419-46f6-a972-38fc4bd21e46.png)
@@ -30,7 +30,7 @@ Her vises alle fag som klassen er satt opp med (fra _Grunnlagsdata>Klasse_), og 
 Fag uten lærer skiller seg ut ved at de ikke er tildelt fargekode. Dersom det står MODERKL under overskriften Type, er elevene fra en annen klasse gjest i faget. Slike fag anbefales å timeplanlegge før en tar KLFAG da faget også involverer elevene i gjesteklassen.
 
 
-**+Legg til**: Dersom et fag mangler, kan det legges til her. (Vanligvis er alle fag på plass før en tenker på å timeplanlegge! Fagsammensetningen hentes fra _Grunnlagsdata_.)
+**+Legg til**: Dersom et fag mangler, kan det legges til her. (Vanligvis er alle fag på plass før en tenker på å timeplanlegge! Fagsammensetningen hentes fra _Grunnlagsdata>Fag_.)
 
 ##### Kopier: Man kan kopierer timeplanen for denne uken frem i tid. Se eget avsnitt om kopiering nederst på siden.
 
