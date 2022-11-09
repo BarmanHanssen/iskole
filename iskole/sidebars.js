@@ -35,7 +35,7 @@ module.exports = {
       type: 'category',
       label: 'Timeplan',
       items: ['timeplan_time','timeplan_reserver','timeplan_definer_blokknr','timeplan_blokknr_gruppefag'
-          ,'timeplan_timeplanlegge_klasse','timeplan_timeplanlegge_tolaerer','timeplan_kopiering'],
+          ,'timeplan_timeplanlegge_klasse','timeplan_timeplanlegge_tolaerer','timeplan_kopiering','timeplan_rapporter'],
     },
     {
       type: 'category',
