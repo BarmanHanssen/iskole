@@ -23,6 +23,8 @@ Velges _Karakterer_, får vi frem en rekke nye valg:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201053477-01d46b2b-aa25-4e81-acab-877d2b472bc5.png)
 
+Her finner vi rapporten _Endrede karakterer_. Dersom innført karakter på et fag for en elev endres, blir dette loggført. Her får en oversikt over alle endrede karakterer, og hvem som har gjort endringen!
+
 #### Endrede karakterer
 Dersom innført karakter i et fag blir endret, blir det loggført hvem som gjør endringen. Greit å vite dersom det oppstår tvil om hvem som har gjort hva!
 
@@ -31,7 +33,6 @@ Velges _Diverse_, får vi frem en rekke nye valg:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201052673-0eb98e51-135c-4fe9-ae14-b62a264dcb4e.png)
 
-Her finner vi rapporten _Endrede karakterer_. Dersom innført karakter på e
 
 ### Kontroll av koder
 
