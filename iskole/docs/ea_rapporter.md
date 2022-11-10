@@ -17,3 +17,12 @@ Skolene som bruker iSkole faktureres som kjent ut fra elevtallet ved skolen henh
 ![bilde](https://user-images.githubusercontent.com/80097133/201040803-ac81fb7d-037e-4df8-8052-f501c86a228a.png)
 
 Her fås en samlet oversikt av en mengde data registrert på årets elever. For å begrense datasettet kan en benytte filtre på de fleste feltene. Eksempelet viser bare elever med fornavn som begynner på Pe. For ytterligere å begrense utvalget velges bare de kolonner som er av interesse. 
+
+### Skolebevis
+
+![bilde](https://user-images.githubusercontent.com/80097133/201044839-c5128529-1518-4766-b524-39912a203ea3.png)
+
+Standard oppsett for skolebevis er kredittkortstørrelse med skolens logo til venstre og tekst til høyre. Ønsker dere egen utforming må dere ta kontakt med Barman Hanssen.
+
+![bilde](https://user-images.githubusercontent.com/80097133/201045471-304e3fdb-5355-4c3b-86b7-30643883e5c4.png)
+
