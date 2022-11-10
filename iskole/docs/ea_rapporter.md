@@ -23,6 +23,8 @@ Velges _Karakterer_, får vi frem en rekke nye valg:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201053477-01d46b2b-aa25-4e81-acab-877d2b472bc5.png)
 
+#### Endrede karakterer
+Dersom innført karakter i et fag blir endret, blir det loggført hvem som gjør endringen. Greit å vite dersom det oppstår tvil om hvem som har gjort hva!
 
 ## Diverse
 Velges _Diverse_, får vi frem en rekke nye valg:
