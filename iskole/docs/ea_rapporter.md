@@ -12,11 +12,24 @@ Skolene som bruker iSkole faktureres som kjent ut fra elevtallet ved skolen henh
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201039302-2b9e89ee-89ca-47d9-aabc-03f996f4996e.png)
 
-### Egendefinert m/søk
+#### Egendefinert m/søk
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201040803-ac81fb7d-037e-4df8-8052-f501c86a228a.png)
 
 Her fås en samlet oversikt av en mengde data registrert på årets elever. For å begrense datasettet kan en benytte filtre på de fleste feltene. Eksempelet viser bare elever med fornavn som begynner på Pe. For ytterligere å begrense utvalget velges bare de kolonner som er av interesse. 
+
+## Karakterer
+Velges _Karakterer_, får vi frem en rekke nye valg:
+
+![bilde](https://user-images.githubusercontent.com/80097133/201053477-01d46b2b-aa25-4e81-acab-877d2b472bc5.png)
+
+
+## Diverse
+Velges _Diverse_, får vi frem en rekke nye valg:
+
+![bilde](https://user-images.githubusercontent.com/80097133/201052673-0eb98e51-135c-4fe9-ae14-b62a264dcb4e.png)
+
+Her finner vi rapporten _Endrede karakterer_. Dersom innført karakter på e
 
 ### Kontroll av koder
 
