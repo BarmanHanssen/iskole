@@ -3,6 +3,17 @@ id: ea_rapporter
 title: Rapporter
 sidebar_label: Rapporter
 ---
-Som det fremgår av meny-valgene, er det temmelig mange rapporter man kan ta ut herfra. Alle rapporter kan tas ut i pdf-format, og noen utvalgte som regneark. Regneark er beste valg dersom man ønsker å kunne redigere ressultat, eksempelvis sortere innholdet på egen hånd.
+Klikker en på arkfanen Diverse, vises en oversikt over alle rapporter som kan tas ut herfra. Nedenfor omtaler vi bare et fåtall av rapportene.
 
-Vi lar rapportene tale for seg selv, håper du finner det du trenger!
+![bilde](https://user-images.githubusercontent.com/80097133/201037190-f292003e-653e-43ba-a25c-8ff38d5476c1.png)
+
+### Navnelister
+Skolene som bruker iSkole faktureres som kjent ut fra elevtallet ved skolen henholdsvis 1. oktober og 1. mars. Vi henter elevtallene på nevnte datoer fra rapporten _Alle elevene ved skolen_. 
+
+![bilde](https://user-images.githubusercontent.com/80097133/201039302-2b9e89ee-89ca-47d9-aabc-03f996f4996e.png)
+
+### Egendefinert m/søk
+
+![bilde](https://user-images.githubusercontent.com/80097133/201040803-ac81fb7d-037e-4df8-8052-f501c86a228a.png)
+
+Her fås en samlet oversikt av en mengde data registrert på årets elever. For å begrense datasettet kan en benytte filtre på de fleste feltene. Eksempelet viser bare elever med fornavn som begynner på Pe. For ytterligere å begrense utvalget velges bare de kolonner som er av interesse. 
