@@ -18,6 +18,12 @@ Skolene som bruker iSkole faktureres som kjent ut fra elevtallet ved skolen henh
 
 Her fås en samlet oversikt av en mengde data registrert på årets elever. For å begrense datasettet kan en benytte filtre på de fleste feltene. Eksempelet viser bare elever med fornavn som begynner på Pe. For ytterligere å begrense utvalget velges bare de kolonner som er av interesse. 
 
+### Kontroll av koder
+
+![bilde](https://user-images.githubusercontent.com/80097133/201046379-ea5053f7-ab3b-488b-8873-2071eef95c43.png)
+
+Fagkoderegistreret oppdateres regelmesig, og enkelte fagkoder går ut på dato. Her kan få en sjekk om eventuelle avvik.
+
 ### Skolebevis
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201044839-c5128529-1518-4766-b524-39912a203ea3.png)
