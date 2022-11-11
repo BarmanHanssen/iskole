@@ -23,10 +23,8 @@ Velges _Karakterer_, får vi frem en rekke nye valg:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201053477-01d46b2b-aa25-4e81-acab-877d2b472bc5.png)
 
-Her finner vi rapporten _Endrede karakterer_. Dersom innført karakter på et fag for en elev endres, blir dette loggført. Her får en oversikt over alle endrede karakterer, og hvem som har gjort endringen!
-
 #### Endrede karakterer
-Dersom innført karakter i et fag blir endret, blir det loggført hvem som gjør endringen. Greit å vite dersom det oppstår tvil om hvem som har gjort hva!
+Dersom innført karakter på et fag for en elev endres, blir dette loggført. Her får en oversikt over alle endrede karakterer, og hvem som har gjort endringen!
 
 ## Diverse
 Velges _Diverse_, får vi frem en rekke nye valg:
@@ -38,13 +36,13 @@ Velges _Diverse_, får vi frem en rekke nye valg:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201046379-ea5053f7-ab3b-488b-8873-2071eef95c43.png)
 
-Fagkoderegistreret oppdateres regelmesig, og enkelte fagkoder går ut på dato. Her kan få en sjekk om eventuelle avvik.
+Fagkoderegistreret oppdateres regelmesig, og enkelte fagkoder går ut på dato. Her kan en enkelt kontrollere at alt er ok!
 
 ### Skolebevis
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201044839-c5128529-1518-4766-b524-39912a203ea3.png)
 
-Standard oppsett for skolebevis er kredittkortstørrelse med skolens logo til venstre og tekst til høyre. Ønsker dere egen utforming må dere ta kontakt med Barman Hanssen.
+Standard oppsett for skolebevis er kredittkortstørrelse med skolens logo til venstre og tekst til høyre. Ønskes en annen utforming kan dere ta kontakt med support@barman-hanssen.no
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201045471-304e3fdb-5355-4c3b-86b7-30643883e5c4.png)
 
