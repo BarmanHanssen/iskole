@@ -20,8 +20,8 @@ Fag med kode 99999 rapporteres med _Fagkode_ "-". Slike fag kan være komponent 
 
 ![bilde](https://user-images.githubusercontent.com/80097133/202400390-a8dfc784-3b9f-4e69-b440-5c3c32392f5a.png)
 
-#### Omfang og Timer
-Omfanget viser antall klokketimer som er oppført i fagplanen. Timer viser antall timer som er timeplanlagt i det rapporten tas ut. Timer er omregnet til klokketimer for undervisningstimer som ikke er på 60 minutter. Ved skoleårets slutt skal da antall Timer være likt med (eller større enn) Omfang.
+#### Omfang, Timer og %
+Omfanget viser antall klokketimer som er oppført i fagplanen. Timer viser antall timer som er timeplanlagt i det rapporten tas ut. Timer er omregnet til klokketimer for undervisningstimer som ikke er på 60 minutter. Ved skoleårets slutt skal da antall Timer være likt med (eller større enn) Omfang. % er fagets stillingsprosent. Den er registrert fra _Grunnlagsdata>Fag_.
 
 ### Andre ressurser
 Her legges inn eventuelle justering/korrigering til undervisningsressursen nevnt ovenfor. Eksempel: Ved endring av fagansvarlig i løpet av planperioden må ressursen i faget fordeles. I tillegg kan en registrere ressurs for andre oppdrag, eksempelvis for rektor/inspektør. 
