@@ -18,4 +18,7 @@ Det er heller ikke mulig å plassere et blokknummer i klassen som vil kunne koll
 
 ![bilde](https://user-images.githubusercontent.com/80097133/202426678-aac95f5d-3098-4f6c-8adc-f3ddb256c619.png)
 
+## Matrise gruppefag
+Når eleven har valgt gruppefag fås her en kompakt overesikt som viser hvor mange som har valgt det enkelte gruppefag. Det vises i diagonalen, eksempelvis har 14 elever valgt ST2:P. Videre ser vi at 5 av de 14 elevene også har valgt ST2:BI1, og at hele 10 av de 14 også har valgt ST2:SSA.
 
+![bilde](https://user-images.githubusercontent.com/80097133/202440795-43c0ee4a-7b8c-4c16-ade8-119c09954941.png)
