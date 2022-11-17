@@ -17,3 +17,5 @@ Når en klasse skal timeplanlegges vil det ikke vær mulig å plassere et klasse
 Det er heller ikke mulig å plassere et blokknummer i klassen som vil kunne kollidere med et allerede timeplanlagt klassefag. 
 
 ![bilde](https://user-images.githubusercontent.com/80097133/202426678-aac95f5d-3098-4f6c-8adc-f3ddb256c619.png)
+
+
