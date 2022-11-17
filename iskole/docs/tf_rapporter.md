@@ -30,4 +30,4 @@ Her legges inn eventuelle justering/korrigering til undervisningsressursen nevnt
 Her en summeres undervisningsressurs og andre ressurser, gruppert på person. Viser grunnlaget for avlønning av den ansatte. Den enkelte lærer får frem sin stillingsoversikt fra _Mine sider>Timeplan>Min Timeplan>Stillingsoversikt_.
 
 ### Fagoversikt
-Alle klasse- og gruppefag med fagkode forskjellig fra 99999 listes her ut på et regneark. Utlistingen er gruppert på lærer. Merk at siden rapporten er på et regneark, er det mulig på eget iniativ å sortere andreledes, eksempevis på fagkoden.
+Alle klasse- og gruppefag med fagkode forskjellig fra 99999 listes her ut på et regneark. Utlistingen er gruppert på lærer. Merk at dersom rapporten tas ut på regneark er det eksempevis mulig å sortere på fagkoden.
