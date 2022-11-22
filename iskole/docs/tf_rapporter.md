@@ -30,8 +30,7 @@ Rapporten blir tilsvarende den for klassefag
 ### Tolærerfag
 ![bilde](https://user-images.githubusercontent.com/80097133/203282497-9f5c58e7-52b0-474b-bf2a-71184c9265f4.png)
 
-Timer og Årstimer blir lagt inn når tolæreren registreres, se menyvalget _Tolærerfag_. Stillingsprosenten (%) beregnes på vanlig måte ut fra brøken årstimer/årsramme, hvor årsramme hentes fra _Grnnlagsdata>Fag_.
-
+Timer (her: timer per uke) og Årstimer (sum undervisningstimer) blir lagt inn når tolæreren registreres, se menyvalget _Tolærerfag_. Stillingsprosenten (%) beregnes på vanlig måte ut fra brøken årstimer/årsramme, hvor årsramme hentes fra _Grunnlagsdata>Fag_. TP.lagt viser hvor mange timer som alt ligger inne på timeplanen, og skal ved skoleslutt være likt med årstimer dersom alle tolærertimene timeplanlegges.
 
 ## Andre ressurser
 Her legges inn eventuelle justering/korrigering til undervisningsressursen nevnt ovenfor. Eksempel: Ved endring av fagansvarlig i løpet av planperioden må ressursen i faget fordeles. I tillegg kan en registrere ressurs for andre oppdrag, eksempelvis for rektor/inspektør. 
