@@ -3,9 +3,6 @@ id: ea_rapporter
 title: Rapporter
 sidebar_label: Rapporter
 ---
-Klikker en på arkfanen Diverse, vises en oversikt over alle rapporter som kan tas ut herfra. Nedenfor omtaler vi bare et fåtall av rapportene.
-
-![bilde](https://user-images.githubusercontent.com/80097133/201037190-f292003e-653e-43ba-a25c-8ff38d5476c1.png)
 
 ### Navnelister
 Skolene som bruker iSkole faktureres som kjent ut fra elevtallet ved skolen henholdsvis 1. oktober og 1. mars. Vi henter elevtallene på nevnte datoer fra rapporten _Alle elevene ved skolen_. 
@@ -16,7 +13,7 @@ Skolene som bruker iSkole faktureres som kjent ut fra elevtallet ved skolen henh
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201040803-ac81fb7d-037e-4df8-8052-f501c86a228a.png)
 
-Her fås en samlet oversikt av en mengde data registrert på årets elever. For å begrense datasettet kan en benytte filtre på de fleste feltene. Eksempelet viser bare elever med fornavn som begynner på Pe. For ytterligere å begrense utvalget velges bare de kolonner som er av interesse. 
+Her fås en samlet oversikt av en mengde data registrert på årets elever. For å begrense datasettet kan en benytte filtre på de fleste feltene. Eksempelet viser bare elever med fornavn som begynner på Pe. For ytterligere å begrense utvalget velges bare de kolonner som er av interesse. Sluttresultatet kan kopieres over til et regneark for videre behandling. 
 
 ## Karakterer
 Velges _Karakterer_, får vi frem en rekke nye valg:
