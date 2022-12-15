@@ -23,6 +23,19 @@ Velges _Karakterer_, får vi frem en rekke nye valg:
 #### Endrede karakterer
 Dersom innført karakter på et fag for en elev endres, blir dette loggført. Her får en oversikt over alle endrede karakterer, og hvem som har gjort endringen!
 
+## Fravær
+Her er det samlet flere rapporter, vi kommenterer bare noen få. Felles for rapportene:
+De tar bare med elever som ikke har sluttet på _Til dato_ ( eller rapporteringsdatoen dersom Til-dato ikke inngår). Summering av timer er i tidsrommet mellom oppgitt _Fra-_ og _Til dato_ (eventuell dags dato dersom ikke oppgitt _Tildato_). Oppgitte timer er klokketimer, slik at en underevisningtimer på eksempelvis 45 minutter blir 0,75 time. Det harmonerer med hva som skal tas med på karakterutskrifter og på vitnemål for den enkelte elev.
+
+### Statistikk
+Gir skoleledelsen en statusrapport som vil kunne avdekke om ekstra tiltak synes nødvendig. Dersom skolen bare har en klasse per trinn (altså ikke både A og B-klasse),
+vil de to valgmulighetene gi nøyaktig samme resultat:
+
+![image](https://user-images.githubusercontent.com/80097133/207852321-fa8f6f43-b5a0-4852-974c-bd6d3eb586e5.png)
+
+
+![image](https://user-images.githubusercontent.com/80097133/207847160-004e0f4a-f89f-460c-921c-73eed90ed644.png)
+
 ## Diverse
 Velges _Diverse_, får vi frem en rekke nye valg:
 
