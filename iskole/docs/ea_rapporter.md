@@ -7,13 +7,19 @@ sidebar_label: Rapporter
 ### Navnelister
 Skolene som bruker iSkole faktureres som kjent ut fra elevtallet ved skolen henholdsvis 1. oktober og 1. mars. Vi henter elevtallene på nevnte datoer fra rapporten _Alle elevene ved skolen_. 
 
-![bilde](https://user-images.githubusercontent.com/80097133/201039302-2b9e89ee-89ca-47d9-aabc-03f996f4996e.png)
+![image](https://user-images.githubusercontent.com/80097133/208670678-46ca993e-6e24-412d-a582-398a8de7ae54.png)
+
 
 #### Egendefinert m/søk
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201040803-ac81fb7d-037e-4df8-8052-f501c86a228a.png)
 
 Her fås en samlet oversikt av en mengde data registrert på årets elever. For å begrense datasettet kan en benytte filtre på de fleste feltene. Eksempelet viser bare elever med fornavn som begynner på Pe. For ytterligere å begrense utvalget velges bare de kolonner som er av interesse. Sluttresultatet kan kopieres over til et regneark for videre behandling. 
+
+#### Søsken
+Her forventer en jo minst to navn dersom rapporten ikke er tom.
+Likevel kan bare ett navn fremkomme på listen. Gjør da følgende for å finne søsken(e) til denne eleven: Gå til _Elevadmin.>Elev_ og søk opp eleven. Her finner du navnet til søsken(e) under overskriften _Søsken_. Du ser da at søsken(e) ikke er elev på skolen i dette skoleåret, det er forklaringen!
+
 
 ## Karakterer
 Velges _Karakterer_, får vi frem en rekke nye valg:
