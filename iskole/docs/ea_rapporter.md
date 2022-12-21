@@ -30,17 +30,16 @@ Velges _Karakterer_, får vi frem en rekke nye valg:
 Dersom innført karakter på et fag for en elev endres, blir dette loggført. Her får en oversikt over alle endrede karakterer, og hvem som har gjort endringen!
 
 ## Fravær
-Her er det samlet flere rapporter, vi kommenterer bare noen få. Felles for rapportene:
-De tar bare med elever som ikke har sluttet på _Til dato_ ( eller rapporteringsdatoen dersom Til-dato ikke inngår). Sumering av timer er i tidsrommet mellom oppgitt _Fra-_ og _Til dato_ (eventuell dags dato dersom ikke oppgitt _Til dato_). Oppgitte timer er klokketimer, slik at en undervisningstime på eksempelvis 45 minutter blir 0,75 time. Det harmonerer med hva som skal tas med på karakterutskrifter og på vitnemål for den enkelte elev.
+Her er det samlet flere rapporter. Felles for rapportene:
+De tar bare med elever som ikke har sluttet på _Til dato_ ( eller rapporteringsdatoen dersom Til-dato ikke inngår). Sumering av timer er i tidsrommet mellom oppgitt _Fra-_ og _Til dato_. Standardverdier er henholdsvis første skoledag og dags dato. Oppgitte timer er klokketimer, slik at en undervisningstime på eksempelvis 45 minutter blir 0,75 time. (Det er klokketimer som skal stå på karakterutskrifter og på vitnemål.)
 
 ![image](https://user-images.githubusercontent.com/80097133/207847160-004e0f4a-f89f-460c-921c-73eed90ed644.png)
 
-### Statistikk
-Gir skoleledelsen en statusrapport som vil kunne avdekke om ekstra tiltak synes nødvendig. Dersom skolen bare har en klasse per trinn (altså ikke både A og B-klasse),
-vil de to valgmulighetene gi nøyaktig samme resultat:
+### Totalt timefravær
+Gir skoleledelsen en statusrapport som vil kunne avdekke om ekstra oppfølging er nødvendig. Dersom skolen bare har en klasse per trinn (altså ikke både A og B-klasse),
+vil valgene _Totalt timefravær for klasser_ og_Totalt timefravær for trinn_ gi nøyaktig samme resultat.
 
-![image](https://user-images.githubusercontent.com/80097133/207852321-fa8f6f43-b5a0-4852-974c-bd6d3eb586e5.png)
-
+![image](https://user-images.githubusercontent.com/80097133/208851195-ce81876d-6986-4acb-8a6f-e9f104ee750c.png)
 
 
 ## Diverse
