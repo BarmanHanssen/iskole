@@ -14,17 +14,4 @@ _Mine sider_ for ansatte har samme stil som iSkole for elever og foreldre. En st
 ### Menyen
 Menyen vises til venstre i skjermbildet. Dersom den ikke er synlig åpnes den ved å benytte _Burgerikonet_ øverst til venstre. Hvis skjermbildet er smalt, vil menyen automatisk skjule seg når man har gjort et valg. Man kan velge å holde den fremme uansett ved å trykke på hengelåsen øverst i menyen. For å begrense lengden på menyen, har vi valgt å innføre tre valg som har undervalg, henholdsvis menyvalgene _Timeplan_, _Dokumenter_ og _Brev_.
 
-### Meldinger
-En av de større endringene i den nye versjonen er meldinger, og spesielt sending. Adresselistene er nå enklere både å forstå og bruke. Man kan fritt søke etter elever, foreldre og ansatte eller velge blandt de mange gruppene.
-
-### Brev
-Vi har samlet de tre brevtypene for varsel, formelle brev og brev i forbindelsemed språkopplæring under menyvalget Brev. Tanken er at det skal bli mere synlig for brukerne.
-
-### Varselbrev
-Der lærerne gikk via _Startsiden_ eller _Rapporter_ for å velge varselbrev, kan de nå gå direkte fra menyvalget _Brev > Varselbrev_. Man har her sammefunksjonalitet som før, men alt er samlet på ett sted. Antall elever i «faresonen» vises fortsatt på startsiden og lenker direkte til det nye menyvalget.
-
-### IOP
-Vi har kun videreført den nye versjonen av IOP (fra 2018). Den gamle var sentrert rundt opplasting av dokumenter, mens den nye er fokusert på hele prosessen og genererer dokumenter utfra hva som er lagt inn av data underveis. De som ønsker å benytte en dokumentbasert tilnærming kan gjøre det ved å samle alle dokumentene som vedrører IOP’en her.
-
-### Arikv / dokumenter
-Det som før hadde navnet _Arkiv_ har nå blitt samlet under _Dokumenter_. _Arkiv_ heter nå _Mine dokumenter_. Brukergrensesnittet er frisket opp slik at funksjon og utseende er tilsvarende som i filutforskeren i Windows. Man kan flytte mapper og filer ved å dra dem til en ny plassering med musen, samt laste opp nye dokumenter fra maskinen ved å dra og slippe de i ønsket mappe. Man har som før muligheten til å publisere dokumenter i et fellesarkiv, og å dele dokumenter med alle i forskjellige faggrupper.
+Dokumentasjonen får en altså frem via menyvalgene. Noen av valgene frembringer undermenyer for ytterligere å spesifisere hva som blir dokumentert. Vi jobber kontinuerlig med videreutvikling av iSkole. Å dokumenetere funksjonaliteten til det enkelte menyvalget er en viktig del av denne prosessen. Kvaliteten på dokumentasjonen er det dere som brukere som må bedømme. Vi tar derfor med takk i mot innspill. Det kan gjelde for lite/mangelfull tekst, eller formuleringer som ikke er forståelige. Ikke nøl, send epost til support@barman-hanssen.no! Vi lover å besvare alle innspill.
