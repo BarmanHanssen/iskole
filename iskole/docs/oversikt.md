@@ -5,7 +5,11 @@ sidebar_label: Oversikt
 ---
 
 ## Dokumentasjon for iSkole
-Menyen til venstre er inngangsporten til dokumentasjon av iSkole. For ansatte er dokumentasjonen lik som menystrukturen til iSkole. Her er hvert enkelt menyvalg dokumentert. På høyre side vil du finne undervalg for den valgte siden.
+Menyen til venstre er inngangsporten til dokumentasjon av iSkole. Mesteparten av dokumentasjonen er tilgjengelig for alle som er innlogget i iSkole. Men noen deler er forbeholdt enkelte brukergrupper.
+
+
+
+For ansatte er dokumentasjonen lik som menystrukturen til iSkole. Her er hvert enkelt menyvalg dokumentert. På høyre side vil du finne undervalg for den valgte siden.
 I tillegg har vi et undervalg «Emner». Her vil du finne dokumentasjon på ulike oppgaver, slik som timeplanlegging, plagiatkontroll osv.
 
 ## Ny iSkole for ansatte
