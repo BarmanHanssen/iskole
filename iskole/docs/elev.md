@@ -4,19 +4,15 @@ title: iSkole for elever
 sidebar_label: iSkole elev
 ---
 
-iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer. iSkole er tilgjengelig for elever, og foreldre for elever under 18 år. Sidene er responsive og tilpasser seg størrelsen på skjermen. iSkole kan også installeres på  smarttelefoner som en «Progressive Web App» og dermed få sitt eget ikon som man kan starte iSkole fra.
+iSkole er tilgjengelig for elever, og foreldre for elever under 18 år. iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer.  Sidene er responsive og tilpasser seg størrelsen på skjermen. iSkole kan også installeres på  smarttelefoner som en «Progressive Web App» og dermed få sitt eget ikon som man kan starte iSkole fra.
 
 ## Adgangskontroll
 
-### Innlogging fra iSkole
-For å logge inn i iSkole må man ha brukernavn og passord. Avhengig av rutinene for de forskjellige skolene varierer tildeling av brukernavn og passord. Man kan i hovedsak benytte inntil tre alternativer for brukernavn:
+### Innlogging i iSkole
+For å logge inn i iSkole må man være registrert som elev ved skolen i inneværende skoleår. Som brukernavn kan man alltid benytte sitt fødselsnummer (11 siffer) eller
+sin e-postadresse. Det forutsettes selvfølgelig at disse alt er innført i iSkole.
 
-- Fødselsnr, 11 siffer
-- E-post
-
-Passord blir første gang generert og delt ut av f.eks. kontaktlærerne. For å logge på skriver man inn brukernavn og passord og trykker på knappen _Logg inn_.
-
-Har man glemt passordet sitt kan man få tilsendt et nytt passord på e-post. Trykk i såfall på lenken _Glemt passord?_. Man må oppgi e-postadresse og fødselsnr for å få tilsendt nytt passord.
+Førstegangsbruker av iSkole kan be om å få tilsendt passord på e-post. Trykk i såfall på lenken _Glemt passord?_. Man må oppgi e-postadresse og fødselsnr for å få tilsendt passord. 
 
 ### Endre passord
 Når du har logget inn kan du endre passord ved å klikke på navnet ditt øverst til høyre i bildet. Velg _Endre passord_ fra menyen.
