@@ -4,7 +4,10 @@ title: iSkole for elever
 sidebar_label: iSkole elev
 ---
 
-iSkole er tilgjengelig for elever, og foreldre for elever under 18 år. iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer.  Sidene er responsive og tilpasser seg størrelsen på skjermen. iSkole kan også installeres på  smarttelefoner som en «Progressive Web App» og dermed få sitt eget ikon som man kan starte iSkole fra.
+iSkole er tilgjengelig for elever, og foreldre for elever under 18 år. iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer.  Sidene tilpasser seg størrelsen på skjermen, og hva du ser vil derfor avhenge om du bruker PC, nettbrett eller mobiltelefon. iSkole kan altså installeres på  smarttelefoner som en «Progressive Web App» og dermed få sitt eget ikon som man kan starte iSkole fra.
+
+For iOS: Åpne Safari → Åpne en nettside → Del → Legg til på Hjem-skjerm → Velg navn → Legg til.
+Android: Brukeren blir automatisk spurt om de ønsker å legge til iSkole som en applikasjon.
 
 ## Adgangskontroll
 
