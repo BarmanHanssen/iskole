@@ -12,6 +12,7 @@ For Android: Brukeren blir automatisk spurt om de ønsker å legge til iSkole so
 
 
 ## Pålogging for foreldre
+Foreldre gis kun tilgang iSkole når de har barn som ikke har fylt 18 år, og som er elev ved skolen, i inneværende skoleår.
 
 ### Innledning 
 Foreldre kan logge på iSkole straks skolen har registrert dem. Skolen må generere et informasjonsbrev som opplyser om iSkoles adresse og en kode som må benyttes for å opprette en foreldrekonto. Brevet sende som epost til foreldrene.
