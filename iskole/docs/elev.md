@@ -7,7 +7,8 @@ sidebar_label: iSkole elev
 iSkole er tilgjengelig for elever, og foreldre for elever under 18 år. iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer.  Sidene tilpasser seg størrelsen på skjermen, og hva du ser vil derfor avhenge om du bruker PC, nettbrett eller mobiltelefon. iSkole kan altså installeres på  smarttelefoner som en «Progressive Web App» og dermed få sitt eget ikon som man kan starte iSkole fra.
 
 For iOS: Åpne Safari → Åpne en nettside → Del → Legg til på Hjem-skjerm → Velg navn → Legg til.
-Android: Brukeren blir automatisk spurt om de ønsker å legge til iSkole som en applikasjon.
+
+For Android: Brukeren blir automatisk spurt om de ønsker å legge til iSkole som en applikasjon.
 
 ## Adgangskontroll
 
@@ -24,7 +25,7 @@ Når du har logget inn kan du endre passord ved å klikke på navnet ditt øvers
 Hvis skolen har avtale med FEIDE, og man har fått tildelt FEIDE-brukernavn kan man logge inn ved å trykke på knappen _FEIDE_.
 
 ## Utforming av skjermbildet i iSkole
-Hovedmenyen i iSkole vises ved å trykke på «burgerikonet» oppe til venstre på siden. Ved å trykke på menyikonet vises menyen til venstre i skjermbildet. Øverst til høyre i vinduet står navnet på eleven. Navnet er også en nedtrekksliste hvor man har menyvalg som _Endre passord_, _Logg ut_ og eventuelt _Bytt skole_. Mellom menyikonet og navnet til eleven vises skolens logo, eventuelt skolens navn, og en overskrift for det valgte skjermbildet.
+Hovedmenyen i iSkole vises ved å trykke på «burgerikonet» oppe til venstre på siden. Ved å trykke på menyikonet vises menyen til venstre i skjermbildet. Øverst til høyre i vinduet står navnet på eleven. Navnet er også en nedtrekksliste hvor man har menyvalg som _Endre passord_, _Logg ut_ og eventuelt _Bytt skole_. Mellom menyikonet og navnet til eleven vises skolens logo, skolens navn, og en overskrift for det valgte skjermbildet.
 
 ### Menyen i iSkole
 Trykker man på menyikonet kommer menyen til syne i venstre kant. Noen menyvalg er gruppert. For eksempel samles alt som har med vurderinger i en undermeny _Vureringer_, og tilsvarende alt som har med dokumenter i _Dokumenter_. Hvis eleven har noen uleste meldinger, vises det med et hvitt tall på rød bakgrunn til høyre for menyvalget — i eksempelet nedenfor har eleven
