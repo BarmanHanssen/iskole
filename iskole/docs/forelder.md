@@ -6,12 +6,17 @@ sidebar_label: iSkole forelder
 
 iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer. iSkole er tilgjengelig for elever, og foreldre for elever under 18 år. Sidene er responsive og tilpasser seg størrelsen på skjermen. iSkole kan også installeres på  smarttelefoner som en «Progressive Web App» og dermed få sitt eget ikon som man kan starte iSkole fra.
 
+For iOS: Åpne Safari → Åpne en nettside → Del → Legg til på Hjem-skjerm → Velg navn → Legg til.
+
+For Android: Brukeren blir automatisk spurt om de ønsker å legge til iSkole som en applikasjon.
+
+
 ## Pålogging for foreldre
 
 ### Innledning 
-Foreldre kan logge på iSkole straks skolen har registrert dem. Skolen må generere et informasjonsbrev som opplyser om iSkoles adresse og en kode som må benyttes for å opprette en foreldrekonto. 
+Foreldre kan logge på iSkole straks skolen har registrert dem. Skolen må generere et informasjonsbrev som opplyser om iSkoles adresse og en kode som må benyttes for å opprette en foreldrekonto. Brevet sende som epost til foreldrene.
 
-For de som ønsker å benytte iSkole fra telefonen, så kan man med fordel velge å installere og iSkole som en «progressive web app». Det er en beskrivelse for hvordan man gjør dette fra info-siden i iSkole. 
+For de som ønsker å benytte iSkole fra telefonen, så kan man med fordel velge å installere og iSkole som en «progressive web app». Det er beskrevet i brevet, også beskrevet ovenfor hvordan dette gjøres fra henholdsvis iPhone og Android-telefoner.
 
 ### Informasjonsbrev fra skolen
 Informasjonsbrevet fra skolen inneholder informasjon om iSkole og en kode som benyttes til å registrere seg.
