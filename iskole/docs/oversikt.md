@@ -5,7 +5,7 @@ sidebar_label: Oversikt
 ---
 
 ## Dokumentasjon for iSkole
-Menyen til venstre er inngangsporten til dokumentasjon av iSkole. Mesteparten av dokumentasjonen er tilgjengelig for alle som er innlogget i iSkole. Men noen deler er forbeholdt enkelte brukergrupper.
+Menyen til venstre er inngangsporten til dokumentasjon av iSkole. Mesteparten av dokumentasjonen er tilgjengelig for alle som er innlogget i iSkole, men noen deler er forbeholdt enkelte brukergrupper.
 
 Etter innlogging kommer alle inn på iSkoles _Startside_. Hvilke menyvalg som vises avhenger av om man er elev, forelder eller ansatt ved skolen. 
 
