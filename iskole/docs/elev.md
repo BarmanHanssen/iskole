@@ -13,10 +13,9 @@ For Android: Brukeren blir automatisk spurt om de ønsker å legge til iSkole so
 ## Adgangskontroll
 
 ### Innlogging i iSkole
-For å logge inn i iSkole må man være registrert som elev ved skolen i inneværende skoleår. Som brukernavn kan man alltid benytte sitt fødselsnummer (11 siffer) eller
-sin e-postadresse. Det forutsettes selvfølgelig at disse alt er innført i iSkole.
+For å logge inn i iSkole må man være registrert som elev ved skolen i inneværende skoleår. Som brukernavn kan man alltid benytte sitt fødselsnummer (11 siffer) eller sin e-postadresse. Det forutsettes selvfølgelig at disse alt er innført i iSkole.
 
-Førstegangsbruker av iSkole kan be om å få tilsendt passord på e-post. Trykk i såfall på lenken _Glemt passord?_. Man må oppgi e-postadresse og fødselsnr for å få tilsendt passord. 
+Førstegangsbruker av iSkole kan be om å få tilsendt passord på e-post. Trykk i såfall på lenken _Glemt passord?_. Man må oppgi e-postadresse og fødselsnummer for å få tilsendt passord. 
 
 ### Endre passord
 Når du har logget inn kan du endre passord ved å klikke på navnet ditt øverst til høyre i bildet. Velg _Endre passord_ fra menyen.
