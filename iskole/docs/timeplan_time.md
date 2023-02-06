@@ -54,9 +54,6 @@ Timene og timelengden som lagres her er altså en mal som benyttes når en legge
 
 Det er også mulig å endre start- og slutt-tid for en enkel time fra _Timeplan>Klasser_. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra endret start- og slutt-tiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
 
-:::note Merk
-Kommer en elev eksempelvis midt i en time, kan faglærer nå angi fraværets lengde i minutter. Tidligere var det enten hele timens fravær, eller ikke fravær, men bare anmerkning for forsentkomming.
-:::
 
 ### Eksempel
 Det er fullt mulig å legge inn alle aktuelle start- og slutt-tider på timene. Se punkt 3: ovenfor. Alle variantene vil vises når timeplanlegger velger en klasse. 
