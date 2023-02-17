@@ -188,10 +188,9 @@ andre klassen for _gjesteklassen_.
 Et typisk eksempel er faget kroppsøving, hvor man slår sammen to
 klasser. Et annet eksempel kan være et valgfag i korsang som samler elever
 fra flere klasser. For skoler med få elever, vil en løsning kunne være at elevene
-blir registrert i henholdsvis 1. og 2. klasse, men at all undervisning er lagt til
-1. klassen. Da ligger alle fagene i 1. klassen, og 2. klassen er satt opp uten fag.
-2. klassen registreres da som gjesteklasse i 1. klassens fag. Merk at elevene
-i 1. og 2. klasse vil kunne ha forskjellige fagkoder selv om de undervises
+blir registrert i henholdsvis 1. og 2. klasse, men at all undervisning er lagt til 1. klassen. Da ligger 
+alle fagene i 1. klassen, og 2. klassen er satt opp uten fag. 2. klassen registreres da som gjesteklasse i 1. klassens fag. 
+Merk at elevene i 1. og 2. klasse vil kunne ha forskjellige fagkoder selv om de undervises
 i et fag. Men på timeplanen får alle eleven frem faget med kortnavnet til
 moderklassen.
 
