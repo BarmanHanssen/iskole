@@ -254,7 +254,7 @@ antall timer som er timeplanlagt, og denne regner om til klokketimer om
 undervisningstimene ikke har 60 minutters lengde. Rapporten tar også
 hensyn til skoleruten slik at timer som faller ut på grunn av fridager ikke tas
 med. Rapporten kan brukes til å dokumenter at skolen har oppfylt lovpålagt
-tilbud om underisning i de enkelte fag.
+tilbud om undervisning i de enkelte fag.
 
 ## Planlegging av neste års timeplan
 Når iSkole er tatt i bruk, vil forberedende arbeid for neste års timeplan
