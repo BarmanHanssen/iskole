@@ -270,8 +270,10 @@ klasse.
 Ofte vil oppsettet av grupper i gruppefag variere såpass mye at man
 ikke velger å ta med årets gruppeoppsett – også dette er standardverdien
 iSkole forslår. Hvis opplegget for den nye planperioden vil bli nokså likt med
-tanke på gruppeundervisning, kan man markere at man også kopierer med
-gruppene og spare endel arbeid med det.
+tanke på gruppeundervisning, kan man markere at man også kopierer 
+gruppe-oppsettet og spare endel arbeid med det.
+
+![image](https://user-images.githubusercontent.com/80097133/219652694-f02a9cbe-ad30-42f4-aca6-7d95c226d10c.png)
 
 
 ## Selve timeplanleggingen
