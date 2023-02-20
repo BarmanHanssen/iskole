@@ -295,11 +295,11 @@ gunstig å starte med trenger noen kommentarer.
 
 ![image](https://user-images.githubusercontent.com/80097133/220071644-0d096db3-8de1-452b-9b48-d9974e7c328e.png)
 
-Utgangspunktet vårt er at timeplanen skal legges for et nytt skoleår.
-Etter skolestart kan det være behov for justeringer grunnet skifte av lærer,
+Utgangspunktet vårt er at timeplanen skal legges for et nytt skoleår, vel vitende om at det
+etter skolestart kan det være behov for justeringer grunnet skifte av lærer,
 flytting av timer på timeplanen osv.
 
-Vi ser først på timeplanlegging før skolestart. Planperioden løper fra 1. august
+Vi starter timeplanlegging med blanke ark. Planperioden løper fra 1. august
 til 31. juli, og skoleruten fastslår hvilke dager det skal gis
 undervisning. I eksempelet er skolestart rundt 20. august. Skoleruten blir
 satt opp når man oppretter en ny planperiode, og kan siden redigeres fra
@@ -308,12 +308,12 @@ _Grunnlagsdata > Skolerute_.
 Det anbefales å velge den første mulige uken når man skal starte
 timeplanleggingen, også om det ikke er definert skoledager hele uken i
 skoleruten. Et nærliggende spørsmål blir da "Hvorfor legge timeplanen på
-dager hvor det ikke skal være undervisning?". Svaret på det er at når
-timeplanen i denne uken er ferdig, så kan timeplanen kopieres til alle
-ukene i skoleåret. Når timeplanen vises til lærere og elever, så vil det ikke
+dager hvor det ikke skal være undervisning?". Svaret er at når
+timeplanen i denne uken er ferdig, så kan timeplanen kopieres fremover til kommende uker.
+Når timeplanen vises til lærere og elever, vil det ikke
 vises undervisning på fri- eller planleggingsdager. Det betyr også at denne
 uken kan tjene som en slags prøveuke for timeplanleggeren. Her kan det
-eksperimenteres!. Når timeplanen er gjennomarbeidet for denne uken, kan
+eksperimenteres! Når timeplanen er gjennomarbeidet for denne uken, kan
 man kopierer den ut til de andre ukene som skal ha samme timeplan. Har
 man en timeplan bestående av to forskjellige timeplaner som bytter hver uke,
 en såkalt alternerende timeplan, så timeplanlegger man to uker og kopierer
