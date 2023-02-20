@@ -371,7 +371,7 @@ Fagene fordeles ut på timeplanen ved at man først velger fag i listen over
 fag som skal timeplanlegges, og deretter trykker på ledig time på klassens
 timeplan. Ledige timer i klassen blir markert med grønn farge dersom også
 læreren er ledig i timen. Er læreren opptatt, men klassen er ledig, er timen
-blank (hvit). (Timen vil også være blank dersom en elev i klassen alt har undervisning i timen.)
+blank (hvit). Merk at timen vil også være blank dersom klassen har en gjesteklasse, og elevene i gjesteklassen har undervisning i timen som er blank.
 Er det valgt et rom i nedtrekkslisten _Rom_, så vil timen få tildelt
 dette rommet. Hvis man ikke har valgt rom, timeplanlegges timen uten rom.
 Man må da senere sette et rom til timen. Man kan også endre rom til en
@@ -385,7 +385,7 @@ time:
 
 1. Velg faget i listen over fag som skal timeplanlegges
 1. Velg hvilket rom som skal benyttes
-1. Marker timen i timeplanen
+1. Klikk på grønn time i klassens timeplanen 
 
 Hvis det ikke er noen kollisjoner, vil timeplanen lagres. I bildet nedenfor er
 valgene 1, 2 og 3 gjennomført, så det som gjennstår er kun å plassere timen.
