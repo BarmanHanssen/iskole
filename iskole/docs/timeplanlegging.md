@@ -363,7 +363,7 @@ I tillegg er det en nedtrekksliste for rom (rett ovenfor _Vis timeplan for disse
 automatisk stille seg inn på det rommet som er tildelt klassen _Grunnlagsdata > Klasse_,
 eller faget i _Grunnlagsdata > Rom_, eller på rommet som allerede er valgt. Nedtrekkslisten inneholder bare rom som er ledige for valgte time.
 
-I bildet har vi timeplanlagt 8 av de 9 timene i norsk, og de allerede 8 timene i faget vist på rød bakgrunn i klassens timeplanen. Fra _Timeplan lærer_ vises de samme timene, og eventuelt andre timer til læreren alt er timeplanlagt.
+I bildet har vi timeplanlagt 9 av de 10 timene i norsk, og de 9 timene  vises på rød bakgrunn i klassens timeplanen. Fra _Timeplan lærer_ vises de samme timene, og eventuelt andre timeplanlagte timer til læreren.
 
 ![Timeplanlegge klasse]
 (/img/timeplan_tplegge_klasse.jpg 'Timeplanlegge klasse.')
