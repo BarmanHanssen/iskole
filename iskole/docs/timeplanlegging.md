@@ -365,8 +365,6 @@ eller faget i _Grunnlagsdata > Rom_, eller på rommet som allerede er valgt. Ned
 
 I bildet har vi timeplanlagt 9 av de 10 timene i norsk, og de 9 timene  vises på rød bakgrunn i klassens timeplanen. Fra _Timeplan lærer_ vises de samme timene, og eventuelt andre timeplanlagte timer til læreren.
 
-![Timeplanlegge klasse]
-(/img/timeplan_tplegge_klasse.jpg 'Timeplanlegge klasse.')
 
 ### Timeplanlegge klasse
 Fagene fordeles ut på timeplanen ved at man først velger fag i listen over
