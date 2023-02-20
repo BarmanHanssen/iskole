@@ -325,22 +325,22 @@ dato, f.eks. frem til første skoledag. Det kan være greit for å skjerme
 timeplanleggeren i arbeidet helt frem til timeplanen er lagt ferdig.
 :::
 
-Skal det skjer justeringer av timeplanen i løpet av skoleåret, går man
-vanligvis rett inn på den uken avviket skal gjelde, og endrer direkte der
+Skal timeplanen justeringes i løpet av skoleåret, går man
+vanligvis rett inn på den uken det gjelder, og endrer direkte der
 før man eventuelt kopierer endringen fremover i tid. Merk at man ikke kan
-kopiere timeplanuker bakover i tid.
+kopiere timeplanen bakover i tid.
 
 Timeplanleggeren må også ta i betraktning at fraværsføring er nært
 knyttet til timeplanen, slik at endringer i løpet av skoleåret bør gjøres før
 faglærer starter fraværsføringen på en timeplan som en vet skal endres. Man
 kan føre inn fravær frem i tid hvis man er kjent med at det vil bli fravær
 frem i tid. Hvis man tar bort en time hvor det er ført fravær, så vil fraværet
-forsvinne for denne timen. Regelen er nemlig at det ikke skal finnes fravær
+forsvinne for denne timen. Regelen er at det ikke skal finnes fravær
 for noe som ikke er timeplanlagt.
 
 Skjermbildet nedenfor er er delt inn i flere deler som
 binder det hele sammen. Øverst i bildet vises hvilken klasse og uke vi skal
-timeplanlegge. Det er to arkfaner i skjermbildet for klassen: _Timeplan_ og
+timeplanlegge. Det er tre arkfaner i skjermbildet for klassen: _Timeplan_, _Timeplan tolærer_ og
 _Kopier_ hvor den første arkfanen er vist her. Til venstre i blidet vises fagene
 som klassen følger. Kolonnen _Timer_ forteller hvor mange timer fagene skal
 timeplanlegges denne uken, mens kolonnen _Tp-lagt_ viser hvor mange timer
@@ -353,22 +353,17 @@ man justere timetallet opp eller ned for denne uken.
 Å flytte en time i et klassefag er relativt enkelt, men å flytte en time i
 et gruppefag er er ikke alltid like lett.
 
-Timeplanen under overskriften _Timeplan lærer_ har til hensikt å gi
-timeplanleggeren en kortfattet oversikt over hva som allerede er timeplanlagt
-for de lærerne man har valgt. I utgangspunktet vises timeplanen til læreren
-som underviser i det valgte faget, altså faget som er markert under _Fag_.
-Det er i listene nede til venstre mulig å velge andre lærere som da vil
-vises sammen med lærertimeplan. Slik kan man ha oversikt over flere lærere
-samtidig, og ut fra dette gjøre gode valg for timeplanlegging av klassen og
-læreren.
+Timeplanen under overskriften _Timeplan lærer_ viser hva som allerede er timeplanlagt
+for valgte lærer, altså faget som er markert under _Fag_.
+I listen nede til venstre (_Vis timeplan for disse ansatte_) kan man velge andre lærere som da vil
+vises sammen med _Timeplan lærer_. Slik får man oversikt over flere lærere
+samtidig, og ut fra dette gjøre gode valg for timeplanlegging av klassen.
 
-I tillegg er det en nedtrekksliste for rom. Når man velger fag, så vil den
+I tillegg er det en nedtrekksliste for rom (rett ovenfor _Vis timeplan for disse ansatte_). Når man velger fag, vil den
 automatisk stille seg inn på det rommet som er tildelt klassen _Grunnlagsdata > Klasse_,
-eller faget i _Grunnlagsdata > Rom_. Nedtrekkslisten inneholder bare rom som er ledige for valgt time.
+eller faget i _Grunnlagsdata > Rom_, eller på rommet som allerede er valgt. Nedtrekkslisten inneholder bare rom som er ledige for valgte time.
 
-I bildet har vi timeplanlagt fem av de
-seks timene i norsk, og vi ser at siden vi har markert faget i listen, så er også
-de allerede timeplanlagte timene i faget vist på rød bakgrunn i klassens timeplanen.
+I bildet har vi timeplanlagt 8 av de 9 timene i norsk, og de allerede 8 timene i faget vist på rød bakgrunn i klassens timeplanen. Fra _Timeplan lærer_ vises de samme timene, og eventuelt andre timer til læreren alt er timeplanlagt.
 
 ![Timeplanlegge klasse]
 (/img/timeplan_tplegge_klasse.jpg 'Timeplanlegge klasse.')
