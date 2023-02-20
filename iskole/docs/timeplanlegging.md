@@ -280,10 +280,11 @@ Formålet med en timeplan kan kort formuleres som _å vise når og hvor fag har
 undervisning, og hvilke elever og lærere som deltar_. Timeplanen er komplett
 først når all organisert undervisning for hele planperioden er registrert.
 
-Timeplanen gir tilstrekkelig informasjon om all organisert aktivitet ved
+Timeplanen skal gi tilstrekkelig informasjon om all organisert aktivitet ved
 skolen. Ut fra timeplanen skal man kunne finne ut hvor en elev eller lærer
 befinner seg hvis vedkommende har undervisning i en bestemt time i en
 angitt uke.
+
 For raskt å få et innblikk i hvordan man timeplanlegger klassefag, ser
 vi nå på et enkelt eksempel på hvordan dette kan gjøres. For å få frem
 skjermbildet som er vist under, navigerer man til 
@@ -298,8 +299,8 @@ Utgangspunktet vårt er at timeplanen skal legges for et nytt skoleår.
 Etter skolestart kan det være behov for justeringer grunnet skifte av lærer,
 flytting av timer på timeplanen osv.
 
-Vi ser først på timeplanlegging før skolestart. Planperioden løper fra
-1. august til 31. juli, og skoleruten fastslår hvilke dager det skal gis
+Vi ser først på timeplanlegging før skolestart. Planperioden løper fra 1. august
+til 31. juli, og skoleruten fastslår hvilke dager det skal gis
 undervisning. I eksempelet er skolestart rundt 20. august. Skoleruten blir
 satt opp når man oppretter en ny planperiode, og kan siden redigeres fra
 _Grunnlagsdata > Skolerute_.
@@ -363,25 +364,25 @@ læreren.
 
 I tillegg er det en nedtrekksliste for rom. Når man velger fag, så vil den
 automatisk stille seg inn på det rommet som er tildelt klassen _Grunnlagsdata > Klasse_,
-eller faget i _Grunnlagsdata > Rom_. Nedtrekkslisten inneholder bare rom som er ledige for denvalgte timen.
+eller faget i _Grunnlagsdata > Rom_. Nedtrekkslisten inneholder bare rom som er ledige for valgt time.
 
 I bildet har vi timeplanlagt fem av de
 seks timene i norsk, og vi ser at siden vi har markert faget i listen, så er også
-de allerede timeplanlagte timene i faget vist med rød bakgrunn i timeplanen
-til klassen.
+de allerede timeplanlagte timene i faget vist på rød bakgrunn i klassens timeplanen.
 
 ![Timeplanlegge klasse]
 (/img/timeplan_tplegge_klasse.jpg 'Timeplanlegge klasse.')
 
 ### Timeplanlegge klasse
-Fagene fordeles ut på timeplanen ved at man først velger faget i listen over
+Fagene fordeles ut på timeplanen ved at man først velger fag i listen over
 fag som skal timeplanlegges, og deretter trykker på ledig time på klassens
 timeplan. Ledige timer i klassen blir markert med grønn farge dersom også
 læreren er ledig i timen. Er læreren opptatt, men klassen er ledig, er timen
-blank (hvit). Er det valgt et rom i nedtrekkslisten _Rom_, så vil timen få tildelt
+blank (hvit). (Timen vil også være blank dersom en elev i klassen alt har undervisning i timen.)
+Er det valgt et rom i nedtrekkslisten _Rom_, så vil timen få tildelt
 dette rommet. Hvis man ikke har valgt rom, timeplanlegges timen uten rom.
 Man må da senere sette et rom til timen. Man kan også endre rom til en
-time som allerede hadde rom.
+time som allerede er tildelt rom.
 
 For å fjerne en timeplanlagt time, høyre-klikkes timen på timeplanen, og
 man velger _Slett_.
@@ -395,9 +396,9 @@ time:
 
 Hvis det ikke er noen kollisjoner, vil timeplanen lagres. I bildet nedenfor er
 valgene 1, 2 og 3 gjennomført, så det som gjennstår er kun å plassere timen.
-I eksempelet ser vi at tirsdag femte time og fredag fjerde time er naturlige
-kandidater til timen. Ved å trykke på f.eks. fredag fjerde time, så vil timen
-timeplanlegges der.
+I eksempelet ser vi at tirsdag femte time og fredag fjerde time kan velges. 
+Ved å trykke på f.eks. fredag fjerde time, så vil timen
+plassers der.
 
 I dette avsnittet har vi sett hvordan oppstart av timeplanlegging i en
 klasse kan arte seg. Her var time- og fagfordelingen bestemt for klassen,
