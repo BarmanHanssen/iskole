@@ -287,37 +287,38 @@ angitt uke.
 
 For raskt å få et innblikk i hvordan man timeplanlegger klassefag, ser
 vi nå på et enkelt eksempel på hvordan dette kan gjøres. For å få frem
-skjermbildet som er vist under, navigerer man til 
+skjermbildet tilsvarende det som er vist under, navigerer man til 
 [_Timeplan > Klasser_](/docs/timeplan_timeplanlegge_klasse).
-Deretter velger man klasse og uke. At man må velge
-en klasse er nokså innlysende, men hvorfor velge uke, og hvilken uke det er
-gunstig å starte med trenger noen kommentarer.
+Deretter velger man klasse og uke. Vi har nå tre valg:
+![image](https://user-images.githubusercontent.com/80097133/220329273-07249370-738c-44b6-a404-d7d5a1727a37.png)
+
 
 ![image](https://user-images.githubusercontent.com/80097133/220071644-0d096db3-8de1-452b-9b48-d9974e7c328e.png)
 
+#### Timeplan
 Utgangspunktet vårt er at timeplanen skal legges for et nytt skoleår, vel vitende om at det
 etter skolestart kan det være behov for justeringer grunnet skifte av lærer,
 flytting av timer på timeplanen osv.
 
-Vi starter timeplanlegging med blanke ark. Planperioden løper fra 1. august
-til 31. juli, og skoleruten fastslår hvilke dager det skal gis
-undervisning. I eksempelet er skolestart rundt 20. august. Skoleruten blir
-satt opp når man oppretter en ny planperiode, og kan siden redigeres fra
+Planperioden løper fra 1. august til 31. juli, og skoleruten fastslår hvilke dager det skal gis
+undervisning. Skoleruten blir satt opp når man oppretter en ny planperiode, og kan siden redigeres fra
 _Grunnlagsdata > Skolerute_.
+
+Før timeplanen for en klasse kan legges, må klassen være satt opp med fagene som alle elevene i klassen skal 
+timeplanlegges. Det beste vil være om alle fag er på plass med lærer i hvert fag, og at elevene i klassen er registrert. 
+Men alt kan kan endres underveis, programvaren vil dynamisk sjekke at eventuelle endringer ikke medfører kollisjoner fremover i tid.
 
 Det anbefales å velge den første mulige uken når man skal starte
 timeplanleggingen, også om det ikke er definert skoledager hele uken i
 skoleruten. Et nærliggende spørsmål blir da "Hvorfor legge timeplanen på
 dager hvor det ikke skal være undervisning?". Svaret er at når
 timeplanen i denne uken er ferdig, så kan timeplanen kopieres fremover til kommende uker.
-Når timeplanen vises til lærere og elever, vil det ikke
-vises undervisning på fri- eller planleggingsdager. Det betyr også at denne
+Når timeplanen vises til lærere og elever, vil den være blank
+på fri- eller planleggingsdager. Det betyr også at denne
 uken kan tjene som en slags prøveuke for timeplanleggeren. Her kan det
-eksperimenteres! Når timeplanen er gjennomarbeidet for denne uken, kan
-man kopierer den ut til de andre ukene som skal ha samme timeplan. Har
-man en timeplan bestående av to forskjellige timeplaner som bytter hver uke,
-en såkalt alternerende timeplan, så timeplanlegger man to uker og kopierer
-disse ut til de ukene man ønsker.
+eksperimenteres! Har man to forskjellige uketimeplaner,
+en såkalt alternerende timeplan, så timeplanlegger man to uker som da blir mal når
+disse ukene skal fordeles over skoleåret.
 
 :::tip Merk
 Rektor/administrator kan stenge innsyn i timeplanen frem til en bestemt
@@ -326,22 +327,24 @@ timeplanleggeren i arbeidet helt frem til timeplanen er lagt ferdig.
 :::
 
 Skal timeplanen justeringes i løpet av skoleåret, går man
-vanligvis rett inn på den uken det gjelder, og endrer direkte der
+rett inn på den uken det gjelder, og endrer direkte der
 før man eventuelt kopierer endringen fremover i tid. Merk at man ikke kan
 kopiere timeplanen bakover i tid.
 
-Timeplanleggeren må også ta i betraktning at fraværsføring er nært
+Timeplanleggeren må også i mente at fraværsføring er nært
 knyttet til timeplanen, slik at endringer i løpet av skoleåret bør gjøres før
 faglærer starter fraværsføringen på en timeplan som en vet skal endres. Man
-kan føre inn fravær frem i tid hvis man er kjent med at det vil bli fravær
-frem i tid. Hvis man tar bort en time hvor det er ført fravær, så vil fraværet
-forsvinne for denne timen. Regelen er at det ikke skal finnes fravær
-for noe som ikke er timeplanlagt.
+kan føre inn fravær for en elev frem i tid dersom eleven alt har dokumentert at blir fravær
+frem i tid. Hvis timeplanlegger fjerner en time hvor det er ført fravær, så vil fraværet
+forsvinne for denne timen. Regelen er at fravær skal knyttes til fag på timeplanlagte tider.
 
-Skjermbildet nedenfor er er delt inn i flere deler som
-binder det hele sammen. Øverst i bildet vises hvilken klasse og uke vi skal
-timeplanlegge. Det er tre arkfaner i skjermbildet for klassen: _Timeplan_, _Timeplan tolærer_ og
-_Kopier_ hvor den første arkfanen er vist her. Til venstre i blidet vises fagene
+Skjermbildet er er delt inn i flere deler som binder det hele sammen. Øverst i bildet 
+vises hvilken klasse og uke vi skal timeplanlegge.
+
+Det er tre arkfaner i skjermbildet for klassen: _Timeplan_, _Timeplan tolærer_ og
+_Kopier_ hvor den første arkfanen er vist her. 
+
+Til venstre i blidet vises fagene
 som klassen følger. Kolonnen _Timer_ forteller hvor mange timer fagene skal
 timeplanlegges denne uken, mens kolonnen _Tp-lagt_ viser hvor mange timer
 som alt er timeplanlagt. Når et fag er ferdig timeplanlagt vil kolonnen
