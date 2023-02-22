@@ -9,19 +9,15 @@ Kompendiet er under revidering på grunn av endringer av navn på menyvalg og st
 
 ## Innledning
 ### Forord
-Dette er ment å være en lærebok for den som for første gang skal legge
-en skoletimeplan med iSkole som verktøy. Det forutsettes at leseren ikke er
-nybegynner som timeplanlegger. Det diskuteres ikke hvordan fordeling av
-enkelt- og dobbelttimer i et fag bør være, eller andre beslektede pedagogiske
-problemstillinger. Fokus er på hvordan man kan bygge en timeplan og den
-ferdigstilte timeplanen skal da entydig vise hvor, når og hvem som er lærere
+Her kommer litt bakgrunnstoff for brukerne av timeplanverktøyet som benyttes i iSkole. Hvordan en ideell timeplan bør 
+utformes diskuteres ikke her. Fokus er hvordan man time for time kan bygge en timeplan. Siktemålet er at den
+ferdigstilte timeplanen skal entydig vise hvor, når og hvem som er lærere
 i hvert fag, og hvilke elever som følger undervisningen i fagene gjennom
-hele skoleåret. Dag for dag, time for time. Tenker man på alle varianter av
+hele skoleåret, dag for dag, time for time. Tenker man på alle varianter av
 elevsammensetninger, hvordan undervisningen kan variere med hvem som
-underviser, og at timetallet per uke kan variere, da ser man rask at det kan
+underviser, og at timetallet per uke kan variere, da vet man at det kan
 bli arbeidskrevende å få på plass en timeplan. Men, når timeplanen er på
-plass, så gir den alle involverte parter oversikt over skolens viktigste oppgave,
-nemlig hvor og når undervisningen foregår.
+plass, da skal den gi alle involverte parter oversikt over når all undervisningen foregår.
 
 ### Typografi
 Tekst som refererer til noe i iSkole er ofte skrevet i _kursiv_. Eksempelvis:
