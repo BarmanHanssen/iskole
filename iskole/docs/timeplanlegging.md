@@ -14,9 +14,9 @@ utformes diskuteres ikke her. Fokus er hvordan man time for time kan bygge en ti
 ferdigstilte timeplanen skal entydig vise hvor, når og hvem som er lærere
 i hvert fag, og hvilke elever som følger undervisningen i fagene gjennom
 hele skoleåret, dag for dag, time for time. Tenker man på alle varianter av
-elevsammensetninger, fordeling av enkelt- og dobbeltimer, og at fagenes timetall per uke kan variere, da vet man at det kan
-bli arbeidskrevende å få på plass en timeplan. Men, når timeplanen er på
-plass, da skal den gi alle involverte parter oversikt over når all undervisningen foregår.
+elevsammensetninger, fordeling av enkelt- og dobbeltimer, og at fagenes timetall kan variere fra uke til uke, da vet 
+man at det kan bli arbeidskrevende å få på plass en fullstendig timeplan. Men, når uketimeplanene er på
+plass, da skal alle involverte parter ha oversikt over hele skoleårets undervisningsplan.
 
 ### Typografi
 Tekst som refererer til noe i iSkole er ofte skrevet i _kursiv_. Eksempelvis:
@@ -37,9 +37,10 @@ burde nedtones. Benytt gjerne e-postadressen som står på tittelsiden.
 
 ## Sentrale begreper
 Vi starter med å se på sentrale begreper som benyttes i manualen.
+
 ### Planperiode
-Vi omtaler et skoleår som en planperiode. Planperioden spenner fra 1.
-august til og med 31. juli året etter. Vi benytter skoleruten (se _Grunnlagsdata>Skolerute_) til å 
+Vi omtaler et skoleår som en planperiode. Planperioden spenner fra 1. august til og 
+med 31. juli året etter. Vi benytter skoleruten (se _Grunnlagsdata>Skolerute_) til å 
 angi dagene i planperioden som skoledager, planleggingsdager eller aktivitetsdager. Øvrige dager er fridager. 
 Elevene kan logge seg inn i iSkole i planperioden hvor de er registrert som elev, helt fram til 31. juli
 dersom de ikke avslutter før denne dato.
@@ -51,35 +52,32 @@ kan om ønskelig også legges over seks eller syv dager i noen uker. Det må fre
 det gjelder. Ekskursjoner eller utflukter kan eksempelvis legges til lørdag og/eller søndag. 
 Da skal timeplanen bare inneholde et (eller noen) fag som skal godskrives elev og lærer.
 
-Hver dag kan inneholde inntil seksten undervisningstimer. Hver time har angitt
+Dagene kan ha varierende antall undervisningstimer og tider. Hver time angis med et
 klokkeslett for når timen starter, og når den slutter. Timelengden er vanligvis
-45 eller 60 minutter, men kan variere fra time til time og fra dag til dag.
+45 eller 60 minutter, men kan altså variere fra time til time og fra dag til dag.
 
 Et vanlig oppsett er åtte timer per dag, alle med 45 minutters lengde, og med samme start- og sluttid for 
-alle ukedagene. iSkole vil uansett timelengde beregne summert undervisning i det enkelte fag for 
+alle ukedagene. Men iSkole vil ut fra timeplanen beregne summert undervisning i klokketimer for det enkelte fag for 
 hele skoleåret. Skolens timeplan kan derfor være dokumentasjon for omfanget av undervisningen i det enkelte fag.
 
 :::tip Merk
-Timene bestemt her er en mal. Når timeplanlegger plasserer en time, blir start - og slutt-tiden for timen i faget 
-fastlagt ut fra denne malen. Dersom start- og slutt-tiden etterpå endres i malen, vil det ikke påvirke timen som alt er 
+Timene bestemt her er en mal. Når en time i et fag timeplanlegges, blir start - og slutt-tiden for timen i faget 
+fastlagt ut fra denne malen. Dersom start- og slutt-tiden senere endres i malen, vil det ikke påvirke timen som alt er 
 timeplanlagt, men bare nye timer som timeplanlegges.
 :::tip
 
 ### Rom
-Nye rom legges inn fra _Grunnlagsdata > Rom_. Stedet hvor undervisningen
-blir gitt angis med betegnelsen _rom_. Kortnavnet for rom er på inntil fire
-tegn. Merk: Romtype og antall plasser kan angis, men er ikke i bruk andre
-steder. Alle rom, uavhengig av romtype og antall plasser, kan settes inn som
-rom når timeplanen legges.
+Nye rom legges inn fra _Grunnlagsdata > Rom_. Kortnavnet for rom er på inntil fire tegn. Romtype og 
+antall plasser kan angis, men er ikke i bruk andre steder. Alle rom, uavhengig av romtype og antall plasser, 
+kan settes inn som rom når timeplanen legges.
 
 ### Lærer
-Ansatte registreres fra _Personal > Ansatt_. For å bli registrert som faglærer
-må man registreres som _Pedagogisk ansatt_. Timeplanlegger kan bare benytte pedagoger som faglærer. 
+Ansatte registreres fra _Personal > Ansatt_. For å kunne undervise må man være registreret som _Pedagogisk ansatt_.
 
 ### Elev
 Elever registreres fra _Elevadmin > Elev_. Elevene som tas opp plasseres i
 klasser. En elev kan bare være elev i en klasse per skoleår. Eleven får
-automatisk tildelt fagene som klassen er satt opp med. Ofte kan elevene i tillegg velge (gruppe-)fag.
+automatisk tildelt fagene som klassen er satt opp med. Ofte kan elevene i tillegg velge fag (typisk: gruppefag).
 
 ### Fag
 I timeplansammenheng er et fag en betegnelse på en aktivitet som kan
@@ -87,27 +85,25 @@ timeplanlegges. Som regel er det knyttet en gruppe elever til faget, og faget
 har en eller flere lærere. Eksempelvis kan en gruppe elever være de elevene
 i en klasse som har faget norsk.
 
-Ikke alle fag er like lett å hanskes med. Faget naturfag
+Ikke alle fag er like lett å timeplanlegge. Faget naturfag
 kan være delt ved at undervisningen i fysikk har en lærer, mens de øvrige
-deler av faget har en annen lærer. Faget er da i timeplansammenheng delt
-i to (eller flere) komponenter. Og et språkfag kan ha elever med forskjellige
-fagkoder (siden elevene kan ha ulike forkunnskaper i faget), og undervises
+deler av faget har en annen lærer. Faget er da i timeplansammenheng to fag. Et språkfag kan ha 
+elever med forskjellige fagkoder (siden elevene kan ha ulike forkunnskaper i faget), og undervises
 derfor i noen timer samlet i en gruppe, og i andre timer fordelt i forskjellige
-grupper. Også her sier vi at faget har flere komponenter.
+grupper. Dette løser vi ved at et fag kan deles opp i komponenter.
 
-På timeplanen vil man da skille mellom de enkelte komponentene ved at hver
-komponent har et entydig kortnavn på inntil tre tegn. Koden til faget
-slik det står på timeplanen betegner vi ofte som fagets kortnavn. I tilleg har faget en fagkode
-som ikke direkte vises på timeplanen. Kortnavn benyttes
-i timeplansammenheng, mens fagkoden brukes på karakterdokumentasjon.
+På timeplanen vil de enkelte komponentene være selvstendige fag. Hvert fag
+(og komponent) har et entydig kortnavn på inntil tre tegn. Koden til faget
+slik det står på timeplanen betegner vi ofte som fagets kortnavn. (I tillegg har fagene
+en fagkode, den behøver ikke timeplanlegger tenke på.)
 
 ### Fagkode
 Alle fag som skal på karakterdokumentasjonen må ha en fagkode. Fagkodene
 i Kunnskapsløftet starter med tre bokstaver etterfulgt av fire siffer[^1].
-Timeplanleggeren vil i teorien kunne legge timeplanen helt uten viten
+Timeplanleggeren vil kunne legge timeplanen helt uten viten
 om hvilken fagkode som er knyttet til faget som skal timeplanlegges.
 Timeplanleggeren forholder seg til kortnavnet til faget — vanligvis tre tegn.
-Både fagets kortnavn og fagkode kommer frem når fagene vises under lærers
+Fagets kortnavn og fagkode kommer frem når fagene vises under lærers
 og elevs timeplan. Hvis faget gjelder undervisning som ikke er knyttet til et
 fag som skal på karakterdokumentasjonen, eller faget er en komponent av et
 annet fag, vil fagkoden være "999999". Timeplanleggeren trenger som nevnt
@@ -124,24 +120,9 @@ Vi kaller fag som er knyttet direkte til klassen, og som altså alle elevene i
 klassen kan følge, for klassefag.
 
 Hver klasse kan ha et varierende antall elever, vanligvis er det ikke mere
-enn 30 elever i en klasse. En elev må være registrert i en klasse for å være
-elev ved skolen, og kan bare være registrert i en klasse i et skoleår. Summen
-av elevene i alle klassene er dermed skolens totale elevtall.
-Merk: Hvis en elev skal få registrert fag og karakterer som skal med på
-karakterdokumentasjonen, hvor fagene tidligere er fullført på en annen skole,
-vil man ofte opprette en egen klasse uten fag for det skoleåret fagene er tatt,
-og så legge inn standpunkt og eksamenskarakterer direkte på eleven dette
-året. Karakterene føres da inn fra _Elevadmin > Karakterdokumentasjon_. I
-slike tilfeller trenger man ikke tildele fag til eleven, det holder å legge inn
-resultatene. Elever registrert i iSkole vil få med karakterene om de bytter
-skole til en annen skole som også benytter iSkole. Fag tatt ved anne skole er
-uten betydning for timeplanlegger.
+enn 30 elever i en klasse. En elev kan bare være registrert i en klasse i et skoleår.
 
-Klassen en elev er registrert i, setter i utgangspunktet ingen begrensning
-på hvilke fag eleven kan ha i sin fagkrets. Eleven blir automatisk tildelt
-alle fagene i klassen, men det er også mulig å fjerne klassefag fra eleven.
-Fagkretsen kan utvides med gruppefag eller ved at eleven gis klassefag fra
-andre klasser.
+Om en klasse har 0 eller 30 elever er i utgangspunktet uten betydning for timeplanlegger!
 
 [^2] Elevene kan ha avvikende programkode i forhold til klassen. Den settes i skjermbildet _Elevadmin > Elev_
 
@@ -154,14 +135,12 @@ fra både vg2 og vg3. Slike fag kalles for _gruppefag_ for å kunne skille dem f
 gruppefag som skal tilbys elevene, vil kunne variere fra år til år. Elevsammensetningen bestemmes av elevenes valg, 
 og er i utgangspunktet uavhengig av hvilken klasse eleven tilhører.
 
-Hvis tilbudet av gruppefag for den nye planperioden vil bli nokså likt med
-inneværende skoleår, kan man når neste planperiode opprettes kopiere gruppe-oppsettet og spare endel arbeid med det.
-
 ![image](https://user-images.githubusercontent.com/80097133/219652694-f02a9cbe-ad30-42f4-aca6-7d95c226d10c.png)
 
 :::tip Merk
 En begrensning er det dog på fagvalget: en elev kan ikke i samme planperiode være registrert i to fag som har samme fagkode.
 :::
+
 
 ### Fagklasse
 I noen tilfeller er det aktuelt å slå to eller flere klasser sammen for
