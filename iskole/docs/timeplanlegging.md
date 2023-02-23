@@ -131,22 +131,17 @@ Gruppefag er alle fag som samler elever fra flere klasser, eller noen elever fra
 Unntaksvis er et fag definert både som klasse- og gruppefag. Typisk vil fag eleven kan velge,
 altså fag som ikke er obligatoriske for programmet de følger, bli definert som
 gruppefag. Et eksempel kan være faget _Biologi 1_ som kan velges av enkeltelever fra flere klasser, og 
-fra både vg2 og vg3. Slike fag kalles for _gruppefag_ for å kunne skille dem fra _klassefag_. Hvilke 
-gruppefag som skal tilbys elevene, vil kunne variere fra år til år. Elevsammensetningen bestemmes av elevenes valg, 
-og er i utgangspunktet uavhengig av hvilken klasse eleven tilhører.
+fra både vg2 og vg3. Slike fag kalles for _gruppefag_ for å kunne skille dem fra _klassefag_. 
 
-![image](https://user-images.githubusercontent.com/80097133/219652694-f02a9cbe-ad30-42f4-aca6-7d95c226d10c.png)
-
-:::tip Merk
-En begrensning er det dog på fagvalget: en elev kan ikke i samme planperiode være registrert i to fag som har samme fagkode.
-:::
-
+Hvilke gruppefag som skal tilbys elevene, vil kunne variere fra år til år. Hvordan gruppene er 
+er satt opp er ikke tema her. Men det er ingen god ide å timeplanlegge grupefagene før skolens
+organisering av fagene er klargjort for timeplanlegger.
 
 ### Fagklasse
 I noen tilfeller er det aktuelt å slå to eller flere klasser sammen for
 undervisning i et felles fag. Dette kan administreres ved å opprette faget
-som gruppefag. Men hvis alle elevene i klassene skal følge faget, er en enklere
-løsning å opprette en fagklasse. Det skjer ved at undervisningen legges i den
+som gruppefag. Men hvis alle elevene i klassene skal følge faget, er det enklere
+å opprette en fagklasse. Det skjer ved at undervisningen legges i den
 ene klassen, og den andre (eller flere) klassens elever knyttes til faget i den
 førstnevnte klassen. Vi kaller klassen som eierfaget for _moderklassen_, og den
 andre klassen for _gjesteklassen_.
@@ -154,10 +149,11 @@ Et typisk eksempel er faget kroppsøving, hvor man slår sammen to
 klasser. Et annet eksempel kan være et valgfag i korsang som samler elever
 fra flere klasser. For skoler med få elever, vil en løsning kunne være at elevene
 blir registrert i henholdsvis 1. og 2. klasse, men at all undervisning er lagt til 1. klassen. Da ligger 
-alle fagene i 1. klassen, og 2. klassen er satt opp uten fag. 2. klassen registreres da som gjesteklasse i 1. klassens fag. 
-Merk at elevene i 1. og 2. klasse vil kunne ha forskjellige fagkoder selv om de undervises
-i et fag. Men på timeplanen får alle eleven frem faget med kortnavnet til
-moderklassen.
+alle fagene i 1. klassen, og 2. klassen er satt opp uten fag. 2. klassen registreres da som gjesteklasse
+i 1. klassens fag. På timeplanen får alle eleven frem faget med kortnavnet til moderklassen.
+
+Dersom fagklasser inngår på din skole er det en god ide å timeplanlegge moderklassen 
+før en timeplanlegger gjesteklassene.
 
 ## Før timeplanarbeidet starter
 Hva må, og hva bør være på plass før timeplanarbeidet starter? Det beste
@@ -166,16 +162,16 @@ mulig er at
 
 1. Alle klassene er registrert i _Grunnlagsdata > Klasse_
 1. Hver klasse er satt opp med alle sine fag i _Grunnlagsdata > Fag, klassefag_
-1. Start- og slutt-tider for undervisningen _Timeplan > Time_
+1. Gjeldende start- og slutt-tider for undervisningen er på plass, se _Timeplan > Time_
 1. Gruppefagene er registrert i _Grunnlagsdata > Fag, gruppefag_
 1. Alle rom hvor det skal foregå undervisning er registrert i _Grunnlagsdata > Rom_
 1. Elevene er registrert i sine respektive klasser
 1. Årets gruppefag er satt opp i _Time- og fagfordeling > Gruppefag_
-1. Elevene er registrert med sine gruppefag _Elevadmin > Fag_
+1. Elevene er registrert med sine gruppefag, se _Elevadmin > Fag_
 1. Lærerne som skal undervise i fagene er registrert i _Time- og fagfordeling > Klassefag/Gruppefag_
 
 De fem første punktene må legges inn første året iSkole tas i bruk. Oppsettes
-tas med når neste skoleår opprettes, og da må det kun gjøres justeriger for
+kan kopieres når neste skoleår opprettes, da må det kun gjøres justeriger for
 eventuelle endringer. Hvis punktene 1, 2 og 7 er på plass, kan timeplanen
 legges, altså uten at rom, elever og lærere er registrert. Men det er
 sjelden en god idé å starte så tidlig. Lærerdekningen og elevens valg av
@@ -188,8 +184,9 @@ For timeplanlegger er det viktig å få avdekket følgende uønskede forhold:
 1. At en lærer får kollisjon på sin timeplan
 1. At et rom vil bli benyttet til mer enn en aktivitet på et gitt tidspunkt
 
-Timeplanlegger kan tillate å legge en timeplan som gir kollisjon på elevens timeplan.
-Skolen har da godkjent elevens fagvalg, og eleven må velge hvilket fag han eller hun 
+Dersom en time medfører kollisjon for elev, vil timeplanlegger straks få frem en liste over
+elevene som blir berørt. Timeplanlegger vil unntaksvis legge en timeplan som gir kollisjon 
+på elevs timeplan. Skolen har da godkjent elevens fagvalg, og eleven må velge hvilket fag han eller hun 
 ønsker undervisning i de timene hvor fagene undervises samtidig. 
 Men lærer- og romkollisjon tillates ikke!
 
@@ -203,30 +200,28 @@ teknikker benyttes for raskt å kunne plassere timene på ønsket dag og time.
 Timeplanen er ukebasert. Det vil si at hver uke kan ha en unik timeplan.
 Det betyr at både antall fag, og antall timer i fagene, kan variere fra uke til
 uke. Timeplanleggeren kan sette timetallet for et fag til null for en bestemt uke. Det innebærer
-at faget ikke vises på timeplanen den uken.
+at faget ikke kommer på timeplanen den uken.
 
 Hvert fag har i følge sin fagplan et gitt omfang som skal benyttes
-til opplæring. Omfanget benevnes også som fagets årstimetallet. Timeplanen
-kan for sin del endres fra uke til uke, og timetallet i de enkelte fag kan også
+til opplæring. Omfanget benevnes også som fagets årstimetall. Timeplanen
+kan som nevnt endres fra uke til uke, og timetallet i de enkelte fag kan også
 endres fra den ene til den andre uken. Timeplanleggeren må derfor påse at
 summen av timeplanlagt undervisning i hvert fag for hele skoleåret oppfyller
 fagplanens krav til fagets årstimetall. Hvis man legger undervisningstimer à
 45 minutter, må flere timer timeplanlegges siden omfanget i fagplanen angis i klokketimer.
-Timeplanleggeren kan ta ut en rapport som summerer
-antall timer som er timeplanlagt, og regner undervisningstimene om til klokketimer. 
-Rapporten tar også hensyn til skoleruten slik fridagerog planleggingsdager ikke tas
-med. Rapporten kan brukes til å dokumenter at skolen har oppfylt lovpålagt
-tilbud om undervisning i de enkelte fag.
+Timeplanleggeren kan ta ut en rapport som summerer antall timer som er timeplanlagt, 
+og regner undervisningstimene om til klokketimer. Rapporten tar også hensyn til 
+skoleruten slik fridagerog planleggingsdager ikke tas med. Rapporten kan brukes 
+til å dokumenter at skolen har oppfylt lovpålagt tilbud om undervisning i det enkelte fag.
 
 ## Planlegging av neste års timeplan
 Når iSkole er tatt i bruk, vil forberedende arbeid for neste års timeplan
 kunne start tidlig, gjerne allerede i januar.
 
-Når nytt skoleår opprettes fra menyvalget _Grunnlagsdata > Planperiode_,
-bør den nye planperioden baseres på årets planperiode. iSkole foreslår
-dette som standard. Den nye planperioden opprettes da med en kopi av
-inneværende års oppsett av klasser, og alle fagene tilhørende den enkelte
-klasse.
+Nytt skoleår opprettes fra menyvalget _Grunnlagsdata > Planperiode_,
+og bør baseres på årets planperiode. iSkole foreslår dette som standard. Den nye 
+planperioden opprettes da med en kopi av inneværende års oppsett av klasser, 
+og alle fagene tilhørende den enkelte klasse.
 
 ## Selve timeplanleggingen
 Formålet med en timeplan kan kort formuleres som _å vise når og hvor fag har
