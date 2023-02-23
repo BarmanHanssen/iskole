@@ -85,7 +85,7 @@ timeplanlegges. Som regel er det knyttet en gruppe elever til faget, og faget
 har en eller flere lærere. Eksempelvis kan en gruppe elever være de elevene
 i en klasse som har faget norsk.
 
-Ikke alle fag er like lett å timeplanlegge. Faget naturfag
+Ikke alle fag er like lette å timeplanlegge. Faget naturfag
 kan være delt ved at undervisningen i fysikk har en lærer, mens de øvrige
 deler av faget har en annen lærer. Faget er da i timeplansammenheng to fag. Et språkfag kan ha 
 elever med forskjellige fagkoder (siden elevene kan ha ulike forkunnskaper i faget), og undervises
@@ -115,7 +115,7 @@ fagkode være på plass.
 
 ### Klasse og klassefag
 En klasse settes opp for å samle elever som følger et bestemt undervisningsprogram[^2].
-Vanligvis vil alle elevene i en klasse undervises i alle fag i klassen.
+Vanligvis vil elevene i en klasse ha alle fag i klassen i sin fagkrets.
 Vi kaller fag som er knyttet direkte til klassen, og som altså alle elevene i
 klassen kan følge, for klassefag.
 
@@ -127,14 +127,14 @@ Om en klasse har 0 eller 30 elever er i utgangspunktet uten betydning for timepl
 [^2] Elevene kan ha avvikende programkode i forhold til klassen. Den settes i skjermbildet _Elevadmin > Elev_
 
 ### Gruppefag
-Gruppefag er alle fag som samler elever fra flere klasser, eller noen elever fra en klasse, til felles undervisning.
-Unntaksvis er et fag definert både som klasse- og gruppefag. Typisk vil fag eleven kan velge,
-altså fag som ikke er obligatoriske for programmet de følger, bli definert som
-gruppefag. Et eksempel kan være faget _Biologi 1_ som kan velges av enkeltelever fra flere klasser, og 
-fra både vg2 og vg3. Slike fag kalles for _gruppefag_ for å kunne skille dem fra _klassefag_. 
+Gruppefag er fag som samler elever fra flere klasser, eller noen elever fra en klasse, til felles undervisning.
+Unntaksvis er et fag definert både som klasse- og gruppefag. Typisk vil fag eleven fritt kan velge,
+altså fag som ikke inngår i klassens fagkrets, bli definert som gruppefag. Et eksempel kan være faget 
+_Biologi 1_ som kan velges av enkeltelever fra flere klasser, og fra både vg2 og vg3. 
+Slike fag kalles for _gruppefag_ for å kunne skille dem fra _klassefag_. 
 
 Hvilke gruppefag som skal tilbys elevene, vil kunne variere fra år til år. Hvordan gruppene er 
-er satt opp er ikke tema her. Men det er ingen god ide å timeplanlegge grupefagene før skolens
+er satt opp er ikke tema her. Men det er ingen god ide å timeplanlegge gruppefagene før skolens
 organisering av fagene er klargjort for timeplanlegger.
 
 ### Fagklasse
@@ -186,16 +186,19 @@ For timeplanlegger er det viktig å få avdekket følgende uønskede forhold:
 
 Dersom en time medfører kollisjon for elev, vil timeplanlegger straks få frem en liste over
 elevene som blir berørt. Timeplanlegger vil unntaksvis legge en timeplan som gir kollisjon 
-på elevs timeplan. Skolen har da godkjent elevens fagvalg, og eleven må velge hvilket fag han eller hun 
-ønsker undervisning i de timene hvor fagene undervises samtidig. 
+på elevenes timeplan. Skolen skal da ha godkjent elevens fagvalg, og eleven må velge hvilket 
+fag han eller hun ønsker undervisning i de timene hvor fagene undervises samtidig. 
+
 Men lærer- og romkollisjon tillates ikke!
 
-Selve utplasseringen av timer skjer ved at timeplanleggeren plasserer fag
-på timeplanen. Det er timeplanleggerens ansvar å påse en fornuftig fordeling
-av enkelt- og dobbelttimer i et fag, og at timene blir fordelt over ukedagene
-på en pedagogisk forsvarlig måte. Timeplanleggingen skjer på skjermen.
+Timeplanleggingen skjer på skjermen. Selve utplasseringen av timer skjer ved at 
+timeplanleggeren plasserer fag på timeplanen. 
 Den grafiske utformingen av skjermbildene letter arbeidet, og forskjellige
 teknikker benyttes for raskt å kunne plassere timene på ønsket dag og time.
+
+Det er timeplanleggerens ansvar å påse en fornuftig fordeling
+av enkelt- og dobbelttimer i et fag, og at timene blir fordelt over ukedagene
+på en pedagogisk forsvarlig måte.
 
 Timeplanen er ukebasert. Det vil si at hver uke kan ha en unik timeplan.
 Det betyr at både antall fag, og antall timer i fagene, kan variere fra uke til
@@ -207,11 +210,11 @@ til opplæring. Omfanget benevnes også som fagets årstimetall. Timeplanen
 kan som nevnt endres fra uke til uke, og timetallet i de enkelte fag kan også
 endres fra den ene til den andre uken. Timeplanleggeren må derfor påse at
 summen av timeplanlagt undervisning i hvert fag for hele skoleåret oppfyller
-fagplanens krav til fagets årstimetall. Hvis man legger undervisningstimer à
+fagplanens krav til fagets omfang/årstimetall. Hvis man legger undervisningstimer à
 45 minutter, må flere timer timeplanlegges siden omfanget i fagplanen angis i klokketimer.
 Timeplanleggeren kan ta ut en rapport som summerer antall timer som er timeplanlagt, 
-og regner undervisningstimene om til klokketimer. Rapporten tar også hensyn til 
-skoleruten slik fridagerog planleggingsdager ikke tas med. Rapporten kan brukes 
+og regner undervisningstimene om til klokketimer. Rapporten tar hensyn til 
+skoleruten slik at fridagerog planleggingsdager ikke tas med. Rapporten kan brukes 
 til å dokumenter at skolen har oppfylt lovpålagt tilbud om undervisning i det enkelte fag.
 
 ## Planlegging av neste års timeplan
@@ -228,7 +231,7 @@ Formålet med en timeplan kan kort formuleres som _å vise når og hvor fag har
 undervisning, og hvilke elever og lærere som deltar_. Timeplanen er komplett
 først når all organisert undervisning for hele planperioden er registrert.
 
-Timeplanen skal gi tilstrekkelig informasjon om all organisert aktivitet ved
+En komplett timeplan kartlegger altså all organisert aktivitet ved
 skolen. Ut fra timeplanen skal man kunne finne ut hvor en elev eller lærer
 befinner seg hvis vedkommende har undervisning i en bestemt time i en
 angitt uke.
