@@ -142,9 +142,9 @@ I noen tilfeller er det aktuelt å slå to eller flere klasser sammen for
 undervisning i et felles fag. Dette kan administreres ved å opprette faget
 som gruppefag. Men hvis alle elevene i klassene skal følge faget, er det enklere
 å opprette en fagklasse. Det skjer ved at undervisningen legges i den
-ene klassen, og den andre (eller flere) klassens elever knyttes til faget i den
-førstnevnte klassen. Vi kaller klassen som eierfaget for _moderklassen_, og den
-andre klassen for _gjesteklassen_.
+ene klassen, og den andre klassen regisreres som gjesteklasse til faget i den
+førstnevnte klassen. Vi kaller altså klassen som eierfaget for _moderklasse_, og den
+andre klassen for _gjesteklasse_. (Se _Grunnlagsdata>Klasse_)
 Et typisk eksempel er faget kroppsøving, hvor man slår sammen to
 klasser. Et annet eksempel kan være et valgfag i korsang som samler elever
 fra flere klasser. For skoler med få elever, vil en løsning kunne være at elevene
@@ -153,7 +153,7 @@ alle fagene i 1. klassen, og 2. klassen er satt opp uten fag. 2. klassen registr
 i 1. klassens fag. På timeplanen får alle eleven frem faget med kortnavnet til moderklassen.
 
 Dersom fagklasser inngår på din skole er det en god ide å timeplanlegge moderklassen 
-før en timeplanlegger gjesteklassene.
+før en timeplanlegger gjesteklassen(e).
 
 ## Før timeplanarbeidet starter
 Hva må, og hva bør være på plass før timeplanarbeidet starter? Det beste
@@ -163,19 +163,15 @@ mulig er at
 1. Alle klassene er registrert i _Grunnlagsdata > Klasse_
 1. Hver klasse er satt opp med alle sine fag i _Grunnlagsdata > Fag, klassefag_
 1. Gjeldende start- og slutt-tider for undervisningen er på plass, se _Timeplan > Time_
-1. Gruppefagene er registrert i _Grunnlagsdata > Fag, gruppefag_
+1. Årets gruppefagene er registrert i _Time- og fagfordeling > Gruppefag_
 1. Alle rom hvor det skal foregå undervisning er registrert i _Grunnlagsdata > Rom_
 1. Elevene er registrert i sine respektive klasser
-1. Årets gruppefag er satt opp i _Time- og fagfordeling > Gruppefag_
 1. Elevene er registrert med sine gruppefag, se _Elevadmin > Fag_
 1. Lærerne som skal undervise i fagene er registrert i _Time- og fagfordeling > Klassefag/Gruppefag_
 
-De fem første punktene må legges inn første året iSkole tas i bruk. Oppsettes
-kan kopieres når neste skoleår opprettes, da må det kun gjøres justeriger for
-eventuelle endringer. Hvis punktene 1, 2 og 7 er på plass, kan timeplanen
-legges, altså uten at rom, elever og lærere er registrert. Men det er
-sjelden en god idé å starte så tidlig. Lærerdekningen og elevens valg av
-valgfag (organisert som gruppefag) vil begrense timeplanleggers valgmuligheter.
+Hvis punktene 1, 2 og 3 er på plass, kan timeplanen for klassene legges, altså uten at rom,
+elever og lærere er registrert. Men det er sjelden en god idé å starte så tidlig. Lærerdekningen 
+og elevens valg av valgfag (organisert som gruppefag) vil begrense timeplanleggers valgmuligheter.
 
 ## Støtte til utformingen av timeplanen
 For timeplanlegger er det viktig å få avdekket følgende uønskede forhold:
@@ -246,8 +242,7 @@ Deretter velger man klasse og uke. Vi har nå tre valg,
 
 og vi starter automatisk med det _Timeplan_:
 
-
-![image](https://user-images.githubusercontent.com/80097133/220071644-0d096db3-8de1-452b-9b48-d9974e7c328e.png)
+![image](https://user-images.githubusercontent.com/80097133/221147713-93ac053d-3da5-4744-8871-8aed3bb5b8dd.png)
 
 #### Timeplan
 Utgangspunktet vårt er at timeplanen skal legges for et nytt skoleår, vel vitende om at det
