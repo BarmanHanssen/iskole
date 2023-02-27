@@ -72,7 +72,7 @@ antall plasser kan angis, men er ikke i bruk andre steder. Alle rom, uavhengig a
 kan settes inn som rom når timeplanen legges.
 
 ### Lærer
-Ansatte registreres fra _Personal > Ansatt_. For å kunne undervise må man være registreret som _Pedagogisk ansatt_.
+Ansatte registreres fra _Personal > Ansatt_. For å kunne undervise må man være registrert som _Pedagogisk ansatt_.
 
 ### Elev
 Elever registreres fra _Elevadmin > Elev_. Elevene som tas opp plasseres i
@@ -233,16 +233,16 @@ befinner seg hvis vedkommende har undervisning i en bestemt time i en
 angitt uke.
 
 For raskt å få et innblikk i hvordan man timeplanlegger klassefag, ser
-vi nå på et enkelt eksempel på hvordan dette kan gjøres. For å få frem
+vi nå på hvordan dette kan gjøres. For å få frem
 skjermbildet tilsvarende det som er vist under, navigerer man til 
 [_Timeplan > Klasser_](/docs/timeplan_timeplanlegge_klasse).
 Deretter velger man klasse og uke. Vi har nå tre valg, 
 
-![image](https://user-images.githubusercontent.com/80097133/220329273-07249370-738c-44b6-a404-d7d5a1727a37.png)
+![image](https://user-images.githubusercontent.com/80097133/221574930-90ccc824-491f-42d1-a3fe-9bf47df5ae37.png)
 
 og vi starter automatisk med det _Timeplan_:
 
-![image](https://user-images.githubusercontent.com/80097133/221147713-93ac053d-3da5-4744-8871-8aed3bb5b8dd.png)
+![image](https://user-images.githubusercontent.com/80097133/221574809-65cd6723-6ca6-4910-84bf-3a21300eb87b.png)
 
 #### Timeplan
 Utgangspunktet vårt er at timeplanen skal legges for et nytt skoleår, vel vitende om at det
@@ -254,8 +254,8 @@ undervisning. Skoleruten blir satt opp når man oppretter en ny planperiode, og 
 _Grunnlagsdata > Skolerute_.
 
 Før timeplanen for en klasse kan legges, må klassen være satt opp med fagene som alle elevene i klassen skal 
-timeplanlegges. Det beste vil være om alle fag er på plass med lærer i hvert fag, og at elevene i klassen er registrert. 
-Men alt kan kan endres underveis, programvaren vil dynamisk sjekke at eventuelle endringer ikke medfører kollisjoner fremover i tid.
+ha. Det beste vil være om alle fag er på plass med lærer i hvert fag, og at elevene i klassen er registrert. 
+Men alt kan kan endres underveis, programvaren vil dynamisk sjekke at eventuelle endringer ikke medfører kollisjoner.
 
 Det anbefales å velge den første mulige uken når man skal starte
 timeplanleggingen, også om det ikke er definert skoledager hele uken i
@@ -290,20 +290,22 @@ forsvinne for denne timen. Regelen er at fravær skal knyttes til fag på timepl
 Skjermbildet er er delt inn i flere deler som binder det hele sammen. Øverst i bildet 
 vises hvilken klasse og uke vi skal timeplanlegge.
 
-Det er tre arkfaner i skjermbildet for klassen: _Timeplan_, _Timeplan tolærer_ og
-_Kopier_ hvor den første arkfanen er vist her. 
-
-Til venstre i blidet vises fagene
-som klassen følger. Kolonnen _Timer_ forteller hvor mange timer fagene skal
-timeplanlegges denne uken, mens kolonnen _Tp-lagt_ viser hvor mange timer
-som alt er timeplanlagt. Når et fag er ferdig timeplanlagt vil kolonnen
+Til venstre i blidet vises fagene som klassen er satt opp med. Kolonnen _Timer_ forteller 
+hvor mange timer fagene skal timeplanlegges denne uken, mens kolonnen _Tp-lagt_ viser 
+hvor mange timer som alt er timeplanlagt. Når et fag er ferdig timeplanlagt vil kolonnen
 _Gjennstår_ vise 0 timer, og faget blir vist i kursiv. Fag som ikke er ferdig
 timeplanlagt ligger øverst i listen. I kolonnen _Timer_ er det et ikon som
 forestiller en blyant til høyre for timetallet. Ved å trykke på blyanten kan
 man justere timetallet opp eller ned for denne uken.
 
-Å flytte en time i et klassefag er relativt enkelt, men å flytte en time i
-et gruppefag er er ikke alltid like lett.
+(Å flytte en time i et klassefag er relativt enkelt, men å flytte en time i
+et gruppefag er er ikke alltid like lett.)
+
+Timeplanlegger vil konsentrere seg spesielt rundt skjermbildene  _Timeplan klasse_ og _timeplan lærer_.
+
+Se eksemplet med klasse ST1A ovenfor.
+
+
 
 Timeplanen under overskriften _Timeplan lærer_ viser hva som allerede er timeplanlagt
 for valgte lærer, altså faget som er markert under _Fag_.
