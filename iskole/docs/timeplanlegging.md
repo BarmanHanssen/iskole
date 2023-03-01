@@ -290,6 +290,9 @@ forsvinne for denne timen. Regelen er at fravær skal knyttes til fag på timepl
 Skjermbildet er er delt inn i flere deler som binder det hele sammen. Øverst i bildet 
 vises hvilken klasse og uke vi skal timeplanlegge.
 
+Vi har valgt klasse ST1A som eksemplet.
+
+#### Fag
 Til venstre i blidet vises fagene med lærer til klassen. Kolonnen _Timer_ forteller 
 hvor mange timer fagene skal timeplanlegges denne uken, mens kolonnen _Tp-lagt_ viser 
 hvor mange timer som alt er timeplanlagt. Når et fag er ferdig timeplanlagt vil kolonnen
@@ -298,8 +301,6 @@ timeplanlagt ligger øverst i listen. I kolonnen _Timer_ er det et ikon (en blya
 timetallet. Ved å trykke på ikonet kan man justere timetallet opp eller ned for denne uken.
 
 Timeplanlegger vil spesielt ha fokus på skjermbildene  _Timeplan klasse_ og _timeplan lærer_.
-
-Se eksemplet med klasse ST1A ovenfor.
 
 #### Timeplan klasse
 Her vises klassens timeplan med plasseringen av allerede timeplanlagte fag. Klassefag vises på blå bakgrunn. Når man velger fag fra tabellen _Fag_, vil det valgte faget vises på rosa bakgrunn. Timer i klassen som ikke er timeplanlagte er grønne. Hvite felt markerer timer som ikke kan benyttes til timeplanlegging av det valgte klassefaget. Det skjer når valgte lærer allerede er opptatt i timen, eller at noen elever (minst en) i faget alt er opptatt med annen undervisning i den hvite timen. Derfor kan timene i KRØ (det valgte faget) ikke plasseres på de to første timene på tirsdag.
