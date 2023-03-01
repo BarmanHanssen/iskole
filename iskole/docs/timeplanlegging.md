@@ -283,84 +283,65 @@ kopiere timeplanen bakover i tid.
 Timeplanleggeren må også i mente at fraværsføring er nært
 knyttet til timeplanen, slik at endringer i løpet av skoleåret bør gjøres før
 faglærer starter fraværsføringen på en timeplan som en vet skal endres. Man
-kan føre inn fravær for en elev frem i tid dersom eleven alt har dokumentert at blir fravær
+kan føre inn fravær for en elev frem i tid dersom eleven alt har dokumentert at det blir fravær
 frem i tid. Hvis timeplanlegger fjerner en time hvor det er ført fravær, så vil fraværet
 forsvinne for denne timen. Regelen er at fravær skal knyttes til fag på timeplanlagte tider.
 
 Skjermbildet er er delt inn i flere deler som binder det hele sammen. Øverst i bildet 
 vises hvilken klasse og uke vi skal timeplanlegge.
 
-Til venstre i blidet vises fagene som klassen er satt opp med. Kolonnen _Timer_ forteller 
+Til venstre i blidet vises fagene med lærer til klassen. Kolonnen _Timer_ forteller 
 hvor mange timer fagene skal timeplanlegges denne uken, mens kolonnen _Tp-lagt_ viser 
 hvor mange timer som alt er timeplanlagt. Når et fag er ferdig timeplanlagt vil kolonnen
 _Gjennstår_ vise 0 timer, og faget blir vist i kursiv. Fag som ikke er ferdig
-timeplanlagt ligger øverst i listen. I kolonnen _Timer_ er det et ikon som
-forestiller en blyant til høyre for timetallet. Ved å trykke på blyanten kan
-man justere timetallet opp eller ned for denne uken.
+timeplanlagt ligger øverst i listen. I kolonnen _Timer_ er det et ikon (en blyant) til høyre for 
+timetallet. Ved å trykke på ikonet kan man justere timetallet opp eller ned for denne uken.
 
-(Å flytte en time i et klassefag er relativt enkelt, men å flytte en time i
-et gruppefag er er ikke alltid like lett.)
-
-Timeplanlegger vil konsentrere seg spesielt rundt skjermbildene  _Timeplan klasse_ og _timeplan lærer_.
+Timeplanlegger vil spesielt ha fokus på skjermbildene  _Timeplan klasse_ og _timeplan lærer_.
 
 Se eksemplet med klasse ST1A ovenfor.
 
+#### Timeplan klasse
+Her vises klassens timeplan med plasseringen av allerede timeplanlagte fag. Klassefag vises på blå bakgrunn. Når man velger fag fra tabellen _Fag_, vil det valgte faget vises på rosa bakgrunn. Timer i klassen som ikke er timeplanlagte er grønne. Hvite felt markerer timer som ikke kan benyttes til timeplanlegging av det valgte klassefaget. Det skjer når valgte lærer allerede er opptatt i timen, eller at noen elever (minst en) i faget alt er opptatt med annen undervisning i den hvite timen. Derfor kan timene i KRØ (det valgte faget) ikke plasseres på de to første timene på tirsdag.
 
+#### Timeplan lærer
+Her vises hva som er timeplanlagt for faglærer for faget som er valgt fra _Fag_ (her: KRØ). Vi ser at på tirsdags morgen er læreren opptatt (ST2:RI 1), derfor er disse timene markert hvite for klassens timeplan. 
 
-Timeplanen under overskriften _Timeplan lærer_ viser hva som allerede er timeplanlagt
-for valgte lærer, altså faget som er markert under _Fag_.
-I listen nede til venstre (_Vis timeplan for disse ansatte_) kan man velge andre lærere som da vil
-vises sammen med _Timeplan lærer_. Slik får man oversikt over flere lærere
-samtidig, og ut fra dette gjøre gode valg for timeplanlegging av klassen.
+#### Vis timeplan for disse ansatte
+Her kan man legge til lærer(e) som da vil vises sammen med _Timeplan lærer_. Slik får man oversikt over flere lærere  samtidig, noe som kan gjøre det lettere for timeplanlegger også å tenke på den enkelte lærers timeplan.
 
-I tillegg er det en nedtrekksliste for rom (rett ovenfor _Vis timeplan for disse ansatte_). Når man velger fag, vil den
+#### Rom
+Nedtrekksliste for rom er plassert ovenfor _Vis timeplan for disse ansatte_. Når man velger fag, vil den
 automatisk stille seg inn på det rommet som er tildelt klassen _Grunnlagsdata > Klasse_,
-eller faget i _Grunnlagsdata > Rom_, eller på rommet som allerede er valgt. Nedtrekkslisten inneholder bare rom som er ledige for valgte time.
+eller faget i _Grunnlagsdata > Rom_. Når en time er valgt, vil listen bare inneholder  rom som er ledige for valgte time.
 
-I bildet har vi timeplanlagt 9 av de 10 timene i norsk, og de 9 timene  vises på rød bakgrunn i klassens timeplanen. Fra _Timeplan lærer_ vises de samme timene, og eventuelt andre timeplanlagte timer til læreren.
+
+I bildet er altså bare to timer timeplanlagt, en i NOR, og en  KRØ (det valgte faget). Fra _Timeplan lærer_ vises alle timeplanlagte timer til læreren.
 
 
 ### Timeplanlegge klasse
-Fagene fordeles ut på timeplanen ved at man først velger fag i listen over
-fag som skal timeplanlegges, og deretter trykker på ledig time på klassens
-timeplan. Ledige timer i klassen blir markert med grønn farge dersom også
-læreren er ledig i timen. Er læreren opptatt, men klassen er ledig, er timen
-blank (hvit). Merk at timen vil også være blank dersom klassen har en gjesteklasse, og elevene i gjesteklassen har undervisning i timen som er blank.
-Er det valgt et rom i nedtrekkslisten _Rom_, så vil timen få tildelt
-dette rommet. Hvis man ikke har valgt rom, timeplanlegges timen uten rom.
-Man må da senere sette et rom til timen. Man kan også endre rom til en
-time som allerede er tildelt rom.
-
-For å fjerne en timeplanlagt time, høyre-klikkes timen på timeplanen, og
-man velger _Slett_.
-
-Oppsummert er det følgende trinn som må gjøres for å timeplanlegge en
-time:
+Oppsummert er det følgende trinn som må gjøres for å timeplanlegge en time:
 
 1. Velg faget i listen over fag som skal timeplanlegges
 1. Velg hvilket rom som skal benyttes
 1. Klikk på grønn time i klassens timeplanen 
 
-Hvis det ikke er noen kollisjoner, vil timeplanen lagres. I bildet nedenfor er
-valgene 1, 2 og 3 gjennomført, så det som gjennstår er kun å plassere timen.
-I eksempelet ser vi at tirsdag femte time og fredag fjerde time kan velges. 
-Ved å trykke på f.eks. fredag fjerde time, så vil timen
-plassers der.
+Fagene timeplanlegges altså ved at man først velger fag i listen over fag hvor det gjenstår timer. Ledige timer i klassen blir markert med grønn farge dersom også læreren er ledig i timen. Er læreren opptatt, men klassen er ledig, er timen blank (hvit). Merk at timen vil også være blank dersom klassen har en gjesteklasse, og elevene i gjesteklassen alt har undervisning i timen som er blank.
+Er det valgt et rom i nedtrekkslisten _Rom_, så vil timen få tildelt
+dette rommet. Hvis man ikke har valgt rom, timeplanlegges timen uten rom.
+Man må da senere velge et rom til timen. Man kan også endre rom til en
+time som allerede er tildelt rom.
 
-I dette avsnittet har vi sett hvordan oppstart av timeplanlegging i en
-klasse kan arte seg. Her var time- og fagfordelingen bestemt for klassen,
-men vi så bort i fra kompliserende faktorer som elevenes valg av valgfag vil
-kunne medføre. Det vil vi nå se nærmere på.
+For å fjerne en timeplanlagt time, høyre-klikkes timen på timeplanen, og
+velg _Slett_.
+
+I dette avsnittet har vi sett på timeplanlegging av klassefag. Her var time- og fagfordelingen bestemt for klassen, men vi så bort eventuelle valgfags innvirkning på klassens timeplan. 
 
 ### Timeplanlegge gruppefag
-Den kanskje mest utfordrende delen for skolens oppsett av fag foran et nytt
-skoleår er å bestemme hvilke valgfag som skal tilbys neste skoleårs elever.
-Faktorer som spiller enn er skolens størrelse, hvilke studieretninger skolen
-tilbyr, lærernes fagkompetanse, elevenes ønsker og økonomiske forhold.
+Det er utfordrende for skolen å bestemme hvilke valgfag som skal tilbys neste skoleårs elever.
+Faktorer som spiller enn er hvilke studieretninger skolen tilbyr, skolens størrelse, elevenes ønsker, lærernes fagkompetanse og ikke minst økonomiske konsekvenser.
 
-Elevene blir ved opptak plassert i klasser. Det som kjennetenger klassen
-er at den er satt opp med fag som alle elevene i klassen skal følge. Men
-det finnes fag som det ikke er naturlig å plassere i en klasse. Grunnen
+Elevene blir ved opptak plassert i klasser. Klassen er satt opp med fag som alle elevene i klassen skal følge. Men det finnes fag som det ikke er naturlig å plassere i en klasse. Grunnen
 er at faget kan være aktuelt for bare noen elever i klassen, og/eller at
 elevene i klassen har valgt fag som skal undervises på samme tid. Fag av
 denne kategorien omtaler vi som _gruppefag_. For at elevene skal kunne få
