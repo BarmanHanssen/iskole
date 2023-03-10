@@ -323,7 +323,7 @@ Oppsummert er det følgende trinn som må gjøres for å timeplanlegge klassefag
 1. Velg hvilket rom som skal benyttes
 1. Klikk på grønn time i klassens timeplanen 
 
-Fagene timeplanlegges altså ved at man først velger fag i listen over fag hvor det gjenstår timer. Ledige timer i klassen blir markert med grønn farge dersom også læreren er ledig i timen. Er læreren opptatt, men klassen er ledig, er timen blank (hvit). Merk at timen vil også være blank dersom klassen har en gjesteklasse, og elevene i gjesteklassen alt har undervisning i timen som er blank. Vises et rom i nedtrekkslisten _Rom_, så vil timen få tildelt dette rommet. Hvis man ikke har valgt rom, timeplanlegges timen uten rom. Man senere velge, eller endre, et rom til en time ved å høyre-klikke på timen. 
+Fagene timeplanlegges altså ved at man først velger fag i listen over fag hvor det gjenstår timer. Ledige timer i klassen blir markert med grønn farge dersom også læreren er ledig i timen. Er læreren opptatt, men klassen er ledig, er timen blank (hvit). Vises et rom i nedtrekkslisten _Rom_, så vil timen få tildelt dette rommet. Hvis man ikke har valgt rom, timeplanlegges timen uten rom. Man senere velge, eller endre, et rom til en time ved å høyre-klikke på timen. 
 
 For å fjerne en timeplanlagt time, høyre-klikkes timen på timeplanen, og velger _Slett_.
 
