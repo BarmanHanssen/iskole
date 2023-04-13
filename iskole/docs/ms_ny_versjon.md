@@ -6,6 +6,9 @@ sidebar_label: Ny versjon
 ## Innloggingsside
 Man kan nå velge å benytte seg av biometri ved innlogging i iSkole. Hvis man har et tastatur med fingeravtrykkleser, så kan denne benyttes. Det er kanskje den aller raskeste måten å logge på iSkole fra en PC. Mange bærbare maskiner har fingeravtrykkleser innebygget, og noen tastaturer har det også. Bruker man telefonen er kanskje den aller raskeste måte å logge inn på iSkole å benytte seg av ansiktsgjenkjenning via telefonen. 
 
+Videoen viser at brukeren har lagret en passnøkkel. Den benyttes i det øyeblikket brukeren leser av sitt fingeravtrykk.
+![Biometri](/img/Biometri.gif 'Biometri')
+
 ## Menyen
 Menyen er omarbeidet slik at de menyvalgene som benyttes oftest er flyttet høyere opp i forhold til de menyvalgene som er mindre i bruk. Det er også mulig å skjule menyen hvis skjermen er smal. På små skjermer som f.eks. mobiltelefoner så vil menyen skjules automatisk. Menyen kan da åpnes og lukkes ved å trykke på _burgerikonet_ oppe til venstre på siden. Man har også anledning til å låse menyen slik at den ikke lukker seg, ved å trykke på hengelåsikonet øverst i menyen.
 
