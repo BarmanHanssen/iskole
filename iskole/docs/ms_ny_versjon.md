@@ -48,14 +48,23 @@ Nytt i skjermbildet for fagfravær er blant annet:
 ![Fagfravær](/img/Fagfravær.gif 'Fagfravær')
 
 ### Kontaktelever
-Kontaktelevene presenteres fremdeles i en tabell.
+Fravær for kontaktelever består hovedsakelig av tre visninger. To visninger for den enkelte kontaktelev og én ukesvisning for alle kontaktelever.
 
+![Fravær kontaktelever](/img/ms_fravaer_kontaktelever.png 'Fravær kontaktelever')
+
+#### All fraværsinformasjon for en kontaktelev
 1. Man kan klikke på øyet i tabellen for å vise all fraværsinformasjon for eleven. Dette er samme oversikt som finnes under menyvalget _Elever_.
-1. Man kan endre fraværslengde også i visningen for totalfravær.
-1. I dagfravær for kontaktelever har verktøyhjelp for alle celler med unntak av de som  er tomme eller har en strek som markerer at eleven har fritime.
-1. I dagfravær for kontaktelever kan man nå klikke på navnet for å behandle fravær.
-1. Man kan klikke rett på timen for å behandle fravær.
-1. Det er lagt inn verktøyhjelp på på flere timer enn bare de med understreking.
+1. Ved å klikke på en time i fraværsoversikten kan man føre dag- og timefraværfravær for denne timens dag.
+
+![Kontaktelev - se alle fraværsopplysninger](/img/Fravær_kontaktelev_øye.gif 'Kontaktelev - se alle fraværsopplysninger')
+
+#### Føre fravær på kontaktelev ukesvis
+Funksjonaliteten er i all hovedsak uendret fra tidligere.
+
+#### Behandle dagfravær for alle kontaktelever
+1. Alle celler har verktøyhjelp med unntak av de som har en strek som markerer at eleven har fritime. Verktøyhjelpen viser fag, tidspunkt og eventuell fraværskode, merknad og lengde på fraværet.
+1. Ved å klikke på elevens navn får man frem ukesvisningen for denne eleven. (Beskrevet i forrige avsnitt)
+1. Dagfravær kan som før føres ved avkrysning. 
 
 
 ## Meldinger
