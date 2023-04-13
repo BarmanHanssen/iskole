@@ -45,7 +45,7 @@ Nytt i skjermbildet for fagfravær er blant annet:
 1. Knapp for å føre oppmøte for alle avholdte timer valgt uke.
 1. Man kan klikke på navnet til eleven for å behandle timefravær/dokumentasjon/fraværslengde. 
 
-<iframe width="100%" src="https://www.youtube.com/embed/GLYtgUhIPwE" title="Fagfravær" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/GLYtgUhIPwE" title="Fagfravær" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Kontaktelever
 Kontaktelevene presenteres fremdeles i en tabell.
