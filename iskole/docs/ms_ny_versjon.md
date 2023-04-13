@@ -45,7 +45,7 @@ Nytt i skjermbildet for fagfravær er blant annet:
 1. Knapp for å føre oppmøte for alle avholdte timer valgt uke.
 1. Man kan klikke på navnet til eleven for å behandle timefravær/dokumentasjon/fraværslengde. 
 
-![Fagfravær](/img/Fagfravær.gif 'Fagfravær')
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GLYtgUhIPwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Kontaktelever
 Kontaktelevene presenteres fremdeles i en tabell.
@@ -67,7 +67,7 @@ Meldingene listes og man ser hvem som er avsender, emnet og starten av meldingen
 Alle de tidligere adresselistene er nå byttet ut med ett søkefelt. Dette søkefeltet kan benyttes gjentagende for å legge inn flere mottakere. Man kan sende meldinger til enkeltpersoner (også foreldre) eller til gruppemottakere. Man kan velge mellom alle elever i fag, hele klasser, alle ansatte, alle elever, alle kontaktelever og alle foreldre. Vedlegg legges til enten ved dra-og-slipp, eller velge dem som før med en filvelger.
 
 ### Sendte
-Man kan også her slette flere meldinger på en gang om man ønsker det
+Man kan også her slette flere meldinger på en gang om man ønsker det.
 
 ### Send SMS
 
