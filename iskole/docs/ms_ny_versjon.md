@@ -4,9 +4,9 @@ title: Ny versjon av mine sider for ansatte
 sidebar_label: Ny versjon
 ---
 ## Innloggingsside
-Man kan nå velge å benytte seg av biometri ved innlogging i iSkole. Hvis man har et tastatur med fingeravtrykkleser, så kan denne benyttes. Det er kanskje den aller raskeste måten å logge på iSkole fra en PC. Mange bærbare maskiner har fingeravtrykkleser innebygget, og noen tastaturer har det også. Bruker man telefonen er kanskje den aller raskeste måte å logge inn på iSkole å benytte seg av ansiktsgjenkjenning via telefonen. 
+Man kan nå velge å benytte seg av biometri (ansiktsgjenkjenning, fingeravtrykk etc.) ved innlogging i iSkole. Dette er en rask og sikker måte å logge på iSkole. Denne funksjonen kan aktiveres etter innlogging og vil være et raskt alternativ til innlogging med tofaktorkode.
 
-Videoen viser at brukeren har lagret en passnøkkel. Den benyttes i det øyeblikket brukeren leser av sitt fingeravtrykk.
+Videoen viser at brukeren har lagret en passnøkkel. Den aktiveres i eksemplet i det øyeblikket brukeren leser av sitt fingeravtrykk.
 ![Biometri](/img/Biometri.gif 'Biometri')
 
 ## Menyen
@@ -23,7 +23,7 @@ Menyen er omarbeidet slik at de menyvalgene som benyttes oftest er flyttet høye
 
 ## Timeplan
 
-Timeplanene er gjenkjennelig fra den gamle versjonen. Arkfanen _Tid_ er tatt ut siden man får informasjon om timenes start- og sluttider i alle timeplanene. Det er i hovedsak gjort forbedringer i visningen av romtimeplanen og funksjonaliteten rundt reserveringer av rom for lærerne. I skjermbildet for romtimeplanen kan man nå finne ledige rom direkte --- tidligere var denne funskjonaliteten kun tilgjengelig i rapporter.
+Timeplanene er gjenkjennelig fra den gamle versjonen. Arkfanen _Tid_ er tatt ut siden man får informasjon om timenes start- og sluttider i alle timeplanene. Det er i hovedsak gjort forbedringer i visningen av romtimeplanen og funksjonaliteten rundt reserveringer av rom for lærerne. I skjermbildet for romtimeplanen kan man nå finne ledige rom direkte. Tidligere var denne funskjonaliteten kun tilgjengelig i rapporter.
 Andre nyheter i romtimeplanen er:
 
 1. Man kan søke på alle ledige rom ved å la feltet være tomt.
@@ -34,19 +34,21 @@ Andre nyheter i romtimeplanen er:
 
 ## Fravær
 
-Den «lange» visningen fra forrige iSkole er delt opp i arkfanene _Egenmeldinger_, _Fagfravær_ og _Fravær kontaktelever_. Det betyr at man må velge arkfanen man ønsker å arbeide i. Det gir ett klikk mer, men man slipper å rulle i skjermbildet i forhold til tidligere. 
+Den «lange» visningen fra forrige iSkole er delt opp i arkfanene _Egenmeldinger_, _Fagfravær_ og _Fravær kontaktelever_. Det betyr at man må velge arkfanen man ønsker å arbeide i. Det gir ett klikk mer, men man slipper å rulle i skjermbildet i forhold til tidligere.
+![Fravær](/img/ms_fravaer_hoved.png 'Fravær')
 
 ### Fagfravær
 Nytt i skjermbildet for fagfravær er blant annet:
 
 1. Færre klikk for å bytte fag når man er inne i full- eller komprimert visning.
-1. Verktøyhjelp på alle celler bortsett fra de som er tomme eller har en strek som markerer at eleven har fritime.
-1. Knapp for å føre oppmøte for alle timene.
+1. Verktøyhjelp på alle celler bortsett fra de som har en strek som markerer at eleven har fritime.
+1. Knapp for å føre oppmøte for alle avholdte timer valgt uke.
 1. Man kan klikke på navnet til eleven for å behandle timefravær/dokumentasjon/fraværslengde. 
+
+![Fagfravær](/img/Fagfravær.gif 'Fagfravær')
 
 ### Kontaktelever
 Kontaktelevene presenteres fremdeles i en tabell.
-
 
 1. Man kan klikke på øyet i tabellen for å vise all fraværsinformasjon for eleven. Dette er samme oversikt som finnes under menyvalget _Elever_.
 1. Man kan endre fraværslengde også i visningen for totalfravær.
