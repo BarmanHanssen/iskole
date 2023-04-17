@@ -62,7 +62,7 @@ Fravær for kontaktelever består hovedsakelig av tre visninger. To visninger fo
 Funksjonaliteten er i all hovedsak uendret fra tidligere.
 
 #### Behandle dagfravær for alle kontaktelever
-1. Alle celler har verktøyhjelp med unntak av de som har en strek som markerer at eleven har fritime. Verktøyhjelpen viser fag, tidspunkt og eventuell fraværskode, merknad og lengde på fraværet.
+1. Alle celler har verktøyhjelp (tooltip) med unntak av de som har en strek som markerer at eleven har fritime. Verktøyhjelpen viser fag, tidspunkt og eventuell fraværskode, merknad og lengde på fraværet.
 1. Ved å klikke på elevens navn får man frem ukesvisningen for denne eleven. (Beskrevet i forrige avsnitt)
 1. Dagfravær kan som før føres ved avkrysning. 
 
@@ -85,6 +85,7 @@ Der man før kun kunne sende til enten alle ansatte eller alle elever med foredr
 ## Dokumenter
 Skjermbildet _Dokumenter_ er en sammenslåing av _Arkiv_ og _Dokumenter_ fra forrige iSkole.
 Dette skjermbildet er laget med et mere moderne intuitivt design for mappestrukturen og med dra-og-slipp for både å laste opp filer og å flytte mapper og filer i dokumentarkivet. 
+![Dokumenter](/img/help_dokumenter1.gif 'Dokumenter')
 
 ## Vurderinger
 
