@@ -85,6 +85,7 @@ Der man før kun kunne sende til enten alle ansatte eller alle elever med foredr
 ## Dokumenter
 Skjermbildet _Dokumenter_ er en sammenslåing av _Arkiv_ og _Dokumenter_ fra forrige iSkole.
 Dette skjermbildet er laget med et mere moderne intuitivt design for mappestrukturen og med dra-og-slipp for både å laste opp filer og å flytte mapper og filer i dokumentarkivet. 
+
 ![Dokumenter](/img/help_dokumenter1.gif 'Dokumenter')
 
 ## Vurderinger
