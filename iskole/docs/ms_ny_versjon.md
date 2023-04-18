@@ -6,7 +6,8 @@ sidebar_label: Ny versjon
 ## Innloggingsside
 Man kan nå velge å benytte seg av biometri (ansiktsgjenkjenning, fingeravtrykk etc.) ved innlogging i iSkole. Dette er en rask og sikker måte å logge på iSkole. Denne funksjonen kan aktiveres etter innlogging og vil være et raskt alternativ til innlogging med tofaktorkode.
 
-Videoen viser at brukeren har lagret en passnøkkel. Den aktiveres i eksemplet i det øyeblikket brukeren leser av sitt fingeravtrykk.
+Videoen viser at brukeren har lagret en passnøkkel. I det øyeblikket biometrien blir avlest, blir brukeren logget inn.
+
 ![Biometri](/img/Biometri.gif 'Biometri')
 
 ## Menyen
@@ -75,6 +76,8 @@ Meldingene listes og man ser hvem som er avsender, emnet og starten av meldingen
 ### Ny melding
 Alle de tidligere adresselistene er nå byttet ut med ett søkefelt. Dette søkefeltet kan benyttes gjentagende for å legge inn flere mottakere. Man kan sende meldinger til enkeltpersoner (også foreldre) eller til gruppemottakere. Man kan velge mellom alle elever i fag, hele klasser, alle ansatte, alle elever, alle kontaktelever og alle foreldre. Vedlegg legges til enten ved dra-og-slipp, eller velge dem som før med en filvelger.
 
+![Adresseliste](/img/adresseliste.gif 'Adresseliste')
+
 ### Sendte
 Man kan også her slette flere meldinger på en gang om man ønsker det.
 
@@ -123,6 +126,7 @@ iSkole kan installeres på smartenheter som en «Progressiv Web App» og dermed 
 1. Velg «Legg til på Hjem-skjermen».
 1. Velg et navn, f.eks. «iSkole».
 1. Velg «Legg til».
+
 ![PWA](/img/PWA_PB.gif 'PWA')
 
 ### For Android
