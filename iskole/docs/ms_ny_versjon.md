@@ -118,7 +118,7 @@ I skjermbildene for vurderinger har vi sørget for at man får utført de samme 
 ## Installering på smartenheter
 iSkole kan installeres på smartenheter som en «Progressiv Web App» og dermed på sitt egen ikon hvor man kan starte iSkole.
 ### For iOS (Apple)
-1. Naviger til innloggingssiden for iSkole
+1. Naviger til innloggingssiden for iSkole. [https://iskole.net](https://iskole.net/jet_iskole_login)
 1. Velg symbolet for å dele siden (firkant med pil opp). 
 1. Velg «Legg til på Hjem-skjermen».
 1. Velg et navn, f.eks. «iSkole».
