@@ -123,7 +123,7 @@ iSkole kan installeres på smartenheter som en «Progressiv Web App» og dermed 
 1. Velg «Legg til på Hjem-skjermen».
 1. Velg et navn, f.eks. «iSkole».
 1. Velg «Legg til».
-![PWA](/img/PWA.gif 'PWA')
+![PWA](/img/PWA_PB.gif 'PWA')
 
 ### For Android
 Brukeren blir atuomatisk spurt om det er ønskelig å legge til iSkole som en applikasjon.
