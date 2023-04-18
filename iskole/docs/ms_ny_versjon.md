@@ -6,7 +6,7 @@ sidebar_label: Ny versjon
 ## Innloggingsside
 Man kan nå lagre tilgangsnøkkel for enklere innlogging på iSkole. Denne kan lagres på enheten etter innlogging og vil være et raskt og sikkert alternativ til innlogging med to-faktorkode. Ulike enheter (telefon, pc, etc.) har ulike måter å beskytte tilgangsnøklene. Dette kan for eksempel være fingeravtrykk, ansiktsgjennkjenning eller passord. Produsentene har ulike måter å sykronisere tilgangsnøklene mellom brukerens enhter. F.eks. vil brukere av Mac og iPhone kunne få sine nøkler synkronisert gjennom iCloud.
 
-Videoen viser at brukeren har lagret en passnøkkel. I det øyeblikket fingeravtrykket blir avlest i dette eksempelet blir brukeren logget inn.
+Videoen viser at brukeren har lagret en tilgangsnøkkel. I det øyeblikket fingeravtrykket blir avlest i dette eksempelet blir brukeren logget inn.
 
 ![Biometri](/img/Biometri.gif 'Biometri')
 
