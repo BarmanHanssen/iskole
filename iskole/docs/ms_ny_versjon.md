@@ -112,7 +112,7 @@ I skjermbildene for vurderinger har vi sørget for at man får utført de samme 
 1. Det er ny layout på de fleste fanene og plassbesparende layout på flere.
 1. Karakterer har fått nytt valg: «Kan endre karakterer i innføringsperioden».
 1. Romreservering har fått fjernet «Oversikt» da den er overflødig.
-1. Bulleteng har fjernet ned og oppflytting av redaktører da det ikke er av betydning.
+1. Bulleteng har fjernet ned- og oppflytting av redaktører da det ikke er av betydning.
 
 
 ## Installering på smartenheter
@@ -123,6 +123,7 @@ iSkole kan installeres på smartenheter som en «Progressiv Web App» og dermed 
 1. Velg «Legg til på Hjem-skjermen».
 1. Velg et navn, f.eks. «iSkole».
 1. Velg «Legg til».
+![PWA](/img/PWA.gif 'PWA')
 
 ### For Android
 Brukeren blir atuomatisk spurt om det er ønskelig å legge til iSkole som en applikasjon.
