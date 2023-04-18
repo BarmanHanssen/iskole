@@ -4,11 +4,15 @@ title: Ny versjon av mine sider for ansatte
 sidebar_label: Ny versjon
 ---
 ## Innloggingsside
-Man kan nå velge å benytte seg av biometri (ansiktsgjenkjenning, fingeravtrykk etc.) ved innlogging i iSkole. Dette er en rask og sikker måte å logge på iSkole. Denne funksjonen kan aktiveres etter innlogging og vil være et raskt alternativ til innlogging med tofaktorkode.
+Man kan nå lagre tilgangsnøkkel for enklere innlogging på iSkole. Denne kan lagres på enheten etter innlogging og vil være et raskt og sikkert alternativ til innlogging med to-faktorkode. Ulike enheter (telefon, pc, etc.) har ulike måter å beskytte tilgangsnøklene. Dette kan for eksempel være fingeravtrykk, ansiktsgjennkjenning eller passord. Produsentene har ulike måter å sykronisere tilgangsnøklene mellom brukerens enhter. F.eks. vil brukere av Mac og iPhone kunne få sine nøkler synkronisert gjennom iCloud.
 
-Videoen viser at brukeren har lagret en passnøkkel. I det øyeblikket biometrien blir avlest, blir brukeren logget inn.
+Videoen viser at brukeren har lagret en passnøkkel. I det øyeblikket fingeravtrykket blir avlest i dette eksempelet blir brukeren logget inn.
 
 ![Biometri](/img/Biometri.gif 'Biometri')
+
+:::note Merk
+Innlogging med brukernavn og passord vil fortsatt være mulig, kontoen bør derfor fortsatt være sikret med to-faktor.
+:::
 
 ## Menyen
 Menyen er omarbeidet slik at de menyvalgene som benyttes oftest er flyttet høyere opp i forhold til de menyvalgene som er mindre i bruk. Det er også mulig å skjule menyen hvis skjermen er smal. På små skjermer som f.eks. mobiltelefoner så vil menyen skjules automatisk. Menyen kan da åpnes og lukkes ved å trykke på _burgerikonet_ oppe til venstre på siden. Man har også anledning til å låse menyen slik at den ikke lukker seg, ved å trykke på hengelåsikonet øverst i menyen.
