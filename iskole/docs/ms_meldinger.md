@@ -51,3 +51,6 @@ Selv om man krysser av for sending av e-post til foresatte, så sendes den ikke 
 
 ## Sendt
 Her vises en kronologisk liste over sendte meldinger. Dersom en dato står i parentes etter navnet på mottaker, er det datoen mottaker åpnet meldingen. Hvis du klikker på meldingen, kan du lese den, samt se dato for når meldingen ble lest og eventuelt slettet fra mottakers innboks.
+
+## Send SMS
+Skoler som har oppretttet avtale kan også sende meldinger som SMS.
