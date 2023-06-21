@@ -54,4 +54,4 @@ _Egne reserveringer_: Her får du oversikt over alle rom som du har reservert fo
 
 
 :::note Start- og slutt-tider
-Timeplanlegger har en mal som gir start- og slutt-tid for hver time som timeplanlegges. Malen kan endres fra _Timeplan>Tider_. Derfor kan eksempelvis første timen på mandag ikke starte likt for alle klasser.
+Timeplanlegger har en mal som gir start- og slutt-tid for hver time som timeplanlegges. Malen kan endres fra _Timeplan>Tider_. Derfor kan eksempelvis første timen på mandag ikke starte likt for alle klasser. 
