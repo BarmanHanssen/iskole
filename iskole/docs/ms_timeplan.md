@@ -53,5 +53,5 @@ Det er rektor/administrator som fra menyvalget _Tilgang_ kan åpne for reservasj
 _Egne reserveringer_: Her får du oversikt over alle rom som du har reservert for denne uken.
 
 
-## Tid
-Her vises start- og slutt-tider som timeplanlegger har til sin rådighet. Dette er en mal som gjelder for nye timer som timeplanlegges. Det innebærer at klokkeslettene ikke behøver å være identiske med tidene som nå vises på timeplanen. Eventuelle avvik skyldes at timene for faget ble timeplanlagt med en avvikende mal. Malen kan endres fra _Timeplan>Tider_.
+:::note Start- og slutt-tider
+Timeplanlegger har en mal som gir start- og slutt-tid for hver time som timeplanlegges. Malen kan endres fra _Timeplan>Tider_. Derfor kan eksempelvis første timen på mandag ikke starte likt for alle klasser.
