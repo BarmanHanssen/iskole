@@ -20,21 +20,6 @@ Hvis du har lagret en ukeplan til et fag (fra Års-/ukeplan_),  vil planen i fag
 _Stillingsoversikt_:
 Her viser alle dine fag på listeform, samt eventuell tillegg. Summen er din stillingsstørrelse.
 
-## Romtimeplan
-Her vises timeplanen til et bestemt rom. Alle rom som kan timeplanlegges, finner du i nedtrekkslisten. 
-
-Dersom du kan reservere rommet, vil ledige timer være farget grønn. Merk at du kan reservere et ekstra rom i en time hvor du allerede er opptatt med undervisning et annet sted. Ved å klikke på en grønn boks vil det automatisk opprettes en reservasjon med teksten _Reservert_.  Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. 
-
-Rommet blir bare reservert for denne ene uken. 
-
-For å slette reservert time venstreklikker du på timen.  
-
-_Rom som du kan reservere_:  
-Det er kun rom fra denne listen du kan reservere til deg selv. Disse rommenes fritimer vil vises med grønn farge under arkfanen _Romtimeplan_.
-Det er rektor/administrator som fra menyvalget _Tilgang_ kan åpne for reservasjon .
-
-_Egne reserveringer_: Her får du oversikt over alle rom som du har reservert for denne uken.
-
 ## Lærertimeplan
 Her finner du timeplanen til samtlige lærere ved skolen. Nedtrekkslisten inneholder derfor navnene til alle som har undervisning ved skolen inneværende planperiode. Planleggingsdager er markert med gul, fridager med fiolett og vikartimer med grønn farge. Uker uten undervisning vises ikke. Klikk på en time for å få flere detaljer. Da vises også fagets navn, når timen slutter, eventuell vikar og om også tolærer er tilknyttet timen.
 
@@ -51,6 +36,22 @@ _Faglærere_: Her vises alle klasse- og gruppefag eleven følger, med faglærer,
 Nedtrekkslisten inneholder bare klasser som har fått timer lagt ut på timeplanen. Klassefag kommer på blå bakgrunn. Elevenes gruppefag har grønn bakgrunn. Bare gruppefag som minst en elev i klassen har valgt kommer med. 
 
 _Vis klassens faglærere_: Listen inneholder alle elevens faglærere, altså også faglærere i gruppefag som elevene måtte ha i sin fagkrets.
+
+## Romtimeplan
+Her vises timeplanen til et bestemt rom. Alle rom som kan timeplanlegges, finner du i nedtrekkslisten. 
+
+Dersom du kan reservere rommet, vil ledige timer være farget grønn. Merk at du kan reservere et ekstra rom i en time hvor du allerede er opptatt med undervisning et annet sted. Ved å klikke på en grønn boks vil det automatisk opprettes en reservasjon med teksten _Reservert_.  Du kan endre teksten ved å høyreklikke på den og velge _Endre tekst_. 
+
+Rommet blir bare reservert for denne ene uken. 
+
+For å slette reservert time venstreklikker du på timen.  
+
+_Rom som du kan reservere_:  
+Det er kun rom fra denne listen du kan reservere til deg selv. Disse rommenes fritimer vil vises med grønn farge under arkfanen _Romtimeplan_.
+Det er rektor/administrator som fra menyvalget _Tilgang_ kan åpne for reservasjon .
+
+_Egne reserveringer_: Her får du oversikt over alle rom som du har reservert for denne uken.
+
 
 ## Tid
 Her vises start- og slutt-tider som timeplanlegger har til sin rådighet. Dette er en mal som gjelder for nye timer som timeplanlegges. Det innebærer at klokkeslettene ikke behøver å være identiske med tidene som nå vises på timeplanen. Eventuelle avvik skyldes at timene for faget ble timeplanlagt med en avvikende mal. Malen kan endres fra _Timeplan>Tider_.
