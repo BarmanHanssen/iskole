@@ -15,10 +15,9 @@ module.exports = {
     {
       type: 'category',
       label: 'Mine sider',
-      items: ['ms_startside','ms_tilgang','ms_kontrollsenter','ms_logg','ms_planperiode','ms_personalia','ms_eget_fravaer',
-      'ms_meldinger','ms_bulleteng','ms_arkiv','ms_dokumenter','ms_utlaan','ms_bibliotek','ms_skolerute','ms_timeplan','ms_arsplan','ms_elever',
-      'ms_elevsamtaler','ms_fravaer','ms_vurderinger','ms_karakterer','ms_elevmappe','ms_orden_atferd','ms_iop','ms_spraakopplaering',
-      'ms_brev','ms_permisjon','ms_sensor','ms_rapporter','ms_brukerrolle','ms_foto','ms_internat'],
+      items: ['ms_startside','ms_timeplan','ms_fravaer','ms_meldinger','ms_bulleteng','ms_arkiv','ms_dokumenter','ms_vurderinger','ms_karakterer','ms_arsplan','ms_elever',
+      'ms_elevsamtaler','ms_orden_atferd','ms_elevmappe','ms_brev','ms_spraakopplaering','ms_iop','ms_permisjon','ms_sensor','ms_rapporter','ms_internat',
+      'ms_logg','ms_bibliotek','ms_utlaan','ms_personalia','ms_eget_fravaer','ms_tilgang','ms_skolerute','ms_planperiode','ms_foto','ms_kontrollsenter','ms_brukerrolle'],
     },
     {
       type: 'category',
