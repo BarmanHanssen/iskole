@@ -16,6 +16,8 @@ Når en logger på iSkole, vises alltid blant annet egen timeplan. Det er bare e
 Når en ansatt logger seg på iSkole, vil bulletengen poppe opp som første skjermbilde dersom dato og klokkeslett satt av redaktøren tilsier dette. Dersom bulletengen er adressert elevene, får også de opp samme skjermbilde. Bulletengen kan etter første visning (som altså er automatisk) fås frem i hele publiseringsperioden ved å benytte menyvalget _Bulleteng_
 :::
 
+#### Å opprette en bulleteng er flyttet til menyvalget _Tilgang_.
+
 ### Opprett en bulleteng
 Dersom du er redaktør vises dette  skjermbilde:
 
