@@ -16,7 +16,7 @@ For å kunne ta i bruk skerportalen må skolen legge oversikt over hva skolen ti
 ### Felles opplysninger for alle planperioder
 Dette er opplysningere som skolen legger inn, og som skolen selv kontinuerlig kan oppdatere.
 
-![bilde](https://user-images.githubusercontent.com/80097133/148524582-f27bc63f-25b3-4655-a26c-5147043a2159.png)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/c2b7d655-a2b0-4b33-a8b6-5bc1b47af9d2)
 
 _Lenke til skolens reglement for inntak_ og _Lenke til skolens vilkår for søknad om skoleplass_:
 
