@@ -14,8 +14,6 @@ Søkerportalen lar søkeren selv fylle inn nødvendige data, og legge ved dokume
 For å kunne ta i bruk skerportalen må skolen legge oversikt over hva skolen tilbyr, og hva som en potensiell søkeren må legge inn som dokumentasjon om seg selv.
 
 ### Felles opplysninger for alle planperioder
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/c72b6215-a416-40d6-a3ab-f2fabf89f095)
-
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d10e606c-4454-4ace-a345-d8da719674c5)
 
