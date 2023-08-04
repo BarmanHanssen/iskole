@@ -15,7 +15,6 @@ For å kunne ta i bruk skerportalen må skolen legge oversikt over hva skolen ti
 
 ### Felles opplysninger for alle planperioder
 Dette er opplysningere som skolen legger inn, og som skolen selv kontinuerlig kan oppdatere.
-
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/861a2155-e47a-4e7f-8c62-ccfb0d962dd2)
 
 
