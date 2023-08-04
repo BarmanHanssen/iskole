@@ -36,12 +36,11 @@ Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for s
 
 #### Informasjon til søkere
 
-_Personalia_:  
+_Personalia_: Søkerens navn, fødselsdata og epost må selvsagt inngå. Fullstendig liste over skolens krav legges inn her.
+_Dokumenter_: Vitnemål og karakterer fra inneværende skoleår leveres skolen seinest ved skolestart dersom ikke søkeren allerede er elev ved skolen, eller kommer fra annen skole hvor iSkole benyttes.
 
-_Dokumenter_: Vitnemål og karakterer fra inneværende skoleår leveres skolen seinest ved skolestart. 
-Skolegang ved Tomb vgs trenger ikke å dokumenteres.
 
-_Søknad_: Søknadene behandles etter søknadsfristen. Søknader sendt etter fristen behandles fortløpende.
+_Søknad_: Her spesifiserer skolen saksgangen for søknadene.Vanligvis behandles søknadene etter søknadsfristen, og søknader sendt etter fristen behandles fortløpende.
 
 ### Tilbud
 
