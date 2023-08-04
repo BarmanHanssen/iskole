@@ -11,7 +11,7 @@ Skolen henviser til portalen fra sin hjemmeside. Potensielle nye elever kan derf
 
 Søkerportalen lar søkeren selv fylle inn nødvendige data, og legge ved dokumentasjon. Ved innvilgelse av skoleplass skal da eleven være plassert i en klasse, og klar for skolestart med tilgang til iSkole.
 
-For å komme igang, må skolen legge inn følgende:
+For å kunne ta i bruk skerportalen må skolen legge oversikt over hva skolen tilbyr, og hva som en potensiell søkeren må legge inn som dokumentasjon om seg selv.
 
 ### Felles opplysninger for alle planperioder
 
