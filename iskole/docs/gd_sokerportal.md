@@ -22,7 +22,6 @@ _Skolen benytter søkerportalen til å ta imot søknader til iSkole_
 
 _Skolen benytter seg av søkerportalen til å ta imot interessenter til iSkole_
 
-
 _Lenke til skolens reglement for inntak_ og _Lenke til skolens vilkår for søknad om skoleplass_:
 
 Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon. 
