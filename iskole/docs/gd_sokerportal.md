@@ -34,7 +34,7 @@ Hele skjemaet er som følgende:
 
 Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon. 
 
-####_Informasjon til søkere_
+#### _Informasjon til søkere_
 
 _Personalia_: Se skjermbildet ovenfor
 
