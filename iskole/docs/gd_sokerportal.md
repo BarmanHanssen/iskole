@@ -30,7 +30,7 @@ Hele skjemaet er som følgende:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d10e606c-4454-4ace-a345-d8da719674c5)
 
 
-_Lenke til skolens reglement for inntak_ og _Lenke til skolens vilkår for søknad om skoleplass_:
+**_Lenke til skolens reglement for inntak_ og _Lenke til skolens vilkår for søknad om skoleplass_:**
 
 Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon. 
 
