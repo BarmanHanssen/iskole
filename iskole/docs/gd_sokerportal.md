@@ -15,6 +15,9 @@ For å kunne ta i bruk skerportalen må skolen legge oversikt over hva skolen ti
 
 ### Felles opplysninger for alle planperioder
 
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/41fc4c6c-cbf3-4db3-866b-08824cbf1746)
+
+
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d10e606c-4454-4ace-a345-d8da719674c5)
 
 _Skolen benytter søkerportalen til å ta imot søknader til iSkole_
