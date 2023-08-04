@@ -21,9 +21,7 @@ Her følger en detaljert beskrivelse av hvordan søkerportalen implimenteres.
 
 For å kunne ta portalen i bruk, må man huke av for minst en av bokene.
 
-_Skolen benytter søkerportalen til å ta imot søknader til iSkole_
-
-Dette er fullversjonen av søkerportalen hvor søkeren selv kan fullføre søkerprosessen helt ut med all dokumentasjon som skolen krever.
+_Skolen benytter søkerportalen til å ta imot søknader til iSkole;_  Dette er fullversjonen av søkerportalen hvor søkeren selv kan fullføre søkerprosessen helt ut med all dokumentasjon som skolen krever.
 
 _Skolen benytter seg av søkerportalen til å ta imot interessenter til iSkole_
 
