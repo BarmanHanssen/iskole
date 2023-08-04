@@ -18,6 +18,11 @@ Dette er opplysningere som skolen legger inn, og som skolen selv kontinuerlig ka
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d10e606c-4454-4ace-a345-d8da719674c5)
 
+_Skolen benytter søkerportalen til å ta imot søknader til iSkole_
+
+_Skolen benytter seg av søkerportalen til å ta imot interessenter til iSkole_
+
+
 _Lenke til skolens reglement for inntak_ og _Lenke til skolens vilkår for søknad om skoleplass_:
 
 Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon. 
