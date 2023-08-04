@@ -15,7 +15,7 @@ For å kunne ta i bruk skerportalen må skolen legge oversikt over hva skolen ti
 
 ### Felles opplysninger for alle planperioder
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/965b40d5-9b42-448c-a2c6-1fb75c6d1f3e)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e8086765-c35a-4b50-9138-cfdd44f5d26f)
 
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d10e606c-4454-4ace-a345-d8da719674c5)
