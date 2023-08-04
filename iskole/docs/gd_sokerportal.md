@@ -17,12 +17,18 @@ For å kunne ta i bruk skerportalen må skolen legge oversikt over hva skolen ti
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e8086765-c35a-4b50-9138-cfdd44f5d26f)
 
+For å kunne ta portalen i bruk, må man huke av for minst en av bokene.
+
+_Skolen benytter søkerportalen til å ta imot søknader til iSkole_
+Dette er fullversjonen av søkerportalen hvor søkeren selv kan fullføre søkerprosessen helt ut med all dokumentasjon som skolen krever.
+
+_Skolen benytter seg av søkerportalen til å ta imot interessenter til iSkole_
+Her vil søkeren kunne melde sin interesse for skoleplass ved kun å legge inn info om seg selv tilstrekkelig for at skolen skal kunne kontakte med vedkommende for den videre prosess.
+
+
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d10e606c-4454-4ace-a345-d8da719674c5)
 
-_Skolen benytter søkerportalen til å ta imot søknader til iSkole_
-
-_Skolen benytter seg av søkerportalen til å ta imot interessenter til iSkole_
 
 _Lenke til skolens reglement for inntak_ og _Lenke til skolens vilkår for søknad om skoleplass_:
 
