@@ -36,7 +36,7 @@ Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for s
 
 #### _Informasjon til søkere_
 
-_Personalia_: Se skjermbildet ovenfor
+_Personalia_:  
 
 _Dokumenter_: Vitnemål og karakterer fra inneværende skoleår leveres skolen seinest ved skolestart. 
 Skolegang ved Tomb vgs trenger ikke å dokumenteres.
