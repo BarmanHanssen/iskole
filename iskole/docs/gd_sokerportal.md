@@ -43,7 +43,7 @@ _Søknad_: Her spesifiserer skolen saksgangen for søknadene. Vanligvis behandle
 _Dokumenter_: Her presiseres hvilke dokumenter som skal vedlegges søknaden. 
 Vitnemål og karakterer for inneværende skoleår må leveres skolen seinest ved skolestart. Merk at dersom søkeren allerede er elev ved skolen, eller kommer fra annen skole hvor iSkole benyttes, bortfaller dette kravet.
 
-
+_Interessenter_:
 
 ### Tilbud
 
