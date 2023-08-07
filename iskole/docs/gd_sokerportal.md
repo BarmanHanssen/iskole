@@ -62,9 +62,13 @@ Her nedtegnes det som forventes at søkeren skal gi av opplysninger for å kunne
 
 ## Vedleggstype
 
+Eksempel på hva som kan legges inn her:
+
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a9566d76-8811-4148-96be-4abdd66223e0)
 
 ## Historikk
 
+ Her kan en fortløpende følge med utviklingen dag for dag i søkerperioden.
+ 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a39b2db4-1a0e-49e2-8bbd-92905cfdde35)
 
