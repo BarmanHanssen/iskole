@@ -55,5 +55,6 @@ Her legger skolen inn hva skolen kan tilby av linjer og fag for kommende skoleå
 Her kan en velge data ut fra det skolen alt har lagt inn av Grunnlagsdata for gjeldende skoleår.
 
 ## Spørsmål
+Her nedtegnes det som forventes at søkeren skal gi av opplysninger for å kunne bli vurdert som aktuell elev for kommende skoleår.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/00b2cf9a-4ac9-4bd9-8856-4582e720abf2)
