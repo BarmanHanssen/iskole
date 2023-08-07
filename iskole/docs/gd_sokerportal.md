@@ -35,7 +35,7 @@ Hele skjemaet er som følgende:
 
 Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon. 
 
-##### Informasjon til søkere
+## Informasjon til søkere
 
 _Personalia_: Søkerens navn, fødselsdata og epost må selvsagt inngå. Fullstendig liste over skolens krav legges inn her.
 _Dokumenter_: Vitnemål og karakterer fra inneværende skoleår leveres skolen seinest ved skolestart dersom ikke søkeren allerede er elev ved skolen, eller kommer fra annen skole hvor iSkole benyttes.
