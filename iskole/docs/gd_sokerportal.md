@@ -29,13 +29,13 @@ Hele skjemaet er som følgende:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d10e606c-4454-4ace-a345-d8da719674c5)
 
-**_E-post_**  Her kan en legge inn spesifikk e-post knyttet til søknad om skoleplass.
+**_E-post:_**  Her kan en legge inn spesifikk e-post knyttet til søknad om skoleplass.
 
 **_Lenke til skolens reglement for inntak_ og _Lenke til skolens vilkår for søknad om skoleplass_:**
 
 Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon. 
 
-#### Informasjon til søkere
+##### Informasjon til søkere
 
 _Personalia_: Søkerens navn, fødselsdata og epost må selvsagt inngå. Fullstendig liste over skolens krav legges inn her.
 _Dokumenter_: Vitnemål og karakterer fra inneværende skoleår leveres skolen seinest ved skolestart dersom ikke søkeren allerede er elev ved skolen, eller kommer fra annen skole hvor iSkole benyttes.
