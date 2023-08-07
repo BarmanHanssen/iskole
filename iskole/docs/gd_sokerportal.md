@@ -49,5 +49,5 @@ _Interessenter_:
 
 Her legger skolen inn sitt tilbud til elevene.
 
-![bilde](https://user-images.githubusercontent.com/80097133/148527706-f3defa52-4e38-4611-9e20-b8283f87b687.png)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2789dee3-e096-46d0-aa88-4333aeaf93c8)
 
