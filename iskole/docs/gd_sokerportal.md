@@ -38,10 +38,9 @@ Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for s
 ## Informasjon til søkere
 
 _Personalia_: Søkerens navn, fødselsdata og epost må selvsagt inngå. Fullstendig liste over skolens krav legges inn her.
-_Søknad_: Her spesifiserer skolen saksgangen for søknadene.Vanligvis behandles søknadene etter søknadsfristen, og søknader sendt etter fristen behandles fortløpende.
+_Søknad_: Her spesifiserer skolen saksgangen for søknadene. Vanligvis behandles søknadene etter søknadsfristen, og søknader sendt etter fristen behandles fortløpende.
 
 _Dokumenter_: Her presiseres hvilke dokumenter som skal vedlegges søknaden. 
-
 Vitnemål og karakterer for inneværende skoleår må leveres skolen seinest ved skolestart. Merk at dersom søkeren allerede er elev ved skolen, eller kommer fra annen skole hvor iSkole benyttes, bortfaller dette kravet.
 
 
