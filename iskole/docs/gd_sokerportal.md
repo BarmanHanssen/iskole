@@ -60,10 +60,11 @@ Her nedtegnes det som forventes at søkeren skal gi av opplysninger for å kunne
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/00b2cf9a-4ac9-4bd9-8856-4582e720abf2)
 
-
+## Vedleggstype
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a9566d76-8811-4148-96be-4abdd66223e0)
 
+## Historikk
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a39b2db4-1a0e-49e2-8bbd-92905cfdde35)
 
