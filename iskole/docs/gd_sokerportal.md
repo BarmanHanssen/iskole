@@ -47,10 +47,10 @@ _Interessenter_:
 
 ## Tilbud
 
-Her legger skolen inn sitt tilbud til elevene.
+Her legger skolen inn hva skolen kan tilby av linjer og fag for kommende skoleår.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2789dee3-e096-46d0-aa88-4333aeaf93c8)
 
-**_Tilbud for vagt skoleår:_**
+**_Tilbud for valgt skoleår:_**
 Her kan en velge data ut fra det skolen alt har lagt inn av Grunnlagsdata for gjeldende skoleår.
 
