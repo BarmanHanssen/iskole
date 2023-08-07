@@ -51,3 +51,6 @@ Her legger skolen inn sitt tilbud til elevene.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2789dee3-e096-46d0-aa88-4333aeaf93c8)
 
+Tilbud for vagt skoleår:
+Her kan en velge data ut fra det skolen alt har lagt inn av Grunnlagsdata for gjeldende skoleår.
+
