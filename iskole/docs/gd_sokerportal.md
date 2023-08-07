@@ -35,7 +35,7 @@ Hele skjemaet er som følgende:
 
 Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon. 
 
-## Informasjon til søkere
+### Informasjon til søkere
 
 _Personalia_: Søkerens navn, fødselsdata og epost må selvsagt inngå. Fullstendig liste over skolens krav legges inn her.
 _Søknad_: Her spesifiserer skolen saksgangen for søknadene. Vanligvis behandles søknadene etter søknadsfristen, og søknader sendt etter fristen behandles fortløpende.
@@ -45,12 +45,12 @@ Vitnemål og karakterer for inneværende skoleår må leveres skolen seinest ved
 
 _Interessenter_:
 
-### Tilbud
+## Tilbud
 
 Her legger skolen inn sitt tilbud til elevene.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2789dee3-e096-46d0-aa88-4333aeaf93c8)
 
-Tilbud for vagt skoleår:
+**_Tilbud for vagt skoleår:_**
 Her kan en velge data ut fra det skolen alt har lagt inn av Grunnlagsdata for gjeldende skoleår.
 
