@@ -7,7 +7,7 @@ Her er samlet en gruppe tabeller, de fleste kommer fra Utdanningsdirektoratet (U
 
 Registeret ble først utarbeidet for videregående skole. Men nå inneholder det også data for grunnskolen, og for Steinerskolen. 
 
-For å begrense hva som vises, kan en legge inn filter i raden over navnet på kolonnene.
+For å begrense hva som vises, kan en legge inn filter. Da vises rader som inneholder filteret i en eller flere av kolonnene som vises.
 
 #### _Utdaningsprogram_
 
