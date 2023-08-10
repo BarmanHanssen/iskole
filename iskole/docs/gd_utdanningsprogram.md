@@ -16,8 +16,9 @@ _Trinn_ angir hvile klassetrinn som skolen tilbyr. For videregående skole er de
 
 I skjermbildet over Studierspesialisering og Ungdomstrinnet alt lagt inn. Nå  er Barnetrinnet registrert, og klar for lagring.
 
-**I tidligere versjon av iSkole så det slik ut:**
 
+
+**I tidligere versjon av iSkole så det slik ut:**
 
 ![bilde](https://user-images.githubusercontent.com/10975905/174743687-9731c194-93b8-429a-b803-41966081a5e9.png)
 
