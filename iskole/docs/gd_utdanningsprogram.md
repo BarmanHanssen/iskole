@@ -3,9 +3,11 @@ id: gd_utdanningsprogram
 title: Utdanning
 sidebar_label: Utdanning
 ---
-_Utdanningsprogram_ er den mest generelle, og minst spesifikke måten, å tilkjennegi hvilke undervisningsopplegg som skolen tilbyr.
+_Utdanningsprogram_ er den mest generelle, og minst spesifikke måten, å tilkjennegi hvilke undervisningsopplegg som skolen tilbyr. Når en senere oppretter klasser skal en nærmere spesifisere 
 
-_Kode_ benyttes på timeplanen for å spesifisere studieretning, eksempelvis UT for ungdomstrinnet i grunnskolen, eller ST for studiespesialisering for videregående skole.
+_Kode_ benyttes på timeplanen for å spesifisere studieretning, eksempelvis UT for ungdomstrinnet i grunnskolen, eller ST for studiespesialisering for videregående skole. 
+
+_Internnavn_ benyttes i forbindelse med timeplanvisning.
 
 _Trinn_ angir hvile klassetrinn som skolen tilbyr. For videregående skole er det vanligvis fra 1 til 3, trinn 4 benyttes ofte for påbyggingsår.
 
