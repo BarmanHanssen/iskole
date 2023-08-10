@@ -8,7 +8,7 @@ Innledningsvis fås en oversikt over alle skoleår hvor skolen allerede har data
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/019d00d0-4cc3-4748-8edb-855f8747818a)
 
-Velges nå _+ Legg til_ kan en trekke veksler på tidligere innlagte data, i praksis fra forrige skoleår.
+Velges nå _+ Legg til_ kan en trekke veksler på tidligere innlagte data, i praksis fra forrige skoleår når nytt skoleår skal planlegges.
 
 Nedenfor følger teksten fra en tidligere versjon av i skole. Merk at vi nå benytter skoleår, men tidligere benyttet vi planperiode. 
 
