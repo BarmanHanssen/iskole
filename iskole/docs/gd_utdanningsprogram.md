@@ -3,7 +3,7 @@ id: gd_utdanningsprogram
 title: Utdanning
 sidebar_label: Utdanning
 ---
-_Utdanningsprogram_ er den mest generelle, og minst spesifikke måten, å tilkjennegi hvilke undervisningsopplegg som skolen tilbyr. Når en senere oppretter klasser skal en nærmere spesifisere 
+_Utdanningsprogram_ er den mest generelle, og minst spesifikke måten, å tilkjennegi hvilke undervisningsopplegg som skolen tilbyr. Når en senere oppretter en klasse skal en nærmere spesifisere opplegget ved å tilføye en programkode. 
 
 _Kode_ benyttes på timeplanen for å spesifisere studieretning, eksempelvis UT for ungdomstrinnet i grunnskolen, eller ST for studiespesialisering for videregående skole. 
 
