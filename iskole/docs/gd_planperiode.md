@@ -12,7 +12,8 @@ Velges nå _+ Legg til_ kan en trekke veksler på tidligere innlagte data, i pra
 
 **Nedenfor følger teksten fra en tidligere versjon av i skole. Merk at vi nå benytter skoleår, mens vi tidligere benyttet planperiode.** 
 
-Planperiode er et gitt tidsrom mellom mellom to datoer, her angitt som en Fradato og Tildato. For en skole er dette typisk et skoleår, fra 1. august og frem til 31. juli. Merk at dette representerer et kalenderår, ikke dato for når organsisert undervisning starter og siste skoledag. 
+_Planperiode:_ Tidsrom mellom mellom to datoer, her angitt som en Fradato og Tildato. For en skole er dette typisk et skoleår, fra 1. august og frem til 31. juli. En heltidsansatt avlønnes mellom disse datoer.  Datoene avgrenser vanligvis et kalenderår, ikke begrenset til når organsisert undervisning starter og fram til siste skoledag. 
+
 Detaljer om når det eksempelvis er skolestart og fridager registreres under _Skolerute_.
 
 Når en ny planperiode starter, vil data knyttet til forrige planperiode forbli upåvirket av hva som nå registreres av data. Hver planperiode inneholder alt som er blitt registrert i løpet av planperioden. Altså dato om når eleven starter (20. august(?), når han slutter (31. juli(!)), hvilke fag og resultater som er oppnådd, likeså all undervisning i form av timeplaner og lærere, etc. (Etter-registrering av data til en tidligere planperiode er selvsagt mulig.)
