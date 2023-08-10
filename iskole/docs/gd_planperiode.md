@@ -10,7 +10,7 @@ Innledningsvis fås en oversikt over alle skoleår hvor skolen allerede har data
 
 Velges nå _+ Legg til_ kan en trekke veksler på tidligere innlagte data, i praksis fra forrige skoleår når nytt skoleår skal planlegges.
 
-Nedenfor følger teksten fra en tidligere versjon av i skole. Merk at vi nå benytter skoleår, men tidligere benyttet vi planperiode. 
+**Nedenfor følger teksten fra en tidligere versjon av i skole. Merk at vi nå benytter skoleår, mens vi tidligere benyttet planperiode.** 
 
 Planperiode er et gitt tidsrom mellom mellom to datoer, her angitt som en Fradato og Tildato. For en skole er dette typisk et skoleår, fra 1. august og frem til 31. juli. Merk at dette representerer et kalenderår, ikke dato for når organsisert undervisning starter og siste skoledag. 
 Detaljer om når det eksempelvis er skolestart og fridager registreres under _Skolerute_.
