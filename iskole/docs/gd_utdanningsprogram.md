@@ -12,7 +12,7 @@ _Trinn_ angir hvile klassetrinn som skolen tilbyr. For videregående skole er de
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3cf8989c-4721-4ede-889f-26dd3ec60975)
 
-
+** I tidligere versjon av iSkole å det slik ut: 
 
 
 ![bilde](https://user-images.githubusercontent.com/10975905/174743687-9731c194-93b8-429a-b803-41966081a5e9.png)
