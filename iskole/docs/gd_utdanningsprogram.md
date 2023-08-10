@@ -12,7 +12,9 @@ _Internnavn_ benyttes i forbindelse med timeplanvisning.
 _Trinn_ angir hvile klassetrinn som skolen tilbyr. For videregående skole er det vanligvis fra 1 til 3, trinn 4 benyttes ofte for påbyggingsår.
 
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3cf8989c-4721-4ede-889f-26dd3ec60975)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2785df58-dedd-4832-ab66-2e0cccd89e04)
+
+I skjermbildet over Studierspesialisering og Ungdomstrinnet alt lagt inn. Nå  er Barnetrinnet registrert, og klar for lagring.
 
 **I tidligere versjon av iSkole så det slik ut:**
 
