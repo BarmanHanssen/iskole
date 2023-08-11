@@ -1,7 +1,7 @@
 ---
 id: gd_planperiode
-title: Planperiode
-sidebar_label: Planperiode
+title: Skoleår
+sidebar_label: Skoleår
 ---
 
 Innledningsvis fås en oversikt over alle skoleår hvor skolen allerede har data over blant annet elever og fag:
