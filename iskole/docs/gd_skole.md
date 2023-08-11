@@ -14,6 +14,6 @@ Benyttes på utskrift av vitnemål, og på rapporter etc.  Skolen kan også få 
 Øvrige data som kan legges inn benyttes kun der de blir etterspurt av mottaker, eksempelvis Lånekassen, Nasjonal Vitnemålsdatabase (NVB), og andre.
 
 Nederst finner vi denne:
-
+ 
 ### _Avdelinger_
 Man kan gruppere ansatte, eksempelvis i en realfags- og en språkfagseksjon, som avdelinger. Her opprettes lederen. De ansatte kan knyttes til en avdeling fra _Personal>Ansatt_ under fanen _Diverse_. Fra _Personal>Rapporter>Avdelinger_ kan en liste ut hvem som er leder, samt medlemmer i den enklete avdeling.
