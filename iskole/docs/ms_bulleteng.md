@@ -15,7 +15,7 @@ Når en ansatt logger seg på iSkole, vil bulletengen poppe opp som første skje
 :::
 
 #### Å opprette en bulleteng er flyttet til menyvalget _Tilgang>Mer_.
-Det er rektor eller administrator som kan legge til redaktører fra dette skjermbilde
+Det er rektor eller administrator som kan legge til redaktører fra dette skjermbilde:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/293458ca-c94a-4d2a-94a9-14cfed446f84)
 
