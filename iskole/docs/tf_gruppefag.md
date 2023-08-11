@@ -4,7 +4,6 @@ title: Gruppefag
 sidebar_label: Gruppefag
 ---
 
-## Gruppefag
 Her registreres hvilke grupper som skolen i år skal sette i gang. 
 
 ![bilde](https://user-images.githubusercontent.com/80097133/146365313-b46949b5-61f8-4b6a-aa46-de3c23f80f12.png)
@@ -26,16 +25,18 @@ Når ny gruppe registreres, vil  elevantallet  være null. Når elevene legges i
 Uketimer, registrert fra _Grunnlagsdata>Fag_, er gjerne fast gjennom hele skoleåret. Men timeplanlegger kan justere det på ukesbasis når timeplanen legges.
 
 ### Årstimer
-Fastsatt gjennom fagplanen, hentes fra fagkoderegisteret. Timeplanlegger må påse at faget får nok undervisningstid ut fra lagt timeplan.
+Totalt antall timer som skal timeplanlegges. Det er timeplanmleggers som må påse at faget får nok undervisningstid ut fra ferdiglagt timeplan. Årstimer kan avvike fra fagets omfang. Faget _Omfang_ er fastsatt i fagplanen, og er angitt i klokketimer. Dersom skolen har timelengde som ikke er på 60 minutter, vil timer på timeplanen (årstimer) kunne avvike fra fagets omfang. Det fins rapporter som summerer timer på timeplanen og gir svaret i klokketimer. 
 
 ### %
-Angir leseprosenten i faget, beregenet ut fra årstimer/årsramme registert på faget (fra _Grunnlagsdata>Fag_).
+Angir leseprosenten i faget, beregenet ut fra brøken årstimer/årsramme. Verdien på årstimer og årsramme er registert på faget, se _Grunnlagsdata>Fag_.
 
 ### Lærer
 Kortnavn som identifiserer lærerens hele navn. Brukes blant annet på timeplanen.
 
 ### Blokkid (vises ikke på figuren)
-Fag med likt blokkid timeplanlegges parallelt. Kan legges inn senere, og gjør det raskere å timeplanlegge gruppefagene. Se _Timeplan>Definer blokknr_.
+Fag med likt blokkid timeplanlegges parallelt. Bør, om mulig, legges inn før faglærer registreres.
+Fag med lik blokkid skal timeplanlegges på samme tid. Altså kan ikke to fag med lik blokkid ha samme lærer. iSkole sjekker at fag med likt blokkid ikke får samme lærer.
+
 
 ### Ekspander et fag
 
@@ -43,7 +44,7 @@ Vi får da frem alle ukene i planperioden, se eksemplet:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/146524656-64eb5121-788b-4d1a-916b-7f502f94f63a.png)
 
-Når en legger til en ny gruppe og gruppens lærer, blir læreren satt som lærer i hele planperioden. Dersom det i løpet av planperioden må sette inn en ny lærer (velg _Endre gruppe_), blir opprinnelig lærer likevel stående urørt, altså ikke erstatet med ny lærer eksempelvis i uke 34. Skjer lærerbyttet i uke 34, og skal gjelde ut skoleåret, må en gjøre endringen fra det ekspanderte bildet. Man markerer uke 34, holdlder Shift-tasten ned når siste uke i planperrioden markeres, Da kan ny lærer settes inn for hele perioden. 
+Når en legger til en ny gruppe og gruppens lærer, blir læreren satt som lærer i hele planperioden. Dersom det i løpet av skoleåret må sette inn en ny lærer (velg _Endre gruppe_), blir opprinnelig lærer likevel stående urørt, altså ikke erstatet med ny lærer eksempelvis i uke 34. Skjer lærerbyttet i uke 34, og skal gjelde ut skoleåret, må en gjøre endringen fra det ekspanderte bildet. Man markerer uke 34, holdlder Shift-tasten ned når siste uke i planperrioden markeres, Da kan ny lærer settes inn for hele perioden. 
 
 :::note Merk
 Dersom det er et vikariat (altså begrenset periode med annen lærer), kan menyvalget _Vikar i fag_ være et bedre alterntiv.
