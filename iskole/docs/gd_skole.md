@@ -11,16 +11,7 @@ Viser her bare første del av skjermbildet:
 _Skolens navn:_ 
 Benyttes på utskrift av vitnemål, og på rapporter etc.  Skolen kan også få lagt inn en logo (ta kontakt!) som vil vises i øvre venstre hjørne fra iSkole. 
 
-_Skolens navn - linje 2:_
-Thomas, kan du legge til
-teksten
-
-_Navn (kort):_
-Thomas, kan du legge til
-teksten
-
-
-Øvrige data som bør/skal legges inn benyttes kun der de blir etterspurt av mottaker, så som Lånekassen, Nasjonal Vitnemålsdatabase (NVB), og andre.
+Øvrige data som kan legges inn benyttes kun der de blir etterspurt av mottaker, eksempelvis Lånekassen, Nasjonal Vitnemålsdatabase (NVB), og andre.
 
 Nederst finner vi denne:
 
