@@ -8,7 +8,7 @@ Når undervisning i et fag har elever fra ulike klasser, klassifiseres faget som
 Dersom skolen ikke har gruppefag, kan man sette antall blokknr til 0. Uten gruppefag skal all undervisning i fag foregå i klassen med alle elevene samlet, og fagene er klassifisert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
 
 Gruppefag med samme blokknummer skal undervises på samme tid. Eksempelvis skal to gruppefag ha fem timer undervisning per uke og undervises parallelt. Vi gir da gruppene likt blokknumre. At gruppene har like blokknumre forteller altså at fagene skal undervises parallelt. Bruk av blokknummer gir oversikt over hvilke gruppefag som undervises på samme tid, uten å spesifisere når undervisningen finner sted. Med utgangspunkt i fagenes blokknummer går også timeplanleggingen av gruppefagene raskere.
-
+ 
 :::note Merk
 En detaljert gjennomgang av bruken av gruppefag finner du i dokumentasjonen _Timeplanlegging_. Den finner du oppe i høyre hjørne:
 
