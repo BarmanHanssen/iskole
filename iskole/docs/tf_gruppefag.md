@@ -15,6 +15,7 @@ I utgangspunktet er fagene merket med blå farge i kolonnen # hvilket betyr at f
 Når skolen har besluttet hvilke grupper som skal sette opp, kan man registrere alle grupper,  uten å legge inn andre data.
 
 For å opprette en gruppe klikker man på faget, deretter på ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e6ed7e2b-11a6-4cc0-80a8-dc60d13077ec)
+For å opprette en gruppe i ST2 BIO kan en her trykke direkte trykk Ok.
 Når et fag velges vil blåfargen bli erstattet med tallet 1 (standardverdi), noe som indikerer at en gruppe i faget opprettes. 
 Her er ID1: ekspandert (idrettsfag, vg1)
 Vi ser her at det er regisrtert hele tre grupper i ID1: BI. Hver gruppe har også registrert lærer. Man kan variere lærer uke for uke. Det gjøres ved å ekspandere gruppen. Læreren som står registrert på første linje blir automatisk satt opp som lærer for hele skoleåret, men det kan altså modifieress ved å sette inn annen lærer i utvalgte uker. Læreren som er oppført på første linje er fagansvarlig, og er den som skal føre inn termin/standpunkt-karakteren i faget.
