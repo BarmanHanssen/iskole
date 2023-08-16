@@ -18,9 +18,10 @@ For å opprette en gruppe klikker man på faget, eksempelvis ST2 BIO,, deretter 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/8c6982bb-864f-40fe-ab0a-f2aacd68132e)
 
 For å opprette en gruppe i ST2 BIO kan en her trykke direkte trykk Ok.
-Når et fag velges vil blåfargen bli erstattet med tallet 1 (standardverdi), noe som indikerer at en gruppe i faget opprettes. 
-Her er ID1: ekspandert (idrettsfag, vg1)
-Vi ser her at det er regisrtert hele tre grupper i ID1: BI. Hver gruppe har også registrert lærer. Man kan variere lærer uke for uke. Det gjøres ved å ekspandere gruppen. Læreren som står registrert på første linje blir automatisk satt opp som lærer for hele skoleåret, men det kan altså modifieress ved å sette inn annen lærer i utvalgte uker. Læreren som er oppført på første linje er fagansvarlig, og er den som skal føre inn termin/standpunkt-karakteren i faget.
+
+Når et fag velges vil blåfargen bli erstattet med tallet 1 (standardverdi), noe som indikerer at en gruppe i faget er opprettet. Vi kan altså opprette samtlig gruppefag som skal benyttes uten å gi noen tilleggsopplysninger. 
+
+Vi ser nå på hva som kan legges inn, og hva som automatisk følger med av data for det enkelte gruppefag.
 
 :::note Merk 
 Ressursfordelingen for faget ( se _Grunnlagsdata>Fag_. Årstime/Årsramme gir ressursen) gis til faglæreren som står oppført på første linje. Skal ressursen fordeles, må det korrigeres fra _Andre ressurser_. 
