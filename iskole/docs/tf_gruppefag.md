@@ -30,7 +30,7 @@ Ressursfordelingen for faget ( se _Grunnlagsdata>Fag_. Årstime/Årsramme gir re
 Dersom mer en en gruppe i et fag blir opprettet, må de silles ved gruppenummer. Vanligvis benyttes 1 og 2 dersom 2 grupper i faget opprettes. 
 
 ### Elevant
-Når ny gruppe registreres, vil  elevantallet  være null. Når elevene legges inn, fra _Elevadmin.>Fag_, og/eller ved at elevene selv velger fag, vil tallet avspeile hvor mange elever som er registrert i faget.
+Når ny gruppe registreres, vil  elevantallet  være null. Dersom skjermbildet tas opp senere, etter at elevene er plassert fra _Elevadmin.>Fag_, og/eller etter at elevene selv har valg gruppe, vil tallet avspeile hvor mange elever som er registrert i faget.
 
 ### Uketimer
 Uketimer, registrert fra _Grunnlagsdata>Fag_, er gjerne fast gjennom hele skoleåret. Men timeplanlegger kan justere det på ukesbasis når timeplanen legges.
