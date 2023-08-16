@@ -63,6 +63,9 @@ Dersom skolen også lar elevene selv velge gruppe, kan en elev ikke velge to fag
 
 Vi får da frem alle ukene i planperioden, se eksemplet:
 
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/30b601ba-5d4c-41b7-8ac6-379a3fd27845)
+
+
 
 Når en legger til en ny gruppe og gruppens lærer, blir læreren satt som lærer i hele planperioden. Dersom det i løpet av skoleåret må sette inn en ny lærer (velg _Endre gruppe_), registreres endringen her. Anta at lærerbyttet skjer i uke 34, og skal gjelde ut skoleåret. Man markerer uke 34, holdlder Shift-tasten ned  og marker siste uke for læreren. Merk at fagansvarlig (første linje) ikke endres automatisk, selv om lærerskiftet gjelder for resten av skoleåret.
 
