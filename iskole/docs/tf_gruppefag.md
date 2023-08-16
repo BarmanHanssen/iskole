@@ -6,7 +6,6 @@ sidebar_label: Gruppefag
 
 Her registreres hvilke grupper som skolen i år skal sette i gang. 
 
-![bilde](https://user-images.githubusercontent.com/80097133/146365313-b46949b5-61f8-4b6a-aa46-de3c23f80f12.png)
 
 Alle fag som er registrert fra _Grunnlagsdata>Gruppefag_ kommer med her. 
 I utgangspunktet er fagene merket med blå farge i kolonnen # hvilket betyr at faget ikke er utvalgt i år. For å opprette en gruppe klikker man på faget, deretter på ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e6ed7e2b-11a6-4cc0-80a8-dc60d13077ec)
@@ -57,6 +56,9 @@ Dersom undervisningen i faget skal styrkes med ekstra lærer(e), legges det inn 
 Alternativt kan en legge til/endre tolærer fra menyvalget _Tolærerfag_.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/146531536-c97961e5-415e-45dd-9727-5373c4f01c46.png)
+
+![bilde](https://user-images.githubusercontent.com/80097133/146365313-b46949b5-61f8-4b6a-aa46-de3c23f80f12.png)
+
 
 
 
