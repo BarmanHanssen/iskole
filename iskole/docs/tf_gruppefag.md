@@ -26,6 +26,7 @@ Vi ser nå på hva som kan legges inn, og hva som automatisk følger med av data
 :::note Merk 
 Ressursfordelingen for faget ( se _Grunnlagsdata>Fag_. Årstime/Årsramme gir ressursen) gis til faglæreren som står oppført på første linje. Skal ressursen fordeles, må det korrigeres fra _Andre ressurser_. 
 :::
+### # 
 
 ### Elevant
 Når ny gruppe registreres, vil  elevantallet  være null. Når elevene legges inn, fra _Elevadmin.>Fag_, og/eller ved at elevene selv velger fag, vil tallet avspeile hvor mange elever som er registrert i faget.
