@@ -81,8 +81,6 @@ Alternativt kan en legge til/endre tolærer fra menyvalget _Tolærerfag_.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/146531536-c97961e5-415e-45dd-9727-5373c4f01c46.png)
 
-![bilde](https://user-images.githubusercontent.com/80097133/146365313-b46949b5-61f8-4b6a-aa46-de3c23f80f12.png)
-
 
 
 
