@@ -6,7 +6,7 @@ sidebar_label: Gruppefag
 
 Her registreres hvilke grupper som skolen i år skal sette i gang. 
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/0d470190-e598-4b37-99ae-0fe7ae968eeb)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3cb02c74-b401-4917-838a-df6f115ffb52)
 
  
 Alle fag som er registrert fra _Grunnlagsdata>Gruppefag_ kommer med her. 
