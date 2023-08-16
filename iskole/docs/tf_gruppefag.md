@@ -14,7 +14,7 @@ I utgangspunktet er fagene merket med blå farge i kolonnen # hvilket betyr at f
 
 Når skolen har besluttet hvilke grupper som skal sette opp, kan man registrere alle grupper,  uten å legge inn andre data.
 
-For å opprette en gruppe klikker man på faget, deretter på ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e6ed7e2b-11a6-4cc0-80a8-dc60d13077ec)
+For å opprette en gruppe klikker man på faget, eksempelvis ST2 BIO,, deretter på ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e6ed7e2b-11a6-4cc0-80a8-dc60d13077ec)
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/8c6982bb-864f-40fe-ab0a-f2aacd68132e)
 
 For å opprette en gruppe i ST2 BIO kan en her trykke direkte trykk Ok.
