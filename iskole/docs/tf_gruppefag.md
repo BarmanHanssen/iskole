@@ -44,9 +44,19 @@ Angir leseprosenten i faget, beregenet ut fra brøken årstimer/årsramme. Verdi
 ### Lærer
 Kortnavn som identifiserer lærerens hele navn. Brukes blant annet på timeplanen.
 
+### Uke
+Omtales til slutt.
+
+### Fagkode og omfang
+Offiselle koder, benyttes på karakterutskrifter. Untak for fagkode 999999 som et fag, eller del av et annet fag, som skal timeplanlegges. 
+
+### Kostnadssted
+Kan benyttes dersom skolen også bruker iSkole til f.eks budsjettering/regnskap.
+
 ### Blokkid (vises ikke på figuren)
-Fag med likt blokkid timeplanlegges parallelt. Bør, om mulig, legges inn før faglærer registreres.
-Fag med lik blokkid skal timeplanlegges på samme tid. Altså kan ikke to fag med lik blokkid ha samme lærer. iSkole sjekker at fag med likt blokkid ikke får samme lærer.
+Fag med likt blokkid timeplanlegges parallelt. iSkole vil forhindre at fag med lik blokkid får samme lærer.
+
+Dersom skolen også lar elevene selv velge gruppe, kan en elev ikke velge to fag med samme blokkid.
 
 
 ### Ekspander et fag
