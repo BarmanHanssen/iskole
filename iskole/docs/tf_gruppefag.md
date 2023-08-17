@@ -27,7 +27,7 @@ Vi ser nå på hva som kan legges inn, og hva som automatisk følger med av data
 Ressursfordelingen for faget ( se _Grunnlagsdata>Fag_. Årstime/Årsramme gir ressursen) gis til faglæreren som står oppført på første linje. Skal ressursen fordeles, må det korrigeres fra _Andre ressurser_. 
 :::
 ### # (gruppenr)
-Dersom mer en en gruppe i et fag blir opprettet, må de silles ved gruppenummer. Vanligvis benyttes 1 og 2 dersom 2 grupper i faget opprettes. 
+Dersom mer en en gruppe i et fag blir opprettet, må de skilles ved gruppenummer. Vanligvis benyttes 1 og 2 dersom 2 grupper i faget opprettes. 
 
 ### Elevant
 Når ny gruppe registreres, vil  elevantallet  være null. Dersom skjermbildet tas opp senere, etter at elevene er plassert fra _Elevadmin.>Fag_, og/eller etter at elevene selv har valg gruppe, vil tallet avspeile hvor mange elever som er registrert i faget.
