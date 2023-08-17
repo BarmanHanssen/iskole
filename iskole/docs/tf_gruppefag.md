@@ -65,7 +65,7 @@ Vi får da frem alle ukene i planperioden, se eksemplet:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/30b601ba-5d4c-41b7-8ac6-379a3fd27845)
 
-Når en legger til gruppens lærer, blir læreren satt som lærer hele skoleåret. Dersom det i løpet av skoleåret må sette inn en ny lærer (velg _Endre gruppe_), registreres endringen her. Anta at lærerbyttet skjer i uke 34, og skal gjelde ut skoleåret. Man markerer uke 34, holdlder Shift-tasten ned  og marker siste uke for læreren. Merk at fagansvarlig (første linje) ikke endres automatisk, selv om lærerskiftet gjelder for resten av skoleåret. Og læreren som står på første linje får hele ressursen for faget! Eventuelle justeringer på ressurstildeling gjøres fra menyvalget _Andre ressurser_.
+Når en legger til gruppens lærer, blir læreren satt som lærer hele skoleåret. Dersom det i løpet av skoleåret må sette inn en ny lærer (velg _Endre gruppe_), registreres endringen her. Anta at lærerbyttet skjer i uke 34, og skal gjelde ut skoleåret. Man markerer uke 34, holdlder Shift-tasten ned  og marker siste uke for læreren. Merk at fagansvarlig (første linje) ikke endres automatisk, selv om lærerskiftet gjelder for resten av skoleåret. Og at læreren som står på første linje får hele ressursen for faget! Eventuelle justeringer på ressurstildeling gjøres fra menyvalget _Andre ressurser_.
 
 :::note Merk
 Dersom det er et vikariat (altså begrenset periode med annen lærer), kan menyvalget _Vikar i fag_ være et bedre alterntiv.
