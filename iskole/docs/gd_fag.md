@@ -16,13 +16,11 @@ Ved oppstart/planlegging av nytt skoleår bør du sjekke at ingen fag er gått u
 
 Klasse- og gruppefagene har de samme kolonnene.
 
-Fagene som kan tilordnes en klasse (se menyvalget _Klasse_) må være registrert her som klassefag. Hver klasse tildeles fag som alle elevene i klassen skal følge (avvik kan forekomme). Ved opptak blir en elev plassert i en klasse, og bare i en klasse, og blir regstrert som elev i alle klassens fag.
+Fagene som kan tilordnes en klasse (se menyvalget _Klasse_) må være registrert her som klassefag. Hver klasse tildeles fag som alle elevene i klassen skal følge (avvik kan forekomme). Ved opptak blir en elev plassert i en klasse, og bare i en klasse, og blir atumatisk tildelt alle klassens fag.
 
 Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis at elevene i klassen deles i mindre grupper i et klassefag,) kaller vi slike valgbare fag for gruppefag.
 
-Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik
-1: Elevene skal få en komplett timeplan uke for uke for hele skoleåret.
-2: Faglærere skal få en komplett timeplan uke for uke for hele skoleåret.
+Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at elevene skal få en komplett timeplan uke for uke for hele skoleåret, og tilsvarende for alle  faglærere.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148217099-db9f8d2c-d627-4a13-814a-ef3103f40efa.png)
 
