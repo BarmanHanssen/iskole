@@ -30,10 +30,10 @@ Klikker en på  _+Legg til_ når _Klassefag_ er markert får vi frem følgende b
 
 - _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget _Klassetrinn_.
 - _Navn (kort)_: Tre tegn som blant annet benyttes på timeplanen. Eksempel: NOR for faget norsk, kan brukes på alle trinn selv om faginnholdet er vidt forskjellig.
-- _Navn_: Dette navnet kommer frem på timeplanen. Merk at offisielt navn er navnet som er gitt ved fagkoden fra Udir, dette benyttes på karakterutskrifter etc.
-- _Timer_: Fag er oftes definert ut fra et ukentlig timetall. Norsk eksempelvis med 5 uketimer. Dette tallet er utgangspunktet for timeplanlegging av faget, men på timeplanen kan faget ha ulikt timetall fra den ene uken til den andre. Slike endringer gjøres direkte av timeplanlegger.
+- _Navn_: Dette navnet kommer frem under selve timeplanen. Merk at offisielt navn er gitt via fagkoden fra Udir, dette benyttes på karakterutskrifter etc.
+- _Timer_: Fag er oftes definert ut fra et ukentlig timetall. Norsk eksempelvis med 5 uketimer. Dette tallet er utgangspunktet for timeplanlegging av faget, men på timeplanen kan faget ha ulikt timetall fra den ene uken til den andre. Slike tilpasninger gjøres direkte av timeplanlegger.
 - _Rom_: Noe fag, eksempelvis kroppsøving, krever spesialrom. Da kan det være greit å knytte romet til faget her. Det innebærer at timeplanlegger får presentert dette rommet som førstevalg. Kan endres når faget timeplanlegges.
-- _Fagkode_: Alle fag i grunnskolen og i videregående skole, som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klar for bruk. Trykk _Endre_, så får du opp en overveldende lang liste! For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden. 
+- _Fagkode_: Alle fag i grunnskolen og i videregående skole som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klare for bruk. Trykk _Endre_, så får du opp en overveldende lang liste! For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden (eller deler av navn eller del av fagkoden). 
 
 :::note Merk 
 Steinerskolen fagkoder har RS som en del av fagkoden, altså xxRSxxx. Steinerskolene kan endre omfanget på disse fagene.
