@@ -22,14 +22,14 @@ Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis a
 
 Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at elevene skal få en komplett timeplan uke for uke for hele skoleåret, og tilsvarende for alle  faglærere.
 
-![bilde](https://user-images.githubusercontent.com/80097133/148217099-db9f8d2c-d627-4a13-814a-ef3103f40efa.png)
 
- # _+Legg til_
+ ### _+Legg til_
 Klikker en på  _+Legg til_ når _Klassefag_ er markert får vi frem følgende bilde (tilsvarende bilde for _Gruppefag_):
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2e81ab11-2b2f-47ff-942f-afeabca93d55)
 
 
+![bilde](https://user-images.githubusercontent.com/80097133/148217099-db9f8d2c-d627-4a13-814a-ef3103f40efa.png)
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148051512-459f58df-eb82-42dc-9084-2741a80e8c4d.png)
 
