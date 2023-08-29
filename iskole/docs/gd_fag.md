@@ -24,7 +24,8 @@ Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at elevene 
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148217099-db9f8d2c-d627-4a13-814a-ef3103f40efa.png)
 
-Klikker en på _+Legg til_ når _Klassefag_ er markert får vi frem følgende bilde (tilsvarende bilde for _Gruppefag_):
+ # _+Legg til_
+Klikker en på  _+Legg til_ når _Klassefag_ er markert får vi frem følgende bilde (tilsvarende bilde for _Gruppefag_):
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2e81ab11-2b2f-47ff-942f-afeabca93d55)
 
