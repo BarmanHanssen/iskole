@@ -39,6 +39,9 @@ Klikker en på  _+Legg til_ når _Klassefag_ er markert får vi frem følgende b
 Steinerskolen fagkoder har RS som en del av fagkoden, altså xxRSxxx. Steinerskolene kan endre omfanget på disse fagene.
 :::
 
+
+-------------------
+
 - _Komponent av_: Enkelte fag  er så omfattende at det er hensiktsmessig å dele det i flere komponenter. Bare fag med fagkoden 999999 kan være en komponent av et annet fag. Hver komponent skal ha egen lærer, men kun lærer som er fagansvarlig (eieren av komponenten(e)) kan føre inn terminkarakterer. 
 Fag som skal timeplanelegges, og som ikke skal ha egen vurdering (eksempelvis Klassens time), skal ha fagkoden til 999999, og er ikke komponent til noe annet fag.
 
