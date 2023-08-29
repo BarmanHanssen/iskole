@@ -28,7 +28,6 @@ Klikker en på  _+Legg til_ når _Klassefag_ er markert får vi frem følgende b
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2e81ab11-2b2f-47ff-942f-afeabca93d55)
 
-
 - _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget _Klassetrinn_.
 - _Navn (kort)_: Tre tegn som blant annet benyttes på timeplanen. Eksempel: NOR for faget norsk, kan brukes på alle trinn selv om faginnholdet er vidt forskjellig.
 - _Navn_: Dette navnet kommer frem på timeplanen. Merk at offisielt navn er navnet som er gitt ved fagkoden fra Udir, dette benyttes på karakterutskrifter etc.
