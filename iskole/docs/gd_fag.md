@@ -8,11 +8,6 @@ Her starter det:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a3738e48-fd7b-4bf1-a113-97a5c4aa6c08)
 
-
-
-
-![bilde](https://user-images.githubusercontent.com/80097133/148050893-fbad2df0-8c63-447f-b20a-b795b568995d.png)
-
 ## Klassefag og Gruppefag
 
 :::note Tips
