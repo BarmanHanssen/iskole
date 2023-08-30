@@ -11,7 +11,7 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 
 Kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget _Fagklasse_.
 
-
+### +Legg til...
 ![image](https://user-images.githubusercontent.com/80097133/120978053-5ae4a600-c774-11eb-9014-eacd0c1493cd.png)
 
 - _Klassetrinn_: I nedtrekkslisten finner du alle klassetrinn som er lagt inn fra menyvalget _Klassetrinn_
