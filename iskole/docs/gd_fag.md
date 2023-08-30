@@ -11,16 +11,16 @@ Her starter det:
 ## Klassefag og Gruppefag
 
 :::note Tips
-Ved oppstart/planlegging av nytt skoleår bør du sjekke at ingen fag er gått ut på dato. Kontoller ved å velge _Utgåtte fagkode_, se omtale nederst på siden.
+Har du fag markert med rød farge, velg da _Utgåtte fagkode_ for å oppdatere, se omtale nederst på siden.
 :::
 
 Klasse- og gruppefagene har de samme kolonnene.
 
-Fagene som kan tilordnes en klasse (se menyvalget _Klasse_) må være registrert her som klassefag. Hver klasse tildeles fag som alle elevene i klassen skal følge (avvik kan forekomme). Ved opptak blir en elev plassert i en klasse, og bare i en klasse, og blir atumatisk tildelt alle klassens fag.
+Fagene som kan tilordnes en klasse (se menyvalget _Klasse_) må være registrert her som klassefag. Hver klasse tildeles fag som alle elevene i klassen skal følge (avvik kan forekomme). Ved opptak blir en elev plassert i en klasse, og bare i en klasse, og blir automatisk tildelt alle klassens fag.
 
-Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis at elevene i klassen deles i mindre grupper i et klassefag,) kaller vi slike valgbare fag for gruppefag.
+Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis at elevene i klassen deles i mindre grupper i et klassefag,) klassifiseres  slike valgbare fag som gruppefag.
 
-Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at elevene skal få en komplett timeplan uke for uke for hele skoleåret, og tilsvarende for alle  faglærere.
+Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at elevene skal få en personlig komplett timeplan uke for uke for hele skoleåret, og tilsvarende for alle  faglærere.
 
 
  ### _+Legg til_
