@@ -7,7 +7,7 @@ sidebar_label: Klasse
 Når klassetrinn er registrert (se _Utdanningsprogram_), kan man spesifisere hvilke klasser skolen skal ha på det enkelte utdanningsprogram i denne planperioden. For store skoler vil det kunne være flere klasser på hvert klassetrinn. 
 
 Eksempel fra skole hvor fagene allerede er lagt til:
-![image](https://user-images.githubusercontent.com/80097133/120977450-a34f9400-c773-11eb-854c-e8e151744a40.png)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/29fd7cd2-4d27-4d77-855b-dd9fbc247d6c)
 
 Kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget _Fagklasse_.
 
