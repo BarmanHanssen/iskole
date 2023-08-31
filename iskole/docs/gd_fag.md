@@ -69,9 +69,11 @@ Her vises både klasse- og grupppefag samlet. Merk at muligheten til å sortere 
 
 ### Utgåtte fagkoder
 
-Man bør alt ved opprettelse av neste planperiode undersøke om noen av fagene utgår/skal ha ny fagkode!. Dersom dette først fanges opp etter skolestart, kan komplikasjoner oppstå når det da skal korrigeres.
+Ved opprettelse av neste planperiode er det naturlig å kopiere grunnlagsdata fra et tidligere skoleår. Da kan det hende at en fagkode som var gyldig da nå er gått ut på dato. En slik fagkode vil markeres med rød farge, noe som markerer at den må erstattes.
 
-![bilde](https://user-images.githubusercontent.com/80097133/148227777-d2027624-be2f-4743-b5cc-2d258dfc011f.png)
+
+undersøke om noen av fagene utgår/skal ha ny fagkode!. Dersom dette først fanges opp etter skolestart, kan komplikasjoner oppstå når det da skal korrigeres.
+
 
 Velg først _Oppdater fagkoderegister_! Da blir eventuelle nye fag fra UDIR lastes ned, og være klare for bruk.
 
