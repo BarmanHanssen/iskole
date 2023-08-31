@@ -1,4 +1,4 @@
----
+er---
 id: gd_fag
 title: Fag
 sidebar_label: Fag
@@ -69,12 +69,7 @@ Her vises både klasse- og grupppefag samlet. Merk at muligheten til å sortere 
 
 ### Utgåtte fagkoder
 
-Ved opprettelse av neste planperiode er det naturlig å kopiere grunnlagsdata fra et tidligere skoleår. Da kan det hende at en fagkode som var gyldig da nå er gått ut på dato. En slik fagkode vil markeres med rød farge, noe som markerer at den må erstattes.
+Ved opprettelse av neste planperiode er det naturlig å kopiere grunnlagsdata fra et tidligere skoleår. Da kan det hende at en fagkode som var gyldig da nå er gått ut på dato. En slik fagkode vil markeres med rød farge, noe som indikerer at den bør skifts ut.
 
+Velges _Utgåtte fagkoder_ får vi frem en liste over både klasse- og gruppefag som er gått ut på dato. Fagets utgåtte fagkode kan da automatisk erstattes av ny fagkode dersom ny fagkode er oppgitt.
 
-undersøke om noen av fagene utgår/skal ha ny fagkode!. Dersom dette først fanges opp etter skolestart, kan komplikasjoner oppstå når det da skal korrigeres.
-
-
-Velg først _Oppdater fagkoderegister_! Da blir eventuelle nye fag fra UDIR lastes ned, og være klare for bruk.
-
-_Kjør kontroll mot UDIR_: Tabellen viser fagkoder som er utgått, eller er vil utgå innen planperiodens utløp. Fag med allerede utgåtte fagkoder kan trygt slettes, eller få endret fagkoden. Husk å kontrollere både  _Klassefag_ og _Gruppefag_!.
