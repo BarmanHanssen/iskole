@@ -124,6 +124,18 @@ Man kan hoppe direkte til en publiseringsstatus ved å klikke på den
 :::
 
 #### Vis IOP del 1
+Her fyller IOP-ansvarlig ut overordnet informasjon om IOPen.
+- Ingår IOPen i en helhetlig individuell plan (IP) etter helselovgivningen?
+- Grunnlagsdokumenter
+- Skolens pedagogiske karlegging, faglig/sosialt
+- Mål med opplæringen (Studiekompetanse, yrkeskompetanse eller grunnkompetanse)
+- Langsiktig plan for opplæringen. (Hvilke år skal eleven ta de ulike skoletrinnene?)
+- Eventuell utvidelse av opplæringstiden på bakgrunn av ny sakkyndig vurdering
+- Spesialundervisning dette opplæringsåret. (Fag med Innhold, omfang og organisering)
+- Rammefaktorer
+- Samarbeidspartnere, interne og eksterne
+- Annet
+- Tidspunkt for evaluering av gjennomført opplæring og elevens utvikling
 
 
 ### Logg
