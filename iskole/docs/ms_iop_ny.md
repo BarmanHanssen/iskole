@@ -18,7 +18,7 @@ iSkole kan benyttes for å håndtere hele søknadsprosessen i forbindelse med IO
 10. Skolen skriver årsrapport og sender denne til fylket/kommunen.
 
 :::info Merk
-Det er mulig å kun benytte deler av den beskrevne flyten. F.eks. kan man gå direkte til punkt 5 og kun registrere vedtaket og gjøre IOP-dokumentasjonen på iSkole.
+Det er mulig kun å benytte deler av den beskrevne flyten. F.eks. kan man gå direkte til punkt 5 og kun registrere vedtaket og gjøre IOP-dokumentasjonen på iSkole.
 :::
 
 ## Roller og tilganger
@@ -78,10 +78,26 @@ Du laste ned søknaden så mange ganger du måtte ønske, så du kan trygt slett
 ## Elevens IOP {#elev_iop}
 For å jobbe med elevens IOP klikker du på øyet i kolonnen _Vis_ helt til venstre på raden til eleven.
 Beskrivelse av skjermbildet:
-- _IOP-Dokumenter_ er dokumenter skolen har lastet opp. Vises kun for IOP-administratorer.
-- _IOP del 1 - Elevnavn_ Opprette/endre IOP-del 1 og visning/endring av IOPens status.
-- _Logg_ viser logg hvor skolen kan legge inn fritekst.
-- _IOP del 2 -Elevnavn_ Elevens fag med fagstatus _Spesialundervisning_ inkl. status for lærerens arbeid.
-- _Vedlegg til kompetansebevis_ Opplysningene som registreres her vil være grunnlaget for vedlegget som skal følge elevens kompetansebevis.
+- **_IOP-Dokumenter_** er dokumenter skolen har lastet opp. Vises kun for IOP-administratorer.
+- **_IOP del 1 - Elevnavn_** Opprette/endre IOP-del 1 og visning/endring av IOPens status.
+- **_Logg_** viser logg hvor skolen kan legge inn fritekst.
+- **_IOP del 2 -Elevnavn_** Elevens fag med fagstatus _Spesialundervisning_ inkl. status for lærerens arbeid.
+- **_Vedlegg til kompetansebevis_** Opplysningene som registreres her vil være grunnlaget for vedlegget som skal følge elevens kompetansebevis.
 
 
+### IOP-Dokumenter
+
+#### Slette dokumenter
+IOP-ansvarlig har en kolonne _Valg_ til høyre i tabellen. Klikk på ... og velg _Slett_. En dialog vil vises og man må bekrefte at man virkelig ønsker å slette dokumentet. 
+
+:::info Merk
+Dersom dokumentet er knyttet til elevens IOP-søknad, må man først gå til søknaden og fjerne dokumentet fra søknaden.
+:::
+
+### IOP del 1
+
+### Logg
+
+### IOP del 2
+
+### Vedlegg til kompetansebevis
