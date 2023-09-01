@@ -31,11 +31,12 @@ Faglærere kan hoppe til avsnittet for [Elevens IOP](#elev_iop)
 ## Opprett søknad for elev
 ### Legg til ny elevsøknad om IOP
 Ny elev registreres ved å klikke _Legg til elevsøknad_. Et dialogvindu viser alle elever ved skolen som ikke er registrert med en IOP allerede. Du kan søke etter eleven du ønsker å legge til ved å benytte filteret over tabellen. Klikk på _Legg til_ bak eleven for å registrere søknad for denne eleven.
+
 ### Fyll inn informasjon til søknaden
 Skriv inn opplysninger om sakkyndig vurdering, elevens mål med opplæringen, fagene det søkes IOP for og eventuelt andre opplysninger. Fag legges til ved å klikke _Legg til_ over tabellen _Tilrådning om spesialundervisning_. Dokumenter som skal være vedlegg til søknaden lastes opp ved å klikke _Legg til_ over tabellen _Elevens IOP-dokumenter (Alle år)_. Du kan enten velge som allerede er knyttet til elevens IOP, eller laste opp et nytt dokument. Dokumentet vil bli en del av søknaden som sendes til fylket/kommunen. Dokumentet må være på PDF-format for å flettes inn med resten av søknaden. Dokumenter som lastes opp til søkanden vil også bli tilgengelig under _Dokumenter_ på elevens IOP.
 
 :::info Merk
-Listen over fag inneholder alle fag eleven er registrert med.
+Listen over fag inneholder alle fag eleven er registrert med i _Elevadmin > Fag_.
 :::
 
 :::info Merk
@@ -51,50 +52,64 @@ Dokumentene må være i PDF-format.
 vises.
 
 ### Gjøre endringer på søknaden
-Hvis man senere vil gjøre endring på søknaden klikker man på blyanten i kolonnen _Behandle søknad_ i tabellen _Elever_. Kun IOP-ansvarlige har tilgang til denne kolonnen.
+Hvis man senere vil gjøre endring på søknaden klikker man på blyanten i kolonnen _Behandle søknad_ i tabellen _Elever_. Kun IOP-ansvarlige ser denne kolonnen.
 
 ### Godkjenning fra elev og foreldre
-Når søknaden er ferdig utfylt må den godkjennes av eleven eller forelder av elever som ikke er myndig. De får tilgang til søknaden ved at skolen klikker på knappen _Publiser_ i dialogvinduet for behandling av elevens søknad.
+Når søknaden er ferdig utfylt kan søknaden gjøres tilgjengelig for eleven og foreldrene ved at skolen klikker på knappen _Publiser_ i dialogvinduet for behandling av elevens søknad. Eleven eller foreldrene til umyndige elever må godkjenne at søknad om IOP sendes til fylket/kommunen. Det er ikke mulig å legge elevens søknad til skolens søknad før godkjenningen er gjort.
+
 :::info Merk
 Frem til søknaden er godkjent vil det fortsatt være mulig å gjøre endringer. Etter den er godkjent vil endringer kun være mulig ved å klikke _Åpne søknad_. Da må den godkjennes på nytt.
 :::
 
 ### Godkjenning/avslag fra fylket/kommunen
-Når skolen får tilbake vedtaket registreres eventuell godkjenning eller avslag i dialogvinduet for søknaden. Før dette må det sendes en samlet søknad fra skolen til fylke/kommune. Se _Send søknad til fylke/kommune_.
+Når skolen får tilbake vedtaket registreres eventuell godkjenning eller avslag i dialogvinduet for søknaden. Før dette må det sendes en samlet søknad fra skolen til fylke/kommune. Se [Opprett søknad for skolen](#soknad_skole).
 
-## Opprett søknad for skolen
-Valgene beskrevet i dette kapittelet er tilgjengelig i fanen Søknader. De søknadene som er blitt godkjent av elever eller foreldre kan legges til skolens samlede søknad. Dersom skolen skal søke til flere fylker / kommuner kan det opprettes en søknad til hvert fylke/kommune.
+## Opprett søknad for skolen {soknad_skole}
+Valgene beskrevet i dette kapittelet vises ved å klikke på _Administrer skolens søknader_. De søknadene som er blitt godkjent av elever eller foreldre kan legges til skolens samlede søknad. Dersom skolen skal søke til flere fylker / kommuner kan det opprettes en søknad til hvert fylke/kommune.
 
 ### Legg til skolesøknad
-Klikk Legg til over tabellen _Søknader_. Inntil videre er det ikke behov for å gjøre noe i dette dialogvinduet. Klikk OK.
+Etter å ha klikket _Administrer skolens søknader_, klikk _Legg til_ over tabellen _Skolens IOP-søknader_. Gi søknaden et navn f.eks. _Viken fylkeskommune_ og klikk _Lagre_.
+
 ### Legg elever til søknaden
-Marker søknaden du ønsker å knytte elever til i tabellen _Søknader_. Klikk deretter knappen Legg til over tabllen Elever knyttet til søknaden. Du kan markere flere elever ved å holde inne _Crtl-_ eller shifttasten samtidig som du klikker på elevene. Alternativt _Ctrl+A_ for å velge alle. Avslutt med _OK_.
+Marker søknaden du ønsker å knytte elever til. Klikk deretter knappen _Legg til elevsøknad_. Et dialogvindu viser alle elever sok har godkjent at skolen sender IOP-søknad og som ikke allerede er tilknyttet søknaden. Klikk _Legg til_ bak elevens navn for å legge eleven til skolens søknad. Tips: Du kan søke etter elever i filteret over listen.
+
 ### Skrive ut søknadene med vedlegg
-I tabellen _Søknader_ klikk på blyanten i kolonnen _Behandle_ på raden til søknaden du ønsker å skrive ut. Klikk _Generer og vis søknadsdokument_. En PDF-fil blir lastet ned til din maskin. Denne inneholder alle tilknyttede søknader og eventuelle vedlegg. Når søknaden er skrevet ut og sendt til fylket/kommunen kan du registrere dato i feltet _Sendt_. 
+I tabellen med skolens IOP-søknader, klikk _Last ned søknad_ på raden til søknaden du ønsker å skrive ut. En PDF-fil blir lastet ned til din maskin. Denne inneholder alle tilknyttede søknader og eventuelle vedlegg. Når søknaden er skrevet ut og sendt til fylket/kommunen kan du registrere dato i feltet _Sendt_. 
+
 :::tip Tips
-Du laste ned søknaden så mange ganger du måtte ønske, så du kan trygt slette eventuelle nedlastinger på din maskin. Hvis vil gjøre endringer kan du gjøre ønskede endringer og laste ned søknaden på nytt. Når datoen er satt i feltet _Sendt_ vil det ikke være mulig å legge til/fjerne elever fra søknaden eller endre elevenes søknad.
+Du laste ned søknaden så mange ganger du måtte ønske, så du kan trygt slette eventuelle nedlastinger på din maskin. Hvis vil gjøre endringer kan du gjøre ønskede endringer og laste ned søknaden på nytt. Når søknaden er sendt kan du sette inn datoen i feltet _Sendt_. Det er ikke være mulig å legge til/fjerne elever fra søknaden eller endre elevenes søknad når dato er satt.
 :::
 
 ## Elevens IOP {#elev_iop}
 For å jobbe med elevens IOP klikker du på øyet i kolonnen _Vis_ helt til venstre på raden til eleven.
 Beskrivelse av skjermbildet:
-- **_IOP-Dokumenter_** er dokumenter skolen har lastet opp. Vises kun for IOP-administratorer.
-- **_IOP del 1 - Elevnavn_** Opprette/endre IOP-del 1 og visning/endring av IOPens status.
-- **_Logg_** viser logg hvor skolen kan legge inn fritekst.
-- **_IOP del 2 -Elevnavn_** Elevens fag med fagstatus _Spesialundervisning_ inkl. status for lærerens arbeid.
-- **_Vedlegg til kompetansebevis_** Opplysningene som registreres her vil være grunnlaget for vedlegget som skal følge elevens kompetansebevis.
+- **IOP-Dokumenter** er dokumenter skolen har lastet opp. Vises kun for IOP-administratorer.
+- **IOP del 1 - Elevnavn** Opprette/endre IOP-del 1 og visning/endring av IOPens status.
+- **Logg** viser logg hvor skolen kan legge inn fritekst.
+- **IOP del 2 -Elevnavn** Elevens fag med fagstatus _Spesialundervisning_ inkl. status for lærerens arbeid.
+- **Vedlegg til kompetansebevis** Opplysningene som registreres her vil være grunnlaget for vedlegget som skal følge elevens kompetansebevis.
 
+:::tip Tips
+I stedet for å gå tilbake til elevlisten for å velge en ny elev kan man velge elever fra nedtrekklisten på toppen av siden.
+:::
 
 ### IOP-Dokumenter
-
-#### Slette dokumenter
+Dokumentene kan deles i to kategorier, dokumenter som er lastet opp til iSkole og dokumenter som genereres av iSkole basert på data som skolen har registrert.
+#### Dokumenter lastet opp til iSkole.
+Disse dokumentene vises i tabellen. IOP-ansvarlig avgjør hvilke dokumenter som skal være synlig for faglærere. Dokumentets tittel og synlighet kan angis ved opplasting eller senere endres ved å klikke på ... i kolonnen _Valg_ og velge _Endre_. Faglærere vil kun ha valget _Last ned_.
+##### Slette dokumenter
 IOP-ansvarlig har en kolonne _Valg_ til høyre i tabellen. Klikk på ... og velg _Slett_. En dialog vil vises og man må bekrefte at man virkelig ønsker å slette dokumentet. 
 
 :::info Merk
 Dersom dokumentet er knyttet til elevens IOP-søknad, må man først gå til søknaden og fjerne dokumentet fra søknaden.
 :::
 
-### IOP del 1
+#### Dokumenter som genereres av iSkole.
+- **IOP** Inneholder overordnet mål for IOP ([IOP del 1](#iop_del_1)), overordnet plan for de enkelte fag, samt kompetansemål, læringsmål og innhold for hvert enkelt fag.
+- **Vurdering 1. halvår** Inneholder vurdering av elevens utvikling og elevens videre utviklingsmuligheter i det enkelte fag.
+- **Årsrapport** Inneholder overordnet oversikt over opplæringen eleven har fått i de ulike fag, overordnet vurdering av undervisningne som er gitt, behov for videre IOP samt årsvurderingen i det enkelte fag.
+
+### IOP del 1 {iop_del 1}
 
 ### Logg
 
