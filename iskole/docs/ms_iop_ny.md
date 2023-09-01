@@ -1,5 +1,5 @@
 ---
-id: ms_iop-ny
+id: ms_iop_ny
 title: IOP (Under utarbeidelse)
 sidebar_label: IOP
 ---
