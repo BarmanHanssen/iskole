@@ -110,6 +110,21 @@ Dersom dokumentet er knyttet til elevens IOP-søknad, må man først gå til sø
 - **Årsrapport** Inneholder overordnet oversikt over opplæringen eleven har fått i de ulike fag, overordnet vurdering av undervisningne som er gitt, behov for videre IOP, samt årsvurderingen i det enkelte fag.
 
 ### IOP del 1 {#iop_del_1}
+Før man har opprettet IOP del 1 vises en stor knapp _Opprett IOP del 1_. Når man klikker på denne knappen og IOP del 1 blir opprettet vises publiseringsstatusen for IOPen, samt knapper for å vise og endre IOP del 1 og for å skrive årsrapport.
+
+#### Publiseringsstatus
+1. Under utarbeidelse - Elevene vises bare i listen til IOP-ansvarlig
+2. Publisert faglærere - Elevene vises for faglærere og de kan starte sitt arbeid med IOP del 2.
+3. Publisert elev og foreldre - IOP-dokumenter, IOP del 1 og kompetansemål, læringsmål og innhold i del 2 vises for eleven og foreldrene.
+4. Publisert vurdering 1. halvår - Vurderingen som faglærerne legger inn på hvert fag bli synlig for eleven og foreldrene.
+5. Publisert årsrapport. - Årsrapporten med vurderinger blir synlig for eleven og foreldrene.
+
+:::tip Tips
+Man kan hoppe direkte til en publiseringsstatus ved å klikke på den
+:::
+
+#### Vis IOP del 1
+
 
 ### Logg
 
