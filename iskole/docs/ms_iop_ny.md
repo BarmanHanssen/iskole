@@ -64,7 +64,7 @@ Frem til søknaden er godkjent vil det fortsatt være mulig å gjøre endringer.
 ### Godkjenning/avslag fra fylket/kommunen
 Når skolen får tilbake vedtaket registreres eventuell godkjenning eller avslag i dialogvinduet for søknaden. Før dette må det sendes en samlet søknad fra skolen til fylke/kommune. Se [Opprett søknad for skolen](#soknad_skole).
 
-## Opprett søknad for skolen {soknad_skole}
+## Opprett søknad for skolen {#soknad_skole}
 Valgene beskrevet i dette kapittelet vises ved å klikke på _Administrer skolens søknader_. De søknadene som er blitt godkjent av elever eller foreldre kan legges til skolens samlede søknad. Dersom skolen skal søke til flere fylker / kommuner kan det opprettes en søknad til hvert fylke/kommune.
 
 ### Legg til skolesøknad
@@ -109,7 +109,7 @@ Dersom dokumentet er knyttet til elevens IOP-søknad, må man først gå til sø
 - **Vurdering 1. halvår** Inneholder vurdering av elevens utvikling og elevens videre utviklingsmuligheter i det enkelte fag.
 - **Årsrapport** Inneholder overordnet oversikt over opplæringen eleven har fått i de ulike fag, overordnet vurdering av undervisningne som er gitt, behov for videre IOP, samt årsvurderingen i det enkelte fag.
 
-### IOP del 1 {#iop_del 1}
+### IOP del 1 {#iop_del_1}
 
 ### Logg
 
