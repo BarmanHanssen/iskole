@@ -105,11 +105,11 @@ Dersom dokumentet er knyttet til elevens IOP-søknad, må man først gå til sø
 :::
 
 #### Dokumenter som genereres av iSkole.
-- **IOP** Inneholder overordnet mål for IOP ([IOP del 1](#iop_del_1)), overordnet plan for de enkelte fag, samt kompetansemål, læringsmål og innhold for hvert enkelt fag.
+- **IOP** Inneholder overordnet mål for IOP ([se IOP del 1](#iop_del_1)), overordnet plan for de enkelte fag, samt kompetansemål, læringsmål og innhold for hvert enkelt fag.
 - **Vurdering 1. halvår** Inneholder vurdering av elevens utvikling og elevens videre utviklingsmuligheter i det enkelte fag.
-- **Årsrapport** Inneholder overordnet oversikt over opplæringen eleven har fått i de ulike fag, overordnet vurdering av undervisningne som er gitt, behov for videre IOP samt årsvurderingen i det enkelte fag.
+- **Årsrapport** Inneholder overordnet oversikt over opplæringen eleven har fått i de ulike fag, overordnet vurdering av undervisningne som er gitt, behov for videre IOP, samt årsvurderingen i det enkelte fag.
 
-### IOP del 1 {iop_del 1}
+### IOP del 1 {#iop_del 1}
 
 ### Logg
 
