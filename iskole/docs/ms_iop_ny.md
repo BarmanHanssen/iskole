@@ -24,6 +24,9 @@ Det er mulig å kun benytte deler av den beskrevne flyten. F.eks. kan man gå di
 ## Roller og tilganger
 I IOP-behandlingen skilles det i hovedsak mellom IOP-ansvarlig og faglærere. IOP-ansvarlig har full tilgang til alle funksjoner. De oppretter søknader og IOP og bestemmer når faglærerne og elever/foreldre skal få tilgang til elevens IOP. Rollen som IOP-administrator tildeles av rektor eller administrator fra _Mine sider > Tilgang_. Tilgang til elevens IOP tildeles automatisk til alle lærere som har eleven i minst ett fag. Eleven trenger ikke å ha IOP i faglærerens fag for at faglæreren skal få tilgang. Faglærer har ikke mulighet til å laste ned dokumenter, med unntak av dokumenter IOP-administratoren har gjort synlig for faglærere. Faglærere har kun leserettighet på elevens IOP del 1. For IOP del 2 har man leserettighet på alle fag. For egne fag har man også skriverettighet.
 
+:::tip Faglærere
+Faglærere kan hoppe til avsnittet for [Elevens IOP](#elev_iop)
+:::
 
 ## Opprett søknad for elev
 ### Legg til ny elevsøknad om IOP
@@ -72,7 +75,7 @@ I tabellen _Søknader_ klikk på blyanten i kolonnen _Behandle_ på raden til s�
 Du laste ned søknaden så mange ganger du måtte ønske, så du kan trygt slette eventuelle nedlastinger på din maskin. Hvis vil gjøre endringer kan du gjøre ønskede endringer og laste ned søknaden på nytt. Når datoen er satt i feltet _Sendt_ vil det ikke være mulig å legge til/fjerne elever fra søknaden eller endre elevenes søknad.
 :::
 
-## Elevens IOP
+## Elevens IOP {#elev_iop}
 For å jobbe med elevens IOP klikker du på øyet i kolonnen _Vis_ helt til venstre på raden til eleven.
 Beskrivelse av skjermbildet:
 - _IOP-Dokumenter_ er dokumenter skolen har lastet opp. Vises kun for IOP-administratorer.
