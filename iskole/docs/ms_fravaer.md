@@ -15,6 +15,7 @@ Dette menyvalget inneholder fagfravær, egenmeldinger, klager, heldagsprøver, f
 - S = For sent til timen
 - M = Møtt
 
+Grønt fravær er registert som dokumentert i henhold til Udirs reglement. Fravær som er blått har innmeldt årsak, enten gjennom egenmelding eller registert av læreren. Rødt fravær har ingen årsak.
 :::
 
 ### Fagfravær
