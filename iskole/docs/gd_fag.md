@@ -18,7 +18,7 @@ Klasse- og gruppefagene har de samme kolonnene.
 
 Fagene som kan tilordnes en klasse (se menyvalget _Klasse_) må være registrert her som klassefag. Hver klasse tildeles fag som alle elevene i klassen skal følge (avvik kan forekomme). Ved opptak blir en elev plassert i en klasse, og bare i en klasse, og blir automatisk tildelt alle klassens fag.
 
-Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis at elevene i klassen deles i mindre grupper i et klassefag,) klassifiseres  slike valgbare fag som gruppefag. Eleven kan kun velge/plasseres i gruppefag som er klargjort fra _Time- og fagfordeling>Gruppefag_. Skolen kan la elevene selv velge gruppefag, eller elevene kan plasseres i fag av skolen.
+Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis at elevene i klassen deles i mindre grupper i et klassefag,) klassifiseres  slike valgbare fag som gruppefag. Eleven kan kun velge/plasseres i gruppefag som er registrert her og som deretter er klargjort fra _Time- og fagfordeling>Gruppefag_. Ut fra de gruppene som er satt opp fra _Time- og fagfordeling>Gruppefag_ kan  elevene selv velge gruppefag, eller elevene kan plasseres i fag av skolen. 
 
 Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at elevene skal få en personlig komplett timeplan uke for uke for hele skoleåret, og tilsvarende for alle  faglærere.
 
