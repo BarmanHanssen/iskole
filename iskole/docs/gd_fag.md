@@ -11,7 +11,7 @@ Her starter det:
 ## Klassefag og Gruppefag
 
 :::note Tips
-Har du fag markert med rød farge, velg da _Utgåtte fagkode_ for å oppdatere, se omtale nederst på siden.
+Har du _Fagkode_ markert med rød farge, velg da _Utgåtte fagkode_ for å oppdatere, se omtale nederst på siden.
 :::
 
 Klasse- og gruppefagene har de samme kolonnene.
