@@ -28,21 +28,21 @@ Klikker en på  _+Legg til_ når _Klassefag_ er markert får vi frem følgende b
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2e81ab11-2b2f-47ff-942f-afeabca93d55)
 
-# Timeplandata
+### Timeplandata
 - _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget _Klassetrinn_.
 - _Navn (kort)_: Tre tegn som blant annet benyttes på timeplanen. Eksempel: NOR for faget norsk, kan brukes på alle trinn selv om faginnholdet er vidt forskjellig.
 - _Navn_: Dette navnet kommer frem under selve timeplanen. Merk at offisielt navn er gitt via fagkoden fra Udir, dette benyttes på karakterutskrifter etc.
 - _Timer_: Fag er oftes definert ut fra et ukentlig timetall. Norsk eksempelvis med 5 uketimer. Dette tallet er utgangspunktet for timeplanlegging av faget, men på timeplanen kan faget ha ulikt timetall fra den ene uken til den andre. Slike tilpasninger gjøres direkte av timeplanlegger.
 - _Rom_: Noe fag, eksempelvis kroppsøving, krever spesialrom. Da kan det være greit å knytte romet til faget her. Det innebærer at timeplanlegger får presentert dette rommet som førstevalg. Kan endres når faget timeplanlegges.
 
-# Karakterdokumentasjon
+### Karakterdokumentasjon
 - _Fagkode_: Alle fag i grunnskolen og i videregående skole som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klare for bruk. Trykk _Endre fagkode_, så får du opp en overveldende lang liste! For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden (eller deler av navn eller del av fagkoden). Unntaket er koden 999999 som vi bruker for fag som skal på timeplanen, men ikke skal tas med på karakterutskrifter. Slike fag er ofte en komponent av et fag med UDIR-fagkode. Mer om det nedenfor.
 
 :::note Merk 
 Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinerskolene kan endre omfanget på sine fag. Det kan ingen andre skoler gjøre.
 :::
 
-# Ressurs til faglærer
+### Ressurs til faglærer
 - _Årstimere/Årsramme_: Her fastsettes lesebrøken for faget. Den er gjerne et resultat av forhandlinger mellom fagforening og skoleier og registres av skoleier for hver fag. Det er brøken årstimer/årsramme gir fagets stillingsstørrelse. Nå brukes fortrinnsvis klokketimer, ikke antall 45-timers time som måltall. Årstimer er da omfanget slik det fremgår fra fagets fagkode, og årsrammen er fremforhandlet mellom partene fagforening/skoleier. Bukes 45 minutter som timelengde, må årarammen også justeres, men resultatet av brøken årstimer/årsramme skal (tilnærmet) bli det samme. Lærer som er oppført som fagansvarlig (se _Time- og fagfordelig>Klassefag/Gruppefag_) får automatisk ressursen for faget. Dersom flere lærere deler på undervisningen, må ressursfordelingen fordeles på individuell basis for de ivolverte lærere.  
 
 - _Elever kan føre tilstedeværelse_: Huker en av for dette kan elevene i faget selv markere tilstedeværelse i timene i faget. Uten avhuking er det bare læreren som kan gjøre det. Kan endres frem og tilbake flere ganger i løpet av skoleåret.
