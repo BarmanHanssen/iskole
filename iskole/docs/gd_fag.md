@@ -24,13 +24,11 @@ Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at elevene 
 
 
  ### _+Legg til_
-Klikk først en line som markerer for hvilket _Utdanningsprogram_ og _Klassetrinn_ nytt fag skal plasseres.
-Klikker deretter på  _+Legg til_. (Skjermbildene for Klassefag og Gruppefag er like)
-
+Velg førsst om det er et klasse- eller et gruppefag som skal legges til. Klikk deretter på _+Legg til_. (Skjermbildene for Klassefag og Gruppefag er like)
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2e81ab11-2b2f-47ff-942f-afeabca93d55)
 
 ### Timeplandata
-- _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget _Trinn_.
+- _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget _Trinn_. (Nytt trinn legges inn fra menyvalget Utdanning.)
 - _Navn (kort)_: Tre tegn som blant annet benyttes på timeplanen. Eksempel: NOR for faget norsk, kan brukes på alle trinn selv om faginnholdet er vidt forskjellig.
 - _Navn_: Dette navnet kommer frem under selve timeplanen. Merk at offisielt navn er gitt via fagkoden fra Udir, dette benyttes på karakterutskrifter etc.
 - _Timer_: Fag er oftes definert ut fra et ukentlig timetall. Norsk eksempelvis med 5 uketimer. Dette tallet er utgangspunktet for timeplanlegging av faget, men på timeplanen kan faget ha ulikt timetall fra den ene uken til den andre. Slike tilpasninger gjøres direkte av timeplanlegger.
