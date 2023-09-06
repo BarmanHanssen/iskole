@@ -24,7 +24,7 @@ Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at elevene 
 
 
  ### _+Legg til_
-Klikk først en line som markerer for hvilket _Utdanningsrinn_ og _Klassetrinn_ nytt fag skal plasseres.
+Klikk først en line som markerer for hvilket _Utdanningsprogram_ og _Klassetrinn_ nytt fag skal plasseres.
 Klikker deretter på  _+Legg til_. (Skjermbildene for Klassefag og Gruppefag er like)
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2e81ab11-2b2f-47ff-942f-afeabca93d55)
