@@ -30,7 +30,7 @@ Klikker deretter på  _+Legg til_. (Skjermbildene for Klassefag og Gruppefag er 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2e81ab11-2b2f-47ff-942f-afeabca93d55)
 
 ### Timeplandata
-- _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget _Klassetrinn_.
+- _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget _Trinn_.
 - _Navn (kort)_: Tre tegn som blant annet benyttes på timeplanen. Eksempel: NOR for faget norsk, kan brukes på alle trinn selv om faginnholdet er vidt forskjellig.
 - _Navn_: Dette navnet kommer frem under selve timeplanen. Merk at offisielt navn er gitt via fagkoden fra Udir, dette benyttes på karakterutskrifter etc.
 - _Timer_: Fag er oftes definert ut fra et ukentlig timetall. Norsk eksempelvis med 5 uketimer. Dette tallet er utgangspunktet for timeplanlegging av faget, men på timeplanen kan faget ha ulikt timetall fra den ene uken til den andre. Slike tilpasninger gjøres direkte av timeplanlegger.
