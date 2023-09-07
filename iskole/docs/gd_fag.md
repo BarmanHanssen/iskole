@@ -22,6 +22,8 @@ Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis a
 
 Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at elevene skal få en personlig komplett timeplan uke for uke for hele skoleåret, og tilsvarende for alle  faglærere.
 
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/2cf0f0ef-7249-46f1-8b2e-187f5edcf2c2)
+
 
  ### _+Legg til_
 Velg førsst om det er et klasse- eller et gruppefag som skal legges til. Klikk deretter på _+Legg til_. (Skjermbildene for Klassefag og Gruppefag er like)
@@ -48,6 +50,8 @@ Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinersko
 - _Elever kan føre tilstedeværelse_: Huker en av for dette kan elevene i faget selv markere tilstedeværelse i timene i faget. Uten avhuking er det bare læreren som kan gjøre det. Kan endres frem og tilbake flere ganger i løpet av skoleåret.
 
 Skal resultatet lagres klikker en på ikonet for _Lagre for å avslutte.
+
+
 
 
 - _Elever_: Viser alle elever på utdanningsprogrammets trinn som per dags dato alt er registrert med dette faget. Når faget opprettes er selvsagt ingen registrert. 
