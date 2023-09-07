@@ -74,7 +74,7 @@ Her fås en oversikt over fag som har fått knyttet en komponent til seg. For el
 Det spesielle med disse fag er at de ikke skal medtas på karakterdokumentasjonen, og følgelig heller ikke med på diverse oversikter, f.eks til Wis. Ellers ingen forskjell.
 
 ### Oversikt
-Her vises både klasse- og grupppefag samlet. Merk at muligheten til å sortere på kolonne. En bestemt fagkode kan være registrert både som klasse- og gruppefag på flere trinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode.
+Her vises alle klasse- og grupppefag som er registrert. Merk at muligheten til å sortere på kolonne. En bestemt fagkode kan være registrert både som klasse- og gruppefag på flere trinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode.
 
 ### Utgåtte fagkoder
 
