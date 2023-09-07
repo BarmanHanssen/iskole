@@ -50,8 +50,6 @@ Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinersko
 
 Skal resultatet lagres klikker en på ikonet for _Lagre for å avslutte.
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cb1a6ccd-29ed-44a1-94cf-a6283a4105d0)
-
 ### _Endre_
 Klikk på faget som skal endres, deretter på ikonet _Endre_.
 Alt kan endres, untatt Trinn og kort-navn! 
@@ -63,15 +61,15 @@ Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, ti
 ### _Slett_
 Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. Fag hvor det allerede er satt karakter i kan ikke slettes.
 
-### Fag med flere komponenter
+## Fag med flere komponenter
 
-![bilde](https://user-images.githubusercontent.com/80097133/148037649-05605fdd-6d6f-4fd0-9c82-05146c6f4296.png)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
 
-Her fås en oversikt over fag som alt er registrert som komponent av et annet fag. I enkelte tilfeller skal en eller flere av elevene som følger et fag (f.eks PSP5053) ha timer i tillegg (her: SP1-elevene). Ekstra-faget er altså en komponent. Da vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
+Her fås en oversikt over fag som har fått knyttet en komponent til seg. For elever i komponentfaget vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
 
 ### 999999-fag, ikke komponent
 
-![bilde](https://user-images.githubusercontent.com/80097133/148039601-e0a285a0-3e6a-4384-9363-3c0f3c2e9cd7.png)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/330f9328-f603-48e3-a2e6-80b388df43ff)
 
 Det spesielle med disse fag er at de ikke skal medtas på karakterdokumentasjonen, og følgelig heller ikke med på diverse oversikter, f.eks til Wis. Ellers ingen forskjell.
 
