@@ -139,7 +139,25 @@ Her fyller IOP-ansvarlig ut overordnet informasjon om IOPen.
 
 
 ### Logg
+I loggen kan man notere oppdukkende hendelser. Det kan være dokumentasjon på tiltak skolen har gjort etter utfordringer eleven har møtt på. Hver logginlinje består av ett fritekst felt. Etter lagring vises dato for når logglinjen ble oppretett og hvem som opprettet den. Dersom teksten enedres vil dato for siste endring vises under _Sist endret_. Navnet vil være til den som skrev teksten eller sist endret den.
 
 ### IOP del 2
+IOP del to er den delen av IOPen som faglærerne vi arbeide med gjennom hele skoleåret. I starten av skoleåret legger faglæreren inn kompetansemålene med tilhørende læringsmål og innhold. Videre gjennom året skrives vurdering for 1. halvår og til slutt en årsvurdering.
 
+:::info Merk
+For at fagene skal vises i del 2 må de først være lagt til i del 1.
+:::
+
+#### Kompetansemål
+IOP-ansvarlig har skriverettigheter på alle fag i del 2, men det er lagt opp til at denne delen skal behandles av faglæreren. Faglæreren sammen med eventuelle tolærere har skriverettigheter til sine fag og leserettighet på de øvrige fagene. For å legge til kompetansemål klikk på faglinjen og derettter _Legg til_ ytterst til høyre i avsnittet under listen med fag. Hver kompetansemållinje består av _Kompetansemål_, _Læringsmål_ og _Innhold_. Vi anbefaler å legge inn ett og ett kompetansemål, da blir senere visning av mål og innhold mer oversiktlig. Når man anser seg ferdig med kompetansemålene i faget, klikk på _Ferdig_. Dette vil være nyttig for egen del, men spesielt for IOP-ansvarlig som skal avgjøre om IOPen er klar for å publiseres for elev og foreldre. 
+
+#### Vurdering 1. halvår.
+Klikk på faget, velg deretter fanen _Vurdering 1. halvår_ i arkfanen under tabellen med fag. Klikk så _Rediger_ ytterst til høyre. Vurderingen består av to tekstfelt _Vurdering av elevens utvikling_ og _Vurdering av elevens videre utviklingsmuligheter_. Husk å lagre ettter at vurderingen er skrevet inn. Når du mener innholdet kan publiseres til eleven, klikk på _Ferdig_.
+
+#### Årsvurdering
+Klikk på faget, velg deretter fanen _Årsvurdering_ i arkfanen under tabellen med fag. Ellers samme felter og funksjonalitet som _Vurdering 1. halvår_.
+
+:::info Merk
+Markeringen _Ferdig_ er ment som en indikator på at innholdet kan publiseres til elev og foreldre. Det er fortsatt mulig å gjøre endringer. F.eks. kan vurderingen pulibseres så snart man har gjort første vurdering og deretter kontinuering oppdatere vurderingen underveis i skoleåret.
+:::
 ### Vedlegg til kompetansebevis
