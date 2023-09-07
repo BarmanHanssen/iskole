@@ -22,6 +22,7 @@ Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis a
 
 Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at elevene skal få en personlig komplett timeplan uke for uke for hele skoleåret, og tilsvarende for alle  faglærere.
 
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cb1a6ccd-29ed-44a1-94cf-a6283a4105d0)
 
  ### _+Legg til_
 Velg førsst om det er et klasse- eller et gruppefag som skal legges til. Klikk deretter på _+Legg til_. (Skjermbildene for Klassefag og Gruppefag er like)
@@ -49,34 +50,34 @@ Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinersko
 
 Skal resultatet lagres klikker en på ikonet for _Lagre for å avslutte.
 
-
-- _Elever_: Viser alle elever på utdanningsprogrammets trinn som per dags dato alt er registrert med dette faget. Når faget opprettes er selvsagt ingen registrert. 
-
-
-Alt kan endres, untatt Trinn og kort-navn. 
+### _Endre_
+Klikk på faget som skal endres, deretter på ikonet _Endre_.
+Alt kan endres, untatt Trinn og kort-navn! 
 
 :::note Fagkode
 Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, tilsvarende for gruppefag. Endres fagkoden herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. Endring av fagkoden for både klasse- og gruppefag for en elev kan gjøres fra Elevadmin>Karakterdokumentasjon, alternativt fra Elevadmin.>Fag ved å ta ut faget, og sette det inn på nytt. Dersom endringen først gjøres etter at fravær og vurderinger er innført, vil endring av fagkoden for elev kunne bli mer komplisert.
 :::
 
-### Fag med flere komponenter
+### _Slett_
+Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. Fag hvor det allerede er satt karakter i kan ikke slettes.
 
-![bilde](https://user-images.githubusercontent.com/80097133/148037649-05605fdd-6d6f-4fd0-9c82-05146c6f4296.png)
+## Fag med flere komponenter
 
-Her fås en oversikt over fag som alt er registrert som komponent av et annet fag. I enkelte tilfeller skal en eller flere av elevene som følger et fag (f.eks PSP5053) ha timer i tillegg (her: SP1-elevene). Ekstra-faget er altså en komponent. Da vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
+
+Her fås en oversikt over fag som har fått knyttet en komponent til seg. For elever i komponentfaget vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
 
 ### 999999-fag, ikke komponent
 
-![bilde](https://user-images.githubusercontent.com/80097133/148039601-e0a285a0-3e6a-4384-9363-3c0f3c2e9cd7.png)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/330f9328-f603-48e3-a2e6-80b388df43ff)
 
 Det spesielle med disse fag er at de ikke skal medtas på karakterdokumentasjonen, og følgelig heller ikke med på diverse oversikter, f.eks til Wis. Ellers ingen forskjell.
 
 ### Oversikt
-Her vises både klasse- og grupppefag samlet. Merk at muligheten til å sortere på kolonne. En bestemt fagkode kan være registrert både som klasse- og gruppefag på flere trinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode.
+Her vises alle klasse- og grupppefag som er registrert. Merk at muligheten til å sortere på kolonne. En bestemt fagkode kan være registrert både som klasse- og gruppefag på flere trinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode.
 
 ### Utgåtte fagkoder
 
-Ved opprettelse av neste planperiode er det naturlig å kopiere grunnlagsdata fra et tidligere skoleår. Da kan det hende at en fagkode som var gyldig da nå er gått ut på dato. En slik fagkode vil markeres med rød farge, noe som indikerer at den bør skifts ut.
+Ved opprettelse av neste planperiode er det naturlig å kopiere grunnlagsdata fra et tidligere skoleår. Da kan det hende at en fagkode som var gyldig i forrige skoleår nå er gått ut på dato. En slik fagkode vil markeres med rød farge, noe som indikerer at den bør skifts ut.
 
-Velges _Utgåtte fagkoder_ får vi frem en liste over både klasse- og gruppefag som er gått ut på dato. Fagets utgåtte fagkode kan da automatisk erstattes av ny fagkode dersom ny fagkode er oppgitt.
-
+Velges _Utgåtte fagkoder_ får vi frem en liste over både klasse- og gruppefag som er gått ut på dato. Fagets utgåtte fagkode kan da automatisk erstattes av ny fagkode dersom ny fagkode er oppgitt. 
