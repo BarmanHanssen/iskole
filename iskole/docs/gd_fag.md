@@ -24,7 +24,6 @@ Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at elevene 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cb1a6ccd-29ed-44a1-94cf-a6283a4105d0)
 
-
  ### _+Legg til_
 Velg førsst om det er et klasse- eller et gruppefag som skal legges til. Klikk deretter på _+Legg til_. (Skjermbildene for Klassefag og Gruppefag er like)
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2e81ab11-2b2f-47ff-942f-afeabca93d55)
@@ -51,17 +50,18 @@ Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinersko
 
 Skal resultatet lagres klikker en på ikonet for _Lagre for å avslutte.
 
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cb1a6ccd-29ed-44a1-94cf-a6283a4105d0)
 
-
-
-- _Elever_: Viser alle elever på utdanningsprogrammets trinn som per dags dato alt er registrert med dette faget. Når faget opprettes er selvsagt ingen registrert. 
-
-
-Alt kan endres, untatt Trinn og kort-navn. 
+### _Endre_
+Klikk på faget som skal endres, deretter på ikonet _Endre_.
+Alt kan endres, untatt Trinn og kort-navn! 
 
 :::note Fagkode
 Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, tilsvarende for gruppefag. Endres fagkoden herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. Endring av fagkoden for både klasse- og gruppefag for en elev kan gjøres fra Elevadmin>Karakterdokumentasjon, alternativt fra Elevadmin.>Fag ved å ta ut faget, og sette det inn på nytt. Dersom endringen først gjøres etter at fravær og vurderinger er innført, vil endring av fagkoden for elev kunne bli mer komplisert.
 :::
+
+### _Slett_
+Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. Fag hvor det allerede er satt karakter i kan ikke slettes.
 
 ### Fag med flere komponenter
 
