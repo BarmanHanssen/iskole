@@ -160,4 +160,6 @@ Klikk på faget, velg deretter fanen _Årsvurdering_ i arkfanen under tabellen m
 :::info Merk
 Markeringen _Ferdig_ er ment som en indikator på at innholdet kan publiseres til elev og foreldre. Det er fortsatt mulig å gjøre endringer. F.eks. kan vurderingen pulibseres så snart man har gjort første vurdering og deretter kontinuering oppdatere vurderingen underveis i skoleåret.
 :::
+
 ### Vedlegg til kompetansebevis
+Innholdet i vedlegg til kompetansebevis legges inn av IOP-ansvarlig. Hvert fag som skal med i vedlegget legges til ved å klikke _Legg til_. Angi omfang (heltall), fag/emne, år og vurdering, klikk _Lagre_. Fagene vises i vedlegget i den rekkefølgen de har blitt lagt inn, benytt pilene dersom du ønsker å endre denne rekkefølgen. Du kan slette et fag ved å klikke på søppelbøtten, eller endre det ved å dobbeltklikke eller å klikke på blyanten. Dersom vurderingen er lang og du ønsker å se hele teksten, klikk på > til venstre i kolonnen _Vis_. Ved å klikke på knappen _Forhåndvis vedlegget_ kan du laste ned en kladd som viser hvordan vedlegget vil bli seende ut. 
