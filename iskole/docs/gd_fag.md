@@ -22,7 +22,7 @@ Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis a
 
 Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at elevene skal få en personlig komplett timeplan uke for uke for hele skoleåret, og tilsvarende for alle  faglærere.
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/2cf0f0ef-7249-46f1-8b2e-187f5edcf2c2)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cb1a6ccd-29ed-44a1-94cf-a6283a4105d0)
 
 
  ### _+Legg til_
