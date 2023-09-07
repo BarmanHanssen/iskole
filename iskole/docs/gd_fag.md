@@ -81,4 +81,3 @@ Her vises både klasse- og grupppefag samlet. Merk at muligheten til å sortere 
 Ved opprettelse av neste planperiode er det naturlig å kopiere grunnlagsdata fra et tidligere skoleår. Da kan det hende at en fagkode som var gyldig da nå er gått ut på dato. En slik fagkode vil markeres med rød farge, noe som indikerer at den bør skifts ut.
 
 Velges _Utgåtte fagkoder_ får vi frem en liste over både klasse- og gruppefag som er gått ut på dato. Fagets utgåtte fagkode kan da automatisk erstattes av ny fagkode dersom ny fagkode er oppgitt.
-
