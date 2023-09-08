@@ -83,7 +83,7 @@ Nedtrekkslisten viser da alle fag som NOX kan være en komponent av. Utvalget er
 Disse fag kan timeplanlegges, men de ikke skal medtas på karakterdokumentasjonen, og er heller ikke med på diverse oversikter, f.eks til Wis. 
 
 ### Oversikt
-Her vises alle klasse- og grupppefag som er registrert. Merk at muligheten til å sortere på kolonne, eksempelvis på fagkode. En bestemt fagkode kan være registrert både som klasse- og gruppefag på flere trinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode.
+Her vises alle klasse- og grupppefag som er registrert. Merk muligheten til å sortere på en kolonne, eksempelvis Fagkode. En bestemt fagkode kan være registrert både som klasse- og gruppefag på flere trinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode.
 
 ### Utgåtte fagkoder
 
