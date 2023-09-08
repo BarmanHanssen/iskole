@@ -11,7 +11,7 @@ _Kode_ benyttes på timeplanen for å spesifisere studieretning, og er første d
 
 _Internnavn_ benyttes i forbindelse med timeplanvisning.
 
-_Trinn_ angir hvile klassetrinn som skolen tilbyr. For videregående skole er det vanligvis fra 1 til 3, trinn 4 benyttes ofte for påbyggingsår.
+_Klassetrinn_ angir hvile klassetrinn som skolen tilbyr. For videregående skole er det vanligvis fra 1 til 3, trinn 4 benyttes ofte for påbyggingsår.
 
 
 For å kunne oprette klasser på utdanningsprogrammet må man også legge inn klassetrinn. 
