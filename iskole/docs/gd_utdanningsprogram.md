@@ -3,7 +3,7 @@ id: gd_utdanningsprogram
 title: Utdanning
 sidebar_label: Utdanning
 ---
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/650a4dbb-75e3-45bd-9cdd-98c53eaa4539)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/337d9614-9804-45cf-a7c1-6d1ece630dab)
 
 _Utdanningsprogram_ viser hvilke undervisningsopplegg skolen tilbyr. Nedtrekkslisten kommer fra Udir (?)
 
