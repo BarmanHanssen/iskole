@@ -3,6 +3,8 @@ id: gd_utdanningsprogram
 title: Utdanning
 sidebar_label: Utdanning
 ---
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/650a4dbb-75e3-45bd-9cdd-98c53eaa4539)
+
 _Utdanningsprogram_ er den mest generelle, og minst spesifikke måten, å tilkjennegi hvilke undervisningsopplegg som skolen tilbyr. Når en senere oppretter en klasse skal en nærmere spesifisere opplegget ved å tilføye en programkode. 
 
 _Kode_ benyttes på timeplanen for å spesifisere studieretning, eksempelvis UT for ungdomstrinnet i grunnskolen, eller ST for studiespesialisering for videregående skole. 
