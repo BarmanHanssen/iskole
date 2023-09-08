@@ -16,7 +16,5 @@ _Trinn_ angir hvile klassetrinn som skolen tilbyr. For videregående skole er de
 
 I skjermbildet over Studierspesialisering og Ungdomstrinnet alt lagt inn. Nå  er Barnetrinnet registrert, og klar for lagring.
 
-
-
 For å kunne oprette klasser på utdanningsprogrammet må man også legge inn klassetrinn. 
 For å slette trinn trykker man på knappen _Slett klassetrinn..._ og velger hvilket trinn som skal slettes. Man må da også skrive inn planperioden for å bekrefte slettingen. 
