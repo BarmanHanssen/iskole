@@ -66,16 +66,18 @@ Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. F
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
 
+Det er bare fag med med fagkode 999999 som kan være komponent til et fag med fagkode forskjellig fra 999999.
+
 Her fås en oversikt over fag som har fått knyttet en komponent til seg. For elever i komponentfaget vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
 
 ### 999999-fag, ikke komponent
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/330f9328-f603-48e3-a2e6-80b388df43ff)
 
-Det spesielle med disse fag er at de ikke skal medtas på karakterdokumentasjonen, og følgelig heller ikke med på diverse oversikter, f.eks til Wis. Ellers ingen forskjell.
+Disse fag kan timeplanlegges, men de ikke skal medtas på karakterdokumentasjonen, og er heller ikke med på diverse oversikter, f.eks til Wis. 
 
 ### Oversikt
-Her vises alle klasse- og grupppefag som er registrert. Merk at muligheten til å sortere på kolonne. En bestemt fagkode kan være registrert både som klasse- og gruppefag på flere trinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode.
+Her vises alle klasse- og grupppefag som er registrert. Merk at muligheten til å sortere på kolonne, eksempelvis på fagkode. En bestemt fagkode kan være registrert både som klasse- og gruppefag på flere trinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode.
 
 ### Utgåtte fagkoder
 
