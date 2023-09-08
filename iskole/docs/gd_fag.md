@@ -70,6 +70,12 @@ Det er bare fag med med fagkode 999999 som kan være komponent til et fag med fa
 
 Her fås en oversikt over fag som har fått knyttet en komponent til seg. For elever i komponentfaget vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
 
+For å få registrert en komponent, markeres først et fag med fagkode 999999, deretter klikkes _Endre_. Eksempel:
+
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b9ad052a-18f5-4d60-96cb-887fb912e526)
+
+Nedtrekkslisten viser da alle fag som NOX kan være en komponent av. Utvalget er begrenset til alle fag på trinnet (her AP 3) som alt er registrert, og som har fagkode forskjellig fra 999999. Her er det nok NOR som ere tiltenkt eierskapet. Det er mulig at et fag,eksempelvis NOR, kan ha flere komponenter.
+
 ### 999999-fag, ikke komponent
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/330f9328-f603-48e3-a2e6-80b388df43ff)
