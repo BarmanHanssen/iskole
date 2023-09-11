@@ -4,7 +4,7 @@ title: Skoleår
 sidebar_label: Skoleår
 ---
 
-Innledningsvis fås en oversikt over alle skoleår hvor skolen allerede har data over blant annet elever og fag:
+Innledningsvis fås en oversikt over alle skoleår hvor skolen allerede har benyttet iSkole.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/019d00d0-4cc3-4748-8edb-855f8747818a)
 
