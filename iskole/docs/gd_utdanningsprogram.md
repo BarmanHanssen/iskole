@@ -17,4 +17,4 @@ _Internnavn_ benyttes i forbindelse med timeplanvisning.
 
 Fra menyvalget Klasse opprettes klassene hvor Kode og klassetrinn er de tre første tegnene, det fjerde velges fritt, eksempelvis ST3A.
 
-Man kan endre eller slette innholdet i tabellen ved å velge ikonene under kolonnen Valg.
+Man kan endre eller slette innholdet i tabellen ved å velge ikonene under kolonnen Valg. Dersom det allerde er lagt inn klasser, må man bekrefte slettingen en gang til.
