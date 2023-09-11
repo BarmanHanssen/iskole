@@ -19,7 +19,7 @@ Her tastes inn eksempelvis 2025. Som regel  regnes et skoleår fra 1. august og 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/9a51b67c-8d6a-4671-ac1e-f077f1c98c6b)
 
-
+Standard-verdiene som er satt kan endres, også etter skolestart.
 
 Når en ny planperiode starter, vil data knyttet til forrige planperiode forbli upåvirket av hva som nå registreres av data. Hver planperiode inneholder alt som er blitt registrert i løpet av planperioden. Altså dato om når eleven starter (20. august(?), når han slutter (31. juli(!)), hvilke fag og resultater som er oppnådd, likeså all undervisning i form av timeplaner og lærere, etc. (Etter-registrering av data til en tidligere planperiode er selvsagt mulig.)
 :::note Merk
