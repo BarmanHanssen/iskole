@@ -10,9 +10,7 @@ Innledningsvis fås en oversikt over alle skoleår hvor skolen allerede har beny
 
 For å opprette nytt skoleår velges  _+ Legg til_.  Dersom iSkole var instalert forrige skoleår, vil en dra nytte av det når nytt skoleår skal planlegges.
 
-**Nedenfor følger teksten fra en tidligere versjon av i skole. Merk at vi nå benytter skoleår, mens vi tidligere benyttet planperiode.** 
-
-_Planperiode:_ Tidsrom mellom mellom to datoer, her angitt som en Fradato og Tildato. For en skole er dette typisk et skoleår, fra 1. august og frem til 31. juli. En heltidsansatt avlønnes mellom disse datoer.  Datoene avgrenser vanligvis et kalenderår, ikke begrenset til når organsisert undervisning starter og fram til siste skoledag. 
+_Skoleår_: Tidsrom mellom mellom to datoer, her angitt som en Fradato og Tildato. For en skole er dette typisk et skoleår, fra 1. august og frem til 31. juli. En heltidsansatt avlønnes mellom disse datoer.  Datoene avgrenser vanligvis et kalenderår, ikke begrenset til når organsisert undervisning starter og fram til siste skoledag. 
 
 Detaljer om når det eksempelvis er skolestart og fridager registreres under _Skolerute_.
 
