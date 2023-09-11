@@ -8,7 +8,12 @@ Innledningsvis fås en oversikt over alle skoleår hvor skolen allerede har beny
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/019d00d0-4cc3-4748-8edb-855f8747818a)
 
-For å opprette nytt skoleår velges  _+ Legg til_.  Dersom iSkole var instalert forrige skoleår, vil en dra nytte av det når nytt skoleår skal planlegges.
+Dersom iSkole var instalert forrige skoleår, vil en dra nytte av det når nytt skoleår skal planlegges.
+
+Klikk  _+ Legg til_ når nytt skoleår skal legges inn. Da vises dette skjermbilde:
+
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/d18104e8-8bd4-4898-a69b-23a0d5fa757e)
+
 
 _Skoleår_: Tidsrom mellom mellom to datoer, her angitt som en Fradato og Tildato. For en skole er dette typisk et skoleår, fra 1. august og frem til 31. juli. En heltidsansatt avlønnes mellom disse datoer.  Datoene avgrenser vanligvis et kalenderår, ikke begrenset til når organsisert undervisning starter og fram til siste skoledag. 
 
