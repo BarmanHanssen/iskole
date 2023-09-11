@@ -25,5 +25,12 @@ Standard-verdiene som er satt kan endres, også etter skolestart. Neste trinn:
 
 For skoler som alt har tatt iSkole i bruk velges forrige skoleår. Da kan data om klasser og fag gjenbrukes. Dersom man stort sett har samme oppsett for valgfagene, tas også disse tas med. Andre ressurser kan være faste tilegg for enkelte lærere, eksempelvis ressurs for rektor. Finjustering av hva som tas med fra dette valget gjøres i ettertid.
 
+Oppsummering
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/4f4e0f72-7a59-4bcc-b0d7-ecdcea001b1d)
+
+Dersom alt ser greit ut gjenstår bare å klikke på _Opprett nytt skoleår_. Og som allerede nevnt: Justeringer kan gjøres for alle data som er tatt med fra et tidligere skoleår.
+
+
+
 
 
