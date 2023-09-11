@@ -14,13 +14,15 @@ Klikk  _+ Legg til_ når nytt skoleår skal legges inn. Da vises dette skjermbil
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/d18104e8-8bd4-4898-a69b-23a0d5fa757e)
 
+_Nytt skoleår startr høsten_: 
+Her tases inn eksempelvis 2025. Som regel  regnes et skoleår fra 1. august og frem til 31. juli. Eksempelvis vil en heltidsansatt avlønnes mellom disse datoer. Når organsisert undervisning starter og slutter registreres i steg 2. 
 
-_Skoleår_: Tidsrom mellom mellom to datoer, her angitt som en Fradato og Tildato. For en skole er dette typisk et skoleår, fra 1. august og frem til 31. juli. En heltidsansatt avlønnes mellom disse datoer.  Datoene avgrenser vanligvis et kalenderår, ikke begrenset til når organsisert undervisning starter og fram til siste skoledag. 
+Neste skjermbilde:
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/9a51b67c-8d6a-4671-ac1e-f077f1c98c6b)
 
-Detaljer om når det eksempelvis er skolestart og fridager registreres under _Skolerute_.
+
 
 Når en ny planperiode starter, vil data knyttet til forrige planperiode forbli upåvirket av hva som nå registreres av data. Hver planperiode inneholder alt som er blitt registrert i løpet av planperioden. Altså dato om når eleven starter (20. august(?), når han slutter (31. juli(!)), hvilke fag og resultater som er oppnådd, likeså all undervisning i form av timeplaner og lærere, etc. (Etter-registrering av data til en tidligere planperiode er selvsagt mulig.)
-
 :::note Merk
 En elev får bare tilgang til sine data fra iSkole innenfor planperioden han er registrert som elev. Dersom planperioden eksempelvis har 24. juni som Tildato, vil eleven ikke kunne logge seg inn etter 24. juni. Dersom eleven slutter i løpet av planperioden, får han ikke tilgang til iSkole etter at han har sluttet.
 :::
