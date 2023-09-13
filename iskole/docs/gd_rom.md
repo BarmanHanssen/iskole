@@ -10,8 +10,7 @@ Start-skjermen viser alle rom som allerede er registrert, og som kan benyttes p�
 Romene kan benyttes av timeplanlegger, og av ansatte som blir gitt tilgang til å reservere et utvalg av rom. 
 Hva som registreres under _Romtype_ og _Antall plasser_ setter ingen begrensning på hvordan rommene disponeres i timeplansammenheng.
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b3964a6a-0718-45dd-8c50-e7ce68bee023)
-
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ee4caa9b-f736-4f9e-a2f3-e90fc792f58b)
 _Romnr_: Maksimalt 4 tegn kan benyttes.
 
 _Antall plasser_: Tallet som setttes inn her er for oversiktens skyld. Setter ingen begrensing for timeplanleggers bruk av rommet.
