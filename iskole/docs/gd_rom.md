@@ -25,3 +25,5 @@ Når de tre kolonnen er gitt verdi, lagres registreringen ved å klikke på disk
 Dersom det er aktuelt å slette et rom fra oversikten, fås følgende varsel før slettingen finner sted:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/f6a4d273-5353-4159-9cb5-a0455ca7aa69)
+
+Merk at det er henvisning til rommet som blir satt til tom verdi. Eksempelvis bir det 38 timeplanlagte timene stående, men altså uten å angi hvor undervisningen skal finne sted.
