@@ -10,5 +10,5 @@ Start-skjermen viser alle rom som allerede er registrert, og som kan benyttes p�
 Romene kan benyttes av timeplanlegger, og av ansatte som blir gitt tilgang til å reservere et utvalg av rom. 
 Hva som registreres under _Romtype_ og _Antall plasser_ setter ingen begrensning på hvordan rommene disponeres i timeplansammenheng.
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/1a8013d4-c8f1-42fb-bc53-118c22e2c6cf)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b3964a6a-0718-45dd-8c50-e7ce68bee023)
 
