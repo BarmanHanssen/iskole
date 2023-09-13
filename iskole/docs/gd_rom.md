@@ -12,3 +12,11 @@ Hva som registreres under _Romtype_ og _Antall plasser_ setter ingen begrensning
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b3964a6a-0718-45dd-8c50-e7ce68bee023)
 
+_Romnr_: Maksimalt 4 tegn kan benyttes.
+
+_Antall plasser_: Tallet som setttes inn her er for oversiktens skyld. Setter ingen begrensing for timeplanleggers bruk av rommet.
+
+_Romtype_: Her følger en nedtrekksliste. Rekkefølgen viser bruksfrekvensen, mest brukte øverst. Ingen overraskelse at Klasserom topper listen.
+
+Når de tre kolonnen er gitt verdi, lagres registreringen ved å klikke på diskett-ikonet i kolonnen _Valg_.
+
