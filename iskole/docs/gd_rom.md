@@ -20,3 +20,4 @@ _Romtype_: Her følger en nedtrekksliste. Rekkefølgen viser bruksfrekvensen, me
 
 Når de tre kolonnen er gitt verdi, lagres registreringen ved å klikke på diskett-ikonet i kolonnen _Valg_.
 
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/f6a4d273-5353-4159-9cb5-a0455ca7aa69)
