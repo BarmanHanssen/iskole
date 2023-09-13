@@ -7,7 +7,7 @@ Det er mulig å slå sammen to, eller flere klasser, for felles undervisning i e
 
 Faget som er felles legges bare inn i en klasse. Denne klassen blir moderklassen for faget. Klassene til de øvrige elevene kaller vi i denne samenhengen for gjesteklasser. Typiske eksempler: To klasser har kroppsøving sammen. Flere klasser samles for kor-øvinger.
 
-![image](https://user-images.githubusercontent.com/80097133/120986532-fed24f80-c77c-11eb-9e4a-d54d52f39336.png)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/585a5f5c-8884-4f5f-9565-bf63aaa148b4)
 
 :::note Merk
 Se figuren ovenfor. NOR skal altså bare være registrert i klasse NA2H (moderklassen), men ikke i NA2S (gjesteklassen).
