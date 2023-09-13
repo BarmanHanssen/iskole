@@ -28,4 +28,4 @@ Dersom det er aktuelt å slette et rom fra oversikten, fås følgende varsel fø
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/f6a4d273-5353-4159-9cb5-a0455ca7aa69)
 
-Når rommet slettes vil henvisning til rommet bli satt til tom verdi. Eksempelvis vil de 38 timeplanlagte timene bli stående, men altså uten å angi hvor undervisningen skal finne sted.
+Når rommet slettes vil henvisning til rommet bli satt til tom verdi. Eksempelvis vil de 38 timeplanlagte timene bli stående, uten å angi hvor undervisningen skal finne sted. Men eventuelle reservasjon av rommet vil bli slettes.
