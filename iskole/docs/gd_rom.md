@@ -20,7 +20,7 @@ _Romtype_: Her følger en nedtrekksliste. Rekkefølgen viser bruksfrekvensen, me
 
 Når de tre kolonnen er gitt verdi, lagres registreringen ved å klikke på diskett-ikonet i kolonnen _Valg_.
 
-# Slette rom
+### Slette rom
 
 Dersom det er aktuelt å slette et rom fra oversikten, fås følgende varsel før slettingen finner sted:
 
