@@ -18,7 +18,7 @@ _Romnr_: Maksimalt 4 tegn kan benyttes.
 
 _Antall plasser_: Tallet som setttes inn her er for oversiktens skyld. Setter ingen begrensing for timeplanleggers bruk av rommet.
 
-_Romtype_: Her følger en nedtrekksliste. Rekkefølgen viser bruksfrekvensen, mest brukte øverst. Ingen overraskelse dersom Klasserom topper listen.
+_Romtype_: Her følger en nedtrekksliste. Rekkefølgen viser bruksfrekvensen, mest brukte øverst. Sannsyligvis topper Klasserom  listen!
 
 Når de tre kolonnen er gitt verdi, lagres registreringen ved å klikke på diskett-ikonet i kolonnen _Valg_.
 
