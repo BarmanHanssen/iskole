@@ -4,7 +4,7 @@ title: Skole
 sidebar_label: Skole
 ---
 
-Skjermbildet:
+Registrering/endringer gjøres fra dette skjermbilde:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/564d012e-52a5-4b80-a63a-784b26467211)
 
