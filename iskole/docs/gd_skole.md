@@ -4,9 +4,9 @@ title: Skole
 sidebar_label: Skole
 ---
 
-Viser her bare første del av skjermbildet:
+Skjermbildet:
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/62613713-16ea-4fe2-a8a4-47112cfe7120)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/564d012e-52a5-4b80-a63a-784b26467211)
 
 _Skolens navn:_ 
 Benyttes på utskrift av vitnemål, og på rapporter etc.  Skolen kan også få lagt inn en logo (ta kontakt!) som vil vises i øvre venstre hjørne fra iSkole. 
