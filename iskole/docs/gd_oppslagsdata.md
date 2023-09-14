@@ -29,12 +29,14 @@ Når en ny klasse opprettes, fra menyvalget _Klasse_, etterspørres _Programkode
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/8c014ee7-77ef-4576-8747-911cf39a8db5)
 
-Alle fag som er godkjent av UDIR er samlet i denne tabellen. Den inneholder mer enn 18 000 rader! Fagkodene som er utgått per dags dato er markert med rød farge.  Vet du navnet på faget, men ikke fagkoden, skriv da inn første del av navnet i feltet over _Fagnavn_. Finner du ikke fagkode, prøv da å oppdatere fagkoderegisteret.
+Alle fag som er godkjent av UDIR er samlet i denne tabellen. Den inneholder mer enn 18 000 rader! Fagkodene som er utgått per dags dato er markert med rød farge.  Vet du navnet på faget, men ikke fagkoden, skriv da inn første del av navnet i feltet over _Fagnavn_. Finner du ikke fagkoden, prøv da å oppdatere fagkoderegisteret.
 På udir.no finner man fagplaner mm for hvert fag.
 
 #### _Vurderingsform_
 
-Her vises godkjente koder for hva som er grunnlaget for karakteren som settes på fagene som skal utskrives på kompetansebevis/vitnemål. Merk at her er også tysk medtatt, men vi ingen offisielle fagnavn på tysk i fagkoderegisteret.
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/87b9716c-4d15-49e8-9f65-af1b2f88fb0a)
+
+Her vises blant annet hvordan en eksamen kan organiseres. Eksamensformen tas med på kompetansebevis og vitnemål.
 
 #### _Fagmarknader_
 
