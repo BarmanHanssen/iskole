@@ -3,7 +3,7 @@ id: gd_oppslagsdata
 title: Oppslagsdata
 sidebar_label: Oppslagsdata
 ---
-Her er samlet en gruppe tabeller, de fleste kommer fra Utdanningsdirektoratet (UDIR). Innholdet er definert av UDIR, og kan ikke endres av brukerne av iSkole. Tabellene innholdet data som etterspørres og benyttes av iSkole.
+Tabellene innholdet data som etterspørres og benyttes av iSkole. De fleste kommer fra Utdanningsdirektoratet (UDIR). Innholdet som er definert av UDIR kan ikke endres av brukerne av iSkole. 
 
 Registeret ble først utarbeidet for videregående skole. Men nå inneholder det også data for grunnskolen, og for Steinerskolen. 
 
