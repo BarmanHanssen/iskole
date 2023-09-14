@@ -5,7 +5,7 @@ sidebar_label: Oppslagsdata
 ---
 Tabellene innholdet data som etterspørres og benyttes av iSkole. Tabellene kommer fra Utdanningsdirektoratet (UDIR) og kan ikke endres av brukerne av iSkole. 
 
-Tabellene dekker  videregående skole, grunnskolen, Steinerskolen og Montesorriskolen. 
+Tabellene dekker  videregående skole, fagskolen, grunnskolen, Steinerskolen og Montesorriskolen. 
 
 For å begrense hva som vises, kan en legge inn filter. Da vises rader som inneholder filteret i en eller flere av kolonnene som vises.
 
@@ -27,9 +27,10 @@ Når en ny klasse opprettes, fra menyvalget _Klasse_, etterspørres _Programkode
 
 #### _Fagkoderegister_
 
-![bilde](https://user-images.githubusercontent.com/80097133/148937507-67d7138e-6e9a-4962-9418-539a230a6f48.png)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/8c014ee7-77ef-4576-8747-911cf39a8db5)
 
-Alle fag som er godkjent av UDIR er samlet i denne tabellen. Den inneholder mer enn 18 000 rader! Fagkodene som er utgått per dags dato er markert med rød farge. På udir.no finner man fagplaner mm for hvert fag. Vet du navnet på faget, men ikke fagkoden, skriv da inn første del av navnet i feltet over _Fagnavn_.
+Alle fag som er godkjent av UDIR er samlet i denne tabellen. Den inneholder mer enn 18 000 rader! Fagkodene som er utgått per dags dato er markert med rød farge.  Vet du navnet på faget, men ikke fagkoden, skriv da inn første del av navnet i feltet over _Fagnavn_. Finner du ikke fagkode, prøv da å oppdatere fagkoderegisteret.
+På udir.no finner man fagplaner mm for hvert fag.
 
 #### _Vurderingsform_
 
