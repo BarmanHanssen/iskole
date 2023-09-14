@@ -17,7 +17,7 @@ Merk at grunnskolen bare er representert med en kode, GS, mens videregående sko
 Dersom ingen av tekstene er dekkende, kan man benytte --
 :::
 
-![bilde](https://user-images.githubusercontent.com/80097133/148767105-e055bd1a-2d0d-49d2-af6d-eeb5be250ce6.png)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/41bb7ad9-7f46-4c52-ba17-03b6fc125300)
 
 #### _Programområde_
 
