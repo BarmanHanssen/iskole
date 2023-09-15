@@ -4,8 +4,7 @@ title: Ressurs kontaktlærer
 sidebar_label: Ressurs kontaktlærer
 ---
 
-
-![image](https://user-images.githubusercontent.com/10975905/136171873-1b23393f-a242-4ee8-a27c-3ca174f4dc1a.png)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/354b7ef2-6f72-49e6-a4bd-94ff35d7ef7b)
 
 Når en lærer blir registrert som kontaktlærer for en eller flere elever (se Elevadmin.>Kontaktlærer), tildeles læreren automatisk ressurs ut fra det ovenstående.
 
