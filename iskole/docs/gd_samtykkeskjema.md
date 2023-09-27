@@ -8,7 +8,7 @@ sidebar_label: Samtykkeskjema
 Her legger skolen inn en spesifisering av hva som man gir samtykke til. Her er et eksempel:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/196361479-ae7d6bbc-b729-45e1-8ff4-0bc6dba3d154.png)
-
+![Uploading grunnlagsdata_samtykkeskjema_oversikt.png…]()
 
 Klikker en på ![bilde](https://user-images.githubusercontent.com/80097133/194519572-fb80ce09-5c8d-4813-ab5f-edc85cc2ff16.png) fås detaljene frem:
 
