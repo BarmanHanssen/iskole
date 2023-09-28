@@ -15,7 +15,5 @@ Se figuren ovenfor. NOR skal altså bare være registrert i klasse NA2H (moderkl
 
 Dersom elevene omgrupperes på annen måte, altså ikke sammenslåing av hele klasser, så benytter vi gruppefag. Gruppefag er omtalt under menyvalget _Fag_.
 
-![bilde](https://user-images.githubusercontent.com/80097133/148374550-0c5c7ab8-ada0-4e82-a09f-c67807992760.png)
-
 Eksempel: Man ønsker at ST1A skal være moderklasse i ENG, og ST1B skal være gjesteklasse, men man finner ikke faget ENG som mulig moderklassefag for ST1B! Grunnen er at klasse ST1B allerede har ENG som et av sine klassefag. Man kan ikke legge to fag med samme fagkode inn som klassefag i en klasse. Man må derfor påse at ikke gjesteklassene allerede har faget de skal være gjest i.
 
