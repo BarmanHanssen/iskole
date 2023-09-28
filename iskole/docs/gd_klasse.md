@@ -1,7 +1,7 @@
 ---
 id: gd_klasse
-title: Klasse
-sidebar_label: Klasse
+title: Klasser
+sidebar_label: Klasser
 ---
 
 Når klassetrinn er registrert (se _Utdanningsprogram_), kan man spesifisere hvilke klasser skolen skal ha på det enkelte utdanningsprogram i denne planperioden. For store skoler vil det kunne være flere klasser på hvert klassetrinn. 
