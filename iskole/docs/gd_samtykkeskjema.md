@@ -9,9 +9,7 @@ Her legger skolen inn en spesifisering av hva som man gir samtykke til. Her er e
 
 ![bilde](/img/grunnlagsdata_samtykkeskjema_oversikt.png 'Samtykkeskjema')
 
-Klikker en på ![bilde](https://user-images.githubusercontent.com/80097133/194519572-fb80ce09-5c8d-4813-ab5f-edc85cc2ff16.png) fås detaljene frem:
-
-![bilde](https://user-images.githubusercontent.com/80097133/196361523-3e841a01-f72d-4a91-b2b9-023c13af1ed6.png)
+Første kolonne viser piler opp og ned som kan benyttes for å endre spørsmålsrekkefølgen. Trykker man på blyantikonet så vil man kunne redigere samtykketeksten samt endre aldersgrensen for når elevene selv kan velge å samtykke på det valgte spørsmålet.
 
 Når eleven er innlogget på iSkole vil et eget menyvalg (_Samtykke_) vise hva som er mulig å gi samtykke til.
 Dersom eleven er under angitt aldersgrense er det foreldre/foresatte som får forespørselen. 
