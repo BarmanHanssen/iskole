@@ -17,8 +17,5 @@ Dersom elevene omgrupperes på annen måte, altså ikke sammenslåing av hele kl
 
 ![bilde](https://user-images.githubusercontent.com/80097133/148374550-0c5c7ab8-ada0-4e82-a09f-c67807992760.png)
 
-Eksempel: Dersom man her ønsker at ST1A skal være moderklasse i ENG, og ST1B skal være gjesteklasse, fås dette utvalget:
- 
-![bilde](https://user-images.githubusercontent.com/80097133/148374862-0c71e359-f7a7-4d8a-a079-6c2658a5f1cb.png)
+Eksempel: Man ønsker at ST1A skal være moderklasse i ENG, og ST1B skal være gjesteklasse, men man finner ikke faget ENG som mulig moderklassefag for ST1B! Grunnen er at klasse ST1B allerede har ENG som et av sine klassefag. Man kan ikke legge to fag med samme fagkode inn som klassefag i en klasse. Man må derfor påse at ikke gjesteklassene allerede har faget de skal være gjest i.
 
-Skolen har en klasse ST1B, men den klassen kommer ikke med blant tilgjengelige klasser. Grunnen er at ST1B alt har ENG som fag. Dersom man fra menyvalget _Klasse_ fjerner ENG fra ST1B, vil klassen bli en _Tilgjengelig_ gjesteklasse.
