@@ -12,7 +12,7 @@ jobs:
   deploy-website:
     docker:
       # specify the version you desire here.
-      - image: circleci/node
+      - image: cimg/node:lts
 
     steps:
       - add_ssh_keys:
