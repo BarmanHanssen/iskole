@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiskole=self.webpackChunkiskole||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Dokumentasjon p\xe5 nett","permalink":"/blog/2019/05/28/hola"}]}')}}]);

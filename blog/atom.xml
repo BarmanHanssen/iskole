@@ -9,8 +9,8 @@
     <icon>https://dokumentasjon.iskole.net/img/iskole.ico</icon>
     <entry>
         <title type="html"><![CDATA[Dokumentasjon på nett]]></title>
-        <id>https://dokumentasjon.iskole.net/blog/2019/05/28/hola</id>
-        <link href="https://dokumentasjon.iskole.net/blog/2019/05/28/hola"/>
+        <id>https://dokumentasjon.iskole.net/blog/hola</id>
+        <link href="https://dokumentasjon.iskole.net/blog/hola"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[For å gjøre dokumentasjonen lettere tilgjengelig flytter vi den ut på nett. I tillegg til dokumentasjon av hvert enkelt menyvalg, har vi også dokumentasjon for ulike oppgaver. Denne finner du under «Emner»]]></summary>
         <content type="html"><![CDATA[<p>For å gjøre dokumentasjonen lettere tilgjengelig flytter vi den ut på nett. I tillegg til dokumentasjon av hvert enkelt menyvalg, har vi også dokumentasjon for ulike oppgaver. Denne finner du under «Emner»</p>]]></content>
