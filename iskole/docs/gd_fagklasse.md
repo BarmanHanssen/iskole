@@ -16,3 +16,4 @@ Se figuren ovenfor. GEO skal  bare være registrert i klasse ST1A (moderklassen)
 Dersom elevene omgrupperes på annen måte, altså ikke sammenslåing av hele klasser, så benytter vi gruppefag. Gruppefag er omtalt under menyvalget _Fag_.
 
 Eksempel: Man ønsker at ST1A skal være moderklasse i ENG, og ST1B skal være gjesteklasse. Men man finner ikke klasse ST1B i listen over mulige gjesteklasser! Grunnen vil da være at ST1B allerede har ENG som et av sine klassefag. Man må altså fjerne klassefaget ENG i ST1B før klassen kan bli gjest i ST1A.
+
