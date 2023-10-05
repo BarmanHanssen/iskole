@@ -25,7 +25,7 @@ Det er mulig kun å benytte deler av den beskrevne flyten. F.eks. kan man gå di
 I IOP-behandlingen skilles det i hovedsak mellom IOP-ansvarlig og faglærere. IOP-ansvarlig har full tilgang til alle funksjoner. De oppretter søknader og IOP og bestemmer når faglærerne og elever/foreldre skal få tilgang til elevens IOP. Rollen som IOP-administrator tildeles av rektor eller administrator fra _Mine sider > Tilgang_. Tilgang til elevens IOP tildeles automatisk til alle lærere som har eleven i minst ett fag. Eleven trenger ikke å ha IOP i faglærerens fag for at faglæreren skal få tilgang. Faglærer har ikke mulighet til å laste ned dokumenter, med unntak av dokumenter IOP-administratoren har gjort synlig for faglærere. Faglærere har kun leserettighet på elevens IOP del 1. For IOP del 2 har man leserettighet på alle fag. For egne fag har man også skriverettighet.
 
 :::tip Faglærere
-Faglærere kan hoppe til avsnittet for [Elevens IOP](#elev_iop)
+Faglærere kan hoppe til avsnittet for [Elevens IOP](#elev_iop).
 :::
 
 ## Opprett søknad for elev
