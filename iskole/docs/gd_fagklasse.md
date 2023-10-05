@@ -10,7 +10,7 @@ Faget som er felles legges bare inn i en klasse. Denne klassen blir moderklassen
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/585a5f5c-8884-4f5f-9565-bf63aaa148b4)
 
 :::note Merk
-Se figuren ovenfor. NOR skal altså bare være registrert i klasse NA2H (moderklassen), men ikke i NA2S (gjesteklassen).
+Se figuren ovenfor. GEO skal  bare være registrert i klasse ST1A (moderklassen), men ikke i gjesteklassen.
 :::
 
 Dersom elevene omgrupperes på annen måte, altså ikke sammenslåing av hele klasser, så benytter vi gruppefag. Gruppefag er omtalt under menyvalget _Fag_.
