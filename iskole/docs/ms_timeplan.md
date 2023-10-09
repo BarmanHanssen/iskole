@@ -18,10 +18,10 @@ _Ukeplan_:
 Hvis du har lagret en ukeplan til et fag (fra Års-/ukeplan_),  vil planen i faget vises her. 
 
 _Stillingsoversikt_:
-Her viser alle dine fag på listeform, samt eventuell tillegg. Summen er din stillingsstørrelse.
+Dersom du er lærer vises alle dine fag på listeform. Prosentsatsen for hvert fag er fastsatt av skolen. Tillleggsressurs for annet enn udersvisning blir også tatt med. Summen er din stillingsstørrelse.
 
 ## Lærertimeplan
-Her finner du timeplanen til samtlige lærere ved skolen. Nedtrekkslisten inneholder derfor navnene til alle som har undervisning ved skolen inneværende planperiode. Planleggingsdager er markert med gul, fridager med fiolett og vikartimer med grønn farge. Uker uten undervisning vises ikke. Klikk på en time for å få flere detaljer. Da vises også fagets navn, når timen slutter, eventuell vikar og om også tolærer er tilknyttet timen.
+Her finner du timeplanen til samtlige lærere ved skolen. Nedtrekkslisten inneholder derfor navnene til alle som har undervisning ved skolen inneværende skoleår. Planleggingsdager er markert med gul, fridager med fiolett og vikartimer med grønn farge. Uker uten undervisning vises ikke. Klikk på en time for å få flere detaljer. Da vises også fagets navn, når timen slutter, eventuell vikar og om også tolærer er tilknyttet timen.
 
 ## Elevtimeplan
 Her finner du timeplanen til samtlige elever ved skolen.
