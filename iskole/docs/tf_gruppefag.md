@@ -25,7 +25,7 @@ Når et fag velges vil blåfargen bli erstattet med tallet 1 (standardverdi). Vi
 Vi ser nå på hva som kan legges inn, og hva som automatisk følger med av data for det enkelte gruppefag.
 
 :::note Merk 
-Fagets ressurs (se _Grunnlagsdata>Fag_) gis til faglæreren som står oppført på første linje i oversikten over fagene. Skal ressursen fordeles, må det korrigeres fra menyvalget _Andre ressurser_. 
+Fagets ressurs (se _Grunnlagsdata>Fag_) gis til faglæreren som står oppført på første linje i oversikten over fagene. Skal ressursen fordeles, må det korrigeres fra menyvalget  _Andre ressurser_. 
 :::
 ### # (gruppenr)
 Dersom mer en en gruppe i et fag blir opprettet, må de skilles ved gruppenummer. Vanligvis benyttes 1 og 2 dersom 2 grupper i faget opprettes. 
