@@ -11,7 +11,6 @@ Her registreres hvilke grupper som skolen i år skal tilby som valgbare fag.
 Hvilke gruppefag tilbyr i inneværende år fremkomme her. Ny gruppe kan registreres herfra, eller fra _Grunnlagsdata>Grupper_.
 Oversikt over samtlige gruppefag som kan velges er registrert fra _Grunnlagsdata>Fag>Gruppefag_.
 
-Alle fag som er registrert fra _Grunnlagsdata>Fag>Gruppefag_ kommer med her. 
 Fagene merket med blå farge i kolonnen # ikke satt opp som valgbart gruppefag i år. 
 
 Man kan registrere en ny gruppe uten å legge inn  andre data (om lærer, tolærer osv).
