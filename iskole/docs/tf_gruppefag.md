@@ -8,13 +8,13 @@ Her registreres hvilke grupper som skolen i år skal tilby som valgbare fag.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3cb02c74-b401-4917-838a-df6f115ffb52)
 
-Hvilke gruppefag som skolen skal tilby i inneværende år fremkomme her. Ny gruppe kan registreres herfra, eller fra _Grunnlagsdata>Grupper_.
+Hvilke gruppefag tilbyr i inneværende år fremkomme her. Ny gruppe kan registreres herfra, eller fra _Grunnlagsdata>Grupper_.
 Oversikt over samtlige gruppefag som kan velges er registrert fra _Grunnlagsdata>Fag>Gruppefag_.
 
 Alle fag som er registrert fra _Grunnlagsdata>Fag>Gruppefag_ kommer med her. 
 Fagene merket med blå farge i kolonnen # ikke satt opp som valgbart gruppefag i år. 
 
-Man kan registrere en ny gruppe uten å legge inn  andre data (lærer, tolærer osv).
+Man kan registrere en ny gruppe uten å legge inn  andre data (om lærer, tolærer osv).
 
 For å opprette en gruppe klikker man på faget, eksempelvis ST2 BIO, deretter på ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e6ed7e2b-11a6-4cc0-80a8-dc60d13077ec)
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/8c6982bb-864f-40fe-ab0a-f2aacd68132e)
