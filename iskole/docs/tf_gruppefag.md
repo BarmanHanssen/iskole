@@ -37,7 +37,7 @@ Når ny gruppe registreres, vil  elevantallet  være null. Dersom skjermbildet t
 Uketimer, registrert fra _Grunnlagsdata>Fag_, er gjerne fast gjennom hele skoleåret. Men timeplanlegger kan justere det på ukesbasis når timeplanen legges.
 
 ### Årstimer
-Totalt antall timer som skal timeplanlegges. Det er timeplanmlegger som må påse at faget får nok undervisningstid ut fra ferdiglagt timeplan. Årstimer kan avvike fra fagets omfang. Fagets _Omfang_ er fastsatt i fagplanen, og er angitt i klokketimer. Dersom skolen har timelengde som ikke er på 60 minutter, vil timer på timeplanen (årstimer) avvike fra fagets omfang. Det fins rapporter som summerer timer for hvert timeplanlagte fag, og gir svaret i klokketimer. 
+Totalt antall timer som skal timeplanlegges. Det er timeplanlegger som må påse at faget får nok undervisningstid ut fra ferdiglagt timeplan. Årstimer kan avvike fra fagets omfang. Fagets _Omfang_ er fastsatt i fagplanen, og er angitt i klokketimer. Dersom skolen har timelengde som ikke er på 60 minutter, vil timer på timeplanen (årstimer) avvike fra fagets omfang. Det fins rapporter som summerer timer for hvert timeplanlagte fag, og gir svaret i klokketimer. 
 
 ### %
 Angir leseprosenten i faget, beregenet ut fra brøken årstimer/årsramme. Verdien på årstimer og årsramme er registert på faget, se _Grunnlagsdata>Fag_.
