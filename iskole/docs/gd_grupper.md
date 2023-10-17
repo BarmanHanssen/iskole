@@ -19,3 +19,7 @@ Blokkid blir definert fra _Timeplan>Blokk>Grupppering av timer til valg_. Fag me
 
 ### Litt om kolonnene i skjermbildet
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d6a80ad7-6744-403e-8211-fcb36ee70830)
+
+Dataene er hentet fra hva som er lagt inn fra menyvalget _Fag>Gruppefag_. I tillegg kommer _Elever_ og _Gruppenr:Blokkid_.
+_Elever_ viser antallet elever som er påmeldt i faget. Når gruppen opprettes fra dette menyvalget, er tallet selvsagt null.
+_Gruppenr:Blokkid_: Dersom blokkid er innført vises kombinasjonen gruppenr:blokkid. Dersom flere grupper i faget kommer de i rekkefølge.
