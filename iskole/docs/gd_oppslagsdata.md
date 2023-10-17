@@ -36,7 +36,7 @@ På udir.no finner man fagplaner mm for hvert fag.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/87b9716c-4d15-49e8-9f65-af1b2f88fb0a)
 
-Her vises blant annet hvordan en eksamen kan organiseres. Eksamensformen tas med på kompetansebevis og vitnemål.
+Her vises kodene som benyttes for de enkelte vurderingsalternativ som er definert. Vurderingsformen (gitt med to bokstaver) tas med på kompetansebevis og vitnemål.
 
 #### _Fagmarknader_
 
