@@ -16,3 +16,6 @@ Når ny gruppe opprettes, må gruppenr gis en verdi. I tillegg etterspørres ogs
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/30ad1c9b-fbf7-4c64-8126-5ea84f28b547)
 
 Blokkid blir definert fra _Timeplan>Blokk>Grupppering av timer til valg_. Fag med likt blokkid skal undervisese parallelt. Det innebærer at to grupper med samme blokkid ikke kan ha samme lærer, og at en elev bare kan velge ett av fagene. Verdi for blokkid kan eventuelt endres senere.
+
+# Litt om kolonnene i skjermbildet
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d6a80ad7-6744-403e-8211-fcb36ee70830)
