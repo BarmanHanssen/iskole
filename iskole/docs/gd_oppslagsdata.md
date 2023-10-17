@@ -40,7 +40,7 @@ Her vises kodene som benyttes for de enkelte vurderingsalternativ som er definer
 
 #### _Fagmarknader_
 
-Kodeverket gjelder for videregående skoler. Udir har en gruppe merknader som skal kunne brukes ved utskrift av kompetansebevis/vitnemål. Disse FAM-kodene skal benyttes på elevnivå, se _Elevadmin>Karakterdokumentasjon_ og _Elevadmin>Karakterer/FAM_. Utgåtte fagmerknader vises også, men da med rød skrift.
+Udir har en gruppe merknader som skal kunne brukes ved utskrift av kompetansebevis/vitnemål. Disse FAM-kodene skal benyttes på elevnivå, se _Elevadmin>Karakterdokumentasjon_ og _Elevadmin>Karakterer/FAM_. Utgåtte fagmerknader vises også, men da med rød skrift.
 
 #### _Ekskluderende fag_
 
@@ -51,4 +51,6 @@ Ved skoleårets slutt skal elevens fagkarakter innføres enten som standpunkt-, 
 
 #### _Sum omfang_
 
-Fag som går over flere år, eksempelvis norsk, har egen fagkode for hvert årstrinn. Årstimetallet forteller omfanget av undervisning for faget det året faget tas. Da oppstår et problem ved utskrift av kompetansebevis/vitnemål, noe som løses her. Nemlig at på utskriften skal timetallet vise summen av timer over flere år, og ikke timetallet som hører til fagkoden, altså årets timetall. Denne tabellen oppdateres av oss. Dersom et slikt fag ikke ligger inne her, så gi beskjed til oss, eksempelvis via support@barman-hanssen.no!
+Fag som går over flere år, eksempelvis norsk, har egen fagkode for hvert årstrinn. Årstimetallet forteller omfanget av undervisning for faget det året faget tas. Da oppstår et problem ved utskrift av kompetansebevis/vitnemål, noe som løses her. Noen fag, som norsk, skal bare faget tatt på høyeste nivå tas med på utskriften. Da skal timetallet summert frem til avslutning i faget fremkomme, altså ikke avslutningsårets timetall.
+
+Denne tabellen oppdateres av oss. Dersom et slikt fag ikke ligger inne her, så gi beskjed til oss, eksempelvis via support@barman-hanssen.no!
