@@ -9,7 +9,7 @@ Her registreres hvem som skal undervise i en klasse. Læreren som står registre
 
 Skjermbilde ved oppstart:
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/d6a8be2a-d870-4d96-8afa-c32e46bc2ab4)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/4d5fd320-734d-46c2-9bbe-d9899d9904c8)
 
 
 
