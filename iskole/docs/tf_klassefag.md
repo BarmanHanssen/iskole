@@ -15,7 +15,6 @@ Skjermbilde ved oppstart:
 
 
 
-
 I eksemplet har vi ekspandert klasse ST3A:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/194847356-b7d4dbfc-e497-41b2-8a63-c26e44735d7b.png)
