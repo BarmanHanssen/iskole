@@ -16,8 +16,12 @@ Skjermbilde ved oppstart:
 
 #### Valg
 Ikonet for slett sletter gjelder bare for fag som har fått registrert lærer. Det er bare læreren som slettes fra faget, faget blir stående.
-#### Fag, Fagnavn, Fagkode, Omfang og Prosent fag/lærer
-Datagrunnlaget for fagene som fremkommer her er registrert, og kan bare endres, fra _Grunnlagssdata>Klasser_.
+#### Fag, Fagnavn, Fagkode, Omfang
+Datagrunnlaget for fagene som fremkommer her er registrert, og kan bare endres, fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning.
+### Prosent fag/lærer
+Registreres av skolen selv. Prosent fag angir fagets leseprosent. Dersom en lærer ikke dekker undervisningen alene, kan prosenten justeres her. 
+### Årstimer fag/lærer
+Antall undervisningstimer for faget registreres av skolen selv.  Dersom skolen benytter 45 min timer, vil tallet her tilsvare Omfag*4/3. Årstimer for læreren kan justeres av skolen, eksempelvis dersom flere lærere står for undervisningen i faget.
 
 
 I eksemplet har vi ekspandert klasse ST3A:
