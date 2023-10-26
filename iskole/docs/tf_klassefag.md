@@ -7,6 +7,15 @@ sidebar_label: Klassefag
 ## Klassefag
 Her registreres hvem som skal undervise i en klasse. Læreren som står registrert på første linje er fagansvarlig, og er den som fører inn terminkarakteren i faget. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer uke for uke, uavhengig av hvem som er fagansvarlig.
 
+Skjermbilde ved oppstart:
+
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/d6a8be2a-d870-4d96-8afa-c32e46bc2ab4)
+
+
+
+
+
+
 I eksemplet har vi ekspandert klasse ST3A:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/194847356-b7d4dbfc-e497-41b2-8a63-c26e44735d7b.png)
