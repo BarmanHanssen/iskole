@@ -16,8 +16,8 @@ Skjermbilde ved oppstart:
 
 #### Valg
 Ikonet for slett sletter gjelder bare for fag som har fått registrert lærer. Det er bare læreren som slettes fra faget, faget blir stående.
-#### Fag, Fagnavn og Fagkode
-Fagene som fremkommer her er registrert, og kan bare endres, fra _Grunnlagssdata>Klasser_.
+#### Fag, Fagnavn, Fagkode, Omfang og Prosent fag/lærer
+Datagrunnlaget for fagene som fremkommer her er registrert, og kan bare endres, fra _Grunnlagssdata>Klasser_.
 
 
 I eksemplet har vi ekspandert klasse ST3A:
