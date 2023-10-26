@@ -20,9 +20,14 @@ Ikonet for slett sletter gjelder bare for fag som har fått registrert lærer. D
 Datagrunnlaget for fagene som fremkommer her er registrert, og kan bare endres, fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning.
 ### Prosent fag/lærer
 Registreres av skolen selv. Prosent fag angir fagets leseprosent. Dersom en lærer ikke dekker undervisningen alene, kan prosenten for læreren justeres her. 
+### Uketimer fag/lærer
+Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned av timeplanlegger på ukesbasis.
 ### Årstimer fag/lærer
-Antall undervisningstimer for faget registreres av skolen selv.  Dersom skolen benytter 45 min timer, vil tallet her tilsvare Omfag*4/3. Årstimer for læreren kan justeres av skolen, eksempelvis dersom flere lærere står for undervisningen i faget.
-
+Antall undervisningstimer for faget registreres av skolen selv.  Dersom skolen benytter 45 min timer, vil tallet her tilsvare Omfang*4/3. Årstimer for læreren kan justeres av skolen, eksempelvis dersom flere lærere står for undervisningen i faget.
+### Timeplanlagt fag/lærer
+Dersom timeplanlegger alt har lagt timer i faget for klassen, vises resultatet her. Dersom flere lærere deler faget, vil den enkelte lærere ha færre timer på sin timeplan.
+### Elever
+Elevtallet viser hvor mange elever som er tatt inn på dagens dato. Ofte vil time- og fagfrordelingen settes opp før elevene er på plass
 
 I eksemplet har vi ekspandert klasse ST3A:
 
