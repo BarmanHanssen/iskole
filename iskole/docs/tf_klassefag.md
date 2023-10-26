@@ -11,9 +11,13 @@ Skjermbilde ved oppstart:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/4d5fd320-734d-46c2-9bbe-d9899d9904c8)
 
-Fagene som fremkommer her er registrert, og kan bare endres, fra _Grunnlagssdata>Klasser_.
-
+#### Vi ser på detaljene:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d9668265-5e70-4e0a-b9b2-95fcbd5f83eb)
+
+#### Valg
+Ikonet for slett sletter gjelder bare for fag som har fått registrert lærer. Det er bare læreren som slettes fra faget, faget blir stående.
+#### Fag, Fagnavn og Fagkode
+Fagene som fremkommer her er registrert, og kan bare endres, fra _Grunnlagssdata>Klasser_.
 
 
 I eksemplet har vi ekspandert klasse ST3A:
