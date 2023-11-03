@@ -11,7 +11,3 @@ tags: [fravær]
 <video controls>
   <source src="/video/fore_fravaer.mp4"/>
 </video>
-
-import ReactPlayer from 'react-player'
-<ReactPlayer playing controls url='/video/fore_fravaer.mp4' />
-
