@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiskole=self.webpackChunkiskole||[]).push([[8261],{54:function(a){a.exports=JSON.parse('{"label":"fravaer","permalink":"/blog/tags/fravaer","allTagsPath":"/blog/tags","count":1}')}}]);
