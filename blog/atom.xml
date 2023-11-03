@@ -12,11 +12,12 @@
         <id>https://dokumentasjon.iskole.net/blog/fore_fravaer</id>
         <link href="https://dokumentasjon.iskole.net/blog/fore_fravaer"/>
         <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<video controls=""><source src="/video/fore_fravaer.mp4"></video>]]></content>
         <author>
             <name>Thomas Hannestad</name>
             <uri>https://github.com/thomashannestad</uri>
         </author>
-        <category label="fravaer" term="fravaer"/>
+        <category label="fravær" term="fravær"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dokumentasjon på nett]]></title>
