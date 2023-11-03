@@ -15,14 +15,16 @@ Naviger til prøven. _Mine sider > Vurderinger > Fag > Alle elevene i faget > Ve
 
 ![Oversikt over antall innleveringer](/img/innleveringer.png)
  
+### Vise innleveringene
 Kolonnen _Innlevering_ viser antall innleveringer. Ved å klikke på _Vis(n)_ vises elevens innleveringer på denne oppgaven. Dersom skolen ikke benytter automatisk kontroll vil det i kolonnen _Plagiatkontroll_ stå _Ikke kontrollert_ og en lenke _Kontrollér_ som man klikker på for å sette i gang kontrollen. Teksten endres da til _Venter på plagiatkontroll (n minutter)_. Kontrollen skal normalt være ferdig innen 5 minutter. Klikk på knappen _Oppdater_ for å se om resultatet er klart. Når kontrollen er utført vises prosent likhet og lenke til rapporten. Dersom noe går galt og resultatet ikke er klart etter 10 minutter vises tekten _Intet resultat_ og en lenke _Sjekk igjen_. Klikk på denne for å starte en ny kontroll.
 ![Oversikt over elevs innleveringer](/img/innlevering_vis.png)
 
 
+### Laste ned alle innleveringene
 For å laste ned alle innleveringene samt en rapport som viser prosent likehet og en lenke til rapporten for den enkelte innlevering, klikker man på _Last ned alle innleveringer_. Man får da en zipfil som inneholder alle innleveringene og samlerapporten.
 ![Oversikt over antall innleveringer](/img/innlevering_rapport.png)
 
-:::note Merk
+:::info Merk
 Hvis man skal benytte lenken i PDF-rapporten må man være innlogget på iSkole i den nettleseren rapporten åpnes i.
 :::
 
