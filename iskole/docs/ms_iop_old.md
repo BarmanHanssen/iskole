@@ -17,7 +17,7 @@ iSkole kan benyttes for å håndtere hele søknadsprosessen i forbindelse med IO
 9. Faglærerne skriver inn vurdering 1. halvår/årsvurdering.
 10. Skolen skriver årsrapport og sender denne til fylket/kommunen.
 
-:::note Merk
+:::info Merk
 Det er mulig å kun benytte deler av den beskrevne flyten. F.eks. kan man gå direkte til punkt 5 og kun registrere vedtaket og gjøre IOP-dokumentasjonen på iSkole.
 :::
 
@@ -28,11 +28,11 @@ Ny elev registreres ved å klikke _Legg til elevsøknad_. Et dialogvindu viser a
 #### Fyll inn informasjon til søknaden
 Skriv inn opplysninger om sakkyndig vurdering, elevens mål med opplæringen, fagene det søkes IOP for og eventuelt andre opplysninger. Fag legges til ved å klikke _Legg til_ over tabellen Tilrådning om spesialundervisning. Dokumenter som skal være vedlegg til søknaden lastes opp ved å klikke _Legg til_ over tabellen _Elevens IOP-dokumenter (Alle år)_. Etter dokumentet er lastet opp til iSkole knyttes det til søknaden ved å velge det i listen til venstre og klikke på knappen med pil til høyre. Dokumentet flyttes da over til tabellen _IOP-dokumenter knyttet til årets søknad_.
 
-:::note Merk
+:::info Merk
 Listen over fag inneholder alle fag eleven er registrert med.
 :::
 
-:::note Merk
+:::info Merk
 Dokumentene må være i PDF-format.
 :::
 
@@ -41,7 +41,7 @@ Hvis man senere vil gjøre endring på søknaden klikker man på blyanten i kolo
 
 #### Godkjenning fra elev og foreldre
 Når søknaden er ferdig utfylt må den godkjennes av eleven eller forelder av elever som ikke er myndig. De får tilgang til søknaden ved at skolen klikker på knappen _Publiser_ i dialogvinduet for behandling av elevens søknad.
-:::note Merk
+:::info Merk
 Frem til søknaden er godkjent vil det fortsatt være mulig å gjøre endringer. Etter den er godkjent vil endringer kun være mulig ved å klikke _Åpne søknad_. Da må den godkjennes på nytt.
 :::
 

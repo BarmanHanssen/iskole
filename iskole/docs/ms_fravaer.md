@@ -43,7 +43,7 @@ Dersom du skal markere for fremmøte (kode M), gjøres dette raskt og effektiv v
 Når du står i et tekstfelt, kan du klikke "_Enter_"-tasten for å flytte markøren til feltet nedenfor. 
 :::
 
-:::note Merk
+:::info Merk
 Markering av fravær/tilstedeværelse henviser til gjeldende timeplan. Dersom en time blir flyttet til et annet tidspunkt bør den straks flyttes av timeplanlegger slik at timeplanen til enhver tid er korrekt.
 :::
 
@@ -101,7 +101,7 @@ Timefravær har i tillegg er en kolonne for time.
 ### Behandle egenmelding
 Vinduet for behandling er delt i tre deler. Først vises elevens egenmelding med eventuell opplastet dokumentasjon, etterfulgt av eventuelt allerede ført fravær og til slutt det man vil bli ført ved å godkjenne egenmeldingen. Verdiene vil være forhåndsutfylt basert på elevens egenmelding, men det kan være behov for å gjøre endringer. Kanskje skal fraværstypen endres fra D til I eller krysset _Dokumentert jf §3-3_ krysses av, dersom dokumentasjonen viser dette.
 
-:::note Merk
+:::info Merk
 Dersom egenmeldingen er meldt inn av en forelder, så vil dette vises i feltet _Ført av_.
 :::
 

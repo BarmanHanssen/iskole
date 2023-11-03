@@ -13,7 +13,7 @@ _Prøveliste_ viser en liste over de prøvene som allerede er registrert i faget
 ### Opprett ny prøve 
 For å opprette en ny prøve, klikk _Legg til ny prøve_. Velg prøveform, dato prøven skal avholdes, når den skal bli synlig for elevene, prøvens varighet og en beskrivelse. Hvis antall dager settes til én vil iSkole behandle prøven som en heldagsprøve. Dette vil blandt annet gi deg mulighet til å føre fravær for denne prøven. Hvis du ønsker at elevene skal levere dokumenter i forbindelse med prøven, kan du oppgi en innleveringsfrist. Elevene har mulighet til å levere flere dokumenter, og de kan levere inntil de har fått en karakter eller en kommentar. Hvis vurderingen settes etter innleveringsfristen, vil eleven ha mulighet til å levere, men innleveringsdatoen vil bli markert med rødt. Å klikke _Lagre og gå til resultater_ er det samme som å klikke _Lagre og gå til prøver_ for deretter å velge prøven fra prøvelisten. 
 
-:::note Merk
+:::info Merk
 Hvis det ikke velges noen dato i feltet _Resultater vises fra_ vil resultatene vises for eleven så snart de er innført.
 :::
 
@@ -32,7 +32,7 @@ Samtaler faglæreren har hatt med eleven kan dokumenteres i iSkole. Når du har 
 
 Det kan føres fagsamtaler for flere elever samtidig ved å veleg _Legg inn fagsamtale for alle elever_ over listen med elever. Skriv ønsket tekst, kryss av de elevene teksten skal gjelde for og klikk _Kopier ti valgte elever_. Kopieringen kan gjentas flere ganger slik at grupper av elever kan få samme tekst. Når en eller flere av elevene har de tekstene de skal ha klikker du _Lagre og gå tilbake_ for å legge inn alle fagsamtalene.
 
-:::note Merk
+:::info Merk
 Dersom du kun kopierer og ikke lagrer vil det ikke bli registrert noen elevsamtaler.
 :::
 

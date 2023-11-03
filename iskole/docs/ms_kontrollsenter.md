@@ -23,7 +23,7 @@ Elever/foresatte kan sende inn søknad om permisjon fra meyvalget _Meldinger_. E
 ### Udokumentert fravær
 I denne ruten vises alt udokumentert fravær i alle fag hvor fraværet er registrert. Men man får bare med fag som har fravær større enn den angitt prosenten. Ved å trykke på et navn får man frem en alle fag til eleven med oversikt over alt fravær og merknader for denne eleven. For valgt elev kan også hente frem alle varselbrev til eleven ved å følge lenken _Vis_ under kolonnen _Brev_.  
 
-:::note Merk
+:::info Merk
 
 Benytt  _Informasjon_ for nærmere forklaring av utvalget. Man kan skrive i feltene over kolonnenavene for å sile innholdet, og/eller sortere radene i kolonnen for å bedre oversikten.
 

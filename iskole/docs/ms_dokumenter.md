@@ -26,7 +26,7 @@ For å laste opp en fil, klikk _Velg fil_, naviger til ønsket fil og klikk _OK_
 ### Deling
 Du kan dele dokumenter i arkivet ditt med elever og lærere i fag. Høyreklikk på dokumentet du ønsker å dele, og velg _Del fil_. Oppgi når dokumentet skal være synlig og hvilke fag dokumentet skal være synlig for. Dokumentet vises for elevene og lærerne tilknyttet faget under menyvalget _Dokumenter_.
 
-:::note Merk
+:::info Merk
 Dokumentet vil bare være delt innenfor planperioden, selv om du oppgir en dato lengere frem i tid. 
 :::
 

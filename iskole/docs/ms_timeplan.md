@@ -6,7 +6,7 @@ sidebar_label: Timeplan
 
 _Min timeplan_ er standardvalget når man klikker på _Timeplan_. Når du logger på iSkole, vil du automatisk komme til gjeldende uke. Men du kan fritt velge en annen uke fra nedtrekkslisten.  Hvis du endrer uke, vil dette bli gjeldende uke også for nye menyvalg.
 
-:::note Merk
+:::info Merk
 Bruk valget _Zoom_ for å tilpasse visningen av timeplanen til skjermen du benytter. 
 Fra _Last ned timeplanen_ kan du lagre timeplanen i PDF-format.
 :::
@@ -53,5 +53,5 @@ Det er rektor/administrator som fra menyvalget _Tilgang_ kan åpne for reservasj
 _Egne reserveringer_: Her får du oversikt over alle rom som du har reservert for denne uken.
 
 
-:::note Start- og slutt-tider
+:::info Start- og slutt-tider
 Timeplanlegger har en mal som gir start- og slutt-tid for hver time som timeplanlegges. Malen kan endres fra _Timeplan>Tider_. Derfor behøver ikke eksempelvis første time på mandag starte likt for alle klasser. 

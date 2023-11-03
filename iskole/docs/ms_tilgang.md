@@ -25,7 +25,7 @@ Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilv
 ## Brukergrupper
 _Navn_ og _Beskrivelse_ sier det meste om de 25 definerte gruppene. Fra _Grupperettigheter_ fås detaljert oversikt over hvilke menyvalg den enkelte brukergruppe får tilgang til.
 
-:::note Merk
+:::info Merk
 Rektor kan gi den enkelte ansatte tilgang til det enkelte menyvalg uavhengig av brukergruppe.
 :::
 
@@ -85,7 +85,7 @@ I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge tim
 ## Romreservering
 Dersom andre enn timeplanlegger skal kunne reservere et rom, kan en her angi hvilke rom som kan reserveres av utvalgte ansatte. Dersom man gir en lærer en slik rettighet, kan vedkommende reservere et rom til en time hvor læreren allerede er båndlagt med undervisning i et annet rom. Ekstrarommet vil vises på lærerens timeplan, og på rommets timeplan. Se _Mine sider>Timeplan>Romtimeplan_ under fanene _Mine reserveringer_ og _Rom som du kan reservere_. 
 
-:::note Merk
+:::info Merk
 Dette er eneste mulighet for at en lærer skal kunne reservere mer enn et rom når læreren har en undervisningstime.
 :::
 

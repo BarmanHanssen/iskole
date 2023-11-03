@@ -31,11 +31,11 @@ Som standard ekskluderes de som har fått varsel, men du kan huke av _Inkluder e
 [Se reglement hos Udir](https://www.udir.no/regelverkstolkninger/opplaring/Vitnemal/fravarsgrense---udir-3-2016/)
 
 
-:::note Merk
+:::info Merk
 For at en elev skal regnes som varslet, må varselet være opprettet med avhuking _Fare for å overstige grense 10% udokumentert fravær_.
 :::
 
-:::info Viktig 
+:::caution Viktig 
 Varslet skal gis «straks». Det vil si at når det er fare for at eleven kan overskride fraværsgrensen, skal det varsles. Selv om det ble varslet i forbindelse med halvårskarakteren, må det varsles på nytt i forbindelse med standpunktkarakteren.
 :::
 

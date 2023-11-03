@@ -10,7 +10,7 @@ Videoen viser at brukeren har lagret en tilgangsnøkkel. I det øyeblikket finge
 
 ![Biometri](/img/Biometri.gif 'Biometri')
 
-:::note Merk
+:::info Merk
 Innlogging med brukernavn og passord vil fortsatt være mulig, kontoen bør derfor fortsatt være sikret med to-faktor.
 :::
 
