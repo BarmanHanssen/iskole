@@ -4,29 +4,34 @@ title: Startside
 sidebar_label: Startside
 ---
 
-Startsiden gir en pekepinn til dagens oppgaver.  Informasjonsboksene har lenker slik at man kan navigere til sider hvor man kan se nærmere på saken. Siden startsiden er ment å gi en pekepinn for dagens oppgaver, så vil utførte oppgaver ikke vises. 
+Startsiden gir en pekepinn til dagens oppgaver.  Informasjonsboksene har lenker slik at man kan navigere til sider hvor man kan få flere detaljer. Siden startsiden er ment å gi en pekepinn for dagens oppgaver, så vil utførte oppgaver ikke vises. 
+
+![Startsiden](/img/ms_startsiden.png 'Startsiden')
 
 ### Timeplan
 
-Her vises din timeplanen for i dag. Timeplanen for hele uken fås fra menyvalget _Timeplan_.
-Fra timeplanen gis en lenke til fraværsføringen. Kun fag man har karakteransvar for tas med i beregningen. Det vil si at om man er tolærer eller vikar, så vil man ikke få med disse fagene. 
+Her vises din timeplanen for i dag. Timeplanen for hele uken fås fra menyvalget [Timeplan](/docs/ms_timeplan).
+Timen i timeplanen er en lenke som går direkte til den komprimerte fraværsføringen for dette faget.
+
+### Min oversikt
+Gir oversikt over hendelser og oppgaver knyttet til din rolle. Hvilket innhold som skal vises kan tilpassed ved å klikke på blyanten oppe i høyre hjørne. 
 
 ### Nye meldinger
 
-Antall meldinger som du ennå ikke har åpnet angis her. Trykker du på ikonet ledes du til menyvalget _Meldinger_ for innsyn. 
+Antall meldinger som du ennå ikke har åpnet angis her. Trykker du på ikonet ledes du til menyvalget _Meldinger_. 
 
 ### Nye bulletenger
 
-Skolens ledere kan sendte ut meldinger til alle ansatte ved å benytte en bulleteng. En enkel og effektiv måte å kommunisere med alle aktive brukere av iSkole!
+Skolens ledere kan sende ut meldinger til alle elever, foreldre og ansatte ved å benytte en bulleteng. En enkel og effektiv måte å kommunisere med alle aktive brukere av iSkole!
 
 ### Fravær
 
-Her vises antall klager og egenmeldinger som du ennå ikke har behandlet.
+Her vises antall klager og egenmeldinger som du ennå ikke har behandlet. For kontaktlærere er det også en lenke direkte til føringen av dagfravær for hele uka.
 
 ### Udokumentert fravær
-Fraværsprosenten beregnes ut fra fagets omfang, altså for antall timer for hele skoleåret. For å få oversikt over hvem som kan være i faresonen, kan du få listet ut elevene i dine fag som har prosentvis fravæ på minst prosentsatsen som er lagt inn. Prosentsatsen kan du selv velge.
+Fraværsprosenten beregnes 1. halvår ut i fra timeplanlagte timer og for hele skoleåret mot fagets omfang, altså for antall timer hele skoleåret. For å få oversikt over hvem som kan være i faresonen, kan du få listet ut elevene i dine fag som har prosentvis fravær på minst prosentsatsen som er lagt inn. Prosentsatsen kan du selv velge.
 
-Som standard ekskluderes de som har fått varsel, men du kan huke av _Inkluder elever som har fått varsel_ for å se alle elever. Elever som har mer enn 7% fravær vil vises i listen hvis de ikke er varslet for 2. halvår, uavhengig av hvilken prosent man velger. Dette for å fange opp elever som allerede 1. halvår står i fare for å miste standpunktkarakteren.
+Som standard ekskluderes de som har fått varsel, men du kan huke av _Inkluder elever som har fått varsel_ for å se alle elever.
 
 [Se reglement hos Udir](https://www.udir.no/regelverkstolkninger/opplaring/Vitnemal/fravarsgrense---udir-3-2016/)
 
