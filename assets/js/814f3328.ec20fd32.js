@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiskole=self.webpackChunkiskole||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Frav\xe6rsf\xf8ring med telefon","permalink":"/blog/fore_fravaer"},{"title":"Dokumentasjon p\xe5 nett","permalink":"/blog/hola"}]}')}}]);

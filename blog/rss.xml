@@ -4,18 +4,10 @@
         <title>iSkole - skoleadministrativt system Blog</title>
         <link>https://dokumentasjon.iskole.net/blog</link>
         <description>iSkole - skoleadministrativt system Blog</description>
-        <lastBuildDate>Fri, 03 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Fraværsføring med telefon]]></title>
-            <link>https://dokumentasjon.iskole.net/blog/fore_fravaer</link>
-            <guid>https://dokumentasjon.iskole.net/blog/fore_fravaer</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<video controls=""><source src="/video/fore_fravaer.mp4"></video>]]></content:encoded>
-            <category>fravær</category>
-        </item>
         <item>
             <title><![CDATA[Dokumentasjon på nett]]></title>
             <link>https://dokumentasjon.iskole.net/blog/hola</link>
