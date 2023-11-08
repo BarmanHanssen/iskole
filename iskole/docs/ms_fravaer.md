@@ -4,7 +4,7 @@ title: Fravær
 sidebar_label: Fravær
 ---
 
-Dette menyvalget inneholder fagfravær, egenmeldinger, klager, heldagsprøver, fravær for eventuelle kontaktelever, sluttføring av fravær og fraværsføring for skolens ledelse. Tilganger og visninger tilpasses automatisk brukerens rolle. Rollene tilknyttet fraværsføring er faglærer, kontaktlærer og skolens ledelse. Faglærer har ansvaret for å føre fravær i sine fag og behandle eventuelle klager elevene har på fraværet som er ført. Skolen kan gi fraglærer ansvaret for å behandle egenmeldinger i sine timer. Kontaktlærer har det overordnede ansvaret for fraværet og omgjør timefravær til dagfravær, behandler egenmeldt dag- og timefravær og overfører fraværstallene til karakterdokumentasjonen (sluttføring). Skolen ledelse har samme rettighet som kontaktlæreren i føringen av fravær på alle skolens elever. De kan også søke opp fag eller faglærere for å føre fravær i fag.
+Dette menyvalget inneholder fagfravær, egenmeldinger, klager, heldagsprøver, fravær for eventuelle kontaktelever, sluttføring av fravær og fraværsføring for skolens ledelse. Tilganger og visninger tilpasses automatisk brukerens rolle. Rollene tilknyttet fraværsføring er faglærer, kontaktlærer og skolens ledelse. Faglærer har ansvaret for å føre fravær i sine fag og behandle eventuelle klager elevene har på fraværet som er ført. Skolen kan gi faglærer ansvaret for å behandle egenmeldinger i sine timer. Kontaktlærer har det overordnede ansvaret for fraværet og omgjør timefravær til dagfravær, behandler egenmeldt dag- og timefravær og overfører fraværstallene til karakterdokumentasjonen (sluttføring). Skolen ledelse har samme rettighet som kontaktlæreren i føringen av fravær på alle skolens elever. De kan også søke opp fag eller faglærere for å føre fravær i fag.
 
 :::important Fraværskoder
 
@@ -22,7 +22,6 @@ Grønt fravær er registert som dokumentert i henhold til Udirs reglement. Frav�
 Føring av fagfravær starer med at faglærer velger faget det skal føres fravær i. Det er kun mulig å føre fravær i de timene som er timeplagt i valgt fag. Ved føring av fagfravær kan man velge mellom to visninger _Fullvisning_ og _Komprimert visning_. Den komprimerte er beregnet for små skjermer og viser kun timene i det valgte faget. Fullvisningen viser i tillegg elevens øvrige timer og evetuelt fravær i disse. Faglæreren kan dermed se om eleven også har vært borte tidligere på dagen. Dersom en time ikke blir avholdt kan faglærer registrere dette i fullvisningen. I fullvisningen vises informasjon om timen (tidspunkt, merknad, fag og minutter fravær) ved å holde musepekeren over fraværskoden, dette er ikke tilgjengelig i komprimert visning. Øvrig funksjonalitet er lik i de to visningene.
 
 
-Klikk på ikonet for ønsket visningsform:
 ![Fravær](/img/ms_fravaer_oversikt.png 'Fravær')
 
 :::tip Tips
@@ -30,7 +29,9 @@ I begge visninger kan man klikke på en elevs navn for å få frem bilde og alle
 :::
 
 ### Komprimert visning
-Den komprimerte visningen er tenkt brukt på enheter med mindre skjermer, gjerne med touch-skjerm. Her vil kun fagets timer vises og fraværet føres ved å velge verdi fra knapperekken over tabellen og deretter klikke på de timene som skal ha denne fraværstypen. Standardvalget er fravær (F). 
+Den komprimerte visningen er tenkt brukt på enheter med mindre skjermer, gjerne med berøring. Her vil kun fagets timer vises og fraværet føres ved å velge verdi fra knapperekken over tabellen og deretter klikke på de timene som skal ha denne fraværstypen. Standardvalget er fravær (F). 
+
+![Fagfravær komprimert](/img/ms_fagfravaer_komp.gif 'Komprimert')
 
 :::tip Tips
 1. Hvis du klikker feil kan du angre ved å klikke på den runde knappen med pil tilbake.
