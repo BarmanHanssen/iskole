@@ -17,7 +17,7 @@ module.exports = {
       label: 'Mine sider',
       items: ['ms_startside','ms_timeplan','ms_fravaer','ms_meldinger','ms_bulleteng','ms_dokumenter','ms_vurderinger','ms_karakterer','ms_arsplan','ms_elever',
       'ms_elevsamtaler','ms_orden_atferd','ms_elevmappe','ms_brev','ms_iop','ms_permisjon','ms_sensor','ms_rapporter','ms_internat',
-      'ms_logg','ms_bibliotek','ms_utlaan','ms_personalia','ms_eget_fravaer','ms_tilgang','ms_skolerute','ms_planperiode','ms_foto','ms_kontrollsenter','ms_brukerrolle'],
+      'ms_logg','ms_bibliotek','ms_utlaan','ms_personalia','ms_eget_fravaer','ms_tilgang','ms_skolerute','ms_planperiode'],
     },
     {
       type: 'category',
@@ -40,7 +40,7 @@ module.exports = {
       type: 'category',
       label: 'Elevadmin',
       items: ['ea_sokere','ea_elev','ea_mappe','ea_kontaktlaerer','ea_fag','ea_frav_ord_atf','ea_kardok','ea_kar_fam','ea_vitnemaal','ea_nvb'
-          ,'ea_kompetansebevis','ea_vigo','ea_skyss','ea_oppflytting','ea_passord_foreldre','ea_brukernavn','ea_permisjon','ea_rapporter'],
+          ,'ea_kompetansebevis','ea_vigo','ea_skyss','ea_oppflytting','ea_passord_foreldre','ea_brukernavn','ea_permisjon','ms_foto','ea_rapporter'],
     },
     {
       type: 'category',
