@@ -10,7 +10,7 @@ Her starter det:
 
 ## Klassefag og Gruppefag
 
-:::note Tips
+:::tip Tips
 Har du _Fagkode_ markert med rød farge, velg da _Utgåtte fagkoder_ for å oppdatere, se omtale nederst på siden.
 :::
 
@@ -39,7 +39,7 @@ Velg førsst om det er et klasse- eller et gruppefag som skal legges til. Klikk 
 ### Karakterdokumentasjon
 - _Fagkode_: Alle fag i grunnskolen og i videregående skole som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klare for bruk. Trykk _Endre fagkode_, så får du opp en overveldende lang liste! For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden (eller deler av navn eller del av fagkoden). Unntaket er koden 999999 som vi bruker for fag som skal på timeplanen, men ikke skal tas med på karakterutskrifter. Slike fag er ofte en komponent av et fag med UDIR-fagkode. Mer om det nedenfor.
 
-:::note Merk 
+:::info Merk 
 Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinerskolene kan endre omfanget på sine fag. Det kan ingen andre skoler gjøre.
 :::
 
@@ -55,7 +55,7 @@ Skal resultatet lagres klikker en på ikonet for _Lagre for å avslutte.
 Klikk på faget som skal endres, deretter på ikonet _Endre_.
 Alt kan endres, untatt Trinn og kort-navn! 
 
-:::note Fagkode
+:::info Fagkode
 Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, tilsvarende for gruppefag. Endres fagkoden herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. Endring av fagkoden for både klasse- og gruppefag for en elev kan gjøres fra Elevadmin>Karakterdokumentasjon, alternativt fra Elevadmin.>Fag ved å ta ut faget, og sette det inn på nytt. Dersom endringen først gjøres etter at fravær og vurderinger er innført, vil endring av fagkoden for elev kunne bli mer komplisert.
 :::
 

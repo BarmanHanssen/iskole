@@ -13,7 +13,7 @@ For å begrense hva som vises, kan en legge inn filter. Da vises rader som inneh
 
 Merk at grunnskolen bare er representert med en kode, GS, mens videregående skole har et finmasket kodeverk for å angi innholdet i utdanningen. Teksten herfra benyttes ved utskrift av blant annet av kompetansebevis og vitnemål. Kompetansebevis og vitnemål kan også utskrives med engelsk tekst.
 
-:::note Tips
+:::tip Tips
 Dersom ingen av tekstene er dekkende, kan man benytte --
 :::
 

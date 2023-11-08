@@ -14,6 +14,6 @@ Første kolonne viser piler opp og ned som kan benyttes for å endre spørsmåls
 Når eleven er innlogget på iSkole vil et eget menyvalg (_Samtykke_) vise hva som er mulig å gi samtykke til.
 Dersom eleven er under angitt aldersgrense er det foreldre/foresatte som får forespørselen. 
 
-:::note Merk 
+:::info Merk 
 Skolen kan legge inn samtykketekst som gir foreldre/foresatte innsyn i alle data som er lagret om eleven også etter at eleven er myndig (18 år). Det er bare eleven selv som kan gi et slikt samtykke til sin foresatte. Husk at hvis man endrer på en samtykketekst, så vil alle eventuelle samtykker nullstilles.
 :::

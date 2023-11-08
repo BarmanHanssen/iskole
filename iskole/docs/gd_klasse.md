@@ -27,6 +27,6 @@ Kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget
  
 Når utfyllingen er avsluttet, trykkes _OK_ for lagring. Endringer kan gjøres senere. 
 
-:::note Merk
+:::caution Advarsel
 Hvis man tar ut et fag av klassen, så vil alle elevene i klassen miste faget, og faget mister læreren fra time- og fagfordelingen, og timeplanlagte timer blir slettet. 
 :::
