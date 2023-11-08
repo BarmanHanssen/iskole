@@ -40,9 +40,9 @@ Den komprimerte visningen er tenkt brukt på enheter med mindre skjermer, gjerne
 
 
 ### Fullvisning
-Fullvisningen inneholder informasjon om alle elevens timer. Timene i tabellen vil være markert med - hvis eleven ikke har undervisning. Fraværsføring i andre fag vises, men kan ikke endres her. Tomme felt betyr at eleven har undervisning, men at det ikke er registrert noe fravær.
+Fullvisningen inneholder informasjon om alle elevenes timer. Timene i tabellen vil være markert med - hvis eleven ikke har undervisning. Fraværsføring i andre fag vises, men kan ikke endres her. Tomme felt betyr at eleven har undervisning, men at det ikke er registrert noe fravær.
 
-Fravær kan kun føres der valgt fag er timeplanlagt. Gyldige verdier er F for fravær og S for forsentkomming. Det kan føres M for å dokumentere at eleven har møtt til undervisning. O benyttes for organisert studiearbeid, altså at eleven ikke er tilstede for undervisning, men hvor timen ikke bokføres som fravær. 
+Fravær kan kun føres der valgt fag er timeplanlagt. Gyldige verdier er F for fravær og S for forsentkomming. Det kan føres M for å dokumentere at eleven har møtt til undervisning. O benyttes for organisert studiearbeid, altså at eleven ikke er tilstede i undervisningen, men hvor timen ikke bokføres som fravær. 
 
 :::tip Tips
 Når du står i et tekstfelt kan du navigere til andre felter ved å benytte piltastene, alternativt _Enter_ for nedover og _Tab_ til høyre.
@@ -51,7 +51,7 @@ Når du står i et tekstfelt kan du navigere til andre felter ved å benytte pil
 ![Fagfravær](/img/Fagfravær.gif 'Fagfravær')
 
 ### Oppmøte
-Dersom du skal markere for oppmøte (kode M), gjøres dette raskt og effektiv ved å benytte knappen _Før oppmøte_. Du kan velge mellom å klikke _Før oppmøte_ for en og en time eller _Før oppmøte for alle timene_ for å føre oppmøte i alle timene i listen. Denne funksjonen fører M på alle elever i de aktuelle timene hvor eleven ikke allerede har en fraværskode. Vi anbefaler derfor at man først registrer og lagrer fraværet, deretter benytter funksjonen for oppmøte.
+Dersom du skal markere for oppmøte (kode M), gjøres dette raskt og effektiv ved å benytte knappen _Før oppmøte_. Du kan velge mellom å føre oppmøte for en og en time eller å føre oppmøte i alle timene i listen. Denne funksjonen fører M på alle elever i de aktuelle timene hvor eleven ikke allerede har en fraværskode. Vi anbefaler derfor at man først registrer og lagrer fraværet, deretter benytter funksjonen for oppmøte.
 
 ![Oppmøte](/img/ms_fagfravaer_oppmote.png 'Oppmøte')
 
@@ -91,10 +91,8 @@ Dersom faglærer vil avvise klagen går det en standard melding til eleven med i
 
 Teksten inni parentesene er variabler som byttes ut med verdier fra klagen i meldingen. Denne teksten kan endres av faglærer. 
 
-Merk at eleven må ta kontakt med faglæreren dersom faglæreren avviser klagen. Alternativt kan eleven sende en melding, den havner i faglærers Meldingsboks, altså ikke som her under Klager på faget.
-
 :::tip Tilgang til klager
-Ansvarlig faglærer kan behandle klager gjennom hele året. Dersom andre har undervisning i faget i enkelte uker (registrert fra mnyvalget _Time- og fagfordeling_), har også denne gruppen lærer tilgang til klagene. Sistnevnte gruppe innbefatter også tolærere og vikarer.
+Ansvarlig faglærer kan behandle klager gjennom hele året. Dersom andre har undervisning i faget i enkelte uker (registrert fra mnyvalget _Time- og fagfordeling_), har også denne gruppen lærere tilgang til klagene. Sistnevnte gruppe innbefatter også tolærere og vikarer.
 :::
 
 ### Elevers egenmeldinger
@@ -106,14 +104,14 @@ Eleven kan selv registrere dag- og timefravær. Kontaktlærer får egenmeldinger
 Timefravær har i tillegg er en kolonne for time. 
 
 #### Behandle egenmelding
-Vinduet for behandling er delt i tre deler. Først vises elevens egenmelding med eventuell opplastet dokumentasjon, etterfulgt av eventuelt allerede ført fravær og til slutt det man vil bli ført ved å godkjenne egenmeldingen. Verdiene vil være forhåndsutfylt basert på elevens egenmelding, men det kan være behov for å gjøre endringer. Kanskje skal fraværstypen endres fra D til I eller krysset _Dokumentert jf §3-3_ krysses av, dersom dokumentasjonen viser dette.
+Vinduet for behandling er delt i tre deler. Først vises elevens egenmelding med eventuell opplastet dokumentasjon, etterfulgt av eventuelt allerede ført fravær og til slutt det som vil bli ført ved å godkjenne egenmeldingen. Verdiene vil være forhåndsutfylt basert på elevens egenmelding, men det kan være behov for å gjøre endringer. Kanskje skal fraværstypen endres fra D til I eller krysset _Dokumentert jf §3-3_ krysses av, dersom dokumentasjonen viser dette.
 
 :::info Merk
 Dersom egenmeldingen er meldt inn av en forelder, så vil dette vises i feltet _Ført av_.
 :::
 
 
-![Egnemelding dagfravær](/img/ms_fravaer_egenmelding.png 'Egnemelding dagfravær')
+![Egnemelding timefravær](/img/ms_fravaer_egenmelding.png 'Egnemelding timefravær')
 
 
 ## Kontaktelever
@@ -131,21 +129,16 @@ For kontaktlærere og vikarer/assistenter tilordnet av kontaktlæreren fra _Mine
 Ved å klikke på blyanten kan man føre all fraværsinformasjon for en elev for en uke. Hver dag i valgt uke vil vise _Dagfravær_, _Dokumentert jf §3-9_ og _Merknad_, (Dagmerknad) etterfulgt av en tabell med de timene eleven har denne dagen. Det er ikke mulig å føre fravær på en time hvor eleven ikke har timeplanlagt undervisning. For gyldige verdier, se oversikten øverst på siden. Det er faglærerne som i hovedsak førerer timefraværet, men kontaktlæreren har allikevel fulle rettigheter til alle timene. Det er kun kontaktlæreren som har mulighet til å føre dagfravær. Kontaktlærer kan også markere at fraværet er dokumentert.
 
 :::info Merk
-Når det føres dagfravær låses muligheten for å endre timefraværet. Dersom det gjøres endringer på timeplanen eller eleven tildeles nye fag kan det forekomme at tomme timer som er låst av dagfraværet. Kontaktlæreren må ta stilling til om eleven skulle hatt fravær på disse timene, hvis så må dagfraværet slettes og deretter legges inn igjen.
+Når det føres dagfravær låses muligheten for å endre timefraværet. Dersom det gjøres endringer på timeplanen eller eleven tildeles nye fag kan det forekomme tomme timer som er låst av dagfraværet. Kontaktlæreren må ta stilling til om eleven skulle hatt fravær på disse timene, hvis så må dagfraværet slettes og deretter legges inn igjen.
 :::
 
 ### Behandle dagfravær for alle kontaktelever
-1. Alle celler har verktøyhjelp (tooltip) med unntak av de som har en strek som markerer at eleven har fritime. Verktøyhjelpen viser fag, tidspunkt og eventuell fraværskode, merknad og lengde på fraværet.
-1. Ved å klikke på elevens navn får man frem ukesvisningen for denne eleven. (Beskrevet i forrige avsnitt)
-1. Dagfravær kan som før føres ved avkrysning. 
+For at kontaklæreren raskere skal kunne før dagfravær på alle kontaktelevene for en uke kan knappen _Behandle dagfravær for alle_ benyttes. Her listes alle elevene og eventuelle fraværskoder vises for hver enkelt time. Å huke av en dag på en elev, er det samme som å føre D. Timer med - betyr at eleven ikke har undervisning, dette gjør det enklere å avgjøre om eleven har vært borte hele dagen. Ved å klikke på elevens navn vises den samme oversikten som beskrevet i avsnittet [Føre fravær på kontaktelev ukesvis](#kontaktelev_detaljer) Alle celler har verktøyhjelp (tooltip) med unntak av de som har en strek som markerer at eleven har fritime. Verktøyhjelpen viser fag, tidspunkt og eventuell fraværskode, merknad og lengde på fraværet.
 
-### Fravær kontaktelever
-Fraværsoversikt er en totaloversikt over elevens fravær hele skoleåret. 
-
-For at kontaklæreren raskere skal kunne før dagfravær på alle kontaktelevene for en uke kan knappen _Behandle dagfravær for alle_ benyttes. Her listes alle elevene og eventuelle fraværskoder vises for hver enkelt time. Å huke av en dag på en elev, er det samme som å føre D. Timer med - betyr at eleven ikke har undervisning, dette gjør det enklere å avgjøre om eleven har vært borte hele dagen. Ved å klikke på elevens navn vises den samme oversikten som beskrevet i avsnittet [Føre fravær på kontaktelev ukesvis](#kontaktelev_detaljer)
+![Alle kontaktelever](/img/ms_fravaer_alle.png 'Alle kontaktelever')
 
 ### Avslutt fraværsføring
-Når en termin er ferdig, skal fraværet overføres til karakterdokumentesjonen. For å avslutte første halvår, klikk _Sluttfør 1. halvår_. De elevene som har avvik mellom det som skal komme på karakterdokumentasjonen og det fraværet som er registrert, vil automatisk være avhuket. Klikk _Lagre_ for å overføre fraværet. Det er mulig å gjøre dette flere ganger.
+Når en termin er ferdig, skal fraværet overføres til karakterdokumentasjonen. For å avslutte første halvår, klikk _Sluttfør 1. halvår_. De elevene som har avvik mellom det som skal komme på karakterdokumentasjonen og det fraværet som er registrert vil automatisk være avhuket. Klikk _Lagre_ for å overføre fraværet. Det er mulig å gjøre dette flere ganger.
 
 ## Alle elever
 Skolens ledelse har full tilgang til all fraværsføring. De kan velge mellom to ulike innfallsvinkler, den første for fag og den andre for elever. I tillegg kan de overføre fraværstellingen til karakterdoumentasjonen til alle elever.
@@ -159,6 +152,6 @@ Her kan det søkes blant alle skolens elever. Ved å klikke på raden til ønske
 ### Avslutt fraværsføring
 Her kan man søke etter spesifike elever eller klasser og velge om man skal vise alle elever eller kun de som har avvik mellom ført fravær og hva som er overført til karakterdokumentasjonen. 
 
-::: info Tips
+:::tip Tips
 Klikk på filterknappen _Vis kun avvik_ og kryss av avkrysningsboksen i kolonneoverskriften for å velge alle skolens elever med avvik og til slutt _Lagre_ for å overføre fraværstellingen for alle elever med avvik.
 :::
