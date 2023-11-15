@@ -35,7 +35,8 @@ Den komprimerte visningen er tenkt brukt på enheter med mindre skjermer, gjerne
 
 :::tip Tips
 1. Hvis du klikker feil kan du angre ved å klikke på den runde knappen med pil tilbake.
-1. Hvis du har tastatur kan du holde inne shit-tasten for å fjerne et fravær. Musepekeren viser hvilken verdi som vil bli ført på timen.
+1. Hvis du har tastatur kan du holde inne shift-tasten for å fjerne et fravær. Musepekeren viser hvilken verdi som vil bli ført på timen.
+1. Du kan holde inne shift+S for å sette inn S på timen.
 :::
 
 
@@ -133,7 +134,7 @@ Når det føres dagfravær låses muligheten for å endre timefraværet. Dersom 
 :::
 
 ### Behandle dagfravær for alle kontaktelever
-For at kontaklæreren raskere skal kunne føre dagfravær på alle kontaktelevene for en uke kan knappen _Behandle dagfravær for alle_ benyttes. Her listes alle elevene og eventuelle fraværskoder vises for hver enkelt time. Å huke av en dag på en elev, er det samme som å føre D. Timer med - betyr at eleven ikke har undervisning, dette gjør det enklere å avgjøre om eleven har vært borte hele dagen. Ved å klikke på elevens navn vises den samme oversikten som beskrevet i avsnittet [Føre fravær på kontaktelev ukesvis](#kontaktelev_detaljer) Alle celler har verktøyhjelp (tooltip) med unntak av de som har en strek som markerer at eleven har fritime. Verktøyhjelpen viser fag, tidspunkt og eventuell fraværskode, merknad og lengde på fraværet.
+For at kontaklæreren raskere skal kunne føre dagfravær på alle kontaktelevene for en uke kan knappen _Behandle dagfravær for alle_ benyttes. Her listes alle elevene og eventuelle fraværskoder vises for hver enkelt time. Velg fraværstypen du ønsker å føre (dagfravær er standard), klikk deretter på ruten til de dagene denne koden skal settes inn. Husk å lagre. Timer med - betyr at eleven ikke har undervisning, dette gjør det enklere å avgjøre om eleven har vært borte hele dagen. Ved å klikke på elevens navn vises den samme oversikten som beskrevet i avsnittet [Føre fravær på kontaktelev ukesvis](#kontaktelev_detaljer) Alle celler har verktøyhjelp (tooltip) med unntak av de som har en strek som markerer at eleven har fritime. Verktøyhjelpen viser fag, tidspunkt og eventuell fraværskode, merknad og lengde på fraværet.
 
 ![Alle kontaktelever](/img/ms_fravaer_alle.png 'Alle kontaktelever')
 
