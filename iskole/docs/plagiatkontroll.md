@@ -28,3 +28,9 @@ For å laste ned alle innleveringene samt en rapport som viser prosent likehet o
 Hvis man skal benytte lenken i PDF-rapporten må man være innlogget på iSkole i den nettleseren rapporten åpnes i.
 :::
 
+### Kontrollér alle innleveringer
+Denne knappen vil laste opp siste innlevering fra alle elevene dersom plagiatkontroll ikke allerede er utført. Hvis det er kommet inn mange innleveringer etter siste kontroll vil det dermed være mulig å benytte denne funksjonen igjen, uten at alle innleveringene blir kontrollert på nytt.
+
+:::info Merk
+Kontrollen av alle innleveringer sjekker om vi har opprettet en kontroll, ikke om vi har fått tilbake resultatet. Dette for å forhindre at det settes i gang flere kontroller av samme dokument. Dersom noe har gått galt må man inn på den enkelte innlevering for å sette i gang en ny kontroll. Ny kontroll av en innlevering er mulig 10 minutter etter den ble opprettet.
+:::
