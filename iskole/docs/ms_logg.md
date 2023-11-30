@@ -3,7 +3,7 @@ id: ms_logg
 title: Logg
 sidebar_label: Logg
 ---
-Her kan ansatte notere hendelser hvor en elev er innblandet, og hvor hendelsen er av en slik art at det er greit å ha en dokumentasjon.
+Her kan ansatte notere hendelser hvor en elev er innblandet, og hvor hendelsen er av en slik art at det er bør loggføres.
 Man velger blant åtte predefinerte hendelsestyper:
 - Annen
 - Observasjon
@@ -18,4 +18,5 @@ Når man registrerer en ny hendelse velger man type, setter tidspunkt og gir en 
 
 :::info Merk
 Alle ansatte kan legge til, endre, slette og lese hendelsesloggen.
+For å kunne ta i bruk loggen må skolens ledelse aktivere den under Tilgang > Funksjoner.
 :::
