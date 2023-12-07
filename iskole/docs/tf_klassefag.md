@@ -4,6 +4,8 @@ title: Klassefag
 sidebar_label: Klassefag
 ---
 
+_Ny versjon av iSkole, kommer snart!_
+
 ## Klassefag
 Her registreres hvem som skal undervise i en klasse. Læreren som står registrert på første linje er fagansvarlig, og er den som fører inn terminkarakteren i faget. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer uke for uke, uavhengig av hvem som er fagansvarlig.
 
