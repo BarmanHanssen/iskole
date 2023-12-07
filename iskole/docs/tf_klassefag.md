@@ -26,10 +26,9 @@ Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned a
 Antall undervisningstimer for faget registreres av skolen selv.  Dersom skolen benytter 45 min timer, vil tallet her tilsvare Omfang*4/3. Dersom flere lærere står for undervisningen i faget må Årstimer for den enkelte lærer justeres.
 ### Timeplanlagt fag/lærer
 Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere ha færre timer på sin timeplan.
-### Elever
-Elevtallet viser hvor mange elever som er tatt inn på dagens dato. Ofte vil time- og fagfrordelingen settes opp før elevene er på plass
+### Funksjon
 
-I eksemplet har vi ekspandert klasse ST3A:
+_Tidligere versjon av iSkole:_
 
 ![bilde](https://user-images.githubusercontent.com/80097133/194847356-b7d4dbfc-e497-41b2-8a63-c26e44735d7b.png)
 
