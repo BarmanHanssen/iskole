@@ -29,7 +29,7 @@ Antall undervisningstimer for faget registreres av skolen selv.  Dersom skolen b
 ### Timeplanlagt fag/lærer
 Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere ha færre timer på sin timeplan.
 ### Funksjon
-Kan her markere for at personene er en assistent.
+Kan her markere for at læreren er en assistent eller en tolærer.
 
 
 
