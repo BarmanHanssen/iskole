@@ -30,7 +30,10 @@ Antall undervisningstimer for faget registreres av skolen selv.  Dersom skolen b
 Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere ha færre timer på sin timeplan.
 ### Funksjon
 
-_Tidligere versjon av iSkole:_
+
+
+
+_Gjeldende versjon av iSkole:_
 
 ![bilde](https://user-images.githubusercontent.com/80097133/194847356-b7d4dbfc-e497-41b2-8a63-c26e44735d7b.png)
 
