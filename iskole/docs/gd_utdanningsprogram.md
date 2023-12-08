@@ -19,4 +19,5 @@ _Utdanningsprogram_ benyttes på karakterutskrifter etc.
 
 Fra menyvalget _Klasse_ opprettes klassene hvor Kode og klassetrinn er de tre første tegnene, det fjerde velges fritt, eksempelvis ST3A.
 
+### Slette
 Man kan endre eller slette innholdet i tabellen ved å velge ikonene under kolonnen Valg. Dersom det allerde er lagt inn klasser, må man bekrefte slettingen en gang til.
