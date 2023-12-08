@@ -5,7 +5,7 @@ sidebar_label: Skolerute
 ---
 
  _Skoleruten_ opprettes ut fra data som ble lagt inn fra menyvalget _Skoleår_.
-Her kan man justere antall skoledager samt legge til planleggingsdager og aktivitetsdager. Det er lovpålagt at videregånde skole skal ha 190 dager med undervisning. At så er tilfelle dokumenteres via skoleruten. Fra _Mine sider>Skolerute_ kan alle brukerne se skoleruten, og i tillegg antall dager per måned, og totalt antall skoledager som er planlagt for hele skoleåret. 
+Herfra kan man justere antall skoledager samt legge til planleggingsdager og aktivitetsdager. Det er lovpålagt at videregående skole skal ha 190 dager med undervisning. At så er tilfelle dokumenteres via skoleruten. Fra _Mine sider>Skolerute_ kan alle brukerne se skoleruten, og i tillegg antall dager per måned, og totalt antall skoledager som er planlagt for hele skoleåret. 
 
 ![Skolerute](/img/gd_skolerute.png 'Skolerute')
 
