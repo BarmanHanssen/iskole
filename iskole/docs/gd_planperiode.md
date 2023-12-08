@@ -23,6 +23,8 @@ Her registreres skoleårets første og siste skoledag, samt planlagte fridager.
 ### Halvårsskille
 Halvårsskille markerer overgangen fra 1.- til 2.halvår. Etter denne datoen får elevene vurderingen for 1. halvår.
 
+Neste skjermbilde:
+
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/78d08e97-7878-4ac3-b40b-3a58c5501e88)
 
 For skoler som alt har tatt iSkole i bruk velges forrige skoleår. Da kan data om klasser og fag gjenbrukes. Dersom man stort sett har samme oppsett for valgfagene, tas også disse tas med. Andre ressurser kan være faste tilegg for enkelte lærere, eksempelvis ressurs for rektor. Finjustering av hva som tas med fra dette valget gjøres i ettertid.
