@@ -15,7 +15,8 @@ Klikk  _+ Legg til_ når nytt skoleår skal legges inn. Da vises dette skjermbil
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/d18104e8-8bd4-4898-a69b-23a0d5fa757e)
 
 _Nytt skoleår starter høsten_: 
-Her tastes inn eksempelvis 2025. Som regel  regnes et skoleår fra 1. august og frem til 31. juli. Eksempelvis vil en heltidsansatt avlønnes mellom disse datoer. Når organsisert undervisning starter og slutter registreres i steg 2:
+Her tastes inn eksempelvis 2025. Som regel  regnes et skoleår fra 1. august og frem til 31. juli. Eksempelvis vil en heltidsansatt avlønnes mellom disse datoer. 
+Når organsisert undervisning starter og slutter registreres i steg 2:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/9a51b67c-8d6a-4671-ac1e-f077f1c98c6b)
 
