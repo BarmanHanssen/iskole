@@ -35,7 +35,7 @@ Oppsummering
 Dersom alt ser greit ut gjenstår bare å klikke på _Opprett nytt skoleår_. Skoleåret kan enkelt slettes dersom ikke elever alt er tatt inn.
 
 ## Redigere skoleår
-Det eneste som kan redigeres her er halvårsskile. Justering/endring av planlagte fridager gjøres fra menyvalget _Skolerute_.
+Det eneste som kan redigeres her er halvårsskile. Justering/endring av planlagte fridager gjøres fra neste menyvalg, altså fra _Skolerute_.
 
 
 
