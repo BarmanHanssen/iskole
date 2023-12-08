@@ -32,7 +32,7 @@ For skoler som alt har tatt iSkole i bruk velges forrige skoleår. Da kan data o
 Oppsummering
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/4f4e0f72-7a59-4bcc-b0d7-ecdcea001b1d)
 
-Dersom alt ser greit ut gjenstår bare å klikke på _Opprett nytt skoleår_. Og som allerede nevnt: Justeringer kan gjøres for alle data som er tatt med fra et tidligere skoleår, inklusivt å slette det nye skoleåret.
+Dersom alt ser greit ut gjenstår bare å klikke på _Opprett nytt skoleår_. Og som allerede nevnt: Justeringer kan gjøres for alle data som er tatt med fra et tidligere skoleår. Skoleåret kan enkelt slettes dersom ikke elever alt er tatt inn.
 
 
 
