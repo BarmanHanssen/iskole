@@ -11,7 +11,7 @@ _Utdanningsprogram_ viser hvilke undervisningsopplegg skolen kan tilby. Nedtrekk
 
 _Kode_ er første del av navnet på en klasse. Eksempelvis UT for ungdomstrinnet i grunnskolen, eller ST for studiespesialisering for videregående skole. 
 
-_Klassetrinn_ angir hvilke på hvilke trinn skolen kan opprette klasser på angitte utdanningsprogram. For videregående skole er det vanligvis fra 1 til 3, trinn 4 benyttes ofte for påbyggingsår.
+_Klassetrinn_ angir på hvilke trinn skolen kan opprette klasser på angitte utdanningsprogram. For videregående skole er det vanligvis fra 1 til 3, trinn 4 benyttes ofte for påbyggingsår.
 
 _Internnavn_ benyttes i forbindelse med timeplanvisning.
 
