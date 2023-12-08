@@ -16,10 +16,10 @@ Klikk  _+ Legg til_ når nytt skoleår skal legges inn. Da vises dette skjermbil
 
 ### Nytt skoleår
 Her tastes inn eksempelvis 2025. 
-Som regel regnes et skoleår fra 1. august og frem til 31. juli. Eksempelvis vil en heltidsansatt avlønnes mellom disse datoer, og elever som tas inn får i utgangspunktet tilgang til iSkole innenfor dette tidsrommet. 
+Et skoleår starter 1. august og varer frem til 31. juli. Eksempelvis vil en heltidsansatt avlønnes mellom disse datoer, og elever som tas inn får i utgangspunktet tilgang til iSkole bare innenfor dette tidsrommet. 
 ### Til skoleruten
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/9a51b67c-8d6a-4671-ac1e-f077f1c98c6b)
-Standard-verdiene som er satt kan endres, også etter skolestart. Neste trinn:
+Her registreres skoleårets første og siste skoledag, samt planlagte fridager. 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/78d08e97-7878-4ac3-b40b-3a58c5501e88)
 
