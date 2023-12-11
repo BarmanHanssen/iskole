@@ -11,7 +11,7 @@ Registrering/endringer gjøres fra dette skjermbilde:
 _Skolens navn:_ 
 Benyttes på utskrift av vitnemål, og på rapporter etc.  Skolen kan også få lagt inn en logo (ta kontakt!) som vil vises i øvre venstre hjørne fra iSkole. 
 
-Øvrige data som kan legges inn benyttes kun der de blir etterspurt av mottaker, eksempelvis Lånekassen, Nasjonal Vitnemålsdatabase (NVB), og andre.
+Øvrige data som kan legges inn benyttes kun der de blir etterspurt av mottaker. Av eksterne mottakere kan nevnes Lånekassen og Nasjonal Vitnemålsdatabase (NVB).
 
 Nederst finner vi denne:
  
