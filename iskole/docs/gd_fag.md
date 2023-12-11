@@ -23,7 +23,6 @@ Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at hver ele
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cb1a6ccd-29ed-44a1-94cf-a6283a4105d0)
 
  ### _+Legg til_
-Velg førsst om det er et klasse- eller et gruppefag som skal legges til. Klikk deretter på _+Legg til_. (Skjermbildene for Klassefag og Gruppefag er like)
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2e81ab11-2b2f-47ff-942f-afeabca93d55)
 
