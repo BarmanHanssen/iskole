@@ -20,4 +20,7 @@ _Utdanningsprogram_ benyttes på karakterutskrifter etc.
 Fra menyvalget _Klasse_ opprettes klassene hvor Kode og klassetrinn er de tre første tegnene, det fjerde velges fritt, eksempelvis ST3A.
 
 ### Slette
-Man kan endre eller slette innholdet i tabellen ved å velge ikonene under kolonnen Valg. For å slette en registrering må _Kode_ oppgis på nytt.
+Man kan endre eller slette innholdet i tabellen ved å velge ikonene under kolonnen Valg. For å slette en registrering må _Kode_ oppgis på nytt. Å slette en utdanning som alt er etablert har konsekvenser, derfor vises dette skjermbilde:
+
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/dfa7903c-ea13-4d56-b6da-62e3ce25daf4)
+
