@@ -27,11 +27,11 @@ Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at hver ele
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2e81ab11-2b2f-47ff-942f-afeabca93d55)
 
 ### Timeplandata
-- _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget Utdanning. 
+- _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget _Utdanning_. 
 - _Navn (kort)_: Tre tegn som blant annet benyttes på timeplanen. Eksempel: NOR for faget norsk, kan brukes på alle trinn selv om faginnholdet er vidt forskjellig.
-- _Navn_: Dette navnet kommer frem under selve timeplanen. Merk at offisielt navn er gitt via fagkoden fra Udir, dette benyttes på karakterutskrifter etc.
-- _Timer_: Fag er oftes definert ut fra et ukentlig timetall. Norsk eksempelvis med 5 uketimer. Dette tallet er utgangspunktet for timeplanlegging av faget, men på timeplanen kan faget ha ulikt timetall fra den ene uken til den andre. Slike tilpasninger gjøres direkte av timeplanlegger.
-- _Rom_: Noe fag, eksempelvis kroppsøving, krever spesialrom. Da kan det være greit å knytte romet til faget her. Det innebærer at timeplanlegger får presentert dette rommet som førstevalg. Kan endres når faget timeplanlegges.
+- _Navn_: Dette navnet kommer frem på timeplanen. Merk at offisielt navn er gitt via fagkoden fra Udir, dette benyttes på karakterutskrifter etc.
+- _Timer_: Fag er oftes definert ut fra et ukentlig timetall. Norsk vanligvis med 5 uketimer. Dette tallet er utgangspunktet for timeplanlegging av faget, men på timeplanen kan faget ha ulikt timetall fra den ene uken til den andre. Slike tilpasninger gjøres direkte av timeplanlegger.
+- _Rom_: Noe fag, eksempelvis kroppsøving, krever spesialrom. Da kan det være greit å knytte rommet til faget her. Det innebærer at timeplanlegger får presentert dette rommet som førstevalg. Kan endres når faget timeplanlegges.
 
 ### Karakterdokumentasjon
 - _Fagkode_: Alle fag i grunnskolen og i videregående skole som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klare for bruk. Trykk _Endre fagkode_, så får du opp en overveldende lang liste! For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden (eller deler av navn eller del av fagkoden). Unntaket er koden 999999 som vi bruker for fag som skal på timeplanen, men ikke skal tas med på karakterutskrifter. Slike fag er ofte en komponent av et fag med UDIR-fagkode. Mer om det nedenfor.
