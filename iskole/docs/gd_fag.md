@@ -59,6 +59,16 @@ Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, ti
 ### _Slett_
 Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. Fag hvor det allerede er satt karakter i kan ikke slettes.
 
+## Noen av kolonne vedrørende tabellen for klasse- og gruppefag
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/ad2ff266-6032-415f-b5f9-b92467eed0d4)
+#### Omfang
+
+#### Årstimer
+
+#### Årsramme 
+
+#### Tilsvarer stillingsprosent
+
 ## Fag med flere komponenter
 
 Benyttes typisk når en gruppe elever undervises samlet i noen timer, men deles i andre timer fordi elevene har ulik faglig bakgrunn. Her angis hvilket fag som delene tilhører. Delene må tilhøre fag på samme trinn.
