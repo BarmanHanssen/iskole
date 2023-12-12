@@ -53,13 +53,15 @@ Klikk på faget som skal endres, deretter på ikonet _Endre_.
 Alt kan endres, unntatt Trinn og kort-navn! 
 
 :::info Fagkode
-Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, tilsvarende for gruppefag. Endres fagkoden herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. Endring av fagkoden for både klasse- og gruppefag for en elev kan gjøres fra Elevadmin>Karakterdokumentasjon, alternativt fra Elevadmin.>Fag ved å ta ut faget, og sette det inn på nytt. Dersom endringen først gjøres etter at fravær og vurderinger er innført, vil endring av fagkoden for elev kunne bli mer komplisert.
+Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, tilsvarende for gruppefag. Endres fagkoden herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. Endring av fagkoden for både klasse- og gruppefag for en elev kan gjøres fra _Elevadmin>Karakterdokumentasjon_. Dersom endringen først gjøres etter at fravær og vurderinger er registrert, vil endring av fagkoden for elev kunne bli mer komplisert.
 :::
 
 ### _Slett_
 Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. Fag hvor det allerede er satt karakter i kan ikke slettes.
 
 ## Fag med flere komponenter
+
+Benyttes typsik når en gruppe elever undervises samlet i noen timer, men deles i andre timer fordi elevene har ulik faglig bakgrunn. Her angis hvilket fag som delene tilhører. Delene må tilhøre fag på samme trinn.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
 
