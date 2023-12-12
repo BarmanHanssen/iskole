@@ -14,7 +14,7 @@ Har du _Fagkode_ markert med rød farge, velg da _Utgåtte fagkoder_ for å oppd
 :::
 ## Generelt
 Fagene som kan tilordnes en klasse (se menyvalget _Klasser_) må være registrert her som klassefag. Alle elever i en klasse skal kunne følge undervisningen i alle fag som tilhører klassen.
-Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis at elevene i klassen deles i mindre grupper i et klassefag,) klassifiseres  slike valgbare fag som gruppefag. Se nedenfor for registrering av gruppefag.
+Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis at elevene i klassen deles i mindre grupper i et klassefag,) klassifiseres  slike valgbare fag som gruppefag.
 
 Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at hver elev , uke for uke hele skoleåret, skal få en korrekt timeplan.  Og tilsvarende for alle lærere.
 
