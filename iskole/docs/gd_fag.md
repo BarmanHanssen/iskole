@@ -18,7 +18,8 @@ Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis a
 
 Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at hver elev , uke for uke hele skoleåret, skal få en korrekt timeplan.  Og tilsvarende for alle lærere.
 
-## Klassefag
+## Klassefag og Gruppefag
+Datagrunnlaget for begge fag-gruppene er så likt at vi bruker kunn klassefag for å vise hva som må gjøres.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cb1a6ccd-29ed-44a1-94cf-a6283a4105d0)
 
@@ -72,6 +73,10 @@ Angir hvor mange timer man må undervise i faget for å full stilling. Dersom å
 
 #### Tilsvarer stillingsprosent
 Beregnes ut fra formelen årstimer delt på årsramme ganget med 100. (Krever at årsrammen ikke er satt til null.)
+
+####  Elever
+Når et nytt fag registreres her, kan selvsagt ingen elever være knyttet til faget. Elevene kommer først når klassefaget er plassert i en klasse (fra menyvalget _Klasser_), og elever er tatt inn i klassen. Tilsvarende må det være registrert en gruppe i faget (fra menyvalget _Grupper_), før elever kan tas inn i gruppen.
+Ettersom elevene registreres vil tallene her vise status for det enkelte fag. Dersom det viser seg at et fag ikke har elever når skoleåret er starter, kan det muligens være fornuftig å slette faget.
 
 ## Fag med flere komponenter
 
