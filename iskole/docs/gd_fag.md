@@ -13,6 +13,7 @@ Her starter det:
 Har du _Fagkode_ markert med rød farge, velg da _Utgåtte fagkoder_ for å oppdatere, se omtale nederst på siden.
 :::
 ## Generelt
+Registrering/endring av fag er knyttet til skoleåret som er valgt. Å slette et fag vil derfor kun slette faget for dette skoleåret, og har ingen innvirkning på tidligere års datagrunnlag.
 Fagene som kan tilordnes en klasse (se menyvalget _Klasser_) må være registrert her som klassefag. Alle elever i en klasse skal kunne følge undervisningen i alle fag som tilhører klassen.
 Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis at elevene i klassen deles i mindre grupper i et klassefag,) klassifiseres  slike valgbare fag som gruppefag.
 
@@ -58,7 +59,7 @@ Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, ti
 :::
 
 ### _Slett_
-Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. Fag hvor det allerede er satt karakter i kan ikke slettes.
+Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. Fag med elever hvor det allerede er satt karakter i kan ikke slettes.
 
 ## Noen av kolonne vedrørende tabellen for klasse- og gruppefag
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/ad2ff266-6032-415f-b5f9-b92467eed0d4)
