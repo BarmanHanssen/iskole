@@ -13,7 +13,7 @@ Her starter det:
 Har du _Fagkode_ markert med rød farge, velg da _Utgåtte fagkoder_ for å oppdatere, se omtale nederst på siden.
 :::
 ## Generelt
-Fagene som kan tilordnes en klasse (se menyvalget _Klasse_) må være registrert her som klassefag. Alle elever i en klasse skal kunne følge undervisningen i alle fag som tilhører klassen.
+Fagene som kan tilordnes en klasse (se menyvalget _Klasser_) må være registrert her som klassefag. Alle elever i en klasse skal kunne følge undervisningen i alle fag som tilhører klassen.
 Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis at elevene i klassen deles i mindre grupper i et klassefag,) klassifiseres  slike valgbare fag som gruppefag. Se nedenfor for registrering av gruppefag.
 
 Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at hver elev , uke for uke hele skoleåret, skal få en korrekt timeplan.  Og tilsvarende for alle lærere.
@@ -41,7 +41,7 @@ Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinersko
 :::
 
 ### Ressurs til faglærer
-- _Årstimere/Årsramme_: Her fastsettes lesebrøken for faget. Den er gjerne et resultat av forhandlinger mellom fagforening og skoleier og registres av skoleier for hvert fag. Det er brøken årstimer/årsramme gir fagets stillingsstørrelse. Nå brukes fortrinnsvis klokketimer, ikke antall 45-minutters timer, som måltall. Da vil årstimer være fagets omfag slik det fremgår fra fagets fagkode, og årsrammen er fremforhandlet mellom partene fagforening/skoleier. Bukes 45 minutter som timelengde, må årarammen også justeres, men verdien av brøken årstimer/årsramme skal være (tilnærmet) lik. Lærer som er oppført som fagansvarlig (se _Time- og fagfordelig>Klassefag/Gruppefag_) får automatisk ressursen for faget. Dersom flere lærere deler på undervisningen, må ressursfordelingen fordeles på individuell basis for de involverte lærere.  
+- _Årstimere/Årsramme_: Her fastsettes lesebrøken for faget. Den er gjerne et resultat av forhandlinger mellom fagforening og skoleier, og registres av skoleier for hvert fag. Det er brøken årstimer/årsramme gir fagets stillingsstørrelse. Nå brukes fortrinnsvis klokketimer, ikke antall 45-minutters timer, som måltall. Da vil årstimer være fagets omfag slik det fremgår av fagets fagkode, og årsrammen er fremforhandlet mellom partene fagforening/skoleier. Bukes 45 minutter som timelengde, må årsrammen også justeres, men verdien av brøken årstimer/årsramme skal være (tilnærmet) lik. Lærer som er oppført som fagansvarlig (se _Time- og fagfordelig>Klassefag/Gruppefag_) får automatisk ressursen for faget. Dersom flere lærere deler på undervisningen i faget, må ressursen fordeles mellom de involverte lærere.  
 
 ### Elever
 - _Elever kan føre tilstedeværelse_: Huker en av for dette kan elevene i faget selv markere tilstedeværelse i timene i faget. Uten avhuking er det bare læreren som kan gjøre det. Kan endres frem og tilbake flere ganger i løpet av skoleåret.
