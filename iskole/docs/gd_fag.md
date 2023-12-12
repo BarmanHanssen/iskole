@@ -62,12 +62,16 @@ Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. F
 ## Noen av kolonne vedrørende tabellen for klasse- og gruppefag
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/ad2ff266-6032-415f-b5f9-b92467eed0d4)
 #### Omfang
+Omfanget er bestemt fra fagkoden til faget og kan ikke endres. Unntak: Fag med fagkode 999999, her legges omfanget inn manuelt.
 
 #### Årstimer
+Normalt vil årstimer settes likt med omfanget til fag.
 
 #### Årsramme 
+Angir hvor mange timer man må undervise i faget for å full stilling. Dersom årstimer=omfang er det klokketimer som gjelder.
 
 #### Tilsvarer stillingsprosent
+Beregnes ut fra formelen årstimer delt på årsramme ganget med 100. (Krever at årsrammen ikke er satt til null.)
 
 ## Fag med flere komponenter
 
