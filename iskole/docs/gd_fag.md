@@ -50,7 +50,7 @@ Skal resultatet lagres klikker en på ikonet for _Lagre for å avslutte.
 
 ### _Endre_
 Klikk på faget som skal endres, deretter på ikonet _Endre_.
-Alt kan endres, untatt Trinn og kort-navn! 
+Alt kan endres, unntatt Trinn og kort-navn! 
 
 :::info Fagkode
 Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, tilsvarende for gruppefag. Endres fagkoden herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. Endring av fagkoden for både klasse- og gruppefag for en elev kan gjøres fra Elevadmin>Karakterdokumentasjon, alternativt fra Elevadmin.>Fag ved å ta ut faget, og sette det inn på nytt. Dersom endringen først gjøres etter at fravær og vurderinger er innført, vil endring av fagkoden for elev kunne bli mer komplisert.
