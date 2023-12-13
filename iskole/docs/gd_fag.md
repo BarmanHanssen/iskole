@@ -20,7 +20,7 @@ Dersom elevene kan velge noen fag i tillegg til klassefagene, (eller untaksvis a
 Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at hver elev , uke for uke hele skoleåret, skal få en korrekt timeplan.  Og tilsvarende for alle lærere.
 
 ## Klassefag og Gruppefag
-Datagrunnlaget for begge fag-gruppene er så likt at vi bruker kunn klassefag for å vise hva som må gjøres.
+Datagrunnlaget for begge fag-gruppene er så likt at vi bruker kun klassefag for å vise hva som må gjøres.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cb1a6ccd-29ed-44a1-94cf-a6283a4105d0)
 
