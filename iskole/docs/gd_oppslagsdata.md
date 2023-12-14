@@ -29,8 +29,10 @@ Når en ny klasse opprettes, fra menyvalget _Klasse_, etterspørres _Programkode
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/8c014ee7-77ef-4576-8747-911cf39a8db5)
 
-Alle fag som er godkjent av UDIR er samlet i denne tabellen. Den inneholder mer enn 18 000 rader! Fagkodene som er utgått per dags dato er markert med rød farge.  Vet du navnet på faget, men ikke fagkoden, skriv da inn første del av navnet i feltet over _Fagnavn_. Finner du ikke fagkoden, prøv da å oppdatere fagkoderegisteret.
-På udir.no finner man fagplaner mm for hvert fag.
+##### Tips: Mangler en fagkode? Påse at skolens fagkoderegister er oppdatert! På udir.no finner man fagplaner mm for hvert enkelt fag som er oppført i tabellen.
+
+Alle fag som er godkjent av UDIR er samlet i denne tabellen. Den inneholder mer enn 18 000 rader! Fagkodene som er utgått per dags dato er markert med rød farge.  Vet du navnet på faget, men ikke fagkoden, skriv da inn første del av navnet i feltet over _Fagnavn_.
+
 
 #### _Vurderingsform_
 
