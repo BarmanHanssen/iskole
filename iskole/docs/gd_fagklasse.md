@@ -5,7 +5,7 @@ sidebar_label: Fagklasser
 ---
 Det er mulig å slå sammen to, eller flere klasser, for felles undervisning i et bestemt fag. Altså at alle elevene fra flere klasser har felles undervisning. 
 
-Faget som er felles legges bare inn i en klasse. Denne klassen blir moderklassen for faget. Klassene til de øvrige elevene kaller vi i denne samenhengen for gjesteklasser. Typiske eksempler: To klasser har kroppsøving sammen. Flere klasser samles for kor-øvinger.
+Faget som er felles legges bare inn i en klasse. Denne klassen blir eier av faget. Klassene til de øvrige elevene kaller vi i denne samenhengen for gjesteklasser. Typiske eksempler: To klasser har kroppsøving sammen. Flere klasser samles for kor-øvinger.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/585a5f5c-8884-4f5f-9565-bf63aaa148b4)
 
