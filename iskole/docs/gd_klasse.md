@@ -9,7 +9,7 @@ Når klassetrinn er registrert (se _Utdanningsprogram_), kan man her spesifisere
 Eksempel fra skole hvor fagene allerede er lagt til:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/baeae1f1-216c-4bbf-82ff-637ebfbf8d6c)
 
-Kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget _Fagklasse_.
+# Kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget _Fagklasse_.
 
 ### +Legg til...
 ![bilde](/img/grunnlagsdata_klasse_legg_til.png 'Legg til klasse')
