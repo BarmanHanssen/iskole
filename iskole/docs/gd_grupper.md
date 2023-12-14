@@ -4,11 +4,12 @@ title: Grupper
 sidebar_label: Grupper
 ---
 Her opprettes grupper i valgfagene som planlegges igangsatt i skoleåret. 
-Det er fagene fra menyvalget _Fag>Gruppefag_ som er valgbare. For å få lagt til en gruppe, må faget velges, og faget må gis en grupppenummer ( se kolonnen #).
+Det er fagene fra menyvalget _Fag>Gruppefag_ som vises her, og som er valgbare. For å få lagt til en gruppe, må faget velges, og faget må gis en grupppenummer (se kolonnen #). Fag uten gruppenummer er ikke valgbare for inneværende skoleår.
 
-Man legger altså til en gruppe i et fag ved å trykke på pluss-ikonet, og sletter en registrert gruppe ved å trykke på søppelbøtteikonet. I begge tilfeller får man frem et dialogvindu hvor man velger gruppenr på gruppen som skal opprettes eller slettes.
+Man legger altså til en gruppe i et fag ved å trykke på pluss-ikonet. Fra dialogvinduet velger man et gruppenr på gruppen som skal opprettes. Vanligvis benyttes 1, deretter 2 dersom to grupper i faget skal legges til.
+Gruppe som alt er registrert har en rødfarget søppel-bøtte-ikon. Det indikerer at gruppen(e) kan slettes. Skal noen av de øvrige fag slettes, gjøres det fra menyvalget _Fag>Gruupefag_.
 
-#### For å få alle gruppene som alt er planlagt øverst/nederst i skjermbildet, trykk på gulmerket ikon.
+#### Tips: For å få alle gruppene som alt er planlagt øverst/nederst i skjermbildet, trykk på gulmerket ikon.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6299aecd-9cd5-4f36-adcf-65ed5772d579)
 
