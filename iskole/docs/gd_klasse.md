@@ -4,7 +4,7 @@ title: Klasser
 sidebar_label: Klasser
 ---
 
-Når klassetrinn er registrert (se _Utdanningsprogram_), kan man spesifisere hvilke klasser skolen skal ha i inneværende skoleår. For store skoler vil det kunne være flere klasser på hvert årstrinn. 
+Når klassetrinn er registrert (se _Utdanningsprogram_), kan man her spesifisere hvilke klasser skolen skal ha, og hvilke fag som skal knyttes til den enkelte klasse. For store skoler vil det kunne være flere klasser på hvert årstrinn. 
 
 Eksempel fra skole hvor fagene allerede er lagt til:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/baeae1f1-216c-4bbf-82ff-637ebfbf8d6c)
