@@ -10,10 +10,10 @@ Faget som er felles legges bare inn i en klasse. Denne klassen blir eier av fage
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/585a5f5c-8884-4f5f-9565-bf63aaa148b4)
 
 :::info Merk
-Se figuren ovenfor. GEO skal  bare være registrert i klasse ST1A (moderklassen), men ikke i gjesteklassen.
+Se figuren ovenfor. GEO skal  bare være registrert i klasse ST1A (eier av faget), men ikke i en potensiell gjesteklasse.
 :::
 
 Dersom elevene omgrupperes på annen måte, altså ikke sammenslåing av hele klasser, så benytter vi gruppefag. Gruppefag er omtalt under menyvalget _Fag_.
 
-Eksempel: Man ønsker at ST1A skal være moderklasse i ENG, og ST1B skal være gjesteklasse. Men man finner ikke klasse ST1B i listen over mulige gjesteklasser! Grunnen vil da være at ST1B allerede har ENG som et av sine klassefag. Fra menyvalget _Klasse_ fjernes klassefaget ENG i ST1B. Da vil klassen kunne bli gjest i ST1A.
+Eksempel: Man ønsker at ST1A skal være eier i av faget ENG, og ST1B skal være gjesteklasse i ENG. Men man finner ikke klasse ST1B i listen over mulige gjesteklasser! Grunnen vil da være at ST1B allerede har ENG som et av sine klassefag. Fra menyvalget _Klasse_ fjernes klassefaget ENG i ST1B. Da vil klassen kunne bli gjest i ST1A.
 
