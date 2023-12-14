@@ -3,7 +3,7 @@ id: gd_grupper
 title: Grupper
 sidebar_label: Grupper
 ---
-Her opprettes grupper i valgfagene som planlegges igangsatt kommende skoleår. 
+Her opprettes grupper i valgfagene som planlegges igangsatt i skoleåret. 
 Det er fagene fra menyvalget _Fag>Gruppefag_ som er valgbare. For å få lagt til en gruppe, må faget velges, og faget må gis en grupppenummer ( se kolonnen #).
 
 Man legger altså til en gruppe i et fag ved å trykke på pluss-ikonet, og sletter en registrert gruppe ved å trykke på søppelbøtteikonet. I begge tilfeller får man frem et dialogvindu hvor man velger gruppenr på gruppen som skal opprettes eller slettes.
