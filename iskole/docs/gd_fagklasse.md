@@ -5,7 +5,7 @@ sidebar_label: Fagklasser
 ---
 Det er mulig å slå sammen to, eller flere klasser, for felles undervisning i et bestemt fag. Altså at alle elevene fra flere klasser har felles undervisning. 
 
-Faget som er felles legges bare inn i en klasse. Denne klassen blir eier av faget. Klassene til de øvrige elevene kaller vi i denne samenhengen for gjesteklasser. Typiske eksempler: To klasser har kroppsøving sammen. Flere klasser samles for kor-øvinger.
+Det er bare fag med fagkode forskjellig fra 999999 som kan ha gjesteklasse. Og siden en elev bare kan følge et bestemt fag i en klasse, må fellesfaget bare ligge i en klasse. Denne klassen blir eier av faget (omtalt som moderklassen). Klassene til de øvrige elevene kaller vi i for gjesteklasser. Typiske eksempler: To klasser har kroppsøving sammen. Flere klasser samles for kor-øvinger.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/585a5f5c-8884-4f5f-9565-bf63aaa148b4)
 
@@ -15,5 +15,5 @@ Se figuren ovenfor. GEO skal  bare være registrert i klasse ST1A (eier av faget
 
 Dersom elevene omgrupperes på annen måte, altså ikke sammenslåing av hele klasser, så benytter vi gruppefag. Gruppefag er omtalt under menyvalget _Fag_.
 
-Eksempel: Man ønsker at ST1A skal være eier i av faget GEO, og ST1B skal være gjesteklasse i GEO. Men man finner ikke klasse ST1B i listen over mulige gjesteklasser! Grunnen vil da være at ST1B allerede har ENG som et av sine klassefag. Fra menyvalget _Klasse_ fjernes klassefaget ENG i ST1B. Da vil klassen kunne bli gjest i ST1A.
+Eksempel: Man ønsker at ST1A skal være eier i av faget GEO, og at ST1B skal være gjesteklasse i GEO. Men man finner ikke klasse ST1B i listen over mulige gjesteklasser! Grunnen vil da være at ST1B allerede har GEO som et av sine klassefag. Fra menyvalget _Klasse_ fjernes klassefaget GEO i ST1B. Da vil klassen kunne bli gjest i ST1A.
 
