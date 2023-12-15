@@ -24,7 +24,7 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 - _Antall elever_: Ved registrering av faget er tallet nødvendigvis null. Oppdateres kontinuerlig når skolen tar inn elever som tildeles faget.
 - _Klassen inngår i eksport til læringsplattform_: Dersom skolen også benytter eksempelvis ItsLearning, avhukes det her.
 - _Kostnadssted_: Brukes i hovedsak i budsjett-sammenheng. Ta gjerne kontakt dersom skolen din ønsker nærmere orientering om dette.
-- _Klassefag_: Når ny klasse er lagt inn kommer alle fag som er lagt inn fra menyvalget _Fag_ frem under kolonnen _Tilgjengelige_. Aktuelle fag for klassen flyttes over fra _Tilgjengelige_ til _Valgte_. Dersom klassen skal ha et fag som ikke står i listen under _Tilgjengelige_, må det altså registreres under _Fag_, og deretter kan faget legges inn herfra.
+- _Tilgjengelige fag_: Når ny klasse er lagt inn kommer alle fag som er lagt inn fra menyvalget _Fag_ frem under kolonnen _Tilgjengelige_. Aktuelle fag for klassen flyttes over fra _Tilgjengelige_ til _Valgte_. Dersom klassen skal ha et fag som ikke står i listen under _Tilgjengelige_, må det altså registreres under _Fag_, og deretter kan faget tilknyttes klassen.
  
 Når utfyllingen er avsluttet, trykkes _OK_ for lagring. Endringer kan gjøres senere. 
 
