@@ -4,35 +4,6 @@ title: Klassefag
 sidebar_label: Klassefag
 ---
 
-_Første del av dokumentasjonen gjelder ny versjon av iSkole, som snart kommer!_
-
-## Klassefag
-Fagene til hver klasse og klassene, er registrert fra _Grunnlagsdata>Fag_ og _Grunnlagsdata>Klasser_. Eventuell endring av fag og klasser må gjøres derfra.
-
-Her registreres hvem som skal undervise. Læreren som står registrert på første linje er fagansvarlig, og er den som fører inn terminkarakteren i faget. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer uke for uke, uavhengig av hvem som er fagansvarlig.
-
-Skjermbilde ved oppstart:
-
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/4d5fd320-734d-46c2-9bbe-d9899d9904c8)
-
-#### Vi ser på detaljene:
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/c3a385a0-8551-481b-8266-db6e157130d3)
-
-#### Valg
-Ikonet for slett sletter gjelder bare for fag som har fått registrert lærer. Det er bare læreren som slettes fra faget, faget blir stående.
-#### Fag, Fagnavn, Fagkode, Omfang
-Datagrunnlaget for fagene som fremkommer her er registrert, og kan bare endres, fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning.
-### Prosent fag/lærer
-Prosent fag registreres fra _Grunnlagsdata>Fag_. Prosent fag angir fagets leseprosent. Prosent lærer: Vanligvis lik Prosent fag. Men dersom en lærer ikke dekker undervisningen alene, kan prosenten for læreren justeres her. 
-### Uketimer fag/lærer
-Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned av timeplanlegger på ukesbasis. For skoleåret skal summen av alle timeplanlagte timer være likt fagets omfang.
-### Årstimer fag/lærer
-Antall undervisningstimer for faget registreres av skolen selv.  Dersom skolen benytter 45 min timer, vil tallet her tilsvare Omfang*4/3. Dersom flere lærere står for undervisningen i faget må Årstimer for den enkelte lærer justeres.
-### Timeplanlagt fag/lærer
-Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere ha færre timer på sin timeplan.
-### Funksjon
-Kan her markere for at læreren er en assistent eller en tolærer.
--------------------------------------------------------------------------
 
 _Gjeldende versjon av iSkole:_
 
@@ -87,3 +58,32 @@ Dersom et fag skal ha mer enn en lærer, kan en legge til ekstra lærer(e) her. 
 Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en tolærer.
 :::
   
+_Første del av dokumentasjonen gjelder ny versjon av iSkole, som snart kommer!_
+
+## Klassefag
+Fagene til hver klasse og klassene, er registrert fra _Grunnlagsdata>Fag_ og _Grunnlagsdata>Klasser_. Eventuell endring av fag og klasser må gjøres derfra.
+
+Her registreres hvem som skal undervise. Læreren som står registrert på første linje er fagansvarlig, og er den som fører inn terminkarakteren i faget. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer uke for uke, uavhengig av hvem som er fagansvarlig.
+
+Skjermbilde ved oppstart:
+
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/4d5fd320-734d-46c2-9bbe-d9899d9904c8)
+
+#### Vi ser på detaljene:
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/c3a385a0-8551-481b-8266-db6e157130d3)
+
+#### Valg
+Ikonet for slett sletter gjelder bare for fag som har fått registrert lærer. Det er bare læreren som slettes fra faget, faget blir stående.
+#### Fag, Fagnavn, Fagkode, Omfang
+Datagrunnlaget for fagene som fremkommer her er registrert, og kan bare endres, fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning.
+### Prosent fag/lærer
+Prosent fag registreres fra _Grunnlagsdata>Fag_. Prosent fag angir fagets leseprosent. Prosent lærer: Vanligvis lik Prosent fag. Men dersom en lærer ikke dekker undervisningen alene, kan prosenten for læreren justeres her. 
+### Uketimer fag/lærer
+Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned av timeplanlegger på ukesbasis. For skoleåret skal summen av alle timeplanlagte timer være likt fagets omfang.
+### Årstimer fag/lærer
+Antall undervisningstimer for faget registreres av skolen selv.  Dersom skolen benytter 45 min timer, vil tallet her tilsvare Omfang*4/3. Dersom flere lærere står for undervisningen i faget må Årstimer for den enkelte lærer justeres.
+### Timeplanlagt fag/lærer
+Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere ha færre timer på sin timeplan.
+### Funksjon
+Kan her markere for at læreren er en assistent eller en tolærer.
+-------------------------------------------------------------------------
