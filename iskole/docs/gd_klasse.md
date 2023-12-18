@@ -22,7 +22,7 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 - _Rom_: Dersom klassens stort sett benytter et bestemt klasserom kan det markeres her. Letter arbeidet for timeplanlegger, da dette rommet er forhåndsvalgt. Men timeplanlegger står fritt til å velge annet rom.
 - _Maksimalt elevantall_: Kan noteres, men brukes ikke andre steder.
 - _Antall elever_: Ved registrering av faget er tallet nødvendigvis null. Oppdateres kontinuerlig når skolen tar inn elever som tildeles faget.
-- _Fag(Er gjest i klasse_: Dersom klassen er slått sammen med en (eller flere) klasser i et fag, blir klassen med faget skrevet ut her.
+- _Fag (Er gjest i klasse_: Dersom klassen er slått sammen med en (eller flere) klasser i et fag, blir klassen med faget skrevet ut her.
 - _Klassen inngår i eksport til læringsplattform_: Dersom skolen også benytter eksempelvis ItsLearning, avhukes det her.
 - _Har gjesteklasse_: Har gjesteklasse_: Dersom klassen i et (eller flere) av sine fag har felles undervisning med elever fra en annen klasse står det oppført gjesteklassen(e) oppført her.
 - _Kostnadssted_: Brukes i hovedsak i budsjett-sammenheng. Ta gjerne kontakt dersom skolen din ønsker nærmere orientering om dette.
