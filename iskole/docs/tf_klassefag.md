@@ -58,7 +58,7 @@ Dersom et fag skal ha mer enn en lærer, kan en legge til ekstra lærer(e) her. 
 Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en tolærer.
 :::
   
-_Første del av dokumentasjonen gjelder ny versjon av iSkole, som snart kommer!_
+# _Dokumentasjonen gjelder ny versjon av iSkole, som snart kommer!_
 
 ## Klassefag
 Fagene til hver klasse og klassene, er registrert fra _Grunnlagsdata>Fag_ og _Grunnlagsdata>Klasser_. Eventuell endring av fag og klasser må gjøres derfra.
