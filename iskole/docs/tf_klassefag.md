@@ -5,7 +5,7 @@ sidebar_label: Klassefag
 ---
 
 
-_Gjeldende versjon av iSkole:_
+_Gjeldende versjon av iSkole:_ (Nederst gis innblikk i ny versjon som er under utvikling.)
 
 ![bilde](https://user-images.githubusercontent.com/80097133/194847356-b7d4dbfc-e497-41b2-8a63-c26e44735d7b.png)
 
