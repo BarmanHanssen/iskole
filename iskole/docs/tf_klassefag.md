@@ -62,7 +62,7 @@ Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en 
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
 ### Klassefag
-Fagene til hver klasse er registrert fra _Grunnlagsdata>Fag_.
+Valgbare fag til en klasse er registrert fra _Grunnlagsdata>Fag_.
 
 ## Klasser
 Klassene, med fag registreres og endres fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra.
