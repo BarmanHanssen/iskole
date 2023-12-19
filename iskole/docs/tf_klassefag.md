@@ -69,11 +69,9 @@ Klassene, med fag, registreres og endres fra  _Grunnlagsdata>Klasser_. Eventuell
 
 Her registreres hvem som skal undervise. Læreren som står registrert på første linje er fagansvarlig, og er den som fører inn terminkarakteren i faget. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer uke for uke, uavhengig av hvem som er fagansvarlig.
 
-Skjermbilde ved oppstart:
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d9bf182e-e62e-4325-9fc6-6dd81f795993)
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/4d5fd320-734d-46c2-9bbe-d9899d9904c8)
-
-#### Vi ser på detaljene:
+### Vi ser på detaljene:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/c3a385a0-8551-481b-8266-db6e157130d3)
 
 #### Valg
