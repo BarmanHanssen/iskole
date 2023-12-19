@@ -74,17 +74,21 @@ Her registreres hvem som skal undervise. Læreren som står registrert på førs
 ### Vi ser på detaljene:
 
 #### Valg
-Ikonet for slett sletter gjelder bare for fag som har fått registrert lærer. Det er bare læreren som slettes fra faget, faget blir stående.
+Ikonet for å slette virker kunn på fag som har fått registrert lærer. Det er bare læreren som slettes, faget blir stående.
 #### Fag, Fagnavn, Fagkode, Omfang
-Datagrunnlaget for fagene som fremkommer her er registrert, og kan bare endres, fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning.
+Datagrunnlaget for fagene som fremkommer er registrert, og kan bare endres, fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning.
 #### Prosent fag/lærer
 Prosent fag registreres fra _Grunnlagsdata>Fag_. Prosent fag angir fagets leseprosent. Prosent lærer: Vanligvis lik Prosent fag. Men dersom en lærer ikke dekker undervisningen alene, kan prosenten for læreren justeres her. 
 #### Uketimer fag/lærer
 Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned av timeplanlegger på ukesbasis. For skoleåret skal summen av alle timeplanlagte timer være likt fagets omfang.
 #### Årstimer fag/lærer
-Antall undervisningstimer for faget registreres av skolen selv.  Dersom skolen benytter 45 min timer, vil tallet her tilsvare Omfang*4/3. Dersom flere lærere står for undervisningen i faget må Årstimer for den enkelte lærer justeres.
+Antall undervisningstimer for faget registreres av skolen selv.  Dersom skolen benytter 45 min timer, skal tallet her tilsvare Omfang*4/3. Dersom flere lærere står for undervisningen i faget må Årstimer for den enkelte lærer justeres.
 #### Timeplanlagt fag/lærer
-Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere ha færre timer på sin timeplan.
+Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere ha færre timer på sin timeplan. Før timeplanen er lagt vil tallet null vises her.
 #### Funksjon
-Kan her markere for at læreren er en assistent eller en tolærer.
+Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan legge til ny tekst for funksjonen.
+#### Karaktertilgang
+Standardverdien er Ja, kan endres til Nei.
+#### Elever
+Viser hvor mange elever som alt er registrert i faget. Vanligvis er alle elevene i klassen registrert i alle klassens fag.
 -------------------------------------------------------------------------
