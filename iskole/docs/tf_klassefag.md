@@ -72,7 +72,6 @@ Her registreres hvem som skal undervise. Læreren som står registrert på førs
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d9bf182e-e62e-4325-9fc6-6dd81f795993)
 
 ### Vi ser på detaljene:
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/c3a385a0-8551-481b-8266-db6e157130d3)
 
 #### Valg
 Ikonet for slett sletter gjelder bare for fag som har fått registrert lærer. Det er bare læreren som slettes fra faget, faget blir stående.
