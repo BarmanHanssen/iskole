@@ -58,13 +58,16 @@ Dersom et fag skal ha mer enn en lærer, kan en legge til ekstra lærer(e) her. 
 Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en tolærer.
 :::
 
-## -----------------------------------------------------------------------------
+## ---------------------------------------------------------------------------
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
+
+## Generelt
+Her kan en legge inn data som knytter sammen fag og lærer for all undervisning som planlegges iverksatt for dette skoleåret. Dette vil være grunnlaget for timeplanlegger. I tillegg kan en legge til relevant ressursbruk for andre tjenester. I sum kan disse data være et godt grunnlag for videre budsjetteringsarbeid. Eksempelvis kontrollere at den enkelte lærer får en stillingsstørrelse som tilsvarer tilsettings-kontrakten. Og ressurs for den enkelte klasse, og for valgfagene (registrert som gruppefag).
 
 ### Klassefag
 Valgbare fag til en klasse er registrert fra _Grunnlagsdata>Fag_.
 
-## Klasser
+### Klasser
 Klassene, med fag, registreres og endres fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra.
 
 Her registreres hvem som skal undervise. Læreren som står registrert på første linje er fagansvarlig, og er den som fører inn terminkarakteren i faget. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer uke for uke, uavhengig av hvem som er fagansvarlig.
@@ -74,6 +77,7 @@ Her registreres hvem som skal undervise. Læreren som står registrert på førs
 ### Vi ser på detaljene:
 
 #### Valg
+Første ikonet benyttes når ny lærer skal registreres. Det er mulig å registrere flere lærere på samme fag. Eksempelvis kan to lærere dele faget dersom de skal dele på undervisningn, enten for en kortere eller lengre periode. Eller at faget skal styrkes ved at to (eller flere) lærere er tiltede i noen timer, eksempelvis når klassen er i svømmehallen (assistent?), eller når en elev har ekstra lærer (ofte klassifisert som toærer). Når timeplanen legges,vil timeplanlegger vil forholde seg til dette grunnlaget, og må kontrollere at timene blir fordelt over skoleåret slik denne oversikten viser.
 Ikonet for å slette virker kunn på fag som har fått registrert lærer. Det er bare læreren som slettes, faget blir stående.
 #### Fag, Fagnavn, Fagkode, Omfang
 Datagrunnlaget for fagene som fremkommer er registrert, og kan bare endres, fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning.
