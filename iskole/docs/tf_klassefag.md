@@ -93,6 +93,6 @@ Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere d
 Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan legge til ny tekst for funksjonen.
 #### Karaktertilgang
 Standardverdien er Ja, kan endres til Nei.
-#### Elever
+#### Elever 
 Viser hvor mange elever som alt er registrert i faget. Vanligvis er alle elevene i klassen registrert i alle klassens fag.
 -------------------------------------------------------------------------
