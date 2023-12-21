@@ -95,4 +95,5 @@ Standardverdien er Ja. Dersom flere lærere dekker faget, kan Nei også være ak
 #### Elever 
 
 Viser hvor mange elever som alt er registrert i faget. Vanligvis er alle elevene i klassen registrert i alle klassens fag.
+
 -------------------------------------------------------------------------
