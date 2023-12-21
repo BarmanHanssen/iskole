@@ -76,7 +76,7 @@ Første ikonet benyttes når ny lærer skal registreres. I utgangspunktet er et 
 
 Men det er mulig å registrere flere lærere på samme fag. Eksempelvis at faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funksjon som assistent?), eller når en elev har ekstra lærer (funksjon som toærer). Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da slettes ikke læreren som slutter, men ny lærer legges til.
 
-Ikonet for å slette virker kunn på fag som har fått registrert lærer. Det er bare læreren som slettes, faget blir stående. Dersomet fag har flere lærere, må timeplanlegger kontrollere at timene blir fordelt over skoleåret slik denne oversikten viser.  
+Ikonet for å slette virker kunn på fag som har fått registrert lærer. Det er bare læreren som slettes, faget blir stående. 
 
 #### Fag, Fagnavn, Fagkode, Omfang
 Datagrunnlaget for fagene kan bare endres fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning.
