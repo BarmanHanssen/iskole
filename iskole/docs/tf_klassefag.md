@@ -64,11 +64,8 @@ Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en 
 ## Generelt
 Her kan en legge inn data som knytter sammen fag og lærer for all undervisning som planlegges iverksatt for dette skoleåret. Dette vil være grunnlaget for timeplanlegger. I tillegg kan en legge til relevant ressursbruk for andre tjenester. I sum kan disse data være et godt grunnlag for videre budsjetteringsarbeid. Eksempelvis kontrollere at den enkelte lærer får en stillingsstørrelse som tilsvarer tilsettings-kontrakten. Og ressurs for den enkelte klasse, og for valgfagene (registrert som gruppefag).
 
-### Klassefag
-Valgbare fag til en klasse er registrert fra _Grunnlagsdata>Fag_.
-
-### Klasser
-Klassene, med fag, registreres og endres fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra.
+### Klasser og fag
+Klassene, med fag, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra. 
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d9bf182e-e62e-4325-9fc6-6dd81f795993)
 
@@ -78,13 +75,15 @@ Klassene, med fag, registreres og endres fra  _Grunnlagsdata>Klasser_. Eventuell
 Første ikonet benyttes når ny lærer skal registreres. I utgangspunktet er et klassefag tiltenkt en lærer som da er fagansvarlig for hele skoleåret. 
 
 Men det er mulig å registrere flere lærere på samme fag. Eksempelvis at faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funskjon som assistent?), eller når en elev har ekstra lærer (funksjon som toærer). Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da slettes ikke læreren som slutter, men ny lærer legges til.
-Ikonet for å slette virker kunn på fag som har fått registrert lærer. Det er bare læreren som slettes, faget blir stående. Når timeplanen legges,vil timeplanlegger forholde seg til dette grunnlaget, og må kontrollere at timene blir fordelt over skoleåret slik denne oversikten viser. 
+
+Ikonet for å slette virker kunn på fag som har fått registrert lærer. Det er bare læreren som slettes, faget blir stående. Dersomet fag har flere lærere, må timeplanlegger kontrollere at timene blir fordelt over skoleåret slik denne oversikten viser. 
+
 #### Fag, Fagnavn, Fagkode, Omfang
-Datagrunnlaget for fagene som fremkommer er registrert, og kan bare endres, fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning.
+Datagrunnlaget for fagene kan bare endres fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning.
 #### Prosent fag/lærer
-Prosent fag registreres fra _Grunnlagsdata>Fag_. Prosent fag angir fagets leseprosent. Prosent lærer: Vanligvis lik Prosent fag. Men dersom en lærer ikke dekker undervisningen alene, kan prosenten for læreren justeres her. 
+Prosent fag er registrert fra _Grunnlagsdata>Fag_. Prosent fag angir fagets leseprosent. Prosent lærer: Vanligvis lik Prosent fag. Men dersom en lærer ikke dekker undervisningen alene, kan prosenten for læreren justeres her. 
 #### Uketimer fag/lærer
-Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned av timeplanlegger på ukesbasis. For skoleåret skal summen av alle timeplanlagte timer være likt fagets omfang.
+Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned av timeplanlegger på ukesbasis. For skoleåret skal summen av alle timeplanlagte timer minst være likt fagets omfang.
 #### Årstimer fag/lærer
 Antall undervisningstimer for faget registreres av skolen selv.  Dersom skolen benytter 45 min timer, skal tallet her tilsvare Omfang*4/3. Dersom flere lærere står for undervisningen i faget må Årstimer for den enkelte lærer justeres.
 #### Timeplanlagt fag/lærer
@@ -92,7 +91,7 @@ Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere d
 #### Funksjon
 Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan legge til ny tekst for funksjonen.
 #### Karaktertilgang
-Standardverdien er Ja, kan endres til Nei.
+Standardverdien er Ja. Dersom flere lærere dekker faget, kan Nei også være aktuell verdi.
 #### Elever 
 Viser hvor mange elever som alt er registrert i faget. Vanligvis er alle elevene i klassen registrert i alle klassens fag.
 -------------------------------------------------------------------------
