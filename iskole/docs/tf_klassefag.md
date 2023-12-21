@@ -85,7 +85,7 @@ Prosent fag er registrert fra _Grunnlagsdata>Fag_. Prosent fag angir fagets lese
 #### Uketimer fag/lærer
 Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned av timeplanlegger på ukesbasis. For skoleåret skal summen av alle timeplanlagte timer minst være likt fagets omfang.
 #### Årstimer fag/lærer
-Antall undervisningstimer for faget registreres av skolen selv.  Dersom skolen benytter 45 min timer, skal tallet her tilsvare Omfang*4/3. Dersom flere lærere står for undervisningen i faget må Årstimer for den enkelte lærer justeres.
+Antall undervisningstimer for faget registreres av skolen selv (fra _Grunnlagsdata>Fag_).  Dersom skolen benytter 45 min timer, skal tallet her tilsvare Omfang*4/3. Dersom flere lærere står for undervisningen i faget må Årstimer for den enkelte lærer justeres.
 #### Timeplanlagt fag/lærer
 Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere ha færre timer på sin timeplan. Før timeplanen er lagt vil tallet null vises her.
 #### Funksjon
