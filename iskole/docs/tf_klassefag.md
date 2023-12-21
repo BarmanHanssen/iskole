@@ -70,15 +70,15 @@ Valgbare fag til en klasse er registrert fra _Grunnlagsdata>Fag_.
 ### Klasser
 Klassene, med fag, registreres og endres fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra.
 
-Her registreres hvem som skal undervise. Læreren som står registrert på første linje er fagansvarlig, og er den som fører inn terminkarakteren i faget. Vedkommende blir automatisk satt opp som lærer for hele skoleåret, det vil si for alle ukene. Men man kan variere lærer uke for uke, uavhengig av hvem som er fagansvarlig.
-
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d9bf182e-e62e-4325-9fc6-6dd81f795993)
 
 ### Vi ser på detaljene:
 
 #### Valg
-Første ikonet benyttes når ny lærer skal registreres. Det er mulig å registrere flere lærere på samme fag. Eksempelvis kan to lærere dele faget dersom de skal dele på undervisningn, enten for en kortere eller lengre periode. Eller at faget skal styrkes ved at to (eller flere) lærere er tiltede i noen timer, eksempelvis når klassen er i svømmehallen (assistent?), eller når en elev har ekstra lærer (ofte klassifisert som toærer). Når timeplanen legges,vil timeplanlegger vil forholde seg til dette grunnlaget, og må kontrollere at timene blir fordelt over skoleåret slik denne oversikten viser.
-Ikonet for å slette virker kunn på fag som har fått registrert lærer. Det er bare læreren som slettes, faget blir stående.
+Første ikonet benyttes når ny lærer skal registreres. I utgangspunktet er et klassefag tiltenkt en lærer som da er fagansvarlig for hele skoleåret. 
+
+Men det er mulig å registrere flere lærere på samme fag. Eksempelvis at faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funskjon som assistent?), eller når en elev har ekstra lærer (funksjon som toærer). Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da slettes ikke læreren som slutter, men ny lærer legges til.
+Ikonet for å slette virker kunn på fag som har fått registrert lærer. Det er bare læreren som slettes, faget blir stående. Når timeplanen legges,vil timeplanlegger forholde seg til dette grunnlaget, og må kontrollere at timene blir fordelt over skoleåret slik denne oversikten viser. 
 #### Fag, Fagnavn, Fagkode, Omfang
 Datagrunnlaget for fagene som fremkommer er registrert, og kan bare endres, fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning.
 #### Prosent fag/lærer
