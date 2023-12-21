@@ -70,6 +70,8 @@ Her kan en legge inn data som knytter sammen fag og lærer for all undervisning 
 ### Klasser og fag
 Klassene, med fag, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra. 
 
+Dersom tabellen er omfattende, kan en begrense hva som vises ved å benytte filtrene: 
+
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d9bf182e-e62e-4325-9fc6-6dd81f795993)
 
 ### Vi ser på detaljene:
