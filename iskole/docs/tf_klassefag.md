@@ -66,7 +66,6 @@ Her kan en legge inn data som knytter sammen fag og lærer for all undervisning 
 
 Dersom tabellen er omfattende, kan en begrense hva som vises ved å benytte filtrene: 
 
-
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/f839109e-82e7-4111-bf44-a79721b89d7b)
 
 
