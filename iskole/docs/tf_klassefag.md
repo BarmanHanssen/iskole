@@ -64,6 +64,9 @@ Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en 
 ## Generelt
 Her kan en legge inn data som knytter sammen fag og lærer for all undervisning som planlegges iverksatt for dette skoleåret. Dette vil være grunnlaget for timeplanlegger. I tillegg kan en legge til relevant ressursbruk for andre tjenester (menyvalget _Andre ressurser_). I sum kan disse data være et godt grunnlag for videre budsjetteringsarbeid. Eksempelvis kontrollere at den enkelte lærer får en stillingsstørrelse som tilsvarer tilsettings-kontrakten. Og ressurs for den enkelte klasse, og for valgfagene (registrert fra _Gruppefag_.).
 
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/f839109e-82e7-4111-bf44-a79721b89d7b)
+
+
 ### Klasser og fag
 Klassene, med fag, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra. 
 
