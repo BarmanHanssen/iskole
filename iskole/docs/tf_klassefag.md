@@ -93,5 +93,6 @@ Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan leg
 #### Karaktertilgang
 Standardverdien er Ja. Dersom flere lærere dekker faget, kan Nei også være aktuell verdi.
 #### Elever 
+
 Viser hvor mange elever som alt er registrert i faget. Vanligvis er alle elevene i klassen registrert i alle klassens fag.
 -------------------------------------------------------------------------
