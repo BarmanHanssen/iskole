@@ -88,6 +88,7 @@ Alternativt kan en legge til/endre tolærer fra menyvalget _Tolærerfag_.
 Hvilke grupper som skal opprettes for skoleåret er registrert fra _Grunnlagsdata>Grupper_.
 Her kan en legge inn data som knytter sammen fag og lærer for undervisning i valgfag for dette skoleåret. Dette vil være grunnlaget for timeplanlegger.
 
+Dersom tabellen er omfattende, kan en begrense hva som vises ved å benytte filtrene:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/95799f56-8c0d-4752-8a8d-6c5b92f9739d)
 
 
