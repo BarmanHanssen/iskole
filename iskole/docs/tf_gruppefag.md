@@ -94,7 +94,7 @@ Dersom tabellen er omfattende, kan en begrense hva som vises ved å benytte filt
 Merk også muligehten for å sortere på dataene i de fem første kolonnene.
 
 ## Kolonnene i tabellen for gruppefagene
-Her henviser vi til dokumentasjon for klassefagene. Kolonnene kommer ikke i sammen rekkefølge, men likeheten er slående.
+Her henviser vi til dokumentasjon for klassefagene. Kolonnene kommer ikke i nøyaktig samme rekkefølge, men likheten er slående.
 
 
 
