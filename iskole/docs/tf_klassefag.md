@@ -68,7 +68,7 @@ Dersom tabellen er omfattende, kan en begrense hva som vises ved å benytte filt
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/f839109e-82e7-4111-bf44-a79721b89d7b)
 
-Avvik på prosent viser rader hvor lærer ikke har faget alene. Fagets leseprosent står alltid først, og dersom lærer skal ha avvikende del av leseprosent kommer den delen bak skilletegnet /.
+Avvik på prosent viser rader hvor lærer ikke har faget alene. Fagets leseprosent står alltid først, og dersom lærer skal ha avvikende del av leseprosent kommer den delen bak skilletegnet /. I tillegg kan en sortere på Fag, Fagnavn og Fagkode.
 
 
 ### Klasser og fag
