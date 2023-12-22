@@ -81,6 +81,17 @@ Alternativt kan en legge til/endre tolærer fra menyvalget _Tolærerfag_.
 ![bilde](https://user-images.githubusercontent.com/80097133/146531536-c97961e5-415e-45dd-9727-5373c4f01c46.png)
 
 
+## --------------------------------------------------------------------------
+# _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
+
+## Generelt
+Hvilke grupper som skal opprettes for skoleåret er registrert fra _Grunnlagsdata>Grupper_.
+Her kan en legge inn data som knytter sammen fag og lærer for undervisning i valgfag for dette skoleåret. Dette vil være grunnlaget for timeplanlegger.
+
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/95799f56-8c0d-4752-8a8d-6c5b92f9739d)
+
+
+
 
 
 
