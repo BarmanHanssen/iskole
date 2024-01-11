@@ -18,7 +18,7 @@ Nøkkelpersonene kan endres av rektor, administrator og skoleeier. Unntak er rek
 - PASansvarlig har ansvaret for at oppsatte eksamenspartier blir overført til PAS.
 
 ## Funksjoner
-Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnader. Når det avhukes for en tilleggs-funkson, eksempelvis for internat, vil _Internat_ tilføyes som arkfane, og ekstra programvare er derved tilgjengelig.
+Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnader. Når det avhukes for en tilleggs-funkson, eksempelvis for internat, vil _Internat_ tilføyes som arkfane på _mine sider_, og  denne programvaren blir da tilgjengelig.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9f4428c7-2662-47d4-900c-e8c068ee48da)
 
