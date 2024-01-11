@@ -20,7 +20,7 @@ Nøkkelpersonene kan endres av rektor, administrator og skoleeier. Unntak er rek
 ## Funksjoner
 Her vises oversikt over tilleggs-funkjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnader. Når det avhukes for en tilleggs-funkson, eksempelvis for internat, vil _Internat_ tilføyes som arkfane, og ekstra programvare er derved tilgjengelig.
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/5fe3764b-c238-4a06-bbac-5257b595244a)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9f4428c7-2662-47d4-900c-e8c068ee48da)
 
 ## Brukergrupper
 _Navn_ og _Beskrivelse_ sier det meste om de 25 definerte gruppene. Fra _Grupperettigheter_ fås detaljert oversikt over hvilke menyvalg den enkelte brukergruppe får tilgang til.
