@@ -31,7 +31,8 @@ Eksempel med vitnemål som ikke slipper gjennom kontrollen:
 
 ![image](https://user-images.githubusercontent.com/80097133/137270739-91b580e9-d60a-43af-948b-4844bafaa1ac.png)
 
-Før alle karakterer er innført kan en fra _Vis kladd_ ta en utskrift av alle fag som er registrert på eleven. Fagsammensetningen blir ikke kontrollert mot kontrollmotoren.
+Før alle karakterer er innført, altså før vitnemålet kan godkjentes av kontrollmotoren, kan en fra _Vis kladd_ ta en utskrift av alle fag som er registrert på eleven. 
+
 Dersom _Kontoller vitnemål_ viser at alt er ok, er det klart for _Generer vitnemål_. Vitnemålet lagres med et vitnemålsnummer, og kan hentes frem fra _Vis vitnemål_.
 
 ![image](https://user-images.githubusercontent.com/80097133/137270836-91154968-b4e5-449e-b0f7-8b27f3d5d6d3.png)
