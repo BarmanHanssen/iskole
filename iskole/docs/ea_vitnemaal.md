@@ -24,6 +24,11 @@ Første steget er å kontrollere fagsammensetningen. Det kan gjøres når som he
 
 Kontroll av vitnemål gir ingen mening før alle standpunkt- og eksamenskarakterer er innført. Vitnemål som slipper gjennom kontrollen kan utstedes, og kan sendes til Norsk vitnemålsdatabase (NVB).
 
+Eksempel med vitnemål som ikke slipper gjennom kontrollen:
+
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9c4118de-0ae6-4436-a761-271605a50573)
+
+
 ![image](https://user-images.githubusercontent.com/80097133/137270739-91b580e9-d60a-43af-948b-4844bafaa1ac.png)
 
 Før alle karakterer er innført kan en fra _Vis kladd_ ta en utskrift av alle fag som er registrert på eleven. Fagsammensetningen blir ikke kontrollert mot kontrollmotoren.
