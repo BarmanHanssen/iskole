@@ -62,7 +62,9 @@ Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en 
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
 ## Generelt
-Her kan en legge inn data som knytter sammen fag og lærer for all undervisning som planlegges iverksatt for dette skoleåret. Dette vil være grunnlaget for timeplanlegger. I tillegg kan en legge til relevant ressursbruk for andre tjenester (menyvalget _Andre ressurser_). I sum kan disse data være et godt grunnlag for videre budsjetteringsarbeid. Eksempelvis kontrollere at den enkelte lærer får en stillingsstørrelse som tilsvarer tilsettings-kontrakten. Og ressurs for den enkelte klasse, og for valgfagene (registrert fra _Gruppefag_.).
+Her kan en legge inn data som knytter sammen fag og lærer for all undervisning som planlegges iverksatt for dette skoleåret. Dette vil være grunnlaget for timeplanlegger. Dersom man i tillegg legger til relevant ressursbruk for andre tjenester (menyvalget _Andre ressurser_) vil i sum disse data være et godt grunnlag for videre budsjetteringsarbeid. Eksempelvis kontrollere at den enkelte lærer får en stillingsstørrelse som tilsvarer tilsettings-kontrakten. Og ressurs for den enkelte klasse, og for valgfagene (registrert fra _Gruppefag_.).
+
+Time- og fagfordelingen planlegges gjerne på vårparten for skoleåret som starter til høsten. På den tid er antall elever i klassene, og i gruppefagene,  i beste fall usikre/ikke kjent. Når vi likevel viser tallene her, er det med tanke at på at når neste skoleår er startet, vil en herfra få oppdatert oversikt over elevtallet, og ikke minst hvor mang timer som er timeplanlagt i det enkelte fag og for den enkelte lærer i faget (et faget kan ha flere lærere). Resultatet blir vist som klokketimer, og tar altså høyde for at undervisningstimene kan ha varierende lengde.
 
 Dersom tabellen er omfattende, kan en begrense hva som vises ved å benytte filtrene: 
 
@@ -82,26 +84,26 @@ Klassene, med fag, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring
 #### Valg
 Første ikonet benyttes når ny lærer skal registreres. I utgangspunktet er et klassefag tiltenkt en lærer som da er fagansvarlig for hele skoleåret. 
 
-Men det er mulig å registrere flere lærere på samme fag. Eksempelvis at faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funksjon som assistent?), eller når en elev har ekstra lærer (funksjon som toærer). Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da slettes ikke læreren som slutter, men ny lærer legges til.
+Men det er mulig å registrere flere lærere på samme fag. Eksempelvis at faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funksjon som assistent?), eller når en elev har ekstra lærer (funksjon som toærer), eller at et fem-timers fag deles slik at en lærer har 3 timer, og den andre to timer i deler av skoleåret. Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da slettes ikke læreren som slutter, men ny lærer legges til.
 
-Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare læreren som slettes, faget blir stående. 
+Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare læreren som slettes, faget blir stående. Dersom faget skal slettes, gjøres det fra Grunnlagsdata>Klasse.
 
 #### Fag, Fagnavn, Fagkode, Omfang
-Datagrunnlaget for fagene kan bare endres fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning.
+Datagrunnlaget for fagene kan bare endres fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning. Skolen skal kunne dokumentere at det er gitt et undevisningstilbud som fullt ut dekker dette timetallet. Timeplanen for hele skoleåret er her en vesentlig del av den dokumentasjonen.
 #### Prosent fag/lærer
 Prosent fag er registrert fra _Grunnlagsdata>Fag_. Prosent fag angir fagets leseprosent. Prosent lærer: Vanligvis lik Prosent fag. Men dersom en lærer ikke dekker undervisningen alene, kan prosenten for læreren justeres her. 
 #### Uketimer fag/lærer
-Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned av timeplanlegger på ukesbasis. For skoleåret skal summen av alle timeplanlagte timer minst være likt fagets omfang.
+Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned av timeplanlegger på ukesbasis. 
 #### Årstimer fag/lærer
+Vi anbefaler at en benytter klokketimer (dvs fagets omfang) når fagets årstimer fastsettes. Dersom en lærer dekker et fag alene, tildeles læreren fagets årstimer.
 Antall undervisningstimer for faget registreres av skolen selv (fra _Grunnlagsdata>Fag_).  Dersom skolen benytter 45 min timer, skal tallet her tilsvare Omfang*4/3. Dersom flere lærere står for undervisningen i faget må Årstimer for den enkelte lærer justeres.
 #### Timeplanlagt fag/lærer
-Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere ha færre timer på sin timeplan. Før timeplanen er lagt vil tallet null vises her.
+Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere kunne ha færre timer på sin timeplan. Før timeplanen er lagt vil tallet null vises her. Når timeplanen er lagt for hele skoleåret skal fagets timeplanlagte timer tilsvare fagets omfang.
 #### Funksjon
-Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan legge til ny tekst for funksjonen.
+Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan legge til ny tekst for funksjonen, eksempelvis sluttet/start-dato for undervisningen i faget.
 #### Karaktertilgang
 Standardverdien er Ja. Dersom flere lærere dekker faget, kan Nei også være aktuell verdi.
 #### Elever 
-
-Viser hvor mange elever som alt er registrert i faget. Vanligvis er alle elevene i klassen registrert i alle klassens fag.
+Viser hvor mange elever som er registrert i faget på visningsdatoen. Vanligvis er alle elevene i klassen registrert i alle klassens fag.
 
 -------------------------------------------------------------------------
