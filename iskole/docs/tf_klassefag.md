@@ -84,7 +84,7 @@ Klassene, med fag, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring
 #### Valg
 Første ikonet benyttes når ny lærer skal registreres. I utgangspunktet er et klassefag tiltenkt en lærer som da er fagansvarlig for hele skoleåret. 
 
-Men det er mulig å registrere flere lærere på samme fag. Eksempelvis at faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funksjon som assistent?), eller når en elev har ekstra lærer (funksjon som toærer), eller at et fem-timers fag deles slik at en lærer har 3 timer, og den andre to timer i deler av skoleåret. Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da slettes ikke læreren som slutter, men ny lærer legges til.
+Men det er mulig å registrere flere lærere på samme fag. Eksempelvis at faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funksjon som assistent?), eller når en elev har ekstra lærer (funksjon som toærer), eller at et fem-timers fag deles slik at en lærer har tre timer, og den andre to timer i deler av skoleåret. Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da slettes ikke læreren som slutter, men ny lærer legges til.
 
 Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare læreren som slettes, faget blir stående. Dersom faget skal slettes, gjøres det fra Grunnlagsdata>Klasse.
 
