@@ -93,12 +93,12 @@ Datagrunnlaget for fagene kan bare endres fra _Grunnlagssdata>Fag_. Omfanget er 
 #### Prosent fag/lærer
 Prosent fag er registrert fra _Grunnlagsdata>Fag_. Prosent fag angir fagets leseprosent. Prosent lærer: Vanligvis lik Prosent fag. Men dersom en lærer ikke dekker undervisningen alene, kan prosenten for læreren justeres her. 
 #### Uketimer fag/lærer
-Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned av timeplanlegger på ukesbasis. 
+Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned på ukesbasis under timeplanleggingen. 
 #### Årstimer fag/lærer
 Vi anbefaler at en benytter klokketimer (dvs fagets omfang) når fagets årstimer fastsettes. Dersom en lærer dekker et fag alene, tildeles læreren fagets årstimer.
-Antall undervisningstimer for faget registreres av skolen selv (fra _Grunnlagsdata>Fag_).  Dersom skolen benytter 45 min timer, skal tallet her tilsvare Omfang*4/3. Dersom flere lærere står for undervisningen i faget må Årstimer for den enkelte lærer justeres.
+Antall årstimer for faget registreres av skolen selv (fra _Grunnlagsdata>Fag_).  Dersom skolen benytter 45 min timer, skal tallet her tilsvare Omfang*4/3. Dersom flere lærere står for undervisningen i faget må Årstimer for den enkelte lærer justeres.
 #### Timeplanlagt fag/lærer
-Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere kunne ha færre timer på sin timeplan. Før timeplanen er lagt vil tallet null vises her. Når timeplanen er lagt for hele skoleåret skal fagets timeplanlagte timer tilsvare fagets omfang.
+Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere kunne ha færre timer på sin timeplan. Før timeplanen er lagt vil tallet null vises her. Når timeplanen er lagt for hele skoleåret skal fagets timeplanlagte timer tilsvare fagets omfang. Og summen av timeplanlagte timer for fagets lærere skal minst være lik fagets timeplan dersom alle timeplanlgte timer har registreret (minst) en lærer.
 #### Funksjon
 Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan legge til ny tekst for funksjonen, eksempelvis sluttet/start-dato for undervisningen i faget.
 #### Karaktertilgang
