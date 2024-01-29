@@ -66,15 +66,9 @@ Her kan en legge inn data som knytter sammen fag og lærer for all undervisning 
 
 Time- og fagfordelingen planlegges gjerne på vårparten for skoleåret som starter til høsten. På den tid er antall elever i klassene, og i gruppefagene ikke kjent, eller i beste fall usikre. Når vi likevel viser tallene her, er det med tanke at på at når neste skoleår er startet, vil en herfra få oppdatert oversikt over reelt elevtall, og ikke minst hvor mang timer som er timeplanlagt i det enkelte fag og for den enkelte lærer i faget (et faget kan ha flere lærere). Resultatet blir vist som klokketimer, og tar altså høyde for at undervisningstimene kan ha varierende lengde.
 
-Dersom tabellen er omfattende, kan en begrense hva som vises ved å benytte filtrene: 
-
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/f839109e-82e7-4111-bf44-a79721b89d7b)
-
-?
-
 ### Klasser og fag
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/238ee62c-ecac-46df-a29b-7b3840fe3d27)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/062c6dee-cbe2-4e20-b9bd-7ad72351eb75)
 
 Tabellen er todelt. Fagene,som vises på hvit bakgrunn, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra. Lærere som skal undervise i fagene vises til høyre for fagene på lysebå bakgrunn
 
