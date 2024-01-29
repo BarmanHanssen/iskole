@@ -77,7 +77,7 @@ Avvik på prosent viser rader hvor lærer ikke har faget alene. Fagets leseprose
 Klassene, med fag, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra. 
 
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d9bf182e-e62e-4325-9fc6-6dd81f795993)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/238ee62c-ecac-46df-a29b-7b3840fe3d27)
 
 ### Vi ser på detaljene:
 
