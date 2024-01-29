@@ -72,7 +72,7 @@ Time- og fagfordelingen planlegges gjerne på vårparten for skoleåret som star
 
 Tabellen er todelt. Fagene,som vises på hvit bakgrunn, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra. Endring av verdiene for fagnavn, fagkode, omfang, ressurs, uketimer og årstimer gjøres fra _Grunnlagsdata_>Fag_.
 
-Lærere som skal undervise i fagene vises til høyre for fagene på lyseblå bakgrunn
+På lyseblå bakgrunn vise lærene som skal undervise i fagene.
 
 ### Vi ser på den lyseblå delen av tabellen:
 Det er her vi kan legge inn faglærerne i det enkelte fag. Klikk på ikonet ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040), og du får frem følgende skjema:
