@@ -74,12 +74,13 @@ Avvik på prosent viser rader hvor lærer ikke har faget alene. Fagets leseprose
 
 
 ### Klasser og fag
-Klassene, med fag, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra. 
-
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/238ee62c-ecac-46df-a29b-7b3840fe3d27)
 
+Tabellen er todelt. Fagene,som vises på hvit bakgrunn, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra. Lærere som skal undervise i fagene vises til høyre for fagene på lysebå bakgrunn
+
 ### Vi ser på detaljene:
+
 
 #### Valg
 Første ikonet benyttes når ny lærer skal registreres. I utgangspunktet er et klassefag tiltenkt en lærer som da er fagansvarlig for hele skoleåret. 
