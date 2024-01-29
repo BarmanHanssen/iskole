@@ -62,16 +62,15 @@ Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en 
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
 ## Generelt
-Her kan en legge inn data som knytter sammen fag og lærer for all undervisning som planlegges iverksatt for dette skoleåret. Dette vil være grunnlaget for timeplanlegger. Dersom man i tillegg legger til relevant ressursbruk for andre tjenester (menyvalget _Andre ressurser_) vil i sum disse data være et godt grunnlag for videre budsjetteringsarbeid. Eksempelvis kontrollere at den enkelte lærer får en stillingsstørrelse som tilsvarer tilsettings-kontrakten. Og ressurs for den enkelte klasse, og for valgfagene (registrert fra _Gruppefag_.).
+Her kan en legge inn data som knytter sammen fag og lærer for all undervisning som planlegges iverksatt for dette skoleåret. Dette vil være grunnlaget for timeplanlegger. Dersom man i tillegg legger til relevant ressursbruk for andre tjenester (menyvalget _Andre ressurser_) vil i sum disse data være et godt grunnlag for videre budsjetteringsarbeid. Eksempelvis kontrollere at den enkelte lærer får en stillingsstørrelse som tilsvarer tilsettings-kontrakten (se _Rapporter>Stillingsoversikt_). Og ressurs for den enkelte klasse, og for valgfagene (registrert fra _Gruppefag_.).
 
-Time- og fagfordelingen planlegges gjerne på vårparten for skoleåret som starter til høsten. På den tid er antall elever i klassene, og i gruppefagene,  i beste fall usikre/ikke kjent. Når vi likevel viser tallene her, er det med tanke at på at når neste skoleår er startet, vil en herfra få oppdatert oversikt over elevtallet, og ikke minst hvor mang timer som er timeplanlagt i det enkelte fag og for den enkelte lærer i faget (et faget kan ha flere lærere). Resultatet blir vist som klokketimer, og tar altså høyde for at undervisningstimene kan ha varierende lengde.
+Time- og fagfordelingen planlegges gjerne på vårparten for skoleåret som starter til høsten. På den tid er antall elever i klassene, og i gruppefagene ikke kjent, eller i beste fall usikre. Når vi likevel viser tallene her, er det med tanke at på at når neste skoleår er startet, vil en herfra få oppdatert oversikt over reelt elevtall, og ikke minst hvor mang timer som er timeplanlagt i det enkelte fag og for den enkelte lærer i faget (et faget kan ha flere lærere). Resultatet blir vist som klokketimer, og tar altså høyde for at undervisningstimene kan ha varierende lengde.
 
 Dersom tabellen er omfattende, kan en begrense hva som vises ved å benytte filtrene: 
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/f839109e-82e7-4111-bf44-a79721b89d7b)
 
-Avvik på prosent viser rader hvor lærer ikke har faget alene. Fagets leseprosent står alltid først, og dersom lærer skal ha avvikende del av leseprosent kommer den delen bak skilletegnet /. I tillegg kan en sortere på Fag, Fagnavn og Fagkode.
-
+?
 
 ### Klasser og fag
 
