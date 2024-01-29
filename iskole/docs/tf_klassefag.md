@@ -87,18 +87,10 @@ For å gjøre endringer på lagrede data klikkes det på gult ikon:
 
 Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare mulig å slette læreren, faget blir stående.
 
+#### Ressurs, årstimer,timeplanlagt
+Dersom faget har flere lærere vises summen av tildelt Ressurs og Årstimer for alle lærerne. Timeplanlagte timer i faget gjelder for selve faget, og er upåvirket av hvor mange lærere som er involvert i de enkelte timene.
+For fag med fagkoder forskjellig fra 999999: Skolen kan dokumentere undevisningstilbud med henvisning til Årstimer da timetallet er klokketimer. Antall Årstimer skal da motsvare fagets Omfang. Eventuelt må  for få årstimer kunne dokumenteres på annen måte.
 
-#### Fag, Fagnavn, Fagkode, Omfang
-Datagrunnlaget for fagene kan bare endres fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning. Skolen skal kunne dokumentere at det er gitt et undevisningstilbud som fullt ut dekker dette timetallet. Timeplanen for hele skoleåret er her en vesentlig del av den dokumentasjonen.
-#### Prosent fag/lærer
-Prosent fag er registrert fra _Grunnlagsdata>Fag_. Prosent fag angir fagets leseprosent. Prosent lærer: Vanligvis lik Prosent fag. Men dersom en lærer ikke dekker undervisningen alene, kan prosenten for læreren justeres her. 
-#### Uketimer fag/lærer
-Timetallet er utgangspunktet for timeplanlegger. Kan justeres både opp og ned på ukesbasis under timeplanleggingen. 
-#### Årstimer fag/lærer
-Vi anbefaler at en benytter klokketimer (dvs fagets omfang) når fagets årstimer fastsettes. Dersom en lærer dekker et fag alene, tildeles læreren fagets årstimer.
-Antall årstimer for faget registreres av skolen selv (fra _Grunnlagsdata>Fag_).  Dersom skolen benytter 45 min timer, skal tallet her tilsvare Omfang*4/3. Dersom flere lærere står for undervisningen i faget må Årstimer for den enkelte lærer justeres.
-#### Timeplanlagt fag/lærer
-Summen av allerede timeplanlagte timer i faget vises her. Dersom flere lærere deler faget, vil den enkelte lærere kunne ha færre timer på sin timeplan. Før timeplanen er lagt vil tallet null vises her. Når timeplanen er lagt for hele skoleåret skal fagets timeplanlagte timer tilsvare fagets omfang. Og summen av timeplanlagte timer for fagets lærere skal minst være lik fagets timeplan dersom alle timeplanlgte timer har registreret (minst) en lærer.
 #### Funksjon
 Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan legge til ny tekst for funksjonen, eksempelvis sluttet/start-dato for undervisningen i faget.
 #### Karaktertilgang
