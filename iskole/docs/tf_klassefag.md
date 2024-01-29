@@ -79,10 +79,8 @@ Det er her vi kan legge inn faglærerne i det enkelte fag. Klikk på ikonet ![im
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d2f4701a-cfb8-412f-a6ca-c71b31ad259f)
 
 
-
-
 #### Legg til lærer
-Nedtrekkslisten kan vise alle tilsatte som er registrert som pedagoger (se _Personal>Ansatt_). Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik det er lagt inn fra _Grunnlagsdata>Fag_. Men det er mulig  overstyre disse verdier her, det er mest aktuelt når flere lærere deler på undervisningen i faget. Eksempelvis at faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funksjon som assistent?), eller når en elev har ekstra lærer (funksjon som toærer), eller at et fem-timers fag deles slik at en lærer har tre timer, og den andre to timer i deler av skoleåret. Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da ny lærer legges ny lærer til. Anbefaling: Dersom lærer som slutter, har gjennomført undervisning i faget, slettes ikke læreren herfra. I motsatt fall mistes dokumentasjonen om lærerens undervisning i faget.
+Nedtrekkslisten kan vise alle tilsatte som er registrert som pedagoger (se _Personal>Ansatt_). Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik det er lagt inn fra _Grunnlagsdata>Fag_. Men det er mulig  overstyre disse verdier her, det er mest aktuelt når flere lærere deler på undervisningen i faget. Eksempelvis at faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funksjon som assistent?), eller når en elev har ekstra lærer (funksjon som toærer), eller at et fem-timers fag deles slik at en lærer har tre timer, og den andre to timer i hele, eller deler av skoleåret. Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da legges ny lærer til. Dersom lærer som slutter, alt har gjennomført undervisning i faget, slettes ikke læreren herfra. I motsatt fall mistes dokumentasjonen om lærerens undervisning i faget, og timene står oppført uten lærer.
 
 For å gjøre endringer på lagrede data klikkes det på gult ikon:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b4c4bd4c-3496-4550-9dc9-99c4244c3932)
