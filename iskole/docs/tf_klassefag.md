@@ -79,12 +79,10 @@ Det er her vi kan legge inn faglærerne i det enkelte fag. Klikk på ikonet ![im
 
 
 
-#### Valg
-Første ikonet benyttes når ny lærer skal registreres. I utgangspunktet er et klassefag tiltenkt en lærer som da er fagansvarlig for hele skoleåret. 
+#### Legg til lærer
+Nedtrekkslisten kan vise alle tilsatte som er registrert som pedagoger (se _Personal>Ansatt_). Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik det er lagt inn fra _Grunnlagsdata>Fag_. Men det er mulig  overstyre disse verdier her, det er mest aktuelt når flere lærere deler på undervisningen i faget. Eksempelvis at faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funksjon som assistent?), eller når en elev har ekstra lærer (funksjon som toærer), eller at et fem-timers fag deles slik at en lærer har tre timer, og den andre to timer i deler av skoleåret. Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da slettes ikke læreren som slutter, men ny lærer legges til. Anbefaling: Dersom lærer har fått timeplanlagt, og undervist i faget, slettes ikke læreren herfra, selv om læreren avslutter ved skolen.
 
-Men det er mulig å registrere flere lærere på samme fag. Eksempelvis at faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funksjon som assistent?), eller når en elev har ekstra lærer (funksjon som toærer), eller at et fem-timers fag deles slik at en lærer har tre timer, og den andre to timer i deler av skoleåret. Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da slettes ikke læreren som slutter, men ny lærer legges til.
-
-Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare læreren som slettes, faget blir stående. Dersom faget skal slettes, gjøres det fra Grunnlagsdata>Klasse.
+Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare mulig å slette en lærer, faget blir stående.
 
 #### Fag, Fagnavn, Fagkode, Omfang
 Datagrunnlaget for fagene kan bare endres fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning. Skolen skal kunne dokumentere at det er gitt et undevisningstilbud som fullt ut dekker dette timetallet. Timeplanen for hele skoleåret er her en vesentlig del av den dokumentasjonen.
