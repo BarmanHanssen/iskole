@@ -84,6 +84,10 @@ Nedtrekkslisten kan vise alle tilsatte som er registrert som pedagoger (se _Pers
 
 Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare mulig å slette en lærer, faget blir stående.
 
+Dersom flere lærere er registrert på et fag vises kortnavnet til samtligeunder kolonnen Lærer. For å vise detaljene klikkes det på  på gult ikon:
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b4c4bd4c-3496-4550-9dc9-99c4244c3932)
+Dette åpner for å gjøre endringer på lagrede data.
+
 #### Fag, Fagnavn, Fagkode, Omfang
 Datagrunnlaget for fagene kan bare endres fra _Grunnlagssdata>Fag_. Omfanget er hentet fra fagets fagplan og angir hvor mange klokketimer som skal benyttes til undervisning. Skolen skal kunne dokumentere at det er gitt et undevisningstilbud som fullt ut dekker dette timetallet. Timeplanen for hele skoleåret er her en vesentlig del av den dokumentasjonen.
 #### Prosent fag/lærer
