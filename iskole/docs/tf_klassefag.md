@@ -74,6 +74,8 @@ Tabellen er todelt. Fagene,som vises på hvit bakgrunn, er registrert fra  _Grun
 
 ### Vi ser på den lyseblå delen av tabellen:
 Det er her vi kan legge inn faglærerne i det enkelte fag. Klikk på ikonet ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040), og du får frem følgende skjema:
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d2f4701a-cfb8-412f-a6ca-c71b31ad259f)
+
 
 
 
