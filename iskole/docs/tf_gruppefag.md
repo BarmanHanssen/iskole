@@ -85,17 +85,11 @@ Alternativt kan en legge til/endre tolærer fra menyvalget _Tolærerfag_.
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
 ## Generelt
-Hvilke grupper som skal opprettes for skoleåret er registrert fra _Grunnlagsdata>Grupper_.
-Her kan en legge inn data som knytter sammen fag og lærer for undervisning i valgfag for dette skoleåret. Dette vil være grunnlaget for timeplanlegger.
-
-Dersom tabellen er omfattende, kan en begrense hva som vises ved å benytte filtrene:
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/95799f56-8c0d-4752-8a8d-6c5b92f9739d)
-
-Merk også muligehten for å sortere på dataene i de fem første kolonnene.
+Her registreres faglærerne i valgfagene for dette skoleåret. 
+Justering av hvilke grupper som skal tilbys gjøres fra _Grunnlagsdata>Grupper_.
 
 ## Kolonnene i tabellen for gruppefagene
-Her henviser vi til dokumentasjon for klassefagene. Kolonnene kommer ikke i nøyaktig samme rekkefølge, men likheten er slående.
-
+Strukturen er den samme som for klassefagene. Vi henviser derfor til dokumentasjon for klassefagene. 
 
 
 
