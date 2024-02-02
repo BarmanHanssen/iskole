@@ -35,8 +35,14 @@ Her er innholdet sortert på lærerens navn. Rapporten skrives ut på regneark, 
 ## --------------------------------------------------------------------------
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
-For lærere beregnes resursen ( dvs stillingsstørrelsens i prosent) hovedsaklig ut fra undervisningsfagene læreren skal ha. Tildelingen av fag til lærer skjer fra valgene _Klassefag, Gruppefag_ og _Tolærerfag_. Hvor stor prosentvis del av hel stilling hvert fag representerer, er gitt fra _Grunnlagsdata>Fag_ gjennom brøken Årstimer/Årsramme.
+Lærers stillingsstørrelse fremkommer blant annet fra undervisningsfagene læreren skal ha. Tildelingen av fag skjer fra valgene _Klassefag, Gruppefag_. Prosenten for hvert fag beregnes fra _Grunnlagsdata>Fag_ gjennom brøken Årstimer/Årsramme.
 
-I noen tilfeller gir ikke fagene riktig prosent for alle lærerne. Det kan skyldes flere forhold, eksempelvis at en lærer ikke har faget hele skoleåret. For å korrigere for slike forhold, kan en legge til, eller trekke fra, ressurs til navngitte lærere. Eller at læreren er tillagt andre oppgaver som gir grunnlag for ressurs.
+Dersom læreren er tillagt andre oppgaver enn ren undervisning, vil dette kunne gir grunnlag for en ekstra ressurstildeling. 
+Dersom to lærere deler på undervisngen i et fag, skal fagets ressurs deles mellom lærerne. Dette gjøres direkte faget det gjelder (se _Klassefag_, eller _Gruppefag_), altå ikke fra _Andre ressurser_.
+
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/59558314-9bc1-44a6-b3d6-95b6ef113a4e)
+
+Dersom iSkole ikke benyttes til budsjettering, kan _Kategori_ og _Postering_ stå uendret. Dersom det gjelder en reduksjon, settes et minustegn (altså - ) foran tallet. Fra _Funksjon/stilling_ settes inn tekst som klargjør bakgrunnen for endringen.
+
 
 
