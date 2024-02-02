@@ -39,8 +39,11 @@ Lærers lønn fastesettes blant annet fra undervisningsfagene læreren blir tild
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b0dd6f99-9d00-46a4-b024-0db99bcba7d9)
 
 Dersom læreren er tillagt andre oppgaver enn ren undervisning, vil dette også gi grunnlag for en ekstra ressurstildeling. 
-Men merk at dersom to lærere deler på undervisngen i et fag, skal fagets ressurs deles mellom lærerne. Dette gjøres direkte faget på det gjelder (se _Klassefag_, eller _Gruppefag_), altså ikke fra _Andre ressurser_ ved å redusere prosenten som fremkommer for faget.
+
 Dersom det gjelder en reduksjon, settes et minustegn (altså - ) foran tallet. Fra _Funksjon/stilling_ settes inn tekst som klargjør bakgrunnen for endringen.
+
+Men merk at dersom to lærere deler på undervisngen i et fag, skal fagets ressurs deles mellom lærerne. Dette gjøres direkte faget på det gjelder (se _Klassefag_, eller _Gruppefag_), altså ikke fra _Andre ressurser_ ved å redusere prosenten som fremkommer for faget.
+
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/59558314-9bc1-44a6-b3d6-95b6ef113a4e)
 
