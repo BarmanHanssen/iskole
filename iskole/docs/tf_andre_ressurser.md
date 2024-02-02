@@ -36,6 +36,8 @@ Her er innholdet sortert på lærerens navn. Rapporten skrives ut på regneark, 
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
 Lærers lønn fastesettes blant annet fra undervisningsfagene læreren blir tildelt. Tildelingen av fag skjer fra valgene _Klassefag_ og _Gruppefag_. Prosenten for hvert fag beregnes fra _Grunnlagsdata>Fag_ gjennom brøken Årstimer/Årsramme. Dersom læreren er (eller blir) kontaktlærer, vil denne ressursen automatisk vises her, og kan ikke endres herfra.
+
+
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b0dd6f99-9d00-46a4-b024-0db99bcba7d9)
 
 Dersom læreren er tillagt andre oppgaver enn ren undervisning, vil dette også gi grunnlag for en ekstra ressurstildeling. 
