@@ -49,7 +49,7 @@ Men merk at dersom to lærere deler på undervisngen i et fag, skal fagets ressu
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/59558314-9bc1-44a6-b3d6-95b6ef113a4e)
 
 _Prosent_: Dersom det gjelder en reduksjon, settes et minustegn (altså - ) foran tallet. 
- _Funksjon/stilling_: settes inn tekst som klargjør bakgrunnen for endringen.
+_Funksjon/stilling_: settes inn tekst som klargjør bakgrunnen for endringen.
 
 
 Dersom iSkole ikke benyttes til budsjettering, kan _Kategori_ og _Postering_ stå uendret. 
