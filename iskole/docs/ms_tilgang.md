@@ -50,7 +50,7 @@ Velg en brukergruppe fra nedtrekkslisten. Man får da en oversikt hvilke menyval
 ## Brukere
 Oversikt viser hvilke rettigheter alle nåværende ansatte er tildelt.
 
-![bilde](https://user-images.githubusercontent.com/80097133/192266224-aefc230b-f2a0-4a8b-8930-ac73ceb55eeb.png)
+![bilde](/img/ms_tilgang_brukere.png 'Brukere')
 
 Rektor/administrator kan redigere rettigheter til ansatte. Dersom ingen brukergruppe(r) gir ønsket tilgang, kan rektor gi brukeren tilgang til spesifikke menyvalg.
 
