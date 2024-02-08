@@ -31,8 +31,8 @@ Selv om man krysser av for sending av e-post til foresatte, så sendes den ikke 
 #### E-post
 Du kan velge om meldingen kun skal være intern på iSkole eller om det i tillegg skal sendes en e-post til mottakeren. Du kan velge mellom å sende en kopi av meldingen eller om mottakeren skal motta et varsel om at de har fått en ny melding som må leses på iSkole.
 
-:::caution
-Dersom innholdet i meldingen er av sensitiv karakter anbefaler vi å ikke sende kopi av meldingen, men heller benytte seg av varsel om at en melding kan leses på iSkole.
+:::caution Sensitiv informasjon
+Dersom innholdet i meldingen er av sensitiv karakter anbefaler vi å ikke sende kopi av meldingen på e-post, men heller benytte seg av varsel om at en melding kan leses på iSkole.
 :::
 
 :::tip Pushvarsel
@@ -40,14 +40,14 @@ Dersom mottakere har aktivert pushvarsling for iSkole vil de motta pushvarsel om
 :::
 
 ## Sendt
-Her vises en kronologisk liste over sendte meldinger. Dersom en dato står i parentes etter navnet på mottaker, er det datoen mottaker åpnet meldingen. Hvis du klikker på meldingen, kan du lese den, samt se dato for når meldingen ble lest.
+Her vises en kronologisk liste over sendte meldinger. Dersom en dato står i parentes etter navnet på mottaker, er dette datoen mottaker åpnet meldingen. Klikk på meldingen for å lese hele innholdet.
 
 
 ## SMS
 Adresselisten for SMS er bygget på samme måte som ved sending av melding, men i tillegg vises personens telefonnummer bak navnet. SMS faktureres per melding, under tekstfeltet vises derfor antall tegn meldingen består av og hvor mange meldinger dette vil utgjøre.
 
 :::info Merk
-En ny meldingen sendes bare en gang til et mobilnummer, selv om nummeret er registrerrt på eksempelvis både elev og foresatt.
+En ny meldingen sendes bare en gang til et mobilnummer, selv om nummeret er registrert på eksempelvis både elev og foresatt.
 :::
 
 :::info Merk 2
