@@ -28,16 +28,16 @@ For å laste opp en fil, klikk på ... på den mappen du vil legge filen og velg
 ![Dokumenter](/img/help_dokumenter1.gif 'Dokumenter')
 
 ### Deling
-Du kan dele dokumenter i arkivet ditt med elever og lærere i fag.  klikk på ... på dokumentet du ønsker å dele, og velg _Del_. Oppgi når dokumentet skal være synlig og hvilke fag dokumentet skal være synlig for. Dokumentet vises for elevene og lærerne tilknyttet faget under menyvalget _Dokumenter_.
+Du kan dele dokumenter i arkivet ditt med elever og lærere i dine fag. Klikk på ... på dokumentet du ønsker å dele og velg _Del_. Oppgi når dokumentet skal være synlig og hvilke fag dokumentet skal være synlig for. Dokumentet vises for elevene og lærerne tilknyttet faget under menyvalget _Dokumenter_.
 
 :::info Merk
-Dokumentet vil bare være delt innenfor planperioden, selv om du oppgir en dato lengere frem i tid. 
+Dokumentet vil bare være delt innenfor skoleåret, selv om du oppgir en dato lengere frem i tid. 
 :::
 
 ![bilde](/img/ms_dokumenter_del.png 'Del dokument')
 
 ## Felles dokumenter
-Her kan alle ansatte opprette mapper og laste opp filer som skal være tilgjengelig for alle ansatte. Man kan kun slette egne filer. Rektor og administrator kan slette alle filer.
+Her kan alle ansatte opprette mapper og laste opp filer som skal være tilgjengelig for alle ansatte. Man kan kun slette egne filer, med unntak av rektor og rektors stedfortreder, som kan slette alle filer.
 
 ## Dokumenter
 Her vises dokumentene som er delt til de fagene du er tilknyttet. Dokumentene deles fra _Mine dokumenter_ som beskrevet over.
