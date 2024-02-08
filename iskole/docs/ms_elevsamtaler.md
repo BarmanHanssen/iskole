@@ -3,14 +3,18 @@ id: ms_elevsamtaler
 title: Elevsamtaler
 sidebar_label: Elevsamtaler
 ---
-## _Elevsamtaler_ 
-er bare synlig for kontaktlærer og andre dedikerte brukere!
-![bilde](https://user-images.githubusercontent.com/80097133/166660917-2df92098-daec-4fa5-8f4e-b285f26a1cac.png)
+## Elevsamtaler
+Kontaktlærer kan her dokumentere avholdte elevsamtaler. Her fås også en oversikt over allerede registrerte elevsamtaler med eleven, og om eleven har lest referatet. 
 
-Kontaktlærer kan her dokumentere avholdte elevsamtaler. Her fås også en oversikt over allerede registrerte fagsamtaler med eleven, og om eleven har lest referatet. 
+![bilde](/img/ms_elevsamtaler.png 'Elevsamtaler')
 
-Klikk på blyant-ikonet i kolonnen _Behandle_ for å registrere en elevsamtale. 
-Velg dato fra kalenderen og klikk på knappen _Lagre_. Skriv inn referat av samtalen og klikke _Lagre_. Du kan lagre flere ganger underveis. Her har du også mulighet til å slette samtalen. Klikk på lenken _Tilbake til elevsamtalene_ for å komme til listen over elevens samtaler. Du har bare mulighet til å endre eller slette elevsamtalen frem til eleven kvittérer. 
+Først vises en oversikt over elevene og antall avholdte samtaler. Kolonnen _Behandle_ har to ikoner, et øye og en snakkeboble med +. Øyet tar deg videre til alle elevens samtaler og mulighet for å opprette en ny elevsamtale, mens snakkeboblen tar deg direkte til opprettelse av ny samtale. 
+
+For å slette en elevsamtale klikker du først _Rediger_, deretter _Slett..._. Slettingen må deretter bekreftes.
+
+:::note Merk
+Du har bare mulighet til å endre eller slette elevsamtalen frem til eleven kvittérer. 
+:::
 
 #### _Søk etter elev_
 Elevinspektører får også fram dette menyvalget. Elevinspektøren kan også legge inn elevsamtaler på samme måte som kontaktlærer. Det er kun mulig å endre, eller slette, elevsamtaler man selv har skrevet frem til eleven har kvittert.
