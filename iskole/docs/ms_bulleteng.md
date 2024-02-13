@@ -11,7 +11,7 @@ Dersom man tilsvarende vil informere alle elevene ved skolen, kan meldingen offe
 En bulleteng blir publisert på datoen som redaktøren av bulletengen setter. 
 
 ## Legge til redaktører
-Rektor eller rektors stedfortreder kan legge til redaktører fra _Tilgang>Bulleteng_
+Rektor eller rektors stedfortreder kan legge til redaktører fra _Tilgang>Bulleteng_. Dersom skjermen er for smal til å vise alle valg, slik som i bildet nedenfor, klikk _Mer_ for å få frem _Bulleteng_.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/293458ca-c94a-4d2a-94a9-14cfed446f84)
 
