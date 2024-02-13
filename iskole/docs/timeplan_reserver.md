@@ -124,11 +124,11 @@ Lærer velges fra listen, og lærerens timeplan hentes frem og timene markeres p
 Dersom en reservasjon skal slettes: Fjerne avhukingen for en eller flere uker og klikk på _Lagre_.
 
 ## Reservere rom 
-Timeplanlegger kan her reservere et rom, og dermed blokkere rommet for undervisningsformål.
-Eksempler på når dette kan være aktuelt: Rommet er i en periode leid bort. Rommet skal brukes av andre enn skolens lærere. Stengt for bruk til undervisning grunnet oppussing.
+Timeplanlegger kan her reservere et rom, og dermed blokkere rommet når klasse- og gruppefagene skal timeplanlegges.
+Kan være aktuelt for en periode, eksempel grunnet oppussing.
 
 :::note Merk
-Rektor kan gi noen/alle lærere tilgang til selv å reservere noen/alle rom til seg selv. Lærerne kan da reservere rom fra _Mine sider>Timeplan>Rom_ uavhengig av egen timeplan. Altså kan en lærer reservere et rom selv om læreren har undervisning på samme tid i et annet rom. Timeplanlegger kan slette en reservasjon gjort av en lærer fra Mine sider, men en lærer kan ikke slette en reservasjon gjort av timeplanlegger herfra.
+Rektor kan gi noen/alle lærere tilgang til selv å reservere noen/alle rom. Lærerne kan da reservere rom fra _Mine sider>Timeplan>Rom_ uavhengig av egen timeplan. Altså kan en lærer reservere et rom selv om læreren har undervisning på samme tid i et annet rom. Timeplanlegger kan slette en reservasjon gjort av en lærer fra Mine sider, men en lærer kan ikke slette en reservasjon gjort av timeplanlegger herfra.
 :::
 
 
