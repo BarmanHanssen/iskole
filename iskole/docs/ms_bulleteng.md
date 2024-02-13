@@ -10,26 +10,22 @@ Dersom man tilsvarende vil informere alle elevene ved skolen, kan meldingen offe
 
 En bulleteng blir publisert på datoen som redaktøren av bulletengen setter. 
 
-:::info Merk
-Når en ansatt logger seg på iSkole, vil bulletengen poppe opp som første skjermbilde dersom dato og klokkeslett satt av redaktøren tilsier dette. Dersom bulletengen er adressert elevene, får også de opp samme skjermbilde. Bulletengen kan etter første visning (som altså er automatisk) fås frem i hele publiseringsperioden ved å benytte menyvalget _Bulleteng_
-:::
-
-#### Å opprette en bulleteng er flyttet til menyvalget _Tilgang>Mer_.
-Det er rektor eller administrator som kan legge til redaktører fra dette skjermbilde:
+## Legge til redaktører
+Rektor eller rektors stedfortreder kan legge til redaktører fra _Tilgang>Bulleteng_
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/293458ca-c94a-4d2a-94a9-14cfed446f84)
 
 
-### Opprett en bulleteng
+## Opprett en bulleteng
 Dersom du er redaktør vises dette skjermbilde:
 
-![bilde](https://user-images.githubusercontent.com/80097133/153376310-15b4256a-bfdb-4e78-89cd-d42d09ddc065.png)
+![bilde](/img/ms_bulleteng.png 'Bulleteng')
 
-Klikk _Legg til_ for å oppprette et nytt innlegg. Oppgi når oppslaget skal publiseres og når det utgår.
+Klikk _Nytt notat_ for å oppprette et nytt oppslag. Oppgi når oppslaget skal publiseres og når det utgår.
 
-Merk at du kan kopiere inn ikke bare tekst, men legge inn figurer/bilder fra utklippsverktøy.
+Merk at du kan kopiere inn andre ting enn ren tekst, som figurer/bilder fra utklippsverktøy.
 
 Dersom du ikke huker av for _Bare for ansatte_, vil bulletengen være synlig for alle brukere av iSkole. 
 
-### Endre og slette
-Aktive oppslag du har opprettet kan nås fra menyvalget _Bulleteng_ i. Redaktørens innaktive oppslag er tilgjengelig under linken _Vis meddelelser utenfor publiseringstiden_. Hvis du ønsker at et utgått oppslag skal vises på nytt, endrer du _Utgår_ til en ny dato. Hvis du ønsker å endre eller slette oppslaget, bruk linkene under det aktuelle oppslaget. 
+## Endre og slette
+Aktive oppslag du har opprettet kan nås fra menyvalget _Bulleteng_. Redaktørens innaktive oppslag er tilgjengelig under linken _Vis meddelelser utenfor publiseringstiden_. Hvis du ønsker at et utgått oppslag skal vises på nytt, endrer du _Utgår_ til en ny dato. Hvis du ønsker å endre eller slette oppslaget, bruk linkene under det aktuelle oppslaget. 

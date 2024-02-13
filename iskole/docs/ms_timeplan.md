@@ -4,7 +4,7 @@ title: Timeplan
 sidebar_label: Timeplan
 ---
 
-_Min timeplan_ er standardvalget når man klikker på _Timeplan_. Når du logger på iSkole, vil du automatisk komme til gjeldende uke. Men du kan fritt velge en annen uke fra nedtrekkslisten.
+_Timeplan_ består av undermenyene _Min timeplan, Lærertimeplan, Elevtimeplan, Klassetimeplan og Romtimeplan_. Når du velger en av undermenyene vil du automatisk komme til gjeldende uke. Du kan fritt velge en annen uke fra nedtrekkslisten eller med pil-knappene før og etter listen.
 
 :::info Merk
 Med pilen som peker nedover kan du lagre timeplanen i PDF-format. Pilen som peker oppover eksporterer timeplanen slik at den kan importeres i en kalender.
