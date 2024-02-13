@@ -92,3 +92,11 @@ Dersom lærer har reservert ekstra rom (fra Mine sider>Timeplan>Rom), altså et 
 :::
 ![bilde](https://user-images.githubusercontent.com/80097133/158583194-20026174-10ac-4ef9-8b3e-e661e8f81447.png)
 
+
+
+## --------------------------------------------------------------------------
+# _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
+
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/15b4ce70-18a3-4894-a216-f34325c00f80)
+
+
