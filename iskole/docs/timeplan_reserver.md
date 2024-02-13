@@ -115,7 +115,11 @@ timeplanlegges.
 
 Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og alle deltakerene får samme melding på sin timeplan. Tilsvarende for 2: er at både lærers - og elevs timeplan blir korrekt.
 
-
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/15b4ce70-18a3-4894-a216-f34325c00f80)
+
+Lærer velges fra listen, og lærerens timeplan hentes frem og er timene markeres på grønn bakgrunn. Klikk på timen som skal reserveres, og du får frem skjemaet _Legg til reservasjon for xx_. Det er bare mulig å reservere lærer fremover i tid. Startbildet gir derfor inneværende uke som utgangspunkt. Her kan du markere for flere uker frem i tid, og eventeult bytte _Reservert_ med annen tekst. Deresom reservasjonen skal gjelde for resten av skoleåret hukes det av for _Merk ledige uker frem i tid_.
+
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/137accc1-c869-4b71-bad7-1698bf2525f5)
+
 
 
