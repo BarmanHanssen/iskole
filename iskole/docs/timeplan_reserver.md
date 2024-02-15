@@ -128,12 +128,17 @@ Fra skjemaet _Legg til reservasjon til ..._ fjernes avhukingen for aktuelle uker
 Timeplanlegger kan her reservere et rom, og dermed blokkere rommet når klasse- og gruppefagene skal timeplanlegges.
 Kan være aktuelt for en periode, eksempel grunnet oppussing.
 
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e7587bc6-a3c7-4c8d-b35b-1b62b2b43339)
+
 :::note Merk
 Rektor kan gi noen/alle lærere tilgang til selv å reservere noen/alle rom. Lærerne kan da reservere rom fra _Mine sider>Timeplan>Rom_ uavhengig av egen timeplan. Altså kan en lærer reservere et rom selv om læreren har undervisning på samme tid i et annet rom. Timeplanlegger kan slette en reservasjon gjort av en lærer fra Mine sider, men en lærer kan ikke slette en reservasjon gjort av timeplanlegger herfra.
 :::
 
 ## Reserver rom og lærer
-Det er mulig å knytte eller flere lærere til romreserveringen. Læreren kan ikke ha undervisningsoppdrag som kolliderer med reservasjonen. Dersom lærer(e) skal knyttes til romreservasjonen: Trykk  på ikonet _Legg til_ under overskriften _Reserver lærere til rommet_. Du får da opp en liste med lærere, og trykker på +-ikonet for å legge til en læreren. Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen planlagt møtevirksomhet med navngitte deltakere i noen/alle uker.
+Det er mulig å knytte eller flere lærere til romreserveringen. Læreren kan ikke ha undervisningsoppdrag som kolliderer med reservasjonen. Dersom lærer(e) skal knyttes til romreservasjonen: Huk av for aktuelle lærere fra nedtrekkslisten _Legg til lærere_. Du får da opp en liste med lærere, klikk deretter  på _Legg til_.
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/630e3dda-4133-484b-82b0-1d046f3325f7)
+
+Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen planlagt møtevirksomhet med navngitte deltakere i en eller flere uker.
 
 På _Mine sider_ vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere. 
 
