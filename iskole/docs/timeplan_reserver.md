@@ -143,7 +143,7 @@ Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmø
 På _Mine sider_ vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere. 
 
 :::note Merk 
-En lærer kan ha behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom (fra _Mine sider>Timeplan>Rom_). Reservasjon derfra tillater at læreren kan ha undervisning i et rom og samtidig legge beslag på et annet rom. Begge rom vises på lærerens timeplan.
+En lærer kan ha behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom (fra _Mine sider>Timeplan>Rom_). Reservasjon derfra tillater at læreren kan ha undervisning i et rom og samtidig legge reservere et annet rom. Begge rom vises på lærerens timeplan.
 :::
 
 
