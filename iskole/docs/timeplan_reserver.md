@@ -132,6 +132,14 @@ Kan være aktuelt for en periode, eksempel grunnet oppussing.
 Rektor kan gi noen/alle lærere tilgang til selv å reservere noen/alle rom. Lærerne kan da reservere rom fra _Mine sider>Timeplan>Rom_ uavhengig av egen timeplan. Altså kan en lærer reservere et rom selv om læreren har undervisning på samme tid i et annet rom. Timeplanlegger kan slette en reservasjon gjort av en lærer fra Mine sider, men en lærer kan ikke slette en reservasjon gjort av timeplanlegger herfra.
 :::
 
+## Reserver rom og lærer
+Det er mulig å knytte eller flere lærere til romreserveringen. Læreren kan ikke ha undervisningsoppdrag som kolliderer med reservasjonen. Dersom lærer(e) skal knyttes til romreservasjonen: Trykk  på ikonet _Legg til_ under overskriften _Reserver lærere til rommet_. Du får da opp en liste med lærere, og trykker på +-ikonet for å legge til en læreren. Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen planlagt møtevirksomhet med navngitte deltakere i noen/alle uker.
+
+På _Mine sider_ vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere. 
+
+:::note Merk 
+En lærer kan ha behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom (fra _Mine sider>Timeplan>Rom_). Reservasjon derfra tillater at læreren kan ha undervisning i et rom og samtidig legge beslag på et annet rom. Begge rom vises på lærerens timeplan.
+:::
 
 
 
