@@ -121,7 +121,8 @@ Lærer velges fra listen, og lærerens timeplan hentes frem og timene markeres p
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/137accc1-c869-4b71-bad7-1698bf2525f5)
 
-Dersom en reservasjon skal slettes: Fjerne avhukingen for en eller flere uker og klikk på _Lagre_.
+### Slett reservasjon
+Fra skjemaet _Legg til/endre reservasjon til ..._: Fjern avhukingen for aktuelle uker, og klikk på _Lagre_.
 
 ## Reservere rom 
 Timeplanlegger kan her reservere et rom, og dermed blokkere rommet når klasse- og gruppefagene skal timeplanlegges.
