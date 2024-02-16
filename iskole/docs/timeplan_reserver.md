@@ -142,6 +142,11 @@ Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmø
 
 På _Mine sider_ vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere. 
 
+### Kopiering av gjeldende reservasjon Uke: X
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/864a5e20-85e8-4ccb-ad23-7d1a6786bdb2)
+Her vises alle uker for resten av skoleåret, og eventuell andre reserveringer som er gjort for denne timen. Dersom gjeldene reservasjon skal kopieres huker man av for de nye ukene.
+Tilsvarende er det mulig å slette allerede lagrede reservasjoner for flere uker under ett.
+
 :::note Merk 
 En lærer kan ha behov for et ekstra rom i en time hvor han har undervisning. Løses ved at læreren gis tilgang til selv å reservere et rom (fra _Mine sider>Timeplan>Rom_). Reservasjon derfra tillater at læreren kan ha undervisning i et rom og samtidig legge reservere et annet rom. Begge rom vises på lærerens timeplan.
 :::
