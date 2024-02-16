@@ -98,11 +98,11 @@ Dersom lærer har reservert ekstra rom (fra Mine sider>Timeplan>Rom), altså et 
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
 ## Innledning
-Reserveringen av en _lærer_ for en bestemt time innebærer at læreren ikke kan ha undervisningen i klasse- eller gruppefag i denne timen. Timene en lærer er reservert vises bare på lærerens timeplan.
+Reserveringen av en _lærer_ for en bestemt time innebærer at læreren ikke er tilgjengelig når timeplanen for skolefagene skal legges. Timene en lærer er reservert vises bare på lærerens timeplan.
 
 Reservering av et _rom_ innebærer at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. Disse tidene vises bare på rommets timeplan.
 
-Reservering av _rom og lærer_ innebærer at de involvert lærere ikke kan ha undervisning på samme tid. En slik reservering vises også på lærerens timeplan
+Reservering av _rom og lærer_ innebærer at både rom og involvert lærere er optatt. En slik reservering vises både på rommets og lærers timeplan.
 
 ## Reservere lærer
 Benyttes hovedsaklig før skolens timeplan skal legges. En reservasjon blokkerer for annen timeplanlagt aktivitet for læreren.
