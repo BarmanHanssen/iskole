@@ -135,7 +135,7 @@ Rektor kan gi noen/alle lærere tilgang til selv å reservere noen/alle rom. Læ
 :::
 
 ## Reserver rom og lærer
-Det er mulig å knytte eller flere lærere til romreserveringen. Læreren kan ikke ha undervisningsoppdrag som kolliderer med reservasjonen. Dersom lærer(e) skal knyttes til romreservasjonen: Huk av for aktuelle lærere fra nedtrekkslisten _Legg til lærere_, klikk deretter  på _Legg til_.
+Det er mulig å knytte en eller flere lærere til romreserveringen. Læreren kan ikke ha undervisningsoppdrag som kolliderer med reservasjonen. Dersom lærer(e) skal knyttes til romreservasjonen: Huk av for aktuelle lærere fra nedtrekkslisten _Legg til lærere_, klikk deretter  på _Legg til_.
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/630e3dda-4133-484b-82b0-1d046f3325f7)
 
 Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen planlagt møtevirksomhet med navngitte deltakere i en eller flere uker.
