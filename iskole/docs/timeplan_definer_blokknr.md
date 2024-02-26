@@ -156,11 +156,11 @@ Med blokkskjema kan vi fastslå hvor gruppefagene kan timeplanlegges. Typisk kan
 ## Gruppering til valg
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e845edce-c4e5-4a27-8de8-9ba7f822401a)
 
-####Blokknr
-Gruppefag som skal gå parallelt markeres med likt blokkid. Neste steg er å gi hver blokkid et eller flere blokknr. Da fastlegges hvor timene er tenkt plassert på timeplanen. Blokknr trengs ikke å være som her fortløpende. Eneste krav er at et blokknr bare kan være registrert en gang. Her kan altså blokknr 1 til 10 allerede båndlagt og kan ikke gjenbrukes.
+#### Blokknr
+Gruppefag som skal gå parallelt markeres med likt blokkid. Hvor timene er tenkt plassert på timeplanen angis med blokknr. Blokknr trengs ikke som her å være fortløpende. Eneste krav er at et blokknr bare kan være registrert en gang. Her er altså blokknr 1 til 10 allerede båndlagt og kan ikke gjenbrukes.
 
 #### Trinn
-Dersom elevene gis tilgang til selv å kunne velge gruppefag, angis har at valget mellom fag som er gitt _Blokkid_ 1 bare er for elever på _Trinn_ 2 og 3.  Merk at timeplanlegger i prinsippet ikke er bundet av oppsettet av blokknr og trinn. 
+Dersom elevene gis tilgang til selv å kunne velge gruppefag, angis her at fag som er gitt _Blokkid_ 1 bare er for elever på _Trinn_ 2 og 3.  Merk at timeplanlegger ikke er bundet av oppsettet av blokknr og trinn. 
 
 
 
