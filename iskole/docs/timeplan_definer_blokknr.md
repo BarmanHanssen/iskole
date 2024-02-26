@@ -170,5 +170,7 @@ Dersom elevene gis tilgang til selv å velge gruppefag, vil kombinasjonen blokki
 Velges _Blokkfag_ og _+ Legg blokkid til fag_ fås dette skjermbilde:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/98616fe9-c9d5-4dcd-826a-72565749569f)
 
+Her får vi frem alle fag som alt har fått tildelt blokkid, og kan nå føye til gruppefag som ikke alt er utvalgt. Vi huker av for fag, og kan velge hvilke blokkid som skal benyttes.
+
 
 
