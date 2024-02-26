@@ -161,11 +161,10 @@ Gruppefag som skal gå parallelt markeres med likt blokkid. Hvor timene er tenkt
 
 Dersom en ønsker å timeplanlegge fag med blokkid 3 fås følgende skjermbilde:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/6ede1793-1488-4224-96a5-16578f297ccd)
-
-
+Valget er begrenset av timer med blokknr som alt er lagt inn, og som ikke allerede er i bruk av annen blokkid. Dersom vi her hadde valgt blokkid 1 eller 2 ville vi kunnet endre på oppsettet som alt er registrert.
 
 #### Trinn
-Dersom elevene gis tilgang til selv å kunne velge gruppefag, angis her at fag som er gitt _Blokkid_ 1 bare er for elever på _Trinn_ 2 og 3.  Merk at timeplanlegger ikke er bundet av oppsettet av blokknr og trinn. 
+Dersom elevene gis tilgang til selv å kunne velge gruppefag, angis her at fag som er gitt _Blokkid_ 1 bare er for elever på _Trinn_ 2 og 3.  Merk at trinn kan settes inn uten å legge inn blokknr, og at timeplanlegger ikke er bundet av oppsettet av blokknr og trinn. 
 
 ## Gruppering av timer til valg
 Gruppefag som allerede er blitt tildelt blokkid vises her.
