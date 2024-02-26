@@ -166,7 +166,7 @@ Dersom elevene gis tilgang til selv å kunne velge gruppefag, angis her at fag s
 Gruppefag som allerede er blitt tildelt blokkid vises her.
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/c35da727-f00d-4cdf-81bf-34df879ff5e0)
 
-Fagene kan også gis blokkid fra _Grunnlagsdata>Grupper_. 
+Fagene kan også gis blokkid fra _Grunnlagsdata>Grupper_. Dersom man klikker på 
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/0752ad3a-1de6-4ea4-9f6c-5bf83e9579fa)
 
