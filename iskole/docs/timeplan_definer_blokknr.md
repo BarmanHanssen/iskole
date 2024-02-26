@@ -136,10 +136,16 @@ Når klassefag timeplanlegges, vil systemet automatisk kontrollere både mot  _M
 ## --------------------------------------------------------------------------
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
-
-
 Når undervisning i et fag har elever fra ulike klasser, klassifiseres faget som gruppefag. Merk at dersom klassens elever i et klassensfag deles i flere grupper, bør også dette faget klassifiseres som gruppefag.
 
-Dersom skolen ikke har gruppefag, kan man sette antall blokknr til 0. Uten gruppefag skal all undervisning i fag foregå i klassen med alle elevene samlet, og fagene er klassifisert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
+Dersom skolen ikke har gruppefag vil all undervisning i fag foregå i klasser. En elev kan bare tilhøre en klasse. All undervisning foregår i klassen gjennom klassens klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
 
-Gruppefag med samme blokknummer skal undervises på samme tid. Eksempelvis vil to gruppefag med fem timer undervisning per uke og undervises parallelt. At gruppene har like blokknumre forteller altså at fagene skal undervises parallelt. Bruk av blokknummer viser hvilke gruppefag som undervises på samme tid, allerede før timeplanleggingen er gjennomført. Med utgangspunkt i fagenes blokknummer vil timeplanleggingen av gruppefagene kunne gå raskere.
+Timeplanen for gruppefag kan ikke kollidere med timeplanen for klassefagene for elever som har både gruppe- og klassefag. Og siden et gruppefag kan ha elever fra flere klasser, kanskje fra mer enn et årstrinn, så gir det store utfordringer for å kunne legge skolens timeplanen innen eksempelvis en 30 timers uke.
+
+For å raskere å kunne timeplanlegge gruppefagene, tar vi utgangspunkt i at flere grupper skal undervises parallelt. Vi klassifiserer grupper som undervises parallelt med en blokkid. Og når eksempelvis fagene har fem uketimer felles tilkjennevis dette med fem blokknr.
+
+Gruppefag med like blokknumre skal undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit.
+
+
+
+
