@@ -138,7 +138,8 @@ Når klassefag timeplanlegges, vil systemet automatisk kontrollere både mot  _M
 
 
 
+Når undervisning i et fag har elever fra ulike klasser, klassifiseres faget som gruppefag. Merk at dersom klassens elever i et klassensfag deles i flere grupper, bør også dette faget klassifiseres som gruppefag.
 
-## --------------------------------------------------------------------------
-# _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
+Dersom skolen ikke har gruppefag, kan man sette antall blokknr til 0. Uten gruppefag skal all undervisning i fag foregå i klassen med alle elevene samlet, og fagene er klassifisert som klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
 
+Gruppefag med samme blokknummer skal undervises på samme tid. Eksempelvis vil to gruppefag med fem timer undervisning per uke og undervises parallelt. At gruppene har like blokknumre forteller altså at fagene skal undervises parallelt. Bruk av blokknummer viser hvilke gruppefag som undervises på samme tid, allerede før timeplanleggingen er gjennomført. Med utgangspunkt i fagenes blokknummer vil timeplanleggingen av gruppefagene kunne gå raskere.
