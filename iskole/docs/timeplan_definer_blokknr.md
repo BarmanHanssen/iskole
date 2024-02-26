@@ -162,5 +162,7 @@ Gruppefag som skal gå parallelt markeres med likt blokkid. Hvor timene er tenkt
 #### Trinn
 Dersom elevene gis tilgang til selv å kunne velge gruppefag, angis her at fag som er gitt _Blokkid_ 1 bare er for elever på _Trinn_ 2 og 3.  Merk at timeplanlegger ikke er bundet av oppsettet av blokknr og trinn. 
 
+## Gruppering av timer til valg
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/f00d2e7b-f362-4486-8ddf-3452bba947a0)
 
 
