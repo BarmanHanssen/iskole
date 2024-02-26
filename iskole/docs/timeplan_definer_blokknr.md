@@ -163,17 +163,3 @@ Dersom en ønsker å timeplanlegge fag med blokkid 3 fås følgende skjermbilde:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/6ede1793-1488-4224-96a5-16578f297ccd)
 Valget er begrenset av timer med blokknr som alt er lagt inn, og som ikke allerede er i bruk av annen blokkid. Dersom vi her hadde valgt blokkid 1 eller 2 ville vi kunnet endre på oppsettet som alt er registrert.
 
-#### Trinn
-Dersom elevene gis tilgang til selv å kunne velge gruppefag, angis her at fag som er gitt _Blokkid_ 1 bare er for elever på _Trinn_ 2 og 3.  Merk at trinn kan settes inn uten å legge inn blokknr, og at timeplanlegger ikke er bundet av oppsettet av blokknr og trinn. 
-
-## Gruppering av timer til valg
-Gruppefag som allerede er blitt tildelt blokkid vises her.
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b8c5fe45-8a97-4e21-a57b-d07428d74614)
-
-Fagene kan også gis blokkid fra _Grunnlagsdata>Grupper_. Dersom man klikker på 
-
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/0752ad3a-1de6-4ea4-9f6c-5bf83e9579fa)
-
-Alle gruppefag kan altså klassifiseres ved hjelp av blokkid. Fag med like blokkid skal altså undervises parallelt, men uten å angi når. Det medfører at en lærer ikke kan ha to grupppefag med samme blokkid, og tilsvarende for en elev. Det er ved å kople blokknummer til blokkid at vi spesifikt angir når undervisningen skal finne sted.
-
-
