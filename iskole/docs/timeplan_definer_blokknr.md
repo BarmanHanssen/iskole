@@ -164,7 +164,7 @@ Dersom elevene gis tilgang til selv å kunne velge gruppefag, angis her at fag s
 
 ## Gruppering av timer til valg
 Gruppefag som allerede er blitt tildelt blokkid vises her.
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/c35da727-f00d-4cdf-81bf-34df879ff5e0)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b8c5fe45-8a97-4e21-a57b-d07428d74614)
 
 Fagene kan også gis blokkid fra _Grunnlagsdata>Grupper_. Dersom man klikker på 
 
