@@ -170,4 +170,6 @@ Fagene kan også gis blokkid fra _Grunnlagsdata>Grupper_.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/0752ad3a-1de6-4ea4-9f6c-5bf83e9579fa)
 
+Alle gruppefag kan altså klassifiseres ved hjelp av blokkid. Fag med like blokkid skal altså undervises parallelt, men uten å angi når. Det medfører at en lærer ikke kan ha to grupppefag med samme blokkid, og tilsvarende for en elev. Det er ved å kople blokknummer til blokkid at vi spesifikt angir når undervisningen skal finne sted.
+
 
