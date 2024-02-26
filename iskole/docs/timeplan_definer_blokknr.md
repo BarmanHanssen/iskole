@@ -133,6 +133,9 @@ Dersom elevene har valgt gruppefag, og gruppefagene har fått tildelt blokknumme
 
 Når klassefag timeplanlegges, vil systemet automatisk kontrollere både mot  _Minste utvalg av blokknummer_, og mot _Tildelte blokknr_. Klassefag kan altså ikke timeplanlegges i disse timene.
 
+## --------------------------------------------------------------------------
+# _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
+
 
 
 
