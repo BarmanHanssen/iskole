@@ -132,3 +132,10 @@ For at blokkeringen skal vises når timeplanlegging av klassefag av klassefag fi
 Dersom elevene har valgt gruppefag, og gruppefagene har fått tildelt blokknumme: Under _Minste utvalg av blokknummer_  listes da opp blokknumrene som inngår i elevenes valg av gruppefag.
 
 Når klassefag timeplanlegges, vil systemet automatisk kontrollere både mot  _Minste utvalg av blokknummer_, og mot _Tildelte blokknr_. Klassefag kan altså ikke timeplanlegges i disse timene.
+
+
+
+
+## --------------------------------------------------------------------------
+# _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
+
