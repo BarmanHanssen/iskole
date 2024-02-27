@@ -146,12 +146,12 @@ For å raskere å kunne timeplanlegge gruppefagene, tar vi utgangspunkt i at fle
 
 Gruppefag med like blokknumre skal undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit.
 
-Vi ser nærmere på hvordan dette kan planlegges allerede før grupper og elever er på plass
+Vi ser nærmere på hvordan vi kan planlegger timeplanen for gruppefagene allerede før gruppene og elevene er klargjorte.
 
 ## Blokkskjema
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a668553f-4000-401c-b3d9-75c7d8320a66)
 
-Typisk kan skolen bestemme at maksimalt 25 uketimer kan benyttes for timeplanlegging av gruppefag. Med blokkskjema avsetter vi plass på timeplanen hvor grupppefagene kan timeplanlegges. Hvor den 16. timen her skal plasseres registreres ved først klikke på _Dag_ nr 16, og deretter på grønnfarget time som da markeres med tallet 16. For å slette en allerede utplassert blokknr klikkes det på timen med gitt blokknr i skjemaet til høyre. Tildeling av blokkid skjer fra _Gruppering av timer til valg_.
+Typisk kan skolen bestemme at maksimalt 25 uketimer kan benyttes for timeplanlegging av gruppefag. Med blokkskjema avsetter vi plass på timeplanen for disse 25 timene hvor grupppefagene kan plasseres. Se på skjermbildet. Hvor den 16. timen her skal plasseres registreres ved først klikke på _Dag_ nr 16, og deretter på grønnfarget time som da markeres med tallet 16. For å slette en allerede utplassert blokknr klikkes det på timen med gitt blokknr i skjemaet til høyre. Tildeling av blokkid skjer fra _Gruppering av timer til valg_.
 
 ## Gruppering til valg
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e845edce-c4e5-4a27-8de8-9ba7f822401a)
