@@ -178,7 +178,7 @@ Her vises alle fag som alt har fått tildelt blokkid, og vi kan føye til gruppe
 ## Blokktider klasse
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3128651d-a41a-42e8-97ac-71beda745e03)
 
-Når elevene er registrert i sine respetive grupper vil en her få oversikt over timene hvor minst en av elevene har et gruppefag på sin timeplan. Av skjermbildet fremgår det at 7 timer dekker klassens behov for klassens elevers valg av gruppefag. Men dersom gruppefagene hadde beslagleggt 25 timer, og dersom klassens klassefag krevde 15 timer, vil timeplanen måtte gå over 40 timer. Det er selvsagt mulig, men da villr de bli mange fritimer underveis over en lang skoledag for den enkelte elev...
+Når elevene er registrert i sine respetive grupper vil en her få oversikt over timene hvor minst en av elevene har et gruppefag på sin timeplan. Av skjermbildet fremgår det at 7 timer dekker klassens behov for klassens elevers valg av gruppefag. Men dersom gruppefagene hadde beslaglagt 25 timer, og dersom klassens klassefag krevde 15 timer, vil timeplanen legges over 40 timer. Det er selvsagt mulig, men da ville de bli mange fritimer underveis over en lang skoledag for den enkelte elev...
 Det vil også være mulig å blokkere for timeplanlegging av klassefag for time som ikke er blokkert via elevenes valg av grupppefag. Eksempelvis for å sikre felles fritme for alle elevene i klassen.
 
 
