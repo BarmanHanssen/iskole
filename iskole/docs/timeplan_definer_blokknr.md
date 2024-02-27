@@ -156,6 +156,9 @@ Typisk kan skolen bestemme at maksimalt 25 uketimer kan benyttes for timeplanleg
 ## Gruppering av timer til valg
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e845edce-c4e5-4a27-8de8-9ba7f822401a)
 
+#### Blokkid
+Vi har avsatt plass for 10 blokkid. Dersom eksempelvis hvert gruppefag er på 5 timer, trenger vi bare å benytte de fem første.
+
 #### Blokknr
 Gruppefag som skal gå parallelt markeres med likt blokkid. Hvor timene er tenkt plassert på timeplanen angis med blokknr. Blokknr trengs ikke som her å være fortløpende. Eneste krav er at et blokknr bare kan være registrert til et blokkid. Her er altså blokknr 1 til 10 allerede båndlagt og kan ikke gjenbrukes.
 
