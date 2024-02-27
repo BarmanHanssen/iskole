@@ -175,5 +175,9 @@ Velges _Blokkfag_ og _+ Legg blokkid til fag_ fås dette skjermbilde:
 
 Her vises alle fag som alt har fått tildelt blokkid, og vi kan føye til gruppefag som ikke alt er utvalgt. Huk av for fag, og velg hvilke blokkid som skal benyttes, og avslutt med _Lagre_.
 
+## Blokktider klasse
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/f5274efa-148c-43d5-aee9-3dceb47de943)
+Når elevene er registrert i sine respetive grupper vil en her få oversikt timene hvor minst en av elevene har et gruppefag på sin timeplan. Disse timene blokkerer jo for timeplanlegging av klassefag. Dersom gruppefagene beslaglegger 25 timer, og klassen har klassefag som krever 15 timer, vil timeplanen måtte gå over 40 timer. Det er selvsagt mulig, men da blir det mange fritimer underveis over en lang skoledag...
+Det vil også bli mulig å blokkere for timeplanlegging av klassefag for time som ikke er blokkert via elevenes valg av grupppefag. Eksempelvis for å sikre felles friitme for alle elevene i klassen.
 
 
