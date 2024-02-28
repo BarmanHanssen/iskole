@@ -45,3 +45,11 @@ Det kan i ettertid være aktuelt å gjøre endringer for en eller flere uker. Ek
 
 Et valgt blokknr kan når som helst byttes ut med et annet. Nytt blokknr kontrolleres og vil avdekke kollisjoner for involverte elever og faglærer. Kollisjon for lærer godtas ikke, men timeplanlegger kan tillate kollisjon på elevs timeplan.
 Ingenting lagres før det trykkes _Lagre_!
+
+
+
+## --------------------------------------------------------------------------
+# _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
+
+
+
