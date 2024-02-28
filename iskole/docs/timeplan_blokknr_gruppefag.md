@@ -51,5 +51,11 @@ Ingenting lagres før det trykkes _Lagre_!
 ## --------------------------------------------------------------------------
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
+Blokknummeret må være timeplanlagt fra _Blokk>Timeplan blokknr_ før blokknr kan reigstreres på gruppefag. Før gruppefagene er timeplanlagt, kan man imidlertid reservere tider for gruppefagene på klassens timeplan fra _Blokk>Blokknr klasse_. På den måten kan en timeplanlegge klassefagene før gruppefagene, men da kun utenom timene som en har reservert for gruppefagene.
+:::
+
+Skjermbildet viser hvordan fagene er gruppert i forhold til hverandre. Gruppefag med lik timeplan har like blokknumre. 
+
+Hvert blokknummer representerer altså en bestemt time på timeplanen. Vi velger først hvilken uke vi skal legge inn blokknr for, første skoleuke anbefales. Når hele timeplanen er ferdig lagt vil det kunne være komplisert, og derfor sjeldent aktuelt, å endre på oppsettet som gjøres for gruppefagene. Etter å ha ferdigstilt registrering i første skoleuke, kan man så kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, da systemet til enhver tid vil kontrollere at ikke kollisjoner oppstår.
 
 
