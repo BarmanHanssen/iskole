@@ -67,13 +67,13 @@ Gruppefagene timeplanlegges enkeltvis. Dersom fagene er markert med blokkid, og 
 
 Siden faget har tre timer, mens blokkid 3 er tildelt fem timer, velges automatisk de tre første timene. Dette kan endres, endog timetallet for læreren på faget for denne uken. Rom velges fra egen nedtrekksliste.
 
-Før lagring sjekkes at rom og lærer, og elev i faget, ikke allerede er opptatt.
+Før lagring sjekkes automatisk at rom og lærer, og elev i faget, ikke allerede er opptatt.
 
 #### Vi velger er et fag uten blokkid, LA1 AG3 1:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/6f26c329-74f0-485a-947e-b71dd9265b32)
 
-Valgbare tider som vises er satt opp fra menyvalget _Blokk_. Her kan en markere alle tre timer under ett, endre rom å slette allerede palssert time. Se teksten under timeplanen for detaljer!
+Valgbare tider som vises er satt opp fra menyvalget _Blokk_. Her kan en markere alle tre timer under ett, endre rom eller slette allerede plassert time. Se teksten under timeplanen for detaljer!
 
 :::note Merk
 Bare timer fra _Blokk>Timeplan blokknr_ markert med blokknr kan brukes når gruppefagene timeplanlegges. 
