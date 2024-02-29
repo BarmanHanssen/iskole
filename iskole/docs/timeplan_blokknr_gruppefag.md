@@ -60,7 +60,7 @@ Fag som er med rød skrift har ikke fått tildelt lærer. Ønskes kun oversikt o
 
 Gruppefagene timeplanlegges enkeltvis. Dersom fagene er markert med blokkid, og blokkid er tildelt blokknr (se menyvalget _Blokk_), gjennstår å tildele romnummer før man kan lagre. 
 
-Vi velger er et fag med blokkid, AP3:NA3 a:
+#### Vi velger er et fag med blokkid, AP3:NA3 a:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/37d81c5d-4344-4227-97fc-f7555d46b0de)
 
@@ -69,7 +69,8 @@ Siden faget har tre timer, mens blokkid 3 er tildelt fem timer, velges automatis
 
 Før lagring sjekkes at rom og lærer, og elev i faget, ikke allerede er opptatt.
 
-Vi velger er et fag uten blokkid, LA1 AG3 1:
+#### Vi velger er et fag uten blokkid, LA1 AG3 1:
+
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a66d1127-40c2-414c-b070-ba1285b322f3)
 
 Valgbare tider som vises er satt opp fra menyvalget _Blokk_. 
