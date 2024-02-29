@@ -73,7 +73,7 @@ Før lagring sjekkes automatisk at rom og lærer, og elev i faget, ikke allerede
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/6f26c329-74f0-485a-947e-b71dd9265b32)
 
-Valgbare tider for gruppefagene er satt opp fra menyvalget _Blokk_. Her kan fagets tre timer timeplanlegges under ett. Selvsagt kan rom byttes og  allerede plassert time slettes. Se teksten under timeplanen for detaljer!
+Valgbare tider for gruppefagene er satt opp fra menyvalget _Blokk_. Nå kan fagets tre timer timeplanlegges time for time, eller under ett. Selvsagt kan rom byttes og  allerede plassert time slettes. Se teksten under timeplanen for detaljer!
 
 :::note Merk
 Bare timer fra _Blokk>Timeplan blokknr_ markert med blokknr kan brukes når gruppefagene timeplanlegges. 
