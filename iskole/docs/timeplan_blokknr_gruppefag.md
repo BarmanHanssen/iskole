@@ -58,7 +58,9 @@ Første skjermbildet viser alle gruppefag. Timeplanen er markert for fag som alt
 Fag som er med rød skrift har ikke fått tildelt lærer. Ønskes kun oversikt over fag med lærer, klikk på trakt-ikonet:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/67269e72-0df3-40d7-b6a0-c44e1b7557da)
 
-Gruppefagene timeplanlegges enkeltvis. Dersom fagene er markert med blokkid, og blokkid er tildelt blokknr (se menyvalget _Blokk_), gjennstår å tildele romnummer før man kan lagre. Vi velger er et fag med blokkid:
+Gruppefagene timeplanlegges enkeltvis. Dersom fagene er markert med blokkid, og blokkid er tildelt blokknr (se menyvalget _Blokk_), gjennstår å tildele romnummer før man kan lagre. 
+
+Vi velger er et fag med blokkid:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/37d81c5d-4344-4227-97fc-f7555d46b0de)
 
