@@ -51,7 +51,7 @@ Ingenting lagres før det trykkes _Lagre_!
 ## --------------------------------------------------------------------------
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
-Første skjermbildet viser alle gruppefag og timeplanen for fag som alt er timeplanlagt.
+Første skjermbildet viser alle gruppefag. Timeplanen er markert for fag som alt er timeplanlagt.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/635ddbb1-e132-4a1d-b6d4-4c8594510669)
 
