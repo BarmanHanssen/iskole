@@ -76,3 +76,8 @@ Vanligste måte å kopiere timeplan på, er fra menyvalget _Kopiering_. Kopierin
 
 Sammenfattet: På et hvilket som helst tidspunkt under timeplanleggingen kan resultatet kopieres fremover, uke for uker. Dersom det gjøres endringer på en allerede gjeldende timeplan, og endringen skal gjelde for mere enn uken hvor en gjør korrigeringen, har man to valgmuligheter: Enten bare å kopiere klassen hvor endringen skjedde, eller ved å kopiere skolens timeplan for denne uken fra menyvalget _Kopiering_. Merk at dersom det bare er snakk om at et fag skal skifte faglærer, uten endring av timene på timeplanen, så gjøres dette fra _Time- og fagfordeling>Klassefag_. Der kan man endre faglærer for de ukene dette måtte være aktuelt.
  
+
+
+## --------------------------------------------------------------------------
+# _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
+
