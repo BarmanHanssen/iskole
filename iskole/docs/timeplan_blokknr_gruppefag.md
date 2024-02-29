@@ -65,6 +65,7 @@ Vi velger er et fag med blokkid:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/37d81c5d-4344-4227-97fc-f7555d46b0de)
 
 
+Siden faget har tre timer, mens blokkid 3 er tildelt fem timer, velges bare tre timer. Dette kan endres, endog timetallet på faget for denne uken. Rom velges fra egen nedtrekksliste.
 
 Før lagring sjekkes at rom og lærer ikke allerede er opptatt.
 
