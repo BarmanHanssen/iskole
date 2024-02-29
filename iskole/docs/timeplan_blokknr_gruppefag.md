@@ -51,7 +51,7 @@ Ingenting lagres før det trykkes _Lagre_!
 ## --------------------------------------------------------------------------
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
-Første skjermbildet viser alle gruppefag. Timeplanen er markert for fag som alt er timeplanlagt.
+Første skjermbildet viser alle gruppefag. Vi velger første skoleuke. Timeplanen er markert for fag som alt er timeplanlagt.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/635ddbb1-e132-4a1d-b6d4-4c8594510669)
 
@@ -67,7 +67,7 @@ Vi velger er et fag med blokkid, AP3:NA3 a:
 
 Siden faget har tre timer, mens blokkid 3 er tildelt fem timer, velges automatisk de tre første timene. Dette kan endres, endog timetallet for læreren på faget for denne uken. Rom velges fra egen nedtrekksliste.
 
-Før lagring sjekkes at rom og lærer ikke allerede er opptatt.
+Før lagring sjekkes at rom og lærer, og elev i faget, ikke allerede er opptatt.
 
 Vi velger er et fag uten blokkid, LA1 AG3 1:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a66d1127-40c2-414c-b070-ba1285b322f3)
