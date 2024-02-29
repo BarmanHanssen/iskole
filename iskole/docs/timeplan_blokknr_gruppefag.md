@@ -60,16 +60,19 @@ Fag som er med rød skrift har ikke fått tildelt lærer. Ønskes kun oversikt o
 
 Gruppefagene timeplanlegges enkeltvis. Dersom fagene er markert med blokkid, og blokkid er tildelt blokknr (se menyvalget _Blokk_), gjennstår å tildele romnummer før man kan lagre. 
 
-Vi velger er et fag med blokkid:
+Vi velger er et fag med blokkid, AP3:NA3 a:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/37d81c5d-4344-4227-97fc-f7555d46b0de)
 
 
-Siden faget har tre timer, mens blokkid 3 er tildelt fem timer, velges bare tre timer. Dette kan endres, endog timetallet på faget for denne uken. Rom velges fra egen nedtrekksliste.
+Siden faget har tre timer, mens blokkid 3 er tildelt fem timer, velges automatisk de tre første timene. Dette kan endres, endog timetallet for læreren på faget for denne uken. Rom velges fra egen nedtrekksliste.
 
 Før lagring sjekkes at rom og lærer ikke allerede er opptatt.
 
+Vi velger er et fag uten blokkid, LA1 AG3 1:
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a66d1127-40c2-414c-b070-ba1285b322f3)
 
+Valgbare tider som vises er satt opp fra menyvalget _Blokk_. 
 :::note Merk
 Bare timer fra _Blokk>Timeplan blokknr_ markert med blokknr kan brukes når gruppefagene timeplanlegges. 
 :::
