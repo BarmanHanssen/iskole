@@ -51,6 +51,15 @@ Ingenting lagres før det trykkes _Lagre_!
 ## --------------------------------------------------------------------------
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
+Første skjermbildet viser alle gruppefag og timeplanen for fag som alt er timeplanlagt.
+
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/635ddbb1-e132-4a1d-b6d4-4c8594510669)
+
+Fag som er narkert med rød skrift har ikke tildelt lærer. Ønskes oversikt over fag med lærer, klikk på trakt-ikonet:
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3fe13619-6e4a-450c-b716-bd035ba318a0)
+
+
+
 :::note Merk
 Bare timer fra _Blokk>Timeplan blokknr_ markert med blokknr kan brukes når gruppefagene timeplanlegges. 
 :::
