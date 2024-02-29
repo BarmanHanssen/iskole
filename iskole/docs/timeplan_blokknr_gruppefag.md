@@ -56,7 +56,7 @@ Første skjermbildet viser alle gruppefag og timeplanen for fag som alt er timep
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/635ddbb1-e132-4a1d-b6d4-4c8594510669)
 
 Fag som er narkert med rød skrift har ikke tildelt lærer. Ønskes oversikt over fag med lærer, klikk på trakt-ikonet:
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3fe13619-6e4a-450c-b716-bd035ba318a0)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/67269e72-0df3-40d7-b6a0-c44e1b7557da)
 
 
 
