@@ -67,7 +67,7 @@ Gruppefagene timeplanlegges enkeltvis. Dersom fagene er markert med blokkid, og 
 
 Siden faget har tre timer, mens blokkid 3 er tildelt fem timer, velges automatisk de tre første timene. Dette kan endres, endog timetallet for læreren på faget for denne uken. Rom velges fra egen nedtrekksliste.
 
-Før lagring sjekkes automatisk at rom og lærer, og elev i faget, ikke allerede er opptatt.
+Før lagring sjekkes automatisk at rom og lærer, og elev i faget, ikke allerede er opptatt.  Man kan endre/slette allerede plassert time og endre rom. Se teksten under timeplanen for detaljer!
 
 #### Vi velger er et fag uten blokkid, LA1 AG3 1:
 
