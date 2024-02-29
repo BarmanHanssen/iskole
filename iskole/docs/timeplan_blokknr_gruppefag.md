@@ -71,9 +71,9 @@ Før lagring sjekkes at rom og lærer, og elev i faget, ikke allerede er opptatt
 
 #### Vi velger er et fag uten blokkid, LA1 AG3 1:
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a66d1127-40c2-414c-b070-ba1285b322f3)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/6f26c329-74f0-485a-947e-b71dd9265b32)
 
-Valgbare tider som vises er satt opp fra menyvalget _Blokk_. 
+Valgbare tider som vises er satt opp fra menyvalget _Blokk_. Her kan en markere alle tre timer under ett, endre rom å slette allerede palssert time. Se teksten under timeplanen for detaljer!
 
 :::note Merk
 Bare timer fra _Blokk>Timeplan blokknr_ markert med blokknr kan brukes når gruppefagene timeplanlegges. 
