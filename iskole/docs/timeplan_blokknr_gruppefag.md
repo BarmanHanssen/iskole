@@ -83,6 +83,7 @@ Skjermbildet viser hvordan fagene er gruppert i forhold til hverandre. Gruppefag
 
 Vi velger først hvilken uke vi skal legge inn blokknr for, første skoleuke anbefales. Når hele timeplanen er ferdig lagt vil det kunne være komplisert, og derfor sjeldent aktuelt, å endre timeplanen for gruppefag. 
 
+:::note Merk
 Etter å ha ferdigstilt timeplanen for gruppefagene i første skoleuke, kan man kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, da systemet til enhver tid vil avdekke dersom kollisjoner oppstår (gjelder lærer, elev og rom).
-
+:::
 
