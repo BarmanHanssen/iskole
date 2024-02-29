@@ -73,6 +73,7 @@ Vi velger er et fag uten blokkid, LA1 AG3 1:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a66d1127-40c2-414c-b070-ba1285b322f3)
 
 Valgbare tider som vises er satt opp fra menyvalget _Blokk_. 
+
 :::note Merk
 Bare timer fra _Blokk>Timeplan blokknr_ markert med blokknr kan brukes når gruppefagene timeplanlegges. 
 :::
