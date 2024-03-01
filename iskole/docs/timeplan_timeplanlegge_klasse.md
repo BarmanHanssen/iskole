@@ -101,6 +101,13 @@ Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleå
 Man starter med å velge klasse, og uken hvor timeplanen skal plasseres. Skjermen er delt i fire deler, nemlig for  _Fag, Timeplan klasse, Vis timeplan for disse ansatte_ og _Timeplanlærer_. Vi ser nå nærmere på hvert enkelt skjermbilde, og begynner med
 
 #### Fag
+Her listes opp alle fag i klassen (se _Grunnlagsdata>Klasser_) og faglærer (se  _Time- og fagfordeling>Klassefag_). Merk at fagene kan timeplanlegges uten lærer, og at et fag kan ha flere lærere som deler på undervisningen i faget.
 
+_Velg rom_
+Dersom klassen har undervisnigen oftest i eget rom, kan rommet registreres fra _Grunnlagsdata>Klasser_ og er da automatisk førstevalget når klassefagene skal timeplanlegges. Annet rom velges om ønskelig herfra. 
+
+_Fag, Lærer,Timer,Lagt_ og _Gjester_
+Faget HIS er her valgt. Faget har en lærer (IAU) skal ha fire uketimer, og alle timene er timeplanlagt. 
+På neste linje kommer læreren, her med fullt navn. Denne læreren skal bare ha to av de fire timene i faget, og disse to timene er timeplanlagt. De to timenen må være plassert bllant de allerede fire timeplanlagte timene i faget.
 
 
