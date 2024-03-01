@@ -98,7 +98,9 @@ Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleå
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/925b1900-0568-4115-b5da-4932455675c1)
 
-Man starter med å velge klasse, og uken hvor timeplanen skal plasseres.Skjermen er delt i fire, nemlig _Fag, Timeplan klasse, Vis timeplan for disse ansatte_ og _Timeplanlærer_.
+Man starter med å velge klasse, og uken hvor timeplanen skal plasseres. Skjermen er delt i fire deler, nemlig for  _Fag, Timeplan klasse, Vis timeplan for disse ansatte_ og _Timeplanlærer_. Vi ser nå nærmere på hvert enkelt skjermbilde, og begynner med
+
+#### Fag
 
 
 
