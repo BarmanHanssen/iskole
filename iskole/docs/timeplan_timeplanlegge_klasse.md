@@ -105,7 +105,19 @@ Her listes opp alle fag i klassen (se _Grunnlagsdata>Klasser_) og faglærer (se 
 
 _Velg rom_: Dersom klassen har undervisnigen oftest i eget rom, kan rommet registreres fra _Grunnlagsdata>Klasser_ og er da automatisk førstevalget når klassefagene skal timeplanlegges. Annet rom velges om ønskelig herfra. 
 
-_Fag, Lærer,Timer,Lagt_ og _Gjester_: Faget HIS er her valgt. Faget skal ha fire uketimer, og alle timene er timeplanlagt.  Faget har bare en lærer (IAU)
-På neste linje kommer læreren, her med fullt navn. Denne læreren skal bare ha to av de fire timene i faget, og disse to timene er timeplanlagt. De to timenen må være plassert bllant de allerede fire timeplanlagte timene i faget.
+_Fag, Lærer,Timer,Lagt_ og _Gjester_: Faget HIS er her valgt. Faget skal ha fire uketimer, og alle timene er allerede timeplanlagt.  Faget har bare en lærer (IAU).
+På neste linje kommer læreren, her med fullt navn. Denne læreren skal bare ha to av de fire timene i faget, og disse to timene er timeplanlagt. Disse to timenen må være plassert blant de allerede fire timeplanlagte timene i faget. Det er også mulig å endre timetallet både for faget og læreren.
+
+#### Timeplan Klasse-HIS
+Allerede timeplanlagte timer i valgt fag vises på rosa bakgrunn. Vi ser at IAU skal hat to timer på mandag, og at faget står uten lærer på onsdag og torsdag. De to timene i norsk er plassert på mandag. Resten av timene er markert på grønn bakgrunn, og er ledige for timeplanlegger.
+
+#### Vis timeplan for disse ansatte
+Timeplanen for lærere i det valgte faget legges automatisk inn her. Timeplanen for alle fag til læreren som alt er timeplanlagt vises i skjermbildet _Timeplanlærer_ på samme bagrunnsfarge.
+I noen tilfeller ønsker timeplanlegger også å se timeplan til en eller flere andre lærere. Ekstra-lærere velges enkelt fra nedtrekkslisten _Legg til lærer_.
+
+#### Timeplan lærer
+Her vises timeplanen til de utvalgte lærere som står oppført unde _Vis timeplanen for disse ansatte_. Her fremgår tydelig hvor de to (av fire mulige) norsktimene er timeplanlagt.
+
+
 
 
