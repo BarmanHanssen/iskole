@@ -26,3 +26,9 @@ Nå vises timeplanen for tolæreren, og for tolærerfaget som er valgt.
 Dersom tolærerfaget har tegnet + bak kortnavnet (her BY1C TOB+) viser det at faget har mer enn en tolærer. Dette ses også fra tabellen til venstre, da faget BY1C TOB kommer på to linjer. For tolærerfaget er også romnummeret tatt med. Dersom tolæreren skal ha eget rom, altså ikke være på samme sted som faglærer, kommer faget dobbelt. På onsdag 12:15 er altså både Fsal og U15 båndlagt for faget TOB.
 ::::
 
+
+
+
+## --------------------------------------------------------------------------
+# _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
+
