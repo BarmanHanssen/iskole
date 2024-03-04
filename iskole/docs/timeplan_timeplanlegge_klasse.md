@@ -105,8 +105,8 @@ Her listes opp alle fag i klassen (se _Grunnlagsdata>Klasser_) og faglærer (se 
 
 _Velg rom_: Dersom klassen har undervisnigen oftest i eget rom, kan rommet registreres fra _Grunnlagsdata>Klasser_ og er da automatisk førstevalget når klassefagene skal timeplanlegges. Annet rom velges om ønskelig herfra. 
 
-_Fag, Lærer,Timer,Lagt_ og _Gjester_: Faget HIS er her valgt. Faget skal ha fire uketimer, og alle timene er allerede timeplanlagt.  Faget har bare en lærer (IAU).
-På neste linje kommer læreren, her med fullt navn. Denne læreren skal bare ha to av de fire timene i faget, og disse to timene er timeplanlagt. Disse to timenen må være plassert blant de allerede fire timeplanlagte timene i faget. Det er også mulig å endre timetallet både for faget og læreren.
+_Fag, Lærer,Timer,Lagt_ og _Gjester_: Timeplanen for faget kan legges uten lærer, eller med en eller flere lærere. Faget HIS er her valgt. Faget skal ha fire uketimer, og alle timene er allerede timeplanlagt.  Faget har bare en lærer (IAU). På neste linje kommer læreren, her med fullt navn. Denne læreren skal bare ha to av de fire timene i faget, og disse to timene er timeplanlagt. Disse to timenen må være plassert blant de allerede fire timeplanlagte timene i faget. Det er også mulig å endre timetallet både for faget og læreren.
+Dersom faget har _Gjester_, dvs at elevene fra klassen _Gjester_ også deltar i timene, anbefales å legge disse fag først siden timene også kommer på gjesteklassen timeplan. 
 
 #### Timeplan Klasse-HIS
 Allerede timeplanlagte timer i valgt fag vises på rosa bakgrunn. Vi ser at IAU skal hat to timer på mandag, og at faget står uten lærer på onsdag og torsdag. De to timene i norsk er plassert på mandag. Resten av timene er markert på grønn bakgrunn, og er ledige for timeplanlegger.
