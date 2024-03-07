@@ -32,3 +32,8 @@ Dersom tolærerfaget har tegnet + bak kortnavnet (her BY1C TOB+) viser det at fa
 ## --------------------------------------------------------------------------
 # _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
 
+Her velges først læreren som vi skal finne vikar til. Påse at riktig på lærerens timeplan. Velg deretter vikarene fra nedtrekkslisten. Her kan du skrive etternavnet i stedet for å bla nedover.
+Dersom  vikarlæreren kan ta flere timer trykker man først på shift-tasten, markerer alle aktuelle timer før man lagrer.
+
+
+
