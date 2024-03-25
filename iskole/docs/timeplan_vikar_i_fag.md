@@ -1,7 +1,7 @@
 ---
 id: timeplan_vikar_i_fag
-title: Vikar i fag
-sidebar_label: Vikar i fag
+title: Vikarer
+sidebar_label: Vikarer
 ---
 Vikar i fag benyttes ved kortvarig endring på timeplanen fordi en lærer ikke kan utføre planlagt undervisning i sine fag. 
 
