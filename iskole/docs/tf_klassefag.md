@@ -44,5 +44,3 @@ Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan leg
 Standardverdien er Ja. Dersom flere lærere dekker faget, kan Nei også være aktuell verdi.
 #### Elever 
 Viser hvor mange elever som er registrert i faget på visningsdatoen. Vanligvis er alle elevene i klassen registrert i alle klassens fag.
-
--------------------------------------------------------------------------
