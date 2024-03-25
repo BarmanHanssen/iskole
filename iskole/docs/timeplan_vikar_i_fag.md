@@ -12,5 +12,4 @@ Man kan registrere inn vikar for en eller flere timer i et fag, for en dag, elle
 Når vikaren er lagt inn, vil timene til vikaren være markert på timeplanen til læreren, vikaren og til alle elevene som har fag. Det vil også fremgå hvilken faglærer som har vikaren.
 
 ## Registrering av vikar
-Her velges først læreren som vi skal finne vikar til. Påse at riktig på lærerens timeplan. Velg deretter vikarene fra nedtrekkslisten. Her kan du skrive etternavnet i stedet for å bla nedover.
-Dersom  vikarlæreren kan ta flere timer trykker man først på shift-tasten, markerer alle aktuelle timer før man lagrer.
+Her velges først læreren som vi skal finne vikar til, det kan skrives i feltet over nedtrekklisten for å søke etter læreren som skal ha vikar. Dersom  vikarlæreren kan ta flere timer holder man shift-tasten nede og klikker på alle aktuelle timer. Med shit-tasten fortsatt nede dobbeltklikk på den siste timen. Et dialogvindu viser de valgte timene og de lærere som er ledige valgt(e) time(r). Klikk i tabellen på læreren som skal være vikar, ta stilling til om vikaren skal varsles og hvorvidt vikartimen medfører betaling. Klikk tilslutt _Lagre_.
