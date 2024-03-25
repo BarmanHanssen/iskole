@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiskole=self.webpackChunkiskole||[]).push([[6072],{8914:function(e){e.exports=JSON.parse('{"label":"timeplan","permalink":"/blog/tags/timeplan","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -4,10 +4,20 @@
         <title>iSkole - skoleadministrativt system Blog</title>
         <link>https://dokumentasjon.iskole.net/blog</link>
         <description>iSkole - skoleadministrativt system Blog</description>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Omlegging av timeplanverktøyet]]></title>
+            <link>https://dokumentasjon.iskole.net/blog/timeplan</link>
+            <guid>https://dokumentasjon.iskole.net/blog/timeplan</guid>
+            <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Modulene for time- og fagfordeling og timeplan kommer i løpet av kort tid ut med samme type utseende som Mine sider og Grunnlagsdata. Skjermbildene blir mer responsive og tilpasset forskjellige skjermstørrelser. Vi har]]></description>
+            <content:encoded><![CDATA[<p>Modulene for time- og fagfordeling og timeplan kommer i løpet av kort tid ut med samme type utseende som <em>Mine sider</em> og <em>Grunnlagsdata</em>. Skjermbildene blir mer responsive og tilpasset forskjellige skjermstørrelser. Vi har
+her sammenfattet noen av de viktigste endringene i forbindelse med denne fornyelsen.</p><p>Større fleksibilitet ved tilordning av lærere til fag. Begrepet tolærer fjernes, lærere kan legges til faget på lik linje. Dere står fritt til å velge hvor mange timer den enkelte lærer skal undervise i faget og om lærerne underviser sammen eller alene. Behovet for komponenter faller bort i de tilfeller hvor to lærere skal dele et fag.</p>]]></content:encoded>
+            <category>timeplan</category>
+        </item>
         <item>
             <title><![CDATA[Dokumentasjon på nett]]></title>
             <link>https://dokumentasjon.iskole.net/blog/hola</link>

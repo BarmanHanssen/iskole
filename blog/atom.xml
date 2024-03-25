@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dokumentasjon.iskole.net/blog</id>
     <title>iSkole - skoleadministrativt system Blog</title>
-    <updated>2019-05-28T00:00:00.000Z</updated>
+    <updated>2024-03-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dokumentasjon.iskole.net/blog"/>
     <subtitle>iSkole - skoleadministrativt system Blog</subtitle>
     <icon>https://dokumentasjon.iskole.net/img/iskole.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Omlegging av timeplanverktøyet]]></title>
+        <id>https://dokumentasjon.iskole.net/blog/timeplan</id>
+        <link href="https://dokumentasjon.iskole.net/blog/timeplan"/>
+        <updated>2024-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modulene for time- og fagfordeling og timeplan kommer i løpet av kort tid ut med samme type utseende som Mine sider og Grunnlagsdata. Skjermbildene blir mer responsive og tilpasset forskjellige skjermstørrelser. Vi har]]></summary>
+        <content type="html"><![CDATA[<p>Modulene for time- og fagfordeling og timeplan kommer i løpet av kort tid ut med samme type utseende som <em>Mine sider</em> og <em>Grunnlagsdata</em>. Skjermbildene blir mer responsive og tilpasset forskjellige skjermstørrelser. Vi har
+her sammenfattet noen av de viktigste endringene i forbindelse med denne fornyelsen.</p><p>Større fleksibilitet ved tilordning av lærere til fag. Begrepet tolærer fjernes, lærere kan legges til faget på lik linje. Dere står fritt til å velge hvor mange timer den enkelte lærer skal undervise i faget og om lærerne underviser sammen eller alene. Behovet for komponenter faller bort i de tilfeller hvor to lærere skal dele et fag.</p>]]></content>
+        <author>
+            <name>Thomas Hannestad</name>
+            <uri>https://github.com/thomashannestad</uri>
+        </author>
+        <category label="timeplan" term="timeplan"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dokumentasjon på nett]]></title>
         <id>https://dokumentasjon.iskole.net/blog/hola</id>
