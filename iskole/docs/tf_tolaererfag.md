@@ -4,6 +4,10 @@ title: Tolærerfag
 sidebar_label: Tolærerfag
 ---
 
+:::warning Gammel versjon 
+Denne siden dokumenterer forrige versjon av iSkole. Tolærere er fjernet fra den nye versjonen, alle lærere legges på klasse- eller gruppefag og timeplanlegges med det antall timer de skal undervise.
+:::
+
 Dersom undervisningen skal styrkes med ekstra lærer(e) i et fag, bruker vi begrepet tolærer(e) om den/de som kommer i tillegg. Tolærer kan legges til her, eller alternativt fra menyvalgene _Klassefag_ og _Gruppefag_. Ved å benytte _Ekspander alle fag med tolærer_ kan en få frem alle fag på hele skolen som alt er tildelt tolærer.
 
 ![bilde](https://user-images.githubusercontent.com/80097133/146538359-70fdd5a6-e6a0-4bb8-aa3b-bf95fee4c7b7.png)

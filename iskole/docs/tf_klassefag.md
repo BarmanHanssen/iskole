@@ -17,7 +17,7 @@ Time- og fagfordelingen planlegges gjerne på vårparten for skoleåret som star
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/50506353-1838-4b4a-ac01-ce4abbc59eb3)
 
-Tabellen er todelt. Fagene,som vises på hvit bakgrunn, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra. Endring av verdiene for fagnavn, fagkode, omfang, ressurs, uketimer og årstimer gjøres fra _Grunnlagsdata_>Fag_.
+Tabellen er todelt. Fagene,som vises på hvit bakgrunn, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra. Endring av verdiene for fagnavn, fagkode, omfang, ressurs, uketimer og årstimer gjøres fra _Grunnlagsdata>Fag_.
 
 På lyseblå bakgrunn vise lærene som skal undervise i fagene.
 
