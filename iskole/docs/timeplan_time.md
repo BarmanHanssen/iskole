@@ -57,13 +57,8 @@ Det er også mulig å endre start- og sluttid for en enkel time fra _Timeplan>Kl
 Det er fullt mulig å legge inn alle aktuelle start- og sluttider på timene. Se punkt 3: ovenfor. Alle variantene vil vises når timeplanlegger velger en klasse. 
 Dersom dette er oppsettet:
 
-![bilde](https://user-images.githubusercontent.com/80097133/158549676-73bc825b-4a0c-4a7e-920d-3c3c32ead2ea.png)
+![bilde](/img/tp_timer_kalender.png)
 
-vil timeplanlegger få dette skjermbilde fra _Klasser_:
-
-![bilde](https://user-images.githubusercontent.com/80097133/158548921-624dd3bd-8cf5-4110-8a30-7e6479dc5fb2.png)
-
-Her må timeplanlegger være ekstra påpasselig slik at riktig start-tid for timen velges!
 
 
 
