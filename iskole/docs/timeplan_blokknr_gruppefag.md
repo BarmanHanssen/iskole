@@ -5,7 +5,8 @@ sidebar_label: Grupper
 ---
 
 :::info Ny versjon av iSkole
-Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/timeplan_blokknr_gruppefag_old
+Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/timeplan_blokknr_gruppefag_old).
+:::
 
 Første skjermbildet viser alle gruppefag. Vi velger første skoleuke. Timeplanen er markert for fag som alt er timeplanlagt.
 
