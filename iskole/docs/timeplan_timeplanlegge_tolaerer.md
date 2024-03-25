@@ -4,6 +4,10 @@ title: Tolærere
 sidebar_label: Tolærere
 ---
 
+:::warning Gammel versjon 
+Denne siden dokumenterer forrige versjon av iSkole. Tolærere er fjernet fra den nye versjonen, alle lærere legges på klasse- eller gruppefag og timeplanlegges med det antall timer de skal undervise.
+:::
+
 # Timeplanlegge tolærerfag
 Dersom et fag er satt opp med flere lærere, er ekstra lærer(e) registrert fra _Time- og fagfordeling>Tolærerfag_. Klasse- og gruppefag med tolærer vises i tabellen til venstre på skjermen. Tolærertimer kan bare timeplanlegges der faget alt er timeplanlagt. Tolærer har ofte færre årstimer en faglæreren og er kanskje ikke tolærer i alle uker. Timeplanlegging av tolærer kan foretas parallelt med timeplanleggingen av faget fra menyvalget _Klasser_. 
 
@@ -26,14 +30,6 @@ Nå vises timeplanen for tolæreren, og for tolærerfaget som er valgt.
 Dersom tolærerfaget har tegnet + bak kortnavnet (her BY1C TOB+) viser det at faget har mer enn en tolærer. Dette ses også fra tabellen til venstre, da faget BY1C TOB kommer på to linjer. For tolærerfaget er også romnummeret tatt med. Dersom tolæreren skal ha eget rom, altså ikke være på samme sted som faglærer, kommer faget dobbelt. På onsdag 12:15 er altså både Fsal og U15 båndlagt for faget TOB.
 ::::
 
-
-
-
-## --------------------------------------------------------------------------
-# _Her følger dokumentasjonen for ny versjon av iSkole, som snart kommer!_
-
-Her velges først læreren som vi skal finne vikar til. Påse at riktig på lærerens timeplan. Velg deretter vikarene fra nedtrekkslisten. Her kan du skrive etternavnet i stedet for å bla nedover.
-Dersom  vikarlæreren kan ta flere timer trykker man først på shift-tasten, markerer alle aktuelle timer før man lagrer.
 
 
 
