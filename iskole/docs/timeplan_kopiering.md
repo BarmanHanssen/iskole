@@ -14,7 +14,7 @@ Timeplanen kan selvsagt endres på et senere tidspunkt.
 
 Det anbefales å gjøre timeplanen for hele skoleåret ferdig så tidlig som mulig. Når timeplanen for hele skoleåret er på plass, kan man kjøre rapport som viser hvor mange timer som er timeplanlagt i det enkelte fag, se _Timeplan>Rapporter>Sum undervisning_. Timeplanlegger kan da få konrollert at hvert fag har fått nok timer i forhold til fagets fagplan. Justeringer kan om nødvendig gjøres for enkelte uker for å komme i mål.
 
-![bilde](https://user-images.githubusercontent.com/80097133/200818436-e089e72c-65f7-4c7d-985f-d263f6522d9c.png)
+![bilde](/img/tp_kopiering.png)
 
 ### Kopier timeplanen...
 Velg fra  tabellen uken som skal kopieres. Deretter hvilke uker som skal få identisk timeplan. Oppdateringen innebærer at timeplanen først slettes i disse ukene og deretter erstattes med timeplanen fra den valgte uken.
