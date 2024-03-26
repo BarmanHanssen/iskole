@@ -50,7 +50,7 @@ Timeplanen for lærere i det valgte faget legges automatisk inn her. Timeplanen 
 I noen tilfeller ønsker timeplanlegger også å se timeplan til en eller flere andre lærere. Ekstra-lærere velges enkelt fra nedtrekkslisten _Legg til lærer_.
 
 #### Timeplan lærer
-Her vises timeplanen til de utvalgte lærere som står oppført unde _Vis timeplanen for disse ansatte_. Her fremgår tydelig hvor de to (av fire mulige) HIS-timene er timeplanlagt.
+Her vises timeplanen til de utvalgte lærere som står oppført unde _Vis timeplanen for disse ansatte_. Valgt lærer visdes alltid, og man kan legge til andre lærere i tillegg til den som kommer autoatmatisk.
 
 
 
