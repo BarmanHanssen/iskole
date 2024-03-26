@@ -19,8 +19,7 @@ Gruppefagene timeplanlegges enkeltvis. Dersom fagene er markert med blokkid, og 
 
 #### Vi velger er et fag med blokkid, AP3:NA3 a:
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/37d81c5d-4344-4227-97fc-f7555d46b0de)
-
+![image](img/tp_grupper_timeplanlegg_med_blokkid.png)
 
 Siden faget har tre timer, mens blokkid 3 er tildelt fem timer, velges automatisk de tre første timene. Dette kan endres, endog timetallet for læreren på faget for denne uken. Rom velges fra egen nedtrekksliste.
 
