@@ -4,11 +4,11 @@ title: Timer
 sidebar_label: Timer
 ---
 
-En time på timeplanen er bestemt ved at vi angir når timen starter, og når den slutter. Lengden på hver time bestemmes herfra, og må ikke nødvendigvis være 45 eller 60 minutter.
+En time på timeplanen er bestemt ved at vi angir når timen starter, og når den slutter. 
 
-En timeplan har tradisjonelt inneholdt 6 timer per dag over 5 ukedager. Vanligvis har start- og sluttidene på hver time vært lik for alle dagene. Dette er en praktisk ordning som letter timeplanleggers arbeid, og også gjør det lettere for alle som er avhengig av timeplanen.
+En timeplan har tradisjonelt inneholdt 6 timer per dag over 5 ukedager. Vanligvis har timelengden vært 45 minutter, og alle dagene har hatt samme oppsett hva angår når timene starer og slutter. Dette er en praktisk ordning som gjør det lettere for alle som har bruk for timeplanen.
 
-Det er imidlertid mulig å ha forskjellig start- og sluttid for timene. For eksempel kan 1. time på mandag for klasse 1A kan ha annen start- og sluttid enn for klasse 7A. En slik timeplan kan bli ekstra krevende for timeplanlegger da 1. time på mandag  kan overlappe 2. time på mandag for et annet klassetrinn. Læreren med 1. time på mandag i 1A  kan da ikke fortsette med 2. time i 7A siden han ikke vil være ledig når 2. time starter.
+Dersom man ønsker det er det enkelt å lage et annet oppett. For grunnskolen kan 1. time på mandag for barnetrinnet ha annen start-tid enn for klasse ungdomstrinnet. Og timelengden kan også være forskjellig. En slik timeplan kan bli krevende for timeplanlegger dersom oppsettet er slik at timer kan overlappe hverandre. 
 
 :::note Merk
 Timeoppsettet er en mal. Når en time timeplanlegges, får timen start- og sluttiden fra gjeldende mal. Dersom malen endres, vil det ikke påvirke timer som alt er timeplanlagt. Men når nye timer timeplanlegges, vil alltid gjeldende mal benyttes. 
@@ -17,45 +17,33 @@ En allerede timeplanlagt time i et klassefag kan gis endret start- og/eller slut
 :::
 
 ### For skoler som har samme timeoppsett for alle klassene
-Klokkeslettene for timene som legges inn her, vil følge alle fag som timeplanlegges. Dersom ingen timer overlapper, betyr det at en lærer kan ha etterfølgende time, da dette ikke vil medføre noen kollisjon på timeplanen for læreren, eller for elevene.
+Klokkeslettene for timene som legges inn her, vil følge alle fag som timeplanlegges. Dersom noen timer overlapper vil timeplanlegger varsles dersom dette vil gi kollisjon på lærers- eller elevs timeplan.
 
 ## For skoler som har avvikende timeoppsett
-Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig timelengde og/eller forskjellig start-tider på noen (eller alle) timene. Dette lar seg løse på flere måter, her skisseres tre fremgangsmåter. Vi anbefaler å starte med 1: og forsette med enten 2: eller 3:
+Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig timelengde og/eller forskjellig start-tider på noen (eller alle) timene. Dette lar seg løse på flere måter, her skisseres to fremgangsmåter. 
 
-1: Vi legger bare inn timene som har felles start- og sluttid for alle skolens klasser (dersom slike timer finnes!).
-Da kan vi timeplanlegge alle fag i alle klasser innenfor malen som er satt opp.
-
-Fordeler/ulemper med 1:
-+ Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.
-+ Kan ikke ferdigstille timeplanen for alle fag.
-
-2: Vi timeplanlegger barne-trinnet før vi timeplanlegger ungdomstrinnet (eller i omvendt rekkefølge).
+1: Vi timeplanlegger barne-trinnet før vi timeplanlegger ungdomstrinnet (eller i omvendt rekkefølge).
 Da må timeoppsettet være tilpasset barnetrinnet. Alle timene får da riktig start- og sluttid.
+
 Når alle fag på barnetrinnet er timeplanlagt (fra _Timplan>Klasse_), endres malen slik at start- og sluttidene dekker  ungdomstrinnet. Da er alt klart for å legge timeplanen for ungdomstrinnet.
 
-Fordeler/ulemper med 2: 
+Fordeler/ulemper med 1: 
 + Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.
 + Må gjøre timeplanen ferdig for ett skoletrinn før man kan ta neste skoletrinn.
-+ Dersom timeplanen senere skal endres, må man eventuelt endre timelengde dersom oppsettet ikke dekker skoletrinnet hvor endringen gjøres.
+- Dersom timeplanen senere skal endres, må man eventuelt endre timelengde dersom oppsettet ikke dekker skoletrinnet hvor endringen gjøres.
 
-3: Vi ønsker å jobbe parallelt med timeplanlegging av barne- og ungdomstrinnet.
-Da må timeoppsettet dekke alle kombinasjoner av start- og sluttider, uten hensyn til hva som skal benyttes på hvert klassetrinn. Dette kan eksempelvis gjøres slik:
-Timene 0 (eller 1) til 9 brukes til barnetrinnet. Dersom ungdommstrinnet eksempelvis har avvikende timelengde bare for 1. til 3. time hver dag: Tilføy time 11 til 13 på malen med riktig start- og sluttider for ungdomstrinnet. Tilsvarende kan avvikende tid for time 5 legges inn som time 15. En slik metodikk gjør det lettere å få oversikt over avviket i oppsettet.
+2: Vi ønsker å jobbe parallelt med timeplanlegging av barne- og ungdomstrinnet.
+Da må timeoppsettet dekke alle kombinasjoner av start- og sluttider, uten hensyn til hva som skal benyttes på hvert klassetrinn. 
 
-Fordeler/ulemper med 3: 
+Fordeler/ulemper med 2: 
 + Kan timeplanlegge alle klassene uten å gjøre endringer på malen som definerer start- og sluttider.
 + Dersom timeplanen må endres i løpet av skoleåret, er alle disponible timelengder på plass.
-+ Kan komme i skade for å velge feil timelengde når timene utplasseres fra _Timeplan>Klasser_.
+- Kan komme i skade for å velge feil timelengde når timene utplasseres fra _Timeplan>Klasser_.
 
 ### Før en endrer oppsetter med timenes plassering/lengde
-Timene og timelengden som lagres her er altså en mal som benyttes når en legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen. Gjelder det en klasse på barne- eller ungsomstrinnet? Stemmer malen med den klassen som nå skal justeres? Dersom svaret er nei, må malen oppdateres. Benyttes metode 3: er alt på plass! Merk at det er mulig å endre timelengden eksempelvis etter første halvår. Da må timeplanen legges på nytt for å få aktivert de nye tidene.
+Timene og timelengden som lagres her er altså en mal som benyttes når en legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen.
 
 Det er også mulig å endre start- og sluttid for en enkel time fra _Timeplan>Klasser_. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra endret start- og sluttiden på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
-
-
-### Eksempel
-Det er fullt mulig å legge inn alle aktuelle start- og sluttider på timene. Se punkt 3: ovenfor. Alle variantene vil vises når timeplanlegger velger en klasse. 
-Dersom dette er oppsettet:
 
 ![bilde](/img/tp_timer_kalender.png)
 
