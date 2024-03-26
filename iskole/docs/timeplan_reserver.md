@@ -20,11 +20,11 @@ Benyttes hovedsaklig før skolens timeplan skal legges. En reservasjon blokkerer
 
 Noen benytter reservasjonen for å markere at læreren skal i møte, eller at læreren skal han undervisning med en enkeltelev. Andre eksempler: 
 
-1. Norsklærerne skal ha seksjonsmøte x ganger. Benytt Reserver rom, og legg til alle aktuelle lærere i de aktuelle ukene.
+1. Norsklærerne skal ha seksjonsmøte x ganger. Benytt romreservervasjon, og legg til alle aktuelle lærere i de aktuelle ukene.
 2. En lærer skal ta seg av en eller flere elever, kanskje før/etter ordinær skoledag. Her anbefales en løsning med grupppefag, da kan elevene knyttes til gruppen, og aktiviteten kan 
 timeplanlegges.
 
-Fordelen ved eksempel 1: Møte kan registreres med alle deltakere under ett, og alle deltakerene får samme melding på sin timeplan. Tilsvarende for 2: er at både lærers - og elevs timeplan blir korrekt.
+Fordelen ved eksempel 1: Møtet kan registreres med alle deltakere under ett, og alle deltakerene får samme melding på sin timeplan. Tilsvarende for 2: er at både lærers - og elevs timeplan blir korrekt.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/15b4ce70-18a3-4894-a216-f34325c00f80)
 
@@ -47,14 +47,15 @@ Rektor kan gi noen/alle lærere tilgang til selv å reservere noen/alle rom. Læ
 
 ## Reserver rom og lærer
 Det er mulig å knytte en eller flere lærere til romreserveringen. Læreren kan ikke ha undervisningsoppdrag som kolliderer med reservasjonen. Dersom lærer(e) skal knyttes til romreservasjonen: Huk av for aktuelle lærere fra nedtrekkslisten _Legg til lærere_, klikk deretter  på _Legg til_.
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/630e3dda-4133-484b-82b0-1d046f3325f7)
+
+![image](/img/tp_reservering_rom_velg_laerer.png)
 
 Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen planlagt møtevirksomhet med navngitte deltakere i en eller flere uker.
 
 På _Mine sider_ vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere. 
 
 ### Kopiering av gjeldende reservasjon Uke: X
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/864a5e20-85e8-4ccb-ad23-7d1a6786bdb2)
+![image](/img/tp_reservering_rom_velg_rom.png)
 Her vises alle uker for resten av skoleåret, og eventuell andre reserveringer som er gjort for denne timen. Dersom gjeldene reservasjon skal kopieres huker man av for de nye ukene.
 Tilsvarende er det mulig å slette allerede lagrede reservasjoner for flere uker under ett.
 
