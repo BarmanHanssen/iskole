@@ -24,7 +24,7 @@ Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleå
 
 ## Timeplanlegge klasse
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/925b1900-0568-4115-b5da-4932455675c1)
+<img width="1252" alt="tp_klasser_timeplan" src="https://github.com/BarmanHanssen/iskole/assets/10975905/1191c7db-49e2-4ee4-ab29-d679bd4e0c4c">
 
 Man starter med å velge klasse, og uken hvor timeplanen skal plasseres. Skjermen er delt i fire deler, nemlig for  _Fag, Timeplan klasse, Vis timeplan for disse ansatte_ og _Timeplanlærer_. Vi ser nå nærmere på hvert enkelt skjermbilde, og begynner med
 
@@ -36,8 +36,14 @@ _Velg rom_: Dersom klassen har undervisnigen oftest i eget rom, kan rommet regis
 _Fag, Lærer,Timer,Lagt_ og _Gjester_: Timeplanen for faget kan legges uten lærer, eller med en eller flere lærere. Faget HIS er her valgt. Faget skal ha fire uketimer, og alle timene er allerede timeplanlagt.  Faget har bare en lærer (IAU). På neste linje kommer læreren, her med fullt navn. Denne læreren skal bare ha to av de fire timene i faget, og disse to timene er timeplanlagt. Disse to timenen må være plassert blant de allerede fire timeplanlagte timene i faget. Det er også mulig å endre timetallet både for faget og læreren.
 Dersom faget har _Gjester_, dvs at elevene fra klassen _Gjester_ også deltar i timene, anbefales å legge disse fag først siden timene også kommer på gjesteklassen timeplan. 
 
-#### Timeplan Klasse-HIS
-Allerede timeplanlagte timer i valgt fag vises på rosa bakgrunn. Vi ser at IAU skal hat to timer på mandag, og at faget står uten lærer på onsdag og torsdag. De to timene i norsk er plassert på mandag. Resten av timene er markert på grønn bakgrunn, og er ledige for timeplanlegger.
+#### Timeplan klasse
+I eksempelet er faget ENG valgt. Allerede timeplanlagte timer i valgt fag vises på rosa bakgrunn. Vi ser at ENG skal ha fem uketimer denne uken og lærer Lars Holm skal undervise fem timer i faget denne uken. Norskfaget NOR har blitt så langt blitt timeplanlagt to på mandag og vises med blå bakgrunn. Alle timene til ENG og NOR er lagt til rom 208 som er klassens klasserom. 
+
+Det er også timeplanlagt to timer i geografi selv om dette faget ikke har fått tildelt lærer ennå. Det er heller ikke valgt rom for de to timene i GEO. Resten av timene i timeplanen er ledige for timeplanleggeren og disse er markert med grønn bakgrunn.
+
+Det er ikke tidelt lærer i faget HIS. Faget skal ha to timer denne uken, men de er ikke timeplanlagt.
+
+Skal det gjøres endringer på en timeplanlagt time eller timen skal slettes, så kan man klikke på timen med venstre museknapp og gjøre endring/sletting fra dialogen som dukker opp.
 
 #### Vis timeplan for disse ansatte
 Timeplanen for lærere i det valgte faget legges automatisk inn her. Timeplanen for alle fag til læreren som alt er timeplanlagt vises i skjermbildet _Timeplanlærer_ på samme bagrunnsfarge.
