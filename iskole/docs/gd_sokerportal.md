@@ -19,7 +19,7 @@ Her følger en detaljert beskrivelse av hvordan søkerportalen implimenteres.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e8086765-c35a-4b50-9138-cfdd44f5d26f)
 
-For å kunne ta portalen i bruk, må man huke av for minst en av bokene.
+For å kunne ta portalen i bruk, må man huke av for minst en av boksene.
 
 **_Skolen benytter søkerportalen til å ta imot søknader til iSkole:_**  Dette er fullversjonen av søkerportalen hvor søkeren selv kan fullføre søkerprosessen helt ut med all dokumentasjon som skolen krever.
 
