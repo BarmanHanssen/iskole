@@ -35,15 +35,18 @@ For å gjøre endringer klikker du på raden som skal endres. Raden ekspanderes 
 
 Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare mulig å slette læreren, faget blir stående.
 
-Det kan kun være én fagansvarlig lærer i faget, og denne blir da vist med navnet i fet skrift i kolonnen for lærer. Hvis man vil bytte fagansvarlig kan man markere det i skjermbildet for redigering av den læreren som skal overta som fagansvarlig. Ved lagring vil da den tidligere fagansvarlige automatisk miste rollen som fagansvarlig.
-
 #### Ressurs, årstimer,timeplanlagt
 Dersom faget har flere lærere vises summen av tildelt Ressurs og Årstimer for alle lærerne. Timeplanlagte timer i faget gjelder for selve faget, og er upåvirket av hvor mange lærere som er involvert i de enkelte timene.
 For fag med fagkoder forskjellig fra 999999: Skolen kan dokumentere undevisningstilbud med henvisning til Årstimer da timetallet er klokketimer. Antall Årstimer skal da motsvare fagets Omfang. Eventuelt må  for få årstimer kunne dokumenteres på annen måte.
 
+#### Fagansvarlig
+Det kan kun være én fagansvarlig lærer i faget, og denne blir da vist med navnet i fet skrift i kolonnen for lærer. Hvis man vil bytte fagansvarlig kan man markere det i skjermbildet for redigering av den læreren som skal overta som fagansvarlig. Ved lagring vil da den tidligere fagansvarlige automatisk miste rollen som fagansvarlig.
+
 #### Funksjon
 Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan legge til ny tekst for funksjonen, eksempelvis sluttet/start-dato for undervisningen i faget.
+
 #### Karaktertilgang
 Standardverdien er Ja. Dersom flere lærere dekker faget, kan Nei også være aktuell verdi.
+
 #### Elever 
 Viser hvor mange elever som er registrert i faget på visningsdatoen. Vanligvis er alle elevene i klassen registrert i alle klassens fag.
