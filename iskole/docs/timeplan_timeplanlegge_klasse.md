@@ -24,7 +24,7 @@ Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleå
 
 ## Timeplanlegge klasse
 
-<img width="1252" alt="tp_klasser_timeplan" src="https://github.com/BarmanHanssen/iskole/assets/10975905/1191c7db-49e2-4ee4-ab29-d679bd4e0c4c">
+![tp_klasser_timeplan](https://github.com/BarmanHanssen/iskole/assets/10975905/1191c7db-49e2-4ee4-ab29-d679bd4e0c4c)
 
 Man starter med å velge klasse, og uken hvor timeplanen skal plasseres. Skjermen er delt i fire deler, nemlig for  _Fag, Timeplan klasse, Vis timeplan for disse ansatte_ og _Timeplanlærer_. Vi ser nå nærmere på hvert enkelt skjermbilde, og begynner med
 

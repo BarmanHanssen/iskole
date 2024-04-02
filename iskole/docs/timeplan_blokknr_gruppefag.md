@@ -28,7 +28,7 @@ Før lagring sjekkes automatisk at rom og lærer, og elev i faget, ikke allerede
 
 #### Vi velger er et fag uten blokkid, LA1 AG3 1:
 
-<img width="956" alt="tp_grupper_timeplanlegg_uten_blokkid" src="https://github.com/BarmanHanssen/iskole/assets/10975905/f4c87484-00b9-45ba-9bb8-9e673d4da38f">
+![tp_grupper_timeplanlegg_uten_blokkid](https://github.com/BarmanHanssen/iskole/assets/10975905/f4c87484-00b9-45ba-9bb8-9e673d4da38f)
 
 
 Valgbare tider for gruppefagene er satt opp fra menyvalget _Blokk_. Nå kan fagets tre timer timeplanlegges time for time, eller under ett. Selvsagt kan rom byttes og  allerede plassert time slettes. Se teksten under timeplanen for detaljer!
