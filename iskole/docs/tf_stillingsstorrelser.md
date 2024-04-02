@@ -11,8 +11,8 @@ Hvilke fag læreren skal undervise i registreres fra menyvalgene _Klassefag_, _G
 
 Dersom den ansatte skal tildeles ressurs som ikke fanges opp av undervisning, registreres det under  _Andre ressurser_. 
 
-Ut fra disse data beregnes lærerens _Beskjeftigelse %_. Kolonnen _Avik %_ viser ( _Stillig %_ minus _Beskjeftigelse_). 
+Ut fra disse data beregnes lærerens gitte og beregnede beskjeftigelsesprosenten. De to kolonnene for avviksprosent viser da stillingsprosent minus beskjeftigelsesprosent.  
 
-![bilde](https://user-images.githubusercontent.com/80097133/146929621-71ba4ac4-2ccc-419c-9c30-ac52df1a727a.png)
+![bilde](/img/tf_stillingsstorrelser.png)
 
-Høyre del av skjermbildet er todelt. Øvre del viser lærerens udervisningsfag for planperioden. Den nedre delen viser hva som er registrert fra _Andre ressurser_.
+Øverste liste i skjermbildet viser en samlet oversikt for alle lærerne. Ved å velge en lærer vil man få se undervisnings- og andre ressurser detaljert. 
