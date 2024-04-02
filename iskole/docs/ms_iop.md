@@ -68,7 +68,7 @@ Når skolen får tilbake vedtaket registreres eventuell godkjenning eller avslag
 Valgene beskrevet i dette kapittelet vises ved å klikke på _Administrer skolens søknader_. De søknadene som er blitt godkjent av elever eller foreldre kan legges til skolens samlede søknad. Dersom skolen skal søke til flere fylker / kommuner kan det opprettes en søknad til hvert fylke/kommune.
 
 ### Legg til skolesøknad
-Etter å ha klikket _Administrer skolens søknader_, klikk _Legg til_ over tabellen _Skolens IOP-søknader_. Gi søknaden et navn f.eks. _Viken fylkeskommune_ og klikk _Lagre_.
+Etter å ha klikket _Administrer skolens søknader_, klikk _Legg til_ over tabellen _Skolens IOP-søknader_. Gi søknaden et navn f.eks. _Buskerud fylkeskommune_ og klikk _Lagre_.
 
 ### Legg elever til søknaden
 Marker søknaden du ønsker å knytte elever til. Klikk deretter knappen _Legg til elevsøknad_. Et dialogvindu viser alle elever sok har godkjent at skolen sender IOP-søknad og som ikke allerede er tilknyttet søknaden. Klikk _Legg til_ bak elevens navn for å legge eleven til skolens søknad. Tips: Du kan søke etter elever i filteret over listen.
@@ -137,6 +137,9 @@ Her fyller IOP-ansvarlig ut overordnet informasjon om IOPen.
 - Annet
 - Tidspunkt for evaluering av gjennomført opplæring og elevens utvikling
 
+:::info Spesialundervisning
+Så lenge det ikke er lagt til noen fag kan fagene hentes fra søknaden. Etter overføring fra søknaden kan de endres eller sletttet iht. elevens vedtak.
+:::
 
 ### Logg
 I loggen kan man notere oppdukkende hendelser. Det kan være dokumentasjon på tiltak skolen har gjort etter utfordringer eleven har møtt på. Hver logginlinje består av ett fritekst felt. Etter lagring vises dato for når logglinjen ble oppretett og hvem som opprettet den. Dersom teksten enedres vil dato for siste endring vises under _Sist endret_. Navnet vil være til den som skrev teksten eller sist endret den.
