@@ -23,7 +23,8 @@ På lyseblå bakgrunn vise lærene som skal undervise i fagene.
 
 ### Vi ser på den lyseblå delen av tabellen:
 Det er her vi kan legge inn faglærerne i det enkelte fag. Klikk på ikonet ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040), og du får frem følgende skjema:
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d2f4701a-cfb8-412f-a6ca-c71b31ad259f)
+
+![image](/img/tf_klassefag_rediger_laerer.png)
 
 
 #### Legg til lærer
@@ -33,6 +34,8 @@ For å gjøre endringer klikker du på raden som skal endres. Raden ekspanderes 
 ![image](/img/tf_klassefag_laerere.png)
 
 Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare mulig å slette læreren, faget blir stående.
+
+Det kan kun være én fagansvarlig lærer i faget, og denne blir da vist med navnet i fet skrift i kolonnen for lærer. Hvis man vil bytte fagansvarlig kan man markere det i skjermbildet for redigering av den læreren som skal overta som fagansvarlig. Ved lagring vil da den tidligere fagansvarlige automatisk miste rollen som fagansvarlig.
 
 #### Ressurs, årstimer,timeplanlagt
 Dersom faget har flere lærere vises summen av tildelt Ressurs og Årstimer for alle lærerne. Timeplanlagte timer i faget gjelder for selve faget, og er upåvirket av hvor mange lærere som er involvert i de enkelte timene.
