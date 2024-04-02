@@ -55,7 +55,7 @@ Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmø
 På _Mine sider_ vil disse reservasjonene komme frem både på timeplanen til rommet, og på timeplanen til de involverte lærere. 
 
 ### Kopiering av gjeldende reservasjon Uke: X
-![image](/img/tp_reservering_rom_velg_rom.png)
+![image](/img/tp_reservering_rom_velg_uker.png)
 Her vises alle uker for resten av skoleåret, og eventuell andre reserveringer som er gjort for denne timen. Dersom gjeldene reservasjon skal kopieres huker man av for de nye ukene.
 Tilsvarende er det mulig å slette allerede lagrede reservasjoner for flere uker under ett.
 
