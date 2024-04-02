@@ -46,7 +46,7 @@ Det kan kun være én fagansvarlig lærer i faget, og denne blir da vist med nav
 Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan legge til ny tekst for funksjonen, eksempelvis sluttet/start-dato for undervisningen i faget.
 
 #### Karaktertilgang
-Standardverdien er Ja. Dersom flere lærere dekker faget, kan Nei også være aktuell verdi.
+Hvis man ønsker at flere enn den fagansvarlige skal ha tilgang til å føre karakterer i faget, kan man merke av det i feltet for karaktertilgang. 
 
 #### Elever 
 Viser hvor mange elever som er registrert i faget på visningsdatoen. Vanligvis er alle elevene i klassen registrert i alle klassens fag.
