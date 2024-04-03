@@ -1,7 +1,7 @@
 ---
 id: gd_ressurs_kontaktlaerer
 title: Ressurs kontaktlærer
-sidebar_label: Ressurs kontaktlærer
+sidebar_label: Kontaktlærer
 ---
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/354b7ef2-6f72-49e6-a4bd-94ff35d7ef7b)

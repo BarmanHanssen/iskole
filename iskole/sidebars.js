@@ -28,7 +28,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Time- og fagfordeling',
-      items: ['tf_klassefag','tf_gruppefag','tf_tolaererfag','tf_andre_ressurser','tf_kontaktlaerer','tf_stillingsstorrelser','tf_rapporter'],
+      items: ['tf_klassefag','tf_gruppefag','tf_tolaererfag','tf_andre_ressurser','tf_stillingsstorrelser','tf_rapporter'],
     },
     {
       type: 'category',
