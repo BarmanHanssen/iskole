@@ -22,11 +22,11 @@ Dersom to lærere deler på undervisngen i et fag, skal fagets ressurs deles mel
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/59558314-9bc1-44a6-b3d6-95b6ef113a4e)
 
-*_Prosent_*: Dersom det gjelder en reduksjon, settes et minustegn (altså - ) foran tallet. 
+**_Prosent_**: Dersom det gjelder en reduksjon, settes et minustegn (altså - ) foran tallet. 
 
-*_Funksjon/stilling_*: Beskrivelse av grunnlaget for ressursen.
+**_Funksjon/stilling_**: Beskrivelse av grunnlaget for ressursen.
 
-*_Kategori_ og _Postering_*: Angis dersom iSkole benyttes til budjettering. Disse feltene kan ikke endres. 
+**_Kategori_ og _Postering_**: Angis dersom iSkole benyttes til budsjettering. Disse feltene kan ikke endres. 
 
 :::info Merk
 Dersom iSkole ikke benyttes til budsjettering, kan _Kategori_ og _Postering_ stå uendret.
