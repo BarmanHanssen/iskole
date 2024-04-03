@@ -27,18 +27,18 @@ Da må timeoppsettet være tilpasset barnetrinnet. Alle timene får da riktig st
 
 Når alle fag på barnetrinnet er timeplanlagt (fra _Timplan>Klasse_), endres malen slik at start- og sluttidene dekker  ungdomstrinnet. Da er alt klart for å legge timeplanen for ungdomstrinnet.
 
-Fordeler/ulemper med 1: 
-\+ Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.
-\+ Må gjøre timeplanen ferdig for ett skoletrinn før man kan ta neste skoletrinn.
-\- Dersom timeplanen senere skal endres, må man eventuelt endre timelengde dersom oppsettet ikke dekker skoletrinnet hvor endringen gjøres.
+Fordeler/ulemper med 1:  
+\+ Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.  
+\+ Må gjøre timeplanen ferdig for ett skoletrinn før man kan ta neste skoletrinn.  
+\- Dersom timeplanen senere skal endres, må man eventuelt endre timelengde dersom oppsettet ikke dekker skoletrinnet hvor endringen gjøres.  
 
 2: Vi ønsker å jobbe parallelt med timeplanlegging av barne- og ungdomstrinnet.
 Da må timeoppsettet dekke alle kombinasjoner av start- og sluttider, uten hensyn til hva som skal benyttes på hvert klassetrinn. 
 
-Fordeler/ulemper med 2: 
-\+ Kan timeplanlegge alle klassene uten å gjøre endringer på malen som definerer start- og sluttider.
-\+ Dersom timeplanen må endres i løpet av skoleåret, er alle disponible timelengder på plass.
-\- Kan komme i skade for å velge feil timelengde når timene utplasseres.
+Fordeler/ulemper med 2:  
+\+ Kan timeplanlegge alle klassene uten å gjøre endringer på malen som definerer start- og sluttider.  
+\+ Dersom timeplanen må endres i løpet av skoleåret, er alle disponible timelengder på plass.  
+\- Kan komme i skade for å velge feil timelengde når timene utplasseres.  
 
 ### Før en endrer oppsettet med timenes plassering/lengde
 Timene og timelengden som lagres her er altså en mal som benyttes når en legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen.
