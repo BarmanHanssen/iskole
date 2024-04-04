@@ -8,7 +8,7 @@ sidebar_label: Blokk
 Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/timeplan_definer_blokknr_old). 
 :::
 
-Når undervisning i et fag har elever fra ulike klasser anbefales det å dele undervisningen i gruppefag. Også ved oppdeling av en klasse i flere grupper i samme fag, anbefales det å benytte gruppefag.
+Når undervisning i et fag har elever fra ulike klasser anbefales det å dele undervisningen i gruppefag. Også ved oppdeling av én klasse i flere grupper i samme fag, anbefales det å benytte gruppefag.
 
 Hvis skolen ikke har gruppefag vil all undervisning i fag foregå i klasser. En elev kan bare tilhøre en klasse. All undervisning foregår i klassen gjennom klassens klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
 
@@ -39,7 +39,7 @@ Blokkid er en samling av blokknr, som har til hensikt å effektivisere timeplanl
 Gruppefag som skal gå parallelt markeres med lik blokkid. Hvor timene er tenkt plassert på timeplanen angis med blokknr. Blokknr trengs ikke som her å være fortløpende. Eneste krav er at et blokknr bare kan være registrert til en blokkid. Her er altså blokknr 1 til 10 allerede båndlagt og kan ikke gjenbrukes.
 
 Hvis man ønsker å timeplanlegge fag med blokkid 3 fås følgende skjermbilde:
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/6ede1793-1488-4224-96a5-16578f297ccd)
+![image](/img/tp_blokknr_gruppering.png)
 Valget er begrenset av timer med blokknr som alt er lagt inn, og som ikke allerede er i bruk av annen blokkid. Hvis vi her hadde valgt blokkid 1 eller 2 ville vi kunnet endre på oppsettet som alt er registrert.
 
 #### Trinn
