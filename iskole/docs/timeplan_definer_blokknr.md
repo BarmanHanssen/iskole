@@ -14,7 +14,7 @@ Dersom skolen ikke har gruppefag vil all undervisning i fag foregå i klasser. E
 
 Timeplanen for gruppefag kan ikke kollidere med timeplanen for klassefagene for elever som har både gruppe- og klassefag. Og siden et gruppefag kan ha elever fra flere klasser, kanskje fra mer enn et årstrinn, så gir det store utfordringer for å kunne legge skolens timeplanen innen eksempelvis en 30 timers uke.
 
-For å raskere å kunne timeplanlegge gruppefagene, tar vi utgangspunkt i at flere grupper skal undervises parallelt. Vi klassifiserer grupper som undervises parallelt med en blokkid. Og når eksempelvis fagene har fem uketimer felles tilkjennevis dette med fem blokknr.
+For å raskere å kunne timeplanlegge gruppefagene, tar vi utgangspunkt i at flere grupper skal undervises parallelt. Vi klassifiserer grupper som undervises parallelt med en blokkid. Og når eksempelvis fagene har fem uketimer felles tilkjennegis dette med fem blokknr.
 
 Gruppefag med like blokknumre skal undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit.
 

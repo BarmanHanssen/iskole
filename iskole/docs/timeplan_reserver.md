@@ -20,10 +20,10 @@ Benyttes hovedsaklig før skolens timeplan skal legges. En reservasjon blokkerer
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/15b4ce70-18a3-4894-a216-f34325c00f80)
 
-Lærer velges fra listen, og lærerens timeplan hentes frem og timene markeres på grønn bakgrunn. Klikk på timen som skal reserveres, og du får frem skjemaet _Legg til reservasjon for xx_. Startbildet krysser av valgt uke som utgangspunkt. Her kan du markere for flere uker, og eventeult bytte _Reservert_ med annen tekst. Deresom reservasjonen skal gjelde for resten av skoleåret hukes det av for _Merk ledige uker frem i tid_. 
+Lærer velges fra listen, og lærerens timeplan hentes frem og timene markeres på grønn bakgrunn. Klikk på timen som skal reserveres, og du får frem skjemaet _Legg til reservasjon for xx_. Startbildet krysser av valgt uke som utgangspunkt. Her kan du markere for flere uker, og eventeult bytte _Reservert_ med annen tekst. Hvis reservasjonen skal gjelde for resten av skoleåret hukes det av for _Merk ledige uker frem i tid_. 
 
 :::tip Tips - Møte med flere
-Dersom flere lærere skal ha møte sammen, benytt romreservervasjon og legg til alle aktuelle lærere i de aktuelle ukene. Alle deltakerene får samme melding på sin timeplan og reservasjonene kan endres samlet.
+Hvis flere lærere skal ha møte sammen, benytt romreservervasjon og legg til alle aktuelle lærere i de aktuelle ukene. Alle deltakerene får samme melding på sin timeplan og reservasjonene kan endres samlet.
 :::
 
 :::tip Tips - Oppfølging av elever
@@ -31,7 +31,7 @@ Dersom man vil benytte reservasjon for å markere at læreren er opptatt med å 
 :::
 
 ### Slett reservasjon
-Fra skjemaet _Legg til reservasjon til ..._ fjernes avhukingen for aktuelle uker. Klikk deretter på _Lagre_.
+Fra skjemaet _Legg til reservasjon for ..._ fjernes avhukingen for aktuelle uker. Klikk deretter på _Lagre_.
 
 ## Reservere rom 
 Timeplanlegger kan her reservere et rom, og dermed blokkere rommet når klasse- og gruppefagene skal timeplanlegges.
@@ -44,7 +44,7 @@ Rektor kan gi noen/alle lærere tilgang til selv å reservere noen/alle rom. Læ
 :::
 
 ## Reserver rom og lærer
-Det er mulig å knytte en eller flere lærere til romreserveringen. Læreren kan ikke ha undervisningsoppdrag som kolliderer med reservasjonen. Dersom lærer(e) skal knyttes til romreservasjonen: Huk av for aktuelle lærere fra nedtrekkslisten _Legg til lærere_, klikk deretter  på _Legg til_. 
+Det er mulig å knytte en eller flere lærere til romreserveringen. Læreren kan ikke ha undervisningsoppdrag som kolliderer med reservasjonen. Hvis lærere skal knyttes til romreservasjonen: Huk av for aktuelle lærere fra nedtrekkslisten _Legg til lærere_, klikk deretter  på _Legg til_. 
 
 ![image](/img/tp_reservering_rom_velg_laerer.png)
 
@@ -62,7 +62,7 @@ Endring på reservasjonen vil kun gjelde for den uken man åpnet reservasjonen f
 
 ### Kopiering av reservasjon til andre uker
 ![image](/img/tp_reservering_rom_velg_uker.png)
-Her vises alle uker for resten av skoleåret, og eventuell andre reserveringer som er gjort for denne timen. Dersom gjeldene reservasjon skal kopieres huker man av for de nye ukene.
+Her vises alle uker for resten av skoleåret, og eventuell andre reserveringer som er gjort for denne timen. Hvis gjeldene reservasjon skal kopieres huker man av for de nye ukene.
 Tilsvarende er det mulig å slette allerede lagrede reservasjoner for flere uker under ett.
 
 :::info Merk 
