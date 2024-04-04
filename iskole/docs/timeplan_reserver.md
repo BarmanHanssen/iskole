@@ -49,7 +49,7 @@ Det er mulig å knytte en eller flere lærere til romreserveringen. Læreren kan
 ![image](/img/tp_reservering_rom_velg_laerer.png)
 
 :::info Markering i listen
-For å markere flere i listen må man klikke i avkryssingsboksen. Klikker man på navnet fjernes annen markering og kun denne læreren vil være valgt.
+For å markere flere i listen må man klikke i avkrysningsboksen. Klikker man på navnet fjernes annen markering og kun denne læreren vil være valgt.
 :::
 
 Eksempler på når dette kan være aktuelt: Realfagslærerne skal ha seksjonsmøte i noen/alle uker. Annen planlagt møtevirksomhet med navngitte deltakere i en eller flere uker.
@@ -62,7 +62,7 @@ Endring på reservasjonen vil kun gjelde for den uken man åpnet reservasjonen f
 
 ### Kopiering av reservasjon til andre uker
 ![image](/img/tp_reservering_rom_velg_uker.png)
-Her vises alle uker for resten av skoleåret, og eventuell andre reserveringer som er gjort for denne timen. Hvis gjeldene reservasjon skal kopieres huker man av for de nye ukene.
+Her vises alle uker for resten av skoleåret, og eventuelle andre reserveringer som er gjort for denne timen. Hvis gjeldende reservasjon skal kopieres huker man av for de nye ukene.
 Tilsvarende er det mulig å slette allerede lagrede reservasjoner for flere uker under ett.
 
 :::info Merk 
