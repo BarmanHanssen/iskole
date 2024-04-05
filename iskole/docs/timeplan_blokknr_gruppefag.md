@@ -10,28 +10,27 @@ Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https
 
 Første skjermbildet viser alle gruppefag. Vi velger første skoleuke. Timeplanen er markert for fag som alt er timeplanlagt. 
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/635ddbb1-e132-4a1d-b6d4-4c8594510669)
+![image](/img/tp_grupper.png)
 
 Fag som er med rød skrift har ikke fått tildelt lærer. Ønskes kun oversikt over fag med lærer, klikk på trakt-ikonet:
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/67269e72-0df3-40d7-b6a0-c44e1b7557da)
+![image](/img/tp_grupper_filter.png)
 
 Gruppefagene timeplanlegges enkeltvis. Dersom fagene er markert med blokkid, og blokkid er tildelt blokknr (se menyvalget _Blokk_), gjennstår å tildele romnummer før man kan lagre. 
 
-#### Vi velger er et fag med blokkid, AP3:NA3 a:
+#### Vi velger er et fag med blokkid, LA1 AG3 1:
+![tp_grupper_timeplanlegg_med_blokkid]/img/tp_grupper_blokkid.png)
 
-![tp_grupper_timeplanlegg_med_blokkid](https://github.com/BarmanHanssen/iskole/assets/10975905/241b884c-9719-4380-8a36-103522766f5f)
+Blokkid 2 er tildelt fem timer, men siden læreren har to timer velges automatisk bare de to første timene. Man står fritt til å endre hvilke timer som er avkrysset, begrenset av antall uketimer for læreren. Dersom man ønsker flere timer kan både uketimer for fag og lærer endres ved å klikke på blyanten. Rom velges fra egen nedtrekksliste.
 
+Før lagring sjekkes automatisk at rom og lærer, og elev i faget, ikke allerede er opptatt.  Man kan endre/slette allerede plassert time og endre rom. Se teksten under timeplanen for detaljer.
 
-Siden faget har tre timer, mens blokkid 3 er tildelt fem timer, velges automatisk de tre første timene. Dette kan endres, endog timetallet for læreren på faget for denne uken. Rom velges fra egen nedtrekksliste.
+#### Vi velger er et fag uten blokkid, LA1 AG4 1:
+![tp_grupper_timeplanlegg_uten_blokkid](/img/tp_grupper_uten_blokkid.png)
+Valgbare tider for gruppefagene er satt opp fra menyvalget _Blokk_. Lærerns tre timer kan timeplanlegges time for time ved å klikke på de mørkegrønne timene. Selvsagt kan rom byttes og allerede plasserte timer slettes.
 
-Før lagring sjekkes automatisk at rom og lærer, og elev i faget, ikke allerede er opptatt.  Man kan endre/slette allerede plassert time og endre rom. Se teksten under timeplanen for detaljer!
-
-#### Vi velger er et fag uten blokkid, LA1 AG3 1:
-
-![tp_grupper_timeplanlegg_uten_blokkid](https://github.com/BarmanHanssen/iskole/assets/10975905/f4c87484-00b9-45ba-9bb8-9e673d4da38f)
-
-
-Valgbare tider for gruppefagene er satt opp fra menyvalget _Blokk_. Nå kan fagets tre timer timeplanlegges time for time, eller under ett. Selvsagt kan rom byttes og  allerede plassert time slettes. Se teksten under timeplanen for detaljer!
+:::tip Tips - hurtigtaster
+Se beskrivelsen under timeplanen for tastatursnarveier som kan effektivisere arbeidet.
+:::
 
 :::note Merk
 Bare timer fra _Blokk>Timeplan blokknr_ markert med blokknr kan brukes når gruppefagene timeplanlegges. 
