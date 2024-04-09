@@ -36,9 +36,9 @@ Vi anbefaler å knytte lærere til fagene før man legger timeplanen. Dersom man
 :::
 
 
-_Velg rom_: Dersom klassen har undervisningen oftest i eget rom, kan rommet registreres fra _Grunnlagsdata>Klasser_ og er da automatisk førstevalget når klassefagene skal timeplanlegges. Annet rom velges om ønskelig herfra. Rom kan også endres ved å klikke på en allerede timeplanlagt time. Unntak er når valgt lærer i faget ikke er timeplanlagt på denne timen, da vil klikk på timen medføre timeplanlegging av læreren.
+**_Velg rom_**: Dersom klassen har undervisningen oftest i eget rom, kan rommet registreres fra _Grunnlagsdata>Klasser_ og er da automatisk førstevalget når klassefagene skal timeplanlegges. Annet rom velges om ønskelig herfra. Rom kan også endres ved å klikke på en allerede timeplanlagt time. Unntak er når valgt lærer i faget ikke er timeplanlagt på denne timen, da vil klikk på timen medføre timeplanlegging av læreren.
 
-_Fag, Lærer, Timer, Lagt_ og _Gjester_: Timeplanen for faget kan legges uten lærer, eller med en eller flere lærere. Faget ENG er her valgt, faget skal ha fem uketimer. Faget har to lærere Lars Holm og Ole Vold. De to lærerne skal undervise to timer alene og en time sammen. I eksempelet gjenstår det å plassere siste timen til Ole Vold. Det er mulig å endre timetallet både for faget og læreren ved å klikke på blyanten i kolonnen timer.
+**_Fag, Lærer, Timer, Lagt_ og _Gjester_**: Timeplanen for faget kan legges uten lærer, eller med en eller flere lærere. Faget ENG er her valgt, faget skal ha fem uketimer. Faget har to lærere Lars Holm og Ole Vold. De to lærerne skal undervise to timer alene og en time sammen. I eksempelet gjenstår det å plassere siste timen til Ole Vold. Det er mulig å endre timetallet både for faget og læreren ved å klikke på blyanten i kolonnen timer.
 Dersom faget har _Gjester_, dvs at elevene fra klassen _Gjester_ også deltar i timene, anbefales å legge disse fagene først siden timene også kommer på gjesteklassens timeplan. 
 
 #### Timeplan klasse
@@ -53,11 +53,11 @@ Skal det gjøres endringer på en timeplanlagt time eller timen skal slettes, s�
 
 
 #### Vis timeplan for disse ansatte
-Timeplanen for lærere i det valgte faget legges automatisk inn her. Timeplanen for alle fag til læreren som alt er timeplanlagt vises i skjermbildet _Timeplanlærer_ på samme bagrunnsfarge.
-I noen tilfeller ønsker timeplanlegger også å se timeplan til en eller flere andre lærere. Ekstra-lærere velges enkelt fra nedtrekkslisten _Legg til lærer_.
+Timeplanen for lærere i det valgte faget legges automatisk inn her. Timeplanen for alle fag til læreren som alt er timeplanlagt vises i skjermbildet _Timeplanlærer_ på samme bakrunnsfarge.
+I noen tilfeller ønsker timeplanlegger også å se timeplan til en eller flere andre lærere, disse velges enkelt fra nedtrekkslisten _Legg til lærer_.
 
 #### Timeplan lærer
-Her vises timeplanen til de utvalgte lærere som står oppført unde _Vis timeplanen for disse ansatte_. Valgt lærer visdes alltid, og man kan legge til andre lærere i tillegg til den som kommer autoatmatisk.
+Her vises timeplanen til de utvalgte lærere som står oppført unde _Vis timeplanen for disse ansatte_. Valgt lærer vises alltid, og man kan legge til andre lærere i tillegg til den som kommer automatisk.
 
 
 
