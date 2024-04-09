@@ -28,8 +28,7 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 
 Når utfyllingen er gjort, trykkes _Lagre_. Endringer kan gjøres senere. 
 
-:::tip Dersom klassen skal ha et fag som ikke står i listen under _Tilgjengelige_, må det altså registreres under _Fag_, og deretter kan faget tilknyttes klassen. Bruk da blyant-ikonet.
- 
+:::tip Dersom klassen skal ha et fag som ikke står i listen under _Tilgjengelige fag (Uketimer:)_, må faget altså registreres fra menyvalget _Fag_. Bruk da![image](https://github.com/BarmanHanssen/iskole/assets/80097133/eb9dcc07-e0a4-4db0-b891-c1bda5658efc) for å tilføye faget.
 
 :::caution Advarsel
 Hvis man tar ut et fag av klassen etter skolestart, så vil alle elevene i klassen miste faget, og faget mister læreren fra time- og fagfordelingen, og timeplanlagte timer blir slettet. Men før sletting finner sted, får en opp beskjed om hva som står på spill, og man kan la vær å slette klassen...
