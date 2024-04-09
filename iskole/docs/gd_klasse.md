@@ -19,10 +19,10 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 - _Klasseid_: Her velges en bokstav eller tall. Sammentrekking av  _Klassetrinn_ og _Klasseid_ gir navnet på denne klassen (oppføres under kolonnen _Klasse_). 
 - _Velg programkode_: Her får man opp en omfattende liste som dekker både grunnskole og videregående skole. Man kan filtrere ved skrive inn tekst, eksempelvis:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b8da5307-1c53-4f39-bf0c-ed97f5db5624)
-- _Dokumentasjonstype_: Vitnemål gjelder som regel for avgangsklassene. Alternativet er kompetansebevis. (Flere muligheter på elevnivå, eksempelvis karakterustskrift.)
+- _Dokumentasjonstype_: Vitnemål gjelder som regel for avgangsklassene. (Flere muligheter på elevnivå, eksempelvis karakterustskrift.)
 - _Rom_: Dersom klassens stort sett benytter et bestemt klasserom kan det markeres her. Letter arbeidet for timeplanlegger, da dette rommet er forhåndsvalgt. Men timeplanlegger står fritt til å velge annet rom.
-- _Maksimalt elevantall_: Kan noteres, men brukes ikke andre steder.
-- _Antall elever_: Ved registrering av faget er tallet nødvendigvis null. Oppdateres kontinuerlig når skolen tar inn elever som tildeles faget.
+- _Maksimalt elevantall_: Kan noteres, men klassen kan ha flere elever.
+- _Antall elever_: Når ny klasse registreres er antall elever i klassen nødvendigvis null. Oppdateres kontinuerlig når elever tas inn i klassen.
 - _Fag (Er gjest i klasse_: Dersom klassen er slått sammen med en (eller flere) klasser i et fag, blir klassen med faget skrevet ut her.
 - _Klassen inngår i eksport til læringsplattform_: Dersom skolen også benytter eksempelvis ItsLearning, avhukes det her.
 - _Har gjesteklasse_: Har gjesteklasse_: Dersom klassen i et (eller flere) av sine fag har felles undervisning med elever fra en annen klasse står det oppført gjesteklassen(e) oppført her.
