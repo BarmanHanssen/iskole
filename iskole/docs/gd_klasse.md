@@ -18,7 +18,7 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 - _Klassetrinn_: I nedtrekkslisten finner du alle klassetrinn som er lagt inn fra menyvalget _Klassetrinn_
 - _Klasseid_: Her velges en bokstav eller tall. Sammentrekking av  _Klassetrinn_ og _Klasseid_ gir navnet på denne klassen (oppføres under kolonnen _Klasse_). 
 - _Velg programkode_: Her får man opp en omfattende liste som dekker både grunnskole og videregående skole. Man kan filtrere ved skrive inn tekst, eksempelvis:
-![bilde](/img/grunnlagsdata_klasse_legg_til_velg_program.png 'Velg program')
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b8da5307-1c53-4f39-bf0c-ed97f5db5624)
 - _Dokumentasjonstype_: Vitnemål gjelder som regel for avgangsklassene. Alternativet er kompetansebevis. (Flere muligheter på elevnivå, eksempelvis karakterustskrift.)
 - _Rom_: Dersom klassens stort sett benytter et bestemt klasserom kan det markeres her. Letter arbeidet for timeplanlegger, da dette rommet er forhåndsvalgt. Men timeplanlegger står fritt til å velge annet rom.
 - _Maksimalt elevantall_: Kan noteres, men brukes ikke andre steder.
