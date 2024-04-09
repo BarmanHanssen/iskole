@@ -3,12 +3,8 @@ id: timeplan_kopiering
 title: Kopiering
 sidebar_label: Kopiering
 ---
-Timeplanen for en bestemt uke er komplett når alle timer er timeplanlagt for faglærere og tolærere i alle klasse- og gruppefag.
+Timeplanen for en bestemt uke er komplett når alle timer er timeplanlagt for lærere i alle klasse- og gruppefag.
 Dersom timeplanen for denne uken skal gjelde for flere uker fremover i tid, kan den enkelt videreføres ved kopiering. Kopiering kan også gjennomføres selv om ikke alle fag er timplanlagt.
-
-:::note Merk
-Kopieringen tar med timeplanen for alle klasser og alle gruppefag for skolen fra gjeldende uke. Dersom et fag ikke er timeplanlagt, vil fagets timeplane forbli blank ved kopiering, selv om faget var timeplanlagt i en av de ukene som det kopieres til. 
-:::
 
 Timeplanen kan selvsagt endres på et senere tidspunkt.
 
@@ -17,7 +13,11 @@ Det anbefales å gjøre timeplanen for hele skoleåret ferdig så tidlig som mul
 ![bilde](/img/tp_kopiering.png)
 
 ### Kopier timeplanen...
-Velg fra  tabellen uken som skal kopieres. Deretter hvilke uker som skal få identisk timeplan. Oppdateringen innebærer at timeplanen først slettes i disse ukene og deretter erstattes med timeplanen fra den valgte uken.
+:::danger Advarsel
+Kopieringen tar med timeplanen for alle klasser og alle gruppefag for skolen fra valgt uke. Alt som er timeplanlagt eller reservert i ukene det kopieres til vil bli slettet og erstattet med timeplanen fra valgt uke. Vær derfor forsiktig så du ikke uforvarende sletter timeplanen.
+:::
 
-### Slett timplan
+Velg fra tabellen uken som skal kopieres. Deretter hvilke uker som skal få identisk timeplan. Oppdateringen innebærer at timeplanen først slettes i disse ukene og deretter erstattes med timeplanen fra den valgte uken.
+
+### Slett timeplan
 Det kan bare slettes timeplanen for en uke i gangen, altså for den valgte uken. For å slette flere uker, kanskje alle ukene, kopierer man ganske enkelt uken uten timeplan.

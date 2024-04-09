@@ -48,7 +48,8 @@ Det er også timeplanlagt to timer i geografi selv om dette faget ikke har fått
 
 Det er heller ikke tidelt lærer i faget HIS. Faget skal ha to timer denne uken, men de er ikke timeplanlagt.
 
-Skal det gjøres endringer på en timeplanlagt time eller timen skal slettes, så kan man klikke på timen med venstre museknapp og gjøre endring/sletting fra dialogen som dukker opp. Husk unntaket når valgt lærer i faget ikke er timeplanlagt på denne timen, da vil klikk på timen medføre timeplanlegging av læreren.
+##### Endre time
+Skal det gjøres endringer på en timeplanlagt time eller timen skal slettes, så kan man klikke på timen med venstre museknapp og gjøre endring/sletting fra dialogen som dukker opp. Husk unntaket når valgt lærer i faget ikke er timeplanlagt på denne timen, da vil klikk på timen medføre timeplanlegging av læreren. Det er mulig å endre rom, start- og sluttidspunkt og å slette timen. Dersom timen har flere lærere kan en eller flere av disse slettes fra timen.
 ![endre_time](/img/tp_klasse_endre_time.png)
 
 
