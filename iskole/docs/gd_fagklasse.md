@@ -1,7 +1,7 @@
 ---
 id: gd_fagklasse
-title: Fagklasser
-sidebar_label: Fagklasser
+title: Gjesteklasser
+sidebar_label: Gjesteklasser
 ---
 Det er mulig å slå sammen to, eller flere klasser, for felles undervisning i et bestemt fag. Altså at alle elevene fra flere klasser har felles undervisning. 
 
