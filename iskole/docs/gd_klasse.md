@@ -10,15 +10,15 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/1aaa3b62-1a8d-4066-83d6-dc9f3e81a79d)
 
 
-:::tip Kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget _Gjesteklasse_.
+:::tip Kolonnene _(Er Gjest i klasse)_ og _Har gjesteklasse_ blir omtalt under menyvalget _Gjesteklasse_.
 
 ### +Legg til...
-![bilde](/img/grunnlagsdata_klasse_legg_til.png 'Legg til klasse')
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/ba556c8b-4d5c-45d0-8e04-3ae0e64dc51b)
 
 - _Klassetrinn_: I nedtrekkslisten finner du alle klassetrinn som er lagt inn fra menyvalget _Klassetrinn_
 - _Klasseid_: Her velges en bokstav eller tall. Sammentrekking av  _Klassetrinn_ og _Klasseid_ gir navnet på denne klassen (oppføres under kolonnen _Klasse_). 
-- _Program_: Her får man opp en omfattende liste som dekker både grunnskole og videregående skole. Man kan filtrere ved skrive inn tekst, eksempelvis:
-![bilde](/img/grunnlagsdata_klasse_legg_til_velg_program.png 'Velg program')
+- _Velg programkode_: Her får man opp en omfattende liste som dekker både grunnskole og videregående skole. Man kan filtrere ved skrive inn tekst, eksempelvis:
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b8da5307-1c53-4f39-bf0c-ed97f5db5624)
 - _Dokumentasjonstype_: Vitnemål gjelder som regel for avgangsklassene. Alternativet er kompetansebevis. (Flere muligheter på elevnivå, eksempelvis karakterustskrift.)
 - _Rom_: Dersom klassens stort sett benytter et bestemt klasserom kan det markeres her. Letter arbeidet for timeplanlegger, da dette rommet er forhåndsvalgt. Men timeplanlegger står fritt til å velge annet rom.
 - _Maksimalt elevantall_: Kan noteres, men brukes ikke andre steder.
