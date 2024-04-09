@@ -34,17 +34,17 @@ Datagrunnlaget for begge fag-gruppene er så likt at vi bruker kun klassefag for
 - _Timer per uke_: Skoleåret er på 38 uker. Ut fra hvert fags omfang (gitt fra fagkoden) beregnes hvor mange timer per uke som må timeplanlegges for å nå fagets omfang. Uketimetallet må ta hensyn til timelengden på undervisninge er på 45 eller 60 minutters, eller kanskje ulike timelengde på undervisningen i løpet av skoleåret. Timeplanlegger kan om ønskelig på ukesbasis justeres timetallet opp eller ned slik at total undervisning er i samsvar med fagets omfang. Når timeplan er lagt for hele skoleåret kan rapporten _Tmeplan>Rapporter>Sum udervisning_ tas ut for kontroll. Her blir samtlige timer i faget summert ut fra hver times lengde i minutter, resultatet vises i klokketimer og kan direkte sammenliknes med fagets omfang. 
 - _Rom_: Noe fag, eksempelvis kroppsøving, krever spesialrom. Da kan det være greit å knytte rommet til faget her. Det innebærer at timeplanlegger får presentert dette rommet som førstevalg. Kan endres når faget timeplanlegges.
 
-### Karakterdokumentasjon
+#### Karakterdokumentasjon
 - _Fagkode_: Alle fag i grunnskolen og i videregående skole som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klare for bruk. Trykk _Endre fagkode_, så får du opp en overveldende lang liste! For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden (eller deler av navn eller del av fagkoden). Unntaket er koden 999999 som vi bruker for fag som skal på timeplanen, men ikke skal tas med på karakterutskrifter. Slike fag er ofte en komponent av et fag med UDIR-fagkode. Mer om det nedenfor.
 
 :::info Merk 
 Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinerskolene kan endre omfanget på sine fag. Det kan ingen andre skoler gjøre.
 :::
 
-### Ressurs til faglærer
+#### Ressurs til faglærer
 - _Årstimer/Årsramme_: Her fastsettes lesebrøken for faget. Den er gjerne et resultat av forhandlinger mellom fagforening og skoleier, og registres av skoleier for hvert fag. Det er brøken årstimer/årsramme gir fagets stillingsstørrelse. Nå brukes fortrinnsvis klokketimer (dvs omfang), ikke antall 45-minutters timer, som måltall. Da vil årstimer være fagets omfag slik det fremgår av fagets fagkode, og årsrammen er fremforhandlet mellom partene fagforening/skoleier. Brukes 45 minutter som timelengde, vil årsrammen økes, (ny årsramme blir da ca omfang*60/45), men verdien av brøken årstimer/årsramme skal være (tilnærmet) lik omfang/årsramme. Lærer som er oppført som fagansvarlig (se _Time- og fagfordelig>Klassefag/Gruppefag_) får automatisk ressursen for faget. Dersom flere lærere deler på undervisningen i faget, kan ressursen fordeles mellom de involverte lærere. Omfordeling/justering av ressurs for lærer i fag kan gjøres fra _Time- og fagfordeling>Andre ressurser_.
 
-### Elever
+#### Elever
 - _Elever kan føre tilstedeværelse_: Huker en av for dette kan elevene i faget selv markere tilstedeværelse i timene i faget. Uten avhuking er det bare læreren som kan gjøre det. Kan endres frem og tilbake flere ganger i løpet av skoleåret.
 
 Skal resultatet lagres klikker en på ikonet for _Lagre for å avslutte.
