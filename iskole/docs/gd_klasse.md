@@ -24,7 +24,7 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 - _Maksimalt elevantall_: Kan noteres, men klassen kan ha flere elever.
 - _Klassen inngår i eksport til læringsplattform_: Dersom skolen også benytter eksempelvis ItsLearning, avhukes det her.
 - _Kostnadssted_: Brukes i hovedsak i budsjett-sammenheng. Ta gjerne kontakt dersom skolen din ønsker nærmere orientering om dette.
-- _Tilgjengelige fag_: Når ny klasse er lagt inn kommer alle fag som er lagt inn fra menyvalget _Fag_ frem. Aktuelle fag for klassen flyttes over fra _Tilgjengelige_ til _Valgte_.
+- _Tilgjengelige fag_: Når ny klasse er lagt inn kommer alle fag som er lagt inn for klassetrinnet fra menyvalget _Fag_ frem. Aktuelle fag for klassen flyttes over fra _Tilgjengelige fag_ til _Valgte fag_.
 
 Når utfyllingen er gjort, trykkes _Lagre_. Endringer kan gjøres senere. 
 
