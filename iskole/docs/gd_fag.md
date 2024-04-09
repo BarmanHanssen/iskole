@@ -8,7 +8,6 @@ Her starter det:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a3738e48-fd7b-4bf1-a113-97a5c4aa6c08)
 
-
 :::tip Tips
 Har du _Fagkode_ markert med rød farge, velg da _Utgåtte fagkoder_ for å oppdatere, se omtale nederst på siden.
 :::
