@@ -7,8 +7,10 @@ sidebar_label: Klasser
 Når _Klassetrinn_ er registrert (se _Utdanningsprogram_), kan man her spesifisere hvilke klasser skolen skal ha på klassetrinnet, og deretter hvilke _Fag_ som skal knyttes til den enkelte klasse. For store skoler vil det kunne være flere klasser på hvert klassetrinn. 
 
 Eksempel fra skole hvor fagene allerede er lagt til:
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/c9c07f8d-5731-4895-bd3f-a8430870ad41)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/1aaa3b62-1a8d-4066-83d6-dc9f3e81a79d)
 
+
+11
 :::tip Kolonnene _Er Gjest i klasse_ og _Har gjesteklasse_ blir omtalt under menyvalget _Fagklasse_.
 
 ### +Legg til...
