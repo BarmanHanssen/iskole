@@ -32,7 +32,7 @@ For skoler som alt har tatt iSkole i bruk velges forrige skoleår. Da kan data o
 Oppsummering
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/4f4e0f72-7a59-4bcc-b0d7-ecdcea001b1d)
 
-Dersom alt ser greit ut gjenstår bare å klikke på _Opprett nytt skoleår_. Skoleåret kan enkelt slettes dersom ikke elever alt er tatt inn.
+Dersom alt ser greit ut gjenstår bare å klikke på _Opprett nytt skoleår_. Skoleåret kan enkelt slettes før elever er tatt inn.
 
 ## Redigere skoleår
 Det eneste som kan redigeres her er halvårsskile. Justering/endring av planlagte fridager gjøres fra neste menyvalg, altså fra _Skolerute_.
