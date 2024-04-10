@@ -13,6 +13,7 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 :::tip Kolonnene _(Er Gjest i klasse)_ og _Har gjesteklasse_ blir omtalt under menyvalget _Gjesteklasse_.
 
 ### +Legg til...
+
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/ba556c8b-4d5c-45d0-8e04-3ae0e64dc51b)
 
 - _Klassetrinn_: I nedtrekkslisten finner du alle klassetrinn som er lagt inn fra menyvalget _Klassetrinn_
