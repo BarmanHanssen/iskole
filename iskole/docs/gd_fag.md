@@ -59,7 +59,7 @@ Klikk på faget som skal endres, deretter på ikonet _Endre_.
 Alt kan endres, unntatt Trinn og kort-navn! 
 
 :::info Fagkode
-Elever som tas inn i en klasse, får fagkoden knyttet til faget ved opptaket, tilsvarende for gruppefag. Endres fagkoden herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. Endring av fagkoden for både klasse- og gruppefag for en elev kan gjøres fra _Elevadmin>Karakterdokumentasjon_. Dersom endringen først gjøres etter at fravær og vurderinger er registrert, vil endring av fagkoden for elev kunne bli mer komplisert.
+Elever som tas inn i en klasse, får fagkoden knyttet til fagene i klassen, tilsvarende for valgte gruppefag. Endres fagkoden herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. For en elev kan fagkoden for både klasse- og gruppefag  endre fra _Elevadmin>Karakterdokumentasjon_. 
 :::
 
 ### _Slett_
@@ -77,15 +77,15 @@ Normalt vil årstimer settes likt med omfanget til fag.
 Angir hvor mange timer man må undervise i faget for å full stilling. Dersom årstimer=omfang er det klokketimer som gjelder.
 
 #### Tilsvarer stillingsprosent
-Beregnes ut fra formelen årstimer delt på årsramme ganget med 100. (Krever at årsrammen ikke er satt til null.)
+Beregnes ut fra årstimer delt på årsramme multiplisert med 100. (Krever at årsrammen ikke er satt til null.)
 
 ####  Elever
-Når et nytt fag registreres her, kan selvsagt ingen elever være knyttet til faget. Elevene kommer først når klassefaget er plassert i en klasse (fra menyvalget _Klasser_), og elever er tatt inn i klassen. Tilsvarende må det være registrert en gruppe i faget (fra menyvalget _Grupper_), før elever kan tas inn i et gruppefag.
-Når elevene er registrert vil tallene her vise status for det enkelte fag. Dersom det viser seg at et fag ikke har elever når skoleåret er starter, kan det muligens være fornuftig å slette faget.
+Når et nytt fag registreres her, kan selvsagt ingen elever være knyttet til faget. Elevene kommer først når klassefaget er plassert i en klasse (fra menyvalget _Klasser_), og elever er tatt inn i klassen. Tilsvarende må det være registrert en gruppe i faget (fra menyvalget _Grupper_), før elever kan knytte til et gruppefaget.
+Når elevene er registrert vil tallene her vise status for det enkelte fag. Dersom det viser seg at et fag ikke har elever når skoleåret er starter, kan det muligens være fornuftig å slette faget?
 
 ## Fag med flere komponenter
 
-Benyttes typisk når en gruppe elever undervises samlet i noen timer, men deles i andre timer fordi elevene har ulik faglig bakgrunn. Her angis hvilket fag som delene tilhører. Delene må tilhøre fag på samme trinn.
+Benyttes typisk når en gruppe elever undervises samlet i noen timer, men deles i andre timer, typisk fordi elevene har ulik faglig bakgrunn. Her angis hvilket fag som delene tilhører. Delene må tilhøre fag på samme trinn.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
 
