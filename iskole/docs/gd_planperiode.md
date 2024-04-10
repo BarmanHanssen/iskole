@@ -19,9 +19,9 @@ Her tastes inn eksempelvis 2025.
 Et skoleår starter 1. august og varer frem til 31. juli. Eksempelvis vil en heltidsansatt avlønnes mellom disse datoer, og elever som tas inn får i utgangspunktet tilgang til iSkole bare innenfor dette tidsrommet. 
 ### Til skoleruten
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/9a51b67c-8d6a-4671-ac1e-f077f1c98c6b)
-Her registreres skoleårets første og siste skoledag, samt planlagte fridager. 
+Her registreres elevenes første og siste skoledag, samt planlagte fridager. 
 ### Halvårsskille
-Halvårsskille markerer overgangen fra 1.- til 2.halvår. Etter denne datoen får elevene vurderingen for 1. halvår.
+Halvårsskille markerer overgangen fra 1.- til 2.halvår. Etter denne datoen får elevene vurderingen for 2. halvår.
 
 Neste skjermbilde:
 
