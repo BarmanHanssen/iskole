@@ -103,7 +103,7 @@ Nedtrekkslisten viser da alle fag som NOX kan være en komponent av. Utvalget er
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/330f9328-f603-48e3-a2e6-80b388df43ff)
 
-Disse fag kan timeplanlegges, men de ikke skal medtas på karakterdokumentasjonen, og er heller ikke med på diverse oversikter, f.eks til Wis. 
+Disse fag kan timeplanlegges, men de skal ikke medtas på karakterdokumentasjonen, og er heller ikke med på diverse oversikter, f.eks til Wis. 
 
 ### Oversikt
 Her vises alle klasse- og grupppefag som er registrert. Merk muligheten til å sortere på en kolonne, eksempelvis Fagkode. En bestemt fagkode kan være registrert både som klasse- og gruppefag på flere trinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode. Dersom denne oversikten tas frem etter skolestart, vil _Elevantall_ vise hvor mange elever som er registrert med faget. Når nytt fag legges til, er selvsagt elevantallet null.
