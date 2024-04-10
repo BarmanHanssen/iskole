@@ -8,8 +8,6 @@ Start-skjermen viser alle rom som allerede er registrert, og som kan benyttes p�
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/02551864-348b-44fb-aca0-80d36b1364a9)
 
 Romene kan benyttes av timeplanlegger. Ansatte kan gis tilgang til å reservere et utvalg av rom, se _Mine sider>Tilgang_ under _Romreservereing_.
-Hva som registreres under _Romtype_ og _Antall plasser_ setter ingen begrensning på hvordan rommene disponeres i timeplansammenheng.
-
 ### Legg til rom
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ee4caa9b-f736-4f9e-a2f3-e90fc792f58b)
