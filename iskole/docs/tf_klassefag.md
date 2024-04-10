@@ -13,7 +13,7 @@ Her kan en legge inn data som knytter sammen fag og lærer for all undervisning 
 
 Time- og fagfordelingen planlegges gjerne på vårparten for skoleåret som starter til høsten. På den tid er antall elever i klassene og i gruppefagene ikke kjent, eller i beste fall usikre. Når vi likevel viser tallene her, er det med tanke på at når neste skoleår har startet, vil en herfra få oppdatert oversikt over reelt elevtall, og ikke minst hvor mang timer som er timeplanlagt i det enkelte fag og for den enkelte lærer i faget (et faget kan ha flere lærere). Resultatet blir vist som klokketimer, og tar altså høyde for at undervisningstimene kan ha varierende lengde.
 
-### Klasser og fag
+## Klasser og fag
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/50506353-1838-4b4a-ac01-ce4abbc59eb3)
 
@@ -27,7 +27,7 @@ Det er her vi kan legge inn faglærerne i det enkelte fag. Klikk på ikonet ![im
 ![image](/img/tf_klassefag_rediger_laerer.png)
 
 
-#### Legg til lærer
+### Legg til lærer
 Nedtrekkslisten kan vise alle tilsatte som er registrert som pedagoger (se _Personal>Ansatt_). Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik det er lagt inn fra _Grunnlagsdata>Fag_. Men det er mulig  overstyre disse verdier her, det er mest aktuelt når flere lærere deler på undervisningen i faget. Eksempelvis at faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funksjon som assistent?), eller når en elev har ekstra lærer (funksjon som tolærer), eller at et fem-timers fag deles slik at en lærer har tre timer, og den andre to timer i hele, eller deler av skoleåret. Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da legges ny lærer til. Dersom lærer som slutter alt har gjennomført undervisning i faget, slettes ikke læreren herfra. I motsatt fall mistes dokumentasjonen om lærerens undervisning i faget, og disse timene blir stående oppført uten lærer.
 
 For å gjøre endringer klikker du på raden som skal endres. Raden ekspanderes og fagets lærere vil vises. 
@@ -53,3 +53,17 @@ For intern informasjon for skolen. Feltet har ingen videre funksjon på iSkole o
 
 #### Elever 
 Viser hvor mange elever som er registrert i faget på visningsdatoen. Vanligvis er alle elevene i klassen registrert i alle klassens fag.
+
+### Endre uketimer for lærer
+Ved å klikke på blyanten bak lærerens uketimer får man frem en tabell med alle ukene med oversikt over antall uketimer som er tildelt fag og lærer og hvor mange timer som er timeplanlagt. Her kan man for den enkelte uke justere ned lærerens uketimer. Det er ikke mulig å justere lavere enn det som er timeplanlagt for læreren, da må man først slette timer fra lærerens timeplan. Under tabellen har man to valg som gjelder for de ukene man markerer i tabellen, _Slett timeplanen valgte uker_ og _Bytt lærer for valgte uker_.
+
+![uketimer](/img/tp_klasse_uketimer.png)
+
+#### Slett timeplanen valgte uker
+Denne knappen vil slette timeplanen til den valgte læreren for de ukene som er avkrysset i tabellen.
+
+#### Bytt lærer for valgte uker
+Denne funksjonen er nyttig dersom man ønsker at en annen lærer skal overta timeplanen til den valgte læreren én eller flere uker. Marker ukene det gjelder, velg læreren du ønsker skal overta og klikk _Bytt lærer for valgte uker_. iSkole vil nå kontrollere om denne læreren har mulighet til å overta. Hvis mulig vil byttet bli gjennomført, hvis ikke vises en tabell med kollisjonene som forhindrer byttet. Hvis den nye læreren ikke allerede er registrert i faget blir læreren lagt til og får det antall uketimer som var timeplanlagt for læreren som hadde faget tidligere. Uketimene til læreren som har gitt fra seg timeplanen sin blir nedjustert til 0 for de valgte ukene.
+
+Eksempel på kollisjon ved bytte av lærer.
+![uketimer](/img/tp_klasse_bytte_laerer.png)
