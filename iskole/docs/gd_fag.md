@@ -35,9 +35,9 @@ Velges
 - _Navn (kort)_: Tre tegn som blant annet benyttes på timeplanen. Eksempel: NOR for faget norsk, kan brukes på alle trinn selv om faginnholdet er vidt forskjellig.
 - _Navn_: Dette navnet kommer frem på timeplanen. Merk at offisielt navn er gitt via fagkoden fra Udir, dette benyttes på karakterutskrifter etc.
 - _Timer per uke_: Skoleåret er på 38 uker. Ut fra hvert fags omfang (gitt fra fagkoden) beregnes hvor mange timer per uke som må timeplanlegges for å nå fagets omfang. Uketimetallet må ta hensyn til timelengden på undervisninge er på 45 eller 60 minutters, eller kanskje ulike timelengde på undervisningen i løpet av skoleåret. Timeplanlegger kan imidlertid justers timetallet opp eller ned på ukebasis slik at total undervisning er i samsvar med fagets omfang.
+- _Rom_: Noe fag, eksempelvis kroppsøving, krever spesialrom. Da kan det være greit å knytte rommet til faget her. Det innebærer at timeplanlegger får presentert dette rommet som førstevalg. Kan endres når faget timeplanlegges.
 
 Når timeplan er lagt for hele skoleåret kan rapporten _Tmeplan>Rapporter>Sum udervisning_ tas ut for kontroll. Her blir samtlige timer i faget summert ut fra hver times lengde i minutter, resultatet vises i klokketimer og kan direkte sammenliknes med fagets omfang. 
-- _Rom_: Noe fag, eksempelvis kroppsøving, krever spesialrom. Da kan det være greit å knytte rommet til faget her. Det innebærer at timeplanlegger får presentert dette rommet som førstevalg. Kan endres når faget timeplanlegges.
 
 #### Karakterdokumentasjon
 - _Fagkode_: Alle fag i grunnskolen og i videregående skole som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klare for bruk. Trykk _Endre fagkode_, så får du opp en overveldende lang liste! For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden (eller deler av navn eller del av fagkoden). Unntaket er koden 999999 som vi bruker for fag som skal på timeplanen, men ikke skal tas med på karakterutskrifter. Slike fag er ofte en komponent av et fag med UDIR-fagkode. Mer om det nedenfor.
