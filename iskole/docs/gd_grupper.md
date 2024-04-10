@@ -8,7 +8,7 @@ Alle fag fra menyvalget _Fag>Gruppefag_ som vises her, og er i utgangspunktet va
 
 Men for at et Fag skal bli valgbart må det gis et gruppenr, se kolonnen 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6b69ae31-53bd-489e-ad7a-0e895f064bd5)
-. Bare fag med gruppenummer vises i _Time- og fagfordeling>Gruppefag_, og kan velges av elevene.
+.  Bare fag med gruppenummer vises i _Time- og fagfordeling>Gruppefag_, og kan velges av elevene.
 
 Man legger altså til en gruppe i et fag ved å trykke på pluss-ikonet. Fra dialogvinduet velger man et gruppenr på gruppen som skal opprettes. Vanligvis benyttes 1, deretter 2 dersom to grupper i faget skal legges til.
 Gruppe som alt er registrert har et rødfarget søppel-bøtte-ikon. Det indikerer at gruppen(e) kan slettes. (Skal noen av de øvrige fag slettes, gjøres det fra menyvalget _Fag>Gruppefag_.)
