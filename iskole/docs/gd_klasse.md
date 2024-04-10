@@ -12,6 +12,7 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 
 
 :::tip Kolonnene _(Er Gjest i klasse)_ og _Har gjesteklasse_ blir omtalt under menyvalget _Gjesteklasse_.
+:::
 
 ### +Legg til...
 
