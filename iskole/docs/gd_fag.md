@@ -85,7 +85,7 @@ Når elevene er registrert vil tallene her vise status for det enkelte fag. Ders
 
 ## Fag med flere komponenter
 
-Benyttes typisk når en gruppe elever undervises samlet i noen timer, men deles i andre timer, typisk fordi elevene har ulik faglig bakgrunn. Her angis hvilket fag som delene tilhører. Delene må tilhøre fag på samme trinn.
+Benyttes når en gruppe elever undervises samlet i noen timer, men deles i andre timer, typisk fordi elevene har ulik faglig bakgrunn. Her angis hvilket fag som delene tilhører. Delene må tilhøre fag på samme trinn.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
 
