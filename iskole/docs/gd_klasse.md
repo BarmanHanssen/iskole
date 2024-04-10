@@ -17,7 +17,7 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/ba556c8b-4d5c-45d0-8e04-3ae0e64dc51b)
 
 - _Klassetrinn_: I nedtrekkslisten finner du alle klassetrinn som er lagt inn fra menyvalget _Klassetrinn_
-- _Klasseid_: Her velges en bokstav eller tall. Sammentrekking av  _Klassetrinn_ og _Klasseid_ gir navnet på denne klassen (oppføres under kolonnen _Klasse_). 
+- _Klasseid_: Her velges en bokstav eller tall. Sammentrekking av  _Klassetrinn_ og _Klasseid_ gir navnet på denne klassen (se kolonnen _Klasse_). 
 - _Velg programkode_: Her får man opp en omfattende liste som dekker både grunnskole og videregående skole. Man kan filtrere ved skrive inn tekst, eksempelvis:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b8da5307-1c53-4f39-bf0c-ed97f5db5624)
 - _Dokumentasjonstype_: Vitnemål gjelder som regel for avgangsklassene. (Flere muligheter på elevnivå, eksempelvis karakterustskrift.)
