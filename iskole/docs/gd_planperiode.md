@@ -27,7 +27,7 @@ Neste skjermbilde:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/78d08e97-7878-4ac3-b40b-3a58c5501e88)
 
-For skoler som alt har tatt iSkole i bruk velges forrige skoleår. Da kan data om klasser og fag gjenbrukes. Dersom man stort sett har samme oppsett for valgfagene, tas også disse tas med. Andre ressurser kan være faste tilegg for enkelte lærere, eksempelvis ressurs for rektor. Justering av valgfag kan gjøres fra menyvalget _Fag>Gruppefag_ og for andre ressurser fra _Time- og fagfrdeling>Andre ressurser_.
+For skoler som alt har tatt iSkole i bruk velges forrige skoleår. Da kan data om klasser og fag gjenbrukes. Dersom man stort sett har samme oppsett for valgfagene, hukkes det av for _kopier grupper. Andre ressurser kan være faste tilegg for enkelte lærere, eksempelvis ressurs for rektor. Justering av gruppene gjøres senere fra menyvalget _Fag>Gruppefag_ og for andre ressurser fra _Time- og fagfrdeling>Andre ressurser_.
 
 Oppsummering
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/4f4e0f72-7a59-4bcc-b0d7-ecdcea001b1d)
