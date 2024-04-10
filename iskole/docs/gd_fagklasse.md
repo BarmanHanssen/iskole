@@ -13,7 +13,7 @@ Det er bare fag med fagkode forskjellig fra 999999 som kan ha gjesteklasse. Og s
 Se figuren ovenfor. GEO skal  bare være registrert i klasse ST1A (eier av faget), men ikke i en potensiell gjesteklasse.
 :::
 
-Eksempel: Man ønsker at ST1A skal være eier i av faget GEO, og at ST1B skal være gjesteklasse i GEO. Men man finner ikke klasse ST1B i listen over mulige gjesteklasser! Grunnen vil da være at ST1B allerede har GEO som et av sine klassefag. Fra menyvalget _Klasse_ fjernes klassefaget GEO i ST1B. Da vil klassen kunne bli gjest i ST1A.
+Eksempel: Man ønsker at ST1A skal være eier i av faget GEO, og at ST1B skal være gjesteklasse i GEO. Men man finner ikke klasse ST1B i listen over tilgejenglige gjesteklasser! Grunnen vil da være at ST1B allerede har GEO som et av sine klassefag. Fra menyvalget _Klasse_ fjernes klassefaget GEO i ST1B. Da vil klassen kunne bli gjest i ST1A.
 
 Dersom elevene omgrupperes på annen måte, altså ikke sammenslåing av hele klasser, så benytter vi gruppefag. Gruppefag er omtalt under menyvalget _Fag_.
 
