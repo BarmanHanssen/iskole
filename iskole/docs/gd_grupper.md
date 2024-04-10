@@ -21,6 +21,8 @@ Når ny gruppe opprettes, klikkes på +-ikonet:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/30ad1c9b-fbf7-4c64-8126-5ea84f28b547)
 
+Gruppenr må gis en verdi mens blokkid kan stå blank.
+
 Fag med likt blokkid skal undervises parallelt, uten at timeplanen på nåværende tidspunkt er bestemt. Det innebærer at to grupper med samme blokkid ikke kan ha samme lærer, og at en elev bare kan velge ett av fagene. Fra _Time- og fagfordeling>Gruppefag_ kan en lærer følgelig ikke tildeles to fag med samme blokkid. Og en elev kan heller ikke tildeles to gruppefag med samme blokkid. Blokkid kan endres/settes inn fra _Time- og fagfordeling>Grupper_, og fra _Timeplan>Grupper_.
 
 ### Litt om kolonnene i skjermbildet
