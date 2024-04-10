@@ -80,7 +80,7 @@ Angir hvor mange timer man må undervise i faget for å full stilling. Dersom å
 Beregnes ut fra årstimer delt på årsramme multiplisert med 100. (Krever at årsrammen ikke er satt til null.)
 
 ####  Elever
-Når et nytt fag registreres her, kan selvsagt ingen elever være knyttet til faget. Elevene kommer først når klassefaget er plassert i en klasse (fra menyvalget _Klasser_), og elever er tatt inn i klassen. Tilsvarende må det være registrert en gruppe i faget (fra menyvalget _Grupper_), før elever kan knytte til et gruppefaget.
+Når et nytt fag registreres her, kan selvsagt ingen elever være knyttet til faget. Elevene kommer først når klassefaget er plassert i en klasse (fra menyvalget _Klasser_), og elever er tatt inn i klassen. Tilsvarende må det være registrert en gruppe i faget (fra menyvalget _Grupper_), før elever kan knyttes til et gruppefaget.
 Når elevene er registrert vil tallene her vise status for det enkelte fag. Dersom det viser seg at et fag ikke har elever når skoleåret er starter, kan det muligens være fornuftig å slette faget?
 
 ## Fag med flere komponenter
