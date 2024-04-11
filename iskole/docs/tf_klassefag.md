@@ -31,6 +31,7 @@ Nedtrekkslisten kan vise alle som er registrert som pedagoger (se _Personal>Ansa
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9bd451ee-9151-47cb-a635-51c7d7563220)
 
+Nå kommer AP3D KRØ på to linjer. For Peder kan vi nå endre verdiene som er lagt inn (klikk blyant-ikonet), eller fjerne Peder som lærer. Dersom faget skal ha en ekstra lærer benytter vi på nytt 
 
 ### Lærer
  Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik det vises her (se  _Grunnlagsdata>Fag_).
