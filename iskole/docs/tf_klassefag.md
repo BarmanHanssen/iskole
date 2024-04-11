@@ -23,9 +23,9 @@ På lyseblå bakgrunn vises lærerne som skal undervise i fagene.
 
 ### Vi ser på den lyseblå delen av tabellen
 Det er her vi kan legge inn faglærerne i det enkelte fag. For å registrere Peder Aas som lærer i kroppsøving i klasse AD3D:
-Klikk på ikonet ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040) og du får frem følgende skjema
+Klikk på ikonet ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040) og du får frem følgende skjema:
 
-![image](/img/tf_klassefag_rediger_laerer.png)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ce8e4480-5c8f-4957-bb10-82f02d7ad683)
 
 
 ### Legg til lærer
