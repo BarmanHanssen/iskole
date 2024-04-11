@@ -37,26 +37,29 @@ Dersom faget skal ha en ekstra lærer benytter vi på nytt ikonet  ![image](http
 
 ## Tabellens kolonner
 
-### Lærer
+#### Lærer
  Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik den vises for faget i den hvite delen av tabellen.
  Vi ser at det første faget har to lærere. Ekspanderer vi AP3D HIS får vi frem detaljene:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/1043bd68-1862-4e8f-9b9b-686eb91fbc5b)
 
 Vi ser her at Jan-Erik er fagansvarlig (uthevet navn) og at fagets 140 årstimer skal fordeles (56+84) mellom lærerne. Bare 3 timer er foreløpig passert på timeplanen. Det er mulig å endre årstimetallet, og ressursen, for lærerne. Dette vil fremkomme ved at _Årstimer_ for faget, vist på hvit bakgrunn, ikke sammenfaller med tallet på blå bakgrunn. Tallet på blå bakgrunn er summert dersom flere lærere er innblandet.
  
+#### Uketimer
+Dette tallet er utgangspunktet for timeplanlegger. Timeplanlegger kan justere tallet på ukebasis.
 
 #### Ressurs, årstimer,timeplanlagt
-Dersom faget har flere lærere vises summen av tildelt _Ressurs_ og _Årstimer_ for alle lærerne. Timeplanlagte timer i faget gjelder for selve faget, og er upåvirket av hvor mange lærere som er involvert i de enkelte timene.
-For fag med fagkoder forskjellig fra 999999: Skolen kan dokumentere undevisningstilbud med henvisning til _Årstimer_ da timetallet er klokketimer. Antall årstimer skal da motsvare fagets omfang. Eventuelt må for få årstimer kunne dokumenteres på annen måte.
+Dersom faget har flere lærere vises summen av tildelt _Ressurs_, _Årstimer_ og _Timeplanlagt_ for alle lærerne på første linje. Verdien for den enkelte lærer kommer selvsagt bak lærerens navn. 
+
+For fag med fagkoder forskjellig fra 999999: Skolen kan dokumentere undevisningstilbud med henvisning til _Årstimer_ gitt på blå bakgrunn. Antall årstimer skal da motsvare fagets omfang. Dersom årstimer på hvit bakgrunn er lavere enn på blå bakgrunn må avviket kunne dokumenteres på annen måte.
 
 #### Fagansvarlig
-Det kan kun være én fagansvarlig lærer i faget, og denne blir da vist med navnet i fet skrift i kolonnen for lærer. Hvis man vil bytte fagansvarlig kan man markere det i skjermbildet for redigering av den læreren som skal overta som fagansvarlig. Ved lagring vil da den tidligere fagansvarlige automatisk miste rollen som fagansvarlig.
+Det kan kun være én fagansvarlig lærer i faget, og denne blir da vist med navnet i fet skrift i kolonnen for lærer. Dersom flere lærer i faget kan en gjøre endring.
 
 #### Funksjon
 Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan legge til ny tekst for funksjonen, eksempelvis sluttet/start-dato for undervisningen i faget.
 
 #### Karaktertilgang
-Hvis man ønsker at flere enn den fagansvarlige skal ha tilgang til å føre karakterer i faget, kan man merke av det i feltet for karaktertilgang. 
+Hvis man ønsker at flere enn den fagansvarlige skal ha tilgang til å føre terminkarakterer i faget, kan man merke av det i feltet for karaktertilgang. 
 
 #### Tilrettelagt
 For intern informasjon for skolen. Feltet har ingen videre funksjon på iSkole og informasjonen blir ikke med i noen rapportering.
