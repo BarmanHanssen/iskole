@@ -27,7 +27,7 @@ Klikk på ikonet ![image](https://github.com/BarmanHanssen/iskole/assets/8009713
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ce8e4480-5c8f-4957-bb10-82f02d7ad683)
 
-Nedtrekkslisten kan vise alle som er registrert som pedagoger (se _Personal>Ansatt_). Vi velger Peder Aas, og beholder default-verdiene slik de er. Etter lagring får vi dette reultatet:
+Nedtrekkslisten _Lærer_ kan vise alle som er registrert som pedagoger (se _Personal>Ansatt_). Vi velger Peder Aas, og beholder default-verdiene slik de er. Etter lagring får vi dette reultatet:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9bd451ee-9151-47cb-a635-51c7d7563220)
 
