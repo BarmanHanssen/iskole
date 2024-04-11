@@ -31,14 +31,15 @@ Nedtrekkslisten kan vise alle som er registrert som pedagoger (se _Personal>Ansa
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9bd451ee-9151-47cb-a635-51c7d7563220)
 
-Nå kommer AP3D KRØ på to linjer. For Peder kan vi nå endre verdiene som er lagt inn (klikk blyant-ikonet), eller fjerne Peder som lærer. Dersom faget skal ha en ekstra lærer benytter vi på nytt ikonet  ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040)
+Nå kommer AP3D KRØ på to linjer. For Peder kan vi nå endre verdiene som er lagt inn (klikk blyant-ikonet), eller fjerne Peder som lærer. Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare mulig å slette læreren, faget blir stående.
+
+Dersom faget skal ha en ekstra lærer benytter vi på nytt ikonet  ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040)
 
 ### Lærer
  Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik det vises her (se  _Grunnlagsdata>Fag_).
 
 ![image](/img/tf_klassefag_laerere.png)
 
-Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare mulig å slette læreren, faget blir stående.
 
 #### Ressurs, årstimer,timeplanlagt
 Dersom faget har flere lærere vises summen av tildelt _Ressurs_ og _Årstimer_ for alle lærerne. Timeplanlagte timer i faget gjelder for selve faget, og er upåvirket av hvor mange lærere som er involvert i de enkelte timene.
