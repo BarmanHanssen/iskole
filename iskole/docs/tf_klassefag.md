@@ -42,7 +42,7 @@ Dersom faget skal ha en ekstra lærer benytter vi på nytt ikonet  ![image](http
  Vi ser at det første faget har to lærere. Ekspanderer vi AP3D HIS får vi frem detaljene:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/1043bd68-1862-4e8f-9b9b-686eb91fbc5b)
 
-Vi ser her at Jan-Erik er fagansvarlig (uthevet navn) og at fagets 140 årstimer skal fordeles (56+84) mellom lærerne. Bare 3 timer er foreløpig passert på timeplanen. Det er mulig å endre årstimetallet, og ressursen, for lærerne. Dette vil fremkomme ved at _Årstmer_ for faget, vist på hvit bakgrunn ikke sammenfaller med tallet på blå bakgrunn. Tallet på blå bakgrunn er summert dersom flere lærere er innblandet.
+Vi ser her at Jan-Erik er fagansvarlig (uthevet navn) og at fagets 140 årstimer skal fordeles (56+84) mellom lærerne. Bare 3 timer er foreløpig passert på timeplanen. Det er mulig å endre årstimetallet, og ressursen, for lærerne. Dette vil fremkomme ved at _Årstimer_ for faget, vist på hvit bakgrunn, ikke sammenfaller med tallet på blå bakgrunn. Tallet på blå bakgrunn er summert dersom flere lærere er innblandet.
  
 
 #### Ressurs, årstimer,timeplanlagt
