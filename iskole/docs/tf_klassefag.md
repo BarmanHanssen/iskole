@@ -59,7 +59,7 @@ Det kan kun være én fagansvarlig lærer i faget, og denne blir da vist med nav
 Kan her markere at læreren er eksempelvis assistent eller tolærer. Man kan legge til ny tekst for funksjonen, eksempelvis sluttet/start-dato for undervisningen i faget.
 
 #### Karaktertilgang
-Hvis man ønsker at flere enn den fagansvarlige skal ha tilgang til å føre terminkarakterer i faget, kan man merke av det i feltet for karaktertilgang. 
+Hvis man ønsker at flere enn den fagansvarlige skal ha tilgang til å føre terminkarakterer i faget, må det avhukes, se _Karaktertilgang_. 
 
 #### Tilrettelagt
 For intern informasjon for skolen. Feltet har ingen videre funksjon på iSkole og informasjonen blir ikke med i noen rapportering.
