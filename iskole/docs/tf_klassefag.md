@@ -38,7 +38,7 @@ Dersom faget skal ha en ekstra lærer benytter vi på nytt ikonet  ![image](http
 ## Tabellens kolonner
 
 ### Lærer
- Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik det vises for faget i den hvite delen av tabellen.
+ Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik den vises for faget i den hvite delen av tabellen.
  Vi ser at det første faget har to lærere. Ekspanderer vi AP3D HIS får vi frem detaljene:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/1043bd68-1862-4e8f-9b9b-686eb91fbc5b)
 
