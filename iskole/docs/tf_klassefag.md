@@ -27,7 +27,6 @@ Klikk på ikonet ![image](https://github.com/BarmanHanssen/iskole/assets/8009713
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ce8e4480-5c8f-4957-bb10-82f02d7ad683)
 
-
 ### Lærer
 Nedtrekkslisten kan vise alle som er registrert som pedagoger (se _Personal>Ansatt_). Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik det er lagt inn fra _Grunnlagsdata>Fag_. Men det er mulig å overstyre disse verdier her. Eksempelvis dersom faget skal styrkes ved at to (eller flere) lærere er tilstede i noen timer, eksempelvis når klassen er i svømmehallen (funksjon som assistent?), eller når en elev har ekstra lærer (funksjon som tolærer), eller at et fem-timers fag deles slik at en lærer har tre timer, og den andre to timer i hele, eller deler av skoleåret. Annet eksempel: En lærer slutter i skoleåret, ny lærer overtar. Da legges ny lærer til.
 
