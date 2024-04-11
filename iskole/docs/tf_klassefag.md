@@ -40,7 +40,6 @@ Dersom faget skal ha en ekstra lærer benytter vi på nytt ikonet  ![image](http
 ### Lærer
  Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik det vises her (se  _Grunnlagsdata>Fag_).
 
-
 #### Ressurs, årstimer,timeplanlagt
 Dersom faget har flere lærere vises summen av tildelt _Ressurs_ og _Årstimer_ for alle lærerne. Timeplanlagte timer i faget gjelder for selve faget, og er upåvirket av hvor mange lærere som er involvert i de enkelte timene.
 For fag med fagkoder forskjellig fra 999999: Skolen kan dokumentere undevisningstilbud med henvisning til _Årstimer_ da timetallet er klokketimer. Antall årstimer skal da motsvare fagets omfang. Eventuelt må for få årstimer kunne dokumenteres på annen måte.
