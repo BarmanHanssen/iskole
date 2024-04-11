@@ -28,7 +28,7 @@ Klikk på ikonet ![image](https://github.com/BarmanHanssen/iskole/assets/8009713
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ce8e4480-5c8f-4957-bb10-82f02d7ad683)
 
 ### Lærer
-Nedtrekkslisten kan vise alle som er registrert som pedagoger (se _Personal>Ansatt_). Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik det er lagt inn fra _Grunnlagsdata>Fag_.
+Nedtrekkslisten kan vise alle som er registrert som pedagoger (se _Personal>Ansatt_). Vanligvis har hvert fag en lærer, og læreren får da fagets ressurs slik det vises her (se  _Grunnlagsdata>Fag_).
 
 ![image](/img/tf_klassefag_laerere.png)
 
