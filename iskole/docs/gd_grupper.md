@@ -30,7 +30,7 @@ Fag med samme blokkid ( gitt som et tall) skal undervises parallelt, uten at tim
 
 Fagene er hentet fra hva som er lagt inn fra menyvalget _Fag>Gruppefag_. 
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6b69ae31-53bd-489e-ad7a-0e895f064bd5)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6b69ae31-53bd-489e-ad7a-0e895f064bd5)  Bare fag som har en verdi (tall eller bokstav) skal igangsette dette skoleåret.
 
 
 _Elever_ viser antallet elever som er påmeldt i faget. Når gruppen opprettes fra dette menyvalget, er tallet selvsagt null.
