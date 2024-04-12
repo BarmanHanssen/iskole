@@ -55,6 +55,8 @@ Dersom faget har flere lærere vises summen av tildelt _Ressurs_, _Årstimer_ og
 
 For fag med fagkoder forskjellig fra 999999: Skolen kan dokumentere undevisningstilbud med henvisning til _Årstimer_ gitt på blå bakgrunn. Antall årstimer skal da motsvare fagets omfang. Dersom årstimer på hvit bakgrunn er lavere enn på blå bakgrunn må avviket kunne dokumenteres på annen måte.
 
+Når timepllanen er ferdiglagt, skal timeplanlagte timer være likt med årstimer.
+
 #### Fagansvarlig
 Det kan kun være én fagansvarlig lærer i faget, og denne blir da vist med navnet i fet skrift i kolonnen for lærer. Dersom flere lærer i faget kan en gjøre endring.
 
