@@ -7,7 +7,7 @@ Det er mulig å slå sammen to, eller flere klasser, for felles undervisning i e
 
 Det er bare fag med fagkode forskjellig fra 999999 som kan ha gjesteklasse. Og siden en elev bare kan følge et bestemt fag i en klasse, må fellesfaget bare ligge i en klasse. Denne klassen blir eier av faget (omtalt som moderklassen). Klassene til de øvrige elevene kaller vi i for gjesteklasser. Typiske eksempler: To klasser har kroppsøving sammen. Flere klasser samles for kor-øvinger.
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/456f7d0f-6c87-4ce5-835e-c9d4a182031b)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/1ad15ab4-a3ef-4652-8f52-a69df0499455)
 
 :::info Merk
 Se figuren ovenfor. GEO skal  bare være registrert i klasse ST1A (eier av faget), men ikke i en potensiell gjesteklasse.
