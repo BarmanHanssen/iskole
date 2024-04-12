@@ -10,7 +10,7 @@ Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https
 
 ## Generelt
 
-Klassene med fag er hentet fra _Grunnlagsdata>Klasse_. Eventuelle endringer i fagsammensetningen må gjøres derfra.
+Klassene med fag er hentet fra _Grunnlagsdata>Klasse_. Eventuelle endringer i fagsammensetningen må gjøres derfra. 
 
 Her kan en legge inn data som knytter sammen fag og lærer for all undervisning som planlegges iverksatt for dette skoleåret. Dette vil være grunnlaget for timeplanlegger. Dersom man i tillegg legger til relevant ressursbruk for andre tjenester (menyvalget _Andre ressurser_) vil i sum disse data være et godt grunnlag for videre budsjetteringsarbeid. Eksempelvis kontrollere at den enkelte lærer får en stillingsstørrelse som tilsvarer tilsettings-kontrakten (se _Rapporter>Stillingsoversikt_). Og ressurs for den enkelte klasse, og for valgfagene (registrert fra _Gruppefag_.).
 
