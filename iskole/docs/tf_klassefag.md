@@ -73,7 +73,7 @@ For intern informasjon for skolen. Feltet har ingen videre funksjon på iSkole o
 Viser hvor mange elever som er registrert i faget på visningsdatoen. Vanligvis er alle elevene i klassen registrert i alle klassens fag.
 
 ### Endre uketimer for lærer
-Ved å klikke på blyanten bak lærerens uketimer får man frem en tabell med alle ukene med oversikt over antall uketimer som er tildelt fag og lærer og hvor mange timer som er timeplanlagt. Her kan man for den enkelte uke justere ned lærerens uketimer. Det er ikke mulig å justere lavere enn det som er timeplanlagt for læreren, da må man først slette timer fra lærerens timeplan. Under tabellen har man to valg som gjelder for de ukene man markerer i tabellen, _Slett timeplanen valgte uker_ og _Bytt lærer for valgte uker_.
+Ved å klikke på blyanten bak lærerens uketimer får man frem en tabell med alle ukene i skoleåret. Her kan man for den enkelte uke justere lærerens uketimer. Det er ikke mulig å justere lavere enn det som er timeplanlagt for læreren, da må man først slette timer fra lærerens timeplan. Under tabellen har man to valg som gjelder for de ukene man markerer i tabellen, _Slett timeplanen valgte uker_ og _Bytt lærer for valgte uker_.
 
 ![uketimer](/img/tp_klasse_uketimer.png)
 
