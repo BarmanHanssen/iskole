@@ -47,7 +47,7 @@ Dersom faget skal ha en ekstra lærer benytter vi på nytt ikonet  ![image](http
 
 Vi ser her at Jan-Erik er fagansvarlig (uthevet navn) og at fagets 140 årstimer skal fordeles (56+84) mellom lærerne. Bare 3 timer er foreløpig passert på timeplanen. For å endre årstimetallet, ressursen og uketimer for lærer: klikk på blyant-ikonet for lærerens navn.
 
-::: tip Faget er timeplanlagt for hele året med Peder som lærer. Men så slutter Peder og Berit skal overta som lærer fra nyttår og ut skoleåret. Gjør da følgende:
+:::tip Faget er timeplanlagt for hele året med Peder som lærer. Men så slutter Peder og Berit skal overta som lærer fra nyttår og ut skoleåret. Gjør da følgende:
 - Legg til Berit som lærer if agwt, men slett ikke Peder selv om han skal slutte. Ressursen til Berit må også tilpasses hennes inntreden i faget
 - Klikk deretter på blyant-ikonet for Peder under kolonnen _Uketimer_. DU får frem en tabell med alle årets uker, et utsnitt av tabellen vises her:
   
