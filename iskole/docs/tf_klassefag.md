@@ -60,9 +60,9 @@ Vi ser her at Jan-Erik er fagansvarlig (uthevet navn) og at fagets 140 årstimer
 Dette tallet er utgangspunktet for timeplanlegger. Timeplanlegger kan justere tallet på ukebasis.
 
 #### Ressurs, årstimer,timeplanlagt
-Dersom faget har flere lærere vises summen av tildelt _Ressurs_, _Årstimer_ og _Timeplanlagt_ for alle lærerne på første linje. Verdien for den enkelte lærer kommer selvsagt bak lærerens navn. 
+Dersom faget har flere lærere vises summen av tildelt _Ressurs_, _Årstimer_ og _Timeplanlagt_ for alle lærerne på første linje. Verdiene for den enkelte lærer kommer selvsagt bak lærerens navn. 
 
-For fag med fagkoder forskjellig fra 999999: Skolen kan dokumentere undevisningstilbud med henvisning til _Årstimer_ gitt på blå bakgrunn. Antall årstimer skal da motsvare fagets omfang. Dersom årstimer på hvit bakgrunn er lavere enn på blå bakgrunn må avviket kunne dokumenteres på annen måte.
+Skolen kan dokumentere undevisningstilbud med henvisning til _Årstimer_ gitt på blå bakgrunn. Antall årstimer skal da motsvare fagets omfang. Dersom årstimer på hvit bakgrunn er lavere enn på blå bakgrunn må avviket kunne dokumenteres på annen måte.
 
 Når timepllanen er ferdiglagt, skal timeplanlagte timer være likt med årstimer.
 
