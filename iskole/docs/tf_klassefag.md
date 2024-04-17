@@ -53,7 +53,7 @@ Vi ser her at Jan-Erik er fagansvarlig (uthevet navn) og at fagets 140 årstimer
   
   ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3a5a8855-c2a6-4573-9806-115a594d3d84)
 
-  Finn Berit, og huk av ukene hvor Berit overtar timene til Peder, og avslutt med _Bytt lærer for valgte uker_. Dersom dette ikke medfører kollisjon for undervisning Berit allerede har, er jobben gjort.
+  Finn Berit, og huk av ukene hvor Berit overtar timene til Peder, og avslutt med _Bytt lærer for valgte uker_. Dersom dette ikke medfører kollisjon for undervisning Berit allerede har, er jobben gjort.  :::
  
 #### Uketimer
 Dette tallet er utgangspunktet for timeplanlegger. Timeplanlegger kan justere tallet på ukebasis.
