@@ -9,7 +9,7 @@ Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https
 :::
 
 Første skjermbilde:
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/861f43c7-6a75-4cce-9a99-0bda9df0dcc6)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/fcee463d-7606-40fc-a596-629d4646758a)
 Fagene henetes fra _Time- og fagfordeling>Gruppefag_. Fag uten listes ut med rød skrift.
 
 
