@@ -15,7 +15,7 @@ Utklipp av høyre hjørne: ![image](https://github.com/BarmanHanssen/iskole/asse
 
 Her ser vi at PAA denne uken skal ha 5 timer, men ingen er timeplanlagt. M-P t skal også ha 5 timer, men ingen timer er timeplanlagt. NA3 a skal ha 4 timer, og her er alle timene timeplanlagt i denne uken, vi ser to timer på tirsdag, og en på onsdag og fredag.
 
-Skjermbildet for timeplanlegging av gruppefag er todelt horisontalt. Øverste del viser timeplanen til fagene hvor det er en tidslinje bortover, og en liste med alle fagene nedover. De timeplanlagte timene vises i tidslinjen med farget bakgrunn. Hvis det er valgt rom for timen, så vises romnummeret som tekst i cellen for timen. Ved å trykke på en faglinje, så vil det valgte fagets timeplan komme til syne i en kalendervisning i skjermbildets nedre del. Man kan endre uker i en nedtrekksliste oppe til høyre.
+De timeplanlagte timene vises med farget bakgrunn. Hvis det er valgt rom for timen, så vises romnummeret som tekst i cellen for timen. Ved å trykke på en faglinje, så vil det valgte fagets timeplan komme til syne i en kalendervisning i skjermbildets nedre del. Man kan endre uker i en nedtrekksliste oppe til høyre.
 
 Utklippet av skjermbildet under viser alle gruppefagene og vi har valgt første skoleuke. Timeplanen er markert for fag som alt er timeplanlagt. 
 
