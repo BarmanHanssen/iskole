@@ -8,6 +8,12 @@ sidebar_label: Grupper
 Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/timeplan_blokknr_gruppefag_old).
 :::
 
+Første skjermbilde:
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/861f43c7-6a75-4cce-9a99-0bda9df0dcc6)
+Fagene henetes fra _Time- og fagfordeling>Gruppefag_. Fag uten listes ut med rød skrift.
+
+
+
 Skjermbildet for timeplanlegging av gruppefag er todelt horisontalt. Øverste del viser timeplanen til fagene hvor det er en tidslinje bortover, og en liste med alle fagene nedover. De timeplanlagte timene vises i tidslinjen med farget bakgrunn. Hvis det er valgt rom for timen, så vises romnummeret som tekst i cellen for timen. Ved å trykke på en faglinje, så vil det valgte fagets timeplan komme til syne i en kalendervisning i skjermbildets nedre del. Man kan endre uker i en nedtrekksliste oppe til høyre.
 
 Utklippet av skjermbildet under viser alle gruppefagene og vi har valgt første skoleuke. Timeplanen er markert for fag som alt er timeplanlagt. 
