@@ -18,7 +18,7 @@ Timeplanen for gruppefag bør ikke kollidere med timeplanen for klassefagene for
 iSkole vil vise og varsle om eventuelle kollisjoner. Det er mulig å tillate kollisjoner for elever.
 :::
 
-For å raskere å kunne timeplanlegge gruppefagene, tar vi utgangspunkt i at flere grupper skal undervises parallelt. Vi klassifiserer grupper som undervises parallelt med en blokkid. Og når eksempelvis fagene har fem uketimer felles tilkjennegis dette med fem blokknr.
+Dersom flere grupper skal undervises parallelt vil timeplanlegging gå raskere dersom grupper som skal timeplanelegges parallelt gis sammen blokkid. Dersom eksempelvis fagene med blokkid 1 har fire uketimer felles tilkjennegis dette med å knytte fire blokknr til blokkid 1.
 
 Gruppefag med like blokknumre skal undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit.
 
