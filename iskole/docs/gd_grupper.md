@@ -3,10 +3,10 @@ id: gd_grupper
 title: Grupper
 sidebar_label: Grupper
 ---
-Her opprettes grupper i valgfagene som planlegges igangsatt i skoleåret. 
+Alle aktuelle gruppefag skolen har til disposisjon er registrert fra menyvalget _Fag>Gruppefag_. Utvalget av gruppefag som skal tilbys årets kull av elever skal nå fastslås.
 Alle fag fra menyvalget _Fag>Gruppefag_ vises her, og er i utgangspunktet valgbare. 
 
-Men for at et Fag skal bli valgbart må det gis et gruppenr, se kolonnen 
+For at et fag skal bli valgbart må det gis et gruppenr, se kolonnen 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6b69ae31-53bd-489e-ad7a-0e895f064bd5)
 .  Bare fag med gruppenummer vises i _Time- og fagfordeling>Gruppefag_, og kan velges av elevene.
 
