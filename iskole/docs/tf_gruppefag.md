@@ -11,7 +11,7 @@ Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https
 
 ## Generelt
 Her registreres faglærerne i valgfagene for dette skoleåret. 
-Justering av hvilke grupper som skal tilbys gjøres fra _Grunnlagsdata>Grupper_.
+Hvilke grupper som tilbys er satt opp fra _Grunnlagsdata>Grupper_.
 
 ## Kolonnene i tabellen for gruppefagene
 Strukturen er den samme som for klassefagene. Vi henviser derfor til dokumentasjon for klassefagene. 
