@@ -1,4 +1,4 @@
----
+m---
 id: timeplan_definer_blokknr
 title: Blokk
 sidebar_label: Blokk
@@ -8,17 +8,17 @@ sidebar_label: Blokk
 Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/timeplan_definer_blokknr_old). 
 :::
 
-Når undervisning i et fag har elever fra ulike klasser anbefales det å dele undervisningen i gruppefag. Også ved oppdeling av én klasse i flere grupper i samme fag, anbefales det å benytte gruppefag.
+Når undervisning i et fag har elever fra ulike klasser skal undervisningen i slike fag foregå i gruppefag. Også elevene i én klasse dele i flere grupper i et fag, skal undervisningen foregå i gruppefag.
 
 Hvis skolen ikke har gruppefag vil all undervisning i fag foregå i klasser. En elev kan bare tilhøre en klasse. All undervisning foregår i klassen gjennom klassens klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
 
-Timeplanen for gruppefag bør ikke kollidere med timeplanen for klassefagene for elever som har både gruppe- og klassefag. Og siden et gruppefag kan ha elever fra flere klasser, kanskje fra mer enn et årstrinn, så kan det være utfordrende å legge skolens timeplanen i en 30 timers uke.
+Timeplanen for gruppefag skal ikke kollidere med timeplanen for klassefagene for elever som har både gruppe- og klassefag. Og siden et gruppefag kan ha elever fra flere klasser, kanskje fra mer enn et årstrinn, så kan det være utfordrende å legge skolens timeplanen innenfor en 30 timers uke.
 
 :::info Kollisjoner
 iSkole vil vise og varsle om eventuelle kollisjoner. Det er mulig å tillate kollisjoner for elever.
 :::
 
-Dersom flere grupper skal undervises parallelt vil timeplanlegging gå raskere dersom grupper som skal timeplanelegges parallelt gis sammen blokkid. Dersom eksempelvis fagene med blokkid 1 har fire uketimer felles tilkjennegis dette med å knytte fire blokknr til blokkid 1.
+Dersom flere grupper skal undervises parallelt vil timeplanlegging gå raskere dersom grupper som skal timeplanelegges parallelt gis sammen blokkid. Dersom eksempelvis fagene med blokkid 1 har fem uketimer felles tilkjennegis dette med å knytte fem blokknr til blokkid 1. Et blokknummer kan bare brukes til til en bestemt blokkid. Blokknummer forteller i utgangspunktet ikke når timen skal avholdes, men to blokknummer skal ikke kunne overlappe hverandre.
 
 Gruppefag med like blokknumre skal undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit.
 
