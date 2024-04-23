@@ -21,7 +21,7 @@ Grupper med likelydende blokkid skal ha likelydende timeplaner. Det betyr at en 
 
 Dersom man sorterer på Blokkid (klikk på ikonet) vil fag med likt blokkid komme samlet.
 
-Vi henviser forøvrig til dokumentasjon for klassefagene. 
+Vi henviser forøvrig til dokumentasjonen for klassefagene. 
 
 
 
