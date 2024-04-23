@@ -21,7 +21,7 @@ Gruppe som alt er registrert har et rødfarget søppel-bøtte-ikon. Det indikere
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/30ad1c9b-fbf7-4c64-8126-5ea84f28b547)
 
-Gruppenr må gis en verdi mens blokkid kan stå blank.
+Gruppenr må gis en verdi mens blokkid kan stå blank. Verdi for blokkid kan registreres senere.
 
 Fag med samme blokkid ( gitt som et tall) skal undervises parallelt, uten at timeplanen for fagene på nåværende tidspunkt er bestemt. Fra _Time- og fagfordeling>Gruppefag_ kan en lærer følgelig ikke tildeles to fag med samme blokkid. Og en elev kan heller ikke tildeles to gruppefag med samme blokkid. Blokkid kan settes/endres fra _Time- og fagfordeling>Grupper_, og fra _Timeplan>Grupper_.
 
