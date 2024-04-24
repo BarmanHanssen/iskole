@@ -8,7 +8,7 @@ sidebar_label: Blokk
 Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/timeplan_definer_blokknr_old). 
 :::
 
-Når undervisning i et fag har elever fra ulike klasser skal undervisningen i slike fag foregå i gruppefag. Også elevene i én klasse dele i flere grupper i et fag, skal undervisningen foregå i gruppefag.
+Når et fag kan ha elever fra ulike klasser, skal faget klassifiseres som gruppefag. Også derom elevene i én klasse deles i flere grupper i et fag, skal faget klassifiseres som gruppefag.
 
 Hvis skolen ikke har gruppefag vil all undervisning i fag foregå i klasser. En elev kan bare tilhøre en klasse. All undervisning foregår i klassen gjennom klassens klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
 
