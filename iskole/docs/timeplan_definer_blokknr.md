@@ -15,14 +15,14 @@ Hvis skolen ikke har gruppefag vil all undervisning i fag foregå i klasser. En 
 Timeplanen for gruppefag skal ikke kollidere med timeplanen for klassefagene for elever som har både gruppe- og klassefag. Og siden et gruppefag kan ha elever fra flere klasser, kanskje fra mer enn et årstrinn, så kan det være utfordrende å legge skolens timeplanen innenfor en 30 timers uke.
 
 :::info Kollisjoner
-iSkole vil vise og varsle om eventuelle kollisjoner. Det er mulig å tillate kollisjoner for elever.
+iSkole vil vise og varsle om eventuelle kollisjoner på timeplanen. Det er mulig å tillate kollisjoner for elever.
 :::
 
 Dersom flere grupper skal undervises parallelt vil timeplanlegging gå raskere dersom grupper som skal timeplanelegges parallelt gis sammen blokkid. Dersom eksempelvis fagene med blokkid 1 har fem uketimer felles tilkjennegis dette med å knytte fem blokknr til blokkid 1. Et blokknummer kan bare brukes til til en bestemt blokkid. Blokknummer forteller i utgangspunktet ikke når timen skal avholdes, men to blokknummer skal ikke kunne overlappe hverandre.
 
 Gruppefag med like blokknumre skal undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit.
 
-Vi ser nærmere på hvordan vi kan planlegge timeplanen for gruppefagene allerede før gruppene og elevene er klargjorte.
+Vi ser nærmere på hvordan vi kan planlegge timeplanen for gruppefagene allerede før lærere og elever er registrerrt.
 
 ### Blokkskjema
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a668553f-4000-401c-b3d9-75c7d8320a66)
