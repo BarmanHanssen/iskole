@@ -15,13 +15,13 @@ Her registreres faglærerne i valgfagene for dette skoleåret.
 Hvilke grupper som tilbys er satt opp fra _Grunnlagsdata>Grupper_.
 
 ## Kolonnene i tabellen for gruppefagene
-Strukturen er den samme som for klassefagene. Men gruppefagene har en ekstra kolonne, _Blokkid_. Blokkid kan være regitrert fra _Grunnlagsdata>Grupper_, eller legges inn nå.
+Strukturen er den samme som for klassefagene. Men gruppefagene har en ekstra kolonne, _Blokkid_. Blokkid kan være registrert fra _Grunnlagsdata>Grupper_, eller legges inn nå.
 
-Grupper med likelydende blokkid skal ha likelydende timeplaner. Det betyr at en faglærer ikke kan ha to grupper med samme blokkid, og tilsvarende for en elev. Timeplanlegger vil raskere kunne få på plass timeplanen for gruppene dersom blokkid blir tatt i bruk.
+Grupper med likelydende blokkid skal ha likelydende timeplan. Det betyr at en faglærer ikke kan ha to grupper med samme blokkid, og tilsvarende for en elev. Dersom skolen på har planene klare for hvilke fag som skal timeplanlegges parallelt,  allerede før faglærer og elever er  registrert i gruppefag, er blokkid en måte å stadfeste dette på. Blokkid kan altså settes  før en har bestemet hvilke tider denne undervisningen skal finne sted.  Med blokkid på plass kan en hindre feilregistrering av faglærer, og elevenes valg av gruppefag da det ikke tillate at en faglærer får to gruppe med samme blokkid, og tilsvarende for elevesn valg av gruppefag. Timeplanlegger vil også raskere kunne få på plass timeplanen for gruppene dersom blokkid er regsistrert.
 
-Dersom man sorterer på Blokkid (klikk på ikonet) vil fag med likt blokkid komme samlet.
+Dersom man sorterer på kolonnen _Blokkid_ (klikk på ikonet) vil fag med likt blokkid komme etter hverandre.
 
-Vi henviser forøvrig til dokumentasjonen for klassefagene. 
+For de øvrige kolonnen henvises det til dokumentasjonen for _Klassefagene_. 
 
 
 
