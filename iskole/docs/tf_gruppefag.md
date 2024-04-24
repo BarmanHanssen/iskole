@@ -1,4 +1,3 @@
-
 ---
 id: tf_gruppefag
 title: Gruppefag
