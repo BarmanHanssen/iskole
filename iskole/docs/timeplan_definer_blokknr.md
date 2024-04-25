@@ -12,6 +12,10 @@ Når et fag kan ha elever fra ulike klasser, skal faget klassifiseres som gruppe
 
 Hvis skolen ikke har gruppefag vil all undervisning i fag foregå i klasser. En elev kan bare tilhøre en klasse. All undervisning foregår i klassen gjennom klassens klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
 
+:::important 
+Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til) blokkid. Men timeplanleggingen av fag med blokkid kan gå vesentlig raskere ved at alle timene for fagt kan legges under et.
+:::
+
 Timeplanen for gruppefag skal ikke kollidere med timeplanen for klassefagene for elever som har både gruppe- og klassefag. Og siden et gruppefag kan ha elever fra flere klasser, kanskje fra mer enn et årstrinn, så kan det være utfordrende å legge skolens timeplanen innenfor en 30 timers uke.
 
 :::info Kollisjoner
