@@ -38,4 +38,4 @@ Fagene er de samme som en finner under menyvalget _Fag>Gruppefag_.
 
 _Elever_ viser antallet elever som er påmeldt i faget. Når gruppen opprettes fra dette menyvalget, er tallet selvsagt null.
 
-_Gruppenr:Blokkid_: Dersom blokkid er innført vises kombinasjonen gruppenr:blokkid. Dersom flere grupper i faget kommer de i rekkefølge.
+_Gruppenr:Blokkid_: Dersom blokkid er innført vises kombinasjonen gruppenr:blokkid. Dersom flere grupper i faget kommer de i rekkefølge. Sorter på kolonnen, så kommer fag som skal timeplanelegges parallelt etter hverandre.
