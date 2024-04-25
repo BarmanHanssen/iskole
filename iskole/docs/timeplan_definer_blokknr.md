@@ -22,12 +22,11 @@ Timeplanen for gruppefag skal ikke kollidere med timeplanen for klassefagene for
 iSkole vil vise og varsle om eventuelle kollisjoner på timeplanen. Det er mulig å tillate kollisjoner for elever.
 :::
 
-Dersom flere grupper skal undervises parallelt vil timeplanlegging gå raskere dersom grupper som skal timeplanelegges parallelt gis sammen blokkid. Blokkid registreres fra _Grunnlagsdata>Grupper_.
+Blokkid registreres fra _Grunnlagsdata>Grupper_.
 
-Vi går nå et skritt videre med fag som er gitt blokkid. Nå spesifiseres hvor mange timer som fagene med gitt blokkid skal ha. Dersom eksempelvis fagene med blokkid 1 har fem uketimer felles tilkjennegis dette med å knytte fem blokknr til blokkid 1. Dette kan gjøres uten å oppgi når timene skal avholdes
+Vi går nå et skritt videre med fag som er gitt/skal ha blokkid. Først spesifiseres hvor mange timer som fagene med gitt blokkid skal kunne legge beslag på. Et blokknummer kan bare brukes til til en bestemt blokkid. Anta at vi eksempelvis vil benytte blokkid 1 til 4 og hvert fag skal ha fem uketimer. Da trenger vi 4*5=20 blokknummer siden hvert blokknummer representerer en undervisningstime.
 
-
-Et blokknummer kan bare brukes til til en bestemt blokkid. Blokknummer forteller i utgangspunktet ikke når timen skal avholdes, men to blokknummer skal ikke kunne overlappe hverandre.
+Blokknummer forteller i utgangspunktet ikke når timen skal avholdes, men to blokknummer skal ikke kunne overlappe hverandre.
 
 Gruppefag med like blokknumre skal undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit.
 
@@ -36,7 +35,8 @@ Vi ser nærmere på hvordan vi kan planlegge timeplanen for gruppefagene allered
 ### Blokkskjema
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/55e24d3b-8eb9-4a09-9e68-3fa2f5efd265)
 
-Eksempelvis kan skolen bestemme at maksimalt 20 uketimer kan benyttes for timeplanlegging av gruppefagene. Med blokkskjema avsetter vi plass på timeplanen for disse 20 timene hvor grupppefagene kan plasseres. Se på skjermbildet. Blokkid 1 er allerede plassert med fem timer, og timeplanen for de fem timene alt også på plass. For å plassere blokknr 10, klikk først på raden til blokknr 10, og deretter på grønnfarget time. Timen skifter farge og markeres med tallet 10. For å slette et allerede utplassert blokknr klikkes det på timen med gitt blokknr i skjemaet til høyre. Tildeling av _Blokkid_ skjer fra _Gruppering av timer til valg_.
+Eksempelvis kan skolen bestemme at maksimalt 20 uketimer kan benyttes for timeplanlegging av gruppefagene. Da starter vi med å sette _Antall timer til valg (blokknr)_ til 20
+Med blokkskjema avsetter vi plass på timeplanen for disse 20 timene hvor grupppefagene kan plasseres. Se på skjermbildet. Blokkid 1 er allerede plassert med fem timer, og timeplanen for de fem timene alt også på plass. For å plassere blokknr 10, klikk først på raden til blokknr 10, og deretter på grønnfarget time. Timen skifter farge og markeres med tallet 10. For å slette et allerede utplassert blokknr klikkes det på timen med gitt blokknr i skjemaet til høyre. Tildeling av _Blokkid_ skjer fra _Gruppering av timer til valg_.
 
 ### Gruppering av timer til valg
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e845edce-c4e5-4a27-8de8-9ba7f822401a)
