@@ -61,13 +61,6 @@ Nå først kan vi bestemme hvilke blokknummer som det enkelte blokkid skal ha. V
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b2d28044-a5ef-4919-83b2-aa3288d5fc59)
 
-#### Blokkid
-Fagene tildeles blokkid fra _Grunnlagsdata > Grupper_, eller fra fanen _Blokkfag_.   Man kan benytte inntil 10 blokker.
-Fag som skal gå parallelt tildeles samme blokkid. Hvert blokkid har en samling av blokknummer. Antall blokknummer til et blokkid viser hvor mange uketimer faget er tildelt. Dette gjøres for å kunne effektivisere timeplanleggingen av gruppefag (se _Timeplan>Grupper_). 
-
-#### Blokknr
-Hvor timene til de enkelte blokkid-er er tenkt plassert på timeplanen angis med blokknummer. Eneste krav er at et blokknr bare kan være registrert til et blokkid. 
-
 Hvis man ønsker å timeplanlegge fag med blokkid 3 fås følgende skjermbilde:
 ![image](/img/tp_blokknr_gruppering.png)
 Valget er begrenset av timer med blokknr som alt er lagt inn, og som ikke allerede er i bruk av annen blokkid. Hvis vi her hadde valgt blokkid 1 eller 2 ville vi kunnet endre på oppsettet som alt er registrert.
