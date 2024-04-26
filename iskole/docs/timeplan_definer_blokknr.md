@@ -54,8 +54,11 @@ Etter å ha passert de fire planlagte timene som nevnt innledningsvis fås dette
 Vi kan nå gå videre for å knytte disse blokknr til blokkid 1. Velger da  _Gruppering av timer til valg_:
 
 ### Gruppering av timer til valg
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e845edce-c4e5-4a27-8de8-9ba7f822401a)
-Her redigeres hvilke blokknummer som det enkelte blokkid skal tilhøre. Dette viser inndirekte hvordan vi planlegger timeplanen for gruppefagene som har blokkid.
+
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b528a293-4842-4399-9867-f019f3ea0533)
+
+Nå først kan vi bestemme hvilke blokknummer som det enkelte blokkid skal ha. Vi klikker på blyant-ikonet og får dette skjermbilde:
+
 
 #### Blokkid
 Fagene tildeles blokkid fra _Grunnlagsdata > Grupper_, eller fra fanen _Blokkfag_.   Man kan benytte inntil 10 blokker.
