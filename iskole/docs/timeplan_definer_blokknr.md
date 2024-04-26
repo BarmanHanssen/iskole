@@ -35,7 +35,7 @@ Gruppefag med like blokknumre skal altså undervises parallelt. Med utgangspunkt
 ### Blokkskjema
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/28adb64a-612f-4396-b22d-94547fc60e61)
 
-Eksempelvis skal skolen avsette 20 uketimer for timeplanlegging av gruppefagene som har fått blokkid. Da starter vi med å sette _Antall timer til valg (blokknr)_ til 20. Vi avsetter nå plass på timeplanen for disse 20 timene. Se på skjermbildet. Blokkid 1 er allerede plassert med fem timer, og timeplanen for de fem timene alt også på plass. For å plassere blokknr 10, klikk først på raden til blokknr 10, og deretter på grønnfarget time. Timen skifter farge og markeres med tallet 10. For å slette et allerede utplassert blokknr klikkes det på timen med gitt blokknr i skjemaet til høyre. Tildeling av _Blokkid_ skjer fra _Gruppering av timer til valg_.
+Eksempelvis skal skolen avsette 20 uketimer for timeplanlegging av gruppefagene som har fått blokkid. Da starter vi med å sette _Antall timer til valg (blokknr)_ til 20. Vi avsetter nå plass på timeplanen for disse 20 timene. Se på skjermbildet. Blokkid 1 er allerede plassert med fem timer, og timeplanen for de fem timene alt også på plass. For å plassere blokknr 10, klikk først på raden til blokknr 10, og deretter på grønnfarget time. Timen skifter farge og markeres med tallet 10. For å slette et allerede utplassert blokknr klikkes det på timen med gitt blokknr i skjemaet til høyre. 
 
 ### Gruppering av timer til valg
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e845edce-c4e5-4a27-8de8-9ba7f822401a)
