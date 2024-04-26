@@ -61,6 +61,8 @@ Nå først kan vi bestemme hvilke blokknummer som det enkelte blokkid skal ha. V
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b2d28044-a5ef-4919-83b2-aa3288d5fc59)
 
+Vår plan var at disse fem timene skulle tildeles blokkid=1. Vi benytter derfor pil-ikonet under kolonnen _Legg til_ for å flytte over alle fem blokknr.
+
 
 #### Trinn
 Dersom elevene gis tilgang til selv å velge gruppefag, vil kombinasjonen blokkid og trinn regulere hvilke fag som er valgbare. En elev vil bare kunne velg et fag fra fag med lik blokkid, forutsatt at eleven går på angitt klassetrinn. Men timeplanlegger er i utgangspunktet ikke bundet av dette oppsettet!
