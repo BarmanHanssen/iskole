@@ -38,7 +38,7 @@ Gruppefag med like blokknumre skal altså undervises parallelt. Med utgangspunkt
 Eksempelvis skal skolen avsette 20 uketimer for timeplanlegging av gruppefagene som har fått blokkid. Da starter vi med å sette _Antall timer til valg (blokknr)_ til 20. Vi avsetter nå plass på timeplanen for disse 20 timene. Se på skjermbildet. 
 
 Eksempel:
-Anta at vi allerede har besluttet at fagene med blokkid=1 skal timeplanlegges med fem uketimer, og at vi ønsker å plassere en dobbel-timer på mandag og onsdag og en time på fredag. Da plasserer vi dobbeltimen på mandag slik:
+Anta at vi allerede har besluttet at fagene med blokkid=1 skal timeplanlegges med fem uketimer, og at vi ønsker å plassere en dobbel-timer på mandag og onsdag og en time på fredag. Da starter vi eksempelvis slik:
 - Klikker på _Blokknr_ 1 (Tallet en markeres og linjen farges grønn)
 - Klikk på timen mandag 12-13:00
 
