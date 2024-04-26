@@ -22,15 +22,15 @@ Timeplanen for gruppefag skal ikke kollidere med timeplanen for klassefagene for
 iSkole vil vise og varsle om eventuelle kollisjoner på timeplanen. Det er mulig å tillate kollisjoner for elever.
 :::
 
-Blokkid registreres fra _Grunnlagsdata>Grupper_.
+Fagets blokkid registreres fra _Grunnlagsdata>Grupper_.
 
-Vi går nå et skritt videre med fag som er gitt/skal ha blokkid. Først spesifiseres hvor mange timer som fagene med gitt blokkid skal kunne legge beslag på. Et blokknummer kan bare brukes til til en bestemt blokkid. Anta at vi eksempelvis vil benytte blokkid 1 til 4 og hvert fag skal ha fem uketimer. Da trenger vi 4*5=20 blokknummer siden hvert blokknummer representerer en undervisningstime.
+Vi går nå et skritt videre med fag som er gitt/skal ha blokkid. Først spesifiseres hvor mange timer som fagene med gitt blokkid skal kunne legge beslag på. Vi benevner hver time med et blokknummer, og vi skal nå spesifisere hvor disse timene tenkes plassert på timeplanen. Selve timeplanleggingen av gruppene gjøres fra menyvalget _Grupper_, det er der en henter ut gevinsten av de forberedelsene vi gjør her.
 
-Blokknummer forteller i utgangspunktet ikke når timen skal avholdes, men to blokknummer skal ikke kunne overlappe hverandre.
+Et blokknummer kan bare brukes til til en bestemt blokkid. Anta at vi eksempelvis benytter tilsammen 4 blokkid-er og at hvert av fagene skal ha fem uketimer. Da trenger vi 4*5=20 blokknummer siden hvert blokknummer representerer en undervisningstime.
 
-Gruppefag med like blokknumre skal undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit.
+Vi skal nå fastsette hvilken time på timeplanen hvert blokknummer representerer.
 
-Vi ser nærmere på hvordan vi kan planlegge timeplanen for gruppefagene allerede før lærere og elever er registrerrt.
+Gruppefag med like blokknumre skal altså undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit når vi fortsetter med  _Timeplan>Grupper_.
 
 ### Blokkskjema
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/28adb64a-612f-4396-b22d-94547fc60e61)
