@@ -59,6 +59,7 @@ Vi kan nå gå videre for å knytte disse blokknr til blokkid 1. Velger da  _Gru
 
 Nå først kan vi bestemme hvilke blokknummer som det enkelte blokkid skal ha. Vi klikker på blyant-ikonet og får dette skjermbilde:
 
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/80e60a35-082f-4a96-805c-6c5b2a812928)
 
 #### Blokkid
 Fagene tildeles blokkid fra _Grunnlagsdata > Grupper_, eller fra fanen _Blokkfag_.   Man kan benytte inntil 10 blokker.
