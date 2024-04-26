@@ -30,7 +30,7 @@ Et blokknummer kan bare brukes til til en bestemt blokkid. Anta at vi eksempelvi
 
 Vi skal nå fastsette hvilken time på timeplanen hvert blokknummer representerer.
 
-Gruppefag med like blokknumre skal altså undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit når vi fortsetter med  _Timeplan>Grupper_.
+Gruppefag med like blokknumre skal altså undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit når vi kommer til  _Timeplan>Grupper_.
 
 ### Blokkskjema
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/28adb64a-612f-4396-b22d-94547fc60e61)
