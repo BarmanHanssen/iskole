@@ -42,6 +42,7 @@ Anta at vi allerede har besluttet at fagene med blokkid=1 skal timeplanlegges me
 - Klikk på timen mandag 12-13:00
 
 Skjermbildet er da endret:
+
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/6dddf0a7-d1f1-42c1-b759-38a134d59e07)
 
   
