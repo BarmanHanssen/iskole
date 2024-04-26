@@ -51,7 +51,7 @@ Etter å ha passert de fire planlagte timene som nevnt innledningsvis fås dette
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/75c759e7-72c8-4d12-8c26-e8371d0bdb12)
 
-Vi kan nå gå videre for å knytte disse blokknr til blokkid 1. Velger da  _Gruppering av timer til valg_
+Vi kan nå gå videre for å knytte disse blokknr til blokkid 1. Velger da  _Gruppering av timer til valg_:
 
 ### Gruppering av timer til valg
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e845edce-c4e5-4a27-8de8-9ba7f822401a)
