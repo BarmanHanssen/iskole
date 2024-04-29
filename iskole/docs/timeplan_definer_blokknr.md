@@ -39,8 +39,8 @@ Eksempelvis skal skolen avsette 20 uketimer for timeplanlegging av gruppefagene 
 
 Eksempel:
 Anta at vi allerede har besluttet at fagene med blokkid=1 skal timeplanlegges med fem uketimer, og at vi ønsker å plassere en dobbel-timer på mandag og onsdag og en time på fredag. Da starter vi eksempelvis slik:
-- Klikker på _Blokknr_ 1 (Tallet en markeres og linjen farges grønn)
-- Klikk på timen mandag 12:15-13:00
+- Klikker på _Blokknr_ 1 
+- Klikk på timen mandag 12:15-13:00 (Da tilføyes tallet 1 på timen)
 
 Skjermbildet er da endret:
 
