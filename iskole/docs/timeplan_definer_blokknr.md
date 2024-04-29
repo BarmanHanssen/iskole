@@ -68,8 +68,8 @@ Vår plan var at disse fem timene skulle tildeles blokkid=1. Vi benytter derfor 
 Dersom elevene gis tilgang til selv å velge gruppefag, vil kombinasjonen blokkid og trinn regulere hvilke fag som er valgbare. En elev vil bare kunne velg et fag fra fag med lik blokkid, forutsatt at eleven går på angitt klassetrinn. Men timeplanlegger er i utgangspunktet ikke bundet av dette oppsettet!
 
 ### Blokkfag
-Her vises alle fag som alt har fått tildelt blokkid. Vanligvis legges blokkid inn på fagene allerede når årets oppsett av gruppefag opprettes< fra _Grunnlagsdata>Grupper_.
-Her kan en legge til endre oppsettet av hvilke fag som skal grupperes med bloklkid. 
+Her vises alle fag som alt har fått tildelt blokkid. Vanligvis legges blokkid inn på fagene allerede når årets oppsett av gruppefag opprettes fra _Grunnlagsdata>Grupper_.
+Her kan en legge til/endre oppsettet av hvilke fag som skal grupperes med bloklkid. 
 
 Velges _Blokkfag_ og _+ Legg blokkid til fag_ fås dette skjermbilde:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/98616fe9-c9d5-4dcd-826a-72565749569f)
