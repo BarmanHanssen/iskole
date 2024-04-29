@@ -47,7 +47,7 @@ Skjermbildet er da endret:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/6dddf0a7-d1f1-42c1-b759-38a134d59e07)
 
 Tilsvarende legges de øvrige fire timene inn. Merk at disse timene bare er markert md _Blokknr_, ikke med blokkid. 
-Etter å ha passert de fire planlagte timene som nevnt innledningsvis fås dette skjermbilde:
+Etter å ha plassert de fire planlagte timene som nevnt innledningsvis fås dette skjermbilde:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/75c759e7-72c8-4d12-8c26-e8371d0bdb12)
 
