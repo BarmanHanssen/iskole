@@ -14,7 +14,7 @@ Det anbefales å gjøre timeplanen for hele skoleåret ferdig så tidlig som mul
 
 ### Kopier timeplanen...
 :::danger Advarsel
-Kopieringen tar med timeplanen for alle klasser og alle gruppefag for skolen fra valgt uke. Alt som er timeplanlagt eller reservert i ukene det kopieres til vil bli slettet og erstattet med timeplanen fra valgt uke. Vær derfor forsiktig så du ikke uforvarende sletter timeplanen.
+Kopieringen tar med timeplanen for alle klasser og alle gruppefag for skolen fra valgt uke. Alt som er timeplanlagt eller reservert i ukene det kopieres til vil bli slettet og erstattet med timeplanen fra valgt uke.
 :::
 
 Velg fra tabellen uken som skal kopieres. Deretter hvilke uker som skal få identisk timeplan. Oppdateringen innebærer at timeplanen først slettes i disse ukene og deretter erstattes med timeplanen fra den valgte uken.
