@@ -3,8 +3,8 @@ id: timeplan_kopiering
 title: Kopiering
 sidebar_label: Kopiering
 ---
-Timeplanen for en bestemt uke er komplett når alle timer er timeplanlagt for lærere i alle klasse- og gruppefag.
-Dersom timeplanen for denne uken skal gjelde for flere uker fremover i tid, kan den enkelt videreføres ved kopiering. Kopiering kan også gjennomføres selv om ikke alle fag er timplanlagt.
+Timeplanen for en bestemt uke er komplett når alle klasse- og gruppefag er timeplanlagt, og at faglærerne i fagene er tatt med.
+Dersom timeplanen for denne uken skal gjelde for flere uker fremover i tid, kan den enkelt videreføres ved kopiering. Kopiering kan gjennomføres selv om ikke alle fag er timplanlagt.
 
 Timeplanen kan selvsagt endres på et senere tidspunkt.
 
