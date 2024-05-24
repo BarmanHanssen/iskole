@@ -9,7 +9,10 @@ Alle rapporter kan tas ut i pdf-format, og noen utvalgte også som regneark. Reg
 Rapporten viser dager og timer hvor klassene er delt i grupper. Tallet i parentes viser hvor mange elever som er involvert de forskjellige tidene.
 
 ## Matrise gruppefag
-Når eleven har valgt gruppefag fås her en kompakt overesikt som viser hvor mange som har valgt det enkelte gruppefag. Antall elever i gruppefagene vises i diagonalen. 
+Når eleven har valgt gruppefag fås her en kompakt og komplett overesikt hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt.
+
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/8827f465-749d-4afe-9983-83d15339e6f8)
+
 
 ## Sum undervisning
 
