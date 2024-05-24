@@ -11,7 +11,12 @@ Rapporten viser dager og timer hvor klassene er delt i grupper. Tallet i parente
 ## Matrise gruppefag
 Når eleven har valgt gruppefag fås her en kompakt og komplett overesikt hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt.
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/8827f465-749d-4afe-9983-83d15339e6f8)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/3db20eb8-4691-4b5e-b850-996e4e69be96)
+
+
+Se utklippet hvor vi har begrenset oss til elever fra ST1 (studiespesialisering, trinn 1).
+22 elever har valgt ST1:MAT. Blant disse 22 elevene ses at 11 også har ST1:SPB, 6 ST1:TY1 og 5 ST1:TY2.
+Ved å plassere musepekeren over et tall (her 11,6 eller 5) fås navnene på elevene som har kombinasjonen (her av de 22 med ST1:MAT).
 
 
 ## Sum undervisning
