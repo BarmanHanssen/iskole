@@ -26,8 +26,13 @@ For å registrere en ny bok gjøres følgende:
 oppslag mot Alma biblioteksystem hos Bibsys (https://www.bibsys.no/produktertjenester/tjenester/bibsys-biblioteksystem).
 3. Hvis boken finnes i Alma, fylles informasjonen om boken automatisk inn. Om ønskelig kan teksten endres. Hvis boken ikke finnes i Alma, må feltene fylles inn manuelt.
 4. Oppgi antall eksemplarer av boken og trykk på knappen Legg til.
-5. Skriv ut merkelapper og klistre dem på bøkene. Se avsnitt Utskrift
-av merkelapper bakerst i dokumentet.
+5. Skriv ut merkelapper og klistre dem på bøkene. Se avsnitt Utskrift av merkelapper lenger ned i teksten.
+
+![bilde](/img/utl_bibliotek_bokregister_legg_til_boktittel_1.png)
+
+Etter at data er lest fra Alma gjenstår det å fylle inn antall eksamplarer man ønsker å legge inn i 
+
+![bilde](/img/utl_bibliotek_bokregister_legg_til_boktittel_2.png)
 
 :::Merk
 Hvis det skal legges til flere eksemplarer av boken senere: Klikk «Legg til» og søk på ISBN. Informasjonen om boken hentes da fra iSkole og ikke Alma. Oppgi antall eksemplarer som skal legges til.
@@ -40,17 +45,17 @@ for å finne boktittelen man er ute etter.
 2. Skann ISBN-nummeret eller skriv inn nummeret og trykk på entertasten.
 
 #### Endre bokinformasjon
-1. Finn boken i tabellen og trykk på knappen <<Endre>>.
+1. Finn boken i tabellen og trykk på knappen «Endre».
 2. Et nytt vindu vises og lar deg endre bokinformasjonen.
 
 #### Utskrift av merkelapper
 Det er to måter å produsere merkelapper på, enten utskrift på en vanlig skriver som har ark med klistrelapper i format 3x8, eller utskrift på en etikettskriver.
 
 ##### Utskrift på en vanlig skriver
-Velg boken i den øverste tabellen og trykk på knappen <<Merkelapper (3x8)>>. Sørg for å ha A4-ark med klistrelapper i skriveren. Utskriften inneholder merkelappene for alle de registrerte eksemplarene av boken.
+Velg boken i den øverste tabellen og trykk på knappen «Merkelapper (3x8)». Sørg for å ha A4-ark med klistrelapper i skriveren. Utskriften inneholder merkelappene for alle de registrerte eksemplarene av boken.
 
 ##### Utskrift på en etikettskriver
-Man kan velge om man vil skrive ut alle klistrelappene, eller bare et utvalg. For å skrive ut alle velger man boken i tabellen _Titler_ og trykker på knappen <<Etikett 29x90mm>>. Ønsker man kun å skrive ut én, så kan man velge hvilket eksemplar man vil skrive ut for ved å markere det i tabellen _Eksemplarer_ og så trykke på knappen <<Etikett 29x90mm>> over tabellen. Man må huske å velge etikettskriveren, og hvis den ikke er stillt inn på 29x90mm, må man gjøre det før man sender etikettene til skriveren. Det holder vanligvis å gjøre denne innstillingen én gang. 
+Man kan velge om man vil skrive ut alle klistrelappene, eller bare et utvalg. For å skrive ut alle velger man boken i tabellen _Titler_ og trykker på knappen «Etikett 29x90mm». Ønsker man kun å skrive ut én, så kan man velge hvilket eksemplar man vil skrive ut for ved å markere det i tabellen _Eksemplarer_ og så trykke på knappen «Etikett 29x90mm» over tabellen. Man må huske å velge etikettskriveren, og hvis den ikke er stillt inn på 29x90mm, må man gjøre det før man sender etikettene til skriveren. Det holder vanligvis å gjøre denne innstillingen én gang. 
 
 /* Skjermbildet vist i figur 3 på neste side og 4 på neste side viser innstillingene for en vanlig etikettskriver. */
 
@@ -97,4 +102,4 @@ I arkfanen _Purring_ personer som har lånt bøker og ikke levert dem tilbake ti
 
 /*Se figur 9 for oversikt over bøker og låntagere som ikke har levert innen fristen. */
 
-Man kan sende en påminnelse ved å krysse av for den boken man vil sende ut påminnelse for, og så trykke på knappen <<Send påminnelse til valgte...>>. Man får da vist en dialog og hvis skolen har bestemt at man også skal kunne sende påminnelser via sms, så vil det komme til syne en avkrysningsboks for det.
+Man kan sende en påminnelse ved å krysse av for den boken man vil sende ut påminnelse for, og så trykke på knappen «Send påminnelse til valgte...». Man får da vist en dialog og hvis skolen har bestemt at man også skal kunne sende påminnelser via sms, så vil det komme til syne en avkrysningsboks for det.
