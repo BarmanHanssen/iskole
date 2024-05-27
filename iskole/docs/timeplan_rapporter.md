@@ -32,7 +32,11 @@ Rapporten viser timer til undervisning i følge læreplaner, og hvor mange timer
 
 
 Se skjermbildet ovenfor. Her står gruppen ST1:FR1 1 uten elever og uten timeplan. Gruppen er tydeligvis ikke igangsatt, og burde vært fjernet fra Grunnlagsdata>Grupper!
-_Omfanget_ er gitt via fagkoden, _Timer_ er sum timeplangte timer, _Avlyst/Fradrag_ er korrigeringer faglærer gjør i løpet av skoleåret. _Sum_ betår da av  timer minus (avlyst+fradrag).
+
+_Omfanget_ er gitt via fagkoden.
+_Timer_ er sum timeplangte timer.
+_Avlyst/Fradrag_ er korrigeringer faglærer gjør i løpet av skoleåret. 
+_Sum_ betår da av  timer minus (avlyst+fradrag).
 
 ### Timelister
 Timelister for alle lærerne i alle fag i perioden.
