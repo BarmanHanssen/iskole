@@ -31,7 +31,8 @@ Rapporten viser timer til undervisning i følge læreplaner, og hvor mange timer
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ca2d7b33-21d1-4d72-a794-f4dbd0befcf3)
 
 
-Se skjermbildet ovenfor. Her står gruppen ST1:ENG 1 uten elever og uten timeplan. Gruppen er tydeligvis ikke igangsatt, og kunne vært fjernet fra Grunnlagsdata>Grupper.
+Se skjermbildet ovenfor. Her står gruppen ST1:FR1 1 uten elever og uten timeplan. Gruppen er tydeligvis ikke igangsatt, og burde vært fjernet fra Grunnlagsdata>Grupper!
+_Omfanget_ er gitt via fagkoden
 
 ### Timelister
 Timelister for alle lærerne i alle fag i perioden.
