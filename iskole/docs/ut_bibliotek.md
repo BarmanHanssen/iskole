@@ -44,6 +44,8 @@ for å finne boktittelen man er ute etter.
 1. Sett markøren i tekstfeltet over knapperaden over tabellen.
 2. Skann ISBN-nummeret eller skriv inn nummeret og trykk på entertasten.
 
+![bilde](/img/utl_bibliotek_bokregister_sok_etter_boktittel.png)
+
 #### Endre bokinformasjon
 1. Finn boken i tabellen og trykk på knappen «Endre».
 2. Et nytt vindu vises og lar deg endre bokinformasjonen.
@@ -69,15 +71,21 @@ Bøker kan lånes ut til både elever og ansatte. Hvis elev- eller ansattbevis m
 2. Skann strekkoden på skole-/ansattbevis. Bilde og informasjon om personen vises.
 3. Trykk på knappen Legg til — et vindu for å registrere utlån dukker opp.
 4. Ulån av bøker blir automatisk registrert ved skanning av etiketten, skrevet ut fra iSkole og klistret på boken. Hvis man ønsker å registrere en annen innleveringsdato eller en merknad, må denne fylles inn før boken skannes.
-5. Sett markøren i feltet Bokeksemplar og skann etiketten. (Alternativt tast inn nummeret og klikk knappen Legg til.) /* Se figur 6 på neste side. */
+5. Sett markøren i feltet Bokeksemplar og skann etiketten. (Alternativt tast inn nummeret og klikk knappen «Legg til».) 
 6. Boken legges til med oppgitt innleveringsdato og eventuell merknad. Boken vil bli lagt til listen Historikk for [låntagerens navn].
 
-:::Merk:
-Hvis markøren står i feltet Bokeksemplar og man skanner et skole-/ansattbevis så endres automatisk personen. Man kan da fortsette å skanne bøker til utlån.
+![bilde](/img/utl_bibliotek_utlaan_finn_person.png)
+
+![bilde](/img/utl_bibliotek_utlaan_registrere.png)
+
+::: Merk:
+Hvis markøren står i feltet _Bokeksemplar_ og man skanner et skole-/ansattbevis så endres automatisk personen. Man kan da fortsette å skanne bøker til utlån.
 :::
 
 Siden man i denne arkfanen kan se alle bøkene en person har registrert lånt, er det også mulig å gjøre en innlevering herfra uten å skanne strekkoden
 på boken.
+
+![bilde](/img/utl_bibliotek_utlaan_endre_utlaan.png)
 
 ### Innlevering
 
@@ -86,6 +94,7 @@ på boken.
 3. Sett markøren i tekstfeltet Eksemplar# og skann boken. Alternativt skriv inn eksemplarnummeret fra etiketten og klikk knappen Søk.
 4. Informasjon om boken og hvem den er utlånt til vil vises. Boken blir registrert som innlevert.
 
+![bilde](/img/utl_bibliotek_innlevering_bokiformasjon.png)
 
 #### Informasjon om en bok
 1. Gå til fanen Innlevering
@@ -100,6 +109,8 @@ boken ved å klikke på knappen Innlever.
 ### Purring
 I arkfanen _Purring_ personer som har lånt bøker og ikke levert dem tilbake til avtalt dato. 
 
-/*Se figur 9 for oversikt over bøker og låntagere som ikke har levert innen fristen. */
+![bilde](/img/utl_bibliotek_purring_oversikt.png)
 
 Man kan sende en påminnelse ved å krysse av for den boken man vil sende ut påminnelse for, og så trykke på knappen «Send påminnelse til valgte...». Man får da vist en dialog og hvis skolen har bestemt at man også skal kunne sende påminnelser via sms, så vil det komme til syne en avkrysningsboks for det.
+
+![bilde](/img/utl_bibliotek_purring_send.png)
