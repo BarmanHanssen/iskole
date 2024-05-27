@@ -6,7 +6,7 @@ sidebar_label: Rapporter
 Alle rapporter kan tas ut i pdf-format, og noen utvalgte også som regneark. Regneark er beste valg dersom man ønsker å kunne redigere ressultat, eksempelvis sortere innholdet på egen hånd.
 
 ## Blokktimer klasse
-Data til rapporten hentes fra timeplanen for den valgte uken. Rapporten viser dager og timer hvor elevene i klassen har undervisning i grupper. Tallet i parentes viser hvor mange av klassens elever som er deltar i hver av timene.
+Data til rapporten hentes fra timeplanen for den valgte uken. Rapporten viser dager og timer hvor elevene i klassen har undervisning i grupper. Tallene i parentes viser hvor mange av klassens elever som er deltar i hver av timene.
 
 ## Matrise gruppefag
 Når eleven har valgt gruppefag fås her en kompakt og komplett overesikt hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt.
