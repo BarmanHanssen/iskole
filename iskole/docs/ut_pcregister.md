@@ -37,5 +37,11 @@ Om en ansatt eller elev skulle få tilbud om å kjøpe PCen, så kan det registr
 
 ### Oversikt
 
+I arkfanen for oversikt kan man liste ut fire lister med informasjon om:
 
+1. Utlån av PCer til elever
+2. Utlån av PCer til ansatte
+3. Firkjøpte PCer
+4. Tapt/kasserte PCer
 
+Alle listene er i utgangspunktet kollapset, og man må trykke på overskriften for å få se data.
