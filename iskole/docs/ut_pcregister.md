@@ -17,6 +17,8 @@ Skjermbildet viser en tabell med alle skolens registrerte datamaskiner. Man kan 
 ![bilde](/img/utl_pcregister_register_og_utlaan_oversikt.png)
 ![bilde](/img/utl_pcregister_register_og_utlaan_import_fra_fil.png)
 
+#### Funksjoner
+
 De funksjonene man har tilgjengelig i skjermbidet kan aktiveres ved å benytte knappene over tabellen. Knappene er lagt i to rader hvor den første raden gjelder _låneobjekter_, dvs. PCene i registeret. Andre knapperad gjelder _utlån_ av PCer til ansatte og elever.
 
 #### Låneobjekter

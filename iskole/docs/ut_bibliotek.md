@@ -4,7 +4,7 @@ title: Bibliotek
 sidebar_label: Bibliotek
 ---
 
-Biblioteksystemet i iSkole gjør det mulig å registrere alle bøkene skolen har i sitt bibliotek, samt at det gir oversikt over alle utlån til elever og ansatte. Registrering av bøker kan gjøres raskt og effektivt, og det samme gjelder utlån og innleveringer. Det er ikke en forutsetning av man har en strekkodeleser, men har man det vil det spare brukeren for å taste inn kodene som benyttes. Bibliotekfunksjonene er lagt til utlånsmodulen. Disse håndteres fra menyvalget _Bibliotek_. For at en bruker skal å få tilgang til biblioteket må rektor eller rektors stedfortreder tildele brukeren brukergruppen Bibliotekar. (Se menyvalget Mine sider!Tilgang og arkfanen Brukergrupper.) Skjermbildet Bibliotek består av fire arkfaner:
+Biblioteksystemet i iSkole gjør det mulig å registrere alle bøkene skolen har i sitt bibliotek, samt at det gir oversikt over alle utlån til elever og ansatte. Registrering av bøker kan gjøres raskt og effektivt, og det samme gjelder utlån og innleveringer. Det er ikke en forutsetning av man har en strekkodeleser, men har man det vil det spare brukeren for å taste inn kodene som benyttes. Bibliotekfunksjonene er lagt til utlånsmodulen. Disse håndteres fra menyvalget _Bibliotek_. For at en bruker skal å få tilgang til biblioteket må rektor eller rektors stedfortreder tildele brukeren brukergruppen _Bibliotekar_. (Se menyvalget _Mine sider > Tilgang og arkfanen Brukergrupper_.) Skjermbildet «Bibliotek» består av fire arkfaner:
 
 1. Bokregister
 2. Utlån
@@ -32,7 +32,7 @@ Etter at data er lest fra Alma, eller man har fyllt inn informasjonen selv, gjen
 
 ![bilde](/img/utl_bibliotek_bokregister_legg_til_boktittel_2.png)
 
-:::Merk
+:::info Merk
 Hvis det skal legges til flere eksemplarer av boken senere: Klikk «Legg til» og søk på ISBN. Informasjonen om boken hentes da fra iSkole og ikke Alma. Oppgi antall eksemplarer som skal legges til.
 :::
 
@@ -77,7 +77,7 @@ Bøker kan lånes ut til både elever og ansatte. Hvis elev- eller ansattbevis m
 
 ![bilde](/img/utl_bibliotek_utlaan_registrere.png)
 
-::: Merk:
+:::info Merk:
 Hvis markøren står i feltet _Bokeksemplar_ og man skanner et skole-/ansattbevis så endres automatisk personen. Man kan da fortsette å skanne bøker til utlån.
 :::
 
