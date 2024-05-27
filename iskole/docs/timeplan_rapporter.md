@@ -15,8 +15,8 @@ Når eleven har valgt gruppefag fås her en kompakt og komplett overesikt hvem s
 
 
 Se utklippet hvor vi har begrenset oss til elever fra ST1 (studiespesialisering, trinn 1).
-22 elever har valgt ST1:MAT. Blant disse 22 elevene ses at 11 også har ST1:SPB, 6 ST1:TY1 og 5 ST1:TY2.
-Ved å plassere musepekeren over et tall (her 11,6 eller 5) fås navnene på elevene som har kombinasjonen (her av de 22 med ST1:MAT).
+22 elever har valgt ST1:MAT. Blant disse 22 elevene ses at 11 også har ST1:SPB, 6 har også ST1:TY1 og 5 har også ST1:TY2.
+Ved å plassere musepekeren over et tall fås navnene på elevene som har kombinasjonen.
 
 
 ## Sum undervisning
