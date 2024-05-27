@@ -11,7 +11,7 @@ Data til rapporten hentes fra timeplanen for den valgte uken. Rapporten viser da
 ## Matrise gruppefag
 Når eleven har valgt gruppefag fås her en kompakt og komplett overesikt hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt.
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/3db20eb8-4691-4b5e-b850-996e4e69be96)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/928a4c9b-3dfb-4c00-9240-7d8bfd895494)
 
 
 Se utklippet hvor vi har begrenset oss til elever fra ST1 (studiespesialisering, trinn 1).
@@ -27,6 +27,12 @@ Dersom mange elever har valgt et fag, må kanskje flere grupper i faget opprette
 
 ### Undervisningstimer
 Rapporten viser timer til undervisning i følge læreplaner, og hvor mange timer som er timeplanlagt.
+
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ca2d7b33-21d1-4d72-a794-f4dbd0befcf3)
+
+
+Se skjermbildet ovenfor. Her står gruppen ST1:FR1 1 uten elever og uten timeplan. Gruppen er tydeligvis ikke igangsatt, og burde vært fjernet fra Grunnlagsdata>Grupper!
+_Omfanget_ er gitt via fagkoden, _Timer_ er sum timeplangte timer, _Avlyst/Fradrag_ er korrigeringer faglærer gjør i løpet av skoleåret. _Sum_ betår da av  timer minus (avlyst+fradrag).
 
 ### Timelister
 Timelister for alle lærerne i alle fag i perioden.
