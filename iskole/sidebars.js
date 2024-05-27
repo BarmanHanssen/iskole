@@ -55,7 +55,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Utlån',
-      items: ['ut_pcregister','ut_pcutlaan','ut_pceksportliste','ut_pcrapporter','ut_bokregister','ut_bokutlaan'],
+      items: ['ut_pcregister','ut_bibliotek'],
     },
     {
       type: 'category',
