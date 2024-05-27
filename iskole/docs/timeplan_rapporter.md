@@ -27,6 +27,7 @@ Dersom mange elever har valgt et fag, må kanskje flere grupper i faget opprette
 
 ### Undervisningstimer
 Rapporten viser timer til undervisning i følge læreplaner, og hvor mange timer som er timeplanlagt.
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/d576f1fc-3f2c-4345-b270-91d9d3838e05)
 
 ### Timelister
 Timelister for alle lærerne i alle fag i perioden.
