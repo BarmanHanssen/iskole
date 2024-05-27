@@ -59,8 +59,9 @@ Velg boken i den øverste tabellen og trykk på knappen «Merkelapper (3x8)». S
 ##### Utskrift på en etikettskriver
 Man kan velge om man vil skrive ut alle klistrelappene, eller bare et utvalg. For å skrive ut alle velger man boken i tabellen _Titler_ og trykker på knappen «Etikett 29x90mm». Ønsker man kun å skrive ut én, så kan man velge hvilket eksemplar man vil skrive ut for ved å markere det i tabellen _Eksemplarer_ og så trykke på knappen «Etikett 29x90mm» over tabellen. Man må huske å velge etikettskriveren, og hvis den ikke er stillt inn på 29x90mm, må man gjøre det før man sender etikettene til skriveren. Det holder vanligvis å gjøre denne innstillingen én gang. 
 
-/* Skjermbildet vist i figur 3 på neste side og 4 på neste side viser innstillingene for en vanlig etikettskriver. */
-
+Skjermbildene under viser innstillingene for en vanlig etikettskriver.
+![bilde](/img/utl_bibliotek_skriverinnstillinger_1.jpeg)
+![bilde](/img/utl_bibliotek_skriverinnstillinger_2.jpeg)
 
 
 ### Utlån
