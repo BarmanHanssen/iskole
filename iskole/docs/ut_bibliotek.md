@@ -28,9 +28,7 @@ oppslag mot Alma biblioteksystem hos Bibsys (https://www.bibsys.no/produktertjen
 4. Oppgi antall eksemplarer av boken og trykk på knappen Legg til.
 5. Skriv ut merkelapper og klistre dem på bøkene. Se avsnitt Utskrift av merkelapper lenger ned i teksten.
 
-![bilde](/img/utl_bibliotek_bokregister_legg_til_boktittel_1.png)
-
-Etter at data er lest fra Alma gjenstår det å fylle inn antall eksamplarer man ønsker å legge inn i 
+Etter at data er lest fra Alma, eller man har fyllt inn informasjonen selv, gjenstår det å fylle inn antall eksamplarer man ønsker å legge inn i 
 
 ![bilde](/img/utl_bibliotek_bokregister_legg_til_boktittel_2.png)
 
