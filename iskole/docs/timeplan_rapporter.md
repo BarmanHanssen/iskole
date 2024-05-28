@@ -11,7 +11,7 @@ Data til rapporten hentes fra timeplanen for den valgte uken. Rapporten viser da
 ## Matrise gruppefag
 Når eleven har valgt gruppefag fås her en kompakt og komplett overesikt hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt.
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/928a4c9b-3dfb-4c00-9240-7d8bfd895494)
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/006c1874-d623-47ce-9ee0-c95d819ec213)
 
 
 Se utklippet hvor vi har begrenset oss til elever fra ST1 (studiespesialisering, trinn 1).
