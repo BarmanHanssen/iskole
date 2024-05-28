@@ -3,7 +3,7 @@ id: timeplan_rapporter
 title: Rapporter
 sidebar_label: Rapporter
 ---
-Alle rapporter kan tas ut i pdf-format, og noen utvalgte også som regneark. Regneark er beste valg dersom man ønsker å kunne redigere ressultat, eksempelvis sortere innholdet på egen hånd.
+Alle rapporter kan tas ut i pdf-format, og noen utvalgte også som regneark. Regneark er beste valg dersom man ønsker å kunne redigere resultat, eksempelvis sortere innholdet på egen hånd.
 
 ## Blokktimer klasse
 Data til rapporten hentes fra timeplanen for den valgte uken. Rapporten viser dager og timer hvor elevene i klassen har undervisning i grupper. Tallene i parentes viser hvor mange av klassens elever som er deltar i hver av timene.
