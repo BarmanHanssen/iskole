@@ -14,13 +14,13 @@ Når eleven har valgt gruppefag fås her en kompakt og komplett overesikt hvem s
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/006c1874-d623-47ce-9ee0-c95d819ec213)
 
 
-Se utklippet hvor vi har begrenset oss til elever fra ST1 (studiespesialisering, trinn 1).
-22 elever har valgt ST1:MAT. Blant disse 22 elevene ses at 11 også har ST1:SPB, 6 har også ST1:TY1 og 5 har også ST1:TY2.
+Se utklippet hvor vi har begrenset oss til elever fra ST2 (studiespesialisering, trinn 2).
+11 elever har valgt ST2:MED. Blant disse 11 elevene ses at 1 også har ST2:BIO og 7 har også ST2:ENT.
 Ved å plassere musepekeren over et tall fås navnene på elevene som har kombinasjonen.
 
-Felt uten tall (se kombinasjonen ST1:MAT og ST1:MAP) betyr at ingen elever går i begge grupper. Det betyr at disse to gruppene kan timeplanlegges likt uten at noen av disse elevene får kollisjon på sin timeplan av den grunn.
+Felt uten tall (se kombinasjonen ST2:Med og ST2:ENI) betyr at ingen elever går i begge grupper. Det betyr at disse to gruppene kan timeplanlegges likt uten at noen av disse elevene får kollisjon på sin timeplan av den grunn.
 
-Dersom mange elever har valgt et fag, må kanskje flere grupper i faget opprettes. Matrisen vil da bli større, tålkingen av tallene bir den samme.
+Dersom mange elever har valgt et fag, må kanskje flere grupper i faget opprettes. Matrisen vil da bli større, tolkingen av tallene bir den samme.
 
 
 ## Sum undervisning
