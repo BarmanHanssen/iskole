@@ -42,7 +42,7 @@ _Sum_ betår da av  timer minus (avlyst+fradrag).
 Timelister for alle lærerne i alle fag i perioden.
 
 ## Timeplanlagte timer uten rom
-Rapporten lister alle timer som ikke har blitt tildelt rom fra og med dagense uke og fram i tid. 
+Rapporten lister alle timer som ikke har blitt tildelt rom fra og med dagens uke og fram i tid. 
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/c22ca718-f2a1-4d5e-a504-77b105b451ef)
 
