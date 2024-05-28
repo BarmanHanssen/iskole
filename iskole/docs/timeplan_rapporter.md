@@ -20,7 +20,7 @@ Ved å plassere musepekeren over et tall fås navnene på elevene som har kombin
 
 Felt uten tall (se kombinasjonen ST2:Med og ST2:ENI) betyr at ingen elever går i begge grupper. Det betyr at disse to gruppene kan timeplanlegges likt uten at noen av disse elevene får kollisjon på sin timeplan av den grunn.
 
-Dersom mange elever har valgt et fag, må kanskje flere grupper i faget opprettes. Matrisen vil da bli større, tolkingen av tallene bir den samme.
+Dersom mange elever har valgt et fag, må kanskje flere grupper i faget opprettes. Matrisen vil da bli større, tolkingen av tallene blir den samme.
 
 
 ## Sum undervisning
