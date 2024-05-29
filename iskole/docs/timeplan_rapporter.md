@@ -39,7 +39,7 @@ _Avlyst/Fradrag_ er korrigeringer faglærer gjør i løpet av skoleåret.
 _Sum_ betår da av  timer minus (avlyst+fradrag).
 
 ### Timelister
-Rapporten viser lærernes undervsningsoppdrag i det enkelte fag. Planlagt timetall for læreren i faget er registrert fra _Time- og fagfordeling>Klassefag/Gruppefag.  For læreren summeres alle timeplanlagte timer hvor læreren står oppført i faget. Et fag kan stå oppført hos flere lærer dersom faget har flere lærere i løpet av skoleåret. Hvor mange timer som totalt er timeplanlagt i faget fremgår fra rapporten _Undervisningstimer_.
+Rapporten viser lærernes undervsningsoppdrag i det enkelte fag. Planlagt timetall for læreren i faget er registrert fra _Time- og fagfordeling>Klassefag/Gruppefag_.  For læreren summeres alle timeplanlagte timer hvor læreren står oppført i faget. Et fag kan stå oppført hos flere lærer dersom faget har flere lærere i løpet av skoleåret. Hvor mange timer som totalt er timeplanlagt i faget fremgår fra rapporten _Undervisningstimer_.
 
 ## Timeplanlagte timer uten rom
 Rapporten lister alle fag som ikke har blitt tildelt rom i alle timeplanlagte timer i faget,  fra og med dagens uke og fram i tid. 
