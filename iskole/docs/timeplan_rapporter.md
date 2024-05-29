@@ -39,7 +39,7 @@ _Avlyst/Fradrag_ er korrigeringer faglærer gjør i løpet av skoleåret.
 _Sum_ betår da av  timer minus (avlyst+fradrag).
 
 ### Timelister
-Timelister for alle lærerne i alle fag i perioden.
+Planlagt timetall for et fag er alle timene som er timeplanlagt i faget. En planlagt time kan stå uten lærer, eller kan stå oppført med en eller flere lærere. For læreren summeres alle timene hvor læreren står oppført i faget. Av den grunn kan et fag stå oppført hos flere lærer dersom faget vil ha flere lærere i løpet av skoleåret.
 
 ## Timeplanlagte timer uten rom
 Rapporten lister alle fag som ikke har blitt tildelt rom i alle timeplanlagte timer i faget,  fra og med dagens uke og fram i tid. 
