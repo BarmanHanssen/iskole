@@ -11,6 +11,10 @@ Biblioteksystemet i iSkole gjør det mulig å registrere alle bøkene skolen har
 3. Innlevering
 4. Purring
 
+:::info Merk
+Biblioteksystemet må aktiveres fra _Mine sider > Tilgang > Funksjoner_ for at det skal bli tilgjengelig å bruke for bibliotekarene.
+:::
+
 ### Bokregister
 
 I dette skjermbildet kan man registrere nye bøker, søke opp registrerte bøker
