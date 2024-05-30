@@ -36,10 +36,6 @@ Etter at data er lest fra Alma, eller man har fyllt inn informasjonen selv, gjen
 
 ![bilde](/img/utl_bibliotek_bokregister_legg_til_boktittel_2.png)
 
-:::info Merk
-Hvis det skal legges til flere eksemplarer av boken senere: Klikk «Legg til» og søk på ISBN. Informasjonen om boken hentes da fra iSkole og ikke Alma. Oppgi antall eksemplarer som skal legges til.
-:::
-
 #### Søk etter en bok
 Etterhvert som det blir mange bøker, kan det være nyttig å bruke søkefunksjonen
 for å finne boktittelen man er ute etter.
@@ -51,6 +47,13 @@ for å finne boktittelen man er ute etter.
 #### Endre bokinformasjon
 1. Finn boken i tabellen og trykk på knappen «Endre».
 2. Et nytt vindu vises og lar deg endre bokinformasjonen.
+
+#### Legg til nye eksemplarer
+Hvis man har fått nye eksemplarer av en bok man allerede har registrert, så kan man raskt legge dem inn ved først å søke opp boktittelen i den øvre
+delen av vinduet ved å benytte seg av ISBN-nummeret, og deretter trykke på knappen _Legg til_ over listen av allerede registrerte eksemplarer. I dialogen
+som kommer frem blir man bedt om å oppgi det hvor mange nye eksemplarer man har. Skriv inn antallet og trykk på _Lagre_.
+
+Alternativt kan man trykke på _Legg til_ over listen av bøker som om boken ikke fantes i registeret, og så søke opp boken ved ISBN-nummeret. Informasjonen om boken hentes da fra iSkole og ikke Alma. Oppgi antall eksemplarer som skal legges til. Også her oppgir man hvor mange nye eksemplarer som skal registreres.
 
 #### Utskrift av merkelapper
 Det er to måter å produsere merkelapper på, enten utskrift på en vanlig skriver som har ark med klistrelapper i format 3x8, eller utskrift på en etikettskriver.
