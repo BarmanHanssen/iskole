@@ -77,7 +77,7 @@ Bøker kan lånes ut til både elever og ansatte. Hvis elev- eller ansattbevis m
 2. Skann strekkoden på skole-/ansattbevis. Bilde og informasjon om personen vises.
 3. Trykk på knappen Legg til — et vindu for å registrere utlån dukker opp.
 4. Ulån av bøker blir automatisk registrert ved skanning av etiketten, skrevet ut fra iSkole og klistret på boken. Hvis man ønsker å registrere en annen innleveringsdato eller en merknad, må denne fylles inn før boken skannes.
-5. Sett markøren i feltet Bokeksemplar og skann etiketten. (Alternativt tast inn nummeret og klikk knappen «Legg til».) 
+5. Sett markøren i feltet Bokeksemplar og skann etiketten. (Alternativt tast inn nummeret og klikk knappen «Registrer utlån».) 
 6. Boken legges til med oppgitt innleveringsdato og eventuell merknad. Boken vil bli lagt til listen Historikk for [låntagerens navn].
 
 ![bilde](/img/utl_bibliotek_utlaan_finn_person.png)
