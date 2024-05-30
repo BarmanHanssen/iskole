@@ -29,7 +29,7 @@ For å registrere en ny bok gjøres følgende:
 2. Skann boken eller skriv inn ISBN-nummer og trykk Søk. iSkole gjør et
 oppslag mot Alma biblioteksystem hos Bibsys (https://www.bibsys.no/produktertjenester/tjenester/bibsys-biblioteksystem).
 3. Hvis boken finnes i Alma, fylles informasjonen om boken automatisk inn. Om ønskelig kan teksten endres. Hvis boken ikke finnes i Alma, må feltene fylles inn manuelt.
-4. Oppgi antall eksemplarer av boken og trykk på knappen Legg til.
+4. Oppgi antall eksemplarer av boken og trykk på knappen «Legg til».
 5. Skriv ut merkelapper og klistre dem på bøkene. Se avsnitt Utskrift av merkelapper lenger ned i teksten.
 
 Etter at data er lest fra Alma, eller man har fyllt inn informasjonen selv, gjenstår det å fylle inn antall eksamplarer man ønsker å legge inn i 
