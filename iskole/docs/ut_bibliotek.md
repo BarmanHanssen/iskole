@@ -66,8 +66,7 @@ Skjermbildene under viser innstillingene for en vanlig etikettskriver.
 
 
 ### Utlån
-Bøker kan lånes ut til både elever og ansatte. Hvis elev- eller ansattbevis med strekkode er skrevet ut fra iSkole, kan disse benyttes for å søke opp låntageren. Ellers kan man søke ved å skrive inn deler av fornavnet eller etternavnet. Merk at om man benytter feltet for _Ansattnr/elevnr_ så vil det overstyre og ingorere hva som måtte være ført inn i feltene _Etternavn_ og _Fornavn_.
-
+Bøker kan lånes ut til både elever og ansatte. Hvis elev- eller ansattbevis med strekkode er skrevet ut fra iSkole, kan disse benyttes for å søke opp låntageren. Ellers kan man søke ved å skrive inn deler av fornavnet eller etternavnet. 
 
 1. Sett markøren i søkefeltet øverst på siden.
 2. Skann strekkoden på skole-/ansattbevis. Bilde og informasjon om personen vises.
