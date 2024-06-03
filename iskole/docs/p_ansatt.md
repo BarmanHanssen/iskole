@@ -59,7 +59,7 @@ Disse legges automatisk til ut fra tidligere undervisning i faget, sortert på f
 
 ### Passord
 
-Man har anledning til å gi ansatte nytt passord herfra. Man kan enten la iSkole generere et passord, eller skrive inn et nytt passord selv. Det nye passordet kan da sendes til den ansatte på e-post. Denne mulighet benyttes bare untaksvis, da en ansatt med regisrert epostadresse selv kan få tilsendt passord. Det gjøres fra startsiden, via lenken _Glemt passord?_
+En ansatt med regisrert epostadresse selv kan få tilsendt passord. Det gjøres fra startsiden, via lenken _Glemt passord?_
 
 Ønsker man å slå på tofaktorautentisering ved innlogging, så må man generere en kode som den ansatte kan legge inn i en kodegenerator som f.eks. Google Authenticator på sin telefon. Koden kan enten tastes inn på telefonen, eller avleses av QR-koden som kommer frem på skjermen etter man har trykket på knappen _Generer kode_. Ønsker man siden å slå av kravet om tofaktorautentisering, så kan man slette koden ved å trykke på knappen _Slett kode_.
 
