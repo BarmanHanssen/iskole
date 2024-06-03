@@ -29,9 +29,9 @@ Neste trinn er å legge inn flere data for den nytilsatte:
 ### Ansatt
 - Kortnavn på timeplan: Kan endres. Kontrolleres mot andre ansatte, da to personer på skolen ikke kan ha likt kortnavn.
 - Født og Persnr: Kan endres, men kun gyldige personnummer godtas samt midlertidige personnummer i serien 990xx. 
-- Brukernavn: Alterantivt brukernavn for å kunne logge inn på iSkole. Se menyvalget _Brukernavn_ for generering av brukernavn. Ansatte kan i tillegg velge å benytte fødselsnummer eller epost som brukernavn.
+- Brukernavn: Ansatte kan alltid benytte fødselsnummer eller epost som brukernavn. Alterantivt kan en her legge til et ekstra brukernavn for å kunne logge inn på iSkole. Det sjekkes at det alternative brukernavnet er unikt i databasen til iSkole.
 - Ansattnr: Opprettes automatisk ved registrering, brukes internt, og kan ikke endres.
-- Kontaktopplysninger/Pårørende: Vi anbefaler minimum å registrere e-post til den ansatte. Den trengs blant annet dersom den ansatte har glemt/ikke har fått passord for å kunne logge seg på iSkole.
+- Kontaktopplysninger/Pårørende: Vi anbefaler minimum å registrere e-post til den ansatte. Den trengs blant annet dersom den ansatte har glemt passord for å logge seg på iSkole.
 
 :::note Merk
 Det er viktig å få registrert sluttet-dato når den foreligger. Etter denne dato vil den ansatte ikke lengre kunne logge seg på iSkole.
