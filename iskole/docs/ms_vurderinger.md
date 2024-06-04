@@ -15,7 +15,7 @@ Velger nå faget AP3D HIS:
 ## Alle elevene i faget
 _Prøveliste_ viser prøver som allerede er registrert i faget. Her kan du endre på opplysninger om prøven, samt legge til karakterer og kommentarer på hver enkelt elev. 
 
-_Fremtidige synlige prøver for elevene i gruppen_ For å unngå å legge en prøve for nært en annen prøve, viser listen prøver de involverte elevene har i fremtiden
+_Fremtidige synlige prøver for elevene i gruppen_: For å unngå å legge en prøve for nært en annen prøve, viser listen prøver de involverte elevene har i fremtiden.
 
 
 ### Opprett ny prøve 
