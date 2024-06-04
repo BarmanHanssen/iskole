@@ -30,6 +30,7 @@ Rektor kan gi den enkelte ansatte tilgang til det enkelte menyvalg uavhengig av 
 :::
 
 ![bilde](https://user-images.githubusercontent.com/80097133/192249086-6ee0ffc9-6f83-45f5-b85d-252069ca4d72.png)
+![bilde](/img/ms_tilgang_brukergrupper.png 'Brukergrupper')
 
 _Ansatt_: For å kunne få tilgang til denne modulen av iSkole må personen være registreret fra _Personal>Ansatt_. Tilgangen er tidsbegrenset til datoene gitt mellom _Begynte_ og _Sluttet_.
 
