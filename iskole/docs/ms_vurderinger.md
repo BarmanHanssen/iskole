@@ -20,7 +20,7 @@ Skal nå se på de fem undervalg
 ## Alle elever
 _Prøveliste_ viser prøver som allerede er registrert i faget. Her kan du endre på opplysninger om prøven, samt legge til karakterer og kommentarer på hver enkelt elev. 
 
-_Fremtidige synlige prøver for elevene i gruppen_: For å unngå å legge en prøve for nært en annen prøve, viser listen prøver de involverte elevene har i fremtiden.
+_Fremtidige synlige prøver for elevene i gruppen_: For å unngå å legge en prøve for nær en annen prøve, uansett fag, vises her allerede planlagte prøver for de involverte elevene.
 
 _Kompetansemål prøvet i faget_: Teksten er hentet fra Udir og viser kompetansemålene som er nedfelt i fagplanen for faget. Når ny prøve planlegges, kan en huke av for hvilke kompetansemål prøven vil dekke. 
 
