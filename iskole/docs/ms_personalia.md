@@ -4,4 +4,4 @@ title: Personalia
 sidebar_label: Personalia
 ---
 
-Her kan du se personalia skolen har registrert på deg. I tillegg kan du endre passordet ditt. Dersom noe annet skal endres må du ta kontakt med administrasjonen.
+Her kan du se personalia skolen har registrert på deg. Du kan selv endre egen adresse og trlrfon, samt data om hvem som står oppført som _Pårørnde_. Dersom noe annet skal endres må du ta kontakt med administrasjonen.
