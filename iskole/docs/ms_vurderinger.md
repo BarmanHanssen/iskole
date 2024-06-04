@@ -33,8 +33,6 @@ Hvis du ønsker at elevene skal levere dokumenter i forbindelse med prøven i et
 
 Klikk _Lagre prøve_. Du får nå opp _Prøveliste_ på nytt, og kan nå _Behandle_ prøven videre:
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/98a53642-4ee9-4088-8932-fc72c19eef19)
-
 Nå kan du spesifisere hvilke kompetansemål prøven dekke, og nå kan også selve prøveteksen legges til som et vedlegg.
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/fc0a13df-daac-4cf1-a841-5a60cec54987)
 
