@@ -27,9 +27,15 @@ _Kompetansemål prøvet i faget_: Teksten er hentet fra Udir og viser kompetanse
 
 ### ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/7cf99e08-9560-44e0-ba95-bce77bb363e2)
 
-Klikk _Legg til prøve_. Velg dato prøven skal avholdes, når den skal bli synlig for elevene, prøvens varighet og en beskrivelse (ikke prøveteksten!). Hvis antall dager settes til én vil iSkole behandle prøven som en heldagsprøve. Dette vil blandt annet gi deg mulighet til å føre fravær for denne prøven. 
+Klikk _Legg til prøve_. Velg dato prøven skal avholdes, eksempelvis ut fra fagetets timeplanen (her 10.06.2024), når den skal bli synlig for elevene, prøvens varighet og en beskrivelse (ikke prøveteksten!). Hvis antall dager settes til én vil iSkole behandle prøven som en heldagsprøve. Dette vil blandt annet gi deg mulighet til å føre fravær for denne prøven. 
 
-Hvis du ønsker at elevene skal levere dokumenter i forbindelse med prøven i etterkant, kan du oppgi en innleveringsfrist. Elevene har mulighet til å levere flere dokumenter, og de kan levere inntil de har fått en karakter eller en kommentar. Hvis vurderingen settes etter innleveringsfristen, vil eleven ha mulighet til å levere, men innleveringsdatoen vil bli markert med rødt. Å klikke _Lagre og gå til resultater_ er det samme som å klikke _Lagre og gå til prøver_ for deretter å velge prøven fra prøvelisten. 
+Hvis du ønsker at elevene skal levere dokumenter i forbindelse med prøven i etterkant, kan du oppgi en innleveringsfrist. Elevene har mulighet til å levere flere dokumenter, og de kan levere inntil de har fått en karakter eller en kommentar. Hvis vurderingen settes etter innleveringsfristen, vil eleven ha mulighet til å levere, men innleveringsdatoen vil bli markert med rødt. Klikk _Lagre prøve_ for å gå videre. Du får nå opp _Prøveliste_ på nytt, og skal nå _Behandle_ prøven videre:
+
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/98a53642-4ee9-4088-8932-fc72c19eef19)
+
+Nå kan du spesifisere hvilke kompetansemål prøven dekke, og nå kan også selve prøveteksen legges til som et vedlegg.
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/fc0a13df-daac-4cf1-a841-5a60cec54987)
+
 
 :::info Merk
 Hvis det ikke velges noen dato i feltet _Resultater vises fra_ vil resultatene vises for eleven så snart de er innført.
