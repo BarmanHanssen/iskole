@@ -15,7 +15,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Mine sider',
-      items: ['ms_startside','ms_timeplan','ms_fravaer','ms_meldinger','ms_bulleteng','ms_dokumenter','ms_vurderinger','ms_karakterer','ms_arsplan','ms_elever',
+      items: ['ms_startside','ms_timeplan','ms_fravaer','ms_meldinger','ms_bulleteng','ms_dokumenter','ms_vurderinger','ms_karakterer','ms_yrkesfaglig_fordypning','ms_arsplan','ms_elever',
       'ms_elevsamtaler','ms_orden_atferd','ms_elevmappe','ms_brev','ms_iop','ms_permisjon','ms_sensor','ms_rapporter','ms_internat',
       'ms_logg','ms_bibliotek','ms_utlaan','ms_personalia','ms_eget_fravaer','ms_tilgang','ms_skolerute','ms_planperiode'],
     },
