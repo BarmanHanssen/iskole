@@ -8,8 +8,9 @@ Første skjermbilde viser alle fag hvor du skal evaluere. Her kan du få oversik
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/86177da8-38a9-4559-a372-af46f423b5eb)
 
+Velger nå faget AP3D HIS:
 
-
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/96e4539d-d15a-4725-a6d3-f142f0e3def8)
 
 
 
