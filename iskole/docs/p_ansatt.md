@@ -3,7 +3,7 @@ id: p_ansatt
 title: Ansatt
 sidebar_label: Ansatt
 ---
-Personer som skal kunne få tilgang til iSkole må være registrert i systemet. Man er enten registrert som elev, eller som ansatt. Her er første skjermbilde for ansatte:
+Her er første skjermbilde for ansatte:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/123929313-02798080-d98f-11eb-9601-310e7a029cf1.png)
 
