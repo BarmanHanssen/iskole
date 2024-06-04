@@ -3,7 +3,7 @@ id: p_ansatt
 title: Ansatt
 sidebar_label: Ansatt
 ---
-Personer som skal kunne få tilgang til iSkole må være registrert i systemet. Man er enten registrert som elev, eller som ansatt. Her er første skjermbilde for ansatte:
+Her er første skjermbilde for ansatte:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/123929313-02798080-d98f-11eb-9601-310e7a029cf1.png)
 
@@ -14,12 +14,12 @@ Dersom ny person skal registreres, trykker man på _+Ny asatt..._
 
 ![bilde](https://user-images.githubusercontent.com/80097133/123949930-70c83e00-d9a3-11eb-8e38-004a8565d7f8.png)
 
-- Brukernavn (kort): Hver bruker må ha et internt brukernavn på maksimalt 5 tegn. Prøv de to første bokstaver i for- og etternavn. Brukernavnet må være unikt, og kommer blant annet frem på timeplaner. Kan endres senere, men to ansatte ved skolen kan altså ikke ha likt brukernavn.
-- Født og Personnr: Dersom den nye ansatte har personnummeret, anbefales sterkt at dette registreres ved innføringen her. Det er mulig å benytte fiktivt personnummer, eksempelvis 99999. _Vil kunne medføre ekstra arbeid dersom en benytter fiktivt nummer, og det senere viser seg at personen alt var registrert fra annen skole._
+- Brukernavn (kort): Hver bruker må ha et internt brukernavn på maksimalt 5 tegn. Vanligvis benyttes tre tegn som er forbundet med for- og etternavn. Brukernavn (kort) må være unikt, og kommer blant annet frem på timeplaner. Kan endres senere, men to ansatte ved skolen kan altså ikke ha likt brukernavn.
+- Født og Personnr: Dersom den nye ansatte har personnummeret, anbefales sterkt at dette registreres ved innføringen her. Det er mulig å benytte fiktivt personnummer, eksempelvis 99999. Det vil kunne medføre ekstra arbeid dersom en benytter fiktivt nummer, og det senere viser seg at personen alt var registrert fra annen skole.
 - Fornavn og Etternavn: Kan ikke stå blankt!
 
 :::note Merk
-Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med disse data. Dersom personen har vært elev, eller ansatt, ved en annen skole som bruker iSkole, vil for- og etternavn automtisk fylles ut.
+Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med dette fødselsnummer. Dersom personen har vært elev, eller ansatt, ved en skole som bruker iSkole, vil for- og etternavn automtisk fylles ut.
 :::
 
 Neste trinn er å legge inn flere data for den nytilsatte:
