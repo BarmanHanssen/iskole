@@ -12,6 +12,11 @@ Velger nå faget AP3D HIS:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/96e4539d-d15a-4725-a6d3-f142f0e3def8)
 
+Skal nå se på de fem undervalg
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/061b7c46-5d5f-47f5-9ea8-d6bf3fff7ff6)
+
+
+
 ## Alle elevene i faget
 _Prøveliste_ viser prøver som allerede er registrert i faget. Her kan du endre på opplysninger om prøven, samt legge til karakterer og kommentarer på hver enkelt elev. 
 
