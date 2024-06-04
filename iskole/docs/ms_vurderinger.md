@@ -8,6 +8,11 @@ Første skjermbilde viser alle fag hvor du skal evaluere. Her kan du få oversik
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/86177da8-38a9-4559-a372-af46f423b5eb)
 
+
+
+
+
+
 ## Alle elevene i faget
 _Prøveliste_ viser en liste over de prøvene som allerede er registrert i faget. Her kan du endre på opplysninger om prøven, samt legge til karakterer og kommentarer på hver enkelt elev. For å unngå å legge en prøve for nært en annen prøve, viser listen _Fremtidige synlige prøver for elevene i gruppen_, prøver de involverte elevene har i fremtiden. 
 
