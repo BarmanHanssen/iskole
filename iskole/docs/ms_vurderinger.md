@@ -4,8 +4,6 @@ title: Vurderinger
 sidebar_label: Vurderinger
 ---
 
-Det er fem typer vurderinger. Vurdering av alle i et fag, av enkeltelev, fagsamtaler, elevs egenvurdering og orden/atferd. For å legge til en vurdering, må du først velge faget vurderingen skal gjelde.
-
 Første skjermbilde viser alle fag hvor du skal evaluere. Her kan du få oversikt over allerede har planlagte prøver i dine fag. 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/86177da8-38a9-4559-a372-af46f423b5eb)
