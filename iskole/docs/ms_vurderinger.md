@@ -49,7 +49,7 @@ Når du senere skal føre _Redlutater_ for elvene, kan du føre dette inn og lag
 Når elevene ser på sine prøveresultater vil vi beregne en gjennomsnittskarakter. Denne beregnes ved å kontrollere om første tegnet i resultatet er et tall, hvis ja og resultatet ikke inneholder %, benytter vi dette tallet i beregningen.
 :::
 
-## Enkeltelever i faget
+## Enkeltelever
 Her kan du legge inn en enkeltvurdering av en elev. Her oppgis dato, karakter og en kommentar. Karakteren for enkeltvurderingen vises når du skal føre karakterer i faget.
 
 ## Fagsamtale
@@ -61,8 +61,8 @@ Det kan føres fagsamtaler for flere elever samtidig ved å veleg _Legg inn fags
 Dersom du kun kopierer og ikke lagrer vil det ikke bli registrert noen elevsamtaler.
 :::
 
-## Elevs egenvurdering
+## Egenvurdering
 Elevene har mulighet til selv å skrive en vurdering av seg selv i forhold til dette faget. Denne vurderingen kan leses av faglæreren. Det er ikke obligatorisk for elevene å gjøre egenvurdering i fagene og det styres av faglærerne hvorvidt det skal gjøres egenvurdering. Faglærer kan igjen gi eleven tilbakemelding på egenvurderingen.
 
-## Orden- og atferdsvurdering
+## Orden- og atferd
 Orden- og atferdsmerknader er merknader i forbindelse med brudd på skolens reglement. Faglærere kan navigere til eleven det gjelder via faget, kontaktlærere kan gå direkte til sine elever. Klikk _Rediger_ bak elevens navn for å lese vurderinger eller legge til en ny. Vurderinger lagt til her får en referanse knyttet til faget selv om merknaden som sådan er uavhengig av faget. Den blir synlig for kontaklæreren under menyvalget _Elever_, vis detaljer for eleven og fanen _Orden/atferd_. Orden- og atferdsvurderinger som gjelder hendelser utenom timer, f.eks. friminutt eller studieøkter, kan føres av kontaktlærer og ansatte med rollen _Elevinspektør_ på samme sted (menyvalget _Elever_).
