@@ -25,7 +25,7 @@ _Fremtidige synlige prøver for elevene i gruppen_: For å unngå å legge en pr
 _Kompetansemål prøvet i faget_: Teksten er hentet fra Udir og viser kompetansemålene som er nedfelt i fagplanen for faget. Når ny prøve planlegges, kan en huke av for hvilke kompetansemål prøven vil dekke. 
 
 
-### ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/7cf99e08-9560-44e0-ba95-bce77bb363e2)
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/7cf99e08-9560-44e0-ba95-bce77bb363e2)
 
 Klikk _Legg til prøve_. Velg dato prøven skal avholdes, eksempelvis ut fra fagetets timeplanen (her 10.06.2024), når den skal bli synlig for elevene, prøvens varighet og en beskrivelse (ikke prøveteksten!). Hvis antall dager settes til én vil iSkole behandle prøven som en heldagsprøve. Dette vil blandt annet gi deg mulighet til å føre fravær for denne prøven. 
 
@@ -41,8 +41,9 @@ Nå kan du spesifisere hvilke kompetansemål prøven dekke, og nå kan også sel
 Hvis det ikke velges noen dato i feltet _Resultater vises fra_ vil resultatene vises for eleven så snart de er innført.
 :::
 
-### Endre en prøve
-Klikk _Rediger_ på en prøve i prøvelisten for å endre den. I tillegg til å endre på den opprinnelige informasjonen, kan du legge til dokumenter, for eksempel oppgavearket til en innlevering. Dokumenter som skal knyttes til prøven må først legges inn i ditt arkiv. Når du skal føre resultater for elvene, kan du føre dette inn og lagre flere ganger om ønskelig. Neste gang du går inn på prøven, vil de innførte resultater og kommentarer være skrivebeskyttet. Da må lenken _Endre_ benyttes. Hvis karakter eller kommentar endres, vil eleven motta en melding som forteller hva karakteren ble endret fra og hva den ble endret til, samt begrgrunnelse hvis du velger og oppgi dette. Antall innleveringer knyttet til prøven vises i parantes etter _Vis_ i kolonnen _Innlevering_. Du har også mulighet til å legge til dokumenter for en elev. Følg lenken _Vis_ for både og legge til og laste ned innleveringer. Hvis du skal legge til et dokument her, må dette hentes fra datamaskinen og ikke fra arkivet. Du kan laste ned alle innleveringer ved å benytte knappen _Last ned alle innleveringer_ til høyre over elevlisten. Dersom skolen benytter plagiatkontroll vil det i tillegg til alle innleveringene vil det også ligge en rapport fra plagiatkontrollen. Rapporten inneholder prosent likhet og en lenke til plagiatrapporten.
+Dokumenter som skal knyttes til prøven må først legges inn i ditt arkiv. 
+
+Når du senere skal føre _Redlutater_ for elvene, kan du føre dette inn og lagre flere ganger om ønskelig. Neste gang du går inn på prøven, vil de innførte resultater og kommentarer være skrivebeskyttet. Hvis karakter eller kommentar endres, vil eleven motta en melding som forteller hva karakteren ble endret fra og hva den ble endret til, samt begrgrunnelse hvis du velger og oppgi dette. Antall innleveringer knyttet til prøven vises i parantes etter _Vis_ i kolonnen _Innlevering_. Du har også mulighet til å legge til dokumenter for en elev. Følg lenken _Vis_ for både og legge til og laste ned innleveringer. Hvis du skal legge til et dokument her, må dette hentes fra datamaskinen og ikke fra arkivet. Du kan laste ned alle innleveringer ved å benytte knappen _Last ned alle innleveringer_ til høyre over elevlisten. Dersom skolen benytter plagiatkontroll vil det i tillegg til alle innleveringene også ligge en rapport fra plagiatkontrollen. Rapporten inneholder prosent likhet og en lenke til plagiatrapporten.
 
 :::tip Tips
 Når elevene ser på sine prøveresultater vil vi beregne en gjennomsnittskarakter. Denne beregnes ved å kontrollere om første tegnet i resultatet er et tall, hvis ja og resultatet ikke inneholder %, benytter vi dette tallet i beregningen.
