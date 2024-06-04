@@ -22,7 +22,9 @@ _Kompetansemål prøvet i faget_: Teksten er hentet fra Udir og viser kompetanse
 
 ### ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/7cf99e08-9560-44e0-ba95-bce77bb363e2)
 
-For å opprette en ny prøve, klikk _Legg til ny prøve_. Velg prøveform, dato prøven skal avholdes, når den skal bli synlig for elevene, prøvens varighet og en beskrivelse. Hvis antall dager settes til én vil iSkole behandle prøven som en heldagsprøve. Dette vil blandt annet gi deg mulighet til å føre fravær for denne prøven. Hvis du ønsker at elevene skal levere dokumenter i forbindelse med prøven, kan du oppgi en innleveringsfrist. Elevene har mulighet til å levere flere dokumenter, og de kan levere inntil de har fått en karakter eller en kommentar. Hvis vurderingen settes etter innleveringsfristen, vil eleven ha mulighet til å levere, men innleveringsdatoen vil bli markert med rødt. Å klikke _Lagre og gå til resultater_ er det samme som å klikke _Lagre og gå til prøver_ for deretter å velge prøven fra prøvelisten. 
+Klikk _Legg til prøve_. Velg dato prøven skal avholdes, når den skal bli synlig for elevene, prøvens varighet og en beskrivelse. Hvis antall dager settes til én vil iSkole behandle prøven som en heldagsprøve. Dette vil blandt annet gi deg mulighet til å føre fravær for denne prøven. 
+
+Hvis du ønsker at elevene skal levere dokumenter i forbindelse med prøven, kan du oppgi en innleveringsfrist. Elevene har mulighet til å levere flere dokumenter, og de kan levere inntil de har fått en karakter eller en kommentar. Hvis vurderingen settes etter innleveringsfristen, vil eleven ha mulighet til å levere, men innleveringsdatoen vil bli markert med rødt. Å klikke _Lagre og gå til resultater_ er det samme som å klikke _Lagre og gå til prøver_ for deretter å velge prøven fra prøvelisten. 
 
 :::info Merk
 Hvis det ikke velges noen dato i feltet _Resultater vises fra_ vil resultatene vises for eleven så snart de er innført.
