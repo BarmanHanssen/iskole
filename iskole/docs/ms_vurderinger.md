@@ -61,7 +61,12 @@ Samtaler faglæreren har hatt med eleven kan dokumenteres i iSkole. Når du har 
 
 
 ## Egenvurdering
-Elevene har mulighet til selv å skrive en vurdering av seg selv i forhold til dette faget. Denne vurderingen kan leses av faglæreren. Det er ikke obligatorisk for elevene å gjøre egenvurdering i fagene og det styres av faglærerne hvorvidt det skal gjøres egenvurdering. Faglærer kan igjen gi eleven tilbakemelding på egenvurderingen.
+Det er ikke obligatorisk for elevene å gjøre egenvurdering i fagene, det styres av faglærerne hvorvidt det skal gjøres egenvurdering. Elevene kan skrive en vurdering av seg selv i forhold til dette faget. Elevens egenvurdering kan leses av faglæreren. Faglærer kan gi eleven tilbakemelding på egenvurderingen.
 
 ## Orden- og atferd
-Orden- og atferdsmerknader er merknader i forbindelse med brudd på skolens reglement. Faglærere kan navigere til eleven det gjelder via faget, kontaktlærere kan gå direkte til sine elever. Klikk _Rediger_ bak elevens navn for å lese vurderinger eller legge til en ny. Vurderinger lagt til her får en referanse knyttet til faget selv om merknaden som sådan er uavhengig av faget. Den blir synlig for kontaklæreren under menyvalget _Elever_, vis detaljer for eleven og fanen _Orden/atferd_. Orden- og atferdsvurderinger som gjelder hendelser utenom timer, f.eks. friminutt eller studieøkter, kan føres av kontaktlærer og ansatte med rollen _Elevinspektør_ på samme sted (menyvalget _Elever_).
+Orden- og atferdsmerknader er merknader i forbindelse med brudd på skolens reglement. Faglærere kan navigere til eleven det gjelder via faget, kontaktlærere kan gå direkte til sine elever. Vurderinger lagt til her får en referanse knyttet til faget selv om merknaden som sådan er uavhengig av faget.
+
+Under kolonnen _Behandle_ har du to valg. Dersom merknad er lagt inn kan den tas frem, og eventuelt redigeres. Dersom ny merknad skal legges til, klikkes på +-tegnet.
+Merknaden blir også synlig for kontaklæreren under menyvalget _Elever_, under fanen _Orden/atferd_. 
+
+Orden- og atferdsvurderinger som gjelder hendelser utenom timer, f.eks. friminutt eller studieøkter, føres av kontaktlærer og ansatte med rollen _Elevinspektør_ under menyvalget _Elever_.
