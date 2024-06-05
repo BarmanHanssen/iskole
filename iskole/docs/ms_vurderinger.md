@@ -52,6 +52,9 @@ Når elevene ser på sine prøveresultater vil vi beregne en gjennomsnittskarakt
 ## Enkeltelever
 Her kan du legge inn en enkeltvurdering av en elev. Her oppgis dato, karakter og en kommentar. Karakteren for enkeltvurderingen vises når du skal føre karakterer i faget.
 
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b8e98f50-f554-4fdd-bca2-934929952530)
+
+
 ## Fagsamtale
 Samtaler faglæreren har hatt med eleven kan dokumenteres i iSkole. Når du har valgt vurderingsformen _Fagsamtale_, velger du _Dato_ og klikker _Lagre_. Da kommer du videre til et tekstfelt hvor du kan skrive inn tekst. Elevene kan kvittere på fagsamtaler, slik at faglæreren vet at eleven har lest de.
 
