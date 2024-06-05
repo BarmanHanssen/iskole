@@ -4,6 +4,8 @@ title: Vurderinger
 sidebar_label: Vurderinger
 ---
 
+Vi opererer med fem forskjellige vurderingskategorier. Her ser vi på hva faglærer har å forholde seg til. Elevene på sin side får tilgang til tilsvarende kategorier for å se, og kommentere/tilføye hva som er lagt inn av lærerne.
+
 Første skjermbilde viser alle fag du skal evaluere. Her kan du få oversikt over allerede har planlagte prøver i dine fag. 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/86177da8-38a9-4559-a372-af46f423b5eb)
