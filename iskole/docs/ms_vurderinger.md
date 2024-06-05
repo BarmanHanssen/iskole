@@ -57,7 +57,7 @@ Her kan du legge inn en enkeltvurdering av en elev. Her oppgis dato, karakter og
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b8e98f50-f554-4fdd-bca2-934929952530)
 
 ## Fagsamtale
-Samtaler faglæreren har hatt med eleven kan dokumenteres i iSkole. Når du har valgt vurderingsformen _Fagsamtale_, velger du _Dato_ og skriver et referat av samtalen. Eleven kan kvittere på fagsamtaler, slik at faglæreren vet at eleven har lest de.
+Samtaler faglæreren har hatt med eleven kan dokumenteres i iSkole. Når du har valgt vurderingsformen _Fagsamtale_, velger du _Dato_ og skriver et referat av samtalen. Eleven skal kvittere på fagsamtaler, slik at faglæreren vet at eleven har sett teksten.
 
 
 ## Egenvurdering
