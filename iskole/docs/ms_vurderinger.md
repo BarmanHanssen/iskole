@@ -54,15 +54,9 @@ Her kan du legge inn en enkeltvurdering av en elev. Her oppgis dato, karakter og
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b8e98f50-f554-4fdd-bca2-934929952530)
 
-
 ## Fagsamtale
-Samtaler faglæreren har hatt med eleven kan dokumenteres i iSkole. Når du har valgt vurderingsformen _Fagsamtale_, velger du _Dato_ og klikker _Lagre_. Da kommer du videre til et tekstfelt hvor du kan skrive inn tekst. Elevene kan kvittere på fagsamtaler, slik at faglæreren vet at eleven har lest de.
+Samtaler faglæreren har hatt med eleven kan dokumenteres i iSkole. Når du har valgt vurderingsformen _Fagsamtale_, velger du _Dato_ og skriver et referat av samtalen. Eleven kan kvittere på fagsamtaler, slik at faglæreren vet at eleven har lest de.
 
-Det kan føres fagsamtaler for flere elever samtidig ved å veleg _Legg inn fagsamtale for alle elever_ over listen med elever. Skriv ønsket tekst, kryss av de elevene teksten skal gjelde for og klikk _Kopier ti valgte elever_. Kopieringen kan gjentas flere ganger slik at grupper av elever kan få samme tekst. Når en eller flere av elevene har de tekstene de skal ha klikker du _Lagre og gå tilbake_ for å legge inn alle fagsamtalene.
-
-:::info Merk
-Dersom du kun kopierer og ikke lagrer vil det ikke bli registrert noen elevsamtaler.
-:::
 
 ## Egenvurdering
 Elevene har mulighet til selv å skrive en vurdering av seg selv i forhold til dette faget. Denne vurderingen kan leses av faglæreren. Det er ikke obligatorisk for elevene å gjøre egenvurdering i fagene og det styres av faglærerne hvorvidt det skal gjøres egenvurdering. Faglærer kan igjen gi eleven tilbakemelding på egenvurderingen.
