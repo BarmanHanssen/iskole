@@ -67,6 +67,6 @@ Det er ikke obligatorisk for elevene å gjøre egenvurdering i fagene, det styre
 Orden- og atferdsmerknader er merknader i forbindelse med brudd på skolens reglement. Faglærere kan navigere til eleven det gjelder via faget, kontaktlærere kan gå direkte til sine elever. Vurderinger lagt til her får en referanse knyttet til faget selv om merknaden som sådan er uavhengig av faget.
 
 Under kolonnen _Behandle_ har du to valg. Dersom merknad er lagt inn kan den tas frem, og eventuelt redigeres. Dersom ny merknad skal legges til, klikkes på +-tegnet.
-Merknaden blir også synlig for kontaklæreren under menyvalget _Elever_, under fanen _Orden/atferd_. 
+Merknaden blir også synlig for kontaklæreren fra menyvalget _Elever_, under fanen _Orden/atferd_. 
 
 Orden- og atferdsvurderinger som gjelder hendelser utenom timer, f.eks. friminutt eller studieøkter, føres av kontaktlærer og ansatte med rollen _Elevinspektør_ under menyvalget _Elever_.
