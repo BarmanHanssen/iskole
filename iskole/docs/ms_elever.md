@@ -12,7 +12,7 @@ Hvis du er kontaktlærer vil alle dine elever vises i fanen _Kontaktelever_. Kol
 ![bilde](/img/ms_elever_kontaktelever.png 'Kontaktelever')
 
 ##### Vikar/assistent for mine kontaktelever
-Som kontaktlærer kan du legge til vikarer eller assistenter for en spesifisert periode. Disse vil få de samme rettighetene som du har både til å se informasjon om eleven, føre fravær, registrere elevsamtaler og ta ut rapporter.
+Som kontaktlærer kan du legge til vikarer eller assistenter for en spesifisert periode. Disse vil få de samme rettighetene som kontaktlæreren har til å se informasjon om eleven, føre fravær, registrere elevsamtaler og ta ut rapporter.
 
 ## Søk etter elev
 Utvalget i denne listen er basert på din rolle. Faglærere og kontaktlærere vil få frem sine elever, mens administrasjonen, rådgivere osv. vil få frem alle elever ved skolen.
