@@ -24,4 +24,4 @@ Utvalget i denne listen er basert på din rolle. Faglærere og kontaktlærere vi
 For å begrense utvalget kan en  søke på klasse, navn eller elevnr. Søkeresultatet vises i en tabell tilsvarende tabellen som kontaktlæreren har og funksjonaliteten er den samme.
 
 ## Elever i mine fag
-Tabellen viser elevene i faget valgt i nedtrekkslisten. Faglæreren får bare informasjon om personalia, timeplan, fravær og orden/atferd til den enkelte elev.
+Tabellen viser elevene i faget valgt i nedtrekkslisten. Faglæreren får bare informasjon om personalia, timeplan, fravær og orden/atferd til sine elever.
