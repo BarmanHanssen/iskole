@@ -16,7 +16,7 @@ Ved å dobbel-klikke på en elev kan en få frem data under disse kolonnene:
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cdd6bf2a-a20a-4cac-b984-810000709a64)
 
 
-##### Vikar/assistent for mine kontaktelever
+#### Vikar/assistent for mine kontaktelever
 Som kontaktlærer kan du legge til vikarer eller assistenter for en spesifisert periode. Disse vil få de samme rettighetene som kontaktlæreren har til informasjon om eleven.
 
 ## Søk etter elev
