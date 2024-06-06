@@ -4,7 +4,7 @@ title: Års-/ukeplan
 sidebar_label: Års-/ukeplan
 ---
 
-Listen viser dine fag. Velg det faget du ønsker å lage års- eller ukeplan for. Når du har valgt et fag, vil du automatisk se fanen _Ukeplaner_. I tillegg finnes fanene _Individuelle ukeplaner_ og _Årsplan_. 
+Velg det faget du ønsker å lage års- eller ukeplan for. Når du har valgt et fag, fås o
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/bd9f6e03-bb3e-44ef-8e17-216e95ba52b0)
 
