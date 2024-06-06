@@ -13,11 +13,12 @@ Velg det faget du ønsker å lage års- eller ukeplan for. Skjembilde blir da ti
 Klikk på uken du ønsker å lage en plan for, deretter på knappen _Endre_. Du får nå frem et dialogvindu med en teksteditor. 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/7be2416c-7e58-4e7d-9b0f-1b1f98693339)
 
+Som standard vises kun inneværende og fremtidige uker, dersom du ønsker å se tidligere uker klikker du på _Tidligere uker_.
 
-Dersom du ønsker å organisere ukeplanen i en tabell kan du klikke på knappen _Sett inn tabell mandag - fredag_ for å sette inn en mal i tekstfeltet. I ukeplanen kan du for eksempel legge inn hvilke kapitler som er pensum denne uken og hva de har i lekse. Ukeplanen lagres automatisk når du klikker _OK_. Det du lagrer på hver uke, vil vises i forbindelse med elevens timeplan den aktuelle uken. Som standard vises kun inneværende og fremtidige uker, dersom du ønsker å se tidligere uker klikker du på _Vis tildligere uker_.
+Dersom du ønsker å organisere ukeplanen i en tabell kan du klikke på knappen _Sett inn_. I ukeplanen kan du for eksempel legge inn hvilke kapitler som er pensum denne uken og hva de har i lekse. Det du lagrer på hver uke, vil vises på elevens timeplan den aktuelle uken. 
 
 ## Individuelle planer
 Dersom en elev i faget får en individuell plan vil denne erstatte eventuell plan opprettet under "Ukeplaner". Funksjonaliteten er den samme som for _Ukeplaner_.
 
 ## Årspan
-Årsplanen vil vises under elevens menyvalg _Årsplan_, sammen med alle ukeplanene.
+Klikker du på _Årsplanen_ får du frem samme teksteditor som den for ukeplanene.
