@@ -4,7 +4,7 @@ title: Års-/ukeplan
 sidebar_label: Års-/ukeplan
 ---
 
-Velg det faget du ønsker å lage års- eller ukeplan for. Når du har valgt et fag, fås o
+Velg det faget du ønsker å lage års- eller ukeplan for. Skjembilde blir da tilsvarende dette:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/bd9f6e03-bb3e-44ef-8e17-216e95ba52b0)
 
