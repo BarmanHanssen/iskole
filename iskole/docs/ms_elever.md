@@ -8,7 +8,7 @@ Siden inneholder tre ulike faner, _Kontaktelever, Søk etter elev_ og _Elever i 
 
 
 ## Kontaktelever
-Hvis du er kontaktlærer vil alle dine elever vises i fanen _Kontaktelever_. Kolonnen _Sist innlogget_ viser når eleven eller den foresatte sist var innlogget, dette hjelper deg til å se om elevene benytter iSkole.
+Hvis du er kontaktlærer vil alle dine elever vises i fanen _Kontaktelever_. Kolonnene _Sist innlogget_ viser når eleven og foresatte sist var innlogget, dette indikerer om elev/foresatt er aktive brukere av iSkole.
 ![bilde](/img/ms_elever_kontaktelever.png 'Kontaktelever')
 
 ### Kontaktlærer vikar/assistent
