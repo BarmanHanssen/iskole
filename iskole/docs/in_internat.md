@@ -5,9 +5,9 @@ sidebar_label: Internat
 ---
 Registrering er todelt.
  ## Internat
- Her legger en inn navnet på en boenhet, uten annen enn en generell merknad til boenheten.
+ I øverste del legger man inn navn og eventeull merknad på boenhetene
  
  ## Rom
-Her spesifiseres alle boenhetene som skal være gjenstand for utleie.
+I den nedre delen kan man legge inn rom på boenheten valgt i øvre del. Alle rommene som legges inn her blir tilgjengelig til utleie.
 
-![image](https://user-images.githubusercontent.com/80097133/137482234-ab9b08cd-00bb-486a-a1d4-94bf0136fd54.png)
+![bilde](/img/int_internat.png)
