@@ -13,7 +13,7 @@ Under kolonnene _Innsyn elev/foresatt_ fremgår det hva som er synlig for elev o
 
 
 
-#### Bruk ikonet under kolonnen Valg for å inspisere/endre dokumenter som er lagret på eleven: 
+### Bruk ikonet under kolonnen Valg for å inspisere/endre dokumenter som er lagret på eleven: 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a8c20c7d-069d-4830-a0d7-815a4ca13671)
 
