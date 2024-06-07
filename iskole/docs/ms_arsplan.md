@@ -21,5 +21,5 @@ Dersom du ønsker å organisere ukeplanen i en tabell kan du klikke på knappen 
 ## Individuelle planer
 Dersom en elev i faget får en individuell plan vil denne erstatte eventuell plan opprettet under "Ukeplaner". Funksjonaliteten er den samme som for _Ukeplaner_.
 
-## Årspan
-Klikker du på _Årsplanen_ får du frem samme teksteditor som den for ukeplanene.
+## Årsplan
+Klikker du på _Årsplanen_ får du frem samme teksteditor som den for ukeplanene. Elevene finner årsplanene for sine fag fra menyvalget  _Årsplan_.
