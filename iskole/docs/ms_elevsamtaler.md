@@ -16,5 +16,5 @@ For å slette en elevsamtale klikker du først _Rediger_, deretter _Slett..._. S
 Du har bare mulighet til å endre eller slette elevsamtalen frem til eleven kvittérer. 
 :::
 
-#### _Søk etter elev_
+#### _Søk etter elev_ 
 Elevinspektører får også fram dette menyvalget. Elevinspektøren kan også legge inn elevsamtaler på samme måte som kontaktlærer. Det er kun mulig å endre, eller slette, elevsamtaler man selv har skrevet frem til eleven har kvittert.
