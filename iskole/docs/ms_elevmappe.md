@@ -4,7 +4,8 @@ title: Elevmappe
 sidebar_label: Elevmappe
 ---
 
-Kontaktlærere kan legge inn dokumenter i sine kontaktelevers elevmappe (![bilde](https://github.com/BarmanHanssen/iskole/)assets/80097133/94f570c0-4c6e-4e14-8810-93b73fc0a040)
+Kontaktlærere kan legge inn dokumenter i sine kontaktelevers elevmappe, se ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/1525cd0f-8386-4b2c-b0d7-fa81058e0098)
+iskole/)assets/80097133/94f570c0-4c6e-4e14-8810-93b73fc0a040)
 . Alt som legges inn her er også synlig for elevene det gjelder. Menyvalget gir en liste av kontaktelever, og man må velge en kontaktelev slik at man har kun fremme dokumenter for én elev om gangen. For å laste opp et dokument må man trykke på knappen Velg fil, velge filen, skrive tittel og resymé til dokumentet og så trykke på knappen _Lagre fil_. Man kan laste ned alle dokumentene som ligger på eleven, men man kan kun slette dokumenter som man har lastet opp selv.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/4f96e17f-933b-407c-bbb6-2cc799afae40)
