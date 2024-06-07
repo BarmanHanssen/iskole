@@ -8,3 +8,4 @@ Det er kontaktlærer og kontaktlærervikar som fører orden og adferd på sine k
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/33736d09-60ac-4750-8b78-54068784794e)
 
+For å få frem detaljer: Klikk på ikonet under kolonnen _Vis_.
