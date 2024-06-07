@@ -14,5 +14,5 @@ For hvert fag fås en tabell med elevene i faget, hvilken fagkode eleven har i d
 Når en karakter er ført, kan man skrive en begrunnelse for karakteren. Det er en fane for 1. halvår og en for 2. halvår og standpunkt.
 
 :::note Merk
-Faglærer ikke endre karakter etter at elevene fått tilgang til karakterene. Eventuelle feilføringer må rapporteres til skolens rektor eller karakteransvarlig.
+Faglærer ikke endre en karakter etter at elevene har fått tilgang til karakterene. Eventuelle feilføringer må da rapporteres til skolens rektor eller karakteransvarlig.
 :::
