@@ -3,9 +3,11 @@ id: ms_elevmappe
 title: Elevmappe
 sidebar_label: Elevmappe
 ---
-Nedtrekkslisten _Velg elev_ inneholder kontaktlærerens kontaktelever, og man må velge en kontaktelev om gangen.
+Nedtrekkslisten _Velg elev_ inneholder kontaktlærerens elever, og man må velge en kontaktelev om gangen.
 Kontaktlærere kan legge inn dokumenter i kontaktelevens elevmappe, bruk ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/de01d2e0-92e6-4070-8be0-d709974d429d)
 
-Kolonnene _Innsyn elev/foresatt_ fremgår det hva som er synlig for elevene og foresatt.  For å laste opp et dokument må man trykke på knappen Velg fil, velge filen, skrive tittel og resymé til dokumentet og så trykke på knappen _Lagre fil_. Man kan laste ned alle dokumentene som ligger på eleven, men man kan kun slette dokumenter som man har lastet opp selv.
+Under kolonnene _Innsyn elev/foresatt_ fremgår det hva som er synlig for elev og foresatt. 
+
+Bruk ikonet under kolonnen Valg for å inspisere/endre dokumenter som er lagret på eleven: 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/4f96e17f-933b-407c-bbb6-2cc799afae40)
