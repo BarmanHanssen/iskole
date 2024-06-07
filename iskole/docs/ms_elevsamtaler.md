@@ -3,7 +3,7 @@ id: ms_elevsamtaler
 title: Elevsamtaler
 sidebar_label: Elevsamtaler
 ---
-## Elevsamtaler
+
 Kontaktlærer kan her dokumentere avholdte elevsamtaler. Her fås også en oversikt over allerede registrerte elevsamtaler med eleven, og om eleven har lest referatet. 
 
 ![bilde](/img/ms_elevsamtaler.png 'Elevsamtaler')
