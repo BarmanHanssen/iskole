@@ -17,4 +17,6 @@ Du har bare mulighet til å endre eller slette elevsamtalen frem til eleven kvit
 :::
 
 #### _Søk etter elev_ 
-Elevinspektører får også fram dette menyvalget. Elevinspektøren kan også legge inn elevsamtaler på samme måte som kontaktlærer. Det er kun mulig å endre, eller slette, elevsamtaler man selv har skrevet frem til eleven har kvittert.
+Elevinspektører får også fram dette menyvalget. Elevinspektøren kan også legge inn elevsamtaler på samme måte som kontaktlærer. 
+
+Det er kun mulig å endre, eller slette, elevsamtaler man selv har skrevet frem til eleven har kvittert.
