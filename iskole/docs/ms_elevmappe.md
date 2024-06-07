@@ -7,6 +7,7 @@ Nedtrekkslisten _Velg elev_ inneholder kontaktlærerens elever, og man må velge
 Kontaktlærere kan legge inn dokumenter i kontaktelevens elevmappe, bruk ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/de01d2e0-92e6-4070-8be0-d709974d429d)
 
 
+
 Under kolonnene _Innsyn elev/foresatt_ fremgår det hva som er synlig for elev og foresatt. 
 
 
