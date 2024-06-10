@@ -12,6 +12,7 @@ Siden inneholder tre ulike faner, _Kontaktelever, Søk etter elev_ og _Elever i 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/44548b8d-4c93-401a-9fba-e7b40e1bcd9a)
 
 Hvis du er kontaktlærer vil alle dine elever vises i fanen _Kontaktelever_. Kolonnene _Sist innlogget_ viser når eleven og foresatte sist var innlogget, dette indikerer om elev/foresatt er aktive brukere av iSkole.
+
 ![bilde](/img/ms_elever_kontaktelever.png 'Kontaktelever')
 
 #### Vikar/assistent for mine kontaktelever
