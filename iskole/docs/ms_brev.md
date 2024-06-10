@@ -7,6 +7,7 @@ sidebar_label: Brev
 
 
 ## Varselbrev
+Første skjermbilde dersom man velger _Varselbrev_:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/8de3b07f-aca5-472e-b64f-195b3ed0e9b0)
 
