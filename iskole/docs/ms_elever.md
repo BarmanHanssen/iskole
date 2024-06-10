@@ -4,7 +4,7 @@ title: Elever
 sidebar_label: Elever
 ---
 
-Siden inneholder tre ulike faner, _Kontaktelever, Søk etter elev_ og _Elever i mine fag_. Kontaktlærer ser sine kontaktelever og faglærer får liste over sine fag med tilhørende elever. _Søk etter elev_ inneholder elever basert på dine roller. Felles for alle fanene er at de leder videre til detaljert informasjon om den enkelte elev. Her vise blant annet elevens personalia, timeplan, fravær og orden/atferd. Kontaktlærer og elevadministrasjon ser i tillegg vurderinger, samtaler, resultater, eksamener og brev. 
+Siden inneholder tre ulike faner, _Kontaktelever, Søk etter elev_ og _Elever i mine fag_. Felles for alle fanene er at de leder videre til detaljert informasjon om den enkelte elev. Her vise blant annet elevens personalia, timeplan, fravær og orden/atferd. Kontaktlærer og elevadministrasjon ser i tillegg vurderinger, samtaler, resultater, eksamener og brev. 
 
 
 ## Kontaktelever
