@@ -4,6 +4,9 @@ title: Bibliotek
 sidebar_label: Bibliotek
 ---
 
-Hvis skolen benytter bibliotekmodulen til iSkole så vil dette menyvalget vises. Det er da mulig å søke etter bøker på skolens bibliotek. Søkefeltene vises i toppen av hver kolonne, klikk _Enter_-tasten etter du har skrevet inn tekst for å utføre søket. Tallet _Tilgjengelig_ viser hvor mange bøker som er tilgjengelig for utlån.
+Dersom skolen benytter bibliotekmodulen til iSkole vil dette menyvalget vises.
+
+Her vises alle bøker som er registrert i skolens bibliotek.Tallet _Tilgjengelig_ viser hvor mange bøker som er klare for utlån.  
+Søkefeltene vises i toppen av hver kolonne. Du kan søke på forfatter, eller boktittel, eller ISBN-nr. Resultatet vises fortløppende etterhvert som du føyer til flere tegn. 
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/4512b61b-8dce-4e46-b101-cfa61427bca8)
