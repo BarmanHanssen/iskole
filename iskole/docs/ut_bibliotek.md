@@ -3,7 +3,7 @@ id: ut_bibliotek
 title: Bibliotek
 sidebar_label: Bibliotek
 ---
-For at en bruker skal å få tilgang til biblioteket må  brukeren tildele brukergruppen _Bibliotekar_. (Se menyvalget _Mine sider > Tilgang og arkfanen Brukergrupper_.
+For at en bruker skal å få tilgang til biblioteket må  brukeren tildele brukergruppen _Bibliotekar_. (Se menyvalget _Mine sider > Tilgang_ og arkfanen _Brukergrupper_.
 
 Biblioteksystemet i iSkole gjør det mulig å registrere alle bøkene skolen har i sitt bibliotek. Her håndteres utlån, og her gis oversikt over utlån til elever og ansatte. 
 
