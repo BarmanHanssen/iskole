@@ -132,7 +132,7 @@ Smale skjermer vil ha færre kolonner. Benytter du telefon kan du legge telefone
 Øverst vises orden- og atferdkarakterer for skoleåret. Under vises eventuelle begrunnelser ført av kontaktlæreren, årsmerknad og anmerkninger. Anmerkninger kan vektes og være av typen atferds- eller ordensanmerkning.
 
 ### Eksamen
-I dette vinduet vises eksamensoppmeldingene. Privatisteksamen og norsk hovedmål vises straks man er oppmeldt, mens trekk i muntlig, muntlig/praktisk og praktisk eksamen vises to dager før selve eksamen. Forberedelse, for fag som har det, og innvilget tilrettelagt eksamen vises på hvert fag. Partier med eksamensstart før klokken 14:00 vises klokken 09:15 to dager før. Partier med eksamensstart etter klokken 14:00 vises klokken 14:15 to dager før. Resultatene vises i feltet _Sensur_ når de er tilgjengelige. Bildet nedenfor viser en oppmelding til eksamen for en kandidat hvor også sensuren er kommet.
+I dette vinduet vises eksamensoppmeldingene. Oppmeldingene publiseres i henhold til regelverket gitt av Utdanningsdirektoratet. Forberedelse, for fag som har det, og innvilget tilrettelagt eksamen vises på hvert fag. Resultatene vises i feltet _Sensur_ når de er tilgjengelige. Bildet nedenfor viser en oppmelding til eksamen for en kandidat hvor også sensuren er kommet.
 
 ![Eksamen](/img/iskole_elev_eksamen.png 'Eksamen')
 
