@@ -1,10 +1,18 @@
----
+  ---
 id: ms_brev
 title: Brev
 sidebar_label: Brev
 ---
 
+
+
 ## Varselbrev
+Første skjermbilde dersom man velger _Varselbrev_:
+
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/8de3b07f-aca5-472e-b64f-195b3ed0e9b0)
+
+
+
 Rapportene som genereres her er varselbrev som sendes til elevene det gjelder. Man kan også i dette skjermbildet se om brevene er åpnet av mottakerne. Det er fire arkfaner:
 1. Orden og atferd
 2. Fag
