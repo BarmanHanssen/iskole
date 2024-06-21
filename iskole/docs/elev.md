@@ -15,10 +15,10 @@ For Android: Brukeren blir automatisk spurt om de ønsker å legge til iSkole so
 ### Innlogging i iSkole
 For å logge inn i iSkole må man være registrert som elev ved skolen i inneværende skoleår. Som brukernavn kan man alltid benytte sitt fødselsnummer (11 siffer) eller sin e-postadresse. Det forutsettes selvfølgelig at disse alt er innført i iSkole. Når man slutter ved skolen mister man tilgangen til iSkole.
 
-Førstegangsbruker av iSkole kan be om å få tilsendt passord på e-post. Trykk i såfall på lenken _Bestill nytt passord_. 
+Førstegangsbruker av iSkole kan be om å få tilsendt passord på e-post. Trykk i såfall på _Glemt passord?_. 
 
 ### Endre passord
-Når du har logget inn kan du endre passord ved å klikke på navnet ditt øverst til høyre i bildet. Velg _Innstillinger_ fra menyen.
+Når du har logget inn kan du endre passord ved å klikke på navnet ditt øverst til høyre i bildet. Velg _Innstillinger_ fra menyen. Alternativ til passord er en _Tilgsangsnøkkel_.
 
 ### Innlogging via FEIDE
 Hvis skolen har avtale med FEIDE, og man har fått tildelt FEIDE-brukernavn kan man logge inn ved å trykke på knappen _FEIDE_.
