@@ -9,7 +9,7 @@ Menyen til venstre er inngangsporten til dokumentasjon av iSkole. Mesteparten av
 
 Etter innlogging kommer alle inn på iSkoles _Startside_. Hvilke menyvalg som vises avhenger av om man er elev, forelder eller ansatt ved skolen. 
 
-_Mine sider_ for ansatte har samme stil som iSkole for elever og foreldre. En stund fremover vil det være mulig å velge om man vil benytte den gamle eller den nye versjonen av iSkole. Selv om skjermbildene har fått litt annet utseende, så er funksjonaliteten den samme, og man kan utføre de samme oppgavene i den nye som den gamle med to unntak. Valget _Brukerrolle_ er ikke videreført og _Foto_ er flyttet til modulene _Elevadmin_ og _Personal_. Menyen er litt omarbeidet i forhold til menyvalgenes rekkefølge, der vi har forsøkt å rangere menyvalgene etter hvor ofte de blir benyttet.
+_Mine sider_ for ansatte har samme stil som iSkole for elever og foreldre. Vi har forsøkt å rangere menyvalgene etter hvor ofte de blir benyttet.
 
 ### Menyen
 Menyen vises til venstre i skjermbildet. Dersom menyen ikke er synlig åpnes den ved å benytte _burgerikonet_ øverst til venstre:
