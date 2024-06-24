@@ -22,7 +22,7 @@ Som kontaktlærer kan du legge til vikarer eller assistenter for en spesifisert 
 Ved å dobbel-klikke på en elev kan en få frem data under disse kolonnene:
 
 # Søk etter elev
-Utvalget i denne listen er basert på din rolle. Faglærere og kontaktlærere vil få frem sine elever, mens administrasjonen, rådgivere osv. vil få frem alle elever ved skolen.
+Faglærere og kontaktlærere vil få frem sine elever, mens administrasjonen, rådgivere osv. vil få frem alle elever ved skolen.
 For å begrense utvalget kan en  søke på klasse, navn eller elevnr. For hver elev kan en så velge spesifike data ut fra  kolonnene som vist nedenfor.  
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cdd6bf2a-a20a-4cac-b984-810000709a64)
