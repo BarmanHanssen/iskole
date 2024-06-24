@@ -25,7 +25,7 @@ Ved å dobbel-klikke på en elev kan en få frem data under disse kolonnene:
 
 ## Søk etter elev
 Utvalget i denne listen er basert på din rolle. Faglærere og kontaktlærere vil få frem sine elever, mens administrasjonen, rådgivere osv. vil få frem alle elever ved skolen.
-For å begrense utvalget kan en  søke på klasse, navn eller elevnr. Søkeresultatet vises i en tabell tilsvarende tabellen som kontaktlæreren har og funksjonaliteten er den samme.
+For å begrense utvalget kan en  søke på klasse, navn eller elevnr. For hver elev kan en så velge spesifike data ut fra de samme kolonnene som vist ovenfor.  
 
 ## Elever i mine fag
 Her velger faglærer et av sine og får da frem alle elevene som følger faget. Faglæreren får bare informasjon om personalia, timeplan, fravær og orden/atferd til sine elever.
