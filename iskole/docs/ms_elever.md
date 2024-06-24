@@ -23,7 +23,13 @@ Ved å dobbel-klikke på en elev kan en få frem data under disse kolonnene:
 
 # Søk etter elev
 Faglærere og kontaktlærere vil få frem sine elever, mens administrasjonen, rådgivere osv. vil få frem alle elever ved skolen.
-For å begrense utvalget kan en  søke på klasse, navn eller elevnr. For hver elev kan en så velge spesifike data ut fra  kolonnene som vist nedenfor.  
+For å begrense utvalget kan en  søke på klasse, navn eller elevnr. Færste skjermbilde ser slik ut:
+
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/7ab12549-eca8-4405-9dcc-82d436ffb712)
+
+Kolonnene _Sist innlogget_ indikerer hvorvidt elev/foresatt benytter iSkole.
+
+Ved å dobbeltklikke på en elev fås frem flere data til eleven.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cdd6bf2a-a20a-4cac-b984-810000709a64)
 
