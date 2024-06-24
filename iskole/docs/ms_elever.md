@@ -7,7 +7,7 @@ sidebar_label: Elever
 Siden inneholder faner, _Kontaktelever, Søk etter elev_ og _Elever i mine fag_. Felles for alle fanene er at de leder videre til detaljert informasjon om den enkelte elev. Her vise blant annet elevens personalia, timeplan, fravær og orden/atferd. Kontaktlærer og elevadministrasjon ser i tillegg vurderinger, samtaler, resultater, eksamener og brev. 
 
 
-## Kontaktelever
+# Kontaktelever
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/44548b8d-4c93-401a-9fba-e7b40e1bcd9a)
 
