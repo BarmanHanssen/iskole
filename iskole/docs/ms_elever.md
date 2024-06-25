@@ -25,8 +25,6 @@ For å begrense utvalget kan en  søke på klasse, navn eller elevnr. Første sk
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/7ab12549-eca8-4405-9dcc-82d436ffb712)
 
-Kolonnene _Sist innlogget_ indikerer hvorvidt elev/foresatt benytter iSkole.
-
 Ved å dobbeltklikke på en elev fås frem flere data til eleven.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cdd6bf2a-a20a-4cac-b984-810000709a64)
