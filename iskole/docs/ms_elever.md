@@ -21,7 +21,7 @@ Ved å dobbel-klikke på en elev kan en få frem data under disse kolonnene:
 
 # Søk etter elev
 Faglærere og kontaktlærere vil få frem sine elever, mens administrasjonen, rådgivere osv. vil få frem alle elever ved skolen.
-For å begrense utvalget kan en  søke på klasse, navn eller elevnr. Færste skjermbilde ser slik ut:
+For å begrense utvalget kan en  søke på klasse, navn eller elevnr. Første skjermbilde ser slik ut:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/7ab12549-eca8-4405-9dcc-82d436ffb712)
 
