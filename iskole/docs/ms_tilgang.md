@@ -84,7 +84,7 @@ I starten (og gjerne før start) av skoleåret er det ofte ønskelig at timeplan
 
 _Timeplanen er synlig i hele planperioden for de ansatte_
 
-Det kan være greit for timeplanlegger å få arbeide uforstyrret til timeplanen er feriglagt. For å skjerme timeplanlegger kan en her sette en dato senere enn 1. august. De ansatte får da ikke tilgang til sin timeplan før denne datoene.
+Det kan være greit for timeplanlegger å få arbeide uforstyrret til timeplanen er feriglagt. For å skjerme timeplanlegger kan en her sette en dato senere enn 1. august. De ansatte får da ikke tilgang til iSkole før denne datoene.
 
 _iSkole er synlig for eleene fra_
 
