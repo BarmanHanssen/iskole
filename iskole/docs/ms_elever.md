@@ -3,6 +3,7 @@ id: ms_elever
 title: Elever
 sidebar_label: Elever
 ---
+Menyvalget ## Fravær 
 
 Siden inneholder faner, _Kontaktelever, Søk etter elev_ og _Elever i mine fag_. Felles for alle fanene er at de leder videre til detaljert informasjon om den enkelte elev. Her vise blant annet elevens personalia, timeplan, fravær og orden/atferd. Kontaktlærer og elevadministrasjon ser i tillegg vurderinger, samtaler, resultater, eksamener og brev. 
 
