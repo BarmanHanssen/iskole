@@ -19,7 +19,9 @@ Grønt fravær er registrert som dokumentert i henhold til Udirs reglement. Frav
 :::
 
 ## Fagfravær
-Føring av fagfravær starter med at faglærer velger faget det skal føres fravær i. Det er kun mulig å føre fravær i de timene som er timeplagt i valgt fag. Ved føring av fagfravær kan man velge mellom to visninger _Fullvisning_ og _Komprimert visning_. Den komprimerte er beregnet for små skjermer og viser kun timene i det valgte faget. Fullvisningen viser i tillegg elevens øvrige timer og eventuelt fravær i disse. Faglæreren kan dermed se om eleven også har vært borte tidligere på dagen. Dersom en time ikke blir avholdt kan faglærer registrere dette i fullvisningen. I fullvisningen vises informasjon om timen (forfag, merknad, minutter fravær, og tiden for timen) ved å holde musepekeren over fraværskoden, dette er ikke tilgjengelig i komprimert visning. Øvrig funksjonalitet er lik i de to visningene.
+Føring av fagfravær starter med at faglærer velger faget det skal føres fravær i. Fravær kan bare føres i de timene som er timeplagt i faget. Ved føring av fagfravær kan man velge mellom _Fullvisning_ og _Komprimert visning_. Den komprimerte er beregnet for små skjermer og viser kun timene i det valgte faget for en uke. Fullvisningen viser timeoppsettet for alle ukens timer og markerer alt som er fraværsførtpå den enkelte elev. Faglæreren kan dermed se om eleven også har vært borte tidligere på dagen. 
+
+Dersom en time ikke blir avholdt kan faglærer registrere dette i fullvisningen. I fullvisningen vises informasjon om timen (fag, merknad, minutter fravær, og tiden for timen) ved å holde musepekeren over fraværskoden, dette er ikke tilgjengelig i komprimert visning. Øvrig funksjonalitet er lik i de to visningene.
 
 
 ![Fravær](/img/ms_fravaer_oversikt.png 'Fravær')
