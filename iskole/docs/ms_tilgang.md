@@ -79,8 +79,17 @@ Det er rektor og administrator som kan stenge tilgangen til iSkole, og som kan �
 #### Stenging av iSkole
 Stengingen, og åpning, foretas av rektor eller administrator. Ved forøk på å logge inn, vil det gis beskjed om at iSkole er stengt. I tidsrommet hvor iSkole er stengt, er det bare rektor og administrator som kan logge seg på.
 
-#### Tilgang til iSkole i planperioden
-I starten av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises. Noen skoler begynner allerede timeplanarbeidet for neste skoleår på vårparten. Da kan det være greit å få arbeide uforstyrret! Dette gjøres ved å velge neste års planperioden samt datoen timeplanen skal bli synlig for elever og ansatte. Elever og ansatte kan logge inn på iSkole hele tiden, men får ikke fram timeplanen før etter angitte dato.
+#### Tilgang til Mine sider i skoleåret
+I starten (og gjerne før start) av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises, og at neste års elever ikke får innsyn i hvilken klasse og lærere som de skal forhole seg til. 
+
+_Timeplanen er synlig i hele planperioden for de ansatte_
+Det kan være greit for timeplanlegger å få arbeide uforstyrret til timeplanen er feriglagt. For å skjerme timeplanlegger kan en her sette en dato senere enn 1. august. De ansatte får da ikke tilgang til sin timeplan før denne datoene.
+
+_iSkole er synlig for eleene fra_
+Elevene har i utgsngspunktet tilgang til iSkole hele skoleåret hvor de er registrert som elev, altså helt frem til til skoleårets slutt som i utgangspunktet er 31. juli. Dersom eleven slutter før skoleårets slutt, mistes tilgangen. Dersom en ønsker at elevene  ikke får tilgang til neste skoleår fra 1. august kan en sette inn en senere dato her.
+
+
+
 
 ## Romreservering
 Dersom andre enn timeplanlegger skal kunne reservere et rom, kan en her angi hvilke rom som kan reserveres av utvalgte ansatte. Dersom man gir en lærer en slik rettighet, kan vedkommende reservere et rom til en time hvor læreren allerede er båndlagt med undervisning i et annet rom. Ekstrarommet vil vises på lærerens timeplan, og på rommets timeplan. Se _Mine sider>Timeplan>Romtimeplan_ under fanene _Mine reserveringer_ og _Rom som du kan reservere_. 
