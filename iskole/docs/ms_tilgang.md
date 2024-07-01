@@ -83,9 +83,11 @@ Stengingen, og åpning, foretas av rektor eller administrator. Ved forøk på å
 I starten (og gjerne før start) av skoleåret er det ofte ønskelig at timeplanleggeren får legge timeplanen ferdig før den vises, og at neste års elever ikke får innsyn i hvilken klasse og lærere som de skal forhole seg til. 
 
 _Timeplanen er synlig i hele planperioden for de ansatte_
+
 Det kan være greit for timeplanlegger å få arbeide uforstyrret til timeplanen er feriglagt. For å skjerme timeplanlegger kan en her sette en dato senere enn 1. august. De ansatte får da ikke tilgang til sin timeplan før denne datoene.
 
 _iSkole er synlig for eleene fra_
+
 Elevene har i utgsngspunktet tilgang til iSkole hele skoleåret hvor de er registrert som elev, altså helt frem til til skoleårets slutt som i utgangspunktet er 31. juli. Dersom eleven slutter før skoleårets slutt, mistes tilgangen. Dersom en ønsker at elevene  ikke får tilgang til neste skoleår fra 1. august kan en sette inn en senere dato her.
 
 
