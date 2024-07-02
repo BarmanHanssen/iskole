@@ -47,6 +47,7 @@ Det er viktig å få registrert sluttet-dato når den foreligger. Etter denne da
 ### Ansettelse og ansiennitet
 - Pedagogisk ansatt: Hukes av dersom vedkommende skal kunne ha undervisningsoppdrag. Fra _Time- og fagfordeling_ kan bare pedagogisk ansatte registreres som faglærer. 
 - Prosent: Deltidsansatte har mindre enn 100 % stilling. Fra _Time- og fagfordeling>Stillingsstørrelser_ fremkommer avviket mellom stillingsstørrelsen og registrerte pålagte oppgaver (undervisning og annet).
+- Funksjonstillegg: Funksjonstilleggene er rene kronetillegg begrunnet i en funksjon den ansatte har. Funksjonstilleggene må ikke forveksles med andre prosenttillegg som man legger inn i time- og fagfordelingen.
 
 ### Undervisningsfag
 
