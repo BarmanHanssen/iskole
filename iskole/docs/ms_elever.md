@@ -30,4 +30,4 @@ Ved å dobbeltklikke på en elev fås frem flere data til eleven. Hvilke data fr
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cdd6bf2a-a20a-4cac-b984-810000709a64)
 
 # Elever i mine fag
-Her velger faglærer et av sine og får da frem alle elevene som følger faget. Faglærer har tilgang på de samme data som anført ovenfor for sine elever.
+Her velger faglærer et av sine fag og får da frem alle elevene som følger faget. Faglærer har tilgang på de samme data for sine elever som anført ovenfor.
