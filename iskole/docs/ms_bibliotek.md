@@ -4,7 +4,7 @@ title: Bibliotek
 sidebar_label: Bibliotek
 ---
 
-For å registrere ny bøker må man tilhøre brukergruppen _Bibliotekar_ (se menyvalget _Tilgang_), og det må være avhuket for _Bibliotek_ fra _Funksjoner_ . 
+Det er rektor, og rektors stedfortreder som må registrere at bibliotekfunksjonen skal være tilgjengelig. For å registrere ny bøker må man tilhøre brukergruppen _Bibliotekar_ (se menyvalget _Tilgang_), og det må være avhuket for _Bibliotek_ fra _Funksjoner_. 
 
 Her vises alle bøker som er registrert i iSkoles biblioteksystem. 
 
