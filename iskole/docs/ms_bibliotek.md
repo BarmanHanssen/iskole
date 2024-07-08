@@ -4,9 +4,9 @@ title: Bibliotek
 sidebar_label: Bibliotek
 ---
 
-Det er rektor, og rektors stedfortreder som må registrere at bibliotekfunksjonen skal være tilgjengelig. For å registrere ny bøker må man tilhøre brukergruppen _Bibliotekar_ (se menyvalget _Tilgang_), og det må være avhuket for _Bibliotek_ fra _Funksjoner_. 
+Det er rektor, og rektors stedfortreder som må registrere at bibliotekfunksjonen skal være tilgjengelig. Se menyvalget _Tilgang_.
 
-Dersom bibliotekfunsjonen er åpnet vises alle bøker som er registrert i iSkoles biblioteksystem. 
+Menyvalget _Bibliotek_ fremkommer kun dersom  bibliotekfunksjonener er åpnet. Her vises alle bøker som er registrert i iSkoles biblioteksystem. For å registrere nye bøker må man tilhøre brukergruppen _Bibliotekar_. 
 
 Tallet _Tilgjengelig_ viser hvor mange bøker som ligger inne og som er klare for utlån.  
 Søkefeltet vises i toppen. Du kan søke på forfatter, eller boktittel, eller ISBN-nr. Resultatet vises fortløppende etterhvert som du føyer til flere tegn. 
