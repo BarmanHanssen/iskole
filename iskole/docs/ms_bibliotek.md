@@ -4,9 +4,9 @@ title: Bibliotek
 sidebar_label: Bibliotek
 ---
 
-Dersom skolen benytter bibliotekmodulen til iSkole vil dette menyvalget vises.
+For å registrere ny bøker må man tilhøre brukergruppen _Bibliotekar_ (se menyvalget _Tilgang_), og det må være avhuket for_Bibliotek_ fra _Funksjoner_ . 
 
-Her vises alle bøker som er registrert i iSkoles biblioteksystem. Registrering av bøker skjer via menyvalget _Utlån_.
+Her vises alle bøker som er registrert i iSkoles biblioteksystem. 
 
 Tallet _Tilgjengelig_ viser hvor mange bøker som ligger inne og som er klare for utlån.  
 Søkefeltet vises i toppen. Du kan søke på forfatter, eller boktittel, eller ISBN-nr. Resultatet vises fortløppende etterhvert som du føyer til flere tegn. 
