@@ -3,11 +3,11 @@ id: ut_bibliotek
 title: Bibliotek
 sidebar_label: Bibliotek
 ---
-For at en bruker skal å få tilgang til biblioteket må  brukeren tildele brukergruppen _Bibliotekar_. (Se menyvalget _Mine sider > Tilgang_ og arkfanen _Brukergrupper_.
+For at en bruker skal å få tilgang til biblioteket må  brukeren tildele brukergruppen _Bibliotekar_. (Se menyvalget _Mine sider > Tilgang_ og arkfanen _Brukergrupper_.)
 
-Biblioteksystemet i iSkole gjør det mulig å registrere alle bøkene skolen har i sitt bibliotek. Her håndteres utlån, og her gis oversikt over utlån til elever og ansatte. 
+Biblioteksystemet i iSkole gjør det mulig å registrere bøkene skolen har i sitt bibliotek. Her håndteres utlån og innlevering, og her gis oversikt over utlån til elever og ansatte. 
 
-Registrering av bøker kan gjøres raskt og effektivt, og det samme gjelder utlån og innleveringer. Det er ikke en forutsetning av man har en strekkodeleser, men har man det vil det spare brukeren for å taste inn kodene som benyttes. Bibliotekfunksjonene er lagt til utlånsmodulen. Disse håndteres fra menyvalget _Bibliotek_. ) Skjermbildet «Bibliotek» består av fire arkfaner:
+Registrering av bøker kan gjøres raskt og effektivt, og det samme gjelder utlån og innleveringer. Har man en strekkodeleser vil det spare brukeren for å taste inn kodene som benyttes. Bibliotekfunksjonene er lagt til utlånsmodulen. Disse håndteres fra menyvalget _Bibliotek_. Skjermbildet «Bibliotek» består av fire arkfaner:
 
 1. Bokregister
 2. Utlån
