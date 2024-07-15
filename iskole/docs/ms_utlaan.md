@@ -1,7 +1,7 @@
 ---
 id: ms_utlaan
-title: Utlån
-sidebar_label: Utlån
+title: Lån
+sidebar_label: Lån
 ---
 
 Registrerte utlån av PC og bøker vises under dette menyvalget.
