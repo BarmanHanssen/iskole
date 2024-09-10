@@ -69,6 +69,7 @@ En ansatt med regisrert epostadresse selv kan få tilsendt passord. Det gjøres 
 
 ![image](https://github.com/user-attachments/assets/0f84cf29-2db9-458a-878d-9fb48eb5289a)
 
+### Ansatt
 Velges Ansatt, får vi frem oversikt over alle ansatte som er registrert ved skolen. Søkerfeltet begrenser effektiv hva som vises.
 
 ![image](https://github.com/user-attachments/assets/222d614f-2ff1-451d-ad3b-c4b0f19b48c9)
