@@ -74,6 +74,10 @@ Velges Ansatt, får vi frem oversikt over alle ansatte som er registrert ved sko
 
 ![image](https://github.com/user-attachments/assets/222d614f-2ff1-451d-ad3b-c4b0f19b48c9)
 
+Dersom ny ansatt skal registreres starter vi her:
+![image](https://github.com/user-attachments/assets/96fca24a-8326-4373-a26e-eac0cfaac6a9)
+
+
 
 
 
