@@ -77,6 +77,15 @@ Velges Ansatt, får vi frem oversikt over alle ansatte som er registrert ved sko
 Dersom ny ansatt skal registreres starter vi her:
 ![image](https://github.com/user-attachments/assets/96fca24a-8326-4373-a26e-eac0cfaac6a9)
 
+Her må alt fylles ut for å få lagret dataene.
+- Brukernavn (kort)
+Bynytte blant annet på timeplanen. Maks tre tegn, ofte en (eller to) bokstaver fra fornavn og to (eller en) bokstav fra etternavnet. Kortnavnet blir kontrollert mot allerede kortnavn i bruk ved skolen slik at kortnavnet er unikt. Kan endres dersom nytt kortnavn er unikt./
+- Fødselsdata fylless inn. årstallet skal ha fire siffer.
+- Personnr
+Her kontrolleres at det er et riktig norsk personnummer. Dersom vedkommende mangler personnummer, kan en midlertidig registrere et femsifret nummer som starter med tallet 9. Det anbefales få få registrert riktig personnummer så raskt som mulig. Etterregistrering kan i noen tilfeller medføre komplikasjoner.
+- Fornavn/Etternavn må selvsagt også registreres, og kan endres 
+
+- 
 
 
 
