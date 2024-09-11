@@ -18,7 +18,7 @@ Dersom ny person skal registreres, trykker man på _+Ny asatt..._
 - Født og Personnr: Dersom den nye ansatte har personnummeret, anbefales sterkt at dette registreres ved innføringen her. Det er mulig å benytte fiktivt personnummer, eksempelvis 99999. Det vil kunne medføre ekstra arbeid dersom en benytter fiktivt nummer, og det senere viser seg at personen alt var registrert fra annen skole.
 - Fornavn og Etternavn: Kan ikke stå blankt!
 
-:::note Merk
+::: note Merk
 Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med dette fødselsnummer. Dersom personen har vært elev, eller ansatt, ved en skole som bruker iSkole, vil for- og etternavn automtisk fylles ut.
 :::
 
