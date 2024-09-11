@@ -90,7 +90,6 @@ Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns
 
 - Fornavn/Etternavn må selvsagt også registreres, og kan endres 
 
-- 
 
 
 
