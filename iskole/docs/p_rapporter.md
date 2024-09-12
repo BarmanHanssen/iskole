@@ -26,3 +26,6 @@ Antall rader i tabellen kan enkelt minskes ved å angi filter.
 :::note Merk
 Filtreringen du benytter leter etter match i alle kolonnene.
 :::
+
+### Undervisningsfag
+Alle fag som læreren har undervist i, og skal undervise i, listes opp her. Listen over fag kan endres ved å legge til/fjerne fag på den enkelte lærer. Det gjøres ved å velge personen fra Ansatt-menyen, under Undervisningsfag.
