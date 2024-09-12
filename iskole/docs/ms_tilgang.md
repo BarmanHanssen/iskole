@@ -37,8 +37,6 @@ For ansatte hvor det er avhuket med _Pedagogisk ansatt_ tildeles noen rettighete
 
 _Kontor_: Denne gruppen gis tilgang til utvalgte deler av menyvalget _Elevadmin._ Ingen automatisk tilgang til denne gruppen!
 
-_Superbruker_: En superbruker gis rettighet til å overta identitet til annen bruker (se _Mine sider>Brukerrolle_). Superbrukeren får da tilgang til de samme skjermbilder som brukeren har tilgang til. Hensikten er å kunne veilede/hjelpe andre brukere. Superbruker kan imidlertid ikke endre data for den som skal hjelpes, det må vedkommende gjøre selv.
-
 Mer detaljert oversikt over hvilken tilgang som tildeles når en bruker tildeles en brukergruppe fås fra _Grupperettigheter_.
 
 ## Grupperettigheter
