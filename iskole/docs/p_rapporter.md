@@ -24,5 +24,5 @@ Her kan hele tabellen lagres som en xls-fil for videre bruk.
 
 Antall rader i tabellen kan enkelt minskes ved å angi filter. 
 :::note Merk
-Filtreringen du benytter letter etter match i alle kolonnene.
+Filtreringen du benytter leter etter match i alle kolonnene.
 :::
