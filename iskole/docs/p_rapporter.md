@@ -32,3 +32,6 @@ Alle fag som læreren har undervist i, og skal undervise i, listes opp her. List
 
 ### Sensor
 Datagrunnlaget for rapportene er lagt inn fra menyvalget Eksamen, og kan endres derfra.
+
+## Avdelinger
+Hvilke avdelinger skolen har, med leder, er registrert fra Griunnlagsdata>Skole. Hvilke avdeling(er) den enkelte ansatte tilhører registeres fra Personal>Ansatt.
