@@ -64,7 +64,7 @@ En ansatt med regisrert epostadresse selv kan få tilsendt passord. Det gjøres 
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201087969-47897163-5243-4344-8f9d-218bf1b9b77d.png)
 
-# ---------------- Ny versjon, kommerr snart... ----------------
+# ---------------- Ny versjon, kommer snart... ----------------
 
 
 ![image](https://github.com/user-attachments/assets/0f84cf29-2db9-458a-878d-9fb48eb5289a)
