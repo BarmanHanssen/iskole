@@ -99,8 +99,7 @@ Finn frem til den nytilsatte, og klikk på _Rediger_. Da fås dette bilde:
 
 ![image](https://github.com/user-attachments/assets/394cfa0f-081d-4c98-8f72-d1fbcebfc272)
 
-Her kan man enkelt legge til, eventuelt endre bilde av den ansatte ved å dra bildefilen på plass slik som angitt på skjermbildet.
-
+Vi anbefaler minimum å fylle inn disse feltene:
 
 
 ### Fravær
