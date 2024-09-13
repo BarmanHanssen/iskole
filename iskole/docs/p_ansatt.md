@@ -10,7 +10,7 @@ Her er første skjermbilde for ansatte:
 - _Vis aktive_ lister alle som ikke er registrert med sluttet-dato før dagens dato.
 - _Vis alle_ tar også med de som har sluttet.
 
-Dersom ny person skal registreres, trykker man på _+Ny asatt..._
+Dersom ny person skal registreres, trykker man på _+Ny asatt..._ 
 
 ![bilde](https://user-images.githubusercontent.com/80097133/123949930-70c83e00-d9a3-11eb-8e38-004a8565d7f8.png)
 
