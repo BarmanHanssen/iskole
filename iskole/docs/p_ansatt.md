@@ -91,12 +91,12 @@ Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns
 
 - Fornavn/Etternavn må selvsagt også registreres, og kan endres.
 
+
 Tar du frem en ansatt som alt er registrert, og man klikker på _Rediger_,fås dette bilde:
 
-![image](https://github.com/user-attachments/assets/8f227633-18ae-4bb6-90f8-c1a65818aed5)
+![image](https://github.com/user-attachments/assets/7be023f5-e741-4fdc-9a78-223111361505)
 
 Her kan man enkelt legge til, eventuelt endre bilde av den ansatte ved å dra bildefilen på plass slik som angitt på skjermbildet.
-
 
 ### Grupper
 ![image](https://github.com/user-attachments/assets/24a5eacd-245c-4da5-8624-a39390ccf394)
