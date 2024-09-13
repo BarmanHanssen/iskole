@@ -109,6 +109,7 @@ Under _Ansettelse og ansiennitet_ anbefaler minimum å fylle inn disse feltene:
 - Pedagogisk ansatt (hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.)
 
 Under _Undervisningsfag_:
+
 Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer. (Begrenser ikke oppdrag læreren kan pålegges. Tabellen fylles atomatisk opp med fag som læreren får tildelt fra _Time- og fagfordeling, og kan justeres senere.)
 
 ### Fravær
