@@ -91,11 +91,15 @@ Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns
 
 - Fornavn/Etternavn må selvsagt også registreres, og kan endres.
 
+Da er første del av dataene lagt inn, men flere data må på plass før den nyansatte kan gis oppdrag, og for selv å  kunne bruke av iSkole.
+
 Tar du frem en ansatt som alt er registrert, og man klikker på _Rediger_,fås dette bilde:
 
 ![image](https://github.com/user-attachments/assets/7be023f5-e741-4fdc-9a78-223111361505)
 
 Her kan man enkelt legge til, eventuelt endre bilde av den ansatte ved å dra bildefilen på plass slik som angitt på skjermbildet.
+
+
 
 ### Fravær
 
