@@ -90,8 +90,11 @@ Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns
 
 - Fornavn/Etternavn må selvsagt også registreres, og kan endres
 
-  ### Grupper
-  ![image](https://github.com/user-attachments/assets/24a5eacd-245c-4da5-8624-a39390ccf394)
+### Grupper
+![image](https://github.com/user-attachments/assets/24a5eacd-245c-4da5-8624-a39390ccf394)
+Her kan man opprette grupper med navgitte ansatte som leder og gruppemedlemmer. Fra menyvalget _Rapporter_ kan man ta ut lister inneholder alle gruppene med medlemmer. 
+
+
 
 
 
