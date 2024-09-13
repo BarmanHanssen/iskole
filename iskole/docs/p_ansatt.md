@@ -108,8 +108,8 @@ Under _Ansettelse og ansiennitet_ anbefaler minimum å fylle inn disse feltene:
 - Sluttdato (dersom denne er kjent da vedkommende mister tilgang til iSkole etter denne datoen.)
 - Pedagogisk ansatt (hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.)
 
-Under _Undervisningsfag_ anbefaler minimum å fylle inn disse feltene:
-Her kan man legge inn fagkoder som vedkommende har kompetanse som lærer. (Begrenser ikke oppdrag læreren kan pålegges. Tabellen fylles atomatisk opp med fag som læreren får tildelt fra _Time- og fagfordeling, og kan justeres senere.)
+Under _Undervisningsfag_:
+Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer. (Begrenser ikke oppdrag læreren kan pålegges. Tabellen fylles atomatisk opp med fag som læreren får tildelt fra _Time- og fagfordeling, og kan justeres senere.)
 
 ### Fravær
 
