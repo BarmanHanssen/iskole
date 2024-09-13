@@ -108,6 +108,9 @@ Her kan den ansatte selv registrere fravær. I tillegg til dato og valgte grunn 
 
 Her kan man opprette grupper med navgitte ansatte som leder og gruppemedlemmer. Fra menyvalget _Rapporter_ kan man ta ut lister inneholder alle gruppene med medlemmer. 
 
+### Foto
+_Eksport_ Laster man ned Ansattlister for fotograf fås en fil med følgende struktur:
+![image](https://github.com/user-attachments/assets/84f98d4f-083f-4cf4-8f5f-52d23c1662e0)
 
 
 
