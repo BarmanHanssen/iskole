@@ -88,7 +88,11 @@ Her kontrolleres at det er et riktig norsk personnummer. Dersom vedkommende mang
 Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med dette fødselsnummer. Dersom personen har vært elev, eller ansatt, ved en skole som bruker iSkole, vil for- og etternavn automtisk fylles ut.
 :::
 
-- Fornavn/Etternavn må selvsagt også registreres, og kan endres 
+- Fornavn/Etternavn må selvsagt også registreres, og kan endres
+
+  ### Grupper
+  ![image](https://github.com/user-attachments/assets/24a5eacd-245c-4da5-8624-a39390ccf394)
+
 
 
 
