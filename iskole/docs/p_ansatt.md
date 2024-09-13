@@ -99,8 +99,17 @@ Finn frem til den nytilsatte, og klikk på _Rediger_. Da fås dette bilde:
 
 ![image](https://github.com/user-attachments/assets/394cfa0f-081d-4c98-8f72-d1fbcebfc272)
 
-Vi anbefaler minimum å fylle inn disse feltene:
+Vi anbefaler minimum å fylle inn disse feltene i det grønne delen:
+- E-post arbeid
+- Mobil
 
+Under _Ansettelse og ansiennitet_:
+- Startdato (vedkommende får ikke tilgang til iSkole før denne datoen.)
+- Sluttdato (dersom denne er kjent da vedkommende mister tilgang til iSkole etter denne datoen.)
+- Pedagogisk ansatt (hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.)
+
+Under _Undervisningsfag_:
+Her kan man legge inn fagkoder som vedkommende har kompetanse som lærer. (Begrenser ikke oppdrag læreren kan pålegges. Tabellen fylles atomatisk opp med fag som læreren får tildelt fra _Time- og fagfordeling, og kan justeres senere.)
 
 ### Fravær
 
