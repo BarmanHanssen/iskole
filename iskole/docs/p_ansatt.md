@@ -91,15 +91,21 @@ Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns
 
 - Fornavn/Etternavn må selvsagt også registreres, og kan endres.
 
-
 Tar du frem en ansatt som alt er registrert, og man klikker på _Rediger_,fås dette bilde:
 
 ![image](https://github.com/user-attachments/assets/7be023f5-e741-4fdc-9a78-223111361505)
 
 Her kan man enkelt legge til, eventuelt endre bilde av den ansatte ved å dra bildefilen på plass slik som angitt på skjermbildet.
 
+### Fravær
+
+![image](https://github.com/user-attachments/assets/ff5407fb-88b2-480c-95e5-d4b03af34552)
+
+Her kan den ansatte selv registrere fravær. I tillegg til dato og valgte grunn for fraværet er det merknadsfelt for utfyllende begrunnelse.
+
 ### Grupper
 ![image](https://github.com/user-attachments/assets/24a5eacd-245c-4da5-8624-a39390ccf394)
+
 Her kan man opprette grupper med navgitte ansatte som leder og gruppemedlemmer. Fra menyvalget _Rapporter_ kan man ta ut lister inneholder alle gruppene med medlemmer. 
 
 
