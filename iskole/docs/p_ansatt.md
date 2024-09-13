@@ -113,9 +113,9 @@ Velg _Eksport_ for å laste ned Ansattlister for fotograf:
 
 ![image](https://github.com/user-attachments/assets/080f062f-de66-49e9-b47e-009dd4081329)
 
-Fotografen må gi Peder Aas sitt bilde navnet 20022134 osv. Dersom man har mange bilder som under et skal legges inn, er dette en grei fremgangsmåte. Når bildefilen er klar, kan alle bildene importeres samlet.
+Fotografen må gi Peder Aas sitt bilde navnet 20022134 osv. Dersom man har mange bilder som under ett skal legges inn, er dette en grei fremgangsmåte. Når bildefilen er klar, kan alle bildene importeres samlet.
 
-Dersom enkeltbilder skal  legges inn, gjøres det enkelere fra menyvalget _Ansatt_, se veiledinger der.
+Dersom noen få bilder skal legges inn, gjøres det enkelere fra menyvalget _Ansatt_, se veiledinger der. Det er der ikke noe krav om spesift navn på bildefilen.
 
 
 
