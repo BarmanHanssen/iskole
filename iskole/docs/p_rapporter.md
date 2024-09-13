@@ -42,8 +42,6 @@ Hvilke avdelinger skolen har, med leder, er registrert fra Griunnlagsdata>Skole.
 ![image](https://github.com/user-attachments/assets/954e574d-2140-424b-9f84-db102a1b70b4)
 Her vises alt fravær på ansatte på valgt skoleår. Fravær på den enkelte ansatte er registrert av den ansatte selv, eller av administrasjonen, fra Personal>Fravær.
 
-
-
 ### Ansattkort
-
+Kortet inneholder strekkode som kan benyttes dersom skolen har innført iSkoles biblioteksystem.
 ### Økonomi
