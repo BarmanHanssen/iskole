@@ -15,3 +15,9 @@ Deretter kan man _Legge til ansatte i gruppen_. Marker en eller flere potensiell
 
 
 ![image](https://user-images.githubusercontent.com/80097133/136387884-9fad965d-5a42-435c-887c-394ab2262928.png)
+
+
+# ---------------- Ny versjon, kommer snart... ----------------
+
+![image](https://github.com/user-attachments/assets/d442f91d-8668-45d5-9107-93cbfa0e44cb)
+
