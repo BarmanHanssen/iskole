@@ -27,12 +27,12 @@ For å logge seg på, må brukeren ha et brukernavn. Hver bruker kan ha inntil t
 Her er listen med de tre alternativene:
 1. Fødselesnummeret (11 siffer).
 2. eposten som er lagret i iSkole.
-3. Brukernavn som kan genereres herfra, eller som er er definert fra Mine sider>Ansatt under avsnittet for Ansatt.
+3. Brukernavn som kan genereres herfra.
 
 
 :::note Merk
-eposten kreves for at den enkelte kan få logget seg på første gang (før passord er lagt inn), eller når passordet er glemt.
-Fødselsnummeret er jo personlig, og enttydig, og er kanskje det som de fleste bruker.
-Brukernavn generet herfra, eller lagt inn manuelt fra Mine sider>Ansatt, må også være entydig for alle som er registrert i iSkole. Dersom et forslått brukernavn alt er i bruk, får man ikke lagret det. :::
+For at den enkelte kan få logget seg på første gang, må epost-adreesse være registrert.  Benytt da valget _Bestill nytt passord_.
+Fødselsnummeret er jo unikt, og brukes av mange.
+Brukernavn generet herfra må også være entydig for alle som er registrert i iSkole. Dersom et forslått brukernavn alt er i bruk, blir det avvist. :::
 
 
