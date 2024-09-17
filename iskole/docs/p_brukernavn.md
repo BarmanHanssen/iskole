@@ -36,9 +36,11 @@ Brukernavn generet herfra må også være entydig for alle som er registrert i i
 For at den enkelte kan få logget seg på første gang, må epost-adreesse være registrert.  Benytt da valget _Bestill nytt passord_. :::
 
 For å endre passordet, se oppe i høyre hjørne:
+
 ![image](https://github.com/user-attachments/assets/c72a41d3-ea2f-4011-8a11-77125bc73760)
 
 Velg _Innstillinger_:
+
 ![image](https://github.com/user-attachments/assets/c395fed0-4a1e-48e9-94b9-cc0b2e5bb28f)
 
 
