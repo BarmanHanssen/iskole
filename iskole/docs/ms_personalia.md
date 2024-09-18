@@ -11,5 +11,12 @@ Her kan du se personalia skolen har registrert på deg. Du kan selv endre egen a
 
 
 :::note Merk
-Dersom du vil endre passordet ditt:
+#### For å endre passordet, se oppe i høyre hjørne:
+
+![image](https://github.com/user-attachments/assets/c72a41d3-ea2f-4011-8a11-77125bc73760)
+
+Velg _Innstillinger_:
+
+![image](https://github.com/user-attachments/assets/c395fed0-4a1e-48e9-94b9-cc0b2e5bb28f)
+
 :::
