@@ -8,3 +8,8 @@ Her kan du se personalia skolen har registrert på deg. Du kan selv endre egen a
 
 
 ![image](https://github.com/user-attachments/assets/07c93a59-320e-4ae6-8510-5831e2cdbc09)
+
+
+:::note Merk
+Dersom du vil endre passordet ditt:
+:::
