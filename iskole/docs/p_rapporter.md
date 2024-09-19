@@ -42,8 +42,9 @@ Her vises alle gruppene, med leder og medlemmer.
 
 ### Fravær
 ![image](https://github.com/user-attachments/assets/954e574d-2140-424b-9f84-db102a1b70b4)
-Her vises alt fravær på ansatte på valgt skoleår. Fravær på den enkelte ansatte er registrert av den ansatte selv, eller av administrasjonen, fra Personal>Fravær.
+Her vises alt fravær på ansatte på valgt skoleår. Fravær på den enkelte ansatte er registrert av den ansatte selv (fra _Mine sider>Eget fravær_), eller av administrasjonen (fra _Personal>Fravær_).
 
 ### Ansattkort
-Kortet inneholder bilde, og strekkode som kan benyttes dersom skolen har innført iSkoles biblioteksystem.
+Kortet inneholder bilde, og strekkode som blant annet kan benyttes dersom benytter iSkoles biblioteksystem.
+
 ### Økonomi
