@@ -79,11 +79,9 @@ Dersom ny ansatt skal registreres starter vi her:
 ![image](https://github.com/user-attachments/assets/96fca24a-8326-4373-a26e-eac0cfaac6a9)
 
 Her må alt fylles ut for å få lagret dataene.
-- Brukernavn (kort)
-Bynytte blant annet på timeplanen. Maks tre tegn, ofte en (eller to) bokstaver fra fornavn og to (eller en) bokstav fra etternavnet. Kortnavnet blir kontrollert mot allerede kortnavn i bruk ved skolen slik at kortnavnet er unikt. Kan endres dersom nytt kortnavn er unikt./
-- Fødselsdata fylless inn. årstallet skal ha fire siffer.
-- Personnr
-Her kontrolleres at det er et riktig norsk personnummer. Dersom vedkommende mangler personnummer, kan en midlertidig registrere et femsifret nummer som starter med tallet 9. Det anbefales få få registrert riktig personnummer så raskt som mulig. Etterregistrering kan i noen tilfeller medføre komplikasjoner.
+- _Brukernavn (kort)_: Bynytte blant annet på timeplanen. Maks tre tegn, ofte en (eller to) bokstaver fra fornavn og to (eller en) bokstav fra etternavnet. Kortnavnet blir kontrollert mot allerede kortnavn i bruk ved skolen slik at kortnavnet er unikt. Kan endres dersom nytt kortnavn er unikt./
+- _Fødselsdata_ må fylles inn, årstallet skal ha fire siffer.
+- _Personnr_: Her kontrolleres at det er et riktig norsk personnummer. Dersom vedkommende mangler personnummer, kan en midlertidig registrere et femsifret nummer som starter med tallet 9. Det anbefales få få registrert riktig personnummer så raskt som mulig. Etterregistrering kan i noen tilfeller medføre komplikasjoner.
 
 :::note Merk
 Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med dette fødselsnummer. Dersom personen har vært elev, eller ansatt, ved en skole som bruker iSkole, vil for- og etternavn automtisk fylles ut.
