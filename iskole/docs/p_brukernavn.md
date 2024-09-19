@@ -22,7 +22,7 @@ Brukernavn generet herfra, eller lagt inn manuelt fra Mine sider>Ansatt, må ogs
 
 # ---------------- Ny versjon, kommer snart... ----------------
 
-For å kunne få tilgang til iSkole, må den ansatte være registrert som ansatt, og dagens dato må være før lagret sluttet-dato på den ansatte.
+For å kunne få tilgang til iSkole, må den ansatte være registrert som ansatt, og dagens dato må være før sluttet-dato på den ansatte.
 For å logge på, må brukeren ha et brukernavn. Hver bruker kan ha inntil tre forskjellige brukernavn, og brukeren velger selv hvilket som skal benyttes. Men brukeren har bare ett passord.
 Her er listen med de tre alternativene:
 1. Fødselesnummeret (11 siffer).
@@ -30,8 +30,8 @@ Her er listen med de tre alternativene:
 3. epost-adresse som er lagret i iSkole.
 
 Fødselsnummer kan alltid benyttes.
-Brukernavn generet herfra må også være entydig for alle som er registrert i iSkole. Dersom et forslått brukernavn alt er i bruk, blir det avvist.
-epost-adressen kan bare benyttes dersom den bare er knyttet til en person. Eksempelvis kan foreldre og barn (altså elev) være registert med lik epost.
+Brukernavn generert herfra må være entydig for alle som er registrert i iSkole. Dersom et forslått brukernavn alt er i bruk, blir det avvist.
+epost-adressen kan bare benyttes dersom den bare er knyttet til en person. Dersom eksempelvis foreldre og barn (altså elev) er registert med lik epost, kan epost-adressen ikke benyttes for innlogging.
 
 
 :::note Merk
