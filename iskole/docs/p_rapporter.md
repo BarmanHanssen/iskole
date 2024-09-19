@@ -20,9 +20,10 @@ Alternativet "Navneliste med brukernavn,passord (ja/nei)" viser ikke passordet. 
 
 ### Egendefinert
 ![image](https://github.com/user-attachments/assets/2229bbe9-1b49-42ff-a376-0c8b8b82981c)
-Her kan hele tabellen lagres som en xls-fil for videre bruk.
+Her kan hele tabellen lagres som en xls-fil for videre bearbeiding.
 
 Antall rader i tabellen kan enkelt minskes ved å angi filter. 
+
 :::note Merk
 Filtreringen du benytter leter etter match i alle kolonnene.
 :::
@@ -36,7 +37,8 @@ Datagrunnlaget for rapportene er lagt inn fra menyvalget Eksamen, og kan endres 
 ### Avdelinger
 Hvilke avdelinger skolen har, med leder, er registrert fra Griunnlagsdata>Skole. Hvilke avdeling(er) den enkelte ansatte tilhører registeres fra Personal>Ansatt.
 
-### Gruppeer
+### Grupper
+Her vises alle gruppene, med leder og medlemmer.
 
 ### Fravær
 ![image](https://github.com/user-attachments/assets/954e574d-2140-424b-9f84-db102a1b70b4)
