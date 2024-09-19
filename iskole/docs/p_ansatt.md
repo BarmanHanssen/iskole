@@ -87,7 +87,7 @@ Her må alt fylles ut for å få lagret dataene.
 Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med dette fødselsnummer. Dersom personen har vært elev, eller ansatt, ved en skole som bruker iSkole, vil for- og etternavn automtisk fylles ut.
 :::
 
-- Fornavn/Etternavn må selvsagt også registreres, og kan endres.
+- _Fornavn/Etternavn_ må selvsagt også registreres, og kan endres.
 
 Da er første del av dataene lagt inn, men flere data må på plass før den nyansatte kan gis oppdrag, og for selv å  kunne bruke av iSkole.
 
@@ -98,13 +98,13 @@ Finn frem til den nytilsatte, og klikk på _Rediger_. Da fås dette bilde:
 ![image](https://github.com/user-attachments/assets/394cfa0f-081d-4c98-8f72-d1fbcebfc272)
 
 Vi anbefaler minimum å fylle inn disse feltene i det grønne delen:
-- E-post arbeid
-- Mobil
+- _E-post arbeid_
+- _Mobil_
 
 Under _Ansettelse og ansiennitet_ anbefaler minimum å fylle inn disse feltene:
-- Startdato (vedkommende får ikke tilgang til iSkole før denne datoen.)
-- Sluttdato (dersom denne er kjent da vedkommende mister tilgang til iSkole etter denne datoen.)
-- Pedagogisk ansatt (hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.)
+- _Startdato_: Vvedkommende får ikke tilgang til iSkole før denne datoen.
+- _Sluttdato_: Vedkommende mister tilgang til iSkole etter denne datoen.
+- _Pedagogisk ansatt_: Hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.
 
 Under _Undervisningsfag_:
 
