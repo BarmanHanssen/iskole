@@ -114,21 +114,21 @@ Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer
 
 ![image](https://github.com/user-attachments/assets/ff5407fb-88b2-480c-95e5-d4b03af34552)
 
-Her kan den ansatte selv registrere fravær. I tillegg til dato og valgte grunn for fraværet er det merknadsfelt for utfyllende begrunnelse.
+Her kan autorisert bruker registrere fravær på utvalgt ansatt.  I tillegg til dato og valgte grunn for fraværet er det merknadsfelt for utfyllende begrunnelse. Alternativt kan den ansatte selv registrere fravær fra _Mine sider>Eget fravær_.
 
 ### Grupper
 ![image](https://github.com/user-attachments/assets/24a5eacd-245c-4da5-8624-a39390ccf394)
 
-Her kan man opprette grupper med navgitte ansatte som leder og gruppemedlemmer. Fra menyvalget _Rapporter_ kan man ta ut lister inneholder alle gruppene med medlemmer. 
+Her kan man opprette grupper med navgitte ansatte som leder og gruppemedlemmer. Fra menyvalget _Rapporter_ kan man ta ut liste som inneholder alle gruppene med medlemmer. 
 
 ### Foto
 Velg _Eksport_ for å laste ned Ansattlister for fotograf:
 
 ![image](https://github.com/user-attachments/assets/080f062f-de66-49e9-b47e-009dd4081329)
 
-Fotografen må gi Peder Aas sitt bilde navnet 20022134 osv. Dersom man har mange bilder som under ett skal legges inn, er dette en grei fremgangsmåte. Når bildefilen er klar, kan alle bildene importeres samlet.
+Fotografen må gi Peder Aas sitt bilde navnet 20022134 osv. Dersom man har mange bilder som under ett skal legges inn, er dette en grei fremgangsmåte. Når bildefilen er klar, kan alle bildene importeres samlet. Skal man imidlertid legge inn nytt, eller endre, bilde på en enkelt ansatt, kan bildefilen dras over direkte, uten noe spesielt krav til navn på filen. 
 
-Dersom noen få bilder skal legges inn, gjøres det enkelere fra menyvalget _Ansatt_, se veiledinger der. Det er der ikke noe krav om spesift navn på bildefilen.
+Dersom noen få bilder skal legges inn, gjøres det enkelere fra menyvalget _Ansatt_. Der er det ikke noe krav om et spesift navn på bildefilen.
 
 
 
