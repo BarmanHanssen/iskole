@@ -119,7 +119,7 @@ Her kan autorisert bruker registrere fravær på utvalgt ansatt.  I tillegg til 
 ### Grupper
 ![image](https://github.com/user-attachments/assets/24a5eacd-245c-4da5-8624-a39390ccf394)
 
-Her kan man opprette grupper med navgitte ansatte som leder og gruppemedlemmer. Fra menyvalget _Rapporter_ kan man ta ut liste som inneholder alle gruppene med medlemmer. 
+Her kan man opprette grupper med navgitte ansatte som leder. Hvem som skal være gruppemedlemmer tilføyes ved å klikke på blyant-ikonet. Fra menyvalget _Rapporter_ kan man liste ut alle registrerte grupper med medlemmer. 
 
 ### Foto
 Velg _Eksport_ for å laste ned Ansattlister for fotograf:
