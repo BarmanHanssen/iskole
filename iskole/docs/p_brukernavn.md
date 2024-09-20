@@ -46,7 +46,7 @@ De tre første bokstavene fra henholdsvis for- og etternavn foreslås. Dersom ko
 _Årstall (2 siffer)_ Her benyttes fødselsåret til den ansatte
 _Fødselsdato (2 siffer)_ Her benyttes dagen i måneden fra fødselsåret.
 
-Generert brukernavn kan ikke endres. Dersom den ansatte ikke har fått brukernavn, eller er misliker brukernavnet, må fødselsnummer eller epost benyttes ved innlogging.
+Generert brukernavn kan endres, se menyvalget _Ansatt_ under Personalia. Dersom den ansatte ikke har fått brukernavn, eller er misliker brukernavnet, må fødselsnummer eller epost benyttes ved innlogging.
 
 ### Alle ansatte
 
