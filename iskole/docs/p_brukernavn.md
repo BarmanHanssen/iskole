@@ -41,14 +41,18 @@ For at den enkelte kan få logget seg på første gang, må epost-adreesse være
 
 ![image](https://github.com/user-attachments/assets/c3abb8da-2550-4fd0-b34f-61ebcb6bc5b2)
 
+De tre første bokstavene fra henholdsvis for- og etternavn foreslås. Dersom kombinasjonen ikke godkjennes er det fordi en person allerede er tildelt dette brukernavnet. Da kan en huke av for å tillføye årstall og/eller dato for å finne en unik kombinasjon.
+
 _Årstall (2 siffer)_ Her benyttes fødselsåret til den ansatte
 _Fødselsdato (2 siffer)_ Her benyttes dagen i måneden fra fødselsåret.
+
+Generert brukernavn kan ikke endres. Dersom den ansatte ikke har fått brukernavn, eller er misliker brukernavnet, må fødselsnummer eller epost benyttes ved innlogging.
 
 ### Alle ansatte
 
 ![image](https://github.com/user-attachments/assets/420becf5-9a79-41b2-800e-6d80bc9a8aac)
 
-Timeplannavn brukes på selve timeplan, og betegnes ofte som lærerens kortnavn. Allerede genererte brukernavn vises også.
+_Timeplannavn_ brukes på selve timeplan, og betegnes ofte som lærerens kortnavn. _Brukernavn_ benyttes ved innlogging. Allerede genererte brukernavn vises her.
 
 
 
