@@ -20,3 +20,5 @@ Velg _Innstillinger_:
 ![image](https://github.com/user-attachments/assets/c395fed0-4a1e-48e9-94b9-cc0b2e5bb28f)
 
 :::
+
+Ønsker man å slå på tofaktorautentisering ved innlogging, så må man generere en kode som den ansatte kan legge inn i en kodegenerator som f.eks. Google Authenticator på sin telefon. Koden kan enten tastes inn på telefonen, eller avleses av QR-koden som kommer frem på skjermen etter man har trykket på knappen _Generer kode_. Ønsker man siden å slå av kravet om tofaktorautentisering, så kan man slette koden ved å trykke på knappen _Slett kode_.
