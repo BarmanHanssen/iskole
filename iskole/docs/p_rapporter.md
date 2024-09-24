@@ -51,7 +51,7 @@ Hvilke avdelinger skolen har, med leder, er registrert fra Griunnlagsdata>Skole.
 Her vises alle gruppene, med leder og medlemmer.
 
 ## Fravær
-![image](https://github.com/user-attachments/assets/954e574d-2140-424b-9f84-db102a1b70b4)
+![image](https://github.com/user-attachments/assets/65d12ee4-1c8d-4ec7-80be-6cb947958b46)
 Her vises alt fravær på ansatte på valgt skoleår. Fravær på den enkelte ansatte er registrert av den ansatte selv (fra _Mine sider>Eget fravær_), eller av administrasjonen (fra _Personal>Fravær_).
 
 ## Ansattkort
