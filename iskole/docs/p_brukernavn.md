@@ -17,7 +17,8 @@ epost-adressen kan bare benyttes dersom den bare er knyttet til en person. Derso
 
 
 :::note Merk
-For at den enkelte kan få logget seg på første gang, må epost-adreesse være registrert.  Benytt da valget _Bestill nytt passord_. :::
+For at den enkelte kan få logget seg på første gang, må epost-adreesse være registrert.  Benytt da valget _Bestill nytt passord_. 
+:::
 
 ### Ansatte uten brukernavn
 
