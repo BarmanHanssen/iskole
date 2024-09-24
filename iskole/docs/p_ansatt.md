@@ -3,6 +3,7 @@ id: p_ansatt
 title: Ansatt
 sidebar_label: Ansatt
 ---
+Her er første skjermbilde for de som har tilgang til dette menyvalget:
 
 ![image](https://github.com/user-attachments/assets/0f84cf29-2db9-458a-878d-9fb48eb5289a)
 
