@@ -45,7 +45,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Personal',
-      items: ['p_ansatt','p_grupper','p_brukernavn','p_fravaer','p_oppslagsdata','p_rapporter'],
+      items: ['p_ansatt','p_fravaer','p_grupper','ms_foto','p_brukernavn','p_oppslagsdata','p_rapporter'],
     },
     {
       type: 'category',
