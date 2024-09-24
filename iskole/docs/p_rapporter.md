@@ -13,7 +13,7 @@ Alle rapportene vises på skjerm, men de kan også ta ut som pdf- eller xls-fil.
 ![image](https://github.com/user-attachments/assets/0db63783-cce9-4326-b75e-7031fd880ff1)
 
 
-![image](https://github.com/user-attachments/assets/053711f8-965f-46cc-ae42-8ff1859dd476)
+![image](https://github.com/user-attachments/assets/a83931a5-6142-44ab-b597-c7a996034906)
 
 Her er noen ofte brukte kolonner valgt ut. 
 
