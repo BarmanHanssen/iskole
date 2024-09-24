@@ -21,6 +21,13 @@ Her er noen ofte brukte kolonner valgt ut.
 Alternativet "Navneliste med brukernavn,passord (ja/nei)" viser ikke passordet. Men dersom svaret er "nei" har vedkommende ikke vært innlogget på iSkole.
 :::
 
+![image](https://github.com/user-attachments/assets/186c922f-251e-4b11-b711-606786d8b912)
+
+Her fås oversikt over alle som i løpet av skoleåret fyller 40,50,60 eller 70 år. Noen ønsker ikke oppmerksomhet, det er derfor mulig å reservere seg for å komme på denne listen. Det kan gjøres fra menyvalget _Ansatt_.
+
+
+
+
 ### Egendefinert
 ![image](https://github.com/user-attachments/assets/2229bbe9-1b49-42ff-a376-0c8b8b82981c)
 Her kan hele tabellen lagres som en xls-fil for videre bearbeiding.
