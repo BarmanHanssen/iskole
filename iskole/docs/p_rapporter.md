@@ -23,7 +23,7 @@ Alternativet "Navneliste med brukernavn,passord (ja/nei)" viser ikke passordet. 
 
 ![image](https://github.com/user-attachments/assets/186c922f-251e-4b11-b711-606786d8b912)
 
-Her fås oversikt over alle som i løpet av skoleåret fyller 40,50,60 eller 70 år. Noen ønsker ikke oppmerksomhet, det er derfor mulig å reservere seg for å komme på denne listen. Det kan gjøres fra menyvalget _Ansatt_.
+Her fås oversikt over alle som i løpet av skoleåret fyller 40,50,60 eller 70 år. Noen ønsker ikke oppmerksomhet, det er derfor mulig å reservere seg mot å komme på denne listen. Det kan gjøres fra menyvalget _Ansatt_.
 
 
 
