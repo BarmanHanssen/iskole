@@ -28,7 +28,7 @@ Her fås oversikt over alle som i løpet av skoleåret fyller 40,50,60 eller 70 
 
 
 
-### Egendefinert
+## Egendefinert
 ![image](https://github.com/user-attachments/assets/2229bbe9-1b49-42ff-a376-0c8b8b82981c)
 Her kan hele tabellen lagres som en xls-fil for videre bearbeiding.
 
