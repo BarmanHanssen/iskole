@@ -38,23 +38,23 @@ Antall rader i tabellen kan enkelt minskes ved å angi filter.
 Filtreringen du benytter leter etter match i alle kolonnene.
 :::
 
-### Undervisningsfag
+## Undervisningsfag
 Alle fag som læreren har undervist i, og skal undervise i, listes opp her. Listen over fag kan endres ved å legge til/fjerne fag på den enkelte lærer. Det gjøres ved å velge personen fra Ansatt-menyen, under Undervisningsfag.
 
-### Sensor
+## Sensor
 Datagrunnlaget for rapportene er lagt inn fra menyvalget Eksamen, og kan endres derfra.
 
-### Avdelinger
+## Avdelinger
 Hvilke avdelinger skolen har, med leder, er registrert fra Griunnlagsdata>Skole. Hvilke avdeling(er) den enkelte ansatte tilhører registeres fra Personal>Ansatt.
 
-### Grupper
+## Grupper
 Her vises alle gruppene, med leder og medlemmer.
 
-### Fravær
+## Fravær
 ![image](https://github.com/user-attachments/assets/954e574d-2140-424b-9f84-db102a1b70b4)
 Her vises alt fravær på ansatte på valgt skoleår. Fravær på den enkelte ansatte er registrert av den ansatte selv (fra _Mine sider>Eget fravær_), eller av administrasjonen (fra _Personal>Fravær_).
 
-### Ansattkort
+## Ansattkort
 Kortet inneholder bilde, og strekkode som blant annet kan benyttes dersom benytter iSkoles biblioteksystem.
 
-### Økonomi
+## Økonomi
