@@ -26,7 +26,8 @@ For at den enkelte kan få logget seg på første gang, må epost-adreesse være
 
 De tre første bokstavene fra henholdsvis for- og etternavn foreslås. Dersom kombinasjonen ikke godkjennes er det fordi en person allerede er tildelt dette brukernavnet. Da kan en huke av for å tillføye årstall og/eller dato for å finne en unik kombinasjon.
 
-_Årstall (2 siffer)_ Her benyttes fødselsåret til den ansatte
+_Årstall (2 siffer)_ Her benyttes de to siste sifre fra fødselsåret til den ansatte.
+
 _Fødselsdato (2 siffer)_ Her benyttes dagen i måneden fra fødselsåret.
 
 Generert brukernavn kan endres, se menyvalget _Ansatt_ under Personalia. Dersom den ansatte ikke har fått brukernavn, eller er misliker brukernavnet, må fødselsnummer eller epost benyttes ved innlogging.
