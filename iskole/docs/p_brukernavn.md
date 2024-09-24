@@ -20,7 +20,7 @@ epost-adressen kan bare benyttes dersom den bare er knyttet til en person. Derso
 For at den enkelte kan få logget seg på første gang, må epost-adreesse være registrert.  Benytt da valget _Bestill nytt passord_. 
 :::
 
-### Ansatte uten brukernavn
+### Ansatte uten brukernavn 
 
 ![image](https://github.com/user-attachments/assets/c3abb8da-2550-4fd0-b34f-61ebcb6bc5b2)
 
