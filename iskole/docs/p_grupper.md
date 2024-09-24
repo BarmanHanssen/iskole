@@ -11,6 +11,6 @@ Man kan opprette grupper/avdelinger ved skolen. Hver gruppe/avdeling kan ha en l
 
 Når gruppen er registrert, kan man legge til medlemmer i gruppen:
 
-![image](https://github.com/user-attachments/assets/f31dac8f-ab33-4aed-85b0-84273c346cb0)
+![bilde](https://github.com/user-attachments/assets/9fb346ed-aaff-4b42-b531-4976f614b65c)
 
 
