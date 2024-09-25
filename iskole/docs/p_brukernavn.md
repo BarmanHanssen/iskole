@@ -4,7 +4,7 @@ title: Brukernavn
 sidebar_label: Brukernavn
 ---
 
-For å kunne få tilgang til iSkole, må den ansatte være registrert som ansatt, og dagens dato må være før sluttet-dato på den ansatte.
+For å kunne få tilgang til iSkole, må den ansatte være registrert som _Ansatt_, og dagens dato må være før sluttdato på den ansatte dersom sluttdato er oppgitt.
 For å logge på, må brukeren ha et brukernavn. Hver bruker kan ha inntil tre forskjellige brukernavn, og brukeren velger selv hvilket som skal benyttes. Men brukeren har bare ett passord.
 Her er listen med de tre alternativene:
 1. Fødselesnummeret (11 siffer).
