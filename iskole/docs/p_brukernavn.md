@@ -36,7 +36,7 @@ Brukernavn, også et som er generert, kan endres fra menyvalget _Ansatt_. Dersom
 
 ![image](https://github.com/user-attachments/assets/420becf5-9a79-41b2-800e-6d80bc9a8aac)
 
-_Timeplannavn_ brukes på selve timeplan, og betegnes ofte som lærerens kortnavn. _Brukernavn_ benyttes ved innlogging. Allerede genererte brukernavn vises her.
+_Timeplannavn_ brukes på selve timeplan, og betegnes ofte som lærerens kortnavn. _Brukernavn_ kan benyttes ved innlogging. Allerede tildelte brukernavn vises her.
 
 
 
