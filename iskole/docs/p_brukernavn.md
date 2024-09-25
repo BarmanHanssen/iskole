@@ -9,7 +9,7 @@ For å logge på, må brukeren ha et brukernavn. Hver bruker kan ha inntil tre f
 Her er listen med de tre alternativene:
 1. Fødselesnummeret (11 siffer).
 2. Brukernavn som kan genereres herfra.
-3. epost-adresse som er lagret i iSkole.
+3. epost-adressen som er lagret i iSkole.
 
 Fødselsnummer kan alltid benyttes.
 Brukernavn generert herfra må være entydig for alle som er registrert i iSkole. Dersom et forslått brukernavn alt er i bruk, blir det avvist.
