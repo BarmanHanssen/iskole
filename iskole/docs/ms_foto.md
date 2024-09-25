@@ -15,4 +15,4 @@ _Eksport_ av en datafil til fotografen slik at denne kan gi bildene riktig navn 
 
 
 
-Andre trinn er _Import_ av portrettbilder enten samlet fra en zip fil (merk ikke zipx), eller enkeltvis bilde for bilde. Enkeltbilder kan også raskt legges inn fra _Personal>Ansatt_.
+Andre trinn er _Import_ av portrettbilder, enten samlet fra en zip fil (merk ikke zipx), eller enkeltvis bilde for bilde. En ansatte kan selv raskt legge inn/endre sitt eget bilde fra _Personal>Ansatt_.
