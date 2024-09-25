@@ -24,7 +24,7 @@ For at den enkelte kan få logget seg på første gang, må epost-adressen være
 
 ![image](https://github.com/user-attachments/assets/c3abb8da-2550-4fd0-b34f-61ebcb6bc5b2)
 
-De tre første bokstavene fra henholdsvis for- og etternavn foreslås. Dersom kombinasjonen ikke godkjennes er det fordi en person allerede er tildelt dette brukernavnet. Da kan en huke av for å tillføye årstall og/eller dato for å finne en unik kombinasjon.
+De tre første bokstavene fra henholdsvis for- og etternavn foreslås. Dersom kombinasjonen ikke godkjennes er det fordi en person allerede er tildelt dette brukernavnet. Da kan en huke av for å tillføye årstall og/eller dato, alternativt endre antall bokstaver, for å finne en unik kombinasjon.
 
 _Årstall (2 siffer)_ Her benyttes de to siste sifre fra fødselsåret til den ansatte.
 
