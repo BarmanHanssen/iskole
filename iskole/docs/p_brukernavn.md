@@ -30,7 +30,7 @@ _Årstall (2 siffer)_ Her benyttes de to siste sifre fra fødselsåret til den a
 
 _Fødselsdato (2 siffer)_ Her benyttes dagen i måneden fra fødselsåret.
 
-Generert brukernavn kan endres, se menyvalget _Ansatt_ under Personalia. Dersom den ansatte ikke har fått brukernavn, kan alltid fødselsnummeret eller epost benyttes.
+Brukernavn, også et som er generert, kan endres fra menyvalget _Ansatt_. Dersom den ansatte ikke har fått tildelt eget brukernavn, kan alltid fødselsnummeret eller epost benyttes ved innlogging.
 
 ### Alle ansatte
 
