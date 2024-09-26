@@ -41,9 +41,10 @@ Vi anbefaler minimum å fylle inn disse feltene i det grønne delen:
 
 ### Ansettelse og ansiennitet
 
-- _Startdato_: Vedkommende får ikke tilgang til iSkole før etter denne datoen.
-- _Sluttdato_: Kan stå blankt inntil videre. Når dato er innført vil vedkommende miste tilgang til iSkole etter denne datoen. 
-- _Pedagogisk ansatt_: Hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.
+_Ansettelse_
+- Startdato: Vedkommende får ikke tilgang til iSkole før etter denne datoen.
+- Sluttdato: Kan stå blankt inntil videre. Når dato er innført vil vedkommende miste tilgang til iSkole etter denne datoen. 
+- Pedagogisk ansatt: Hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.
 
 ### Undervisningsfag
 
