@@ -61,6 +61,11 @@ Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer
 
 Her kan autorisert bruker registrere fravær på ansatte.  I tillegg til dato og valgte grunn for fraværet er det merknadsfelt for utfyllende begrunnelse. Alternativt kan den ansatte selv registrere fravær fra _Mine sider>Eget fravær_.
 
+### Permisjon
+
+Her kan permisjonssøknad for en ansatt legges inn, og behandles. Dette er søknadsskjemaet:
+
+![bilde](https://github.com/user-attachments/assets/702fc3d5-94b0-401e-8a96-f49b54c00fa6)
 
 
 
