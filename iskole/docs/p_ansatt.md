@@ -77,6 +77,9 @@ Her kan skolen lagre relevante dokumenter som angÃ¥r den enkelte, eksempelvis sÃ
 
 ![bilde](https://github.com/user-attachments/assets/33f4dd25-8bdc-40ed-9565-7e1fa91e8055)
 
+### Merknad
+
+![bilde](https://github.com/user-attachments/assets/148e23ff-bfed-4ad0-a608-fdd4cf9e54f4)
 
 
 
