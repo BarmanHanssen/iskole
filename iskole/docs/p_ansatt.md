@@ -39,13 +39,13 @@ Vi anbefaler minimum å fylle inn disse feltene i det grønne delen:
 - _E-post arbeid_
 - _Mobil_
 
-_Ansettelse og ansiennitet_:
+### Ansettelse og ansiennitet
 
 - _Startdato_: Vedkommende får ikke tilgang til iSkole før etter denne datoen.
 - _Sluttdato_: Kan stå blankt inntil videre. Når dato er innført vil vedkommende miste tilgang til iSkole etter denne datoen. 
 - _Pedagogisk ansatt_: Hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.
 
-Under _Undervisningsfag_:
+### Undervisningsfag
 
 Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer. (Begrenser ikke oppdrag læreren kan pålegges. Tabellen fylles atomatisk opp med fag som læreren får tildelt fra _Time- og fagfordeling_, og kan eventuelt justeres senere.)
 
@@ -53,7 +53,7 @@ Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer
 
 ![image](https://github.com/user-attachments/assets/ff5407fb-88b2-480c-95e5-d4b03af34552)
 
-Her kan autorisert bruker registrere fravær på utvalgt ansatt.  I tillegg til dato og valgte grunn for fraværet er det merknadsfelt for utfyllende begrunnelse. Alternativt kan den ansatte selv registrere fravær fra _Mine sider>Eget fravær_.
+Her kan autorisert bruker registrere fravær på ansatte.  I tillegg til dato og valgte grunn for fraværet er det merknadsfelt for utfyllende begrunnelse. Alternativt kan den ansatte selv registrere fravær fra _Mine sider>Eget fravær_.
 
 ### Grupper
 ![image](https://github.com/user-attachments/assets/24a5eacd-245c-4da5-8624-a39390ccf394)
