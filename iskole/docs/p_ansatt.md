@@ -57,7 +57,7 @@ Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer
 
 ### Fravær
 
-![image](https://github.com/user-attachments/assets/ff5407fb-88b2-480c-95e5-d4b03af34552)
+![bilde](https://github.com/user-attachments/assets/4e716a19-1c6f-4716-af5f-d4d4b6838682)
 
 Her kan autorisert bruker registrere fravær på ansatte.  I tillegg til dato og valgte grunn for fraværet er det merknadsfelt for utfyllende begrunnelse. Alternativt kan den ansatte selv registrere fravær fra _Mine sider>Eget fravær_.
 
