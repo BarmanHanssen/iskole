@@ -39,8 +39,9 @@ Vi anbefaler minimum å fylle inn disse feltene i det grønne delen:
 - _E-post arbeid_
 - _Mobil_
 
-Under _Ansettelse og ansiennitet_ anbefaler minimum å fylle inn disse feltene:
-- _Startdato_: Vedkommende får ikke tilgang til iSkole før denne datoen.
+_Ansettelse og ansiennitet_:
+
+- _Startdato_: Vedkommende får ikke tilgang til iSkole før etter denne datoen.
 - _Sluttdato_: Kan stå blankt inntil videre. Når dato er innført vil vedkommende miste tilgang til iSkole etter denne datoen. 
 - _Pedagogisk ansatt_: Hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.
 
