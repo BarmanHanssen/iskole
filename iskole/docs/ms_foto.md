@@ -4,10 +4,10 @@ title: Foto
 sidebar_label: Foto
 ---
 
-Inntak av av bilder fra fotograf gjøres i to trinn.
 
 ![image](https://github.com/user-attachments/assets/d2101d1f-791b-42a3-8d15-76ef8f6853d7)
 
+Inntak av av bilder fra fotograf gjøres i to trinn.
 
 _Eksport_ av en datafil til fotografen slik at denne kan gi bildene riktig navn (ansattnr). 
 
