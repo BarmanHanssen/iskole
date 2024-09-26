@@ -46,9 +46,14 @@ _Ansettelse_
 - Sluttdato: Kan stå blankt inntil videre. Når dato er innført vil vedkommende miste tilgang til iSkole etter denne datoen. 
 - Pedagogisk ansatt: Hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.
 
+_Ansiennitet/Funksjonstillegg/Lønnsplasering_
+
+Dette er nøkkeltall dersom iSkole benyttes til budsjettering/lønn.
+
+
 ### Undervisningsfag
 
-Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer. (Begrenser ikke oppdrag læreren kan pålegges. Tabellen fylles atomatisk opp med fag som læreren får tildelt fra _Time- og fagfordeling_, og kan eventuelt justeres senere.)
+Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer. (Begrenser ikke oppdrag læreren kan pålegges. Tabellen fylles atomatisk opp med fag som læreren får tildelt fra _Time- og fagfordeling_, og kan eventuelt justeres herfra.) Fagene her gjør det lettere å finne kompenent lærer når time- og fagfordelingen skal settes opp.
 
 ### Fravær
 
