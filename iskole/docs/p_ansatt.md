@@ -67,6 +67,13 @@ Her kan permisjonssøknad for en ansatt legges inn, og behandles. Dette er søkn
 
 ![bilde](https://github.com/user-attachments/assets/702fc3d5-94b0-401e-8a96-f49b54c00fa6)
 
+Når søknaden er behandlet, kan konklusjonen sammenfattes slik:
+
+![bilde](https://github.com/user-attachments/assets/9a64adaa-69c3-4e0f-b86a-fb82e5a38431)
+
+
+
+
 
 
 
