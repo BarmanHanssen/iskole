@@ -73,6 +73,8 @@ Når søknaden er behandlet, kan konklusjonen sammenfattes i dette skjemaet:
 
 ### Mappe
 
+Her kan skolen lagre relevante dokumenter som angår den enkelte, eksempelvis søknadspapirene for stillingen vedkommende innehar.
+
 ![bilde](https://github.com/user-attachments/assets/33f4dd25-8bdc-40ed-9565-7e1fa91e8055)
 
 
