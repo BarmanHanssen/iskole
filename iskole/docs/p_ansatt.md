@@ -71,7 +71,9 @@ Når søknaden er behandlet, kan konklusjonen sammenfattes i dette skjemaet:
 
 ![bilde](https://github.com/user-attachments/assets/9a64adaa-69c3-4e0f-b86a-fb82e5a38431)
 
+### Mappe
 
+![bilde](https://github.com/user-attachments/assets/33f4dd25-8bdc-40ed-9565-7e1fa91e8055)
 
 
 
