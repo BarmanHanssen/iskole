@@ -29,3 +29,4 @@ Fotografen må gi Peder Aas sitt bilde navnet 20022134 osv. Dersom man har mange
 Dersom noen få bilder skal legges inn, gjøres det enkelere fra menyvalget _Ansatt_. Der er det ikke noe krav om et spesift navn på bildefilen.
 
 
+ 
