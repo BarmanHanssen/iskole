@@ -22,9 +22,9 @@ Her må alt fylles ut for å få lagret dataene.
 - _Personnr_: Her kontrolleres at det er et riktig norsk personnummer. Dersom vedkommende mangler personnummer, kan en midlertidig registrere et femsifret nummer som starter med tallet 9. Det anbefales å få registrert riktig personnummer så raskt som mulig. Etterregistrering kan i noen tilfeller medføre komplikasjoner.
 
 :::note Merk
-Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med dette fødselsnummer. Dersom personen har vært elev, eller ansatt, ved en skole som bruker iSkole, vil for- og etternavn automtisk fylles ut.
+Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med dette fødselsnummer. Dersom personen har vært elev, eller ansatt, ved en skole som bruker iSkole, vil for- og etternavn automtisk fylles ut. 
 :::
-
+ 
 - _Fornavn/Etternavn_ må selvsagt også registreres, og kan endres.
 
 Da er første del av dataene lagt inn, men flere data må på plass før den nyansatte kan gis oppdrag, og for selv å  kunne bruke av iSkole.
