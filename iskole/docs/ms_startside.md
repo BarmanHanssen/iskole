@@ -22,6 +22,8 @@ Antall meldinger som du ennå ikke har åpnet angis her. Trykker du på ikonet l
 
 ![image](https://github.com/user-attachments/assets/6a30244c-beaa-4ef4-8f01-e0b7b31395c9)
 
+Her kan en sende melding internt for brukerne av iSkole til enkelte ansatte/elever, eller til en gruppe (se under _Gruppemottakere_). Legg merke til at meldingen også kan varsles via epost, se nederst i skjermbilde. 
+
 
 ### Nye bulletenger
 
