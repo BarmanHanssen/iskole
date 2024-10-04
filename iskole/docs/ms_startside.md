@@ -27,7 +27,7 @@ Her kan en sende melding internt for brukerne av iSkole til enkelte ansatte/elev
 
 ### Nye bulletenger
 
-Skolens ledere kan sende ut meldinger til alle brukerne av iSkole, altså  til elever og/eller foreldre og ansatte. Utsteder av bulletengen angir når den skal vises, og hvor lange den skal være synlig. Når tiden er inne for visning, vil meldingen automatisk vises til mottakeren ved innlogging. Merk at rektor må gi tilgang til de som sende ut en bulleteng, og at at også elever (elevrepresentant?) kan få redaktøransvar.
+Skolens ledere og ansatte kan sende ut meldinger til alle brukerne av iSkole, altså  til elever og/eller foreldre og ansatte. Utsteder av bulletengen angir når den skal vises, og hvor lange den skal være synlig. Når tiden er inne for visning, vil meldingen automatisk vises mottakerene ved innlogging. Merk at rektor må gi tilgang til hvem som sende ut en bulleteng.
 
 ### Fravær
 
