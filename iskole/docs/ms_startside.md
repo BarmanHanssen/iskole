@@ -18,7 +18,10 @@ Gir oversikt over hendelser og oppgaver knyttet til din rolle. Hvilket innhold s
 
 ### Nye meldinger
 
-Antall meldinger som du ennå ikke har åpnet angis her. Trykker du på ikonet ledes du til menyvalget _Meldinger_. 
+Antall meldinger som du ennå ikke har åpnet angis her. Trykker du på ikonet ledes du til menyvalget _Meldinger_. Velges deretter _Ny melding_ kommer dette skjembilde frem:
+
+![image](https://github.com/user-attachments/assets/6a30244c-beaa-4ef4-8f01-e0b7b31395c9)
+
 
 ### Nye bulletenger
 
