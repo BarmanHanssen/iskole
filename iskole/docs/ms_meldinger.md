@@ -17,7 +17,7 @@ Meldinger slettes enten med knappen _Slett_ når du leser meldingen eller ved å
 Du kan sende melding til ansatte, elever og foreldre. Adresselisten er gruppert på kontaktelever, elever i klasser, ansatte og foreldre. Personer kan være med i flere av grupperingene, men ved valg vil de forsvinne fra utvalget. Skriv i tekstfeltet for å søke i adresselisten. Foreldre vises med navnet til eleven i parentes, dermed kan du søke på eleven og velge forelderen(e) som mottaker. 
 
 #### Gruppemottakere
-For å sende melding til grupper ved skolen klikker du på pilen foran _Gruppemottakere_. Du får da mulighet til å sende melding til dine fag, klasser, alle ansatte på skolen, alle elever på skolen, dine kontaktelever eller alle foreldre på skolen. Klikk på gruppen(e) du vil sende melding til for å legge disse til i til-feltet. Du kan kombinere gruppemottakere og enkeltpersoner.
+For å sende melding til grupper ved skolen klikker du på pilen foran _Gruppemottakere_. Du får da mulighet til å sende melding til elevene dine fag, klasser, alle ansatte på skolen, alle elever på skolen, dine kontaktelever eller alle foreldre på skolen. Klikk på gruppen(e) du vil sende melding til for å legge disse til i til-feltet. Du kan kombinere gruppemottakere og enkeltpersoner.
 
 ![bilde](/img/ms_meldinger_ny_gruppemottakere.png 'Innboks')
 
