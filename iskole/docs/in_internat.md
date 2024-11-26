@@ -3,6 +3,10 @@ id: in_internat
 title: Internat
 sidebar_label: Internat
 ---
+:::info Merk
+Internat må aktiveres av rektor/administrator fra _Mine sider > Tilgang > Funksjoner_.
+:::
+
 Registrering er todelt.
  ## Internat
  I øverste del legger man inn navn og eventeull merknad på boenhetene
