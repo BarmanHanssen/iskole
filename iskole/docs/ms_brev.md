@@ -54,6 +54,9 @@ Ved generering av brev fra iSkole velges først en brevmal. Alle kan velge breve
 Skolen kan selv legge til brevmaler. Se eget avsnitt under.
 :::
 
+:::info Treghet ved generering av brev fra mal
+Hvis det er lenge siden malene er benyttet vil det ta ca 1 minutt før brevet blir generert. Normalt blir brevene opprettet umiddelbart.
+:::
 
 ### Brevmaler
 Rektor, rektors stedfortreder og kontor-gruppen har tilgang til denne ark-fanen og kan legge inn skolens maler.
