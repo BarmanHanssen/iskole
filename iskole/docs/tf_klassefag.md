@@ -62,9 +62,9 @@ Dette tallet er utgangspunktet for timeplanlegger. Når timeplanen legges (fra _
 #### Ressurs, årstimer,timeplanlagt
 Dersom faget har flere lærere vises summen av tildelt _Ressurs_, _Årstimer_ og _Timeplanlagt_ for alle lærerne på første linje. Verdiene for den enkelte lærer kommer bak lærerens navn. 
 
-Skolen kan dokumentere undevisningstilbud med henvisning til _Årstimer_ gitt på blå bakgrunn. Antall årstimer skal da motsvare fagets omfang. Dersom årstimer på hvit bakgrunn er lavere enn på blå bakgrunn må avviket kunne dokumenteres på annen måte.
+Skolen kan dokumentere undevisningstilbud med henvisning til _Årstimer_ gitt på blå bakgrunn. Antall årstimer skal da motsvare fagets omfang som står på hvit bakgrunn. Dersom fagets årstimer på hvit bakgrunn er lavere enn summen av tallene for faget på blå bakgrunn må avviket kunne dokumenteres på annen måte.
 
-Når timepllanen er ferdiglagt, skal timeplanlagte timer være likt med årstimer.
+Når timepllanen er ferdiglagt, skal timeplanlagte timer være likt med årstimer. Timeplanlagte timer blir beregnet ut fra hva som timeplalagt når denne tabellen vises.
 
 #### Fagansvarlig
 Det kan kun være én fagansvarlig lærer i faget, og denne blir da vist med navnet i fet skrift i kolonnen for lærer. Dersom flere lærer i faget kan en gjøre endring.
