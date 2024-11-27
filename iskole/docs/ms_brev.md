@@ -48,8 +48,27 @@ Fra _Elevadmin > Rapport > Varselbrev_ får rektor, administrator, brukergruppen
 ## Formelle brev
 Alle ansatte kan skrive formelle brev til elever fra iSkole. Brevene blir da lagret i iSkole. Brevene gjøres tilgjengelig for eleven i iSkole og varsel om at det er sendt et brev sendes som e-post. Ingen brev sendes som vedlegg i e-post og eneste måten for elevene å vise brevet er å åpne det fra iSkole. Man kan på den måten forsikre seg om at eleven har åpnet brevet eller ikke. Skjermbildet har to arkfaner: _Send brev_ og _Sendte brev_. Man har på denne måten oversikt over alle sendte brev og man kan når som helst åpne tidligere sendte brev.
 
+Ved generering av brev fra iSkole velges først en brevmal. Alle kan velge brevet «_Formelt brev (Mal fra iSkole)_». Øvrige maler kan skolen selv legge inn, se neste avsnitt _Brevmaler_. 
+
+:::tip Nyhet 
+Skolen kan selv legge til brevmaler. Se eget avsnitt under.
+:::
+
+
+### Brevmaler
+Rektor, rektors stedfortreder og kontor-gruppen har tilgang til denne ark-fanen og kan legge inn skolens maler.
+
+Brevmalene utarbeides av skolen som et Word-dokument. Dokumentet kan skolen utforme akkurat slik de selv ønsker inkludert bruk av bilder. iSkole har gjort tilgjengelig en rekke informasjon om eleven og foreldrene som kan flettes inn i brevet. En liste over tilgjengelige felter finner man ved å klikke på knappen _Felter tilgjengelig_. Her kan man velge mellom å kopiere ett og ett felt fra listen, eller å laste ned en tekstfil med alle feltene. Feltet settes inn i Word-dokumentet med krøllparantesene f.eks. {Navn}. 
+
 ## Språkopplæring
 Ansvarlig for behandlingen av søknader om særskilt språkopplæring får tilgang til dette menyvalget. Denne personen utnevnes av rektor eller administrator fra _Mine sider -> Tilgang_ og arkfanen _Brukergrupper_. Det skal legges en person til brukergruppen _Særskilt språkopplæring_. Det er denne personen som kommer i listen _Skolens kontaktperson_ når vedtaket genereres.
+
+Når malen er ferdig lastes den opp til iSkole. Klikk på knappen _Ny mal_. Når malen er valgt leses feltene fra malen og vises i en liste. Dersom man har benyttet felter vi ikke kjenner vises disse i en liste med ukjente felt, disse feltene bør rettes eller fjernes før man på nytt laster opp filen. 
+
+Når malene skal benyttes vil de listes ut med «Beskrivelse (filnavn)». 
+For feltet _Filnavn_ fyller vi automatisk ut malens navn, dere kan endre dette navnet. Gi malen et navn i feltet _Beskrivelse_.
+![Formelle brev](/img/ms_formellebrev_ny_mal.png 'Ny mal')
+
 
 ### Legg til svar på søknad
 Søk etter eleven ved å benytte filterene i toppen av hver kolonne. Skriv hele eller deler av navnet eller klassen og trykk enter-knappen. Klikk på eleven du skal gi svar på søknad. Fyll ut datofeltene og tekstboksene. Velg om søknaden er godkjent eller avslått. Når du har oppgitt all informasjonen du vil ha med i vedtaket, trykk på _Generer vedtak_. Vedtaket genereres som PDF og vises i tabellen _Vedtak om særskilt språkopplæring_. Her kan man laste ned vedtaket for å kontrollere at det ble slik det var ønsket. Hvis det er noe som skal endres, må man slette dette vedtaket, rette teksten og generere et nytt. Størrelsen på tekstboksene i iSkole tilsvarer de i dokumentet, man bør derfor holde deg til dette antallet med linjer. Så lenge vedtaket kun er generert, men ikke sendt, er det ikke tilgjengelig for eleven.
