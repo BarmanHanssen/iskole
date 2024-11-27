@@ -57,7 +57,7 @@ Vi ser her at Jan-Erik er fagansvarlig (uthevet navn) og at fagets 140 årstimer
 :::
  
 #### Uketimer
-Dette tallet er utgangspunktet for timeplanlegger. Timeplanlegger kan justere tallet på ukebasis.
+Dette tallet er utgangspunktet for timeplanlegger. Når timeplanen legges (fra _Timeplan>Klasser_), kan timeplanlegger justere tallet på ukebasis.
 
 #### Ressurs, årstimer,timeplanlagt
 Dersom faget har flere lærere vises summen av tildelt _Ressurs_, _Årstimer_ og _Timeplanlagt_ for alle lærerne på første linje. Verdiene for den enkelte lærer kommer selvsagt bak lærerens navn. 
