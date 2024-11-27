@@ -60,14 +60,15 @@ Rektor, rektors stedfortreder og kontor-gruppen har tilgang til denne ark-fanen 
 
 Brevmalene utarbeides av skolen som et Word-dokument. Dokumentet kan skolen utforme akkurat slik de selv ønsker inkludert bruk av bilder. iSkole har gjort tilgjengelig en rekke informasjon om eleven og foreldrene som kan flettes inn i brevet. En liste over tilgjengelige felter finner man ved å klikke på knappen _Felter tilgjengelig_. Her kan man velge mellom å kopiere ett og ett felt fra listen, eller å laste ned en tekstfil med alle feltene. Feltet settes inn i Word-dokumentet med krøllparantesene f.eks. {Navn}. 
 
-## Språkopplæring
-Ansvarlig for behandlingen av søknader om særskilt språkopplæring får tilgang til dette menyvalget. Denne personen utnevnes av rektor eller administrator fra _Mine sider -> Tilgang_ og arkfanen _Brukergrupper_. Det skal legges en person til brukergruppen _Særskilt språkopplæring_. Det er denne personen som kommer i listen _Skolens kontaktperson_ når vedtaket genereres.
-
 Når malen er ferdig lastes den opp til iSkole. Klikk på knappen _Ny mal_. Når malen er valgt leses feltene fra malen og vises i en liste. Dersom man har benyttet felter vi ikke kjenner vises disse i en liste med ukjente felt, disse feltene bør rettes eller fjernes før man på nytt laster opp filen. 
 
 Når malene skal benyttes vil de listes ut med «Beskrivelse (filnavn)». 
 For feltet _Filnavn_ fyller vi automatisk ut malens navn, dere kan endre dette navnet. Gi malen et navn i feltet _Beskrivelse_.
 ![Formelle brev](/img/ms_formellebrev_ny_mal.png 'Ny mal')
+
+
+## Språkopplæring
+Ansvarlig for behandlingen av søknader om særskilt språkopplæring får tilgang til dette menyvalget. Denne personen utnevnes av rektor eller administrator fra _Mine sider -> Tilgang_ og arkfanen _Brukergrupper_. Det skal legges en person til brukergruppen _Særskilt språkopplæring_. Det er denne personen som kommer i listen _Skolens kontaktperson_ når vedtaket genereres.
 
 
 ### Legg til svar på søknad
