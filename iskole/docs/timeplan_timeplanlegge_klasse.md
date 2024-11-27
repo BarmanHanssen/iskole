@@ -61,5 +61,11 @@ I noen tilfeller ønsker timeplanlegger også å se timeplan til en eller flere 
 Her vises timeplanen til de utvalgte lærere som står oppført unde _Vis timeplanen for disse ansatte_. Valgt lærer vises alltid, og man kan legge til andre lærere i tillegg til den som kommer automatisk.
 
 
+:::tip TIPS
+Se nærmere på (altså klikk på) disse tre ikonene:
+![image](https://github.com/user-attachments/assets/47ff34d5-6407-44b2-a585-900b2cdee8a9)
+
+:::
+
 
 
