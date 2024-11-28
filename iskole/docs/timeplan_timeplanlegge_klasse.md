@@ -45,7 +45,7 @@ I eksempelet er faget ENG valgt. Allerede timeplanlagte timer i valgt fag vises 
 
 Det er også timeplanlagt to timer i GEO selv om faget ikke har fått tildelt lærer ennå. Det er heller ikke valgt rom for de to timene i GEO (markeres med ?? på timeplanen). Ledige timer er markert med grønn bakgrunn.
 
-Det er heller ikke tildelt lærer i faget HIS. Ikonet X kan benyttes for å få registrerrt lærer i et fag.
+Det er heller ikke tildelt lærer i faget HIS. Ikonet ![image](https://github.com/user-attachments/assets/9c797d7f-f3d6-4675-ab16-25a69cdbe0ae) kan benyttes for å få registrerrt lærer i et fag.
 
 ##### Endre time
 Skal det gjøres endringer på en timeplanlagt time eller timen skal slettes, så kan man klikke på timen med venstre museknapp og gjøre endring/sletting fra dialogen som dukker opp. Husk unntaket når valgt lærer i faget ikke er timeplanlagt på denne timen, da vil klikk på timen medføre timeplanlegging av læreren. Det er mulig å endre rom, start- og sluttidspunkt og å slette timen. Dersom timen har flere lærere kan en eller flere av disse slettes fra timen.
