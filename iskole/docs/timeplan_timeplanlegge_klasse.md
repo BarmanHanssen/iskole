@@ -48,7 +48,7 @@ Det er også timeplanlagt to timer i GEO selv om faget ikke har fått tildelt l�
 Det er heller ikke tildelt lærer i faget HIS. Ikonet ![image](https://github.com/user-attachments/assets/9c797d7f-f3d6-4675-ab16-25a69cdbe0ae) kan benyttes for å få registrert lærer i et fag.
 
 ##### Endre time
-Skal det gjøres endringer på en timeplanlagt time eller timen skal slettes, så kan man klikke på timen med venstre museknapp og gjøre endring/sletting fra dialogen som dukker opp. Det er mulig å endre rom, start- og sluttidspunkt og å slette timen. Dersom timen har flere lærere kan en eller flere av disse slettes fra timen.
+Dersom det skal gjøres endringer på en timeplanlagt time, klikk på timen med venstre museknapp. Det er mulig å endre rom, start- og sluttidspunkt og å slette timen. Dersom timen har flere lærere kan en eller flere av disse slettes fra timen.
 ![endre_time](/img/tp_klasse_endre_time.png)
 
 
