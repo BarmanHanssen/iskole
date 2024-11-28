@@ -41,7 +41,7 @@ Dersom faget har _Gjester_, dvs at elevene fra klassen _Gjester_ også deltar i 
 **_Velg rom_**: Rommene som kan velges er de som er lagt inn fra _Grunnlagsdata>Rom_. Dersom klassen har eget rom, registrert fra _Grunnlagsdata>Klasser_, er dette  forhåndsvalgt. Annet rom velges om ønskelig herfra. Et allerede timeplanlagt rom kan endres ved å klikke på timen.
 
 #### Timeplan klasse
-I eksempelet vi har sett på er faget ENG valgt. Allerede timeplanlagte timer i valgt fag vises på rosa bakgrunn. Vi ser at ENG skal ha fem uketimer denne uken og lærer Lars Holm skal undervise tre timer i faget denne uken. Norskfaget NOR har så langt blitt timeplanlagt to timer på mandag og vises med blå bakgrunn. Alle timene til ENG og NOR er lagt til rom 208 som er klassens klasserom. 
+I eksempelet er faget ENG valgt. Allerede timeplanlagte timer i valgt fag vises på rosa bakgrunn. Vi ser at ENG har fem uketimer denne uken og at Lars og Ole er sammen på mandag og har i tillegg to timer hver i faget denne uken. Norskfaget NOR har så langt blitt timeplanlagt to timer på mandag og vises med blå bakgrunn. Alle timene til ENG og NOR er lagt til rom 208 som er klassens klasserom. 
 
 Det er også timeplanlagt to timer i geografi selv om dette faget ikke har fått tildelt lærer ennå. Det er heller ikke valgt rom for de to timene i GEO. Resten av timene i timeplanen er ledige for timeplanleggeren og disse er markert med grønn bakgrunn.
 
