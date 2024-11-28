@@ -48,13 +48,13 @@ Det er også timeplanlagt to timer i GEO selv om faget ikke har fått tildelt l�
 Det er heller ikke tildelt lærer i faget HIS. Ikonet ![image](https://github.com/user-attachments/assets/9c797d7f-f3d6-4675-ab16-25a69cdbe0ae) kan benyttes for å få registrert lærer i et fag.
 
 ##### Endre time
-Skal det gjøres endringer på en timeplanlagt time eller timen skal slettes, så kan man klikke på timen med venstre museknapp og gjøre endring/sletting fra dialogen som dukker opp. Husk unntaket når valgt lærer i faget ikke er timeplanlagt på denne timen, da vil klikk på timen medføre timeplanlegging av læreren. Det er mulig å endre rom, start- og sluttidspunkt og å slette timen. Dersom timen har flere lærere kan en eller flere av disse slettes fra timen.
+Skal det gjøres endringer på en timeplanlagt time eller timen skal slettes, så kan man klikke på timen med venstre museknapp og gjøre endring/sletting fra dialogen som dukker opp. Det er mulig å endre rom, start- og sluttidspunkt og å slette timen. Dersom timen har flere lærere kan en eller flere av disse slettes fra timen.
 ![endre_time](/img/tp_klasse_endre_time.png)
 
 
 #### Vis timeplan for disse ansatte
 Timeplanen for lærere i det valgte faget legges automatisk inn her. Timeplanen for alle fag til læreren som alt er timeplanlagt vises i skjermbildet _Timeplanlærer_ på samme bakrunnsfarge.
-I noen tilfeller ønsker timeplanlegger også å se timeplan til en eller flere andre lærere, disse velges enkelt fra nedtrekkslisten _Legg til lærer_.
+Dersom timeplanlegger ønsker å se timeplan til en eller flere andre lærere, velges disse fra nedtrekkslisten _Legg til lærer_.
 
 #### Timeplan lærer
 Her vises timeplanen til de utvalgte lærere som står oppført unde _Vis timeplanen for disse ansatte_. Valgt lærer vises alltid, og man kan legge til andre lærere i tillegg til den som kommer automatisk.
