@@ -53,12 +53,11 @@ Skal det gjøres endringer på en timeplanlagt time eller timen skal slettes, s�
 
 
 #### Vis timeplan for disse ansatte
-Timeplanen for lærere i det valgte faget legges automatisk inn her. Timeplanen for alle fag til læreren som alt er timeplanlagt vises i skjermbildet _Timeplanlærer_ på samme bakrunnsfarge.
-Dersom timeplanlegger ønsker å se timeplan til en eller flere andre lærere, velges disse fra nedtrekkslisten _Legg til lærer_.
+Lærer(e) i det valgte faget legges automatisk inn her. Timeplanen for alle fag til læreren(e) som alt er timeplanlagt vises i skjermbildet _Timeplanlærer_ på samme bakrunnsfarge.
+Timeplanlegger kan legge til en eller flere andre lærere fra nedtrekkslisten _Legg til lærer_.
 
 #### Timeplan lærer
-Her vises timeplanen til de utvalgte lærere som står oppført unde _Vis timeplanen for disse ansatte_. Valgt lærer vises alltid, og man kan legge til andre lærere i tillegg til den som kommer automatisk.
-
+Her vises timeplanen til lærer(e) som står oppført unde _Vis timeplanen for disse ansatte_.
 
 :::tip TIPS
 Se nærmere på (altså klikk på) disse tre ikonene:
