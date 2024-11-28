@@ -43,9 +43,9 @@ Dersom faget har _Gjester_, dvs at elevene fra klassen _Gjester_ også deltar i 
 #### Timeplan klasse
 I eksempelet er faget ENG valgt. Allerede timeplanlagte timer i valgt fag vises på rosa bakgrunn. Vi ser at ENG har fem uketimer denne uken og at Lars og Ole er sammen på mandag og har i tillegg to timer hver i faget denne uken. Norskfaget NOR har så langt blitt timeplanlagt to timer på mandag og vises med blå bakgrunn. Alle timene til ENG og NOR er lagt til rom 208 som er klassens klasserom. 
 
-Det er også timeplanlagt to timer i geografi selv om dette faget ikke har fått tildelt lærer ennå. Det er heller ikke valgt rom for de to timene i GEO. Resten av timene i timeplanen er ledige for timeplanleggeren og disse er markert med grønn bakgrunn.
+Det er også timeplanlagt to timer i GEO selv om faget ikke har fått tildelt lærer ennå. Det er heller ikke valgt rom for de to timene i GEO (markeres med ?? på timeplanen). Ledige timer er markert med grønn bakgrunn.
 
-Det er heller ikke tidelt lærer i faget HIS. Faget skal ha to timer denne uken, men de er ikke timeplanlagt.
+Det er heller ikke tildelt lærer i faget HIS. Ikonet X kan benyttes for å få registrerrt lærer i et fag.
 
 ##### Endre time
 Skal det gjøres endringer på en timeplanlagt time eller timen skal slettes, så kan man klikke på timen med venstre museknapp og gjøre endring/sletting fra dialogen som dukker opp. Husk unntaket når valgt lærer i faget ikke er timeplanlagt på denne timen, da vil klikk på timen medføre timeplanlegging av læreren. Det er mulig å endre rom, start- og sluttidspunkt og å slette timen. Dersom timen har flere lærere kan en eller flere av disse slettes fra timen.
