@@ -22,7 +22,9 @@ Benyttes hovedsaklig før skolens timeplan skal legges. En reservasjon blokkerer
 ![image](https://github.com/user-attachments/assets/faa8b3bc-18ce-4ffe-a4db-6092ba682c84)
 
 Lærer velges fra listen, og lærerens timeplan for valgt uke hentes frem og ledige timer markeres på grønn bakgrunn. Klikk på timen som skal reserveres (tirsdag 8:15-09:00), og du får frem skjemaet _Legg til reservasjon for (lærer)_. 
-
+![image](https://github.com/user-attachments/assets/f159ec6c-e78b-4697-a5e4-0d703b517013)
+Her kan du endre standartteksen. Dersom reservasjonen kun skal gjelde for uke 48, avslutter du med å _Lagre lærerreservasjonen. Skal reservasjonen gjelde for flere uker, kanskje for resten av skoleåret, velges _Kopering av gjeldende reservajon_, og dette skjermbnilde vises:
+![image](https://github.com/user-attachments/assets/3ef68971-fe4a-4615-83c3-0e427958d162)
 
 
 
