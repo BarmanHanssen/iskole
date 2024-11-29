@@ -6,7 +6,7 @@ sidebar_label: Timer
 
 En time på timeplanen er bestemt ved at vi angir når timen starter, og når den slutter. 
 
-En timeplan har tradisjonelt inneholdt 6 timer per dag over 5 ukedager. Vanligvis har timelengden vært 45 minutter, og alle dagene har hatt samme oppsett hva angår når timene starer og slutter. Dette er en praktisk ordning som gjør det lettere for alle som har bruk for timeplanen.
+En timeplan har tradisjonelt inneholdt 6 timer per dag over 5 ukedager. Vanligvis har timelengden vært 45 minutter, og alle dagene har hatt samme oppsett hva angår når timene starter og slutter. Dette er en praktisk ordning som gjør det lettere for alle som har bruk for timeplanen.
 
 Dersom man ønsker det, er det enkelt å lage et annet oppsett. For grunnskolen kan 1. time på mandag for barnetrinnet ha annen starttid enn ungdomstrinnet. Timelengden kan også være forskjellig. En slik timeplan kan bli krevende for timeplanlegger dersom oppsettet er slik at timer kan overlappe hverandre. 
 
