@@ -9,10 +9,10 @@ Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https
 :::
 
 ## Innledning
-At en lærer er  reservert for en bestemt tidsrom innebærer at læreren ikke kan pålegges undervisning på samme tid. Tiden hvor 
-en lærer er reservert er synlig på timeplanen for læreren selv og andre lærere, men ikke når elevene ser på en lærers timeplan.
+At en lærer er  reservert for et bestemt tidsrom innebærer at læreren ikke kan pålegges undervisning i klasse- eller gruppefag på samme tid. Tiden hvor 
+en lærer er reservert er synlig på timeplanen for læreren selv og for andre lærere, men ikke når elevene ser på en lærers timeplan.
 
-Reservering av et _rom_ innebærer at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. Disse tidene vises bare på rommets timeplan.
+Reservering av et _rom_ innebærer betyr tilsvarned at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. Disse tidene vises bare på rommets timeplan.
 
 Reservering av _rom og lærer_ innebærer at både rom og involverte lærere er opptatt. En slik reservering vises både på rommets og lærers timeplan.
 
