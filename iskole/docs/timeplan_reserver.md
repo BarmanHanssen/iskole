@@ -33,8 +33,7 @@ Skal reservasjonen gjelde for flere uker, kanskje for resten av skoleåret, velg
 ![image](https://github.com/user-attachments/assets/3ef68971-fe4a-4615-83c3-0e427958d162)
 
 
-
-Reservert tid gjelder i utgangspunktet bare for valgt uke. Her kan du markere at resevasjonen skal gjelde for flere uker, og eventeult bytte standard-verdien _Reservert_ med annen tekst. Dersom reservasjonen skal gjelde for resten av skoleåret hukes det av for _Merk ledige uker frem i tid_. 
+Reservert tid gjelder i utgangspunktet bare for valgt uke . Her kan du markere at resevasjonen skal gjelde for flere uker, og eventeult bytte standard-verdien _Reservert_ med annen tekst. Dersom reservasjonen skal gjelde flere uker, kanskje for resten av skoleåret hukes det av for _Merk ledige uker frem i tid_. 
 
 :::tip Tips - Møte med flere
 Hvis flere lærere skal ha møte sammen, benytt romreservervasjon og legg til alle aktuelle lærere i de aktuelle ukene. Alle deltakerene får samme melding på sin timeplan og reservasjonene kan endres samlet.
