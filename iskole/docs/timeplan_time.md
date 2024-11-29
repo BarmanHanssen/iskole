@@ -29,7 +29,7 @@ Når alle fag på barnetrinnet er timeplanlagt (fra _Timplan>Klasse_), endres ma
 
 Fordeler/ulemper med 1:  
 \+ Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.  
-\+ Må gjøre timeplanen ferdig for ett skoletrinn før man kan ta neste skoletrinn.  
+\- Må gjøre timeplanen ferdig for ett skoletrinn før man kan ta neste skoletrinn.  
 \- Dersom timeplanen senere skal endres, må man eventuelt endre timelengde dersom oppsettet ikke dekker skoletrinnet hvor endringen gjøres.  
 
 **Alternativ 2**: Vi ønsker å jobbe parallelt med timeplanlegging av barne- og ungdomstrinnet.
