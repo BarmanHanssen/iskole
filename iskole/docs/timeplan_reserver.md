@@ -19,7 +19,7 @@ Reservering av _rom og lærer_ innebærer at både rom og involvert(e) lærer(e)
 ## Reservere lærer
 Benyttes hovedsaklig før skolens timeplan skal legges. En reservasjon blokkerer for annen timeplanlagt aktivitet for læreren. Eksempelvis kan en reservasjon markere at læreren er opptatt med møtevikrsomhet.
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/15b4ce70-18a3-4894-a216-f34325c00f80)
+![image](https://github.com/user-attachments/assets/faa8b3bc-18ce-4ffe-a4db-6092ba682c84)
 
 Lærer velges fra listen, og lærerens timeplan for valgt uke hentes frem og ledige timer markeres på grønn bakgrunn. Klikk på timen som skal reserveres, og du får frem skjemaet _Legg til reservasjon for (lærer)_. Reservert tid gjelder i utgangspunktet bare for valgt uke. Her kan du markere at resevasjonen skal gjelde for flere uker, og eventeult bytte standard-verdien _Reservert_ med annen tekst. Dersom reservasjonen skal gjelde for resten av skoleåret hukes det av for _Merk ledige uker frem i tid_. 
 
