@@ -36,7 +36,7 @@ Fordeler/ulemper med 1:
 Da må timeoppsettet dekke alle kombinasjoner av start- og sluttider, uten hensyn til hva som skal benyttes på hvert klassetrinn. 
 
 Fordeler/ulemper med 2:  
-\+ Kan timeplanlegge alle klassene uten å gjøre endringer på malen som definerer start- og sluttider.  
+\+ Kan timeplanlegge alle klassene da malen har start- og sluttider for alle varianter.  
 \+ Dersom timeplanen må endres i løpet av skoleåret, er alle disponible timelengder på plass.  
 \- Kan komme i skade for å velge feil timelengde når timene utplasseres.  
 
