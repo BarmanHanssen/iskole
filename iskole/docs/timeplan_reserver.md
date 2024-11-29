@@ -21,7 +21,7 @@ Benyttes hovedsaklig før skolens timeplan skal legges. En reservasjon blokkerer
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/15b4ce70-18a3-4894-a216-f34325c00f80)
 
-Lærer velges fra listen, og lærerens timeplan hentes frem og timene markeres på grønn bakgrunn. Klikk på timen som skal reserveres, og du får frem skjemaet _Legg til reservasjon for (lærer)_. Reservert tid gjelder i utgangspunktet bare for valgt uke. Her kan du markere at resevasjonen skal gjelde for flere uker, og eventeult bytte standard-verdien _Reservert_ med annen tekst. Dersom reservasjonen skal gjelde for resten av skoleåret hukes det av for _Merk ledige uker frem i tid_. 
+Lærer velges fra listen, og lærerens timeplan for valgt uke hentes frem og ledige timer markeres på grønn bakgrunn. Klikk på timen som skal reserveres, og du får frem skjemaet _Legg til reservasjon for (lærer)_. Reservert tid gjelder i utgangspunktet bare for valgt uke. Her kan du markere at resevasjonen skal gjelde for flere uker, og eventeult bytte standard-verdien _Reservert_ med annen tekst. Dersom reservasjonen skal gjelde for resten av skoleåret hukes det av for _Merk ledige uker frem i tid_. 
 
 :::tip Tips - Møte med flere
 Hvis flere lærere skal ha møte sammen, benytt romreservervasjon og legg til alle aktuelle lærere i de aktuelle ukene. Alle deltakerene får samme melding på sin timeplan og reservasjonene kan endres samlet.
