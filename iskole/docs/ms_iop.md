@@ -68,7 +68,7 @@ Når skolen får tilbake vedtaket registreres eventuell godkjenning eller avslag
 Valgene beskrevet i dette kapittelet vises ved å klikke på _Administrer skolens søknader_. De søknadene som er blitt godkjent av elever eller foreldre kan legges til skolens samlede søknad. Dersom skolen skal søke til flere fylker / kommuner kan det opprettes en søknad til hvert fylke/kommune.
 
 :::info Merk
-Dersom søknadene leveres digitalt enkeltvis kan dere laste ned elevens søknad fra dialogen med elevens søknad i stedet for å opprette samlesøknad for skolen. 
+Dersom søknadene leveres enkeltvis kan dere laste ned elevens søknad fra dialogen med elevens søknad i stedet for å opprette samlesøknad for skolen. 
 :::
 
 ### Legg til skolesøknad
