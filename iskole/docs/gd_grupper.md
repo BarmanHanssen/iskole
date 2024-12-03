@@ -35,7 +35,7 @@ Fagene er de samme som en finner under menyvalget _Fag>Gruppefag_.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6b69ae31-53bd-489e-ad7a-0e895f064bd5)  Bare fag som har en verdi (tall eller bokstav) skal igangsettes dette skoleåret.
 
-_Fagnavn, Uketimer, Fagkode, Uketimer_ og  hentes fra fra _Grunnlagsdata>Gruppefag_.
+_Fagnavn, Uketimer, Fagkode, Omfang, Uketimer_   hentes fra fra _Grunnlagsdata>Gruppefag_.
 _Elever_ viser antallet elever som er påmeldt i faget. Når gruppen opprettes fra dette menyvalget, er tallet selvsagt null.
 
 _Gruppenr:Blokkid_: Dersom blokkid er innført vises kombinasjonen gruppenr:blokkid. Dersom flere grupper i faget kommer de i rekkefølge. Sorter på kolonnen, så kommer fag som skal timeplanelegges parallelt etter hverandre.
