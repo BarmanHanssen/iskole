@@ -19,7 +19,7 @@ Her ser vi at lærer PAA denne uken skal ha 5 timer, men ingen er timeplanlagt. 
 
 De timeplanlagte timene vises med farget bakgrunn. Hvis det er valgt rom for timen, så vises romnummeret som tekst i cellen for timen. Ved å trykke på en faglinje, så vil det valgte fagets timeplan komme til syne i en kalendervisning i skjermbildets nedre del. Man kan endre uker i en nedtrekksliste oppe til høyre.
 
-Utklippet av skjermbildet under viser alle gruppefagene og vi har valgt første skoleuke. Timeplanen er markert for fag som alt er timeplanlagt. 
+Utklippet av skjermbildet under viser årets gruppefag, og vi har valgt første skoleuke. Allerede timeplanlagte timer markeres med rommnummer. 
 
 ![image](/img/tp_grupper.png)
 
