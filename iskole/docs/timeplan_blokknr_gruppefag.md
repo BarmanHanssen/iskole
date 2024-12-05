@@ -27,7 +27,7 @@ Fag som er med rød skrift har ikke fått tildelt lærer. Ønskes kun oversikt o
 ![image](https://github.com/user-attachments/assets/0b6f8863-1b39-4073-afc1-5a127658023b)
 
 
-Gruppefagene timeplanlegges enkeltvis. Timen plasseres ved å klikke på et grønnt felt. 
+Gruppefagene timeplanlegges enkeltvis. Timen plasseres ved å klikke på et grønnt felt. Det er mulig å timeplanlegge flere timer under ett, se bunnteksten i vinduet.
 
 Dersom fagene er markert med blokkid (se menyvalget _Time- og fagfordeling>Gruppefag_), og blokkid er tildelt blokknr (se menyvalget _Blokk_), kan alle fagets timer timeplanlegges under ett:
 
