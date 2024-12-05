@@ -40,7 +40,7 @@ Før lagring sjekkes det automatisk at rom, lærer og elever i faget, ikke aller
 
 #### Vi velger er et fag uten blokkid, LA1 AG4 1:
 ![tp_grupper_timeplanlegg_uten_blokkid](/img/tp_grupper_uten_blokkid.png)
-Valgbare tider for gruppefagene er satt opp fra menyvalget _Blokk_. Lærerns tre timer kan timeplanlegges time for time ved å klikke på de mørkegrønne timene. Selvsagt kan rom byttes og allerede plasserte timer slettes.
+Lærerns tre timer kan timeplanlegges time for time ved å klikke på de mørkegrønne timene. Selvsagt kan rom byttes og allerede plasserte timer slettes.
 
 :::tip Tips - hurtigtaster
 Se beskrivelsen under timeplanen for tastatursnarveier som kan effektivisere arbeidet.
