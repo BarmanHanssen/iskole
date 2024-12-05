@@ -13,12 +13,12 @@ Når vikaren er lagt inn, vil timene til vikaren være markert på timeplanen ti
 Her velges først læreren som vi skal finne vikar for.
 Dersom  vikarlæreren kan ta flere timer holder man shift-knappen nede og klikker på alle aktuelle timer og med shift-knappen fortsatt nede dobbeltklikker man på den siste timen. Et dialogvindu viser da de valgte timene og de lærerne som er ledige  for valgte timer. 
 
-Klikk i tabellen på læreren som skal være vikar, marker om vikaren skal varsles med en melding i iSkole, og hvorvidt vikartimen medfører betaling. Klikk tilslutt _Lagre_.
+Klikk i tabellen på læreren som skal være vikar, marker om vikaren skal varsles med en melding i iSkole, og hvorvidt vikartimen medfører utbetaling. Klikk tilslutt _Lagre_.
 
 I utklippet under ser vi at det skal legges en vikar for Lars Holm. Det er klikket på timen på mandag, og dialogen for å registrere vikar har kommet frem.
 ![bilde](/img/tp_vikarer_registrering.png)
 
-Etter vikartimen er registrert vises den i lærerens timeplan for uken.
+Etter vikartimen er registrert vises den i lærerens, og elevenes, timeplan for uken.
 ![bilde](/img/tp_vikarer_timeplan.png)
 
 
