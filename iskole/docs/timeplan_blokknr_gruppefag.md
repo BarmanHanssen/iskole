@@ -23,8 +23,9 @@ Utklippet av skjermbildet under viser årets gruppefag, og vi har valgt første 
 
 ![image](/img/tp_grupper.png)
 
-Fag som er med rød skrift har ikke fått tildelt lærer. Ønskes kun oversikt over fag med lærer, klikk på trakt-ikonet:
-![image](/img/tp_grupper_filter.png)
+Fag som er med rød skrift har ikke fått tildelt lærer. Ønskes kun oversikt over fag som ikke er ferdig timeplanlag, klikk på trakt-ikonet:
+![image](https://github.com/user-attachments/assets/0b6f8863-1b39-4073-afc1-5a127658023b)
+
 
 Gruppefagene timeplanlegges enkeltvis. Dersom fagene er markert med blokkid, og blokkid er tildelt blokknr (se menyvalget _Blokk_), gjennstår å tildele romnummer før man kan lagre. 
 
