@@ -49,6 +49,6 @@ Se beskrivelsen under timeplanen for tastatursnarveier som kan effektivisere arb
 :::info Merk
 Bare timer fra _Blokk>Timeplan blokknr_ markert med blokknr kan brukes når gruppefagene timeplanlegges. 
 
-Etter å ha ferdigstilt timeplanen for gruppefagene i første skoleuke, kan man kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, systemet vil til enhver tid avdekke dersom kollisjoner oppstår (gjelder lærer, elev og rom).
+Etter å ha ferdigstilt timeplanen for gruppefagene i første skoleuke, vil det være naturlig å timeplanlegge også klassefagene for samme skoleuke. Deretter kan man kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, systemet vil til enhver tid avdekke dersom kollisjoner oppstår (gjelder lærer, elev og rom).
 :::
 
