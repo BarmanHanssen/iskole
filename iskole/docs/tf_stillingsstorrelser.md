@@ -21,5 +21,5 @@ Ved å velge en lærer vil man få frem beskjeftigelsens enheter:
 
 ![image](https://github.com/user-attachments/assets/301bda52-199e-4fd1-9cae-34349f01acb0)
 
-Dersom timeplanleggingen alt er startet, vil
+Dersom timeplanleggingen alt er startet, vil _Timeplanlagt_ vise status for klasse- og gruppe-fagstimene til læreren.
 
