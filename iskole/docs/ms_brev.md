@@ -48,7 +48,7 @@ Fra _Elevadmin > Rapport > Varselbrev_ får rektor, administrator, brukergruppen
 ## Formelle brev
 Alle ansatte kan skrive formelle brev til elever fra iSkole. Brevene blir da lagret i iSkole. Brevene gjøres tilgjengelig for eleven i iSkole og varsel om at det er sendt et brev sendes som e-post. Ingen brev sendes som vedlegg i e-post og eneste måten for elevene å vise brevet er å åpne det fra iSkole. Man kan på den måten forsikre seg om at eleven har åpnet brevet eller ikke. Skjermbildet har to arkfaner: _Send brev_ og _Sendte brev_. Man har på denne måten oversikt over alle sendte brev og man kan når som helst åpne tidligere sendte brev.
 
-Ved generering av brev fra iSkole velges først en brevmal. Alle kan velge brevet «_Formelt brev (Mal fra iSkole)_». Øvrige maler kan skolen selv legge inn, se neste avsnitt _Brevmaler_. 
+Ved generering av brev fra iSkole velges først en brevmal. Alle kan velge malene «_Formelt brev (Mal fra iSkole)_» og «_Last opp eget brev. (PDF)_». Øvrige maler kan skolen selv legge inn, se neste avsnitt _Brevmaler_. 
 
 :::tip Nyhet 
 Skolen kan selv legge til brevmaler. Se eget avsnitt under.
@@ -63,11 +63,17 @@ Rektor, rektors stedfortreder og kontor-gruppen har tilgang til denne ark-fanen 
 
 Brevmalene utarbeides av skolen som et Word-dokument. Skolen kan utforme dokumentet akkurat slik dere selv ønsker, inkludert bruk av bilder. iSkole har gjort tilgjengelig en rekke informasjon om eleven og foreldrene som kan flettes inn i brevet. En liste over tilgjengelige felter finner man ved å klikke på knappen _Felter tilgjengelig_. Her kan man velge mellom å kopiere ett og ett felt fra listen, eller å laste ned en tekstfil med alle feltene. Feltet limes inn i Word-dokumentet med krøllparantesene f.eks. {Navn}. 
 
-Når malen er ferdig lastes den opp til iSkole. Klikk på knappen _Ny mal_. Når malen er valgt leses feltene fra malen og vises i en liste. Dersom man har benyttet felter vi ikke kjenner vises disse i en liste med ukjente felt, disse feltene bør rettes eller fjernes før man på nytt laster opp filen. 
+Når malen er ferdig lastes den opp til iSkole. Klikk på knappen _Ny mal_. Når malen er valgt leses feltene fra malen og vises i en liste. Dersom man har benyttet felter vi ikke kjenner vises disse i en liste med egendefinerte felt. I disse feltene kan brukeren av malen flette inn egen tekst. For hvert felt kan dere angi en beskrivelse, standardtekst og om teksten kan være på flere linjer. Beskrivelsen vil vises under tekstfeltet, mens eventuell standardteksten vil være forhåndsutfylt i tekstfeltet. Velger dere at teksten kan være på flere linjer vil tekstfeltet være større og kunne utvides.
+
+Nedenfor eventuelle egendefinerte felt vises de feltene som vil erstattes med data fra iSkole.
 
 Når malene skal benyttes vil de listes ut med «Beskrivelse (filnavn)». 
 For feltet _Filnavn_ fyller vi automatisk ut malens navn, dere kan endre dette navnet. Gi malen et navn i feltet _Beskrivelse_.
 ![Formelle brev](/img/ms_formellebrev_ny_mal.png 'Ny mal')
+
+Eksempel på mal med egne felt:
+![Formelle brev](/img/ms_formellebrev_fra_mal.png 'Bruk av mal')
+
 
 #### Endring eller sletting av brevmal
 Sletting av malen påvirker ikke brev som allerede er opprettet fra malen. Dersom dere vil gjøre endringer på malen kan dere derfor trygt slette den fra iSkole og laste opp en ny versjon.
