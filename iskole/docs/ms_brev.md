@@ -72,6 +72,7 @@ For feltet _Filnavn_ fyller vi automatisk ut malens navn, dere kan endre dette n
 ![Formelle brev](/img/ms_formellebrev_ny_mal.png 'Ny mal')
 
 Eksempel på mal med egne felt:
+
 ![Formelle brev](/img/ms_formellebrev_fra_mal.png 'Bruk av mal')
 
 
