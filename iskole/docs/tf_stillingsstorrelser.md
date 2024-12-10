@@ -13,6 +13,6 @@ Dersom den ansatte skal tildeles ressurs som ikke fanges opp av undervisning, re
 
 Ut fra disse data beregnes lærerens gitte og beregnede beskjeftigelsesprosenten. De to kolonnene for avviksprosent viser da stillingsprosent minus beskjeftigelsesprosent.  
 
-![bilde](/img/tf_stillingsstorrelser.png)
+![image](https://github.com/user-attachments/assets/c973e0ce-11b5-44cb-8cd4-96e0c9e8e579)
 
 Øverste liste i skjermbildet viser en samlet oversikt for alle lærerne. Ved å velge en lærer vil man få se undervisnings- og andre ressurser detaljert. 
