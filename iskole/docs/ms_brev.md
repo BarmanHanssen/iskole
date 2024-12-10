@@ -76,7 +76,7 @@ Eksempel på mal med egne felt:
 
 
 #### Endring eller sletting av brevmal
-Sletting av malen påvirker ikke brev som allerede er opprettet fra malen. Dersom dere vil gjøre endringer på malen kan dere derfor trygt slette den fra iSkole og laste opp en ny versjon.
+Endring og sletting av malen påvirker ikke brev som allerede er opprettet fra malen. Dere kan derfor trygt endre og slette maler. Ved endring av malen kan dere endre beskrivelsen av malen og informasjonen om eventuelle egendefinerte felt. Dersom dere har endringer på word-dokumentet kan dere etter å ha trykket på blyaten for endring av malen laste opp den nye filen. Eksisterende felter vil bestå, nye vil legges til og felt som ikke lenger er i bruk vil markeres for sletting.
 
 ## Språkopplæring
 Ansvarlig for behandlingen av søknader om særskilt språkopplæring får tilgang til dette menyvalget. Denne personen utnevnes av rektor eller administrator fra _Mine sider -> Tilgang_ og arkfanen _Brukergrupper_. Det skal legges en person til brukergruppen _Særskilt språkopplæring_. Det er denne personen som kommer i listen _Skolens kontaktperson_ når vedtaket genereres.
