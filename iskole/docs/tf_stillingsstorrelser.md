@@ -10,6 +10,7 @@ Hvilken oppgaver den enkelte lærer skal ha, vil som hovedregel avtales og gjeld
 Hvilke fag læreren skal undervise i registreres fra menyvalgene _Klassefag_ og  _Gruppefag_. Stillingsstørrelsen for det enkelte fag hentes fra _Grunnlagsdata>Fag_, ut fra brøken Årstimer/Full post. Justering av stillingsstørrelsen for den enkelte lærer kan gjøres fra menyvalgene _Time- og fagfordeling>Klassefag_ og  _Time- og fagfordeling>Gruppefag_. Ressurs som ikke er undervisning, registreres på den enkelte lærer fra _Time- og fagfordeling>Andre ressurser_. Summen av ressurs til undervisning og annen ressurs vises her som _Beskjeftigelse_. 
 
 Ut fra disse data fremkommer lærerens gitte og beregnede beskjeftigelsesprosent. Kolonnene for _Avvik %_ viser da stillingsprosent minus beskjeftigelsesprosent.  
+
 Dette skjermbildet viser en samlet oversikt for alle lærerne: 
 
 ![image](https://github.com/user-attachments/assets/c973e0ce-11b5-44cb-8cd4-96e0c9e8e579)
