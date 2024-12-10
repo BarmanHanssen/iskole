@@ -16,7 +16,7 @@ Dette skjermbildet viser en samlet oversikt for alle lærerne:
 ![image](https://github.com/user-attachments/assets/c973e0ce-11b5-44cb-8cd4-96e0c9e8e579)
 
 
-Ved å velge en lærer vil man få se undervisnings- og andre ressurser detaljert:
+Ved å velge en lærer vil man få frem beskjeftigelsens enheter:
 
 ![image](https://github.com/user-attachments/assets/301bda52-199e-4fd1-9cae-34349f01acb0)
 
