@@ -5,9 +5,9 @@ sidebar_label: Stillingsstørrelser
 ---
 Ved ansettelse blir stillingsstørrelsen registrert fra _Personal>Ansatt_, se under kolonnen _Stilling %_, hvor 100 % betegner heltidsstilling. 
 
-Hvilken oppgaver den enkelte lærer skal ha, vil som hovedregel avtales og gjelde for et skoleår. For undervisning vil de enkelte fag vektlegges ut fra brøken årstimer/årsramme, denne er registrert fra _Grunnlagsdata>Fag_. 
+Hvilken oppgaver den enkelte lærer skal ha, vil som hovedregel avtales og gjelde for et skoleår. For undervisning vil de enkelte fag vektlegges ut fra brøken årstimer/årsramme, denne er registrert fra _Grunnlagsdata>Fag_. Dersom flere lærere deler underviningen i et fag, fordeles stillingsprosenten mellom de involverte lærere.
 
-Hvilke fag læreren skal undervise i registreres fra menyvalgene _Klassefag_ og  _Gruppefag_. Stillingsstørrelsen for det enkelte fag hentes fra _Grunnlagsdata>Fag_, ut fra brøken Årstimer/Full post. Justering av stillingsstørrelsen for den enkelte lærer kan gjøres fra menyvalgene _Klassefag_ og  _Gruppefag_. 
+Hvilke fag læreren skal undervise i registreres fra menyvalgene _Klassefag_ og  _Gruppefag_. Stillingsstørrelsen for det enkelte fag hentes fra _Grunnlagsdata>Fag_, ut fra brøken Årstimer/Full post. Justering av stillingsstørrelsen for den enkelte lærer kan gjøres fra menyvalgene _Time- og fagfordeling>Klassefag_ og  _Time- og fagfordeling>Gruppefag_. 
 
 Dersom den ansatte skal tildeles ressurs som ikke fanges opp av undervisning, registreres det under  _Andre ressurser_. 
 
