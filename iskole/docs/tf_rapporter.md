@@ -3,7 +3,6 @@ id: tf_rapporter
 title: Rapporter
 sidebar_label: Rapporter
 ---
-Rapportene her viser ressurbruk til alt som støtter opp om skolens undervisningsopplegg. 
 
 ## Stillingsoversikt
 ![image](https://github.com/user-attachments/assets/c5a0b9cf-6e05-4afc-aa06-ae634db5db3c)
