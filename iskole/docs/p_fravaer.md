@@ -5,7 +5,7 @@ sidebar_label: Fravær
 ---
 Tilgang til dette menyvalget har bare _Rektor_ og medlemmer av brukergruppen _Kontor_.
 
-Her kan ansatte som tilhører brukergruppen _Kontor_ føre fravær på ansatte. Ansatte kan også (fra _Mine sider>Eget fravær_) føre eget fravær. 
+Ansatte som tilhører brukergruppen _Kontor_ kan føre fravær på alle ansatte. Alle ansatte kan dessuten fra _Mine sider>Eget fravær_ føre eget fravær. 
 
 Her er to grupperinger:
 
