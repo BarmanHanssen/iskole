@@ -8,9 +8,8 @@ Rapportene her viser ressurbruk til alt som støtter opp om skolens undervisning
 ## Stillingsoversikt
 ![image](https://github.com/user-attachments/assets/c5a0b9cf-6e05-4afc-aa06-ae634db5db3c)
 
-Her en summeres undervisningsressurs og andre ressurser, gruppert på person. Den enkelte lærer får frem sin stillingsoversikt fra _Mine sider>Timeplan>Min Timeplan>Stillingsoversikt_.
-Ressurs for eventuelle vikartimer tas ikke med i denne rapporten.
-
+_Beskjeftigelse_ er summen av undervisningsressurs og andre ressurser. Ressurs for eventuelle vikartimer tas ikke med i denne rapporten.
+ Den enkelte lærer får frem sin stillingsoversikt fra _Mine sider>Timeplan>Min Timeplan>Stillingsoversikt_.
 
 ## Kontaktlærer
 Rapporten lister alle klasser som har elever hvor minst en elev i klassen har fått tildelt en kontaktlærer. Ressursen beregnes utfra konstantledd og tillegg pr elev gitt i _Grunnlagsdata>Kontaktlærer_. Kontaktlærerressurs gitt som annen ressurs er ikke med i denne rapporten. 
