@@ -7,7 +7,7 @@ sidebar_label: Rapporter
 ## Stillingsoversikt
 ![image](https://github.com/user-attachments/assets/c5a0b9cf-6e05-4afc-aa06-ae634db5db3c)
 
-_Beskjeftigelse_ er summen av undervisningsressurs og andre ressurser. Ressurs for eventuelle vikartimer tas ikke med i denne rapporten.
+_Beskjeftigelse %_ er summen av undervisningsressurs og andre ressurser. Ressurs for eventuelle vikartimer tas ikke med i denne rapporten.
  Den enkelte lærer får frem sin stillingsoversikt fra _Mine sider>Timeplan>Min Timeplan>Stillingsoversikt_.
 
 ## Kontaktlærer
