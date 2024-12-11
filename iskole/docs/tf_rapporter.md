@@ -5,6 +5,11 @@ sidebar_label: Rapporter
 ---
 Rapportene her viser ressurbruk til alt som støtter opp om skolens undervisningsopplegg. 
 
+## Stillingsoversikt
+Her en summeres undervisningsressurs og andre ressurser, gruppert på person. Viser grunnlaget for avlønning av den ansatte. Den enkelte lærer får frem sin stillingsoversikt fra _Mine sider>Timeplan>Min Timeplan>Stillingsoversikt_.
+Beregnet ressurs for kontaktlærer har antall kontaktelever i parentes bak teksten i kolonnen for type. Ressurs for vikartimer tas ikke med i rapporten.
+
+
 ## Kontaktlærer
 Rapporten lister alle klasser som har elever hvor minst en elev i klassen har fått tildelt en kontaktlærer. Ressursen beregnes utfra konstantledd og tillegg pr elev gitt i _Grunnlagsdata>Kontaktlærer_. Kontaktlærerressurs gitt som annen ressurs er ikke med i denne rapporten. 
 
@@ -12,10 +17,6 @@ Kontaktlærere registreres fra _Elevadmin>Kontaktlærer_ listes ut her. Dersom  
 
 ## Andre ressurser
 Rapporten viser ressurser utenom undervisning. Eventuelle justering/korrigering til undervisningsressursen kommer med her, f.eks. ressurser for andre oppdrag en ansatt får tildelt. 
-
-## Stillingsoversikt
-Her en summeres undervisningsressurs og andre ressurser, gruppert på person. Viser grunnlaget for avlønning av den ansatte. Den enkelte lærer får frem sin stillingsoversikt fra _Mine sider>Timeplan>Min Timeplan>Stillingsoversikt_.
-Beregnet ressurs for kontaktlærer har antall kontaktelever i parentes bak teksten i kolonnen for type. Ressurs for vikartimer tas ikke med i rapporten.
 
 ## Fagoversikt
 Alle klasse- og gruppefag med fagkode forskjellig fra 99999 listes her ut på et regneark. Utlistingen er gruppert på lærer. Siden rapporten tas ut på regneark er det mulig å sortere på valgfri kolonne.
