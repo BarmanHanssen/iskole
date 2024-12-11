@@ -9,7 +9,7 @@ Hvilken oppgaver den enkelte lærer skal ha, vil som hovedregel avtales og gjeld
 
 Hvilke fag læreren skal undervise i registreres fra menyvalgene _Klassefag_ og  _Gruppefag_. Stillingsstørrelsen for det enkelte fag hentes fra _Grunnlagsdata>Fag_, ut fra brøken Årstimer/Full post. Justering av stillingsstørrelsen for den enkelte lærer kan gjøres fra menyvalgene _Time- og fagfordeling>Klassefag_ og  _Time- og fagfordeling>Gruppefag_. 
 
-Kontaktlærer registreres fra _Elevadmin.>Kontaktlærer og utløser også en ressurs som plasseres under _Andre ressurseer_.
+Kontaktlærer registreres fra _Elevadmin.>Kontaktlærer_ og utløser også en ressurs som plasseres under _Andre ressurseer_.
 
 Ressurs som ikke er undervisning, registreres på den enkelte lærer fra _Time- og fagfordeling>Andre ressurser_. 
 
