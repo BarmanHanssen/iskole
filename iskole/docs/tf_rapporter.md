@@ -10,7 +10,7 @@ Rapportene her viser ressurbruk til alt som støtter opp om skolens undervisning
 
 
 Her en summeres undervisningsressurs og andre ressurser, gruppert på person. Den enkelte lærer får frem sin stillingsoversikt fra _Mine sider>Timeplan>Min Timeplan>Stillingsoversikt_.
-Beregnet ressurs for kontaktlærer har antall kontaktelever i parentes bak teksten i kolonnen for type. Ressurs for vikartimer tas ikke med i rapporten.
+Ressurs for eventuelle vikartimer tas ikke med i denne rapporten.
 
 
 ## Kontaktlærer
