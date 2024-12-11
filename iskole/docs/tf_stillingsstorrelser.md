@@ -7,7 +7,13 @@ Ved ansettelse blir stillingsstørrelsen registrert fra _Personal>Ansatt_, se un
 
 Hvilken oppgaver den enkelte lærer skal ha, vil som hovedregel avtales og gjelde for et skoleår. For undervisning vil de enkelte fag vektlegges ut fra brøken årstimer/årsramme, registrert fra _Grunnlagsdata>Fag_. Dersom flere lærere deler underviningen i et fag, fordeles stillingsprosenten mellom de involverte lærere.
 
-Hvilke fag læreren skal undervise i registreres fra menyvalgene _Klassefag_ og  _Gruppefag_. Stillingsstørrelsen for det enkelte fag hentes fra _Grunnlagsdata>Fag_, ut fra brøken Årstimer/Full post. Justering av stillingsstørrelsen for den enkelte lærer kan gjøres fra menyvalgene _Time- og fagfordeling>Klassefag_ og  _Time- og fagfordeling>Gruppefag_. Ressurs som ikke er undervisning, registreres på den enkelte lærer fra _Time- og fagfordeling>Andre ressurser_. Summen av ressurs til undervisning og annen ressurs vises her som _Beskjeftigelse_. 
+Hvilke fag læreren skal undervise i registreres fra menyvalgene _Klassefag_ og  _Gruppefag_. Stillingsstørrelsen for det enkelte fag hentes fra _Grunnlagsdata>Fag_, ut fra brøken Årstimer/Full post. Justering av stillingsstørrelsen for den enkelte lærer kan gjøres fra menyvalgene _Time- og fagfordeling>Klassefag_ og  _Time- og fagfordeling>Gruppefag_. 
+
+Kontaktlærer registreres fra _Elevadmin.>Kontaktlærer og utløser også en ressurs som plasseres under _Andre ressurseer_.
+
+Ressurs som ikke er undervisning, registreres på den enkelte lærer fra _Time- og fagfordeling>Andre ressurser_. 
+
+Summen av ressurs til undervisning og annen ressurs vises her som _Beskjeftigelse_. 
 
 Ut fra disse data fremkommer lærerens gitte og beregnede beskjeftigelsesprosent. Kolonnene for _Avvik %_ viser da stillingsprosent minus beskjeftigelsesprosent.  
 
