@@ -6,7 +6,7 @@ sidebar_label: Rapporter
 Rapportene her viser ressurbruk til alt som støtter opp om skolens undervisningsopplegg. 
 
 ## Stillingsoversikt
-![image](https://github.com/user-attachments/assets/fc6edac1-92c1-44f4-a791-cda506d58ef3)
+![image](https://github.com/user-attachments/assets/c5a0b9cf-6e05-4afc-aa06-ae634db5db3c)
 
 Her en summeres undervisningsressurs og andre ressurser, gruppert på person. Den enkelte lærer får frem sin stillingsoversikt fra _Mine sider>Timeplan>Min Timeplan>Stillingsoversikt_.
 Ressurs for eventuelle vikartimer tas ikke med i denne rapporten.
