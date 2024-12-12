@@ -18,7 +18,6 @@ Kontaktlærere registreres fra _Elevadmin>Kontaktlærer_. Rapporten lister alle 
  Dersom  skolen velger å legge kontaktlærerressurs til den enkelte lærer inn som _Andre ressurser_, kommer ressursen ikke med her, men under Andre ressurser.
 
 ## Andre ressurser
-
 Rapporten viser tildelt ressurser utenom undervisning, eksempelvis for rektor og inspektør. Alle kontaktlærere kommer også med her.
 
 ## Fagoversikt
