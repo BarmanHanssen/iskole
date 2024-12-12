@@ -13,9 +13,9 @@ _Beskjeftigelse %_ er summen av undervisningsressurs og andre ressurser. Ressurs
 ## Kontaktlærer
 ![image](https://github.com/user-attachments/assets/de060319-fdfe-47e4-8def-8282b3ffa4b7)
 
-Rapporten lister alle klasser som har elever hvor minst en elev i klassen har fått tildelt en kontaktlærer. Ressursen beregnes utfra konstantledd og tillegg pr elev gitt i _Grunnlagsdata>Kontaktlærer_.
+Kontaktlærere registreres fra _Elevadmin>Kontaktlærer_. Rapporten lister alle klasser som har elever hvor minst en elev i klassen har fått tildelt en kontaktlærer. Ressursen blir beregnet utfra konstantledd og tillegg pr elev gitt i _Grunnlagsdata>Kontaktlærer_.
 
-Kontaktlærere registreres fra _Elevadmin>Kontaktlærer_ listes ut her. Dersom  skolen velger å legge kontaktlærerressurs til den enkelte lærer inn som _Andre ressurser_, kommer ressursen ikke med her, men under Andre ressurser.
+ Dersom  skolen velger å legge kontaktlærerressurs til den enkelte lærer inn som _Andre ressurser_, kommer ressursen ikke med her, men under Andre ressurser.
 
 ## Andre ressurser
 
