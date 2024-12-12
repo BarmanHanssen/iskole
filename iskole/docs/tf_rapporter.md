@@ -19,7 +19,7 @@ Kontaktlærere registreres fra _Elevadmin>Kontaktlærer_. Rapporten lister alle 
 
 ## Andre ressurser
 
-Rapporten viser tildelt ressurser utenom undervisning og kontaktlærer, eksempelvis for rektor og inspektør. 
+Rapporten viser tildelt ressurser utenom undervisning, eksempelvis for rektor og inspektør. Alle kontaktlærere kommer også med her.
 
 ## Fagoversikt
 Alle klasse- og gruppefag med fagkode forskjellig fra 99999 listes her ut på et regneark. Utlistingen er gruppert på lærer. Siden rapporten tas ut på regneark er det mulig å sortere på valgfri kolonne.
