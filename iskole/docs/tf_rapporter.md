@@ -16,6 +16,8 @@ Rapporten lister alle klasser som har elever hvor minst en elev i klassen har f�
 Kontaktlærere registreres fra _Elevadmin>Kontaktlærer_ listes ut her. Dersom  skolen velger å legge kontaktlærerressurs til den enkelte lærer inn som _Andre ressurser_, kommer ressursen ikke med her, men under Andre ressurser.
 
 ## Andre ressurser
+![image](https://github.com/user-attachments/assets/de060319-fdfe-47e4-8def-8282b3ffa4b7)
+
 Rapporten viser ressurser utenom undervisning. Eventuelle justering/korrigering til undervisningsressursen kommer med her, f.eks. ressurser for andre oppdrag en ansatt får tildelt. 
 
 ## Fagoversikt
