@@ -5,7 +5,9 @@ sidebar_label: Gjesteklasser
 ---
 Det er mulig å slå sammen to, eller flere klasser, for felles undervisning i et bestemt fag. Altså at alle elevene fra flere klasser har felles undervisning. 
 
-Det er bare fag med fagkode forskjellig fra 999999 som kan ha gjesteklasse. Og siden en elev bare kan følge et bestemt fag i en klasse, må fellesfaget bare ligge i en klasse. Denne klassen blir eier av faget (omtalt som moderklassen). Klassene til de øvrige elevene kaller vi i for gjesteklasser. Typiske eksempler: To klasser har kroppsøving sammen. Flere klasser samles for kor-øvinger.
+Det er bare fag med fagkode forskjellig fra 999999 som kan ha gjesteklasse. 
+
+Da en elev bare kan følge et bestemt fag i en klasse, må fellesfaget bare ligge i en klasse. Denne klassen blir eier av faget (omtalt som moderklassen). Klassene til de øvrige elevene kaller vi i for gjesteklasser. Typiske eksempler: To klasser har kroppsøving sammen. Flere klasser samles for kor-øvinger.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/1ad15ab4-a3ef-4652-8f52-a69df0499455)
 
