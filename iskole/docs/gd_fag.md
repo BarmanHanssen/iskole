@@ -47,14 +47,10 @@ Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinersko
 :::
 
 #### Ressurs til faglærer
-- _Årstimer/Årsramme_: Her fastsettes lesebrøken for faget. Den er gjerne et resultat av forhandlinger mellom fagforening og skoleier, og registres av skoleier for hvert fag. Det er brøken årstimer/årsramme gir fagets stillingsstørrelse. Nå brukes fortrinnsvis klokketimer, ikke antall 45-minutters timer, som måltall. Da vil årstimer være fagets omfag slik det fremgår av fagets fagkode, og årsrammen er fremforhandlet mellom partene fagforening/skoleier. Faglærer som har faget hele skoleåret får da tildelt denne ressursen.
--
--
--
+- _Årstimer/Årsramme_: Her fastsettes lesebrøken for faget. Den er gjerne et resultat av forhandlinger mellom fagforening og skolen, og registres for hvert fag. Det er brøken årstimer/årsramme gir fagets stillingsstørrelse. Nå brukes fortrinnsvis klokketimer, ikke antall 45-minutters timer, som måltall. Da vil årstimer være fagets omfag slik det fremgår av fagets fagkode, og da er det årsrammen som er fremforhandlet mellom partene fagforening/skole.
+- Lærer som er oppført som fagansvarlig (se _Time- og fagfordelig>Klassefag/Gruppefag_) får automatisk ressursen for faget.
 - Brukes 45 minutter som timelengde på årstimer og årsramme, kan en 
--
--
--    årsramme blir da ca omfang*60/45), men verdien av brøken årstimer/årsramme skal være (tilnærmet) lik omfang/årsramme. Lærer som er oppført som fagansvarlig (se _Time- og fagfordelig>Klassefag/Gruppefag_) får automatisk ressursen for faget. Dersom flere lærere deler på undervisningen i faget, kan ressursen fordeles mellom de involverte lærere. Omfordeling/justering av ressurs for lærer i fag kan gjøres fra _Time- og fagfordeling>Andre ressurser_.
+--    årsramme blir da ca omfang*60/45), men verdien av brøken årstimer/årsramme skal være (tilnærmet) lik omfang/årsramme. Dersom flere lærere deler på undervisningen i faget, kan ressursen fordeles mellom de involverte lærere. Omfordeling/justering av ressurs for lærer i fag kan gjøres fra _Time- og fagfordeling>Andre ressurser_.
 
 #### Elever
 - _Elever kan føre tilstedeværelse_: Huker en av for dette kan elevene i faget selv markere tilstedeværelse i timene i faget. Uten avhuking er det bare læreren som kan gjøre det. Kan endres frem og tilbake flere ganger i løpet av skoleåret.
