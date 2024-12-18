@@ -47,7 +47,7 @@ Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinersko
 :::
 
 #### Ressurs til faglærer
-- _Årstimer/Årsramme_: Her fastsettes lesebrøken for faget. Den er gjerne et resultat av forhandlinger mellom fagforening og skolen, og registres for hvert fag. Brøken årstimer/årsramme gir fagets stillingsstørrelse. Nå brukes fortrinnsvis klokketimer, ikke antall 45-minutters timer, som måltall. Da vil årstimer være fagets omfang slik det fremgår av fagets fagkode, og den fremforhandlede årsrammen som er den eneste variabelen i uttrykket.
+- _Årstimer/Årsramme_: Brøken årstimer/årsramme gir fagets stillingsstørrelse. Den er gjerne et resultat av forhandlinger mellom fagforening og skolen, og registres for hvert fag. Nå brukes fortrinnsvis klokketimer, ikke antall 45-minutters timer, som måltall for årstimene. Da vil årstimer være fagets omfang slik det fremgår av fagets fagkode, og den fremforhandlede årsrammen er den eneste variabelen i uttrykket.
 - Lærer som er oppført som fagansvarlig (se _Time- og fagfordelig>Klassefag/Gruppefag_) får automatisk ressursen for faget.
 - Dersom flere lærere deler på undervisningen i faget, kan ressursen fordeles mellom de involverte lærere. Omfordeling/justering av ressurs for lærer i fag gjøres fra _Time- og fagfordeling_.
 
