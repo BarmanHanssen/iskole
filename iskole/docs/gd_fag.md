@@ -99,7 +99,7 @@ For å få registrert en komponent, markeres først et fag med fagkode 999999, d
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b9ad052a-18f5-4d60-96cb-887fb912e526)
 
-Nedtrekkslisten viser da alle fag som NOX kan være en komponent av. Utvalget er begrenset til alle fag på trinnet (her AP 3) som alt er registrert, og som har fagkode forskjellig fra 999999. Her er det nok NOR som er tiltenkt eierskapet. Det er mulig at et fag, eksempelvis NOR, kan ha flere komponenter.
+Nedtrekkslisten viser da alle fag som NOX kan være en komponent av. Utvalget er begrenset til alle fag på trinnet (her AP 3, altså trinn 3) som alt er registrert, og som har fagkode forskjellig fra 999999. Her er det nok NOR som er tiltenkt eierskapet. Det er mulig at et fag, eksempelvis NOR, kan ha flere komponenter.
 
 ### 999999-fag, ikke komponent
 
