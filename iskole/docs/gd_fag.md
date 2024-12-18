@@ -55,7 +55,7 @@ Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinersko
 - _Elever kan føre tilstedeværelse_: Huker en av for dette kan elevene i faget selv markere tilstedeværelse i timene i faget. Uten avhuking er det bare læreren som kan gjøre det. Kan endres frem og tilbake flere ganger i løpet av skoleåret.
 
 Skal resultatet lagres klikker en på ikonet for _Lagre for å avslutte.
-
+ 
 ### _Endre_
 Klikk på faget som skal endres, deretter på ikonet _Endre_.
 Alt kan endres, unntatt Trinn og kort-navn! 
