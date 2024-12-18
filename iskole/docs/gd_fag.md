@@ -79,7 +79,7 @@ Normalt vil årstimer settes likt med omfanget til fag.
 Angir hvor mange timer man må undervise i faget for å full stilling. Dersom årstimer=omfang er det klokketimer som gjelder.
 
 #### Tilsvarer stillingsprosent
-Beregnes ut fra årstimer delt på årsramme multiplisert med 100. (Krever at årsrammen ikke er satt til null.)
+Beregnes ut fra årstimer delt på årsramme multiplisert med 100. (Krever at årsrammen ikke er null.)
 
 ####  Elever
 Når et nytt fag registreres her, kan selvsagt ingen elever være knyttet til faget. Elevene kommer først når klassefaget er plassert i en klasse (fra menyvalget _Klasser_), og elever er tatt inn i klassen. Tilsvarende må det være registrert en gruppe i faget (fra menyvalget _Grupper_), før elever kan knyttes til gruppefaget.
