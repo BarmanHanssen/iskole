@@ -17,7 +17,7 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/ba556c8b-4d5c-45d0-8e04-3ae0e64dc51b)
 
-- _Klassetrinn_: I nedtrekkslisten finner du alle klassetrinn som er lagt inn fra menyvalget _Klassetrinn_
+- _Klassetrinn_: Nedtrekkslisten henter data fra menyvalget _Utdanningsprogram_.
 - _Klasseid_: Her velges en bokstav eller tall. Sammentrekking av  _Klassetrinn_ og _Klasseid_ gir navnet på denne klassen (se kolonnen _Klasse_). 
 - _Velg programkode_: Her får man opp en omfattende liste som dekker både grunnskole og videregående skole. Man kan filtrere ved skrive inn tekst, eksempelvis:
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/c8f40fe2-4a4c-4161-9d7e-41e1aa988e58)
