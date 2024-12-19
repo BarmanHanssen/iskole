@@ -10,7 +10,7 @@ Eksempel fra skole hvor fagene allerede er lagt til:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/1aaa3b62-1a8d-4066-83d6-dc9f3e81a79d)
 
 
-:::tip Kolonnene _(Er Gjest i klasse)_ og _Har gjesteklasse_ blir omtalt under menyvalget _Gjesteklasse_.
+:::tip Kolonnene _(Er Gjest i klasse)_ og _Har gjesteklasse_ blir omtalt under menyvalget _Gjesteklasser_.
 :::
 
 ### +Legg til...
