@@ -21,9 +21,9 @@ Her følger en detaljert beskrivelse av hvordan søkerportalen implimenteres.
 
 For å kunne ta portalen i bruk, må man huke av for minst en av boksene.
 
-**_Skolen benytter søkerportalen til å ta imot søknader til iSkole:_**  Dette er fullversjonen av søkerportalen hvor søkeren selv kan fullføre søkerprosessen helt ut med all dokumentasjon som skolen krever.
+**_Skolen benytter søkerportalen til å ta imot søknader til iSkole:_**  Dette er fullversjonen av søkerportalen hvor søkeren selv kan fullføre søkerprosessen helt ut med vedlegg av all dokumentasjon som skolen krever.
 
-**_Skolen benytter seg av søkerportalen til å ta imot interessenter til iSkole:_** Her vil søkeren kunne melde sin interesse for skoleplass ved kun å legge inn info om seg selv tilstrekkelig for at skolen skal kunne kontakte vedkommende for den videre prosess.
+**_Skolen benytter seg av søkerportalen til å ta imot interessenter til iSkole:_** Her kan potensiell søker legge inn info om seg selv slik at skolen skal kunne kontakte vedkommende. Skolen vil da kunne bistå søkeren for en eventuell fullstndig søknad via inntaksportalen.
 
 Hele skjemaet er som følgende:
 
