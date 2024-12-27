@@ -13,7 +13,7 @@ Har du _Fagkode_ markert med rød farge, velg da _Utgåtte fagkoder_ for å oppd
 :::
 ## Generelt
 Registrering/endring av fag er knyttet til skoleåret som er valgt. Å slette et fag vil derfor kun slette faget for dette skoleåret, og har ingen innvirkning på tidligere års datagrunnlag.
-Fagene som kan tilordnes en klasse (se menyvalget _Klasser_) må være registrert her som klassefag. Dersom elevene kan velge noen fag i tillegg til klassefagene, må også slike fag være regitrert her.
+Fagene som kan tilordnes en klasse (se menyvalget _Klasser_) må være registrert her som klassefag. Dersom elevene kan velge noen fag i tillegg til klassefagene, må også slike fag regitreres her.
 Det innebærer at alle fag som tilbys elevene i dette skoleåret skal være registrert her.
 
 Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at hver elev , uke for uke hele skoleåret, skal få en korrekt timeplan. Og tilsvarende for alle lærere.
