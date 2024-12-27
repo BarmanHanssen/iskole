@@ -16,6 +16,8 @@ Registrering/endring av fag er knyttet til skoleåret som er valgt. Å slette et
 Fagene som kan tilordnes en klasse (se menyvalget _Klasser_) må være registrert her som klassefag. Dersom elevene kan velge noen fag i tillegg til klassefagene, må også slike fag være regitrert her.
 Det innebærer at alle fag som tilbys elevene i dette skoleåret skal være registrert her.
 
+Denne todelingen av fag gjør det mulig å timeplanlegge fagene slik at hver elev , uke for uke hele skoleåret, skal få en korrekt timeplan. Og tilsvarende for alle lærere.
+
 ## Klassefag og Gruppefag
 Datagrunnlaget for begge fag-gruppene er så likt at vi bruker kun klassefag for å vise hva som må gjøres.
 
