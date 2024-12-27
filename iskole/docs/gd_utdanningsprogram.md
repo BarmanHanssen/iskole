@@ -7,7 +7,7 @@ Klikker man på _+Legg til program_ fås dette skjermbilde:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/337d9614-9804-45cf-a7c1-6d1ece630dab)
 
-Her legges strukturen for hvilke klasser som skolen skal opprette. Komponentene består av følgende komponenter:
+Her legges strukturen for hvilke klasser som skolen skal opprette. Følgende komponenter inngår:
 
 _Utdanningsprogram_  er den offisielle betegnelsen, benytte på karakterutskrifter etc. Nedtrekkslisten kommer fra Udir. Merk at barne- og ungdomsskolen bare er tilgodesett med GS som kode.
 
