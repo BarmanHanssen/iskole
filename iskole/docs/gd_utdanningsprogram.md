@@ -13,7 +13,7 @@ _Utdanningsprogram_  er den offisielle betegnelsen, benytte på karakterutskrift
 
 _Internnavn_ 
 
-_Kode_ er to tegn som blir første del av navnet på en klasse. Gjør det mulig å legge inn samme utdanningsprogram flere genger. Eksempelvis kan GS=Grunnskole legges inn med kodene BT og UT for henholdsvis barne- og ungdomstrinnet. 
+_Kode_ er to tegn som blir første del av navnet på en klasse. Gjør det mulig å legge inn samme utdanningsprogram flere ganger. Eksempelvis kan GS=Grunnskole legges inn med kodene BT og UT for henholdsvis barne- og ungdomstrinnet. 
 
 _Klassetrinn_ angir på hvilke trinn skolen vil opprette klasser på angitte utdanningsprogram. For videregående skole er det vanligvis fra 1 til 3, trinn 4 benyttes ofte for påbyggingsår. For grunnskolen vil det tilvarende være trinn 1 til 7 for barnetrinnet og 8 til 10 for ungdomstrinnet.
 
