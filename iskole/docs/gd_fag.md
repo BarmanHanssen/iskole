@@ -66,7 +66,8 @@ Da kan alt endres, unntatt Trinn og kort-navn!
 Elever som tas inn i en klasse, får fagkoden knyttet til fagene i klassen, tilsvarende for valgte gruppefag. Endres fagkoden herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. For en elev kan fagkoden for både klasse- og gruppefag  endre fra _Elevadmin>Karakterdokumentasjon_. 
 :::
 
-### _Slett_
+## Velges
+![image](https://github.com/user-attachments/assets/29f29846-42a9-46da-9d2a-7e2dbab8289b)
 Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. Fag med elever hvor det allerede er satt karakter i kan ikke slettes.
 
 ## Noen av kolonne vedrørende tabellen for klasse- og gruppefag
