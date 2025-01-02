@@ -57,10 +57,10 @@ Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinersko
 
 Skal resultatet lagres klikker en på ikonet for _Lagre for å avslutte.
  
+## Velges 
 ![image](https://github.com/user-attachments/assets/b4813538-caeb-451d-9993-b574a424acfd)
 
-Klikk på faget som skal endres, deretter på ikonet _Endre_.
-Alt kan endres, unntatt Trinn og kort-navn! 
+Da kan alt endres, unntatt Trinn og kort-navn! 
 
 :::info Fagkode
 Elever som tas inn i en klasse, får fagkoden knyttet til fagene i klassen, tilsvarende for valgte gruppefag. Endres fagkoden herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. For en elev kan fagkoden for både klasse- og gruppefag  endre fra _Elevadmin>Karakterdokumentasjon_. 
