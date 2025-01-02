@@ -24,8 +24,7 @@ Datagrunnlaget for begge fag-gruppene er så likt at vi bruker kun klassefag for
 
 
 
-## Velges 
-![image](https://github.com/user-attachments/assets/91144dc5-613a-4a7d-9b14-e89e56e60907)
+## Velges ![image](https://github.com/user-attachments/assets/91144dc5-613a-4a7d-9b14-e89e56e60907)
 
  fås dette skjembilde:
 
