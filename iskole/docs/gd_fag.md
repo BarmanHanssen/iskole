@@ -25,10 +25,7 @@ Datagrunnlaget for begge fag-gruppene er så likt at vi bruker kun klassefag for
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cb1a6ccd-29ed-44a1-94cf-a6283a4105d0)
 
 Velges 
-
 ![image](https://github.com/user-attachments/assets/91144dc5-613a-4a7d-9b14-e89e56e60907)
-
- ### _+Legg til_
  fås dette skjembilde:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2e81ab11-2b2f-47ff-942f-afeabca93d55)
