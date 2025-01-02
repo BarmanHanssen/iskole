@@ -112,10 +112,10 @@ Nedtrekkslisten viser da alle fag som NOX kan være en komponent av. Utvalget er
 Disse fag kan timeplanlegges, men de skal ikke medtas på karakterdokumentasjonen, og er heller ikke med på diverse oversikter, f.eks til Wis. 
 
 ### Oversikt
-Her vises alle fag som er registrert, men fokusert på gyldighet, og registrert elevtall på hvert fag. Fag med rød skriftgått ut på dato, og må gis ny fagkode. Merk at en fagkode kan være registrert både som klasse- og gruppefag, og på flere årstrinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode. Dersom denne oversikten tas frem etter skolestart, vil _Elevantall_ vise hvor mange elever som er registrert med faget. Når nytt fag legges til, er selvsagt elevantallet null.
+Her vises alle fag som er registrert, men fokusert på gyldighet, og registrert elevtall på hvert fag. Fag med rød skrift er gått ut på dato, og må gis ny fagkode. Merk at en fagkode kan være registrert både som klasse- og gruppefag, og på flere årstrinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode i dette skoleåret. Dersom oversikten tas frem etter skolestart, vil _Elevantall_ vise hvor mange elever som er registrert med faget. Når nytt fag legges til, er selvsagt elevantallet null.
 
 ### Utgåtte fagkoder
 
-Ved opprettelse av neste planperiode er det naturlig å kopiere grunnlagsdata fra et tidligere skoleår. Da kan det hende at en fagkode som var gyldig i forrige skoleår nå er gått ut på dato. En slik fagkode vil markeres med rød farge, noe som indikerer at den bør skifts ut.
+Ved opprettelse av neste skoleår er det naturlig å kopiere grunnlagsdata fra inneværende skoleår. Det kan hende at en fagkode fra i år er gått ut på dato neste skoleår. En slik fagkode vil markeres med rød farge, noe som indikerer at den må skifts ut.
 
-Velges _Utgåtte fagkoder_ får vi frem en liste over både klasse- og gruppefag som er gått ut på dato. Fagets utgåtte fagkode kan da automatisk erstattes av ny fagkode dersom ny fagkode er oppgitt. 
+Velges _Utgåtte fagkoder_ får vi frem en liste over både klasse- og gruppefag som er gått ut på dato. Fagets utgåtte fagkode kan da automatisk erstattes av ny fagkode dersom ny fagkode er kjent. 
