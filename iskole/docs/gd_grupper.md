@@ -3,7 +3,7 @@ id: gd_grupper
 title: Grupper
 sidebar_label: Grupper
 ---
-Alle aktuelle gruppefag skolen har til disposisjon er registrert fra menyvalget _Fag>Gruppefag_. Utvalget av gruppefag som skal tilbys årets kull av elever skal nå fastslås.
+Alle aktuelle gruppefag skolen har til disposisjon er registrert fra menyvalget _Fag_ under valget _Gruppefag_. Her skal vi fastsette hvilke gruppefag som skal tilbys årets kull av elever.
 Alle fag fra menyvalget _Fag>Gruppefag_ vises her, og er i utgangspunktet valgbare. 
 
 For at et fag skal bli valgbart må det gis et gruppenr, se kolonnen
