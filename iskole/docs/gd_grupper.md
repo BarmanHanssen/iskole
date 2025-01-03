@@ -4,7 +4,7 @@ title: Grupper
 sidebar_label: Grupper
 ---
 Alle aktuelle gruppefag skolen har til disposisjon er registrert fra menyvalget _Fag_ under valget _Gruppefag_. Her skal vi fastsette hvilke gruppefag som skal tilbys årets kull av elever.
-Alle fag fra menyvalget _Fag>Gruppefag_ vises her, og er i utgangspunktet valgbare. 
+Alle fag fra menyvalget _Fag>Gruppefag_ vises her, og er valgbare. 
 
 For at et fag skal bli valgbart må det gis et gruppenr, se kolonnen
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6b69ae31-53bd-489e-ad7a-0e895f064bd5)
