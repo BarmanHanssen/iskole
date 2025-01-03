@@ -34,7 +34,7 @@ Datagrunnlaget for begge fag-gruppene er så likt at vi bruker kun klassefag for
 #### Timeplandata
 - _Trinn_: Valget er begrenset av hva som alt er registrert fra menyvalget _Utdanning_. 
 - _Navn (kort)_: Tre tegn som blant annet benyttes på timeplanen. Eksempel: NOR for faget norsk, kan brukes på alle trinn selv om faginnholdet er vidt forskjellig.
-- _Navn_: Dette navnet kommer frem på timeplanen. Merk at offisielt navn er gitt via fagkoden fra Udir, dette benyttes på karakterutskrifter etc.
+- _Navn_: Brukes internt. Merk at offisielt navn er gitt via fagkoden fra Udir, dette benyttes på karakterutskrifter etc.
 - _Timer per uke_: Skoleåret er på 38 uker. Ut fra hvert fags omfang (gitt fra fagkoden) fastsettes hvor mange timer per uke som må timeplanlegges for å nå fagets omfang. Uketimetallet må ta hensyn til om timelengden på undervisninge er 45 eller 60 minutters.  Timeplanlegger kan imidlertid justers timetallet opp eller ned på ukebasis slik at total undervisning er i samsvar med fagets omfang.
 - _Rom_: Noe fag, eksempelvis kroppsøving, krever spesialrom. Da kan det være greit å knytte rommet til faget her. Det innebærer at timeplanlegger får dette rommet som førstevalg. Romvalget kan endres under timeplanleggingen.
 
