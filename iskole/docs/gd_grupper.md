@@ -5,7 +5,7 @@ sidebar_label: Grupper
 ---
 Her skal vi fastsette hvilke gruppefag som skal tilbys årets kull av elever. 
 
-Alle aktuelle gruppefag skolen er registrert fra menyvalget _Fag_ under valget _Gruppefag_. Disse fagene vises her, og er valgbare. 
+Alle aktuelle gruppefag er registrert fra menyvalget _Fag_ under valget _Gruppefag_. Disse fagene vises her, og er valgbare. 
 
 
 For at et fag skal bli valgbart for årets elever må det gis et gruppenr, se kolonnen
