@@ -23,11 +23,11 @@ For å få alle gruppene som alt er planlagt øverst/nederst i skjermbildet, try
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/30ad1c9b-fbf7-4c64-8126-5ea84f28b547)
 
-Gruppenr må gis en verdi mens blokkid kan stå blank. Verdi for blokkid kan registreres senere.
+Gruppenr må gis en verdi, men blokkid kan stå blank. Verdi for blokkid kan registreres senere.
 
-Fag med samme blokkid ( gitt som et tall) skal undervises parallelt, uten at timeplanen for fagene på nåværende tidspunkt er bestemt. Fra _Time- og fagfordeling>Gruppefag_ kan en lærer følgelig ikke tildeles to fag med samme blokkid. Og en elev kan heller ikke velge to gruppefag med samme blokkid. 
+Fag med samme blokkid ( gitt som et tall) skal undervises parallelt, selv om timeplanen for fagene på nåværende tidspunkt ikke er bestemt. Er fagene gitt blokkid kan en lærer ikke tildeles to fag med samme blokkid. Og en elev kan heller ikke velge to gruppefag med samme blokkid. 
 
-Blokkid kan bare settes/endres herfra. Blokkid har innvirkning for videre arbeid med _Time- og fagfordeling>Grupper_, og kan i betydelig grad forenkle timplanlegging av gruppefagene ( se _Timeplan>Grupper_).
+Blokkid kan bare settes/endres herfra. Blokkid kan i betydelig grad forenkle timplanlegging av gruppefagene ( se _Timeplan>Grupper_).
 
 ### Litt om kolonnene i skjermbildet
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d6a80ad7-6744-403e-8211-fcb36ee70830)
