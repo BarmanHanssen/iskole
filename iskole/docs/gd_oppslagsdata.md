@@ -3,9 +3,9 @@ id: gd_oppslagsdata
 title: Oppslagsdata
 sidebar_label: Oppslagsdata
 ---
-Tabellene innholdet data som benyttes i iSkole. Tabellene kommer fra Utdanningsdirektoratet (UDIR) og kan ikke endres av brukerne av iSkole. 
+Tabellene kommer fra Utdanningsdirektoratet (UDIR) og kan ikke endres av brukerne av iSkole. 
 
-Tabellene dekker  videregående skole, fagskolen, grunnskolen, Steinerskolen og Montesorriskolen. 
+Tabellene innholdet data som benyttes i iSkole. Tabellene dekker videregående skole, fagskolen, grunnskolen, Steinerskolen og Montesorriskolen. 
 
 For å begrense hva som vises, kan en legge inn filter. Da vises rader som inneholder filteret i en eller flere av kolonnene som vises.
 
