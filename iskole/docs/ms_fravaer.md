@@ -152,9 +152,3 @@ I filteret kan man søke etter fag eller faglærer. Ved å klikke på raden med 
 ### Elever
 Her kan det søkes blant alle skolens elever. Ved å klikke på raden til ønsket elev får man frem den samme detaljerte fraværsføringen som kontaktlæreren.
 
-### Avslutt fraværsføring
-Her kan man søke etter spesifikke elever eller klasser og velge om man skal vise alle elever eller kun de som har avvik mellom ført fravær og hva som er overført til karakterdokumentasjonen. 
-
-:::tip Tips
-Klikk på filterknappen _Vis kun avvik_ og kryss av avkrysningsboksen i kolonneoverskriften for å velge alle skolens elever med avvik og til slutt _Lagre_ for å overføre fraværstellingen for alle elever med avvik.
-:::
