@@ -4,10 +4,6 @@ title: Reserver
 sidebar_label: Reserver
 ---
 
-:::info Ny versjon av iSkole
-Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/timeplan_reserver_old). 
-:::
-
 ## Innledning
 At en lærer er  reservert for et bestemt tidsrom innebærer at læreren ikke kan pålegges undervisning i klasse- eller gruppefag på samme tid. Tiden hvor 
 en lærer er reservert er synlig for alle som har tilgang til lærerens timeplan, men ingen andre plasser.

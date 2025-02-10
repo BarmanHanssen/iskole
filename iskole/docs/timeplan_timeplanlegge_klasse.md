@@ -4,10 +4,6 @@ title: Klasser
 sidebar_label: Klasser
 ---
 
-:::info Ny versjon av iSkole
-Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/timeplan_timeplanlegge_klasse_old). 
-:::
-
 
 Benevnelsen klassefag, obligatorisk fag og fellesfag er synonyme betegnelser. Vi benytter oftes klassefag. 
 

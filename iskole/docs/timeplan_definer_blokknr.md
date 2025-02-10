@@ -4,11 +4,7 @@ title: Blokk
 sidebar_label: Blokk
 ---
 
-:::info Ny versjon av iSkole
-Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/timeplan_definer_blokknr_old). 
-:::
-
-Når et fag kan ha elever fra ulike klasser, skal faget klassifiseres som gruppefag. Også derom elevene i én klasse deles i flere grupper i et fag, skal faget klassifiseres som gruppefag.
+Når et fag kan ha elever fra ulike klasser, skal faget klassifiseres som gruppefag. Også dersom elevene i én klasse deles i flere grupper i et fag, skal faget klassifiseres som gruppefag.
 
 Hvis skolen ikke har gruppefag vil all undervisning i fag foregå i klasser. En elev kan bare tilhøre en klasse. All undervisning foregår i klassen gjennom klassens klassefag. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
 
@@ -22,54 +18,30 @@ Timeplanen for gruppefag skal ikke kollidere med timeplanen for klassefagene for
 iSkole vil vise og varsle om eventuelle kollisjoner på timeplanen. Det er mulig å tillate kollisjoner for elever.
 :::
 
-Fagets blokkid registreres fra _Grunnlagsdata>Grupper_. Her kan fags blokkid endres/nytt fag legges til fra menyvalget _Blokkfag_.
+Fagets blokkid kan registreres fra fanen _Blokkfag_. Fra _Grunnlagsdata>Grupper_ kan man både opprette flere grupper og knytte blokkid til gruppene.
 
-Vi går nå et skritt videre med fag som er gitt/skal ha blokkid. Først spesifiseres hvor mange timer som fagene med gitt blokkid skal kunne legge beslag på. Vi benevner hver time med et blokknummer, og vi skal nå spesifisere hvor disse timene tenkes plassert på timeplanen. Selve timeplanleggingen av gruppene gjøres fra menyvalget _Grupper_, det er der en henter ut gevinsten av de forberedelsene vi gjør her.
-
-Et blokknummer kan bare brukes til til en bestemt blokkid. Anta at vi eksempelvis benytter tilsammen 4 blokkid-er og at hvert av fagene skal ha fem uketimer. Da trenger vi 4*5=20 blokknummer siden hvert blokknummer representerer en undervisningstime.
+Vi går nå et skritt videre med fag som er gitt/skal ha blokkid. Først velges en blokkid, deretter klikker man i timeplanen på de timene som skal knyttes til den valgte blokka. Selve timeplanleggingen av gruppene gjøres fra menyvalget _Grupper_, det er der en henter ut gevinsten av de forberedelsene vi gjør her. En time kan bare brukes til en bestemt blokkid. 
 
 Vi skal nå fastsette hvilken time på timeplanen hvert blokknummer representerer.
 
 Gruppefag med like blokknumre skal altså undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit når vi kommer til  _Timeplan>Grupper_.
 
 ### Blokkskjema
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/28adb64a-612f-4396-b22d-94547fc60e61)
-
-Eksempelvis skal skolen avsette 20 uketimer for timeplanlegging av gruppefagene. Da starter vi med å sette _Antall timer til valg (blokknr)_ til 20. Vi avsetter nå plass på timeplanen for disse 20 timene. Se på skjermbildet. 
+![bilde](/img/tp_blokk.png)
 
 Eksempel:
-Anta at blokkid=1 skal timeplanlegges med fem uketimer, og at vi ønsker å plassere en dobbel-timer på mandag og onsdag og en time på fredag. Da starter vi eksempelvis slik:
-- Klikker på _Blokknr_ 1 
-- Klikk på timen mandag 12:15-13:00 (Da tilføyes tallet 1 på timen)
+Anta at blokkid=1 skal timeplanlegges med fem uketimer, og at vi ønsker å plassere en dobbelt-time på mandag og onsdag og en time på fredag. Da starter vi eksempelvis slik:
+- Klikker på _Blokkid_ 1 
+- Klikk på timene på timeplanen.
 
-Skjermbildet er da endret:
-
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/6dddf0a7-d1f1-42c1-b759-38a134d59e07)
-
-Tilsvarende legges de øvrige fire timene inn. Merk at disse timene bare er markert md _Blokknr_, ikke med blokkid. 
-Etter å ha plassert de fire planlagte timene som nevnt innledningsvis fås dette skjermbilde:
-
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/75c759e7-72c8-4d12-8c26-e8371d0bdb12)
-
-Vi kan nå gå videre for å knytte disse blokknr til blokkid 1. Velger da  _Gruppering av timer til valg_:
-
-## Gruppering av timer til valg
-
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b528a293-4842-4399-9867-f019f3ea0533)
-
-Nå først kan vi bestemme hvilke blokknummer som det enkelte blokkid skal ha. Vi klikker på blyant-ikonet og får dette skjermbilde:
-
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/b2d28044-a5ef-4919-83b2-aa3288d5fc59)
-
-Vår plan var at disse fem timene skulle tildeles blokkid=1. Vi benytter derfor pil-ikonet under kolonnen _Legg til_ for å flytte over alle fem blokknr.
-
+I bildet over har vi lagt inn de beskrevene timene for blokkid 1 og også tilsvarende for blokkid 2. Plasseringen er markert både med tall og farge.
 
 #### Trinn
 Dersom elevene gis tilgang til selv å velge gruppefag, vil kombinasjonen blokkid og trinn regulere hvilke fag som er valgbare. En elev vil bare kunne velg et fag fra fag med lik blokkid, forutsatt at eleven går på angitt klassetrinn. Men timeplanlegger er i utgangspunktet ikke bundet av dette oppsettet!
 
 ### Blokkfag
 Her vises alle fag som alt har fått tildelt blokkid. Vanligvis legges blokkid inn på fagene allerede når årets oppsett av gruppefag opprettes fra _Grunnlagsdata>Grupper_.
-Her kan en legge til/endre oppsettet av hvilke fag som skal grupperes med bloklkid. 
+Her kan en legge til/endre oppsettet av hvilke fag som skal grupperes med blokkid. 
 
 Velges _Blokkfag_ og _+ Legg blokkid til fag_ fås dette skjermbilde:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/98616fe9-c9d5-4dcd-826a-72565749569f)
