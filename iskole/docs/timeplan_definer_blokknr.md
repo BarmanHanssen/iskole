@@ -24,7 +24,7 @@ Vi går nå et skritt videre med fag som er gitt/skal ha blokkid. Først velges 
 
 Vi skal nå fastsette hvilken time på timeplanen hvert blokknummer representerer.
 
-Gruppefag med like blokknumre skal altså undervises parallelt. Med utgangspunkt i fagenes blokkid og blokknummer vil timeplanleggingen av gruppefagene gå greit når vi kommer til  _Timeplan>Grupper_.
+Gruppefag med lik blokkid skal altså undervises parallelt. Det er ikke nødvendig for alle fag i blokka å følge alle timer. Et fag med tre timer kan knyttes til en blokk med fem. Ved timeplanlegging velges hvilke tre av de fem faget skal ha. Med utgangspunkt i fagenes blokkid og tilknyttede timer vil timeplanleggingen av gruppefagene gå greit når vi kommer til  _Timeplan>Grupper_.
 
 ### Blokkskjema
 ![bilde](/img/tp_blokk.png)
