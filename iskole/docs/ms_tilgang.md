@@ -63,11 +63,13 @@ Det er mulig å gi elevene i en klasse en publiseringsdato som avviker fra oppse
 
 ## Elevers valg av gruppefag
 Dersom elevene kan velge fag i tillegg til klassefagene, kan elevene foreta valget direkte fra iSkole. Årets vg1- og vg2-elever foretar vanligvis valget i januar/februar for fag som skal påbegynnes neste skoleår. Før valget kan foretas fra iSkole må følgende være på plass:
-- Neste års planperiode er opprettet (se _Grunnlagsdata>Planperiode_).  
+- Neste år skoleår er opprettet (se _Grunnlagsdata>Planperiode_).  
 - Det er opprettet grupper i de aktuelle valgfagene (se _Time- og fagfordeling>Gruppefag_).
 - De av årets elever som skal kunne velge fag er flyttet opp til neste års planperiode (se _Elevadmin.>Oppflytting_). 
 
 For nærmere orientering om opplegget vedrørende elevenes valg av gruppefag: Se _Timeplan>Blokk_, spesielt under overskriften _Trinn_.
+
+Her registreres tidrommet elevene kan gjøre sine valg, altså fra og med dato og frem til og med siste dag.
 
 ## Stenging
 Det er rektor og administrator som kan stenge tilgangen til iSkole, og som kan åpne tilgangen igjen.
@@ -87,9 +89,6 @@ Det kan være greit for timeplanlegger å få arbeide uforstyrret til timeplanen
 _iSkole er synlig for eleene fra_
 
 Elevene har i utgsngspunktet tilgang til iSkole hele skoleåret hvor de er registrert som elev, altså helt frem til til skoleårets slutt som i utgangspunktet er 31. juli. Dersom eleven slutter før skoleårets slutt, mistes tilgangen. Dersom en ønsker at elevene  ikke får tilgang til neste skoleår fra 1. august kan en sette inn en senere dato her.
-
-
-
 
 ## Romreservering
 Dersom andre enn timeplanlegger skal kunne reservere et rom, kan en her angi hvilke rom som kan reserveres av utvalgte ansatte. Dersom man gir en lærer en slik rettighet, kan vedkommende reservere et rom til en time hvor læreren allerede er båndlagt med undervisning i et annet rom. Ekstrarommet vil vises på lærerens timeplan, og på rommets timeplan. Se _Mine sider>Timeplan>Romtimeplan_ under fanene _Mine reserveringer_ og _Rom som du kan reservere_. 
