@@ -65,7 +65,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Emner',
-      items: ['timeplanlegging','plagiatkontroll'],
+      items: ['timeplanlegging','plagiatkontroll','valg_programfag'],
     },
   ],
 };
