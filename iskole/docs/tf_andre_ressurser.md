@@ -15,11 +15,6 @@ Tildelingen av fag skjer fra valgene _Klassefag_ og _Gruppefag_. Kontaktlærerre
 ![image](/img/tf_andre_ressurser_oversikt.png)
 Dersom læreren er tillagt andre oppgaver enn ren undervisning, vil dette også gi grunnlag for en ekstra ressurstildeling. 
 
-:::caution Merk
-Dersom to lærere deler på undervisngen i et fag, skal fagets ressurs deles mellom lærerne. Dette gjøres direkte på faget det gjelder (se _Klassefag_, eller _Gruppefag_), altså ikke fra _Andre ressurser_ ved å redusere prosenten.
-:::
-
-
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/59558314-9bc1-44a6-b3d6-95b6ef113a4e)
 
