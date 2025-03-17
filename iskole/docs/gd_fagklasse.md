@@ -3,7 +3,7 @@ id: gd_fagklasse
 title: Gjesteklasser
 sidebar_label: Gjesteklasser
 ---
-Det er mulig å slå sammen to, eller flere klasser, for felles undervisning i et bestemt fag. Altså at alle elevene fra flere klasser har felles undervisning. Alternativt kunne dette løses med bruk av gruppefag, men dette er en enklere løningen.
+Det er mulig å slå sammen to, eller flere klasser, for felles undervisning i et bestemt fag. Altså at alle elevene fra flere klasser har felles undervisning i en klasse. Alternativt kunne dette løses med bruk av gruppefag, men dette er en enklere løningen.
 
 Dersom elevene skal grupperes på annen måte, altså ikke sammenslåing av hele klasser, benytter vi gruppefag. Gruppefag er omtalt under menyvalget _Fag_.
 
