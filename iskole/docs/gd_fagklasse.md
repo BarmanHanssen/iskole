@@ -7,7 +7,7 @@ Det er mulig å slå sammen to, eller flere klasser, for felles undervisning i e
 
 Dersom elevene skal grupperes på annen måte, altså ikke sammenslåing av hele klasser, benytter vi gruppefag. Gruppefag er omtalt under menyvalget _Fag_.
 
-Fellesfaget bare ligge i en klasse siden en elev bare kan følge et bestemt fag i en gruppe/klasse. Denne klassen blir eier av faget (omtalt som moderklassen). Klassene med de øvrige elevene kaller vi i for gjesteklasser. 
+Fellesfaget kan bare ligge i en klasse siden en elev bare kan følge et bestemt fag i en gruppe/klasse. Klassen hvor undervisningen skal foregå (omtales som moderklassen) blir "eier" av faget. Klassene med de øvrige elevene kaller vi i for gjesteklasser. 
 
 Typiske eksempler: To klasser (A og B-klassen) har kroppsøving sammen i A-klassen. Da er faget registrert i A- klassen, og fins ikke blant B-klassens fag.
 
