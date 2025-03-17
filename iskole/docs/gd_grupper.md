@@ -26,7 +26,7 @@ For å få alle gruppene som alt er planlagt øverst/nederst i skjermbildet, try
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/30ad1c9b-fbf7-4c64-8126-5ea84f28b547)
 
-Gruppenr må gis en verdi, men blokkid kan stå blank. Verdi for blokkid kan registreres senere.
+Gruppenr må gis en verdi, men blokkid kan stå blank. 
 
 Fag med samme blokkid ( gitt som et tall) skal undervises parallelt, selv om timeplanen for fagene på nåværende tidspunkt ikke er bestemt. Er fagene gitt blokkid kan en lærer ikke tildeles to fag med samme blokkid. Og en elev kan heller ikke velge to gruppefag med samme blokkid. 
 
