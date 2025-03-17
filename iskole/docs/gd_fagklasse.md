@@ -5,7 +5,7 @@ sidebar_label: Gjesteklasser
 ---
 Det er mulig å slå sammen to, eller flere klasser, for felles undervisning i et bestemt fag. Altså at alle elevene fra flere klasser har felles undervisning. Alternativt kunne dette løses med bruk av gruppefag, men dette er en enklere løningen.
 
-En elev kan bare kan følge et bestemt fag i en gruppe/klasse, kan fellesfaget bare ligge i en klasse. Denne klassen blir eier av faget (omtalt som moderklassen). Klassene til de øvrige elevene kaller vi i for gjesteklasser. 
+Fellesfaget bare ligge i en klasse siden en elev bare kan følge et bestemt fag i en gruppe/klasse. Denne klassen blir eier av faget (omtalt som moderklassen). Klassene med de øvrige elevene kaller vi i for gjesteklasser. 
 
 Typiske eksempler: To klasser (A og B-klassen) har kroppsøving sammen i A-klassen. Da er faget registrert i A- klassen, og fins ikke blant B-klassens fag.
 
