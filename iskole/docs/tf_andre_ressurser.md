@@ -7,8 +7,9 @@ sidebar_label: Andre ressurser
 :::info Ny versjon av iSkole
 Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/tf_andre_ressurser_old). 
 :::
+Her kan en registrere hvilke ressurser som tilkommer læreren utover det som direkte blir tildelt for undervisning i klasse- og gruppefag. Dersom læreren er registrert som kontaktlærer, vil denne ressursen automatisk vises her, og kan ikke endres herfra.
 
-Lærers lønn fastesettes blant annet fra undervisningsfagene læreren blir tildelt. Tildelingen av fag skjer fra valgene _Klassefag_ og _Gruppefag_. Prosenten for hvert fag beregnes fra _Grunnlagsdata>Fag_ gjennom brøken Årstimer/Årsramme. Dersom læreren er kontaktlærer, vil denne ressursen automatisk vises her, og kan ikke endres herfra. Kontaktlærerressursen angis under [Grunnlagsdata>Kontaktlærer](https://dokumentasjon.iskole.net/docs/gd_ressurs_kontaktlaerer).
+Tildelingen av fag skjer fra valgene _Klassefag_ og _Gruppefag_. Kontaktlærerressursen angis under [Grunnlagsdata>Kontaktlærer](https://dokumentasjon.iskole.net/docs/gd_ressurs_kontaktlaerer).
 
 
 ![image](/img/tf_andre_ressurser_oversikt.png)
