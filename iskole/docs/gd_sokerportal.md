@@ -11,7 +11,7 @@ Ved bruk av søkerportalen vil skolen forenkle, og derigjennom spare tid, ved be
 
 Søkerportalen lar søkeren selv fylle inn nødvendige data, og legge ved dokumentasjon. Ved innvilgelse av skoleplass skal da eleven være plassert i en klasse, og klar for skolestart med tilgang til iSkole.
 
-For å kunne ta i bruk skerportalen må skolen legge oversikt over hva skolen tilbyr, og hva som en potensiell søkeren må legge inn som dokumentasjon om seg selv.
+For å kunne ta i bruk søkerportalen må skolen legge oversikt over hva skolen tilbyr, og hva som en potensiell søkeren må legge inn som dokumentasjon om seg selv.
 
 Her følger en detaljert beskrivelse av hvordan søkerportalen implimenteres. 
 
