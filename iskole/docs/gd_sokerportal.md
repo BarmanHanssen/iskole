@@ -72,4 +72,3 @@ Eksempel på hva som kan legges inn her:
  Her kan en fortløpende følge med utviklingen dag for dag i søkerperioden.
  
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a39b2db4-1a0e-49e2-8bbd-92905cfdde35)
-
