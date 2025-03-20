@@ -7,7 +7,8 @@ Søkerportalen ble introdusert i 2014 og brukes av et stigende antall skoler.
 
 Ved bruk av søkerportalen vil skolen forenkle, og derigjennom spare tid, ved behandlingen av søkere. Alle skoler kan kostadsfritt teste ut søkerportalen. Portalen medfører kostnader først etter at søkeren gjennom søkerportalen blir tatt opp og registrert som elev ved skolen. Altså vil en skole med 1000 søkere hvor kun 100 blir tatt opp faktureres for 100. 
 
-**Skolen henviser til portalen fra sin hjemmeside**. Potensielle nye elever kan derfra fullføre søknaden og kommunisere med skolen helt frem til å bli opptatt og plassert som elev i en klasse.
+**Skolen henviser til portalen fra sin hjemmeside**. 
+Potensielle nye elever kan derfra fullføre søknaden og kommunisere med skolen helt frem til å bli opptatt og plassert som elev i en klasse.
 
 Søkerportalen lar søkeren selv fylle inn nødvendige data, og legge ved dokumentasjon. Ved innvilgelse av skoleplass skal da eleven være plassert i en klasse, og klar for skolestart med tilgang til iSkole.
 
