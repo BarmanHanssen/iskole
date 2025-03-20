@@ -53,6 +53,8 @@ Her legger skolen inn hva skolen kan tilby av linjer og fag for kommende skoleå
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/2789dee3-e096-46d0-aa88-4333aeaf93c8)
 
 **_Tilbud for valgt skoleår:_**
+**_Programfag til valg:_**
+
 Her kan en velge data ut fra det skolen alt har lagt inn av Grunnlagsdata for gjeldende skoleår.
 
 ## Spørsmål
