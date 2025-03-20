@@ -38,6 +38,7 @@ Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for s
 ### Informasjon til søkere
 
 _Personalia_: Søkerens navn, fødselsdata og epost må selvsagt inngå. Fullstendig liste over skolens krav legges inn her.
+
 _Søknad_: Her spesifiserer skolen saksgangen for søknadene. Vanligvis behandles søknadene etter søknadsfristen, og søknader sendt etter fristen behandles fortløpende.
 
 _Dokumenter_: Her presiseres hvilke dokumenter som skal vedlegges søknaden. 
