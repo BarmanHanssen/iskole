@@ -9,8 +9,6 @@ Ved bruk av søkerportalen vil skolen forenkle, og derigjennom spare tid, ved be
 
 **Skolen henviser til portalen fra sin hjemmeside**. 
 
-Potensielle nye elever kan derfra fullføre søknaden og kommunisere med skolen helt frem til å bli opptatt og plassert som elev i en klasse.
-
 Søkerportalen lar søkeren selv fylle inn nødvendige data, og legge ved dokumentasjon. Ved innvilgelse av skoleplass skal da eleven være plassert i en klasse, og klar for skolestart med tilgang til iSkole.
 
 For å kunne ta i bruk skerportalen må skolen legge oversikt over hva skolen tilbyr, og hva som en potensiell søkeren må legge inn som dokumentasjon om seg selv.
