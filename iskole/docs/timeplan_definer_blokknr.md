@@ -4,30 +4,17 @@ title: Blokk
 sidebar_label: Blokk
 ---
 
+Blokkid
+Med bruk av blokkid kan vi raskere timeplanlegge gruppefag. Fagets blokkid kan kun registreres fra _Grunnlagsdata>Grupper_ og kan være til nytte frem til faget er timeplanlagt. 
 
+Blokkid kan brukes som en mal for gruppefag som skal timeplanlegges. Men et gruppefag kan timeplanlegges uten blokkid. Og timeplanen for et grupppefag kan endres uten hensyntagen til fagets blokkid.
 
+Her skal vi legge timeplanen for hvert blokkid. I utgangspunktet er eneste krav at timeplanen til et bestemt blokkid ikke kan kollidere med timeplanen til et annet blokkid.
 
-Når et fag kan ha elever fra ulike klasser, skal faget klassifiseres som gruppefag. Eller dersom elevene i én klasse deles i flere grupper i et av klassens fag, skal faget klassifiseres som gruppefag.
+:::important Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til) blokkid. Men timeplanleggingen av fag med blokkid kan gå vesentlig raskere ved at alle timene i faget kan legges under ett. :::
 
-Hvis skolen ikke har gruppefag vil all undervisning i fag foregå i klasser, og med klassens elever. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
-
-:::important 
-Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til) blokkid. Men timeplanleggingen av fag med blokkid kan gå vesentlig raskere ved at alle timene for faget kan legges under ett.
-:::
-
-Timeplanen for gruppefagene skal ikke kollidere med timeplanen for klassefagene for elever som har både gruppe- og klassefag. Og siden et gruppefag kan ha elever fra flere klasser, kanskje fra mer enn et årstrinn, så kan det være utfordrende å legge skolens timeplanen innenfor en 30 timers uke.
-
-:::info Kollisjoner
-iSkole vil vise og varsle om eventuelle kollisjoner på timeplanen. Det er mulig å tillate kollisjoner for elever, men ikke for lærere!
-:::
-
-Fagets blokkid kan kun registreres fra _Grunnlagsdata>Grupper_.
-
-Vi går nå et skritt videre med fag som er gitt/skal ha blokkid. Først velges en blokkid, deretter klikker man i timeplanen på de timene som skal knyttes til den valgte blokka. Selve timeplanleggingen av gruppene gjøres fra menyvalget _Grupper_, det er der en henter ut gevinsten av de forberedelsene vi gjør her. En time kan bare brukes til en bestemt blokkid. 
-
-Vi skal nå fastsette hvilken time på timeplanen hvert blokknummer representerer.
-
-Gruppefag med lik blokkid skal altså undervises parallelt. Det er ikke nødvendig for alle fag i blokka å følge alle timer. Et fag med tre timer kan knyttes til en blokk med fem. Ved timeplanlegging velges hvilke tre av de fem faget skal ha. Med utgangspunkt i fagenes blokkid og tilknyttede timer vil timeplanleggingen av gruppefagene gå greit når vi kommer til  _Timeplan>Grupper_.
+Poenget med timeplanen til et blokkid er altså at timeplanen kan være mal for hvordan timeplanen for et gruppefag skal være. Det enkelte gruppefag timeplanlegges fra _Timeplan>Grupper_, og det er der vi kan høste gevinsten for gruppefag med registrert blokkid som erl timeplanlagt.
+ 
 
 ### Blokkskjema
 ![bilde](/img/tp_blokk.png)
