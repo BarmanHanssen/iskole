@@ -18,7 +18,7 @@ Timeplanen for gruppefagene skal ikke kollidere med timeplanen for klassefagene 
 iSkole vil vise og varsle om eventuelle kollisjoner på timeplanen. Det er mulig å tillate kollisjoner for elever, men ikke for lærere!
 :::
 
-Fagets blokkid kan registreres fra fanen _Blokkfag_. Fra _Grunnlagsdata>Grupper_ kan man både opprette flere grupper og knytte blokkid til gruppene.
+Fagets blokkid kan kun registreres fra _Grunnlagsdata>Grupper_.
 
 Vi går nå et skritt videre med fag som er gitt/skal ha blokkid. Først velges en blokkid, deretter klikker man i timeplanen på de timene som skal knyttes til den valgte blokka. Selve timeplanleggingen av gruppene gjøres fra menyvalget _Grupper_, det er der en henter ut gevinsten av de forberedelsene vi gjør her. En time kan bare brukes til en bestemt blokkid. 
 
