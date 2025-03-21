@@ -4,7 +4,7 @@ title: Blokk
 sidebar_label: Blokk
 ---
 
-Når et fag kan ha elever fra ulike klasser, skal faget klassifiseres som gruppefag. Også dersom elevene i én klasse deles i flere grupper i et fag, skal faget klassifiseres som gruppefag.
+Når et fag kan ha elever fra ulike klasser, skal faget klassifiseres som gruppefag. Eller dersom elevene i én klasse deles i flere grupper i et av klassens fag, skal faget klassifiseres som gruppefag.
 
 Hvis skolen ikke har gruppefag vil all undervisning i fag foregå i klasser. Da er det ikke mer å gjøre her, og man kan gå til neste menyvalg som da vil være _Klasser_ for å timeplanlegge klassefagene.
 
