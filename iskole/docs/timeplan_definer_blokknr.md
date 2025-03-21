@@ -14,7 +14,7 @@ Her skal vi legge timeplanen for hvert blokkid. I utgangspunktet er eneste krav 
 
 :::important Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til) blokkid. Men timeplanleggingen av fag med blokkid kan gå vesentlig raskere ved at alle timene i faget kan legges under ett. :::
 
-Poenget med timeplanen til et blokkid er altså at timeplanen kan være mal for hvordan timeplanen for et gruppefag skal være. Det enkelte gruppefag timeplanlegges fra _Timeplan>Grupper_, og det er der vi kan høste gevinsten for gruppefag med registrert blokkid som erl timeplanlagt.
+Poenget med timeplanen til et blokkid er altså at timeplanen kan være mal for hvordan timeplanen for et gruppefag skal være. Det enkelte gruppefag timeplanlegges fra _Timeplan>Grupper_, og det er der vi kan høste gevinsten for gruppefag med registrert blokkid dersom blokki-en er timeplanlagt.
  
 
 ### Blokkskjema
