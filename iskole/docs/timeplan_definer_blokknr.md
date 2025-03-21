@@ -12,10 +12,10 @@ Hvis skolen ikke har gruppefag vil all undervisning i fag foregå i klasser. Da 
 Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til) blokkid. Men timeplanleggingen av fag med blokkid kan gå vesentlig raskere ved at alle timene for faget kan legges under ett.
 :::
 
-Timeplanen for gruppefag skal ikke kollidere med timeplanen for klassefagene for elever som har både gruppe- og klassefag. Og siden et gruppefag kan ha elever fra flere klasser, kanskje fra mer enn et årstrinn, så kan det være utfordrende å legge skolens timeplanen innenfor en 30 timers uke.
+Timeplanen for gruppefagene skal ikke kollidere med timeplanen for klassefagene for elever som har både gruppe- og klassefag. Og siden et gruppefag kan ha elever fra flere klasser, kanskje fra mer enn et årstrinn, så kan det være utfordrende å legge skolens timeplanen innenfor en 30 timers uke.
 
 :::info Kollisjoner
-iSkole vil vise og varsle om eventuelle kollisjoner på timeplanen. Det er mulig å tillate kollisjoner for elever.
+iSkole vil vise og varsle om eventuelle kollisjoner på timeplanen. Det er mulig å tillate kollisjoner for elever, men ikke for lærere!
 :::
 
 Fagets blokkid kan registreres fra fanen _Blokkfag_. Fra _Grunnlagsdata>Grupper_ kan man både opprette flere grupper og knytte blokkid til gruppene.
