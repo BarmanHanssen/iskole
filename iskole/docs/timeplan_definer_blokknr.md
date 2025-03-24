@@ -1,8 +1,8 @@
 
 ---
-id: timeplan_definer_blokknr
+id: Blokk
 title: Blokk
-sidebar_label: Blokk
+sidebar_label: -
 ---
  
 Blokkid kan brukes som en mal for timeplanlegging av til et gruppefag som ikke er timeplanlagt. 
