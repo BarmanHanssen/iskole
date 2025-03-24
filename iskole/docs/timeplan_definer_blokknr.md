@@ -18,11 +18,11 @@ Eneste krav til timeplanlegging av et blokkid er at timeplanen ikke kan kollider
 ![bilde](/img/tp_blokk.png)
 
 Eksempel:
-Anta at blokkid=2 skal timeplanlegges med fem uketimer, og at vi ønsker å plassere en dobbelt-time på mandag og onsdag, og en time på fredag. Da starter vi eksempelvis slik:
+Anta at blokkid=2 skal timeplanlegges med fem uketimer. Vi ønsker å plassere en dobbelt-time på mandag og onsdag, og en time på fredag. Da starter vi eksempelvis slik:
 - Klikker på _Blokkid_ 2 
 - Klikk på timene på timeplanen.
 
-I bildet over har vi lagt inn de beskrevene timene for blokkid 2. Blokkid 1 er timeplanlagt med to dobbeltimer. 
+I bildet over har vi lagt inn de beskrevene timene for blokkid 2. Blokkid 1 er allerede timeplanlagt med to dobbeltimer. 
 
 #### Trinn
 
