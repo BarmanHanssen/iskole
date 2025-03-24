@@ -39,7 +39,8 @@ Alle fag som er tildelt blokkid vises her. Blokkid kan registreres på fagene al
 Her kan en legge til/endre oppsettet av hvilke fag som skal ha blokkid. 
 
 Velges _Blokkfag_ og _+ Legg blokkid til fag_ fås dette skjermbilde:
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/98616fe9-c9d5-4dcd-826a-72565749569f)
+![image](https://github.com/user-attachments/assets/59e576ed-cb2e-493d-8e19-44ca2bc5cf3e)
+
 
 Huk av for fag, og velg hvilke blokkid som skal benyttes, og avslutt med _Lagre_.
 
