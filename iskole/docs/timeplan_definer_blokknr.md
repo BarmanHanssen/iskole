@@ -11,7 +11,7 @@ Fagets blokkid kan kun registreres fra _Grunnlagsdata>Grupper_. Med bruk av blok
 
 Blokkid kan brukes som en mal for timeplanen til et gruppefag som ikke er timeplanlagt. 
 
-:::important Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til) blokkid. Men timeplanleggingen av fag med blokkid kan gå vesentlig raskere ved at alle timene i faget kan legges under ett. 
+:::important Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til) blokkid. Men timeplanleggingen av fag med blokkid kan gå vesentlig raskere ved at alle timene i faget kan legges med ett museklikk. 
 :::
 
 Eneste krav for timeplanen til et blokkid er at det ikke kan kollidere med timeplanen til et annet blokkid.
