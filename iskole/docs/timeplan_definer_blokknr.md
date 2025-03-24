@@ -12,7 +12,8 @@ Blokkid kan brukes som en mal for gruppefag som skal timeplanlegges. Men et grup
 
 Her skal vi legge timeplanen for hvert blokkid. I utgangspunktet er eneste krav at timeplanen til et bestemt blokkid ikke kan kollidere med timeplanen til et annet blokkid.
 
-:::important Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til) blokkid. Men timeplanleggingen av fag med blokkid kan gå vesentlig raskere ved at alle timene i faget kan legges under ett. :::
+:::important Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til) blokkid. Men timeplanleggingen av fag med blokkid kan gå vesentlig raskere ved at alle timene i faget kan legges under ett. 
+:::
 
 Poenget med timeplanen til et blokkid er altså at timeplanen kan være mal for hvordan timeplanen for et gruppefag skal være. Det enkelte gruppefag timeplanlegges fra _Timeplan>Grupper_, og det er der vi kan høste gevinsten for gruppefag med registrert blokkid dersom blokki-en er timeplanlagt.
  
