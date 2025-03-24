@@ -35,7 +35,7 @@ Noen skoler lar elevene selv velge gruppefag for neste skoleår, eksempelvis at 
 Dersom elevene gis tilgang til selv å velge gruppefag (se _Mine sider>Tilgang>Elevers valg av gruppefag_), vil kombinasjonen blokkid og trinn regulere hvilke fag som er valgbare. En elev vil bare kunne velge fag med ulikt blokkid. Timeplanlegger av gruppefag vil uansett varsles dersom elevers valg av gruppefag medfører kollisjon på elevens timeplan.
 
 ### Blokkfag
-Alle fag som er tildelt blokkid vises her. Blokkid kan registreres på fagene allerede når årets oppsett av gruppefag opprettes fra _Grunnlagsdata>Grupper_.
+Alle fag som er tildelt blokkid vises her. Blokkid kan registreres på fagene allerede når skoleårets oppsett av gruppefag opprettes fra _Grunnlagsdata>Grupper_.
 Her kan en legge til/endre oppsettet av hvilke fag som skal ha blokkid. 
 
 Velges _Blokkfag_ og _+ Legg blokkid til fag_ fås dette skjermbilde:
