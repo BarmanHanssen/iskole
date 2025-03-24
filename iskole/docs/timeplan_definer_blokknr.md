@@ -28,9 +28,9 @@ I bildet over har vi lagt inn de beskrevene timene for blokkid 2. Blokkid 1 er a
 Trinn henviser til klassetrinnet eleven er tilknyttet. Elever på videregående skole er gjerne fordelt på tre klassetrinn. 
 En elev kan i utgangspunktet velge grupppefag på fritt grunnlag ut fra det skolen tilbyr av grupppefag. Fagvalget er dog begrenset ved at enkelte fag krever forkunnskaper, eksempelvis kan ikke kjemi 2 velges uten at kjemi 1 allerede er tatt.
 
-I tillegg kan en her legge inn en ekstra betingelse, nemlig at fag med gitt blokkid bare kan velges dersom eleven befinner seg på angitt trinn.
+Her kan vi legge til en ekstra betingelse, nemlig at fag med gitt blokkid bare kan velges dersom eleven befinner seg på angitt trinn.
 
-Noen skoler lar elevene selv velge gruppefag for neste skoleår, eksempelvis at årets vg1- og vg2-elever i februar kan forhåndsvelge hvilke gruppefag de ønsker neste skoleår. Neste skoleår er elevene da vg2- og vg3-elever.
+Noen skoler lar elevene selv velge gruppefag for neste skoleår, eksempelvis at årets vg1- og vg2-elever i februar kan forhåndsvelge hvilke gruppefag de ønsker neste skoleår. Neste skoleår er elevene blitt vg2- og vg3-elever.
 
 Dersom elevene gis tilgang til selv å velge gruppefag (se _Mine sider>Tilgang>Elevers valg av gruppefag_), vil kombinasjonen blokkid og trinn regulere hvilke fag som er valgbare. En elev vil bare kunne velge fag med ulikt blokkid. Timeplanlegger av gruppefag vil uansett varsles dersom elevers valg av gruppefag medfører kollisjon på elevens timeplan.
 
