@@ -5,10 +5,6 @@ title: Blokk
 sidebar_label: Blokk
 ---
 
-Blokkid
-
-Fagets blokkid kan kun registreres fra _Grunnlagsdata>Grupper_. Med bruk av blokkid kan vi raskere timeplanlegge gruppefag. 
-
 Blokkid kan brukes som en mal for timeplanen til et gruppefag som ikke er timeplanlagt. 
 
 :::important Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til) blokkid. Men timeplanleggingen av fag med blokkid kan gå vesentlig raskere ved at alle timene i faget kan legges med ett museklikk. 
@@ -28,14 +24,15 @@ Anta at blokkid=2 skal timeplanlegges med fem uketimer, og at vi ønsker å plas
 - Klikker på _Blokkid_ 2 
 - Klikk på timene på timeplanen.
 
-I bildet over har vi lagt inn de beskrevene timene for blokkid 2. Blokkid 1 er timeplanlagt med to dobbeltimer. Plasseringen er markert både med tall og farge.
+I bildet over har vi lagt inn de beskrevene timene for blokkid 2. Blokkid 1 er timeplanlagt med to dobbeltimer. 
 
 #### Trinn
+
 Dersom elevene gis tilgang til selv å velge gruppefag, vil kombinasjonen blokkid og trinn regulere hvilke fag som er valgbare. En elev vil bare kunne velg et fag fra fag med lik blokkid, forutsatt at eleven går på angitt klassetrinn. Men timeplanlegger er i utgangspunktet ikke bundet av dette oppsettet!
 
 ### Blokkfag
 Her vises alle fag som alt har fått tildelt blokkid. Vanligvis legges blokkid inn på fagene allerede når årets oppsett av gruppefag opprettes fra _Grunnlagsdata>Grupper_.
-Her kan en legge til/endre oppsettet av hvilke fag som skal grupperes med blokkid. 
+Her kan en legge til/endre oppsettet av hvilke fag som skal ha blokkid. 
 
 Velges _Blokkfag_ og _+ Legg blokkid til fag_ fås dette skjermbilde:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/98616fe9-c9d5-4dcd-826a-72565749569f)
