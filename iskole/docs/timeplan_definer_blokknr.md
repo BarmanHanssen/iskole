@@ -8,7 +8,7 @@ Blokkid
 
 Med bruk av blokkid kan vi raskere timeplanlegge gruppefag. Fagets blokkid kan kun registreres fra _Grunnlagsdata>Grupper_ og kan være til nytte helt frem til faget er timeplanlagt. 
 
-Blokkid skal nå brukes som en mal for gruppefag som skal timeplanlegges. Men et gruppefag kan timeplanlegges uten blokkid. Og timeplanen for et grupppefag kan endres uten hensyntagen til fagets blokkid.
+Blokkid kan brukes som en mal for gruppefag som skal timeplanlegges. Men et gruppefag kan timeplanlegges uten blokkid. Og timeplanen for et grupppefag kan endres uten hensyntagen til fagets blokkid.
 
 Her skal vi legge timeplanen for hvert blokkid. I utgangspunktet er eneste krav at timeplanen til et bestemt blokkid ikke kan kollidere med timeplanen til et annet blokkid.
 
