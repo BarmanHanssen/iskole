@@ -24,11 +24,11 @@ Eneste krav til timeplanen for et blokkid er at timeplanen ikke kan kollidere me
 ![bilde](/img/tp_blokk.png)
 
 Eksempel:
-Anta at blokkid=1 skal timeplanlegges med fem uketimer, og at vi ønsker å plassere en dobbelt-time på mandag og onsdag og en time på fredag. Da starter vi eksempelvis slik:
-- Klikker på _Blokkid_ 1 
+Anta at blokkid=2 skal timeplanlegges med fem uketimer, og at vi ønsker å plassere en dobbelt-time på mandag og onsdag og en time på fredag. Da starter vi eksempelvis slik:
+- Klikker på _Blokkid_ 2 
 - Klikk på timene på timeplanen.
 
-I bildet over har vi lagt inn de beskrevene timene for blokkid 1 og også tilsvarende for blokkid 2. Plasseringen er markert både med tall og farge.
+I bildet over har vi lagt inn de beskrevene timene for blokkid 2. Blokkid 1 er timeplanlagt med to dobbeltimer. Plasseringen er markert både med tall og farge.
 
 #### Trinn
 Dersom elevene gis tilgang til selv å velge gruppefag, vil kombinasjonen blokkid og trinn regulere hvilke fag som er valgbare. En elev vil bare kunne velg et fag fra fag med lik blokkid, forutsatt at eleven går på angitt klassetrinn. Men timeplanlegger er i utgangspunktet ikke bundet av dette oppsettet!
