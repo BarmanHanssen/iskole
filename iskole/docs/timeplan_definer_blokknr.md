@@ -25,17 +25,23 @@ Anta at blokkid=2 skal timeplanlegges med fem uketimer. Vi ønsker å plassere e
 I bildet over har vi lagt inn de beskrevene timene for blokkid 2. Blokkid 1 er allerede timeplanlagt med to dobbeltimer. 
 
 #### Trinn
+Trinn henviser til klassetrinnet eleven er tilknyttet. Elever på videregående skole er gjerne fordelt på tre klassetrinn. 
+En elev kan i utgangspunktet velge grupppefag på fritt grunnlag ut fra det skolen tilbyr av grupppefag. Fagvalget er dog begrenset ved at enkelte fag krever forkunnskaper, eksempelvis kan ikke kjemi 2 velges uten at kjemi 1 allerede er tatt.
 
-Dersom elevene gis tilgang til selv å velge gruppefag, vil kombinasjonen blokkid og trinn regulere hvilke fag som er valgbare. En elev vil bare kunne velg et fag fra fag med lik blokkid, forutsatt at eleven går på angitt klassetrinn. Men timeplanlegger er i utgangspunktet ikke bundet av dette oppsettet!
+I tillegg kan en her legge inn en ekstra betingelse, nemlig at fag med gitt blokkid bare kan velges dersom eleven befinner seg på angitt trinn.
+
+Noen skoler lar elevene selv velge gruppefag for neste skoleår, eksempelvis at årets vg1- og vg2-elever i februar kan forhåndsvelge hvilke gruppefag de ønsker neste skoleår. Neste skoleår er elevene da vg2- og vg3-elever.
+
+Dersom elevene gis tilgang til selv å velge gruppefag (se _Mine sider>Tilgang>Elevers valg av gruppefag_), vil kombinasjonen blokkid og trinn regulere hvilke fag som er valgbare. En elev vil bare kunne velge fag med ulikt blokkid. Timeplanlegger av gruppefag vil uansett varsles dersom elevers valg av gruppefag medfører kollisjon på elevens timeplan.
 
 ### Blokkfag
-Her vises alle fag som alt har fått tildelt blokkid. Vanligvis legges blokkid inn på fagene allerede når årets oppsett av gruppefag opprettes fra _Grunnlagsdata>Grupper_.
+Alle fag som er tildelt blokkid vises her. Blokkid kan registreres på fagene allerede når årets oppsett av gruppefag opprettes fra _Grunnlagsdata>Grupper_.
 Her kan en legge til/endre oppsettet av hvilke fag som skal ha blokkid. 
 
 Velges _Blokkfag_ og _+ Legg blokkid til fag_ fås dette skjermbilde:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/98616fe9-c9d5-4dcd-826a-72565749569f)
 
-Her kan vi legge til nytt gruppefag. Huk av for fag, og velg hvilke blokkid som skal benyttes, og avslutt med _Lagre_.
+Huk av for fag, og velg hvilke blokkid som skal benyttes, og avslutt med _Lagre_.
 
 ### Blokktider klasse
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3128651d-a41a-42e8-97ac-71beda745e03)
