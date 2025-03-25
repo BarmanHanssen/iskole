@@ -23,7 +23,8 @@ Grupper med lik blokkid skal ha lik timeplan. Det betyr at en faglærer ikke kan
 
 Dersom man sorterer på kolonnen _Blokkid_ (klikk på ikonet) vil fag med likt blokkid komme etter hverandre.
 
-Hvordan et gruppefag tilordnes lærer: Se den lyseblå del av skjermbildet ved å klikke på det gule ikonet foran navnet ![image](https://github.com/user-attachments/assets/e5d4aff5-3389-4328-8bb4-4aae32bc899e)
+Hvordan et gruppefag tilordnes lærer: Se den lyseblå del av skjermbildet ved å klikke på det gule ikonet foran navnet 
+![image](https://github.com/user-attachments/assets/7df35698-3e07-44ac-aa94-8930e80fdcf6)
 
 For detaljert beskrivelse av prosessen videre henvises det avsnittet _Vi ser på den lyseblå delen av tabellen_ fra menyvalget _Klassefag_. 
 
