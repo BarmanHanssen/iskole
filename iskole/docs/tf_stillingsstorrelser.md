@@ -11,7 +11,7 @@ Hvilke fag læreren skal undervise i registreres fra menyvalgene _Time- og fagfo
 
 Kontaktlærer registreres fra _Elevadmin.>Kontaktlærer_ og utløser også en ressurs som automatisk plasseres under _Andre ressurseer_.
 
-Ressurs som ikke er undervisning, registreres på den enkelte lærer fra _Time- og fagfordeling>Andre ressurser_. 
+Ressurs som ikke er knyttet til undervisning, registreres på den enkelte lærer fra _Time- og fagfordeling>Andre ressurser_. 
 
 Summen av ressurs til undervisning og annen ressurs vises her som _Beskjeftigelse_. 
 
