@@ -21,7 +21,7 @@ Her vises en oversikt over skolens lærerne:
 
 ![image](https://github.com/user-attachments/assets/aebd47d3-3f3a-45cf-b049-3509e1da0030)
 
-Ved å velge en lærer vil man få frem beskjeftigelsens enheter:
+#### Ved å velge en lærer vil man få frem beskjeftigelsens enheter:
 
 ![image](https://github.com/user-attachments/assets/301bda52-199e-4fd1-9cae-34349f01acb0)
 
