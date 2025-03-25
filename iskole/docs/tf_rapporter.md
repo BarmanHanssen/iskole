@@ -26,6 +26,9 @@ Alle klasse- og gruppefag med fagkode forskjellig fra 99999 listes her ut på et
 ## Undervisningsressurser
 
 ### Klassefag/Gruppefag
+
+![image](https://github.com/user-attachments/assets/287bf28c-6b15-4f19-9d83-a69ae1a59baf)
+
 Rapporten viser alle fag som er oppført under menyvallgene _Klassefag/Gruppefag_.
 Alle fag, samt den som står oppført som fagansvarlig, listes ut her. 
 Fag med kode 99999 rapporteres med _Fagkode_ "-". Slike fag kan være komponent til et fag med offisiell fagkode, det fremkommer ikke av rappporten. 
