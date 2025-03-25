@@ -17,7 +17,7 @@ Summen av ressurs til undervisning og annen ressurs vises her som _Beskjeftigels
 
 Ut fra disse data fremkommer lærerens gitte og beregnede beskjeftigelsesprosent. Kolonnene for _Avvik %_ viser da stillingsprosent minus beskjeftigelsesprosent.  
 
-Dette skjermbildet viser en oversikt av skolens lærerne: 
+Dette skjermbildet viser en oversikt over skolens lærerne: 
 
 ![image](https://github.com/user-attachments/assets/aebd47d3-3f3a-45cf-b049-3509e1da0030)
 
