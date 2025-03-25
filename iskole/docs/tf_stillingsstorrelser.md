@@ -9,7 +9,7 @@ Hvilken oppgaver den enkelte lærer skal ha, vil avtales og gjelder for et skole
 
 Hvilke fag læreren skal undervise i registreres fra menyvalgene _Time- og fagfordeling>Klassefag_ og  _Time- og fagfordeling>Gruppefag_. 
 
-Kontaktlærer registreres fra _Elevadmin.>Kontaktlærer_ og utløser også en ressurs som plasseres under _Andre ressurseer_.
+Kontaktlærer registreres fra _Elevadmin.>Kontaktlærer_ og utløser også en ressurs som automatisk plasseres under _Andre ressurseer_.
 
 Ressurs som ikke er undervisning, registreres på den enkelte lærer fra _Time- og fagfordeling>Andre ressurser_. 
 
