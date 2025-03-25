@@ -25,7 +25,7 @@ Ved å velge en lærer vil man få frem beskjeftigelsens enheter:
 
 ![image](https://github.com/user-attachments/assets/301bda52-199e-4fd1-9cae-34349f01acb0)
 
-Dersom timeplanleggingen alt er startet, vil _Timeplanlagt_ vise status for klasse- og gruppe-fagstimene til læreren. (Vikartimer kan selvsagt ikke tildeles før timeplanen er lagt med lærer.)
+Dersom timeplanleggingen alt er startet, vil _Timeplanlagt_ vise status for klasse- og gruppe-fagstimene til læreren. (Vikartimer kan tilkomme i løpet av skoleåret.)
 
 :::note Merk
 For valgt person er summen av _Prosent_ fra _Undervisningsressurser_  og _Andre ressurser_ lik _Bsekjeftilgelse %_ fra _Oversikt_ .
