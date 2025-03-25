@@ -34,7 +34,6 @@ _Planlagt_ er fagets omfang, som er bestemt av ut fra fra fagets fagkode.
 _Gitt_ er antall klokketimer undervisning summert fra årets timeplan.
 #### Ressurs
 _Gitt_ er tildelt lærer(e).
-
 _Undervist_ er beregnet ut fra underviste timer.
 
 Rapporten viser alle fag som er oppført under menyvallgene _Klassefag/Gruppefag_.
