@@ -13,11 +13,11 @@ Kontaktlærer registreres fra _Elevadmin.>Kontaktlærer_ og utløser også en re
 
 Ressurs som ikke er knyttet til undervisning, registreres på den enkelte lærer fra _Time- og fagfordeling>Andre ressurser_. 
 
-Summen av ressurs til undervisning og annen ressurs vises her som _Beskjeftigelse_. 
+Summen av ressurs til undervisning og annen ressurs vises her som _Beskjeftigelse %_. 
 
-Ut fra disse data fremkommer lærerens beskjeftigelsesprosent. Kolonnene for _Avvik %_ viser stillingsprosent minus beskjeftigelsesprosent.  
+Kolonnene for _Avvik %_ viser stillingsprosent minus beskjeftigelsesprosent.  
 
-Dette skjermbildet viser en oversikt over skolens lærerne: 
+Her vises en oversikt over skolens lærerne: 
 
 ![image](https://github.com/user-attachments/assets/aebd47d3-3f3a-45cf-b049-3509e1da0030)
 
