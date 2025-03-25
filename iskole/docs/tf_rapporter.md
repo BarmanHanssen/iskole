@@ -29,7 +29,8 @@ Alle klasse- og gruppefag med fagkode forskjellig fra 99999 listes her ut på et
 
 ![image](https://github.com/user-attachments/assets/287bf28c-6b15-4f19-9d83-a69ae1a59baf)
 
-#### Timetall    _Planlagt_ er fagets omfang, som er bestemt av ut fra fra fagets fagkode.
+#### Timetall    
+_Planlagt_ er fagets omfang, som er bestemt av ut fra fra fagets fagkode.
 _Gitt_ er antall klokketimer undervisning summert fra årets timeplan.
 #### Ressurs
 _Gitt_ er tildelt lærer(e).
