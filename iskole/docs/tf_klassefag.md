@@ -5,7 +5,7 @@ sidebar_label: Klassefag
 ---
 
 :::info Ny versjon av iSkole
-Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/tf_klassefag_old). 
+Vi har endret oppbyggingen av timeplanen på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/tf_klassefag_old). 
 :::
 
 ## Generelt
