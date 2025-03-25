@@ -15,7 +15,7 @@ Ressurs som ikke er knyttet til undervisning, registreres på den enkelte lærer
 
 Summen av ressurs til undervisning og annen ressurs vises her som _Beskjeftigelse_. 
 
-Ut fra disse data fremkommer lærerens gitte og beregnede beskjeftigelsesprosent. Kolonnene for _Avvik %_ viser da stillingsprosent minus beskjeftigelsesprosent.  
+Ut fra disse data fremkommer lærerens beskjeftigelsesprosent. Kolonnene for _Avvik %_ viser stillingsprosent minus beskjeftigelsesprosent.  
 
 Dette skjermbildet viser en oversikt over skolens lærerne: 
 
