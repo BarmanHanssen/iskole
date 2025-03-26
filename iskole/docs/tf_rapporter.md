@@ -40,7 +40,7 @@ _Undervist_ er beregnet ut fra underviste timer.
 
 ### Vikartimer
 Rapportene samler inn data i det oppgitte tidsrommet.
-Her må tidsrom spesifiseres ved å angi _Fradato_ og _Tidato_.
+Tidsrom spesifiseres ved å angi _Fradato_ og _Tidato_.
 Registrering av vikartimer gjøres fra _Timeplan>Vikarer_.
 
 ### Oppgjørsskjema
