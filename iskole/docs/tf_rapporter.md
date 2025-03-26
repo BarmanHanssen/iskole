@@ -39,8 +39,9 @@ _Gitt_ er tildelt lærer(e).
 _Undervist_ er beregnet ut fra underviste timer.
 
 ### Vikartimer
-Vikartimer registreres fra _Timeplan>Vikarer_.
-Her må tidsrom spesifiseres ved å angi _Fradato_ og _Tidato_. Rapportene samler inn data i det oppgitte tidsrommet.
+Rapportene samler inn data i det oppgitte tidsrommet.
+Her må tidsrom spesifiseres ved å angi _Fradato_ og _Tidato_.
+Registrering av vikartimer gjøres fra _Timeplan>Vikarer_.
 
 ### Oppgjørsskjema
 Genererer oppgjørsskjema for valgte vikarer i perioden.
