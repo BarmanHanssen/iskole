@@ -26,19 +26,17 @@ Alle klasse- og gruppefag med fagkode forskjellig fra 99999 listes her ut på et
 ## Undervisningsressurser
 
 ### Klassefag/Gruppefag
+Rapporten viser alle fag som er oppført under menyvalgene _Klassefag_ og _Gruppefag_.
+Fagene, med fagansvarlig, listes ut her. Fag med kode 99999 rapporteres med _Fagkode_ "-". Slike fag kan være fag uten offisiell fagkode, eller som er komponent til et fag med offisiell fagkode. 
 
 ![image](https://github.com/user-attachments/assets/287bf28c-6b15-4f19-9d83-a69ae1a59baf)
 
 #### Timetall    
-_Planlagt_ er fagets omfang, som er bestemt av ut fra fra fagets fagkode.
-_Gitt_ er antall klokketimer undervisning summert fra årets timeplan.
+_Planlagt_ er fagets omfang, som er bestemt av ut fra fagets fagkode.
+_Gitt_ er summeen av klokketimer timeplanlagte på årets timeplan.
 #### Ressurs
 _Gitt_ er tildelt lærer(e).
 _Undervist_ er beregnet ut fra underviste timer.
-
-Rapporten viser alle fag som er oppført under menyvallgene _Klassefag/Gruppefag_.
-Alle fag, samt den som står oppført som fagansvarlig, listes ut her. 
-Fag med kode 99999 rapporteres med _Fagkode_ "-". Slike fag kan være komponent til et fag med offisiell fagkode, det fremkommer ikke av rappporten. 
 
 ### Vikartimer
 Her må tidsrom spsifiseres ved å angi _Fradato_ og _Tidato_. Rapportene samler inn data i det oppgitte tidsrommet.
