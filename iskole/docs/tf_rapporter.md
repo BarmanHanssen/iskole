@@ -13,15 +13,15 @@ _Beskjeftigelse %_ er summen av undervisningsressurs og andre ressurser. Ressurs
 ## Kontaktlærer
 ![image](https://github.com/user-attachments/assets/de060319-fdfe-47e4-8def-8282b3ffa4b7)
 
-Kontaktlærere registreres fra _Elevadmin>Kontaktlærer_. Rapporten lister alle klasser som har elever hvor minst en elev i klassen har fått tildelt en kontaktlærer. Ressursen blir beregnet utfra konstantledd og tillegg pr elev gitt i _Grunnlagsdata>Kontaktlærer_.
+Kontaktlærere registreres fra _Elevadmin>Kontaktlærer_. Rapporten lister alle klasser hvor minst en elev i klassen har fått tildelt en kontaktlærer. Ressursen blir beregnet utfra konstantledd og eventuelt tillegg pr elev, se _Grunnlagsdata>Kontaktlærer_.
 
- Dersom  skolen velger å legge kontaktlærerressurs til den enkelte lærer inn som _Andre ressurser_, kommer ressursen ikke med her, men under Andre ressurser.
+Alternativt kan skolen legge kontaktlærerressurs direkte til den enkelte lærer inn som _Andre ressurser_. I slike tilfeller kommer ressursen ikke med her, men under _Andre ressurser_.
 
 ## Andre ressurser
 Rapporten viser tildelt ressurser utenom undervisning, eksempelvis for rektor og inspektør. Alle kontaktlærere kommer også med her.
 
 ## Fagoversikt
-Alle klasse- og gruppefag med fagkode forskjellig fra 99999 listes her ut på et regneark. Utlistingen er sortert på fag. Siden rapporten tas ut på regneark er det mulig å sortere på valgfri kolonne.
+Alle klasse- og gruppefag med fagkode forskjellig fra 99999 listes her ut på et regneark. Utlistingen er sortert på fag. Tas apporten ut på regneark er det også mulig å sortere på valgfri kolonne.
 
 ## Undervisningsressurser
 
