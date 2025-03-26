@@ -31,10 +31,10 @@ Fagene, med fagansvarlig, listes ut her. Fag med kode 99999 rapporteres med _Fag
 
 ![image](https://github.com/user-attachments/assets/287bf28c-6b15-4f19-9d83-a69ae1a59baf)
 
-#### Timetall    
+##### Timetall    
 _Planlagt_ er fagets omfang, som er bestemt av ut fra fagets fagkode.
 _Gitt_ er summeen av klokketimer timeplanlagte på årets timeplan.
-#### Ressurs
+##### Ressurs
 _Gitt_ er tildelt lærer(e).
 _Undervist_ er beregnet ut fra underviste timer.
 
