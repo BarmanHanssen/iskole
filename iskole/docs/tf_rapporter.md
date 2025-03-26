@@ -40,7 +40,7 @@ Rapporten viser alle fag som er oppført under menyvallgene _Klassefag/Gruppefag
 Alle fag, samt den som står oppført som fagansvarlig, listes ut her. 
 Fag med kode 99999 rapporteres med _Fagkode_ "-". Slike fag kan være komponent til et fag med offisiell fagkode, det fremkommer ikke av rappporten. 
 
-## Vikartimer
+### Vikartimer
 Her må tidsrom spsifiseres ved å angi _Fradato_ og _Tidato_. Rapportene samler inn data i det oppgitte tidsrommet.
 
 ### Oppgjørsskjema
