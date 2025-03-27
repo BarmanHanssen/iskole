@@ -1,9 +1,4 @@
 
----
-id: Blokk
-title: Blokk
-sidebar_label: wwwww
----
  
 Blokkid kan brukes som en mal for timeplanlegging av gruppefag som ikke er timeplanlagt. 
 
