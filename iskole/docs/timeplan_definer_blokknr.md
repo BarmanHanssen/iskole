@@ -12,7 +12,9 @@ Blokkid kan brukes som en mal for timeplanlegging av gruppefag som ikke er timep
 
 Eneste krav til timeplanlegging av et blokkid er at timeplanen ikke kan kollidere med timeplanen til et annet blokkid.
 
-:::Det enkelte gruppefag timeplanlegges fra _Timeplan>Grupper_, og det er der vi kan høste gevinsten for gruppefag med registrert blokkid dersom blokkid er timeplanlagt. :::
+:::tips
+Det enkelte gruppefag timeplanlegges fra _Timeplan>Grupper_, og det er der vi kan høste gevinsten for gruppefag med registrert blokkid dersom blokkid er timeplanlagt. 
+:::
  
 ### Blokkskjema
 ![bilde](/img/tp_blokk.png)
