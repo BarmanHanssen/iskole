@@ -36,10 +36,6 @@ Reservert tid gjelder i utgangspunktet bare for valgt uke (må avhukes) . Her ka
 Hvis flere lærere skal ha møte sammen, benytt romreservervasjon og legg til alle aktuelle lærere i de aktuelle ukene. Alle deltakerene får samme melding på sin timeplan og reservasjonene kan endres samlet.
 :::
 
-:::tip Tips - Oppfølging av elever
-Dersom man vil benytte reservasjon for å markere at læreren er opptatt med å følge opp en eller flere elever utenom fagets undervisning, anbefaler vi å heller opprette et gruppefag, timeplanlegge dette og legge til elevene. Da vil dette vises på timeplanen både til læreren og elevene.
-:::
-
 ### Slett reservasjon
 Fra skjemaet _Legg til reservasjon for ..._ fjernes avhukingen for aktuelle uker. Klikk deretter på _Lagre_.
 
