@@ -45,6 +45,8 @@ Timene og timelengden som lagres her er altså en mal som benyttes når en legge
 
 Det er også mulig å endre start- og sluttid for en enkel time fra _Timeplan>Klasser_ og _Timeplan>Grupper_. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra endret start- og sluttid på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper med en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
 
+Her vises et eksempel på en mal. Ved å klikke på en time kan man gjøre endring på start- og slutt-tiden for timen, eller slette timen.
+
 ![bilde](/img/tp_timer_kalender.png)
 
 
