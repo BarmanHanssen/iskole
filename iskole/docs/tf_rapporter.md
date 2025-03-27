@@ -34,6 +34,7 @@ Fagene, med fagansvarlig, listes ut her. Fag med kode 99999 rapporteres med _Fag
 ##### Timetall    
 _Planlagt_ er fagets omfang, som er bestemt av ut fra fagets fagkode.
 _Gitt_ er summen av klokketimer timeplanlagte på årets timeplan.
+_Avvik_ er _Planlagt_ timetall minus _Gitt_ timetall. Dersom et negstivt tall indikerer det at tilleggsgjøremål tilkommer.
 ##### Ressurs
 _Gitt_ er tildelt lærer(e).
 _Undervist_ er beregnet ut fra underviste timer.
