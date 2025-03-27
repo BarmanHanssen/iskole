@@ -71,10 +71,4 @@ Endring på reservasjonen vil kun gjelde for den uken man åpnet reservasjonen f
 Her vises alle uker for resten av skoleåret, og eventuelle andre reserveringer som er gjort for denne timen. Hvis gjeldende reservasjon skal kopieres huker man av for de nye ukene.
 Tilsvarende er det mulig å slette allerede lagrede reservasjoner for flere uker under ett.
 
-:::info Merk 
-En lærer kan ha behov for et ekstra rom i en time hvor han har undervisning. Dette kan løses ved at læreren gis tilgang til selv å reservere rom (fra _Mine sider>Timeplan>Rom_). Reservasjon derfra tillater at læreren kan ha undervisning i et rom og samtidig reservere et annet rom. Begge rom vises på lærerens timeplan.
-:::
-
-
-
 
