@@ -4,7 +4,7 @@ title: Blokk
 sidebar_label: Blokk
 ---
 
- 
+
 Blokkid kan brukes som en mal for timeplanlegging av gruppefag som ikke er timeplanlagt. 
 
 :::tips Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til) blokkid. Men timeplanleggingen av fag med blokkid kan gå vesentlig raskere ved at alle timene i faget kan legges med ett museklikk. 
