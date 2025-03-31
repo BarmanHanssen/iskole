@@ -16,7 +16,6 @@ Det er først etter at et blokkid  er timeplanlagt at vi kan høste gevinsten ve
 :::
 
 
-### Blokkskjema
 ![bilde](/img/tp_blokk.png)
 
 Eksempel:
