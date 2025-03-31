@@ -15,10 +15,10 @@ Det er ikke mulig å timeplanlegge et blokkid slik at det medfører kollisjon me
 Det er først etter at et blokkid  er timeplanlagt at vi kan høste gevinsten ved timeplanlegging av gruppefag.
 :::
 
+Eksempel:
 
 ![bilde](/img/tp_blokk.png)
 
-Eksempel:
 Anta at blokkid=2 skal timeplanlegges med fem uketimer. Vi ønsker å plassere en dobbelt-time på mandag og onsdag, og en time på fredag. Da starter vi eksempelvis slik:
 - Klikker på _Blokkid_ 2 
 - Klikk på timene på timeplanen.
