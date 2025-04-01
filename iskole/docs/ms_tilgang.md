@@ -64,13 +64,12 @@ Det er mulig å gi elevene i en klasse en publiseringsdato som avviker fra oppse
 ## Elevers valg av gruppefag
 Her registreres tidrommet elevene kan gjøre sine valg, altså fra og med dato og frem til og med siste dag.
 
-Dersom elevene kan velge fag i tillegg til klassefagene, kan elevene foreta valget direkte fra iSkole. Årets vg1- og vg2-elever foretar vanligvis valget i januar/februar for fag som skal påbegynnes neste skoleår. Før valget kan foretas fra iSkole må følgende være på plass:
-- Neste år skoleår er opprettet (se _Grunnlagsdata>Planperiode_).  
-- Det er opprettet grupper i de aktuelle valgfagene (se _Time- og fagfordeling>Gruppefag_).
+Før valget kan foretas fra iSkole må følgende være på plass:
+- Neste år skoleår er opprettet (se _Grunnlagsdata>Skoleår_).  
+- Det opprettes grupper i de aktuelle valgfagene (se _Grunnlagsdata>Fag_ og _Grunnlagsdata>Grupper_).
 - De av årets elever som skal kunne velge fag er flyttet opp til neste års planperiode (se _Elevadmin.>Oppflytting_).
-- Når årets elever skal velge gruppefag, må de velge neste skoleår planperiode da valget gjelder fag som skal tas neste skoleår.
 
-For nærmere orientering om gruppefag, se _Grunnlagsdata>Grupper, og for elevenes valg av gruppefag, se _Timeplan>Blokk_, spesielt under overskriften _Trinn_.
+For nærmere orientering om strukturering av gruppene til valg, se _Timeplan>Blokk_, spesielt under overskriften _Trinn_.
 
 ## Stenging
 Det er rektor og administrator som kan stenge tilgangen til iSkole, og som kan åpne tilgangen igjen.
