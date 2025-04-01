@@ -62,13 +62,13 @@ Det er mulig å gi elevene i en klasse en publiseringsdato som avviker fra oppse
 
 
 ## Elevers valg av gruppefag
-Skolen kan åpne for at årets elever på vg1 og vg2 som skal forsette skolegangen neste skoleår kan få velge valgfagene allerede inneværende skoleår (typisk i januar/februar). 
+Skolen kan åpne for at årets elever på vg1 og vg2 som skal forsette skolegangen neste skoleår kan få velge neste års valgfagene allerede inneværende skoleår (typisk i januar/februar). 
 Her registreres tidrommet elevene kan gjøre sine valg, altså fra og med dato og frem til og med siste dag.
 
 Før valget kan foretas fra iSkole må følgende være på plass:
 - Neste år skoleår er opprettet (se _Grunnlagsdata>Skoleår_).  
-- Det opprettes grupper i de aktuelle valgfagene (se _Grunnlagsdata>Fag_ og _Grunnlagsdata>Grupper_).
-- Aktuell elever som skal kunne velge fag er flyttet opp til neste års planperiode (se _Elevadmin.>Oppflytting_).
+- Det er opprettet grupper i de aktuelle valgfagene (se _Grunnlagsdata>Fag_ og _Grunnlagsdata>Grupper_).
+- Aktuelle elever som skal kunne velge fag er flyttet opp til neste års planperiode (se _Elevadmin.>Oppflytting_).
 
 For nærmere orientering om strukturering av gruppene til valg, se _Timeplan>Blokk_, spesielt under overskriften _Trinn_.
 
