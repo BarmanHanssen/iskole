@@ -3,6 +3,7 @@ id: ms_bulleteng
 title: Bulleteng
 sidebar_label: Bulleteng
 ---
+Oppslagstavlen kan benyttes for raskt å få kontakt med alle brukere av iSkole.
 
 Dersom man ønsker å informere alle ansatte som bruker iSkole raskt og effektivt, kan meldingen offentliggjøres som en bulleteng.
 
