@@ -13,9 +13,6 @@ Det er rektor eller rektors stedfortreder kan innsette redaktører fra _Tilgang>
 ![image](https://github.com/user-attachments/assets/30234e86-7026-4184-a12e-4fd7780b4d65)
 
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/293458ca-c94a-4d2a-94a9-14cfed446f84)
-
-
 ## Opprett et oppslag
 Dersom du er redaktør vises dette skjermbilde:
 
