@@ -1,7 +1,7 @@
 ---
 id: ms_bulleteng
-title: Bulleteng
-sidebar_label: Bulleteng
+title: Oppslagstavle
+sidebar_label: Oppslagstavle
 ---
 Oppslagstavlen kan benyttes for raskt å få kontakt med alle brukere av iSkole.
 
