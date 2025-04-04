@@ -3,7 +3,7 @@ id: ms_bulleteng
 title: Oppslagstavle
 sidebar_label: Oppslagstavle
 ---
-Oppslagstavlen benyttes for raskt å få kontakt med alle brukere av iSkole. Oppslaget blir publisert på dato og klokkeslett som redaktøren av oppsalget har bestemt. Både ansatte og elev (eksempelvis elevrådsleder) kan tildeles rollen som redaktør.
+Oppslagstavlen benyttes for raskt å få kontakt med alle brukere av iSkole. Oppslaget blir publisert på dato som redaktøren av oppsalget har bestemt. Både ansatte og elev (eksempelvis elevrådsleder) kan tildeles rollen som redaktør.
 
 Mottaker av oppslaget er enten bare ansatte, eller alle som har tilgang til iSkole. Mottaker får automatisk oppslaget som første skjermbilde når et nytt oppslag er tilgjengelig, selv om innloggingen skjer etter publiseringsdatoen. Helt til sluttdato er passert kan alle oppslag fås frem fra dette menyvalget.
 
