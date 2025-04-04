@@ -8,16 +8,14 @@ Oppslagstavlen kan benyttes for raskt å få kontakt med alle brukere av iSkole.
 Mottaker av oppslaget er enten bare ansatte, eller både ansatte og elever. Mottaker får automatisk oppslaget som første skjermbilde når et nytt oppslag er tilgjenelig, selv om innloggingen ikke er samme dag som oppslaget ble lagt ut. Helt til sluttdato for innlegget er passert kan alle oppslag fås frem fra dette menyvalget.
 
 ## Legge til redaktører
-Det er rektor eller rektors stedfortreder kan innsette redaktører fra _Tilgang>Oppslagstavle_. Skolen kan ha flere redaktører på samme tid.
+Rektor eller rektors stedfortreder kan innsette redaktører fra _Tilgang>Oppslagstavle_. Skolen kan ha flere redaktører på samme tid.
 
 ![image](https://github.com/user-attachments/assets/30234e86-7026-4184-a12e-4fd7780b4d65)
-
 
 ## Opprett et oppslag
 Dersom du er redaktør, klikk på _+ Nytt notat_, og dette skjermbilde vises:
 
 ![image](https://github.com/user-attachments/assets/3ee0da18-d82d-4035-976d-addb6434fb17)
-
 
 Merk at du kan kopiere inn andre ting enn ren tekst, som figurer/bilder fra et utklippsverktøy.
 
