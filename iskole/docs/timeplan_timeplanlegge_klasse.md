@@ -27,7 +27,7 @@ Man starter med å velge klasse, og uken hvor timeplanen skal plasseres. Skjerme
 #### Klasse
 Her listes opp alle fag i klassen (hentes fra _Grunnlagsdata>Klasser_) og faglærere (registrert fra  _Time- og fagfordeling>Klassefag_). Merk at fagene kan timeplanlegges uten lærer, og at et fag kan ha flere lærere som deler på undervisningen i faget.
 
-:::caution Planlegging uten lærer
+:::caution 
 Vi anbefaler å knytte lærere til fagene før man legger timeplanen. Dersom man legger fag uten lærer, må man senere inn og plassere lærerne på de timene de skal undervise.
 :::
 
