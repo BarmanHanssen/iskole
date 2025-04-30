@@ -5,6 +5,8 @@ sidebar_label: Grupper
 ---
 
 Første skjermbilde:
+Her vises årets gruppefag, og vi har valgt første skoleuke. Allerede timeplanlagte timer markeres med rommnummer. 
+
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/fcee463d-7606-40fc-a596-629d4646758a)
 Fagene hentes fra _Time- og fagfordeling>Gruppefag_. Fag uten lærer vises med rød skrift.
 Utklipp av venstre hjørne: 
@@ -14,8 +16,6 @@ Utklipp av venstre hjørne:
 Her ser vi at lærer PAA denne uken skal ha 5 timer, men ingen er timeplanlagt. M-P t (uten lærer) skal også ha 5 timer, men ingen timer er timeplanlagt. NA3 a skal ha 4 timer, og her er alle timene timeplanlagt i denne uken (to timer på tirsdag, en på onsdag og fredag).
 
 De timeplanlagte timene vises med farget bakgrunn. Hvis det er valgt rom for timen, så vises romnummeret som tekst i cellen for timen. Ved å trykke på en faglinje, så vil det valgte fagets timeplan komme til syne i en kalendervisning i skjermbildets nedre del. Man kan endre uker i en nedtrekksliste oppe til høyre.
-
-Utklippet av skjermbildet under viser årets gruppefag, og vi har valgt første skoleuke. Allerede timeplanlagte timer markeres med rommnummer. 
 
 ![image](/img/tp_grupper.png)
 
