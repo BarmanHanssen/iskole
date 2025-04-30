@@ -7,15 +7,15 @@ sidebar_label: Klasser
 
 Benevnelsen klassefag, obligatorisk fag og fellesfag er synonyme betegnelser. Vi benytter oftes klassefag. 
 
-Timeplanen for klassefag skal inneholde all organisert undervisning i  alle klassefag til klassen. Eventuell endring av fagsammensetningen gjøres fra _Grunnlagsdata>Klassefag_. 
+Timeplanen for klassefag skal inneholde all organisert undervisning i  alle klassefag til klassen. Endring av fagsammensetningen i en klasse gjøres fra _Grunnlagsdata>Klassefag_. 
 
 Noen elever kan være fritatt i ett eller flere klassefag. Slike unntak får ingen innvirkning for legging av klassens timeplan. 
-Derimot kan elev fra annen klasse som følger undervisningen i et fag i klassen skape begrensninger. Denne elevens timeplan kan allerede være timeplanlagt, og medføre kollisjoner når timeplanen legges.
+Derimot kan elev fra annen klasse som følger undervisningen i et fag i klassen skape begrensninger. Denne elevens timeplan kan allerede være timeplanlagt, og medføre kollisjoner når timeplanen legges. Eventuelle kollisjoner vil vises uansett grunn
 
-Dersom elevene i klassen kan velge fag utover det som hele klassen er satt opp med, klassifiserer vi slike fag som gruppefag. Gruppefag gir naturlig nok begrensninger for oppsettet av klassens timeplan. Timeplanen for elevens klassefag skal ikke kollidere med et gruppefag som eleven har valgt. Det er av den grunn naturlig først å fastsette når gruppefagene skal ha sine timer før en starter med timeplanleggingen av klassefagene. Men man kan timeplanlegge klassefagene før gruppefagene er timeplanlagt. 
+Dersom elevene i klassen kan velge fag utover det som hele klassen er satt opp med, klassifiserer vi slike valgfrie fag som gruppefag. Gruppefag gir naturlig nok begrensninger for oppsettet av klassens timeplan. Timeplanen for elevens klassefag skal ikke kollidere med et gruppefag som eleven har valgt. Av den grunn er det naturlig først å timeplanlegge gruppefagene før en starter med timeplanleggingen av klassefagene. Men man kan timeplanlegge klassefagene før gruppefagene er timeplanlagt. 
 
 :::tip Tips
-Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleåret som utgangspunkt. Når alle klassene er timeplanlagt, kan man kopiere timeplanen for alle klassene fremover, se menyvalget _Kopiering_. Det er også mulig bare å kopiere den ene klassens timeplan fremover. Det kan ta noe tid, da omfattende kontroller må utføres før kopieringen av en enkelt klasse kan finne sted.
+Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleåret som utgangspunkt. Når alle klassene er timeplanlagt, kan man kopiere timeplanen for alle klassene fremover, se menyvalget _Kopiering_. Det er også mulig bare å kopiere den ene klassens timeplan fremover. Det er mer krevende prosess, da kontroller må utføres mot allerede lagte timeplaner for andre klasser før kopieringen av den utvalgte klasse kan finne sted.
 :::
 
 ## Timeplanlegge klasse
