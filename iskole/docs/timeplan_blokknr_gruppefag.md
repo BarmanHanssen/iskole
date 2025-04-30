@@ -7,7 +7,7 @@ sidebar_label: Grupper
 Første skjermbilde:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/fcee463d-7606-40fc-a596-629d4646758a)
 Fagene hentes fra _Time- og fagfordeling>Gruppefag_. Fag uten lærer vises med rød skrift.
-Utklipp av høyre hjørne: 
+Utklipp av venstre hjørne: 
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/12ca06d9-73fa-48bd-bc92-b79de6d24097) 
 
