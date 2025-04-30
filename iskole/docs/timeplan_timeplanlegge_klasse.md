@@ -15,7 +15,7 @@ Derimot kan elev fra annen klasse som følger undervisningen i et fag i klassen 
 Dersom elevene i klassen kan velge fag utover det som hele klassen er satt opp med, klassifiserer vi slike valgfrie fag som gruppefag. Gruppefag gir naturlig nok begrensninger for oppsettet av klassens timeplan. Timeplanen for elevens klassefag skal ikke kollidere med et gruppefag som eleven har valgt. Av den grunn er det naturlig først å timeplanlegge gruppefagene før en starter med timeplanleggingen av klassefagene. Men man kan timeplanlegge klassefagene før gruppefagene er timeplanlagt. 
 
 :::tip Tips
-Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleåret som utgangspunkt. Når alle klassene er timeplanlagt, kan man kopiere timeplanen for alle klassene fremover, se menyvalget _Kopiering_. Det er også mulig bare å kopiere den ene klassens timeplan fremover. Det er mer krevende prosess, da kontroller må utføres mot allerede lagte timeplaner for andre klasser før kopieringen av den utvalgte klasse kan finne sted.
+Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleåret som utgangspunkt. Når alle klassene er timeplanlagt, kan man kopiere timeplanen for alle klassene fremover, se menyvalget _Kopiering_. Det er også mulig bare å kopiere den ene klassens timeplan fremover. Det er krevende, da kontroller må utføres mot alle allerede lagte timeplaner for klasser og grupper, før kopieringen av den utvalgte klasse kan finne sted.
 :::
 
 ## Timeplanlegge klasse
