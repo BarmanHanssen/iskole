@@ -39,7 +39,7 @@ Dersom faget har _Gjester_, dvs at elevene fra klassen _Gjester_ også skal ha f
 #### Timeplan klasse
 I eksempelet er faget ENG valgt. Allerede timeplanlagte timer i valgt fag vises på rosa bakgrunn. Vi ser at ENG har fem uketimer denne uken og at Lars og Ole er sammen på mandag og har i tillegg to timer hver i faget denne uken. Norskfaget NOR har så langt blitt timeplanlagt to timer på mandag og vises med blå bakgrunn. Alle timene til ENG og NOR er lagt til rom 208 som er klassens klasserom. 
 
-Det er også timeplanlagt to timer i GEO selv om faget ikke har fått tildelt lærer ennå. Det er heller ikke valgt rom for de to timene i GEO (markeres med ?? på timeplanen). Ledige timer er markert med grønn bakgrunn.
+Det er også timeplanlagt to timer i GEO selv om faget ikke har fått tildelt lærer ennå. Det er heller ikke valgt rom for de to timene i GEO (markeres med ?? på timeplanen). Ledige timer i klassen er markert med grønn bakgrunn.
 
 Det er heller ikke tildelt lærer i faget HIS. Ikonet ![image](https://github.com/user-attachments/assets/9c797d7f-f3d6-4675-ab16-25a69cdbe0ae) kan benyttes for å få registrert lærer i et fag.
 
