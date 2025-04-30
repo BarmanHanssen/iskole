@@ -32,7 +32,7 @@ Vi anbefaler å knytte lærere til fagene før man legger timeplanen. Dersom man
 :::
 
 **_Fag, Lærer, Timer, Lagt_ og _Gjester_**: En time i et fag har vanligvis en lærer, men kan legges med flere lærere, eller uten lærer. Faget ENG er her valgt, faget skal ha fem uketimer. Faget har to lærere Lars Holm og Ole Vold. De to lærerne skal undervise to timer alene og en time sammen. I eksempelet gjenstår det å plassere siste timen til Ole Vold. Det er mulig å endre timetallet både for faget og læreren ved å klikke på blyanten i kolonnen timer.
-Dersom faget har _Gjester_, dvs at elevene fra klassen _Gjester_ også deltar i timene, anbefales å legge disse fagene først. Disse timene vil begrense gjesteklassens valgmuligheter på sin timeplan. 
+Dersom faget har _Gjester_, dvs at elevene fra klassen _Gjester_ også skal ha faget, anbefales å legge disse fagene først. Disse timene vil begrense gjesteklassens valgmuligheter på sin timeplan. Og tilsvarende: Dersom gjesteklasssen alt er timeplanlagt, vil dette begrense timeplanleggers valg når klassen som har gjester timeplanlegges
 
 **_Velg rom_**: Rommene som kan velges er de som er lagt inn fra _Grunnlagsdata>Rom_. Dersom klassen har eget rom, registrert fra _Grunnlagsdata>Klasser_, er dette  forhåndsvalgt. Annet rom velges om ønskelig herfra. Et allerede timeplanlagt rom kan endres ved å klikke på timen.
 
