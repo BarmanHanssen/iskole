@@ -10,7 +10,6 @@ Benevnelsen klassefag, obligatorisk fag og fellesfag er synonyme betegnelser. Vi
 Timeplanen for klassefag skal inneholde all organisert undervisning i  alle klassefag til klassen. Endring av fagsammensetningen i en klasse gjøres fra _Grunnlagsdata>Klassefag_. 
 
 Noen elever kan være fritatt i ett eller flere klassefag. Slike unntak får ingen innvirkning for legging av klassens timeplan. 
-Derimot kan elev fra annen klasse som følger undervisningen i et fag i klassen skape begrensninger. Denne elevens timeplan kan allerede være timeplanlagt, og medføre kollisjoner når timeplanen legges. Eventuelle kollisjoner vil vises uansett grunn
 
 Dersom elevene i klassen kan velge fag utover det som hele klassen er satt opp med, klassifiserer vi slike valgfrie fag som gruppefag. Gruppefag gir naturlig nok begrensninger for oppsettet av klassens timeplan. Timeplanen for elevens klassefag skal ikke kollidere med et gruppefag som eleven har valgt. Av den grunn er det naturlig først å timeplanlegge gruppefagene før en starter med timeplanleggingen av klassefagene. Men man kan timeplanlegge klassefagene før gruppefagene er timeplanlagt. 
 
