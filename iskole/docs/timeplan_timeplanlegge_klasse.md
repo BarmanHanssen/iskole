@@ -19,9 +19,10 @@ Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleå
 
 ## Timeplanlegge klasse
 
+Man starter med å velge klasse, og uken hvor timeplanen skal plasseres.
 ![tp_klasser_timeplan](/img/tp_klasse.png)
 
-Man starter med å velge klasse, og uken hvor timeplanen skal plasseres. Skjermen er delt i fire deler, nemlig for  _Klasse, Timeplan klasse, Vis timeplan for disse ansatte_ og _Timeplan lærer_. Vi ser nå nærmere på hver enkelt skjermbilde:
+ Skjermen er delt i fire deler, nemlig for  _Klasse, Timeplan klasse, Vis timeplan for disse ansatte_ og _Timeplan lærer_. Vi ser nå nærmere på hver enkelt skjermbilde:
 
 #### Klasse
 Her listes opp alle fag i klassen (hentes fra _Grunnlagsdata>Klasser_) og faglærere (registrert fra  _Time- og fagfordeling>Klassefag_). Merk at fagene kan timeplanlegges uten lærer, og at et fag kan ha flere lærere som deler på undervisningen i faget.
