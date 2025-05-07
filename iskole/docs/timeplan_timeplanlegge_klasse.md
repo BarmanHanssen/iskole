@@ -13,23 +13,27 @@ Dersom elevene i klassen kan velge fag utover det som hele klassen er satt opp m
 Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleåret som utgangspunkt. Når alle klassene er timeplanlagt, kan man kopiere timeplanen for alle klassene fremover, se menyvalget _Kopiering_. Det er mulig å kopiere den ene klassens timeplan fremover. Det er krevende, da kontroller må utføres mot alle allerede lagte timeplaner for klasser og grupper, før kopieringen av den utvalgte klasse kan finne sted.
 :::
 
-## Timeplanlegge klasse
-
 Man starter med å velge klasse, og uken hvor timeplanen skal plasseres.
 ![bilde](https://github.com/user-attachments/assets/65d1173f-df98-4e7f-bdd5-fdb4087f4671)
-Vi får da oversikt over klassens fag og lærere, hvor mange timer hvert fag skal ha, og antall timer som alt er timeplanlagt. Dersom faget har en gjesteklasse, vil gjestklassen være markert.
+Vi får da oversikt over klassens fag og lærere, hvor mange timer hvert fag skal ha, samt antall timer som alt er timeplanlagt. Dersom faget har en gjesteklasse, vil gjestklassen være markert.
 
-Selve timeplanen i faget vises også. Her er klassefagene vist på blå bakgrunn, og timer som ikke inneholder klassefag på grønn bakgrunn
+Klassens timeplanen vises også. Klassefagene vist på blå bakgrunn, og timer som ikke inneholder klassefag på grønn bakgrunn
 
-Skjermen er delt i fire deler, i tillegg til  _Klasse_ og _Timeplan klasse_ har vi også _Vis timeplan for disse ansatte_ og _Timeplan lærer_. Vi ser nå nærmere på hver enkelt skjermbilde:
+Legg merke til at skjermen er delt i fire deler. I tillegg til  _Klasse_ og _Timeplan klasse_ har vi også _Vis timeplan for disse ansatte_ og _Timeplan lærer_. 
+
+Etter å ha valgt klasse og uke skal vi nå velge fag for å klargjøre for timeplanlegging av faget, forutsatt at ikke alle timene alt er på plass. Timeplanen for klassen vil da bli mer detaljert dersom elevene har valgt gruppefag, og disse alt er timeplanlagt.
+
+Dersom vi klikker på faget ENG fås dette skjermbilde:
+![bilde](https://github.com/user-attachments/assets/b1264058-1321-426b-a071-0a1671cd32ca)
 
 #### Klasse
-Her listes opp fagene til den valgte klassen (registrert fra _Grunnlagsdata>Klasser_) og faglærere (registrert fra  _Time- og fagfordeling>Klassefag_). Fagene kan timeplanlegges uten lærer, og et fag kan ha flere lærere.
+Faglærerne er registrert fra  _Time- og fagfordeling>Klassefag_. Fagene kan timeplanlegges uten lærer, og et fag kan ha flere lærere.
 :::caution 
-Vi anbefaler å knytte lærere til fagene før man legger timeplanen. Dersom man legger fag uten lærer, må man senere inn og plassere lærerne på de timene de skal undervise.
+Dersom man legger fag uten lærer, må man senere inn og plassere lærerne på de timene de skal undervise.
 :::
 
-**_Fag, Lærer, Timer, Lagt_ og _Gjester_**: En time i et fag har vanligvis en lærer, men kan legges med flere lærere, eller uten lærer. Faget ENG er her valgt, faget skal ha fem uketimer. Faget har to lærere Lars Holm og Ole Vold. De to lærerne skal undervise to timer alene og en time sammen. I eksempelet gjenstår det å plassere siste timen til Ole Vold. Det er mulig å endre timetallet både for faget og læreren ved å klikke på blyanten i kolonnen timer.
+
+Faget ENG er her valgt, faget skal ha fem uketimer. Faget har to lærere Lars Holm og Ole Vold. De to lærerne skal undervise to timer alene og en time sammen. I eksempelet gjenstår det å plassere siste timen til Ole Vold. Det er mulig å endre timetallet både for faget og læreren ved å klikke på blyanten i kolonnen timer.
 Dersom faget har _Gjester_, dvs at elevene fra klassen _Gjester_ også skal ha faget, anbefales å legge disse fagene først. Disse timene vil begrense gjesteklassens valgmuligheter på sin timeplan. Og tilsvarende: Dersom gjesteklasssen alt er timeplanlagt, vil dette begrense timeplanleggers valg når klassen som har gjester timeplanlegges
 
 **_Velg rom_**: Rommene som kan velges er de som er lagt inn fra _Grunnlagsdata>Rom_. Dersom klassen har eget rom, registrert fra _Grunnlagsdata>Klasser_, er dette  forhåndsvalgt. Om ønskelig velges annet rom. Rommet for en timeplanlagt time kan endres ved å klikke på timen.
