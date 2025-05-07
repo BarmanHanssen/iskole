@@ -3,10 +3,6 @@ id: timeplan_timeplanlegge_klasse
 title: Klasser
 sidebar_label: Klasser
 ---
-
-
-Benevnelsen klassefag, obligatorisk fag og fellesfag er synonyme betegnelser. Vi benytter oftes klassefag. 
-
 Timeplanen for klassefag skal inneholde all organisert undervisning i  alle klassefag til klassen. Endring av fagsammensetningen i en klasse gjøres fra _Grunnlagsdata>Klassefag_. 
 
 Noen elever kan være fritatt i ett eller flere klassefag. Slike unntak får ingen innvirkning for legging av klassens timeplan. 
@@ -20,9 +16,12 @@ Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleå
 ## Timeplanlegge klasse
 
 Man starter med å velge klasse, og uken hvor timeplanen skal plasseres.
-![tp_klasser_timeplan](/img/tp_klasse.png)
+![bilde](https://github.com/user-attachments/assets/65d1173f-df98-4e7f-bdd5-fdb4087f4671)
+Vi får da oversikt over klassens fag og lærere, hvor mange timer hvert fag skal ha, og antall timer som alt er timeplanlagt. Dersom faget har en gjesteklasse, vil gjestklassen være markert.
 
- Skjermen er delt i fire deler, nemlig for  _Klasse, Timeplan klasse, Vis timeplan for disse ansatte_ og _Timeplan lærer_. Vi ser nå nærmere på hver enkelt skjermbilde:
+Selve timeplanen i faget vises også. Her er klassefagene vist på blå bakgrunn, og timer som ikke inneholder klassefag på grønn bakgrunn
+
+Skjermen er delt i fire deler, i tillegg til  _Klasse_ og _Timeplan klasse_ har vi også _Vis timeplan for disse ansatte_ og _Timeplan lærer_. Vi ser nå nærmere på hver enkelt skjermbilde:
 
 #### Klasse
 Her listes opp fagene til den valgte klassen (registrert fra _Grunnlagsdata>Klasser_) og faglærere (registrert fra  _Time- og fagfordeling>Klassefag_). Fagene kan timeplanlegges uten lærer, og et fag kan ha flere lærere.
