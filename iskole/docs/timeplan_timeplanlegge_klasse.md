@@ -25,7 +25,7 @@ Legg merke til at skjermen er delt i fire deler. I tillegg til  _Klasse_ og _Tim
 Etter først å ha valgt klasse og uke velges nå et fag for å timeplanlegge faget, eller for endring av fagets timeplan. Uansett grunn, idet vi velger fag vil klassens timeplanen bli mer detaljert såfremt elevene har valgt gruppefag, og disse alt er timeplanlagt.
 
 Dersom vi klikker på faget ENG fås dette skjermbilde:
-![bilde](https://github.com/user-attachments/assets/b1264058-1321-426b-a071-0a1671cd32ca)
+![bilde](https://github.com/user-attachments/assets/1bb7756c-42f2-4607-8cad-50958318f9b0)
 
 #### Klasse
 Faglærerne er registrert fra  _Time- og fagfordeling>Klassefag_. Fagene kan timeplanlegges uten lærer, og et fag kan ha flere lærere.
