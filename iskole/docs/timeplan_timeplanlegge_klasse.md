@@ -28,23 +28,15 @@ Dersom vi klikker på faglæreren i ENG fås dette skjermbilde:
 ![bilde](https://github.com/user-attachments/assets/e661ddfd-d1ff-4afc-a81c-11ac55bbdffb)
 
 #### Klasse
-Faglærerne er registrert fra  _Time- og fagfordeling>Klassefag_. Fagene kan timeplanlegges uten lærer, og et fag kan ha flere lærere.
-:::caution 
-Dersom man legger fag uten lærer, må man senere inn og plassere lærerne på de timene de skal undervise.
-:::
-
-
-Faget ENG er her valgt, faget skal ha fem uketimer. Faget har to lærere Lars Holm og Ole Vold. De to lærerne skal undervise to timer alene og en time sammen. I eksempelet gjenstår det å plassere siste timen til Ole Vold. Det er mulig å endre timetallet både for faget og læreren ved å klikke på blyanten i kolonnen timer.
-Dersom faget har _Gjester_, dvs at elevene fra klassen _Gjester_ også skal ha faget, anbefales å legge disse fagene først. Disse timene vil begrense gjesteklassens valgmuligheter på sin timeplan. Og tilsvarende: Dersom gjesteklasssen alt er timeplanlagt, vil dette begrense timeplanleggers valg når klassen som har gjester timeplanlegges
+Faget ENG skal ha fem uketimer, og har en lærer. Det er mulig å endre timetallet både for faget og læreren ved å klikke på blyanten i kolonnen timer.
+Dersom faget har _Gjester_, dvs at elevene fra klassen _Gjester_ også skal ha faget, anbefales å legge disse fagene først. Disse timene vil begrense gjesteklassens valgmuligheter på sin timeplan. Og tilsvarende: Dersom gjesteklasssen alt er timeplanlagt, vil dette begrense timeplanleggers valg når klassen som har gjester timeplanlegges.
 
 **_Velg rom_**: Rommene som kan velges er de som er lagt inn fra _Grunnlagsdata>Rom_. Dersom klassen har eget rom, registrert fra _Grunnlagsdata>Klasser_, er dette  forhåndsvalgt. Om ønskelig velges annet rom. Rommet for en timeplanlagt time kan endres ved å klikke på timen.
 
 #### Timeplan klasse
-I eksempelet er faget ENG valgt. Allerede timeplanlagte timer i valgt fag vises på rosa bakgrunn. Vi ser at ENG har fem uketimer denne uken og at Lars og Ole er sammen på mandag og har i tillegg to timer hver i faget denne uken. Norskfaget NOR har så langt blitt timeplanlagt to timer på mandag og vises med blå bakgrunn. Alle timene til ENG og NOR er lagt til rom 208 som er klassens klasserom. 
+I eksempelet er faget ENG valgt. Allerede timeplanlagte timer i valgt fag vises på rosa bakgrunn. Vi ser at ENG har fem uketimer denne uken. 
+I tillegg er nå gruppefagene til klassens elever kommet med på timeplanen på lysegrønn bakgrunn.
 
-Det er også timeplanlagt to timer i GEO selv om faget ikke har fått tildelt lærer ennå. Det er heller ikke valgt rom for de to timene i GEO (markeres med ?? på timeplanen). Ledige timer i klassen er markert med grønn bakgrunn.
-
-Det er heller ikke tildelt lærer i faget HIS. Ikonet ![image](https://github.com/user-attachments/assets/9c797d7f-f3d6-4675-ab16-25a69cdbe0ae) kan benyttes for å få registrert lærer i et fag.
 
 ##### Endre time
 Dersom det skal gjøres endringer på en timeplanlagt time, klikk på timen med venstre museknapp. Det er mulig å endre rom, start- og sluttidspunkt og å slette timen. Dersom timen har flere lærere kan en eller flere av disse slettes fra timen.
