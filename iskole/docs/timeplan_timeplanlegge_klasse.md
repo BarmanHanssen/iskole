@@ -14,7 +14,7 @@ Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleå
 :::
 
 Man starter med å velge klasse, og uken hvor timeplanen skal plasseres.
-![bilde](https://github.com/user-attachments/assets/65d1173f-df98-4e7f-bdd5-fdb4087f4671)
+![bilde](https://github.com/user-attachments/assets/081f9692-3183-446b-ad07-e394e0402da9)
 Vi får da oversikt over klassens fag og lærere, hvor mange timer hvert fag skal ha, samt antall timer som alt er timeplanlagt. Dersom faget har en gjesteklasse, vil gjestklassen være markert.
 
 Klassens timeplanen vises også. Klassefagene vist på blå bakgrunn, og timer som ikke inneholder klassefag på grønn bakgrunn
