@@ -51,7 +51,8 @@ Her vises timeplanen til lærer(e) som står oppført unde _Vis timeplanen for d
 :::tip TIPS
 Se nærmere på (altså klikk på) disse tre ikonene:
 
-![bilde](https://github.com/user-attachments/assets/eefbbd54-18a6-4a96-9ff7-2195e2712bc4)
+![bilde](https://github.com/user-attachments/assets/2a4ee9e2-8690-4b65-86cf-9283dfd55987)
+
 :::
 
 
