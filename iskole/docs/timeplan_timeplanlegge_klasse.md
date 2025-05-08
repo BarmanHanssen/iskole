@@ -13,7 +13,7 @@ Dersom elevene i klassen kan velge fag utover det som hele klassen er satt opp m
 Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleåret som utgangspunkt. Når alle klassene er timeplanlagt, kan man kopiere timeplanen for alle klassene fremover, se menyvalget _Kopiering_. Det er mulig å kopiere den ene klassens timeplan fremover. Det er krevende, da kontroller må utføres mot alle allerede lagte timeplaner for klasser og grupper, før kopieringen av den utvalgte klasse kan finne sted.
 :::
 
-Man starter med å velge klasse, og uken hvor timeplanen skal plasseres.
+Man starter med å velge klasse, og hvilken uke som skal timeplanlegges (se første linje i skjermbildet).
 ![bilde](https://github.com/user-attachments/assets/081f9692-3183-446b-ad07-e394e0402da9)
 
 Vi får da oversikt over klassens fag og lærere, hvor mange timer hvert fag skal ha, samt antall timer som alt er timeplanlagt. Dersom faget har en gjesteklasse, vil gjestklassen være markert.
