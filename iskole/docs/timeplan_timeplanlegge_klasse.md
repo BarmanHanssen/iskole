@@ -29,19 +29,17 @@ Dersom vi klikker på faglæreren i ENG fås dette skjermbilde:
 
 #### Klasse
 Faget ENG skal ha fem uketimer, og har en lærer. Det er mulig å endre timetallet både for faget og læreren ved å klikke på blyanten i kolonnen timer.
-Dersom faget har _Gjester_, dvs at elevene fra klassen _Gjester_ også skal ha faget, anbefales å legge disse fagene først. Disse timene vil begrense gjesteklassens valgmuligheter på sin timeplan. Og tilsvarende: Dersom gjesteklasssen alt er timeplanlagt, vil dette begrense timeplanleggers valg når klassen som har gjester timeplanlegges.
+Dersom et fag har _Gjester_, dvs at elevene fra klassen _Gjester_ også ha faget på sin timeplan, anbefales å legge disse fagene først. Disse timene vil begrense gjesteklassens valgmuligheter på sin timeplan. Og tilsvarende: Dersom gjesteklasssen alt er timeplanlagt, vil dette begrense timeplanleggers valgmuligheter.
 
 **_Velg rom_**: Rommene som kan velges er de som er lagt inn fra _Grunnlagsdata>Rom_. Dersom klassen har eget rom, registrert fra _Grunnlagsdata>Klasser_, er dette  forhåndsvalgt. Om ønskelig velges annet rom. Rommet for en timeplanlagt time kan endres ved å klikke på timen.
 
 #### Timeplan klasse
-I eksempelet er faget ENG valgt. Allerede timeplanlagte timer i valgt fag vises på rosa bakgrunn. Vi ser at ENG har fem uketimer denne uken. 
+I eksempelet er faget ENG valgt. Allerede timeplanlagte timer i faget vises på rosa bakgrunn. Vi ser at ENG har fem uketimer denne uken. 
 I tillegg er nå gruppefagene til klassens elever kommet med på timeplanen på lysegrønn bakgrunn.
-
 
 ##### Endre time
 Dersom det skal gjøres endringer på en timeplanlagt time, klikk på timen med venstre museknapp. Det er mulig å endre rom, start- og sluttidspunkt og å slette timen. Dersom timen har flere lærere kan en eller flere av disse slettes fra timen.
-![endre_time](/img/tp_klasse_endre_time.png)
-
+![bilde](https://github.com/user-attachments/assets/a4ec02fa-f5a7-41a3-8e98-840d369fb616)
 
 #### Vis timeplan for disse ansatte
 Lærer(e) i det valgte faget legges automatisk inn her. Timeplanen for alle fag til læreren(e) som alt er timeplanlagt vises i skjermbildet _Timeplanlærer_ på samme bakrunnsfarge.
