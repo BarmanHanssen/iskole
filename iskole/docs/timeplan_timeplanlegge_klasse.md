@@ -39,7 +39,7 @@ I tillegg er nå gruppefagene til klassens elever kommet med på timeplanen på 
 
 ##### Endre time
 Dersom det skal gjøres endringer på en timeplanlagt time, klikk på timen med venstre museknapp. Det er mulig å endre rom, start- og sluttidspunkt og å slette timen. Dersom timen har flere lærere kan en eller flere av disse slettes fra timen.
-![bilde](https://github.com/user-attachments/assets/a4ec02fa-f5a7-41a3-8e98-840d369fb616)
+![bilde](https://github.com/user-attachments/assets/658b68c1-b876-4323-8493-20f432d457f8)
 
 #### Vis timeplan for disse ansatte
 Lærer(e) i det valgte faget legges automatisk inn her. Timeplanen for alle fag til læreren(e) som alt er timeplanlagt vises i skjermbildet _Timeplanlærer_ på samme bakrunnsfarge.
