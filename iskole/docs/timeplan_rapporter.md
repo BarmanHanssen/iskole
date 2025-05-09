@@ -6,7 +6,7 @@ sidebar_label: Rapporter
 Alle rapporter kan tas ut i pdf-format, og noen utvalgte også som regneark. Regneark er beste valg dersom man ønsker å kunne redigere resultat, eksempelvis sortere innholdet på egen hånd.
 
 ## Blokktimer klasse
-Her ser vi på elevers valg av gruppefag, og timeplanen til gruppefagene.
+Her ser vi på elevens valg av gruppefag, og timeplanen til gruppefagene.
 Utgangspunktet er den valgte uken. Rapporten viser dager og timer hvor elevene i klassen er i grupper. Tallene i parentes viser hvor mange av klassens elever som er deltar i hver av timene. Rapporten viser ikke om det er et eller flere fag som ligger til grunn for antallet, heller ikke om elever fra andre klasser også deltar i disse timene. 
 Sum timer som her listes opp viser hvor mange timer gruppefagene legger beslag på. Disse timene blokkrer jo for klassefagene. Summen av timer til til gruppe- og klassetimer vises på klassens timeplan.
 
