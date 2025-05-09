@@ -10,7 +10,7 @@ En vikar kan ta en eller flere timer i et fag, for en dag, eller kanskje flere d
 Når vikaren er lagt inn, vil timene til vikaren være markert på timeplanen til klassen, faglærer, vikar og elev.
 
 ## Registrering av vikar
-Her velges uke og lærer som vi skal finne vikar for.
+Først velges uke og lærer som vi skal finne vikar for.
 
 ![bilde](https://github.com/user-attachments/assets/c8b19068-d1f0-4704-832d-289f2521dab2)
 ![bilde](https://github.com/user-attachments/assets/fe622aa7-8013-4b7a-b36f-f098ebd352f7)
