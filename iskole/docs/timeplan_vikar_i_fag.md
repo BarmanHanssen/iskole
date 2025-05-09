@@ -23,7 +23,7 @@ Klikk i tabellen på læreren som skal være vikar, marker om vikaren skal varsl
 ![bilde](/img/tp_vikarer_registrering.png)
 ![bilde](https://github.com/user-attachments/assets/775d5046-a928-4ad3-8597-94ab4e4e9363)
 
-Etter vikartimen er registrert vises den i lærerens, og elevenes, timeplan for uken.
-![bilde](/img/tp_vikarer_timeplan.png)
+Etter vikartimen er registrert vises den i lærerens og elevenes timeplan for denne uken.
+
 
 
