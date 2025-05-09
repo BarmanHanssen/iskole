@@ -11,9 +11,7 @@ På klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå 
 
 ## Matrise gruppefag
 Her fås her en kompakt og komplett overesikt hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt.
-
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/006c1874-d623-47ce-9ee0-c95d819ec213)
-
+![bilde](https://github.com/user-attachments/assets/2770494a-be7b-43a8-81cd-7728961c9051)
 
 Se utklippet hvor vi har begrenset oss til elever fra ST2 (studiespesialisering, trinn 2).
 11 elever har valgt ST2:MED. Blant disse 11 elevene ses at 1 også har ST2:BIO og 7 har også ST2:ENT.
