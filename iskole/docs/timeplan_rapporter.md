@@ -10,18 +10,15 @@ Rapporten viser dager og timer hvor elevene i klassen er i grupper. Tallene i pa
 På klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå hvilke grupper som inngår på timene med gruppefag.
 
 ## Matrise gruppefag
-Her fås her en kompakt og komplett overesikt hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt.
+Velger nå Forhåndsvisning av alle gruppetrinn som har elever med gruppefag. Vi får da en kompakt og komplett oversikt over hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt.
 
-![bilde](https://github.com/user-attachments/assets/2770494a-be7b-43a8-81cd-7728961c9051)
+![bilde](https://github.com/user-attachments/assets/82058ed2-c95f-4833-a297-db44901ff45f)
 
-Se utklippet hvor vi har begrenset oss til elever fra ST2 (studiespesialisering, trinn 2).
-11 elever har valgt ST2:MED. Blant disse 11 elevene ses at 1 også har ST2:BIO og 7 har også ST2:ENT.
+Se utklippet hvor vi har ser nærmere på hvilke elever som har valgt ST1:MAP 1, og hvilke andre gruppefag elevene i ST1:MAP 1 har valgt. 
+19 elever har valgt ST1:MAP 1 (markert på rød bakgrunn). Blant disse 19 ser blant annet at 4 også har ST1:SPB 1  og 6 har  ST1:TY2 1.
 Ved å plassere musepekeren over et tall fås navnene på elevene som har kombinasjonen.
 
-Felt uten tall (se kombinasjonen ST2:Med og ST2:ENI) betyr at ingen elever går i begge grupper. Det betyr at disse to gruppene kan timeplanlegges likt uten at noen av disse elevene får kollisjon på sin timeplan av den grunn.
-
-Dersom mange elever har valgt et fag, må kanskje flere grupper i faget opprettes. Matrisen vil da bli større, tolkingen av tallene blir den samme.
-
+Felt uten tall betyr at ingen elever går i begge grupper. Det betyr at disse gruppene kan timeplanlegges likt uten at noen av disse elevene får kollisjon på sin timeplan av den grunn.
 
 ## Sum undervisning
 
