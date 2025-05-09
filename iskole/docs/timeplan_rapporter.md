@@ -11,6 +11,7 @@ På klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå 
 
 ## Matrise gruppefag
 Her fås her en kompakt og komplett overesikt hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt.
+
 ![bilde](https://github.com/user-attachments/assets/2770494a-be7b-43a8-81cd-7728961c9051)
 
 Se utklippet hvor vi har begrenset oss til elever fra ST2 (studiespesialisering, trinn 2).
