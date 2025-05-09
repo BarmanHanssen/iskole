@@ -17,8 +17,6 @@ Her velges uke og lærer som vi skal finne vikar for.
 
 Dersom  vikarlæreren kan ta flere timer holder man shift-knappen nede og klikker på alle aktuelle timer og med shift-knappen fortsatt nede dobbeltklikker man på den siste timen. Velger her dobbeltimen på tirsdag i NAT og får da dette dialogvindu:
 ![bilde](https://github.com/user-attachments/assets/19ff8b1e-a323-40a6-90dd-89977cc626d3)
-
-
 ![bilde](/img/tp_vikarer_registrering.png)
 ![bilde](https://github.com/user-attachments/assets/775d5046-a928-4ad3-8597-94ab4e4e9363)
 Klikk i tabellen på læreren som skal være vikar, marker om vikaren skal varsles med en melding i iSkole, og hvorvidt vikartimen medfører utbetaling. Klikk tilslutt _Lagre_.
