@@ -10,7 +10,7 @@ Rapporten viser dager og timer hvor elevene i klassen er i grupper. Tallene i pa
 På klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå hvilke grupper som inngår på timene med gruppefag.
 
 ## Matrise gruppefag
-Når eleven har valgt gruppefag fås her en kompakt og komplett overesikt hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt.
+Her fås her en kompakt og komplett overesikt hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/006c1874-d623-47ce-9ee0-c95d819ec213)
 
