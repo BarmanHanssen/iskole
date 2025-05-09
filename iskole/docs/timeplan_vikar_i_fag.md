@@ -20,7 +20,6 @@ Dersom  vikarlæreren kan ta flere timer holder man shift-knappen nede og klikke
 
 Klikk i tabellen på læreren som skal være vikar, marker om vikaren skal varsles med en melding i iSkole, og hvorvidt vikartimen medfører utbetaling. Klikk tilslutt _Lagre_.
 
-
 ![bilde](/img/tp_vikarer_registrering.png)
 ![bilde](https://github.com/user-attachments/assets/775d5046-a928-4ad3-8597-94ab4e4e9363)
 
