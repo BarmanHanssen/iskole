@@ -95,7 +95,7 @@ Benyttes når en gruppe elever undervises samlet i noen timer, men deles i flere
 
 Det er bare fag med med fagkode 999999 som kan være komponent til et fag med fagkode forskjellig fra 999999. 
 
-Her fås en oversikt over fag som har fått knyttet en komponent til seg. For elever i komponentfaget vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
+Her fås en oversikt over fag som alt har en komponent. For elever i komponentfaget vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
 
 For å få registrert en komponent, registreres først et fag med fagkode 999999, deretter klikkes _Endre_. Eksempel:
 
