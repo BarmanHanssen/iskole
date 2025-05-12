@@ -93,7 +93,7 @@ Benyttes når en gruppe elever undervises samlet i noen timer, men deles i flere
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
 
-Det er bare fag med med fagkode 999999 som kan være komponent til et fag med fagkode forskjellig fra 999999. Registrering av komponenter skjer når nytt fag legges til, og kan endres.
+Det er bare fag med med fagkode 999999 som kan være komponent til et fag med fagkode forskjellig fra 999999. 
 
 Her fås en oversikt over fag som har fått knyttet en komponent til seg. For elever i komponentfaget vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
 
