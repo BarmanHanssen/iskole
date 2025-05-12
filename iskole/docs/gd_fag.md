@@ -89,7 +89,7 @@ Når elevene er registrert vil tallene her vise status for det enkelte fag. Ders
 
 ## Fag med flere komponenter
 
-Benyttes når en gruppe elever undervises samlet i noen timer, men deles i flere grupper i andre timer. Eksempel: Språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget er registrert med fagkoden til majoriteten av elevene. I andre timer er de delt utfra forhåndskompetanse. Til dette formålet registreres en kompontent til faget. Komponenten har fagkoden 999999, og knyttes alså til den opprinnelige spansk-gruppen. (At noen elever skal være registrert med annen fagkode enn majoriteten, rettes opp fra _Elevadmin.>Karakterer_.)
+Benyttes når en gruppe elever undervises samlet i noen timer, men deles i flere grupper i andre timer. Eksempel: Språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget er registrert med fagkoden til majoriteten av elevene. I andre timer er de delt ut fra forhåndskompetanse. Til dette formålet registreres en kompontent til faget. Komponenten har fagkoden 999999, og knyttes alså til den opprinnelige spansk-gruppen. (At noen elever skal være registrert med annen fagkode enn majoriteten, rettes opp fra _Elevadmin.>Karakterer_.)
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
 
