@@ -15,8 +15,8 @@ Velg nå _Forhåndsvisning_ av alle klassetrinn som har elever med gruppefag. Vi
 ![bilde](https://github.com/user-attachments/assets/fc4724ac-f048-4af3-9a59-c3de2ec433b6)
 
 I utklippet ser vi nærmere på hvilke elever som har valgt ST1:MAP 1, og hvilke andre gruppefag elevene i ST1:MAP 1 også har valgt. 
-19 elever har altså ST1:MAP 1 (fra dialogen, markert på rød bakgrunn). Blant disse 19 ser blant annet at 4 også har ST1:SPB 1  og 6 har  ST1:TY2 1. Merk at fagene med tallene markeres både vannrett og loddrett. 
-Ved å plassere musepekeren over et tall fås navnene på elevene som står angitt i dialogen, og som har faget som vises i vannrett (eller loddrett) kolonne.
+19 elever har valgt ST1:MAP 1 (dialogen gir antall elever i faget). Blant disse 19 har 4 også har ST1:SPB 1  og 6 har også valgt ST1:TY2 1. Merk at fagene med tallene markeres både vannrett og loddrett. 
+Ved å plassere musepekeren over et tall får vi frem navnene på elevene. 
 
 Felt uten tall betyr at ingen elever går i begge grupper. Det betyr at disse gruppene kan timeplanlegges likt uten at noen av disse elevene får kollisjon på sin timeplan av den grunn.
 
