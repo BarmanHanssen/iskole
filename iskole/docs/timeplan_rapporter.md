@@ -7,7 +7,7 @@ Alle rapporter kan tas ut i pdf-format, og noen utvalgte også som regneark. Reg
 
 ## Blokktimer klasse
 Rapporten viser dager og timer hvor elevene i klassen er i grupper. Tallene i parentes viser hvor mange av klassens elever som er deltar i hver av timene, altså er elever fra andre klasser ikke medregnet. Rapporten viser ikke om det er et eller flere fag som ligger til grunn for antallet. 
-På klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå hvilke grupper som inngår på timene med gruppefag.
+På klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå hvilke grupper som inngår.
 
 ## Matrise gruppefag
 Velg nå _Forhåndsvisning_ av alle klassetrinn som har elever med gruppefag. Vi får da en komplett oversikt over hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt. Tallet i diagonalen gir alle elevene i akkurat den gruppen. Nærmer forklaringen under skjermbildet:
