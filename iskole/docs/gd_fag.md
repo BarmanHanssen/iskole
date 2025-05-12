@@ -97,7 +97,9 @@ Det er bare fag med med fagkode 999999 som kan være komponent til et fag med fa
 
 Her fås en oversikt over fag som har fått knyttet en komponent til seg. For elever i komponentfaget vil eksempelvis ført fravær i komponentfaget bli regnet som fravær i faget som eier komponenten.
 
-For å få registrert en komponent, markeres først et fag med fagkode 999999, deretter klikkes _Endre_. Eksempel:
+En komponent skal altså ha fagkode 999999, og må knyttes til et fag med fagkode forskjellig fra 999999.
+
+For å få registrert en komponent, registreres først et fag med fagkode 999999, deretter klikkes _Endre_. Eksempel:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b9ad052a-18f5-4d60-96cb-887fb912e526)
 
