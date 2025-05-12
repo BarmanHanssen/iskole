@@ -17,7 +17,7 @@ Velg nå _Forhåndsvisning_ av alle klassetrinn som har elever med gruppefag. Vi
 I skjermbildet ovenfor har vi klikket på tallet 19. Vi får da navnet på de 19 elevene som har valgt ST1:MAP 1. Vi ser at blant disse 19 har 4 også har valgt ST1:SPB 1 og 6 har også valgt ST1:TY2 1. Klikker vi deretter på tallet 6, får vi altså ikke frem navnene på alle som har ST1:TY2 1, vi får kun frem de 6 elevene som også har valgt ST1:MAP 1.
 Merk at fagene med tallene markeres både vannrett og loddrett. 
 
-Felt uten tall betyr at ingen elever går i begge grupper. Det betyr at disse gruppene kan timeplanlegges likt med ST1:MAP 1 uten at noen av disse elevene får kollisjon på sin timeplan av den grunn.
+Felt uten tall betyr at ingen elever går i begge grupper. Det betyr at disse gruppene kan timeplanlegges likt med ST1:MAP 1 uten at noen av elevene i ST1:MAP 1 får kollisjon på sin timeplan av den grunn.
 
 ## Sum undervisning
 
