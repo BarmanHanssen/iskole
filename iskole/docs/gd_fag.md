@@ -101,16 +101,16 @@ For å få registrert en komponent, registreres først et fag med fagkode 999999
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b9ad052a-18f5-4d60-96cb-887fb912e526)
 
-Nedtrekkslisten viser da alle fag som NOX kan være en komponent av. Utvalget er begrenset til alle fag på trinnet (her AP 3, altså trinn 3) som alt er registrert, og som har fagkode forskjellig fra 999999. Her er det nok NOR som er tiltenkt eierskapet. Det er mulig at et fag, eksempelvis NOR, kan ha flere komponenter.
+Nedtrekkslisten viser da alle fag som NOX kan være en komponent av. Utvalget er begrenset til alle fag på trinnet (her AP 3, altså trinn 3) som alt er registrert, og som har fagkode forskjellig fra 999999. Her er det nok NOR som er tiltenkt eierskapet. 
 
 ### 999999-fag, ikke komponent
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/330f9328-f603-48e3-a2e6-80b388df43ff)
 
-Disse fag kan timeplanlegges, men de skal ikke medtas på karakterdokumentasjonen, og er heller ikke med på diverse oversikter, f.eks til Wis. 
+Disse fag kan timeplanlegges på valig måte. De fremkommer ikke direkte på karakterdokumentasjonen, og er heller ikke med på diverse oversikter, f.eks til Wis. 
 
 ### Oversikt
-Her vises alle fag som er registrert, men fokusert på gyldighet, og registrert elevtall på hvert fag. Fag med rød skrift er gått ut på dato, og må gis ny fagkode. Merk at en fagkode kan være registrert både som klasse- og gruppefag, og på flere årstrinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode i dette skoleåret. Dersom oversikten tas frem etter skolestart, vil _Elevantall_ vise hvor mange elever som er registrert med faget. Når nytt fag legges til, er selvsagt elevantallet null.
+Her vises alle fag som er registrert, men fokusert på gyldighet, og registrert elevtall på hvert fag. Fag med rød skrift er gått ut på dato, og må gis ny fagkode. Merk at en fagkode kan være registrert både som klasse- og gruppefag, og på flere årstrinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode i dette skoleåret. Dersom oversikten tas frem etter skolestart, vil _Elevantall_ vise hvor mange elever som er registrert med faget. Når nytt fag legges til, er selvsagt elevtallet null.
 
 ### Utgåtte fagkoder
 
