@@ -12,7 +12,7 @@ På klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå 
 ## Matrise gruppefag
 Velg nå _Forhåndsvisning_ av alle klassetrinn som har elever med gruppefag. Vi får da en komplett oversikt over hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt. Tallet i diagonalen gir alle elevene i akkurat den gruppen. Nærmer forklaringen under skjermbildet:
 
-![bilde](https://github.com/user-attachments/assets/82058ed2-c95f-4833-a297-db44901ff45f)
+![bilde](https://github.com/user-attachments/assets/fc4724ac-f048-4af3-9a59-c3de2ec433b6)
 
 I utklippet ser vi nærmere på hvilke elever som har valgt ST1:MAP 1, og hvilke andre gruppefag elevene i ST1:MAP 1 også har valgt. 
 19 elever har altså ST1:MAP 1 (fra dialogen, markert på rød bakgrunn). Blant disse 19 ser blant annet at 4 også har ST1:SPB 1  og 6 har  ST1:TY2 1. Merk at fagene med tallene markeres både vannrett og loddrett. 
