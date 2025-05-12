@@ -10,12 +10,12 @@ Rapporten viser dager og timer hvor elevene i klassen er i grupper. Tallene i pa
 På klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå hvilke grupper som inngår i hver av timene.
 
 ## Matrise gruppefag
-Velg nå _Forhåndsvisning_ av alle klassetrinn som har elever med gruppefag. Vi får da en komplett oversikt over hvem som har valgt det enkelte gruppefag, og hvilke andre grupper disse elevene også har valgt. Tallet i diagonalen gir alle elevene i akkurat den gruppen. Nærmer forklaringen under skjermbildet:
+Velg nå _Forhåndsvisning_ av alle klassetrinn som har elever med gruppefag. Vi får da en komplett oversikt over alle gruppefag med hvem som har valgt det enkelte gruppefag, og hvilke andre gruppefag hver av disse elevene også har valgt. 
 
 ![bilde](https://github.com/user-attachments/assets/fc4724ac-f048-4af3-9a59-c3de2ec433b6)
 
 I utklippet ser vi nærmere på hvilke elever som har valgt ST1:MAP 1, og hvilke andre gruppefag elevene i ST1:MAP 1 også har valgt. 
-19 elever har valgt ST1:MAP 1 (dialogen gir antall elever i faget). Blant disse 19 har 4 også har ST1:SPB 1  og 6 har også valgt ST1:TY2 1. Merk at fagene med tallene markeres både vannrett og loddrett. 
+19 elever har valgt ST1:MAP 1 (dialogen gir antall elever i faget). Blant disse 19 har 4 også har valgt ST1:SPB 1 og 6 har også valgt ST1:TY2 1. Merk at fagene med tallene markeres både vannrett og loddrett. 
 Ved å plassere musepekeren over et tall får vi frem navnene på elevene. 
 
 Felt uten tall betyr at ingen elever går i begge grupper. Det betyr at disse gruppene kan timeplanlegges likt uten at noen av disse elevene får kollisjon på sin timeplan av den grunn.
