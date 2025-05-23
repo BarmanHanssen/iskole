@@ -21,9 +21,8 @@ Felt uten tall betyr at ingen elever går i begge grupper. Det betyr at disse gr
 
 ## Sum undervisning
 
-Her innsamles fagene som er registrert under _Klassefag_ og _Gruppefag_ fra  menyvalget _Time og fagfordeling_.
-Første del av rapporten summerer timer som er timeplanlagt fra _Grupper_ og _Klasser_ under menyvalget _Timeplan_. En timeplanlagt time i et klasse- eller gruppetime regnes teller som en time uavhengig om timen er registrert med uten lærer, eller med en eller flere lærere.
-Deretter følger alle fag som står oppført under _Klassefag_ og _Gruppefag_, men som ikke er timeplanlagt.
+Utgangspunktet er fagene som er registrert under _Klassefag_ og _Gruppefag_ fra  menyvalget _Time og fagfordeling_.
+Rapporten summerer timer som er timeplanlagt fra _Grupper_ og _Klasser_ under menyvalget _Timeplan_. Timene telles opp uavhengig om timen er registrert med eller uten lærer. 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ca2d7b33-21d1-4d72-a794-f4dbd0befcf3)
 
