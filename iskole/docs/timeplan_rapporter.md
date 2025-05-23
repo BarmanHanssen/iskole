@@ -32,7 +32,7 @@ Se skjermbildet ovenfor. Her står gruppen ST1:FR1 1 uten elever og uten timepla
 _Omfanget_ er gitt via fagkoden.
 _Timer_ er sum timeplangte timer.
 _Avlyst/Fradrag_ er korrigeringer faglærer gjør i løpet av skoleåret. 
-_Sum_ betår da av  timer minus (avlyst+fradrag).
+_Sum_ betår da av  _Timer_ minus (_Avlyst_ + _Fradrag_).
 
 ### Timelister
 Rapporten viser lærernes undervsningsoppdrag i det enkelte fag. Planlagt timetall for læreren i faget er registrert fra _Time- og fagfordeling>Klassefag/Gruppefag_.  For læreren summeres alle timeplanlagte timer hvor læreren står oppført i faget. Et fag kan stå oppført hos flere lærer dersom faget har flere lærere i løpet av skoleåret. Hvor mange timer som totalt er timeplanlagt i faget fremgår fra rapporten _Undervisningstimer_.
