@@ -36,7 +36,7 @@ _Sum_ betår da av  _Timer_ minus (_Avlyst_ + _Fradrag_).
 _Avvik_ er _Omfang_ minus _Sum_.
 
 Dersom noen fag er delt, vises en oversikt helt til slutt:
-![bilde](https://github.com/user-attachments/assets/54a59df5-dd1c-4b44-83b5-ce79e7fb5bc5)
+![bilde](https://github.com/user-attachments/assets/ef6aef86-366f-496b-b772-c25d33dc08ee)
 Eieren av faget har offisiell fagkode, og komponentene har fagkode 999999. Se _Grunnlagsdata>Fag_ for nærmere forklaring.
 
 ## Timeplanlagte timer uten rom
