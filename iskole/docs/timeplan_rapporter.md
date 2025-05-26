@@ -35,8 +35,9 @@ _Avlyst/Fradrag_ er korrigeringer faglærer gjør i løpet av skoleåret.
 _Sum_ betår da av  _Timer_ minus (_Avlyst_ + _Fradrag_).
 _Avvik_ er _Omfang_ minus _Sum_.
 
-### Timelister
-Rapporten viser lærernes undervsningsoppdrag i det enkelte fag. Planlagt timetall for læreren i faget er registrert fra _Time- og fagfordeling>Klassefag/Gruppefag_.  For læreren summeres alle timeplanlagte timer hvor læreren står oppført i faget. Et fag kan stå oppført hos flere lærer dersom faget har flere lærere i løpet av skoleåret. Hvor mange timer som totalt er timeplanlagt i faget fremgår fra rapporten _Undervisningstimer_.
+Dersom noen fag er delt, vises en oversikt helt til slutt:
+![bilde](https://github.com/user-attachments/assets/54a59df5-dd1c-4b44-83b5-ce79e7fb5bc5)
+Eieren av faget har offisiell fagkode, og komponentene har fagkode 999999. Se _Grunnlagsdata>Fag_ for nærmere forklaring.
 
 ## Timeplanlagte timer uten rom
 Rapporten lister alle fag som ikke har blitt tildelt rom i alle timeplanlagte timer i faget,  fra og med dagens uke og fram i tid. 
