@@ -48,6 +48,7 @@ Rapporten lister alle fag som ikke har blitt tildelt rom i alle timeplanlagte ti
 
 
 ## Timeplanlagte timer uten lærer
+![bilde](https://github.com/user-attachments/assets/74f84469-bd43-46a6-902d-9c05ea39fe63)
 
 
 ## Prøver
