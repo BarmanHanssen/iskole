@@ -31,9 +31,9 @@ Se skjermbildet ovenfor. Her står gruppen ST1:FR1 1 uten elever og uten timepla
 
 **_Omfanget_** er gitt via fagkoden. Fag med fagkode 999999 skal ikke være med på kompentansebevis eller vitnemål og har omfang=0.
 **_Timer_** er sum timeplangte klokketimer.
-_Avlyst/Fradrag_ er korrigeringer faglærer gjør i løpet av skoleåret. 
-_Sum_ betår da av  _Timer_ minus (_Avlyst_ + _Fradrag_).
-_Avvik_ er _Omfang_ minus _Sum_.
+**_Avlyst/Fradrag_** er korrigeringer faglærer gjør i løpet av skoleåret. 
+**_Sum_** betår da av  _Timer_ minus (_Avlyst_ + _Fradrag_).
+**_Avvik_** er _Omfang_ minus _Sum_.
 
 Dersom noen fag er delt, vises en oversikt helt til slutt:
 
