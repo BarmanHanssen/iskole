@@ -47,8 +47,8 @@ Rapporten lister alle fag som ikke har blitt tildelt rom i alle timeplanlagte ti
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/c22ca718-f2a1-4d5e-a504-77b105b451ef)
 
 
-## Avvik planlagt og timeplanlagt
-Rapporten lister  ut fag og avvik i planlagt og timeplanlagt undervisning i fagene gjennom året.
+## Timeplanlagte timer uten lærer
+
 
 ## Prøver
 
