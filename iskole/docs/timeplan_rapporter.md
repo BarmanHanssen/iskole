@@ -38,6 +38,7 @@ _Avvik_ er _Omfang_ minus _Sum_.
 Dersom noen fag er delt, vises en oversikt helt til slutt:
 
 ![bilde](https://github.com/user-attachments/assets/ef6aef86-366f-496b-b772-c25d33dc08ee)
+
 Eieren av faget har offisiell fagkode, og komponentene har fagkode 999999. Se _Grunnlagsdata>Fag_ for nærmere forklaring.
 
 ## Timeplanlagte timer uten rom
