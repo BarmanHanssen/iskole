@@ -55,10 +55,10 @@ Merk at denne rapporten bare gir mening når den tas ut i inneværende skoleår.
 ## Prøver
 
 ### Heldagsprøver
-Rapporten viser timer til undervisning i følge læreplaner, og hvor mange timer som er timeplanlagt.
+Her fås alle prøver som er lagt inn med varighet en dag.
 
 ### Prøveoversikt
-Oversikten lister alle prøvene ved skolen gjennom skoleåret.
+Her fås alle prøver som er registrert. Nå tas det også med tiden som er avsatt for prøven. Heldagsprøver er markert med en dagsvarighet.
 
 ## Elevkollisjoner
 Det er tillatt å timeplanlegge med kollisjoner for elever. Rapporten viser da eventuelle kollisjoner for elever på timeplanen.
