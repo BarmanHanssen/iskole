@@ -58,7 +58,7 @@ Det er faglærer som registrerer prøver i siner fag, se _Mine sider>Vurderinger
 #### Heldagsprøver
 Her fås alle prøver som er lagt inn med varighet på en dag.
 
-### Prøveoversikt
+#### Prøveoversikt
 Her fås alle prøver som er registrert. Nå tas det også med tiden i minutter som er avsatt for prøven. Heldagsprøver er markert med en dags varighet.
 
 ## Elevkollisjoner
