@@ -62,4 +62,5 @@ Her fås bare prøver som er lagt inn med varighet på en dag, eller mer.
 Her fås alle prøver som er registrert, også heldagsprøver.
 
 ## Elevkollisjoner
-Det er tillatt å timeplanlegge med kollisjoner for elever. Rapporten viser da eventuelle kollisjoner for elever på timeplanen.
+I utgangspunktet kan timeplanen ikke legges slik at det forkommer kollisjoner, eksempelvis på lærers eller elevs timeplan.
+Det er imdlilertid åpnet for å timeplanlegge med kollisjoner for elever. Det er timeplanlegger som må godkjenne dette. Rapporten viser da eventuelle kollisjoner for elever på timeplanen. Det avtales med eleven hvilket fag som gjelder dersom kollisjoner påvises.
