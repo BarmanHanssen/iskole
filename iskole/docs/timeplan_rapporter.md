@@ -56,10 +56,10 @@ Merk at denne rapporten bare gir mening når den tas ut i inneværende skoleår.
 Det er faglærer som registrerer prøver i siner fag, se _Mine sider>Vurderinger_. Her fås oversikt over alle prøver som er registrert.
 
 ### Heldagsprøver
-Her fås alle prøver som er lagt inn med varighet en dag.
+Her fås alle prøver som er lagt inn med varighet på en dag.
 
 ### Prøveoversikt
-Her fås alle prøver som er registrert. Nå tas det også med tiden som er avsatt for prøven. Heldagsprøver er markert med en dagsvarighet.
+Her fås alle prøver som er registrert. Nå tas det også med tiden i minutter som er avsatt for prøven. Heldagsprøver er markert med en dags varighet.
 
 ## Elevkollisjoner
 Det er tillatt å timeplanlegge med kollisjoner for elever. Rapporten viser da eventuelle kollisjoner for elever på timeplanen.
