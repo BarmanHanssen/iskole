@@ -56,11 +56,11 @@ Merk at denne rapporten bare gir mening når den tas ut i inneværende skoleår.
 Det er faglærer som registrerer prøver i sine fag, se _Mine sider>Vurderinger_. Her fås oversikt over alle prøver som er registrert, forutsatt at publiseringsdatoen ikke stopper visningen. 
 
 #### Heldagsprøver
-Her fås bare prøver som er lagt inn med varighet på en dag, eller mer.
+Her fås prøver som er lagt inn med varighet på en dag, eller mer.
 
 #### Prøveoversikt
 Her fås alle prøver som er registrert, også heldagsprøver.
 
 ## Elevkollisjoner
 I utgangspunktet kan timeplanen ikke legges slik at det forkommer kollisjoner, eksempelvis på lærers eller elevs timeplan.
-Det er imdlilertid åpnet for å timeplanlegge med kollisjoner for elever. Det er timeplanlegger som må godkjenne dette. Rapporten viser da eventuelle kollisjoner for elever på timeplanen. Det avtales med eleven hvilket fag som gjelder dersom kollisjoner påvises.
+Det er imidlertid åpnet for å timeplanlegge med kollisjoner for elever. Det er timeplanlegger som må godkjenne dette. Rapporten viser da eventuelle kollisjoner for elever på elevens timeplan. Det avtales med eleven hvilket fag som skal følges dersom kollisjon påvises.
