@@ -53,13 +53,14 @@ Rapporten lister alle fag som ikke har blitt tildelt rom i alle timeplanlagte ti
 Merk at denne rapporten bare gir mening når den tas ut i inneværende skoleår. I eksemplet ovenfor er vi i skoleåret 2024-25, og utskrift planlegges tatt ut i uke 25. Resultatet fanger opp eventuelle timer i fag som  er timeplanlgt uten lærer fra om med uke 25 og ut skoleåret. Sluttdato er bestemt ut fra siste skoledag i følge skoleruten. (Se _Mine sider>Skolerute_.)
 
 ## Prøver
-Det er faglærer som registrerer prøver i sine fag, se _Mine sider>Vurderinger_. Her fås oversikt over alle prøver som er registrert, forutsatt at publiseringsdatoen ikke stopper visningen. 
-
-#### Heldagsprøver
-Her fås prøver som er lagt inn med varighet på en dag, eller mer.
+Her fås oversikt over alle prøver som er registrert, forutsatt at publiseringsdatoen ikke setter stopp for visningen.
+Det er faglærer som registrerer prøver i sine fag, men faglærer for kun oversikt over prøver i sine fag, se _Mine sider>Vurderinger_.  
 
 #### Prøveoversikt
 Her fås alle prøver som er registrert, også heldagsprøver.
+
+#### Heldagsprøver
+Her fås prøver som er lagt inn med varighet på en dag, eller mer.
 
 ## Elevkollisjoner
 I utgangspunktet kan timeplanen ikke legges slik at det forkommer kollisjoner, eksempelvis på lærers eller elevs timeplan.
