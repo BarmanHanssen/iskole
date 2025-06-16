@@ -8,7 +8,7 @@ Vi opererer med fem forskjellige vurderingskategorier. Her ser vi på hva faglæ
 
 Første skjermbilde viser alle fag du som faglærer skal evaluere. Her fås oversikt over allerede planlagte prøver i dine fag. 
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/86177da8-38a9-4559-a372-af46f423b5eb)
+![bilde](https://github.com/user-attachments/assets/e7409d09-6c76-4f98-8571-f3b6d47ec6e2)
 
 Velger nå faget AP3D HIS:
 
