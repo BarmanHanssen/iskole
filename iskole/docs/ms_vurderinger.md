@@ -10,9 +10,9 @@ Første skjermbilde viser alle fag du som faglærer skal evaluere. Her fås over
 
 ![bilde](https://github.com/user-attachments/assets/e7409d09-6c76-4f98-8571-f3b6d47ec6e2)
 
-Velger nå faget AP3D HIS:
+Velger nå faget ST2:TY1 1:
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/96e4539d-d15a-4725-a6d3-f142f0e3def8)
+![bilde](https://github.com/user-attachments/assets/9777a42c-7711-4dd4-9b52-242cd24df4d8)
 
 Skal nå se på de fem undervalg
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/061b7c46-5d5f-47f5-9ea8-d6bf3fff7ff6)
