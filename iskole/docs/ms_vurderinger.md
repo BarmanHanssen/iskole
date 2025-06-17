@@ -48,19 +48,19 @@ Når du senere skal føre _Resultater_ for elvene, kan du føre dette inn og lag
 Når elevene ser på sine prøveresultater vil vi beregne en gjennomsnittskarakter. Denne beregnes ved å kontrollere om første tegnet i resultatet er et tall, hvis ja og resultatet ikke inneholder %, benytter vi dette tallet i beregningen.
 :::
 
-## Enkeltelever
+## _Enkeltelever_
 Her kan en legge inn en vurdering for en elev i det utvalgte faget. Her oppgis dato, karakter og en kommentar. Karakteren for enkeltvurderingen vises når du senere skal føre termin eller standpunktkarakterer i faget.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b8e98f50-f554-4fdd-bca2-934929952530)
 
-## Fagsamtale
+## _Fagsamtale_
 Samtaler faglæreren har hatt med eleven kan dokumenteres i iSkole. Når du har valgt vurderingsformen _Fagsamtale_, velger du _Dato_ og skriver et referat av samtalen. Eleven skal kvittere på fagsamtaler, slik at faglæreren vet at eleven har sett teksten.
 
 
-## Egenvurdering
+## _Egenvurdering_
 Det er ikke obligatorisk for elevene å gjøre egenvurdering i fagene, det styres av faglærerne hvorvidt det skal gjøres egenvurdering. Elevene kan skrive en vurdering av seg selv i forhold til dette faget. Elevens egenvurdering kan leses av faglæreren. Faglærer kan gi eleven tilbakemelding på egenvurderingen.
 
-## Orden- og atferd
+## _Orden- og atferd_
 Orden- og atferdsmerknader er merknader i forbindelse med brudd på skolens reglement. Faglærere kan navigere til eleven det gjelder via faget, kontaktlærere kan gå direkte til sine elever. Vurderinger lagt til her får en referanse knyttet til faget selv om merknaden som sådan er uavhengig av faget.
 
 Under kolonnen _Behandle_ har du to valg. Dersom merknad er lagt inn kan den tas frem, og eventuelt redigeres. Dersom ny merknad skal legges til, klikkes på +-tegnet.
