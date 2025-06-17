@@ -16,7 +16,7 @@ Velger nå faget ST2:TY1 1:
 
 ## Skal nå se på de fem undervalg
 
-### Alle elever
+### _Alle elever_
 **_Prøveliste_** viser prøver som allerede er registrert i faget. Her kan du endre på opplysninger om prøven, samt legge til karakterer og kommentarer på hver enkelt elev. 
 
 **_Fremtidige synlige prøver for elevene i gruppen_**: Dersom det allerede er registrert en prøve i et annet fag som eleven har, vil faget vises i denne utlistingen. Altså alle planlagte prøver hvor fagets elever er involvert. Her vises også navnet på hvilke elever det gjelder i det enkelte fag.
