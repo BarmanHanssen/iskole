@@ -49,7 +49,7 @@ Når elevene ser på sine prøveresultater vil vi beregne en gjennomsnittskarakt
 :::
 
 ## Enkeltelever
-Her kan du legge inn en enkeltvurdering av en elev. Her oppgis dato, karakter og en kommentar. Karakteren for enkeltvurderingen vises når du skal føre karakterer i faget.
+Her kan en legge inn en vurdering for en elev i det utvalgte faget. Her oppgis dato, karakter og en kommentar. Karakteren for enkeltvurderingen vises når du senere skal føre termin eller standpunktkarakterer i faget.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b8e98f50-f554-4fdd-bca2-934929952530)
 
