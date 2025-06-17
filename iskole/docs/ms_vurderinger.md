@@ -7,7 +7,7 @@ Her ser vi på hva faglærer har å forholde seg til.
 Vi opererer med fem forskjellige vurderingskategorier. 
 Elevene på sin side får tilgang til tilsvarende kategorier for å se, og til å kommentere/tilføye hva som er lagt inn av læreren.
 
-Første skjermbilde viser alle fag du som faglærer skal evaluere. Her fås oversikt over allerede planlagte prøver i dine fag. 
+Første skjermbilde viser alle fag som faglærer skal evaluere. Her fås oversikt over allerede planlagte prøver i dine fag. 
 
 ![bilde](https://github.com/user-attachments/assets/e7409d09-6c76-4f98-8571-f3b6d47ec6e2)
 
