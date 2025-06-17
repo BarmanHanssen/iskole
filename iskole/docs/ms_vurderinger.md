@@ -27,7 +27,7 @@ Velger faget ST2:TY1 1
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/7cf99e08-9560-44e0-ba95-bce77bb363e2)
 
-Klikk _Legg til prøve_. Velg dato prøven skal avholdes, eksempelvis ut fra fagetets timeplanen (her 10.06.2024), når den skal bli synlig for elevene, prøvens varighet og en beskrivelse (ikke prøveteksten!). Hvis antall dager settes til én vil iSkole behandle prøven som en heldagsprøve. Dette vil blandt annet gi deg mulighet til å føre fravær for denne prøven. 
+Klikk _Legg til prøve_. Velg dato prøven skal avholdes, eksempelvis ut fra fagetets timeplanen, når den skal bli synlig for elevene, prøvens varighet og en beskrivelse (ikke prøveteksten!). Hvis antall dager settes til én vil iSkole behandle prøven som en heldagsprøve. Dette vil blandt annet gi deg mulighet til å føre fravær for denne prøven. 
 
 Hvis du ønsker at elevene skal levere dokumenter i forbindelse med prøven i etterkant, kan du oppgi en innleveringsfrist. Elevene har mulighet til å levere flere dokumenter, og de kan levere inntil de har fått en karakter eller en kommentar. Hvis vurderingen settes etter innleveringsfristen, vil eleven ha mulighet til å levere, men innleveringsdatoen vil bli markert med rødt. 
 
@@ -50,21 +50,23 @@ Når elevene ser på sine prøveresultater vil vi beregne en gjennomsnittskarakt
 :::
 
 ## _Enkeltelever_
-Her kan en legge inn en vurdering for en elev i det utvalgte faget. Her oppgis dato, karakter og en kommentar. Karakteren for enkeltvurderingen vises når du senere skal føre termin eller standpunktkarakterer i faget.
+Her kan en legge inn en vurdering for en elev i det utvalgte faget. Oppgi dato, karakter og en kommentar. Karakteren for enkeltvurderingen vises når du senere skal føre termin eller standpunktkarakter i faget.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/b8e98f50-f554-4fdd-bca2-934929952530)
 
 ## _Fagsamtale_
-Samtaler faglæreren har hatt med eleven kan dokumenteres i iSkole. Når du har valgt vurderingsformen _Fagsamtale_, velger du _Dato_ og skriver et referat av samtalen. Eleven skal kvittere på fagsamtaler, slik at faglæreren vet at eleven har sett teksten.
+Samtaler faglæreren har hatt med eleven kan dokumenteres her. Velg elev og _Dato for samtalaen_ og skriv et referat av samtalen. Eleven skal lese referatet, og skal kvittere på det, slik at faglæreren kan kontrollere at eleven har sett teksten.
 
 
 ## _Egenvurdering_
 Det er ikke obligatorisk for elevene å gjøre egenvurdering i fagene, det styres av faglærerne hvorvidt det skal gjøres egenvurdering. Elevene kan skrive en vurdering av seg selv i forhold til dette faget. Elevens egenvurdering kan leses av faglæreren. Faglærer kan gi eleven tilbakemelding på egenvurderingen.
 
-## _Orden- og atferd_
-Orden- og atferdsmerknader er merknader i forbindelse med brudd på skolens reglement. Faglærere kan navigere til eleven det gjelder via faget, kontaktlærere kan gå direkte til sine elever. Vurderinger lagt til her får en referanse knyttet til faget selv om merknaden som sådan er uavhengig av faget.
+## _Orden- og oppførsel_
+Orden- og oppførselsmerknader noteres i forbindelse med brudd på skolens reglement. Faglærere kan navigere til eleven det gjelder via faget, kontaktlærere kan gå direkte til sine elever. Vurderinger lagt til her får en referanse knyttet til faget selv om merknaden som sådan er uavhengig av faget.
 
 Under kolonnen _Behandle_ har du to valg. Dersom merknad er lagt inn kan den tas frem, og eventuelt redigeres. Dersom ny merknad skal legges til, klikkes på +-tegnet.
 Merknaden blir også synlig for kontaklæreren fra menyvalget _Elever_, under fanen _Orden/atferd_. 
 
 Orden- og atferdsvurderinger som gjelder hendelser utenom timer, f.eks. friminutt eller studieøkter, føres av kontaktlærer og ansatte med rollen _Elevinspektør_ under menyvalget _Elever_.
+
+Elevene har fra sitt menyvalg  _Vurderinger>Orden/Oppførsel_ tilgang til alle merknadene som måtte være lagt. 
