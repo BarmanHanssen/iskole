@@ -22,7 +22,7 @@ Velger nå faget ST2:TY1 1:
 ### Alle elever
 **_Prøveliste_** viser prøver som allerede er registrert i faget. Her kan du endre på opplysninger om prøven, samt legge til karakterer og kommentarer på hver enkelt elev. 
 
-**_Fremtidige synlige prøver for elevene i gruppen_**: For å unngå å legge en prøve for nær en annen prøve, uansett fag, vises her allerede planlagte prøver for de involverte elevene.
+**_Fremtidige synlige prøver for elevene i gruppen_**: Dersom det allerede er registrert en prøve i et annet fag som eleven har, vil faget vises i denne utlistingen. Altså alle planlagte prøver hvor fagets elever er involvert. Her vises også navnet på hvilke elever det gjelder i det enkelte fag.
 
 **_Kompetansemål prøvet i faget_**: Teksten er hentet fra Udir og viser kompetansemålene som er nedfelt i fagplanen for faget. Når ny prøve planlegges, kan en huke av for hvilke kompetansemål prøven vil dekke. 
 
