@@ -69,4 +69,4 @@ Merknaden blir også synlig for kontaklæreren fra menyvalget _Elever_, under fa
 
 Orden- og atferdsvurderinger som gjelder hendelser utenom timer, f.eks. friminutt eller studieøkter, føres av kontaktlærer og ansatte med rollen _Elevinspektør_ under menyvalget _Elever_.
 
-Elevene har fra sitt menyvalg  _Vurderinger>Orden/Oppførsel_ tilgang til alle merknadene som måtte være lagt. 
+Eleven har fra sitt menyvalg  _Vurderinger>Orden/Oppførsel_ tilgang til alle merknadene som måtte være lagt på seg. 
