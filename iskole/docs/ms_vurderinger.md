@@ -15,9 +15,6 @@ Velger nå faget ST2:TY1 1:
 ![bilde](https://github.com/user-attachments/assets/9777a42c-7711-4dd4-9b52-242cd24df4d8)
 
 ## Skal nå se på de fem undervalg
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/061b7c46-5d5f-47f5-9ea8-d6bf3fff7ff6)
-
-
 
 ### Alle elever
 **_Prøveliste_** viser prøver som allerede er registrert i faget. Her kan du endre på opplysninger om prøven, samt legge til karakterer og kommentarer på hver enkelt elev. 
