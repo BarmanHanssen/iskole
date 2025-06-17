@@ -13,7 +13,7 @@ Første skjermbilde viser alle fag som faglærer skal evaluere. Her fås oversik
 
 ## Skal nå se på de fem undervalg
 
-Velger nå faget ST2:TY1 1:
+Velger faget ST2:TY1 1:
 
 ![bilde](https://github.com/user-attachments/assets/9777a42c-7711-4dd4-9b52-242cd24df4d8)
 
