@@ -19,7 +19,7 @@ Velger nå faget ST2:TY1 1:
 
 
 
-#### Alle elever
+### Alle elever
 **_Prøveliste_** viser prøver som allerede er registrert i faget. Her kan du endre på opplysninger om prøven, samt legge til karakterer og kommentarer på hver enkelt elev. 
 
 **_Fremtidige synlige prøver for elevene i gruppen_**: For å unngå å legge en prøve for nær en annen prøve, uansett fag, vises her allerede planlagte prøver for de involverte elevene.
