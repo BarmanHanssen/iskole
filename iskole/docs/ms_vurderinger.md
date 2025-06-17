@@ -11,11 +11,11 @@ Første skjermbilde viser alle fag som faglærer skal evaluere. Her fås oversik
 
 ![bilde](https://github.com/user-attachments/assets/e7409d09-6c76-4f98-8571-f3b6d47ec6e2)
 
+## Skal nå se på de fem undervalg
+
 Velger nå faget ST2:TY1 1:
 
 ![bilde](https://github.com/user-attachments/assets/9777a42c-7711-4dd4-9b52-242cd24df4d8)
-
-## Skal nå se på de fem undervalg
 
 ### _Alle elever_
 **_Prøveliste_** viser prøver som allerede er registrert i faget. Her kan du endre på opplysninger om prøven, samt legge til karakterer og kommentarer på hver enkelt elev. 
