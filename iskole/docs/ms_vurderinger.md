@@ -22,9 +22,9 @@ Velger nå faget ST2:TY1 1:
 #### Alle elever
 **_Prøveliste_** viser prøver som allerede er registrert i faget. Her kan du endre på opplysninger om prøven, samt legge til karakterer og kommentarer på hver enkelt elev. 
 
-_Fremtidige synlige prøver for elevene i gruppen_: For å unngå å legge en prøve for nær en annen prøve, uansett fag, vises her allerede planlagte prøver for de involverte elevene.
+**_Fremtidige synlige prøver for elevene i gruppen_**: For å unngå å legge en prøve for nær en annen prøve, uansett fag, vises her allerede planlagte prøver for de involverte elevene.
 
-_Kompetansemål prøvet i faget_: Teksten er hentet fra Udir og viser kompetansemålene som er nedfelt i fagplanen for faget. Når ny prøve planlegges, kan en huke av for hvilke kompetansemål prøven vil dekke. 
+**_Kompetansemål prøvet i faget_**: Teksten er hentet fra Udir og viser kompetansemålene som er nedfelt i fagplanen for faget. Når ny prøve planlegges, kan en huke av for hvilke kompetansemål prøven vil dekke. 
 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/7cf99e08-9560-44e0-ba95-bce77bb363e2)
