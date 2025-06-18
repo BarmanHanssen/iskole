@@ -16,6 +16,8 @@ Velger her faget **ST2:TY1 1** og får frem dette skjermbilde:
 
 ![bilde](https://github.com/user-attachments/assets/9777a42c-7711-4dd4-9b52-242cd24df4d8)
 
+Vi omtaler det fem undervalgene i rekkefølge, og starter da med
+
 ### _Alle elever_
 **_Prøveliste_** viser prøver som allerede er registrert i faget. Her kan du endre på opplysninger om prøven, samt legge til karakterer og kommentarer på hver enkelt elev. 
 
