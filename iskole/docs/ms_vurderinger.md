@@ -3,8 +3,7 @@ id: ms_vurderinger
 title: Vurderinger
 sidebar_label: Vurderinger
 ---
-Her ser vi på hva faglærer har å forholde seg til. 
-Vi opererer med fem forskjellige vurderingskategorier. 
+Her ser vi på hvilke vurderinger faglærer kan kunne dokumentere. Vi har fem forskjellige vurderingskategorier. 
 Elevene på sin side får tilgang til tilsvarende kategorier for å se, og til å kommentere/tilføye hva som er lagt inn av læreren.
 
 Første skjermbilde viser alle fag som faglærer skal evaluere. Her fås oversikt over allerede planlagte prøver i dine fag. 
