@@ -6,7 +6,7 @@ sidebar_label: Vurderinger
 Her ser vi på hvilke vurderinger faglærer kan kunne dokumentere. Vi har fem forskjellige vurderingskategorier. 
 Elevene på sin side får tilgang til tilsvarende kategorier for å se, og til å kommentere/tilføye hva som er lagt inn av læreren.
 
-Første skjermbilde viser alle fag som faglærer skal evaluere. 
+Første skjermbilde viser alle fag som faglærer skal kunne evaluere. 
 
 ![bilde](https://github.com/user-attachments/assets/e7409d09-6c76-4f98-8571-f3b6d47ec6e2)
 
