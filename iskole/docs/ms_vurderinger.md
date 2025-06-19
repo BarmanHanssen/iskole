@@ -33,7 +33,7 @@ Velg dato prøven skal avholdes. Dersom prøven skal holdes i en timeplanlagt ti
 
 Hvis du ønsker at elevene skal levere dokumenter i forbindelse med prøven i etterkant, kan du oppgi en innleveringsfrist. 
 
-Klikk _Lagre prøve_. Du får nå opp _Prøveliste_ på nytt, og kan nå _Behandle_ prøven videre:
+Klikk _Lagre prøve_. Du får nå opp _Prøveliste_ på nytt, og kan nå **_Behandle_** prøven videre:
 
 Nå kan du spesifisere hvilke kompetansemål prøven dekke, og nå kan også selve prøveteksen legges til som et vedlegg.
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/fc0a13df-daac-4cf1-a841-5a60cec54987)
