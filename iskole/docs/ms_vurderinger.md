@@ -28,15 +28,16 @@ Vi omtaler de fem undervalgene i rekkefølge, og starter da med
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/7cf99e08-9560-44e0-ba95-bce77bb363e2)
 
-Klikk _Legg til prøve_. Velg dato prøven skal avholdes, eksempelvis ut fra fagetets timeplanen, når den skal bli synlig for elevene, prøvens varighet og en beskrivelse. Hvis antall dager settes til én vil iSkole behandle prøven som en heldagsprøve.  
+Klikk _Legg til prøve_. 
 
-Hvis du ønsker at elevene skal levere dokumenter i forbindelse med prøven i etterkant, kan du oppgi en innleveringsfrist. Elevene har mulighet til å levere flere dokumenter, og de kan levere inntil de har fått en karakter eller en kommentar. Hvis vurderingen settes etter innleveringsfristen, vil eleven ha mulighet til å levere, men innleveringsdatoen vil bli markert med rødt. 
+Velg dato prøven skal avholdes. Dersom prøven skal holdes i en timeplanlagt time, markeres det direkte på timeplanen. Heldagsprøver markeres med dato, og varighet 1 dag. Innleveringsoppgaver med flere dagers vaarighet angsis med startdato, og varighet i antall dager. Fag og prøvedato vil vises på første linje på elevens timeplan vil, men ikke før prøven skal bli synlig.
+
+Hvis du ønsker at elevene skal levere dokumenter i forbindelse med prøven i etterkant, kan du oppgi en innleveringsfrist. 
 
 Klikk _Lagre prøve_. Du får nå opp _Prøveliste_ på nytt, og kan nå _Behandle_ prøven videre:
 
 Nå kan du spesifisere hvilke kompetansemål prøven dekke, og nå kan også selve prøveteksen legges til som et vedlegg.
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/fc0a13df-daac-4cf1-a841-5a60cec54987)
-
 
 :::info Merk
 Hvis det ikke velges noen dato i feltet _Resultater vises fra_ vil resultatene vises for eleven så snart de er innført.
