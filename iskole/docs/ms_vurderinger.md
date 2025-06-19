@@ -60,7 +60,7 @@ Samtaler faglæreren har hatt med eleven kan dokumenteres her. Velg elev og _Dat
 
 
 ## _Egenvurdering_
-Det er ikke obligatorisk for elevene å gjøre egenvurdering i fagene, det styres av faglærerne hvorvidt det skal gjøres egenvurdering. Elevene kan skrive en vurdering av seg selv i forhold til dette faget. Elevens egenvurdering kan leses av faglæreren. Faglærer kan gi eleven tilbakemelding på egenvurderingen.
+Faglærerne betemmer hvorvidt det skal kunne inngå egenvurdering. I så fall kan elevene skrive en vurdering av seg selv i forhold til dette faget. Elevens egenvurdering kan leses av faglæreren og faglærer kan gi tilbakemelding på egenvurderingen.
 
 ## _Orden- og oppførsel_
 Orden- og oppførselsmerknader noteres i forbindelse med brudd på skolens reglement. Faglærere kan navigere til eleven det gjelder via faget, kontaktlærere kan gå direkte til sine elever. Vurderinger lagt til her får en referanse knyttet til faget selv om merknaden som sådan er uavhengig av faget.
@@ -68,6 +68,6 @@ Orden- og oppførselsmerknader noteres i forbindelse med brudd på skolens regle
 Under kolonnen _Behandle_ har du to valg. Dersom merknad er lagt inn kan den tas frem, og eventuelt redigeres. Dersom ny merknad skal legges til, klikkes på +-tegnet.
 Merknaden blir også synlig for kontaklæreren fra menyvalget _Elever_, under fanen _Orden/atferd_. 
 
-Orden- og atferdsvurderinger som gjelder hendelser utenom timer, f.eks. friminutt eller studieøkter, føres av kontaktlærer og ansatte med rollen _Elevinspektør_ under menyvalget _Elever_.
+Orden- og atferdsvurderinger som gjelder hendelser utenom timer, f.eks. friminutt eller studieøkter, føres av kontaktlærer og ansatte med rollen _Elevinspektør_ fra menyvalget _Elever_.
 
-Eleven har fra sitt menyvalg  _Vurderinger>Orden/Oppførsel_ tilgang til alle merknadene som måtte være lagt på seg. 
+Eleven har fra sitt menyvalg  _Vurderinger>Orden/Oppførsel_ tilgang til slike merknader. 
