@@ -29,7 +29,6 @@ Vi omtaler de fem undervalgene i rekkefølge, og starter da med
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/7cf99e08-9560-44e0-ba95-bce77bb363e2)
 
 Klikk _Legg til prøve_. 
-
 Velg dato prøven skal avholdes. Dersom prøven skal holdes i en timeplanlagt time, markeres det direkte på timeplanen. Heldagsprøver markeres med dato, og varighet 1 dag. Innleveringsoppgaver med flere dagers varighet angsis med startdato, og varighet i antall dager. Fag og prøvedato vil vises på første linje på elevens timeplan vil, men ikke før prøven skal bli synlig.
 
 Hvis du ønsker at elevene skal levere dokumenter i forbindelse med prøven i etterkant, kan du oppgi en innleveringsfrist. 
