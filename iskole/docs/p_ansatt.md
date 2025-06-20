@@ -14,7 +14,7 @@ Velges Ansatt, får vi frem oversikt over ansatte som alt er registrert ved skol
 ![image](https://github.com/user-attachments/assets/222d614f-2ff1-451d-ad3b-c4b0f19b48c9)
 
 Dersom ny ansatt skal registreres starter vi her:
-![image](https://github.com/user-attachments/assets/96fca24a-8326-4373-a26e-eac0cfaac6a9)
+![bilde](https://github.com/user-attachments/assets/74e1cacd-ff51-4d96-b7dc-07563555298e)
 
 Her må alt fylles ut for å få lagret dataene.
 - _Brukernavn (kort)_: Bynytte blant annet på timeplanen. Maks tre tegn, ofte en (eller to) bokstaver fra fornavn og to (eller en) bokstav fra etternavnet. Kortnavnet blir kontrollert mot allerede kortnavn i bruk ved skolen slik at kortnavnet er unikt. Kan endres dersom nytt kortnavn er unikt.
