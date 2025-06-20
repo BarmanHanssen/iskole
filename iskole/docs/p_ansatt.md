@@ -27,7 +27,7 @@ Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns
  
 - _Fornavn/Etternavn_ må registreres, og kan endres.
 
-Da er første del av dataene lagt inn, men flere data må på plass før den nyansatte kan gis oppdrag, og for å kunne bruke av iSkole.
+Da er første del av dataene lagt inn, men flere data må på plass før den nyansatte kan gis oppdrag, og for å kunne logge inn på iSkole.
 
 Klikk på ![image](https://github.com/user-attachments/assets/7dae50c6-0c7b-4133-a0f1-5251518ad852)
 
@@ -35,7 +35,7 @@ Klikk på den nytilsatte. Da fås dette bilde:
 
 ![image](https://github.com/user-attachments/assets/394cfa0f-081d-4c98-8f72-d1fbcebfc272)
 
-Vi anbefaler minimum å fylle inn disse feltene i det grønne delen:
+Her er det mye data som etterspørres. Ikke alt må legges inn med en gang. Vi anbefaler minimum å fylle inn disse feltene i det grønne delen:
 - _E-post arbeid_
 - _Mobil_
 
