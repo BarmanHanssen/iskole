@@ -9,7 +9,7 @@ Her er første skjermbilde for de som har tilgang til dette menyvalget:
 
 ### Ansatt
 
-Velges Ansatt, får vi frem oversikt over alle ansatte som er registrert ved skolen. 
+Velges Ansatt, får vi frem oversikt over ansatte som alt er registrert ved skolen. 
 
 ![image](https://github.com/user-attachments/assets/222d614f-2ff1-451d-ad3b-c4b0f19b48c9)
 
