@@ -40,7 +40,7 @@ Her er det mye data som etterspørres. Ikke alt må legges inn med en gang. Vi a
 - _E-post arbeid_
 - _Mobil_
 
-Under **Diverse** er det avhukes for Eksport og Jubileum. Fra menyvalget _Rapporter_ kan en liste ut alle ansatte som i inneværende år runder 40, 40, 60, eller 70 år. Dersom en ansatt ikke ønsker å komme på denne listen, kan det markeres her.
+Under **Diverse** kan det avhukes for Eksport og Jubileum. Fra menyvalget _Rapporter_ kan en liste ut alle ansatte som i inneværende år runder 40, 40, 60, eller 70 år. Dersom en ansatt ikke ønsker å komme på denne listen, markeres det her.
 
 Klikk på _Lagre_ før du fortsetter på den nedre del av skjermbildet.
 
