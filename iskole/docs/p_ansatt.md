@@ -25,7 +25,7 @@ Her må alt fylles ut for å få lagret dataene.
 Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med dette fødselsnummer i vår database. Dersom personen har vært elev, eller ansatt, ved en skole som bruker iSkole, vil for- og etternavn hentes frem og automtisk fylles inn. 
 :::
  
-- _Fornavn/Etternavn_ må selvsagt også registreres, og kan endres.
+- _Fornavn/Etternavn_ må registreres, og kan endres.
 
 Da er første del av dataene lagt inn, men flere data må på plass før den nyansatte kan gis oppdrag, og for selv å  kunne bruke av iSkole.
 
