@@ -31,7 +31,7 @@ Da er første del av dataene lagt inn, men flere data må på plass før den nya
 
 Klikk på ![image](https://github.com/user-attachments/assets/7dae50c6-0c7b-4133-a0f1-5251518ad852)
 
-Finn frem til den nytilsatte, og klikk på _Rediger_. Da fås dette bilde:
+Klikk på den nytilsatte. Da fås dette bilde:
 
 ![image](https://github.com/user-attachments/assets/394cfa0f-081d-4c98-8f72-d1fbcebfc272)
 
