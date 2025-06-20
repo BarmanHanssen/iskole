@@ -39,17 +39,18 @@ Her er det mye data som etterspørres. Ikke alt må legges inn med en gang. Vi a
 - _E-post arbeid_
 - _Mobil_
 
+  Klikk på _Lagre_ før du fortsetter på den nedre del av skjermbildet.
+
 ### Ansettelse og ansiennitet
 
 _Ansettelse_
-- Startdato: Vedkommende får ikke tilgang til iSkole før etter denne datoen.
-- Sluttdato: Kan stå blankt inntil videre. Når dato er innført vil vedkommende miste tilgang til iSkole etter denne datoen. 
+- Startdato: Vedkommende får ikke tilgang til iSkole før denne datoen er passert.
+- Sluttdato: Kan stå blankt inntil videre. Når dato er innført, og passert, vil vedkommende miste tilgang til iSkole. 
 - Pedagogisk ansatt: Hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.
 
 _Ansiennitet/Funksjonstillegg/Lønnsplasering_
 
 Dette er nøkkeltall dersom iSkole benyttes til budsjettering/lønn.
-
 
 ### Undervisningsfag
 
