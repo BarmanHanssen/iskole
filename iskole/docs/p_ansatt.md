@@ -27,7 +27,7 @@ Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns
  
 - _Fornavn/Etternavn_ må registreres, og kan endres.
 
-Da er første del av dataene lagt inn, men flere data må på plass før den nyansatte kan gis oppdrag, og for selv å  kunne bruke av iSkole.
+Da er første del av dataene lagt inn, men flere data må på plass før den nyansatte kan gis oppdrag, og for å kunne bruke av iSkole.
 
 Klikk på ![image](https://github.com/user-attachments/assets/7dae50c6-0c7b-4133-a0f1-5251518ad852)
 
