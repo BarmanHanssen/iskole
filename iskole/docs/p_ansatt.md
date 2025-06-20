@@ -14,6 +14,7 @@ Velges Ansatt, får vi frem oversikt over ansatte som alt er registrert ved skol
 ![image](https://github.com/user-attachments/assets/222d614f-2ff1-451d-ad3b-c4b0f19b48c9)
 
 Dersom ny ansatt skal registreres starter vi her:
+
 ![bilde](https://github.com/user-attachments/assets/74e1cacd-ff51-4d96-b7dc-07563555298e)
 
 Her må alt fylles ut for å få lagret dataene.
