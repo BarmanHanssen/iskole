@@ -64,4 +64,4 @@ Her fås prøver som er lagt inn med varighet på en dag, eller mer.
 
 ## Elevkollisjoner
 I utgangspunktet skal timeplanen legges slik at det ikke forkommer kollisjoner, eksempelvis på lærers eller elevs timeplan.
-Det er imidlertid åpnet for å kunne timeplanlegge med kollisjoner for elever. Det er timeplanlegger som må godkjenne dette. Rapporten viser dato og tid og hvilke fag på elevens timeplan som er timeplanlagt på samme tid. Dersom kollisjon må det avtales med eleven hvilket fag som skal følges.
+Det er imidlertid åpnet for å kunne timeplanlegge med kollisjoner på elevens timeplan. Det er timeplanlegger som må godkjenne dette. Rapporten viser dato og tid og hvilke fag på elevens timeplan som er timeplanlagt på samme tid. Dersom kollisjon må det avtales med eleven hvilket fag som skal følges.
