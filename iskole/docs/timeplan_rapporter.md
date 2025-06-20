@@ -33,7 +33,7 @@ Se skjermbildet ovenfor. Her står gruppen ST1:FR1 1 uten elever og uten timepla
 **_Timer_** er sum timeplangte klokketimer.
 **_Avlyst/Fradrag_** er korrigeringer faglærer gjør i løpet av skoleåret. 
 **_Sum_** betår da av  _Timer_ minus (_Avlyst_ + _Fradrag_).
-**_Avvik_** er _Omfang_ minus _Sum_.
+**_Avvik_** er _Sum_ minus _Omfang_.
 
 Dersom noen fag er delt, vises en oversikt helt til slutt:
 
