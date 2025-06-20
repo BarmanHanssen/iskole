@@ -46,7 +46,8 @@ Her er det mye data som etterspørres. Ikke alt må legges inn med en gang. Vi a
 
 _Ansettelse_
 - Startdato: Vedkommende får ikke tilgang til iSkole før denne datoen er passert.
-- Sluttdato: Kan stå blankt inntil videre. Når dato er innført, og passert, vil vedkommende miste tilgang til iSkole. 
+- Sluttdato: Kan stå blankt inntil videre. Når dato er innført, og passert, vil vedkommende miste tilgang til iSkole.
+- Prosent: Stillingsstørrelsen til den ansatte angitt i prosent.
 - Pedagogisk ansatt: Hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.
 
 _Ansiennitet/Funksjonstillegg/Lønnsplasering_
