@@ -56,7 +56,7 @@ Dette er nøkkeltall dersom iSkole benyttes til budsjettering/lønn.
 
 ### Undervisningsfag
 
-Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer. (Begrenser ikke oppdrag læreren kan pålegges. Tabellen fylles atomatisk opp med fag som læreren får tildelt fra _Time- og fagfordeling_, og kan eventuelt justeres herfra.) Fagene her gjør det lettere å finne kompenent lærer når time- og fagfordelingen skal settes opp.
+Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer.  Tabellen fylles atomatisk opp med fag som læreren får tildelt fra _Time- og fagfordeling_, Fagene her gjør det lettere å finne kompetent lærer når time- og fagfordelingen skal settes opp. Men fagene innført her begrenser ikke oppdrag læreren kan pålegges.
 
 ### Fravær
 
