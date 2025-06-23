@@ -21,7 +21,7 @@ Dersom du er redaktør, klikk på _+ Nytt notat_, og dette skjermbilde vises:
 
 Merk at du kan kopiere inn andre ting enn ren tekst, som figurer/bilder fra et utklippsverktøy.
 
-Dersom du ikke huker av for _Bare for ansatte_, vil oppslaget være synlig for alle brukere av iSkole. 
+Dersom du ikke huker av for _Bare for ansatte_, vil oppslaget være synlig også for elevene.
 
 ## Endre og slette
-Aktive oppslag du har opprettet nås fra menyvalget _Oppslagstave_. Redaktørens innaktive oppslag er tilgjengelig under linken _Vis meddelelser utenfor publiseringstiden_. Hvis du ønsker at et utgått oppslag skal vises på nytt, endrer du _Utgår_ til en ny dato. Hvis du ønsker å endre eller slette oppslaget, bruk linkene under det aktuelle oppslaget. 
+Aktive oppslag du har opprettet nås fra menyvalget _Oppslagstave_. Redaktørens inaktive oppslag er tilgjengelig under linken _Vis meddelelser utenfor publiseringstiden_. Hvis du ønsker at et utgått oppslag skal vises på nytt, endrer du _Utgår_ til en ny dato. Hvis du ønsker å endre eller slette oppslaget, bruk linkene under det aktuelle oppslaget. 
