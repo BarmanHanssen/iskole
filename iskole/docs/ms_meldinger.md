@@ -45,14 +45,14 @@ Her vises en kronologisk liste over sendte meldinger. Dersom en dato står i par
 
 
 ## SMS
-Adresselisten for SMS er bygget på samme måte som ved sending av melding, men i tillegg vises personens telefonnummer bak navnet. SMS faktureres per melding, under tekstfeltet vises derfor antall tegn meldingen består av og hvor mange meldinger dette vil utgjøre.
+Adresselisten for SMS er bygget på samme måte som ved sending av melding, men i tillegg vises personens telefonnummer bak navnet. SMS faktureres per melding . Under tekstfeltet vises derfor antall tegn meldingen består av, og hvor mange meldinger dette vil utgjøre.
 
 :::info Merk
 En ny meldingen sendes bare en gang til et mobilnummer, selv om nummeret er registrert på eksempelvis både elev og foresatt.
 :::
 
 :::info Merk 2
-SMS forutsetter avtale med iSkole om sending av SMS. 
+SMS forutsetter avtale med iSkole om sending av SMS. (I 2025: 64 øre per melding.)
 :::
 
 ### Mine sendte SMS
