@@ -5,7 +5,7 @@ sidebar_label: Meldinger
 ---
 
 ![bilde](/img/ms_meldinger_innboks.png 'Innboks')
-Meldinger kan sendes fra iSkole til alle elever, ansatte og til registrerte foreldre til elever. Meldinger kan sendes internt, altså bare synlig fra iSkole, eller via mobiltelefon. Merk at skolen må åpne for SMS-meldinger, da disse medfører ekstra kostnad for skolen.
+Meldinger kan sendes fra iSkole til alle elever, ansatte og til registrerte foreldre til elever. Meldinger kan sendes internt, altså bare synlig fra iSkole, eller via mobiltelefon. Merk at skolen må åpne for SMS-meldinger, da disse vil medfører ekstra kostnad for skolen på 64 øre per sendte melding i 2025.
 
 ### Innboks
 Tabellen viser alle meldinger du har mottatt. Uleste meldinger vises med fet skrift og kulepunkt. Klikk på meldingen du ønsker å lese. Når du leser en melding, vil avsenderen kunne se dette under fanen _Sendt_.
@@ -52,7 +52,7 @@ En ny meldingen sendes bare en gang til et mobilnummer, selv om nummeret er regi
 :::
 
 :::info Merk 2
-SMS forutsetter avtale med iSkole om sending av SMS. (I 2025: 64 øre per melding.)
+SMS forutsetter avtale med iSkole om sending av SMS. 
 :::
 
 ### Mine sendte SMS
