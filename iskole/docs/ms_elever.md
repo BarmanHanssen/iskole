@@ -4,7 +4,7 @@ title: Elever
 sidebar_label: Elever
 ---
 
-Siden inneholder faner for _Kontaktelever, Søk etter elev_ og _Elever i mine fag_. Felles for alle fanene er at de leder videre til detaljert informasjon om den enkelte elev. Her vise blant annet elevens personalia, timeplan, fravær og orden/atferd. Kontaktlærer og elevadministrasjon ser i tillegg vurderinger, samtaler, resultater, eksamener og brev. 
+Siden inneholder faner for _Kontaktelever, Søk etter elev_ og _Elever i mine fag_. Felles for alle fanene er at de leder videre til detaljert informasjon om den enkelte elev. Her vise blant annet elevens personalia, timeplan, fravær og orden/atferd. Kontaktlærer og elevadministrasjon ser i tillegg vurderinger, samtaler, resultater, eksamener, brev og programfag. 
 
 
 # Kontaktelever
