@@ -5,6 +5,7 @@ sidebar_label: Meldinger
 ---
 
 ![bilde](/img/ms_meldinger_innboks.png 'Innboks')
+Meldinger kan sendes fra iSkole til alle elever, ansatte og til registrerte foreldre til elever. Meldinger kan sendes internt, altså bare synlig fra iSkole, eller via mobiltelefon. Merk at skolen må åpne for SMS-meldinger, da disse medfører ekstra kostnad for skolen.
 
 ### Innboks
 Tabellen viser alle meldinger du har mottatt. Uleste meldinger vises med fet skrift og kulepunkt. Klikk på meldingen du ønsker å lese. Når du leser en melding, vil avsenderen kunne se dette under fanen _Sendt_.
