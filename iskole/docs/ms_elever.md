@@ -25,7 +25,7 @@ For å begrense utvalget kan en  søke på klasse, navn eller elevnr. Første sk
 
 Ved å dobbeltklikke på en elev fås frem flere data til eleven. Hvilke data fremgår av kolonneoverskriftene.
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/cdd6bf2a-a20a-4cac-b984-810000709a64)
+![bilde](https://github.com/user-attachments/assets/c2408048-3b70-4dfd-8311-76b18f07a3e4)
 
 # Elever i mine fag
 Her velger faglærer et av sine fag og får da frem alle elevene som følger faget. Faglærer har tilgang til de samme data for sine elever som anført ovenfor.
