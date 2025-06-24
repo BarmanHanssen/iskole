@@ -15,7 +15,7 @@ Hvis du er kontaktlærer vil dine kontaktelever vises i fanen _Kontaktelever_. K
 
 
 ### Vikar/assistent for mine kontaktelever
-Som kontaktlærer kan du legge til vikarer eller assistenter for en spesifisert periode. Disse vil få de samme rettighetene som kontaktlæreren har.
+Er du kontaktlærer kan du legge til vikarer eller assistenter for en spesifisert periode. Disse vil få de samme rettighetene som kontaktlæreren har.
 
 Ved å dobbel-klikke på en elev kan en få frem data under disse kolonnene:
 
