@@ -16,7 +16,8 @@ Er du kontaktlærer kan du her legge til vikarer eller assistenter for en spesif
 Faglærere og kontaktlærere vil få frem sine elever, mens administrasjonen, rådgivere osv. vil få frem alle elever ved skolen.
 For å begrense utvalget kan en  søke på klasse, navn eller elevnr. Første skjermbilde ser slik ut:
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/7ab12549-eca8-4405-9dcc-82d436ffb712)
+![bilde](https://github.com/user-attachments/assets/384a4804-a287-47c1-90d4-f8fa6004c101)
+
 
 Ved å dobbeltklikke på en elev fås frem flere data til eleven. Hvilke data fremgår av kolonneoverskriftene.
 
