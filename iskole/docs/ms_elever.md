@@ -24,3 +24,4 @@ Ved å dobbeltklikke på en elev fås frem flere data til eleven. Hvilke data fr
 
 # Elever i mine fag
 Her velger faglærer et av sine fag og får da frem alle elevene som følger faget. Faglærer har tilgang til de samme data for sine elever som anført ovenfor.
+ 
