@@ -10,7 +10,7 @@ Det er halvårskarakterene som skal settes her.
 
 Faglærer får opp alle sine fag hvor karakter skal inngå, altså fag med fagkode forskjellig fra 999999. 
 
-Karakterer kan ikke innføres før det er gitt tilgang til innføring (se _Tilgang>Karakterer_). Datoene er oppført under tabellen med elevene i faget. Tidspunkt for når karakterene blir synlige for elevene vises også. 
+Karakterer kan ikke innføres før det er gitt tilgang til innføring (se _Tilgang>Karakterer_). Disse datoene er oppført under tabellen med elevene i faget. Tidspunkt for når karakterene blir synlige for elevene vises også. 
 
 For hvert fag fås en tabell med elevene i faget, hvilken fagkode eleven har i dette faget, prosent udokumentert fravær, eventuelle  egenvurderinger og vurderinger. Hvis det er elever med avvikende fagkode hvor noen skal ha karakter for 2. halvår og noen standpunkt, vil karakteren bokføres der den hører hjemme. Fraværsprosenten er elevenes totale fravær for aktuell fagkode beregnet mot fagets omfang (årstimetallet).
 
