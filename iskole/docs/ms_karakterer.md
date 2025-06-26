@@ -3,6 +3,7 @@ id: ms_karakterer
 title: Karakterer
 sidebar_label: Karakterer
 ---
+Det er halvårskarakterene som skal settes her
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/f7049af8-46f1-4e69-acfa-028f7c8c340a)
 
