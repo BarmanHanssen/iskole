@@ -7,10 +7,7 @@ Her vises en del "ikke-faglige" data tilhørende den enkelte elev. Kontaktlærer
 
 # Kontaktelever
 
-Hvis du er kontaktlærer vil dine kontaktelever vises i fanen _Kontaktelever_. Kolonnene _Sist innlogget_ viser når eleven og foresatte sist var innlogget, dette indikerer om elev/foresatt er aktive brukere av iSkole.
-
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/52845f35-019d-4af3-b612-b0841d4f4e0f)
-
 
 ### Vikar/assistent for mine kontaktelever
 Er du kontaktlærer kan du legge til vikarer eller assistenter for en spesifisert periode. Disse vil få de samme rettighetene som kontaktlæreren har.
