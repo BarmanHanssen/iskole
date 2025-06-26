@@ -10,7 +10,7 @@ Her vises en del data tilhørende den enkelte elev. Kontaktlærer finner alle si
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/52845f35-019d-4af3-b612-b0841d4f4e0f)
 
 ### Vikar/assistent for mine kontaktelever
-Er du kontaktlærer kan du legge til vikarer eller assistenter for en spesifisert periode. Disse vil få de samme rettighetene som kontaktlæreren har.
+Er du kontaktlærer kan du her legge til vikarer eller assistenter for en spesifisert periode. Disse vil få de samme rettighetene som kontaktlæreren har.
 
 # Søk etter elev
 Faglærere og kontaktlærere vil få frem sine elever, mens administrasjonen, rådgivere osv. vil få frem alle elever ved skolen.
