@@ -3,7 +3,7 @@ id: ms_elever
 title: Elever
 sidebar_label: Elever
 ---
-Her vises en del "ikke-faglige" data tilhørende den enkelte elev. Kontaktlærer finner alle sine kontaktelever, faglærerne finner alle sine elever og rektor/administrator finner alle skolens elever fra _Søk etter elev_.
+Her vises en del data tilhørende den enkelte elev. Kontaktlærer finner alle sine kontaktelever, faglærerne finner alle sine elever og rektor/administrator finner alle skolens elever fra _Søk etter elev_.
 
 # Kontaktelever
 
