@@ -19,11 +19,11 @@ Rapportene som genereres her er varselbrev som sendes til elevene det gjelder. M
 3. Samlerapport for kontaktlærer
 4. Varsel sendt i mine fag
 
-Man kan generere varsel om fare for nedsatt karakter i orden og/eller oppførsel. Felles for varslene er at man må fylle ut et standard skjema før man genererer varselet. Her må det velges om varselet skal gjelde for halvår eller standpunkt, hvilken karakter som står i fare for å bli nedsatt og hva den kan bli nedsatt til og kommentar. For Nordland føres også antall anmerkninger.
+Kontaktlærer kan generere varsel om fare for nedsatt karakter i orden og/eller oppførsel. Felles for varslene er at man må fylle ut et standard skjema før man genererer varselet. Her må det velges om varselet skal gjelde for halvår eller standpunkt, hvilken karakter som står i fare for å bli nedsatt og hva den kan bli nedsatt til og kommentar.
 
 ### Generer varsel
 Klikk Generer varsel. Varselbrevet blir nå generert og lagret i databasen. Varselbrevet vises i tabellen under varsler. Eleven vil på dette tidspunkt ikke se varselbrevet. Du har nå mulighet til å laste ned og se over brevet før det sendes til eleven. Det er ennå mulig å slette brevet hvis du vil endre på noe.
-I varselbrevet vises antall anmerkninger i orden og i atferd. Disse legges inn av faglærer fra menyvalget Vurderinger, eller av kontaktlærer/elevinspektør fra menyvalget _Elever_. Se dokumentasjonen under menyvalget _Om iSkole_. Antall timemerknarder er gitt i forbindelse med fraværsføring og føres under menyvalget _Fravær_. Alle tall gjelder for det halvåret som du velger at varselet skal gjelde for. (Nordland benytter ikke anmerkninger under menyvalget _Vurderinger_.)
+I varselbrevet vises antall anmerkninger i orden og i atferd. Disse legges inn av faglærer fra menyvalget _Vurderinger_, eller av kontaktlærer/elevinspektør fra menyvalget _Elever_. Se dokumentasjonen under menyvalget _Om iSkole_. Antall timemerknarder er gitt i forbindelse med fraværsføring og føres under menyvalget _Fravær_. Alle tall gjelder for det halvåret som du velger at varselet skal gjelde for.
 
 ### Send varsel
 Klikk _Send_ for å sende varselbrevet til eleven. Ved å klikke _OK_ i vinduet som kommer opp, gjøres varselbrevet tilgjengelig for eleven. Det sendes automatisk en intern melding i iSkole som varsler eleven. Hvis eleven og foreldre for umyndige elever har registrert e-postadresse og samtykket i elektronisk varsling, vil de motta en e-post som forteller at varselbrevet er tilgjengelig på iSkole. Etter at varselbrevet er sendt, er det ikke lenger mulig å slette det.
