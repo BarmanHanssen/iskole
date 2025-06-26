@@ -7,7 +7,7 @@ sidebar_label: IOP
 ## Generelt
 iSkole kan benyttes for å håndtere hele søknadsprosessen i forbindelse med IOP. Løsningen sikrer at kun lærere som har behov for tilgang til elevens IOP har tilgang til denne. For å redusere antall IOP-dokumenter som kan komme på avveie er det i utgangspunktet kun IOP-ansvarlige som har mulighet til å laste ned IOP-dokumenter fra iSkole, men det er mulig å tillate nedlasting for flere på det enkelte dokument. Lærerne både leser og skriver alt som har med IOPen direkte i iSkole. Kort beskrivelse av oppgaveflyten:
 1. Skolen oppretter elevens søknad om IOP. Dette inkluderer fagene det søkes om og vedlegg som dokumenterer behovet for IOP.
-2. Eleven, eller foresatte til elever som ikke er myndige godkjenner søknaden ved å logge inn på iSkole.
+2. Eleven, eller foresatte til elever som ikke er myndige, godkjenner søknaden ved å logge inn på iSkole.
 3. Skolen oppretter en felles søknad for skolen og legger til de elevene som denne søknaden skal omfatte. Skolen laster ned en PDF med alle elevenes IOP-søknader inkludert vedlegg.
 4. Skolen mottar vedtak fra fylket/kommunen.
 5. Basert på vedtak om IOP registrerers elevstatus Spesialundervisning.
