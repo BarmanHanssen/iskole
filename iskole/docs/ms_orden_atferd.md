@@ -4,7 +4,7 @@ title: Orden/adferd
 sidebar_label: Orden/adferd
 ---
 
-Det er kontaktlærer og kontaktlærervikar som fører orden og adferd på sine kontaktelever. Anmerkninger ført fra menyvalgene _Vurderinger_ eller _Elever_ telles opp i tabellen. Gå til menyvalget _Elever_, vis detaljer for en elev og arkfanen _Orden/adferd_ for å se anmerkningene. Systemet avgjør automatisk om det skal settes karakter for 2. halvår eller standpunkt. 
+Det er kontaktlærer og kontaktlærervikar som fører orden og adferd på sine kontaktelever. Anmerkninger ført av faglærerne fra menyvalgene _Vurderinger_ eller _Elever_ telles opp i tabellen. Gå til menyvalget _Elever_, vis detaljer for en elev og arkfanen _Orden/oppførsel_ for å se anmerkningene. Systemet avgjør automatisk om det skal settes karakter for 2. halvår eller standpunkt. 
 
 Det er mulig å begrunne karakterene under fanene _Begrunnelse 1. halvår_ og _Årsmerknad_.
 
