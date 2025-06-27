@@ -65,6 +65,8 @@ Faglærerne betemmer hvorvidt det skal kunne inngå egenvurdering. I så fall ka
 ## _Orden- og oppførsel_
 Orden- og oppførselsmerknader noteres i forbindelse med brudd på skolens reglement. Faglærere kan navigere til eleven det gjelder via faget, kontaktlærere kan gå direkte til sine elever. Vurderinger lagt til her får en referanse knyttet til faget selv om merknaden som sådan er uavhengig av faget.
 
+Merknaden skal også vektlegges på en skala fra 1 til 9. Standardverdi er 1 som betyr lav alvorsgrad. 
+
 Under kolonnen _Behandle_ har du to valg. Dersom merknad er lagt inn kan den tas frem, og eventuelt redigeres. Dersom ny merknad skal legges til, klikkes på +-tegnet.
 Merknaden blir også synlig for kontaklæreren fra menyvalget _Elever_, under fanen _Orden/atferd_. 
 
