@@ -50,8 +50,8 @@ Varslet skal gis «straks». Det vil si at når det er fare for at eleven kan ov
 Samme funksjonalitet som for _mine fag_, men utvalget er alle dine kontaktelevene. Listen kontaktlærerne kommer til er kun en oversikt, man kan se eventuelle brev som er sendt, men ikke sende brev.
 
 
-### Orden/adferd
-Vises for kontaktlærere og angir hvor mange kontaktelever som samlet har flere merknader i orden og adferd enn den angitte grensen. Ved å klikke på tallet sendes du til menyvalget _Brev > Varselbrev_ og fanen _Orden og adferd_. Her vises detaljert oversikt over kontaktelevene og fordelingen av anmerkninger 1. og 2. halvår.
+### Orden/oppførsel
+Vises for kontaktlærere og angir hvor mange kontaktelever som samlet har flere merknader i orden og oppførsel enn den angitte grensen. Ved å klikke på tallet sendes du til menyvalget _Brev > Varselbrev_ og fanen _Orden og oppførsel_. Her vises detaljert oversikt over kontaktelevene og fordelingen av anmerkninger 1. og 2. halvår.
 
 ### Fremtidige vikartimer
 

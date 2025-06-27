@@ -7,7 +7,7 @@ Her kan ansatte notere hendelser hvor en elev er innblandet, og hvor hendelsen e
 Man velger blant åtte predefinerte hendelsestyper:
 - Annen
 - Observasjon
-- Adferd
+- Oppførsel
 - Mobbing
 - Ulykke
 - Sykdom
