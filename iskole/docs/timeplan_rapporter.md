@@ -54,7 +54,7 @@ Merk at denne rapporten bare gir mening når den tas ut i inneværende skoleår.
 
 ## Prøver
 Her fås oversikt over alle prøver som er registrert, forutsatt at publiseringsdatoen ikke setter stopp for visningen.
-Det er faglærer som registrerer prøver i sine fag, men faglærer for kun oversikt over prøver i sine fag, se _Mine sider>Vurderinger_.  
+Det er faglærer som registrerer prøver i sine fag, men faglærer får kun oversikt over prøver i sine fag, se _Mine sider>Vurderinger_.  
 
 #### Prøveoversikt
 Her fås alle prøver som er registrert, også heldagsprøver.
