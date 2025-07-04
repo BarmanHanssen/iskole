@@ -3,9 +3,7 @@ id: ut_bibliotek
 title: Bibliotek
 sidebar_label: Bibliotek
 ---
-For at en bruker skal å få tilgang til biblioteket må  brukeren tildele brukergruppen _Bibliotekar_. (Se menyvalget _Mine sider > Tilgang_ og arkfanen _Brukergrupper_.)
-
-Her håndteres utlån og innlevering, og her gis oversikt over utlån til elever og ansatte. 
+For å kunne administrere biblioteksystemt må man være  **Bibliotekar** se  _Mine sider > Tilgang>Brukergrupper_.
 
 Registrering av bøker kan gjøres raskt og effektivt, og det samme gjelder utlån og innleveringer. Har man en strekkodeleser vil det spare brukeren for å taste inn kodene som benyttes. Skjermbildet «Bibliotek» består av fire arkfaner:
 
@@ -13,10 +11,6 @@ Registrering av bøker kan gjøres raskt og effektivt, og det samme gjelder utl�
 2. Utlån
 3. Innlevering
 4. Purring
-
-:::info Merk
-Biblioteksystemet må aktiveres fra _Mine sider > Tilgang > Funksjoner_ for at det skal bli tilgjengelig å bruke for bibliotekarene.
-:::
 
 ### Bokregister
 
