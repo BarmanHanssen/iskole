@@ -3,10 +3,13 @@ id: ms_bibliotek
 title: Bibliotek
 sidebar_label: Bibliotek
 ---
+Menyvalget _Bibliotek_ vise kun dersom  bibliotekfunksjonen er åpnet. 
 
-Det er rektor, og rektors stedfortreder som må registrere at bibliotekfunksjonen skal være tilgjengelig. Se menyvalget _Tilgang_.
+Det er rektor eller rektors stedfortreder som åpner bibliotekfunksjonen, se _Mine sider>Tilgang>Funksjoner_.
 
-Menyvalget _Bibliotek_ fremkommer kun dersom  bibliotekfunksjonen er åpnet. Her vises alle bøker som er registrert i skolens biblioteksystem. For å registrere nye bøker må man tilhøre brukergruppen _Bibliotekar_. 
+Her vises alle bøker som er registrert i skolens biblioteksystem. 
+
+For å registrere nye bøker, samt å kunne registrere utlån,  må man tilhøre brukergruppen **Bibliotekar** (se _Mine sider>Tilgang>Brukergrupper_). 
 
 Tallet _Tilgjengelig_ viser hvor mange bøker som ligger inne og som er klare for utlån.  
 Søkefeltet vises i toppen. Du kan søke på forfatter, eller boktittel, eller ISBN-nr. Resultatet vises fortløppende etterhvert som du føyer til flere tegn. 
