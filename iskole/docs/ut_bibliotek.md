@@ -7,10 +7,10 @@ For å kunne administrere biblioteksystemt må man være  **Bibliotekar** se  _M
 
 Registrering av bøker kan gjøres raskt og effektivt, og det samme gjelder utlån og innleveringer. Har man en strekkodeleser vil det spare brukeren for å taste inn kodene som benyttes. Skjermbildet «Bibliotek» består av fire arkfaner:
 
-1. Bokregister
-2. Utlån
-3. Innlevering
-4. Purring
+- Bokregister
+- Utlån
+- Innlevering
+- Purring
 
 ### Bokregister
 
