@@ -24,3 +24,7 @@ Oversikten på startsiden vil nå telle udokumentert + helserelatert fravær. N�
 
 ## Overskredet grense
 Etter grensen på 10% udokumentert + helserelatert fravær er overskredet må alt fravær dokumenteres for at eleven ikke skal miste karakteren. Vi arbeider med å lage oversikter for elever, foreldre og lærere slik at det blir tydelig hviket fravær som må dokumenteres for å beholde karakteren. 
+
+## Referanser
+Privatskolelova §6-8 https://lovdata.no/dokument/SF/forskrift/2024-06-03-901/KAPITTEL_3-2-1#%C2%A76-8
+UDIR sitt rundskriv om fraværsgrensen https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rundskriv-om-fravarsgrensen/
