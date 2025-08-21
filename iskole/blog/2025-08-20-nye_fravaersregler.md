@@ -10,7 +10,7 @@ tags: [fravær]
 
 
 # Innledning
-Den 1. august 2025 trådte det i kraft nye regler for fraværsgrensen i videregående skole. Den største endringen er at helserelatert fravær vil telle på 10%-regelen, selvom fraværet dokumenteres. Fravær som kan unntas iht. forskrift til privatskolelova §6-8 b-i vil som før ikke omfattes av 10%-regelen. I den forbindelse vil fraværsføringen på iSkole måtte endres for å skille ut helerelatert fravær.
+Den 1. august 2025 trådte det i kraft nye regler for fraværsgrensen i videregående skole. Den største endringen er at helserelatert fravær vil telle på 10%-regelen, selv om fraværet dokumenteres. Fravær som kan unntas iht. forskrift til privatskolelova §6-8 b-i vil som før ikke omfattes av 10%-regelen. I den forbindelse vil fraværsføringen på iSkole måtte endres for å skille ut helerelatert fravær.
 
 ## Endring for føring av fravær på iSkole
 
