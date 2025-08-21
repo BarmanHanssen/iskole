@@ -10,7 +10,7 @@ tags: [fravær]
 
 
 # Innledning
-Den 1. august 2025 trådte det i kraft nye regler for fraværsgrensen i videregående skole. Den største endringen er at helserelatert fravær vil telle på 10%-regelen, selv om fraværet dokumenteres. Fravær som kan unntas iht. forskrift til privatskolelova §6-8 b-i vil som før ikke omfattes av 10%-regelen. I den forbindelse vil fraværsføringen på iSkole måtte endres for å skille ut helerelatert fravær.
+Den 1. august 2025 trådte det i kraft nye regler for fraværsgrensen i videregående skole. Den største endringen er at helserelatert fravær vil telle på 10%-regelen, selv om fraværet dokumenteres. Fravær som kan unntas iht. [forskrift til privatskolelova §6-8 b-i](https://lovdata.no/dokument/SF/forskrift/2024-06-03-901/KAPITTEL_3-2-1#%C2%A76-8) vil som før ikke omfattes av 10%-regelen. I den forbindelse vil fraværsføringen på iSkole måtte endres for å skille ut helserelatert fravær.
 
 ## Endring for føring av fravær på iSkole
 
@@ -24,7 +24,7 @@ Avkryssningen for hvorvidt fraværet er dokumentert blir nå erstattet av en ned
 Eksempel for kontaktlærer som fører fravær på en elev:
 ![image](/img/Helsefravær.png)
 
-:::warning
+:::warning Viktig!
 Fravær som er registrert før 21. august må gjennomgås og få riktig dokumentasjonstype.
 :::
 
@@ -32,10 +32,10 @@ Fravær som er registrert før 21. august må gjennomgås og få riktig dokument
 Elever og foreldre leverer egenmelding som før. De oppgir ikke noen fraværskode, kun om de er borte og om de har dokumentasjon. Læreren som behandler egenmeldingen må eventuelt endre fraværskoden fra D (dagfravær) eller F (timefravær) til andre koder der dette er aktuelt, samt sette rett dokumentasjonstype. Udokumentert er standardverdi. 
 
 
-## Startsiden - fravær og varsling
+## Startsiden - fravær og varsling (Kommer snart)
 Oversikten på startsiden vil nå telle udokumentert + helserelatert fravær. Når grensen på 10% nærmer seg, varsler dere elevene som tidligere.
 
-## Overskredet grense
+## Overskredet grense (Kommer snart)
 Etter grensen på 10% udokumentert + helserelatert fravær er overskredet må alt fravær dokumenteres for at eleven ikke skal miste karakteren. Vi arbeider med å lage oversikter for elever, foreldre og lærere slik at det blir tydelig hviket fravær som må dokumenteres for å beholde karakteren. 
 
 ## Referanser
