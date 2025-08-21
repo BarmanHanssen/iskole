@@ -14,6 +14,7 @@ Dette menyvalget inneholder fagfravær, egenmeldinger, klager, heldagsprøver, f
 - O = Organisert studiearbeid (Teller ikke som fravær)
 - S = For sent til timen
 - M = Møtt
+- A = Annen organisert opplæring (Teller ikke som fravær)
 
 Grønt fravær er registrert som dokumentert i henhold til Udirs reglement. Fravær som er blått har innmeldt årsak, enten gjennom egenmelding eller registrert av læreren. Rødt fravær har ingen dokumentasjon.
 :::
