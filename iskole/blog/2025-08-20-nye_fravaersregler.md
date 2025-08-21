@@ -14,6 +14,11 @@ Den 1. august 2025 trådte det i kraft nye regler for fraværsgrensen i videreg�
 
 ## Endring for føring av fravær på iSkole
 
+### Oppdater iSkole
+:::warning Viktig!
+Har du en gul linje øverst i skjermbildet med teksten _Aktiver ny versjon_ må du lukke nettleseren (helt, ikke bare fanene) for å få innstallert sister versjon av iSkole.
+:::
+
 ### Lærere
 Avkryssningen for hvorvidt fraværet er dokumentert blir nå erstattet av en nedtrekksliste som angir dokumentasjonstype for fraværet. Listen består av
 1. Udokumentert
