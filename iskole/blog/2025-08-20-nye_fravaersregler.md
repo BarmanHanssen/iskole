@@ -16,7 +16,7 @@ Den 1. august 2025 trådte det i kraft nye regler for fraværsgrensen i videreg�
 
 ### Oppdater iSkole
 :::warning Viktig!
-Har du en gul linje øverst i skjermbildet med teksten _Aktiver ny versjon_ må du lukke nettleseren (helt, ikke bare fanene) for å få innstallert sister versjon av iSkole.
+Har du en gul linje øverst i skjermbildet med teksten _Lukk nettleseren for å aktivere ny versjon av iSkole_ må du lukke nettleseren (helt, ikke bare fanene) for å få innstallert siste versjon av iSkole.
 :::
 
 ### Lærere
