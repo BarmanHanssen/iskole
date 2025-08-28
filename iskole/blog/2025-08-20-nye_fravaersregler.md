@@ -15,11 +15,6 @@ Den 1. august 2025 trådte det i kraft nye regler for fraværsgrensen i videreg�
 
 ## Endring for føring av fravær på iSkole
 
-### Oppdater iSkole
-:::warning Viktig!
-Har du en gul linje øverst i skjermbildet med teksten _Lukk nettleseren for å aktivere ny versjon av iSkole_ må du lukke nettleseren (helt, ikke bare fanene) for å få innstallert siste versjon av iSkole.
-:::
-
 ### Lærere
 Avkryssningen for hvorvidt fraværet er dokumentert blir nå erstattet av en nedtrekksliste som angir dokumentasjonstype for fraværet. Listen består av
 1. Udokumentert
@@ -48,7 +43,7 @@ Oversikten på startsiden teller nå udokumentert + helserelatert fravær. Alts�
 ### Overskredet grense (Kommer snart)
 Etter grensen på 10% udokumentert + helserelatert fravær er overskredet må alt fravær dokumenteres for at eleven ikke skal miste karakteren. Vi arbeider med å lage oversikter for elever, foreldre og lærere slik at det blir tydelig hviket fravær som må dokumenteres for å beholde karakteren.
 
-*Oppdatering 27.08.2025:* Elever får nå en liste over timer fravær hvor dokumentasjonstypen er _Udokumentert_ eller _Helse - egenmeldt_ og timen bringer de over 10% fravær i faget.
+**Oppdatering 27.08.2025:** Elever får nå en liste over timer fravær hvor dokumentasjonstypen er _Udokumentert_ eller _Helse - egenmeldt_ og timen bringer de over 10% fravær i faget.
 
 I eksempelet ser vi at eleven har 10,7% fravær i KRO1019. I oversikten med udokumentert fravær over 10% ser vi hvilken time som er over 10%. Eleven får også informasjon om fraværet allerede er egenmeldt. Dersom egenmelding ikke er levert eller den er behandlet vil eleven få en knapp _Egenmelding_ for enkelt å kunne levere dokumentasjon for fraværet.
 ![image](/img/blog_elevfravaer.png)
