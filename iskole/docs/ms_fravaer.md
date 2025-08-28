@@ -4,7 +4,7 @@ title: Fravær
 sidebar_label: Fravær
 ---
 
-Dette menyvalget inneholder fagfravær, egenmeldinger, klager, heldagsprøver, fravær for eventuelle kontaktelever, sluttføring av fravær og fraværsføring for skolens ledelse. Tilganger og visninger tilpasses automatisk brukerens rolle. Rollene tilknyttet fraværsføring er faglærer, kontaktlærer og skolens ledelse. Faglærer har ansvaret for å føre fravær i sine fag og behandle eventuelle klager elevene har på fraværet som er ført. Skolen kan gi faglærer ansvaret for å behandle egenmeldinger i sine timer. Kontaktlærer har det overordnede ansvaret for fraværet og omgjør timefravær til dagfravær, behandler egenmeldt dag- og timefravær og overfører fraværstallene til karakterdokumentasjonen (sluttføring). Skolen ledelse har samme rettighet som kontaktlæreren i føringen av fravær på alle skolens elever. De kan også søke opp fag eller faglærere for å føre fravær i fag.
+Dette menyvalget inneholder fagfravær, egenmeldinger, klager, heldagsprøver, fravær for eventuelle kontaktelever, sluttføring av fravær og fraværsføring for skolens ledelse. Tilganger og visninger tilpasses automatisk brukerens rolle. Rollene tilknyttet fraværsføring er faglærer, kontaktlærer og skolens ledelse. Faglærer har ansvaret for å føre fravær i sine fag og behandle eventuelle klager elevene har på fraværet som er ført. Skolen kan gi faglærer ansvaret for å behandle egenmeldinger i sine timer. Kontaktlærer har det overordnede ansvaret for fraværet og omgjør timefravær til dagfravær og behandler egenmeldt dag- og timefravær. Skolen ledelse har samme rettighet som kontaktlæreren i føringen av fravær på alle skolens elever. De kan også søke opp fag eller faglærere for å føre fravær i fag.
 
 :::important Fraværskoder
 
@@ -141,11 +141,8 @@ For at kontaklæreren raskere skal kunne føre dagfravær på alle kontakteleven
 
 ![Alle kontaktelever](/img/ms_fravaer_alle.png 'Alle kontaktelever')
 
-### Avslutt fraværsføring
-Når en termin er ferdig, skal fraværet overføres til karakterdokumentasjonen. For å avslutte første halvår, klikk _Sluttfør 1. halvår_. De elevene som har avvik mellom det som skal komme på karakterdokumentasjonen og det fraværet som er registrert vil automatisk være avhuket. Klikk _Lagre_ for å overføre fraværet. Det er mulig å gjøre dette flere ganger.
-
 ## Alle elever
-Skolens ledelse har full tilgang til all fraværsføring. De kan velge mellom to ulike innfallsvinkler, den første for fag og den andre for elever. I tillegg kan de overføre fraværstellingen til karakterdokumentasjonen (avslutt fraværsføring) for alle elever.
+Skolens ledelse har full tilgang til all fraværsføring. De kan velge mellom to ulike innfallsvinkler, den første for fag og den andre for elever.
 
 ### Fagfravær
 I filteret kan man søke etter fag eller faglærer. Ved å klikke på raden med ønsket fag kommer man til den samme visningen som faglæreren i faget har.
