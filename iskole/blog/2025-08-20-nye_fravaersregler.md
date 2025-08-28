@@ -37,11 +37,16 @@ Fravær som er registrert før 21. august må gjennomgås og få riktig dokument
 Elever og foreldre leverer egenmelding som før. De oppgir ikke noen fraværskode, kun om de er borte og om de har dokumentasjon. Læreren som behandler egenmeldingen må eventuelt endre fraværskoden fra D (dagfravær) eller F (timefravær) til andre koder der dette er aktuelt, samt sette rett dokumentasjonstype. Udokumentert er standardverdi. 
 
 
-## Startsiden - fravær og varsling (Kommer snart)
-Oversikten på startsiden vil nå telle udokumentert + helserelatert fravær. Når grensen på 10% nærmer seg, varsler dere elevene som tidligere.
+## Startsiden - fravær og varsling
+Oversikten på startsiden teller nå udokumentert + helserelatert fravær. Altså er det kun dokumentasjonstype _Dokumentert §6-8 b-i_ som unntas fra tellingen. Når grensen på 10% nærmer seg, varsler dere elevene som tidligere.
 
 ## Overskredet grense (Kommer snart)
-Etter grensen på 10% udokumentert + helserelatert fravær er overskredet må alt fravær dokumenteres for at eleven ikke skal miste karakteren. Vi arbeider med å lage oversikter for elever, foreldre og lærere slik at det blir tydelig hviket fravær som må dokumenteres for å beholde karakteren. 
+Etter grensen på 10% udokumentert + helserelatert fravær er overskredet må alt fravær dokumenteres for at eleven ikke skal miste karakteren. Vi arbeider med å lage oversikter for elever, foreldre og lærere slik at det blir tydelig hviket fravær som må dokumenteres for å beholde karakteren.
+
+Oppdatering 27.08.2025: Elever får nå en liste over timer fravær hvor dokumentasjonstypen er _Udokumentert_ eller _Helse - egenmeldt_ og timen bringer de over 10% fravær i faget.
+
+I eksempelet ser vi at eleven har 10,7% fravær i KRO1019. I oversikten med udokumentert fravær over 10% ser vi hvilken time som er over 10%. Eleven får også informasjon om fraværet allerede er egenmeldt. Dersom egenmelding ikke er levert eller den er behandlet vil eleven få en knapp _Egenmelding_ for enkelt å kunne levere dokumentasjon for fraværet.
+![image](/img/blog_elevfravaer.png)
 
 ## Referanser
 - Privatskolelova §6-8 https://lovdata.no/dokument/SF/forskrift/2024-06-03-901/KAPITTEL_3-2-1#%C2%A76-8
