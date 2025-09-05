@@ -52,5 +52,5 @@ I eksempelet ser vi at eleven har 10,7% fravær i KRO1019. I oversikten med udok
 Beregningen av udokumentert + helsefravær og grunnlaget for udokumentert fravær over 10% teller begge alt fravær med unntak av det som er dokumentert iht. §6-8 b-i. Det er mulig at elever kan få karakter, selv om det udokumentert + helsefravær overstiger 10%. Når en elev har over 10% fravær i et fag er det viktig å kontrollere at alt fravær som overstiger 10% er dokumentert. Dersom en elev har udokumentert fravær over 10%, men leverer dokumentasjon for §6-8 b-i for tidligere fravær, så vil dette kunne bringe det udokumenterte fraværet innenfor 10% igjen.
 
 ### Referanser
-- Privatskolelova §6-8 https://lovdata.no/dokument/SF/forskrift/2024-06-03-901/KAPITTEL_3-2-1#%C2%A76-8
+- Forskrift til privatskolelova §6-8 https://lovdata.no/dokument/SF/forskrift/2024-06-03-901/KAPITTEL_3-2-1#%C2%A76-8
 - UDIR sitt rundskriv om fraværsgrensen https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rundskriv-om-fravarsgrensen/

@@ -81,14 +81,18 @@ I vinduet for statistikk listes alle dine fag med prosentangivelse for fravær. 
 
 ![Statistikk fravær](/img/iskole_elev_fravaer_statistikk.png 'Statistikk fravær')
 
-#### Timer avholdt og fravær for fag
-Her telles alt fravær enten det er dokumentert eller ikke. Visningen _Skolestart og frem til i dag_ beregner ditt fravær i forhold til avholdte timer i faget. Visningene _1. halvår_ og _2. halvår_ beregner fraværet ditt mot timeplanlagte timer.
+#### Fravær
+Her telles alt fravær enten det er dokumentert eller ikke. Visningen _Skolestart og frem til i dag_ beregner ditt fravær i forhold til avholdte timer i faget. Visningen _Hele skoleåret_ viser alt fravær for skoleåret beregnet mot fagets omfang gitt i lærerplanen.
 
-#### Udokumentert fravær
-Her telles fravær som ikke er dokumentert med gyldig årsak. [Se reglement hos Udir](https://www.udir.no/regelverkstolkninger/opplaring/Vitnemal/fravarsgrense---udir-3-2016/hva-omfattes-av-fravarsgrensen/#fravar-som-ikke-omfattes-av-fravarsgrensen). Fraværet er beregnet i klokketimer. Fraværet 1. halvår beregnes mot timeplanlagte timer, mens fraværet for hele året beregnes mot fagets omfang gitt i lærerplanen.
+#### Helserelatert og udokumentert fravær
+Her telles fravær som ikke er dokumentert iht. [forskrift til privatskolelova §6-8 punkt b-i](https://lovdata.no/dokument/SF/forskrift/2024-06-03-901/KAPITTEL_3-2-1#%C2%A76-8). Fraværet er beregnet i klokketimer. Fraværet beregnes mot fagets omfang gitt i lærerplanen.
+
+:::important Fraværsregler
+For utfyllende informasjon om fravær og fraværsregler se [Forskrift til privatskolelova §6-8](https://lovdata.no/dokument/SF/forskrift/2024-06-03-901/KAPITTEL_3-2-1#%C2%A76-8) og [UDIR sitt rundskriv om fraværsgrensen](https://www.udir.no/regelverk-og-tilsyn/skole-og-opplaring/rundskriv-om-fravarsgrensen/)
+:::
 
 ### Alt fravær
-Du kan velge mellom en grafisk fremstilling av fraværet eller en liste. Grønt fravær er registert som dokumentert i henhold til Udirs reglement. Fravær som er blått har innmeldt årsak, enten gjennom egenmelding eller registert av læreren. Rødt fravær har ingen årsak, ved mange skoler vil dette medføre ordensanmerkning. Høyreklikk på fraværet for å registere egenmelding. Hvis du holder musepekeren over fraværet vil du få mer informasjon om timen. Hvis du har zoomet langt nok inn, vil hver boks også ha en kode. 
+Du kan velge mellom en grafisk fremstilling av fraværet eller en liste. Fravær som er blått har innmeldt årsak, enten gjennom egenmelding eller er registert av læreren. Rødt fravær har ingen årsak, egenmelding eller dokumentasjon, ved mange skoler vil dette medføre ordensanmerkning. Høyreklikk på fraværet for å registere egenmelding. Hvis du holder musepekeren over fraværet vil du få mer informasjon om timen.
 
 :::important Fraværskoder
 
