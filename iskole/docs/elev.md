@@ -96,6 +96,7 @@ Du kan velge mellom en grafisk fremstilling av fraværet eller en liste. Grønt 
 - I = Dagfravær som ikke teller på vitnemålet
 - F = Timefravær
 - O = Organisert studiearbeid (Teller ikke som fravær)
+- A = Annen organisert opplæring (Teller ikke som fravær)
 - S = For sent til timen
 - M = Møtt
 
