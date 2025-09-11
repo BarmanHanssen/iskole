@@ -40,10 +40,15 @@ Elever og foreldre leverer egenmelding som før. De oppgir ikke noen fraværskod
 ### Startsiden - fravær og varsling
 Oversikten på startsiden teller nå udokumentert + helserelatert fravær. Altså er det kun dokumentasjonstype _Dokumentert §6-8 b-i_ som unntas fra tellingen. Når grensen på 10% nærmer seg, varsler dere elevene som tidligere.
 
-### Overskredet grense (Kommer snart)
-Etter grensen på 10% udokumentert + helserelatert fravær er overskredet må alt fravær dokumenteres for at eleven ikke skal miste karakteren. Vi arbeider med å lage oversikter for elever, foreldre og lærere slik at det blir tydelig hviket fravær som må dokumenteres for å beholde karakteren.
+### Overskredet grense
+Etter grensen på 10% udokumentert + helserelatert fravær er overskredet må alt fravær dokumenteres for at eleven ikke skal miste karakteren.
 
-**Oppdatering 27.08.2025:** Elever får nå en liste over timer fravær hvor dokumentasjonstypen er _Udokumentert_ eller _Helse - egenmeldt_ og timen bringer de over 10% fravær i faget.
+#### Oversikt for faglærere
+Faglærere får oversikt over udokumentert og egenmeldt helsefraævr over 10% fra _Mine sider > Rapporter > Fravær > Fag_. Dette er fravær som eleven må dokumentere for å kunne få karakter i faget. Listen viser elevene og en summering av hvor mange fag og undervisningsøker dette gjelder. Ved å klikke på pilen til venstre i tabellen vises hvert enkelt fravær med fag, tidspunkt varighet, informasjon om fraværet og eventuell egenmelding.
+![image](/img/blog_udok_over10.png)
+
+#### Oversikt for elever og foreldre
+Elever og foreldre får en liste over timer fravær hvor dokumentasjonstypen er _Udokumentert_ eller _Helse - egenmeldt_ og timen bringer de over 10% fravær i faget.
 
 I eksempelet ser vi at eleven har 10,7% fravær i KRO1019. I oversikten med udokumentert fravær over 10% ser vi hvilken time som er over 10%. Eleven får også informasjon om fraværet allerede er egenmeldt. Dersom egenmelding ikke er levert eller den er behandlet vil eleven få en knapp _Egenmelding_ for enkelt å kunne levere dokumentasjon for fraværet.
 ![image](/img/blog_elevfravaer.png)
