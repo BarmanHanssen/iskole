@@ -39,25 +39,25 @@ burde nedtones. Benytt gjerne e-postadressen som står på tittelsiden.
 Vi starter med å se på sentrale begreper som benyttes i manualen.
 
 ### Planperiode
-Vi omtaler et skoleår som en planperiode. Planperioden spenner fra 1. august til og 
+Vi omtaler et skoleår som en planperiode. Planperioden er vanligvis fra 1. august til og 
 med 31. juli året etter. Vi benytter skoleruten (se _Grunnlagsdata>Skolerute_) til å 
-angi dagene i planperioden som skoledager, planleggingsdager eller aktivitetsdager. Øvrige dager er fridager. 
+markere dagene hva som er skoledager, planleggingsdager og aktivitetsdager. Øvrige dager er fridager. 
 Elevene kan logge seg inn i iSkole i planperioden hvor de er registrert som elev, helt fram til 31. juli
-dersom de ikke avslutter før denne dato.
+dersom de ikke avslutter før denne dato. Ansatte har tilgang til iSkole helt til de slutter.
 
 ### Tid
-Timene for hver dag registreres fra _Timeplan > Tid_. Det vanligste er at all
-undervisning i en uke går over fem dager — mandag til fredag. Timeplanen
-kan om ønskelig også legges over seks eller syv dager i noen uker. Det må fremgå av skoleruten hvilke uker
+Timene for hver dag registreres fra _Timeplan > Tid_. Vanligvis
+undervises det fem dager, fra mandag til fredag. Timeplanen
+kan om ønskelig også legges over seks eller syv dager i noen uker. Det vil fremgå av skoleruten hvilke uker
 det gjelder. Ekskursjoner eller utflukter kan eksempelvis legges til lørdag og/eller søndag. 
-Da skal timeplanen bare inneholde et (eller noen) fag som skal godskrives elev og lærer.
+Da kan timeplanen inneholde et (eller noen) fag på slike dager.
 
 Dagene kan ha varierende antall undervisningstimer og tider. Hver time angis med et
 klokkeslett for når timen starter, og når den slutter. Timelengden er vanligvis
-45 eller 60 minutter, men kan altså variere fra time til time og fra dag til dag.
+45 eller 60 minutter, men kan variere fra fag til fag, og fra time til time.
 
-Et vanlig oppsett er åtte timer per dag, alle med 45 minutters lengde, og med samme start- og sluttid for 
-alle ukedagene. Men iSkole vil ut fra timeplanen beregne summert undervisning i klokketimer for det enkelte fag for 
+Et vanlig oppsett har åtte timer per dag, alle med 45 minutters lengde, og med samme start- og sluttid for 
+alle ukedagene. iSkole vil kunne ut fra lagt timeplane beregne summert undervisning i klokketimer for det enkelte fag for 
 hele skoleåret. Skolens timeplan kan derfor være dokumentasjon for omfanget av undervisningen i det enkelte fag.
 
 :::tip Merk
