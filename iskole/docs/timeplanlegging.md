@@ -223,25 +223,20 @@ For å gi et innblikk i hvordan man timeplanlegger klassefag, ser
 vi nå på hvordan dette kan gjøres. For å få frem
 skjermbildet tilsvarende det som er vist under, navigerer man til 
 [_Timeplan > Klasser_](/docs/timeplan_timeplanlegge_klasse).
-Deretter velger man klasse og uke. Vi har nå tre valg, 
+Deretter velger man klasse og uke.
 
-![image](https://user-images.githubusercontent.com/80097133/221574930-90ccc824-491f-42d1-a3fe-9bf47df5ae37.png)
-
-og vi starter automatisk med det _Timeplan_:
-
-![image](https://user-images.githubusercontent.com/80097133/221574809-65cd6723-6ca6-4910-84bf-3a21300eb87b.png)
+<img width="1127" height="1083" alt="image" src="https://github.com/user-attachments/assets/0c2e1560-7463-414d-b028-0b1a0daeed81" />
 
 #### Timeplan
-Utgangspunktet vårt er at timeplanen skal legges for et nytt skoleår, vel vitende om at det
-etter skolestart kan det være behov for justeringer grunnet skifte av lærer, ønsker om
+Utgangspunktet er at timeplanen skal legges for et nytt skoleår, vel vitende om at det
+etter hvert kan bli behov for justeringer grunnet skifte av lærer, ønsker om
 flytting av timer på timeplanen osv.
 
 Planperioden kan vare fra 1. august til 31. juli, men det er skoleruten som fastslår hvilke dager det skal gis
 undervisning. Skoleruten blir satt opp når man oppretter en ny planperiode, og kan siden redigeres fra
 _Grunnlagsdata > Skolerute_.
 
-Før timeplanen for en klasse kan legges, bør klassen være satt opp med alle fag i klassens. Det beste vil være om alle fag er registrert med lærer, og at også elevene i klassen er registrert. 
-Men alt kan kan endres underveis, programvaren vil sjekke at eventuelle endringer ikke medfører kollisjoner på timeplanen for klasse,lærer eller elev.
+Før timeplanen for en klasse legges, bør klassen være satt opp med alle fag i klassens. Det beste vil være om fagene er registrert med lærer, og at elevene i klassen også er registrert. Dersom man senere må gjøre endringer, vil programvaren sjekke om endringene medfører kollisjoner på timeplanen for klasse,lærer eller elev.
 
 Det anbefales å velge skoleårets første uke når man skal starte
 timeplanleggingen, selv om det ikke er definert skoledager hele uken i
@@ -251,9 +246,9 @@ timeplanen i denne uken er ferdig, så kan timeplanen kopieres fremover til komm
 For når timeplanen vises til lærer og elev, vil den være blank
 på fri- eller planleggingsdager. Det betyr også at denne
 uken kan tjene som en slags prøveuke for timeplanleggeren. Her kan det
-eksperimenteres! Har man to forskjellige uketimeplaner,
-en såkalt alternerende timeplan, så timeplanlegger man to uker etter hverandre som da kjener som mal når
-disse ukene skal fordeles over skoleåret.
+eksperimenteres! Har man to alternerende uketimeplaner,
+så timeplanlegger man to uker etter hverandre som da tjener som mal når
+disse ukene skal fordeles utover skoleåret.
 
 :::tip Merk
 Rektor/administrator kan stenge innsyn i timeplanen frem til en bestemt
@@ -279,29 +274,25 @@ vises hvilken klasse og uke vi skal timeplanlegge.
 Vi har valgt klasse ST1A som eksemplet.
 
 #### Fag
-Til venstre i bildet vises fagene med lærer. Kolonnen _Timer_ forteller 
-hvor mange timer fagene skal timeplanlegges denne uken, mens kolonnen _Tp-lagt_ viser 
-hvor mange timer som alt er timeplanlagt. Når et fag er ferdig timeplanlagt vil kolonnen
-_Gjennstår_ vise 0 timer, og faget blir vist i kursiv. Fag som er ferdig timeplanlagt legges nederst
-i listen. I kolonnen _Timer_ er det et ikon (en blyant) til høyre for 
-timetallet. Ved å trykke på ikonet kan man justere timetallet opp eller ned for denne uken.
+Til venstre i bildet vises klassens fag. Merk at et fag kan ha flere lærer. Kolonnen _Timer_ forteller 
+hvor mange timer fagene skal timeplanlegges denne uken, mens kolonnen _Lagt_ viser 
+hvor mange timer som alt er timeplanlagt. I kolonnen _Timer_ er det et ikon (en blyant) til venstre for 
+timetallet. Ved å trykke på ikonet kan man justere timetallet for faget og/eller lærer(e).
 
 Timeplanlegger vil spesielt ha fokus på skjermbildene  _Timeplan klasse_ og _Timeplan lærer_.
 
 #### Timeplan klasse
-Her vises klassens timeplan med plasseringen av allerede timeplanlagte fag. Klassefag vises på blå bakgrunn. Når man velger fag fra tabellen _Fag_, vil det valgte faget vises på rosa bakgrunn. Timer i klassen som ikke er timeplanlagte er grønne. Hvite felt markerer timer som ikke kan benyttes til timeplanlegging av det valgte klassefaget. Det skjer når valgte lærer allerede er opptatt i timen, eller at noen elever (minst en) i faget alt er opptatt med annen undervisning i den hvite timen. Derfor kan timene i KRØ (det valgte faget) ikke plasseres på de to første timene på tirsdag.
+Her er klassens timeplan allerede er lagt for uke 37. Klassefag vises på blå bakgrunn og gruppefag på grønn bakgrunn. Når man velger fag fra tabellen _Fag_, her er ENG valgt, vil faget vises på rosa bakgrunn både på klassens og lærerens timeplan. Timer i klassen som ikke er timeplanlagte har en mørkere grønnefarge. Eventeult hvite felt markerer timer som ikke kan timeplanlegges med det valgte klassefaget. Det skjer når valgte lærer allerede er opptatt i timen, eller at noen elever (minst en) i faget alt er opptatt med undervisning i den hvite timen. 
 
 #### Timeplan lærer
-Her vises alle timeplanlagt fag for faglærer som har faget som er valgt fra _Fag_ (her: KRØ). Vi ser at på tirsdags morgen er læreren opptatt (ST2:RI 1), derfor er disse timene markert hvite på klassens timeplan.
+Her vises alle timeplanlagte fag til faglæreren som har faget som er valgt fra _Fag_ (her: ENG).
 
 #### Vis timeplan for disse ansatte
 Her kan man legge til lærer(e) som da vil vises sammen med _Timeplan lærer_. Slik får man oversikt over flere lærere samtidig, dersom det er ønskelig.
 
 #### Rom
-Nedtrekksliste for rom er plassert ovenfor _Vis timeplan for disse ansatte_. Når man velger fag, vil den
-automatisk stille seg inn på det rommet som er tildelt klassen, se _Grunnlagsdata > Klasse_,
-eller faget i _Grunnlagsdata > Rom_. Når en time er valgt, vil listen bare inneholder  rom som er ledige for den valgte timen.
-
+Når man velger fag, vil automatisk rommet som er tildelt faget fra  _Grunnlagsdata > Rom_, eller fra _Grunnlagsdata > Klasse_ velges.
+For å endre romvalg: Klikk på faget på klassens timeplan. Nedtrekkslisten under _Timeplanlagte rom_ vil bare inneholder rom som er ledige for den valgte timen.
 
 ### Timeplanlegge klasse
 Oppsummert er det følgende trinn som må gjøres for å timeplanlegge klassefag:
@@ -310,9 +301,9 @@ Oppsummert er det følgende trinn som må gjøres for å timeplanlegge klassefag
 1. Velg hvilket rom som skal benyttes
 1. Klikk på grønn time i klassens timeplanen 
 
-Fagene timeplanlegges altså ved at man først velger fag i listen over fag hvor det gjenstår timer. Ledige timer i klassen blir markert med grønn farge dersom også læreren er ledig i timen. Er læreren opptatt, men klassen er ledig, er timen blank (hvit). Vises et rom i nedtrekkslisten _Rom_, så vil timen få tildelt dette rommet. Hvis man ikke har valgt rom, timeplanlegges timen uten rom. Man senere velge, eller endre, et rom til en time ved å høyre-klikke på timen. 
+Fagene timeplanlegges altså ved at man først velger fag i listen over fag hvor det gjenstår timer. Ledige timer i klassen blir markert med grønn farge dersom også læreren er ledig i timen. Er læreren opptatt, men klassen er ledig, er timen blank (hvit). Hvis man ikke har valgt rom, timeplanlegges timen uten rom. Man senere velge, eller endre, et rom til en time ved å klikke på timen. 
 
-For å fjerne en timeplanlagt time, høyre-klikkes timen på timeplanen, og velger _Slett_.
+For å fjerne en enkelt time: Klikk  på timen på timeplanen, og velg _Slett time_. For å slette alle timeplanlagte i klassen, eller for et enkelt fag, eller valgte lærers timeplan for denne uken: Valgene fås frem ved å klikke på ikonet _Slett timeplan..._
 
 I dette avsnittet har vi sett på timeplanlegging av klassefag. Her var time- og fagfordelingen bestemt for klassen, men vi så bort eventuelle valgfags innvirkning på klassens timeplan. La oss derfor nå se næremer på gruppefag.
 
