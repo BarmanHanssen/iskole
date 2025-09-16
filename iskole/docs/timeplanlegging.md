@@ -227,7 +227,7 @@ Deretter velger man klasse og uke.
 
 <img width="1127" height="1083" alt="image" src="https://github.com/user-attachments/assets/ba0324cf-4822-4b87-bcf6-264fd9b17e92" />
 
-#### Timeplan
+### Timeplan
 Utgangspunktet er at timeplanen skal legges for et nytt skoleår, vel vitende om at det
 etter hvert kan bli behov for justeringer grunnet skifte av lærer, ønsker om
 flytting av timer på timeplanen osv.
@@ -294,7 +294,7 @@ Her kan man legge til lærer(e) som da vil vises sammen med _Timeplan lærer_. S
 Når man velger fag, vil automatisk rommet som er tildelt faget fra  _Grunnlagsdata > Rom_, eller fra _Grunnlagsdata > Klasse_ velges. Man kan også forhåndsvelge rom  fra nedtrekksisten  _Velg rom_ som er plassert oppe i venstre hjørne.
 For å endre romvalgdersom på en allerede timeplanlagt time: Klikk på faget på klassens timeplan. Nedtrekkslisten _Timeplanlagte rom_ vil bare inneholder rom som er ledige for den valgte timen.
 
-### Timeplanlegge klasse
+## Timeplanlegge klasse
 Oppsummert er det følgende trinn som må gjøres for å timeplanlegge klassefag:
 
 1. Velg klasse og uke, og rom dersom klassen har et fortrukket rom.
@@ -317,12 +317,11 @@ Timeplanleggingen av slike klasser kan trygt gjøres før elevgrunnlaget er kjen
 Vi skal nå se på utfordringer med å få sammensatt gruppefagene slik at timeplanen lar seg realisere innenfor en akseptabel tidsramme.
 
 #### Den enkelte elevs valgmuligheter
-Det er skoleleders ansvar å bestemme hvilke grupper (altså valgfag) som skal tilbys. 
+Hvilke grupper (altså valgfag) som skal tilbys fastsettes på den enkelte skole. 
 Tilbudet begrenser seg ut fra økonomiske hensyn. Skolen gis vanligvis ikke noe ekstra tilskudd 
 om en øker antall grupper. I praksis betyr det at en gruppe ikke kan opprettes dersom noen få 
-elever har valgt faget. Det kan av pedagogiske hensyn være forsvarlig at en i utgangspunktet
-tilbyr et mer omfattende utvalg av fag enn det som kan igangsettes. Får et
-fag for få påmeldte elever, må faget sløyfes, og disse elevene må foreta omvalg.
+elever har valgt faget. I utgangspunktet kan man tilbyr et mer omfattende utvalg av fag enn det som kan igangsettes. Får et
+fag for få påmeldte elever, kan faget sløyfes, og disse elevene må foreta omvalg.
 
 Fra iSkole kan eksempelvis årets vg1- og vg2-elever selv velge blant gruppefag skolen vil tilby 
 kommende skoleår. Opplegget forenkler administreringen av fagvalgene, både for elevene og
@@ -330,9 +329,9 @@ administrasjonen. Vi skal nå se nærmere på arbeidet som går forut for
 elevenes valg. Vi skiller mellom to mulige strategier for oppsett av gruppefag
 til valg:
 
-1. Gruppene er satt opp i et skjema (vi kaller det _blokkskjema_) slik at eleven
-bare kan velge et fag fra hver blokk
-1. Elevene får velge helt fritt fra listen av valgbare gruppefag
+1. Gruppene er satt opp i et skjema (vi kaller det _blokkskjema_) slik at elevene
+bare kan velge et fag fra hver blokk.
+1. Elevene får velge helt fritt fra listen som viser valgbare gruppefag.
 
 Ideelt sett burde alternativ to benyttes. Men uten restriksjoner på elevenes
 valg vil resultatet kunne bli at skoledagen ble vesentlig lengre enn det som er
