@@ -3,9 +3,6 @@ id: timeplanlegging
 title: Timeplanlegging i iSkole
 sidebar_label: Timeplanlegging
 ---
-:::tip Merk
-Kompendiet er under revidering på grunn av endringer av navn på menyvalg og strukturen og innholdet i flere av skjermbildene.
-:::tip
 
 ## Innledning
 ### Forord
