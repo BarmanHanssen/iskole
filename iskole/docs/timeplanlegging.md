@@ -337,30 +337,22 @@ La oss nå se litt nærmere på fordeler og ulemper til de to tilnærmingsmåten
 
 <img width="507" height="206" alt="image" src="https://github.com/user-attachments/assets/c530e50c-c6d9-4d6f-a60e-7084669c94ac" />
 
-Bildet viser grupper satt opp i et blokkskjema slik at elevene bare
-kan velge ett fag fra hver blokk. Alle fagene i skjemaet skal ha fem timer
-undervisning per uke. De tre blokkene legger da til sammen beslag på
-femten timer på timeplanen. Hvert blokknummer representerer en time på
-timeplanen, men nå på planleggingsstadiet er det ikke besluttet hvor timene
-skal legges. Her er det bestemt at undervisningen i fransk og matematikk
+Her er valgfagene plassert i et blokkskjema. Elevene kan bare velge ett fag fra hver blokk.Her er det bestemt at undervisningen i fransk og matematikk
 skal gå samtidig (blokk 1), tysk, spansk og fysikk skal gå samtidig (blokk 2)
-og til sist at kjemi og biologi skal gå samtidig (blokk 3). Som en konsekvens
-av dette oppsettet kan ingen timer i klassefag timeplanlegges parallellt med
-disse fagene hvis elevene i klassen skal kunne velge fritt blant alle disse.
-Her kan en elev bare velge ett fag fra hver blokk av de tre blokkene.
-Kombinasjonen matematikk fra blokk 1, tysk fra blokk 2 og biologi fra blokk
-3 er et mulig valg. Velger man biologi kan det ikke kombineres med kjemi.
-En elev kan heller ikke velge både tysk og spansk.
+og til sist at kjemi og biologi skal gå samtidig (blokk 3). 
+
+En elev kan bare velge ett fag fra hver blokk. Kombinasjonen matematikk fra blokk 1, tysk fra blokk 2 og biologi fra blokk 3 er et mulig valg. Velger man biologi kan det ikke kombineres med kjemi. En elev kan heller ikke velge både tysk og spansk.
+
+Selve timeplanen for hver blokk er nødvendigvis ikke fastsatt. Men valget av gruppefag medfører at klassefag ikke kan timeplanlegges parallellt med gruppefag som elevene i klassen har valgt.
 
 Lar man elevene få velge helt fritt fra listen over foreslåtte grupper ville
-enhver kombinasjon av fagene være valgbar. Da kan det være krevende
+enhver kombinasjon av fagene være i utgangspunktet være valgbare. Da kan det være krevende
 å finne ut hvilke kombinasjoner av fag som kan timeplanlegges parallellt
 og hva som eventuelt må gjøres av omvalg for å få timeplanen innenfor
 et akseptabelt uketimetall. Til hjelp i denne prosessen tar man ut en
-_konfliktmatrise_.
-Konfliktmatrisen hentes fra _Timeplan > Rapporter > Matrise gruppefag_,
-og hentes frem etter at elevene har gjort sine valg av gruppefag. Bildet
-på neste side viser her alle gruppene som er satt opp både horisontalt
+_konfliktmatrise_ etter at elevene har gjort sitt valg. Konfliktmatrisen hentes fra _Timeplan > Rapporter > Matrise gruppefag_.
+
+Bildet på neste side viser her alle gruppene som er satt opp både horisontalt
 og vertikalt. Antall elever som har valgt hver fag fremgår av diagonalen.
 Eksempelvis er ST2KJ1 valgt av 21 elever. Av disse elevene har ingen valgt
 STENI eller ST2MED. Det betyr at ST2KJ1, ST2ENI og ST2MED kan
