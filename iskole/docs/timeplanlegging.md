@@ -305,7 +305,7 @@ For å fjerne en enkelt time: Klikk  på timen på timeplanen, og velg _Slett ti
 
 I dette avsnittet har vi sett på timeplanlegging av klassefag. Her var time- og fagfordelingen bestemt for klassen, men vi så bort eventuelle valgfags innvirkning på klassens timeplan. La oss derfor nå se næremer på gruppefag.
 
-### Timeplanlegge gruppefag
+# Timeplanlegge gruppefag
 Det er utfordrende for skolen å bestemme hvilke valgfag som skal tilbys neste skoleårs elever.
 Faktorer som spiller inn er hvilke studieretninger skolen tilbyr, skolens størrelse, elevenes ønsker, lærernes fagkompetanse og ikke minst økonomiske konsekvenser.
 
