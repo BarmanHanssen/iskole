@@ -335,7 +335,7 @@ valg vil resultatet kunne bli at skoledagen ble vesentlig lengre enn det som er
 ansett som akseptabelt, og at kostnadene vil kunne øke hvis man ender opp med mange små grupper. 
 La oss nå se litt nærmere på fordeler og ulemper til de to tilnærmingsmåtene.
 
-![Blokkskjema](/img/tk_blokkskjema.png 'Blokkskjema')
+<img width="507" height="206" alt="image" src="https://github.com/user-attachments/assets/c530e50c-c6d9-4d6f-a60e-7084669c94ac" />
 
 Bildet viser grupper satt opp i et blokkskjema slik at elevene bare
 kan velge ett fag fra hver blokk. Alle fagene i skjemaet skal ha fem timer
