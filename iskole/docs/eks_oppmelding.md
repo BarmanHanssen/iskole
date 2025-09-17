@@ -25,3 +25,24 @@ Ved å klikke på _Legg til..._ vises en dialog med fag. Denne listen inneholder
 Det kan knyttes en rekke informasjon til partiet. Tidspunkt, sted, eksaminator, sensor, merknad, eksamenstype og forberedelse. 
 
 ![Eksamenspartier](/img/eks_endre_parti.png 'Eksamensparti endre')
+
+
+
+
+## Kandidater
+
+
+### Oppmøtestatus
+Ved oppmelding av kandidater til et parti vil verdien for oppmøte stå blank. Når eksamenskarakter innføres, settes oppmøte automatisk til avlagt og verdien kan ikke endres. Før eksamenskarakter er innsatt, kan man markere alle som ikke møtte til eksamen med verdien _Ikke dokumentert fravær_. Senere kan verdien endres til _Dokumentert fravær_ for dem det gjelder. Setter man oppmøtestatus til noe annet enn avlagt, så vil karakteren bli satt til IM for ikke møtt eller -- hvis eksamen ble avlyst. Hvis dette gjøres med en feiltagelse må karakteren settes tilbake til riktig karakter hvis den allerede var satt, eller til * hvis karakteren ikke er kjent ennå. Karakterer redigeres fra _Endre... > Karakter..._
+
+:::info Oppmøtestatuser
+Det finnes fire oppmøtestatuser:
+1. Avlagt - Karakter kan settes
+1. Ikke dokumentert fravær - Karakter IM settes automatisk
+1. Dokumentert fravær - Karakter IM settes automatisk
+1. Eksamen avlyst - Karakteren -- settes automatisk
+:::
+
+::note Merk
+For eksamenspartier som administreres via PAS, vil oppmøtestatus være ferdig utfylt og automatisk bli overført sammen med karakterene.
+:::
