@@ -60,7 +60,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Eksamen',
-      items: ['eks_eksamenssted','eks_viktige_datoer','eks_sensor','eks_oppmelding','eks_karakterer','eks_oppmote','eks_klage','eks_pas','eks_prover','eks_rapporter'],
+      items: ['eks_startside','eks_oppmelding','eks_klage','eks_prover','eks_sensor','eks_eksamenssted','eks_rapporter','eks_pas'],
     },
     {
       type: 'category',

@@ -125,8 +125,7 @@ Her samles alle enkeltvurderingene som er gjort. Dette kan for eksempel være en
 Fra dette menyvalget kan du legge inn egenvurdering for dine fag. Faglæreren kan legge inn tilbakemeldinger på egenmeldingene, denne vil vises under egenvurderingen.
 
 ### Karakterer
-Karakterer for alle skoleår vil vises her. Eventuell vurdering av halvårskarakterene vil vises under tabellen.
-
+Karakterer for alle skoleår vil vises her. Eventuell vurdering av halvårskarakterene vil vises under tabellen.  
 :::tip Tips
 Smale skjermer vil ha færre kolonner. Benytter du telefon kan du legge telefonen på siden for å få frem mer informasjon. Bildet nedenfor viser alle kolonner.
 :::
