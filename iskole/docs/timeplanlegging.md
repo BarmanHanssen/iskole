@@ -77,8 +77,7 @@ automatisk tildelt fagene som klassen er satt opp med. Ofte kan elevene i tilleg
 
 ### Fag
 I timeplansammenheng er et fag en betegnelse på en aktivitet som skal
-timeplanlegges. Som regel er det knyttet en gruppe elever til faget, og faget
-har en eller flere lærere. 
+timeplanlegges. Som regel er det knyttet en gruppe elever til faget, og faget kan ha en eller flere lærere. 
 
 Ikke alle fag er like lette å timeplanlegge. Faget naturfag
 kan være delt ved at undervisningen i fysikk har en lærer, mens de øvrige
