@@ -5,7 +5,11 @@ sidebar_label: PAS
 ---
 
 ## Innledende
-PAS er ikke et eget menyvalg, men er integrert i de ulike delene av eksamensmodulen. Integrasjonen mot PAS forenkler arbeidet med eksamen og sikrer at elevene får riktige karakterer, derfor har vi valgt å ta med PAS som et eget punkt i dokumentasjonen.
+PAS er ikke et eget menyvalg, men er integrert i de ulike delene av eksamensmodulen. Integrasjonen mot PAS forenkler arbeidet med eksamen og sikrer at elevene får riktige karakterer, derfor har vi valgt å ta med PAS som et eget punkt i dokumentasjonen. PAS-funksjonene finnes under menyvalgene _Eksamenspartier_ og _Prøver_. I tillegg vil klager automatisk eksporteres til PAS hvis eleven har fått kandidatnummer fra PAS.
+
+:::caution Merk
+Henting av planer og oppmelding til PAS forutsetter at skolen har registert det organisasjonsnummeret de benytter på PAS under _Grunnlagsdata > Skole > Organisasjon_. Dersom skolen har annet organisasjonsnummer for PAS enn de ellers benytter, så kan dette registreres i feltet _Organisasjonsnummer PAS_. I tillegg må dere registrere i PAS-portalen at dere benytter iSkole som skoleadministrativt system.
+:::
 
 ## Eksamenspartier
 Alle partiene som skal lastes opp til PAS må være registrert med eksamenstype _Sentralgitt eksamen - sentral sensur_, _Sentralgitt eksamen - PASLokal_ eller _Lokalgitt eksamen - PASLokal_. Eksporten av partiene skjer ved at man velger hvilke partier som man ønsker å eksportere, og så trykker på knappen _OK_. Alle partiene som var markerte vil opplastes til PAS. Ved stor pågang i PAS kan det være noen minutters behandlingstid hos PAS, men når partiene er behandlet der vil dere se partier og kandidater i deres PAS-portal. iSkole vil monitorere status for eksport og importere elevenes kandidatnummer når behandlingen er gjennomført hos PAS. Eksport av partiene kan gjøres flere ganger slik at eventuelle endringer kan eksporteres.
