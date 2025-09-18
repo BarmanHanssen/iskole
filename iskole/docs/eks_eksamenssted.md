@@ -3,6 +3,10 @@ id: eks_eksamenssted
 title: Eksamenssted
 sidebar_label: Eksamenssted
 ---
-Her registreres hvor eksamen skal avholdes. Det kan være spesifikk angivelse av hvilket rom eksamen skal avholdes, eller bare adressen dersom rom anvises ved fremmøte eksamensdagen.
+Stedene som angis her kan knyttes til partiene for å synliggjøre hvor eksamen vil bli avholdt. Det kan være spesifikk angivelse av hvilket rom eksamen skal avholdes, en adresse eller et kjent sted.
 
-![bilde](https://user-images.githubusercontent.com/80097133/137865916-b0d7945d-6a6d-4b7e-873c-ad3a48ce512b.png)
+:::info
+Eksamenspartiene kan også knyttes til de rommene som dere ellers benytter i forbindelse med timeplanlegging. Hvis alle eksamen avholdes på skolen er det tilstrekkelig å angi rom.
+:::
+
+![eksamenssted](/img/eks_eksamenssted.png)

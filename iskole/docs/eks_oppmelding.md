@@ -43,6 +43,6 @@ Det finnes fire oppmøtestatuser:
 1. Eksamen avlyst - Karakteren -- settes automatisk
 :::
 
-::note Merk
+:::note Merk
 For eksamenspartier som administreres via PAS, vil oppmøtestatus være ferdig utfylt og automatisk bli overført sammen med karakterene.
 :::
