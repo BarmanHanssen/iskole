@@ -341,8 +341,7 @@ Selve timeplanen for hver blokk er nødvendigvis ikke fastsatt. Men valget av gr
 Da vil enhver kombinasjon av fagene være valgbare. (Unntaket er at noen fag (eksempelvis Fysikk 2) krever at man allerede har tatt et annet fag (Fysikk 1)). 
 
 Da kan det bli krevende å finne ut hvilke kombinasjoner av fag som kan timeplanlegges parallellt.
-Først må sannsynligvis noe grupper utgå dersom få har valgt faget, hvilet medører omvalg for berørte elever. Deretter må man finne hvilke grupper som kan tmeplanlegges parallelt slik at elevenes timeplanen kan legges med et akseptabelt uketimetall. Til hjelp i denne prosessen tar man ut en
-_konfliktmatrise_ etter at elevene har gjort sitt valg. Konfliktmatrisen hentes fra _Timeplan > Rapporter > Matrise gruppefag_.
+Først må sannsynligvis noe grupper utgå dersom få har valgt faget, eller at elevene kommer fra så mange klasser at det ikke vil timeplanmessig. Dette tilsier omvalg for berørte elever. Deretter må man finne hvilke grupper som kan tmeplanlegges parallelt slik at elevenes timeplanen kan legges med et akseptabelt uketimetall. Til hjelp i denne prosessen tar man ut en _konfliktmatrise_. Konfliktmatrisen hentes fra _Timeplan > Rapporter > Matrise gruppefag_. Rapporten kan tas ut selv om valget har gått via blokkskjema.
 
 Bildet på neste side viser her alle gruppene som er satt opp både horisontalt
 og vertikalt. Antall elever som har valgt hver fag fremgår av diagonalen.
