@@ -265,13 +265,13 @@ Vi har valgt klasse ST1A som eksempel.
 #### Fag
 Til venstre i bildet vises klassens fag. Merk at et fag kan ha flere lærer (se GEO). Kolonnen _Timer_ forteller 
 hvor mange timer fagene skal timeplanlegges denne uken, mens kolonnen _Lagt_ viser 
-hvor mange timer som alt er timeplanlagt. I kolonnen _Timer_ er det et ikon (en blyant) til venstre for 
-timetallet. Ved å trykke på ikonet kan man justere timetallet for faget og/eller lærer(e).
+hvor mange timer som alt er timeplanlagt i denne uken. I kolonnen _Timer_ er det et ikon (en blyant) til venstre for 
+timetallet. Ved å trykke på ikonet kan man justere timetallet for faget og/eller lærer(e) i denne uken.
 
 Timeplanlegger vil spesielt ha fokus på skjermbildene  _Timeplan klasse_ og _Timeplan lærer_.
 
 #### Timeplan klasse
-Her er klassens timeplan allerede er lagt for uke 37. Klassefag vises på blå bakgrunn og gruppefag på grønn bakgrunn. Når man velger fag fra tabellen _Fag_, her er ENG valgt, vil faget vises på rosa bakgrunn både på klassens og lærerens timeplan. Timer i klassen som ikke er timeplanlagte har en mørkere grønnefarge. Eventeult hvite felt markerer timer som ikke kan timeplanlegges. 
+Her er klassens timeplan allerede lagt for uke 37. Klassefag vises på blå bakgrunn og gruppefag på grønn bakgrunn. Når man velger fag fra tabellen _Fag_, her er ENG valgt, vil faget vises på rosa bakgrunn både på klassens og lærerens timeplan. Timer i klassen som ikke er timeplanlagte har en mørkere grønnefarge. Blanke/hvite felt kan ikke timeplanlegges. 
 
 #### Timeplan lærer
 Her vises alle timeplanlagte fag til faglæreren som har faget som er valgt fra _Fag_ (her: ENG).
@@ -284,35 +284,34 @@ Når man velger fag, vil automatisk rommet som er tildelt faget fra  _Grunnlagsd
 For å endre romvalgdersom på en allerede timeplanlagt time: Klikk på faget på klassens timeplan. Nedtrekkslisten _Timeplanlagte rom_ vil bare inneholder rom som er ledige for den valgte timen.
 
 ## Timeplanlegge klasse
-Oppsummert er det følgende trinn som må gjøres for å timeplanlegge klassefag:
+Følgende trinn som må gjøres for å timeplanlegge klassefag:
 
-1. Velg klasse og uke, og rom dersom klassen har et fortrukket rom.
-1. Velg faget i listen over fag.
+1. Velg klasse og uke, og eventuelt rom.
+1. Velg fag og lærer i listen over fag.
 1. Plasser en time i faget ved å klikke på grønn time i klassens timeplanen 
 
-For å fjerne en enkelt time: Klikk  på timen på timeplanen, og velg _Slett time_. For å slette alle timeplanlagte i klassen, eller for et enkelt fag, eller valgte lærers timeplan for denne uken: Valgene fås frem ved å klikke på  _Slett timeplan..._
+For å fjerne en enkelt time: Klikk  på timen på timeplanen, og velg _Slett time_. For å slette alle timeplanlagte i klassen, eller for et enkelt fag, eller valgte lærers timeplan for denne uken: Valgene fås frem ved å klikke på  _Slett timeplan..._. Sletting skjer ikke umiddelbart, men først etter at man bekrefter at sletting skal finne sted.
 
-I dette avsnittet har vi sett på timeplanlegging av klassefag. Her var time- og fagfordelingen bestemt for klassen, men vi så bort eventuelle valgfags innvirkning på klassens timeplan. La oss derfor nå se næremer på gruppefag.
+Vi har nå sett på timeplanlegging av klassefag. Her var time- og fagfordelingen bestemt for klassen, men vi så bort fra eventuelle valgfags innvirkning på klassens timeplan. Vi ser nå på gruppefag.
 
 # Timeplanlegge gruppefag
 Det er utfordrende for skolen å bestemme hvilke valgfag som skal tilbys neste skoleårs elever.
-Faktorer som spiller inn er hvilke studieretninger skolen tilbyr, skolens størrelse, elevenes ønsker, lærernes fagkompetanse og ikke minst økonomiske konsekvenser.
+Viktige faktorer er skolens størrelse, hvilke studieretninger skolen tilbyr, elevenes ønsker og lærernes fagkompetanse.
 
-Elevene blir ved opptak plassert i klasser. Klassen er satt opp med fag som alle elevene i klassen skal følge. Men det finnes fag som det ikke er naturlig å plassere i en klasse. Faget kan være aktuelt og valgbart for elever fra forskjellige klasser.  Fag av i denne kategorien klassifiserer vi som _gruppefag_. Når elevene får undervisning i gruppefaget, kan timen ikke kolliderer med elevenes klassetimeplan.
+Elevene blir ved opptak plassert i klasser. Klassene er satt opp med fag som i utgangspunktet alle elevene i klassen skal følge. Men det finnes fag som det ikke er naturlig å plassere i en klasse. Det gjelder fag som kan være valgbare for enkeltelever fra forskjellige klasser.  Fag av i denne kategorien klassifiserer vi som _gruppefag_. Når elevene får undervisning i gruppefaget, kan/bør ikke timen kolliderer med elevenes klassetimeplan.
 
-Hvis elever i en klasse bare har klassefag vil timeplanen være komplett når alle klassefagene er timeplanlagt. Å legge timeplanen for klassefag er allerede vist i eksempelet i avsnittet _Timeplanlegge klasse_.
-Timeplanleggingen av slike klasser kan trygt gjøres før elevgrunnlaget er kjent. Klassens timeplan vil være komplett og lik for alle elevene i klassen.
+Hvis elever i en klasse bare har klassefag vil timeplanen være komplett for elevene når alle klassefagene er timeplanlagt. Timeplanleggingen av slike klasser kan trygt gjøres før elevgrunnlaget er kjent. Klassens timeplan vil være komplett og lik for alle elevene i klassen.
 
-Vi skal nå se på utfordringer med å få sammensatt gruppefagene slik at timeplanen lar seg realisere innenfor en akseptabel tidsramme.
+Å legge timeplanen for klassefag er allerede vist i eksempelet i avsnittet _Timeplanlegge klasse_.
+
+Nå skal vi se på utfordringer med å få sammensatt gruppefagene slik at timeplanen lar seg realisere innenfor en akseptabel tidsramme.
 
 #### Den enkelte elevs valgmuligheter
 Hvilke grupper (altså valgfag) som skal tilbys fastsettes på den enkelte skole. 
-Tilbudet begrenser seg ut fra økonomiske hensyn. Skolen gis vanligvis ikke noe ekstra tilskudd 
-om en øker antall grupper. I praksis betyr det at en gruppe ikke kan opprettes dersom noen få 
-elever har valgt faget. I utgangspunktet kan man tilbyr et mer omfattende utvalg av fag enn det som kan igangsettes. Får et
+Tilbudet begrenser seg ut fra blant annet økonomiske hensyn. Men i utgangspunktet kan man tilbyr et mer omfattende utvalg av fag enn det som kan igangsettes. Får et
 fag for få påmeldte elever, kan faget sløyfes, og disse elevene må foreta omvalg.
 
-Fra iSkole kan eksempelvis årets vg1- og vg2-elever selv velge blant gruppefag skolen vil tilby 
+Fra iSkole kan eksempelvis årets vg1- og vg2-elever direkte velge blant gruppefag skolen vil tilby 
 kommende skoleår. Opplegget forenkler administreringen av fagvalgene, både for elevene og
 administrasjonen. Vi skal nå se nærmere på arbeidet som går forut for
 elevenes valg. Vi skiller mellom to mulige strategier for oppsett av gruppefag
@@ -324,7 +323,7 @@ bare kan velge et fag fra hver blokk.
 
 Ideelt sett burde alternativ to benyttes. Men uten restriksjoner på elevenes
 valg vil resultatet kunne bli at skoledagen ble vesentlig lengre enn det som er
-ansett som akseptabelt, og at kostnadene vil kunne øke hvis man ender opp med mange små grupper. 
+ansett som akseptabelt, og at kostnadene øker selvsagt dersom man ender opp med mange små grupper. 
 La oss nå se litt nærmere på fordeler og ulemper til de to tilnærmingsmåtene.
 
 <img width="507" height="206" alt="image" src="https://github.com/user-attachments/assets/c530e50c-c6d9-4d6f-a60e-7084669c94ac" />
@@ -337,11 +336,12 @@ En elev kan bare velge ett fag fra hver blokk. Kombinasjonen matematikk fra blok
 
 Selve timeplanen for hver blokk er nødvendigvis ikke fastsatt. Men valget av gruppefag medfører at klassefag ikke kan timeplanlegges parallellt med gruppefag som elevene i klassen har valgt.
 
-Lar man elevene få velge helt fritt fra listen over foreslåtte grupper ville
-enhver kombinasjon av fagene være i utgangspunktet være valgbare. Da kan det være krevende
-å finne ut hvilke kombinasjoner av fag som kan timeplanlegges parallellt
-og hva som eventuelt må gjøres av omvalg for å få timeplanen innenfor
-et akseptabelt uketimetall. Til hjelp i denne prosessen tar man ut en
+#### Elevene velger fritt blant alle alle fag
+
+Da vil enhver kombinasjon av fagene være valgbare. (Unntaket er at noen fag (eksempelvis Fysikk 2) krever at man allerede har tatt et annet fag (Fysikk 1)). 
+
+Da kan det bli krevende å finne ut hvilke kombinasjoner av fag som kan timeplanlegges parallellt.
+Først må sannsynligvis noe grupper utgå dersom få har valgt faget, hvilet medører omvalg for berørte elever. Deretter må man finne hvilke grupper som kan tmeplanlegges parallelt slik at elevenes timeplanen kan legges med et akseptabelt uketimetall. Til hjelp i denne prosessen tar man ut en
 _konfliktmatrise_ etter at elevene har gjort sitt valg. Konfliktmatrisen hentes fra _Timeplan > Rapporter > Matrise gruppefag_.
 
 Bildet på neste side viser her alle gruppene som er satt opp både horisontalt
