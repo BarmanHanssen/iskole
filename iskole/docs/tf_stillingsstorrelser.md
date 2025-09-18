@@ -27,6 +27,6 @@ Her vises en oversikt over skolens lærerne:
 
 Dersom timeplanleggingen alt er startet, vil _Timeplanlagt_ vise status for klasse- og gruppe-fagstimene til læreren. (Vikartimer kan tilkomme i løpet av skoleåret.)
 
-:::note Merk
+:::info Merk
 For valgt person er summen av _Prosent_ fra _Undervisningsressurser_  og _Andre ressurser_ lik _Bsekjeftilgelse %_ fra _Oversikt_ .
 :::

@@ -17,7 +17,7 @@ Alle rapportene vises på skjerm, men de kan også ta ut som pdf- eller xls-fil.
 
 Her er noen ofte brukte kolonner valgt ut. 
 
-:::note Merk
+:::info Merk
 Alternativet "Navneliste med brukernavn,passord (ja/nei)" viser ikke passordet. Men dersom svaret er "nei" har vedkommende ikke vært innlogget på iSkole.
 :::
 
@@ -34,7 +34,7 @@ Her kan hele tabellen lagres som en xls-fil for videre bearbeiding.
 
 Antall rader i tabellen kan enkelt minskes ved å angi filter. 
 
-:::note Merk
+:::info Merk
 Filtreringen du benytter leter etter match i alle kolonnene.
 :::
 

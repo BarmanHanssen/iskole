@@ -12,7 +12,7 @@ Standard er at termin- stanpunktkarakterer føres inn av faglærer fra Mine side
 
 For å lette oversikten inneholder skjermbildet flere arkfaner.
 
-:::note Merk
+:::info Merk
 Her vises alle fag med offisiell fagkode som er registrert på eleven over alle år. Dersom noen fag er fullført på annen skole som benytter iSkole, vises skolenummeret til skolen i kolonne 2. Det er ikke mulig å gjøre andre endringer på fag avlagt på annen skole enn å utelukke det fra utskrift på kompetansebevis/vitnemål.
 :::
 

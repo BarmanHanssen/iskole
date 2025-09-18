@@ -6,7 +6,7 @@ sidebar_label: Elev
 ## Innledning
 For å bli definert som elev ved skolen et bestemt skoleår, må eleven være registrert med minimum fødselsnummer og navn, og være plassert i en klasse.
 
-:::note Merk
+:::info Merk
 Alle fag som skal på kompetansebevis/vitnmål til en elev må registreres på skoleåret faget tas. Desom fag tatt ved annen skole et skoleår eleven ikke var elev her, må eleven først plasseres i klasse. Deretter kan faget knyttes til eleven, det utføres fra Elevadmin.>Karakterdokumentasjon.
 :::
 
@@ -30,7 +30,7 @@ Etter trykk på _+Ny..._ kan registrering av ny elev starte ut fra følgende skj
 
 Såfremt eleven har kjent personnummer, anbefales sterkt å taste inn elevens fødselsnummer. Dersom ikke personnummeret ikke er kjent, benytt eksempelvis 99001, 99002 osv. som personnummer, og man huker da av for _Midlertidig personnummer_. Dette kan erstattes senere når nummeret blir tilgjenngelig. 
 
-::: note Merk
+:::info Merk
 Dersom midlertidig personnummer benyttes, eventuell også fiktiv fødselsdato, er det to forhold som kan skape problemer/merarbeid:
 - Eleven blir lagt inn på nytt, men da registrert med "ekte" personnummer
 - Eleven er allerede registrert i iSkole med "ekte" personnummer, eksempelvis fra en annen skole

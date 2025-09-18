@@ -9,7 +9,7 @@ Dersom faglærernes fraværesføringen er mangelfull, kan det være behov for ju
  
 ![image](https://user-images.githubusercontent.com/80097133/136764122-e612aa60-a33c-408f-8e23-721a1dc725d4.png)
 
-:::note Merk
+:::info Merk
 Det er timetallet (60 min) som benyttes på karakterutskriftene. På vitnemål/kompetansebevis vil summen av fraværet for 1. og 2. halvår benyttes. 
 Totalfraværet på vitnemål/kompetansebevis kan, om nødvendig, justeres fra Elevadmin.>Karakterdokumentasjon>Fravær/orden/atferd. 
 :::

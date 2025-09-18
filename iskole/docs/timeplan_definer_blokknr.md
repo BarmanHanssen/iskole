@@ -11,8 +11,8 @@ Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til
 
 Det er ikke mulig å timeplanlegge et blokkid slik at det medfører kollisjon med et annet blokkid. 
 
-:::note Merk
-Det er først etter at et blokkid  er timeplanlagt at vi kan høste gevinsten ved timeplanlegging av gruppefag.
+:::info Merk
+Det er først etter at et blokkid er timeplanlagt at vi kan høste gevinsten ved timeplanlegging av gruppefag.
 :::
 
 Eksempel:

@@ -11,7 +11,7 @@ Denne siden dokumenterer forrige versjon av iSkole. Tolærere er fjernet fra den
 # Timeplanlegge tolærerfag
 Dersom et fag er satt opp med flere lærere, er ekstra lærer(e) registrert fra _Time- og fagfordeling>Tolærerfag_. Klasse- og gruppefag med tolærer vises i tabellen til venstre på skjermen. Tolærertimer kan bare timeplanlegges der faget alt er timeplanlagt. Tolærer har ofte færre årstimer en faglæreren og er kanskje ikke tolærer i alle uker. Timeplanlegging av tolærer kan foretas parallelt med timeplanleggingen av faget fra menyvalget _Klasser_. 
 
-:::note Tips
+:::tip Tips
 For bare få frem tolærerfag som er klargjort for timeplanlegging: Bruk filter slik som vist her.
 ![image](https://user-images.githubusercontent.com/80097133/123410124-3af41580-d5af-11eb-8a68-ce8fd1dcb446.png)
 :::
@@ -26,7 +26,7 @@ Nå vises timeplanen for tolæreren, og for tolærerfaget som er valgt.
 - Dersom allerede lagt tolærertime (gjelder fag på rød bakgrunn) skal slettes: Høyreklikk på faget, og velg _Slett_.
 - Dersom tolæreren skal ha eget rom (gjelder fag på rød bakgrunn): Høyreklikk på faget, og velg _Endre rom_. Du kan da velge fra en liste med ledige rom for denne timen.
 
-:::note Merk
+:::info Merk
 Dersom tolærerfaget har tegnet + bak kortnavnet (her BY1C TOB+) viser det at faget har mer enn en tolærer. Dette ses også fra tabellen til venstre, da faget BY1C TOB kommer på to linjer. For tolærerfaget er også romnummeret tatt med. Dersom tolæreren skal ha eget rom, altså ikke være på samme sted som faglærer, kommer faget dobbelt. På onsdag 12:15 er altså både Fsal og U15 båndlagt for faget TOB.
 ::::
 

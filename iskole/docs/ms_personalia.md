@@ -10,7 +10,7 @@ Her kan du se personalia skolen har registrert på deg. Du kan selv endre egen a
 ![image](https://github.com/user-attachments/assets/07c93a59-320e-4ae6-8510-5831e2cdbc09)
 
 
-:::note Merk
+:::info Merk
 #### For å endre passordet, se oppe i høyre hjørne:
 
 ![image](https://github.com/user-attachments/assets/c72a41d3-ea2f-4011-8a11-77125bc73760)

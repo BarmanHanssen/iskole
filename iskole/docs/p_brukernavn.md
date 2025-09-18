@@ -16,7 +16,7 @@ Brukernavn generert herfra må være entydig for alle som er registrert i iSkole
 epost-adressen kan bare benyttes dersom den bare er knyttet til en person. Dersom eksempelvis foreldre og barn (altså elev) er registert med lik epost, kan epost-adressen ikke benyttes for innlogging.
 
 
-:::note Merk
+:::info Merk
 For at den enkelte kan få logget seg på første gang, må epost-adressen være registrert.  Benytt da valget _Bestill nytt passord_. 
 :::
 

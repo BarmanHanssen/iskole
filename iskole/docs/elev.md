@@ -32,7 +32,7 @@ tre uleste meldinger, ett ubesvart samtykke og to elevsamtaler som ikke er kvitt
 
 ![Meny](/img/iskole_elev_meny_samlet.png 'Meny')
 
-:::note Merk
+:::info Merk
 Menyvalg som opplagt ikke er aktuelle for eleven vil ikke vises. Eksempelvis vil ikke menyvalget _Samtykke_ vises hvis ikke skolen har definert noe samtykkeskjema, og heller ikke menyvalget _Internat_ vil vises for elever på en skole som ikke har registrert noe internat.
 :::
 
@@ -52,7 +52,7 @@ Etterhvert som fag- eller kontaktlæreren din registrerer fravær og forsentkomm
 Du kan registrere egenmeldinger for dagfravær og timefravær. Egenmeldingen for dagfravær går til kontaktlæreren
 din og du letter arbeidet med å føre dagfravær ved å sende inn egenmelding. Du bør registrere en egenmelding for dagfravær så tidlig som mulig, men det går også an å etterregistrere egenmeldinger for dagfravær. Egenmeldingen for timefravær går til både kontakt- og faglæreren din. Du kan også registrere egenmelding for timefravær bakover i tid. Har du egenmeldt dagfravær skal du ikke egenmelde timene denne dagen. Dersom du har dokumentasjon for fraværet kan denne lastes opp sammen med egenmeldingen.
 
-:::note Merk
+:::info Merk
 Mange skoler gir ordensanmerkning dersom det ikke registreres egenmelding. Se skolens ordensreglement eller spør din kontaktlærer.
 :::
 

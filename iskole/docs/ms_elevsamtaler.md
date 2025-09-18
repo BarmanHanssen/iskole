@@ -12,7 +12,7 @@ Først vises en oversikt over elevene og antall avholdte samtaler. Kolonnen _Beh
 
 For å slette en elevsamtale klikker du først _Rediger_, deretter _Slett..._. Slettingen må deretter bekreftes.
 
-:::note Merk
+:::info Merk
 Du har bare mulighet til å endre eller slette elevsamtalen frem til eleven kvittérer. 
 :::
 

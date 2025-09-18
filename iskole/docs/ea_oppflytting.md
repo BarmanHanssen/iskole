@@ -12,6 +12,6 @@ For skoler med flerårig løp, vil vanligvis en elev være tilknyttet skolen i f
 Benytter man VIGO inntak vil man etterpå kunne se hvilke eleversom faktisk ble tildelt skoleplass. Oppflytting av elever er nyttig slik at man kan starte planleggingen av neste skoleår før inntaket foreligger. Man flytter opp elever klassevis eller enkeltvis. Når man velger en klasse fra _*Klasse i år_, fylles listen 
 under av elever i klassen. Neste skritt er å velge hvilken klasse elevene skal flyttes opp i fra nedtrekkslisten _*Klasse neste år_. Deretter kan man velge å flytte opp alle elevene i klassen ved å trykke på knappen _Flytt opp alle_ eller velge elever i listen og så trykke på _Flytt opp merkede_.
 
-:::note Merk
+:::info Merk
 Det er kun elever som er registrert som elev fra og med 1. september som vil bli overført til Vigo. Dersom noen av de oppflyttede elever likevel ikke fortsetter, får det ingen konsekvenser dersom de slettes innen denne datoen.
 :::
