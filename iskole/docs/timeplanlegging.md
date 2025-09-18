@@ -59,7 +59,7 @@ hele skoleåret. Skolens timeplan kan derfor være dokumentasjon for omfanget av
 
 :::tip Merk
 Timene bestemt her er en mal. Når en time i et fag timeplanlegges, blir start - og slutt-tiden for timen 
-fastlagt ut fra denne malen. Men timeplanlegger kan om ønskelig endre både start og slutt-tiden på timen.
+fastlagt ut fra denne malen. Men timeplanlegger kan da om ønskelig endre både start og slutt-tiden på timen.
 :::tip
 
 ### Rom
