@@ -7,9 +7,7 @@ sidebar_label: Timeplanlegging
 ## Innledning
 ### Forord
 Her kommer litt bakgrunnstoff for brukerne av timeplanverktøyet som benyttes i iSkole. Hvordan en ideell timeplan bør 
-utformes diskuteres ikke her. Fokus er hvordan man time for time kan bygge en timeplan. Siktemålet er at den
-ferdigstilte timeplanen skal entydig vise hvor, når og hvem som er lærere
-i hvert fag, og hvilke elever som følger undervisningen i fagene gjennom
+utformes diskuteres ikke her. Fokus er hvordan man time for time kan bygge en timeplan. Siktemålet er fremskaffe en timeplanen som entydig vise hvor, når og hvem som er lærere i hvert fag, og hvilke elever som følger undervisningen i fagene gjennom
 hele skoleåret, dag for dag, time for time. Tenker man på alle varianter av
 elevsammensetninger, fordeling av enkelt- og dobbeltimer, og at fagenes timetall kan variere fra uke til uke, da vet 
 man at det kan bli arbeidskrevende å få på plass en fullstendig timeplan. Men, når uketimeplanene er på
