@@ -374,7 +374,7 @@ timen skal utbetales eller ikke og deretter trykke _OK_. Når det er gjort har
 faget fått en vikar, og vikaren får opp timen på sin timeplan.
 
 ### Bytte av lærer i fag
-Man kan bytte/legge til lærer fra menyvalget _Timeplan > Klasse_ og _Timeplan>Gruppefag_. 
+Man kan bytte/legge til lærer fra  _Timeplan > Klasse_ og _Timeplan>Gruppefag_. 
 
 ## Etterord
-For alle brukere av iSkole er det brukerveiledningen knyttet til det enkelte menyvalg.
+Alle brukere av iSkole hat tilgang til en brukerveiledning knyttet til det enkelte menyvalg.
