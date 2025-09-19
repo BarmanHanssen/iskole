@@ -341,34 +341,24 @@ Da kan det bli krevende å finne ut hvilke kombinasjoner av fag som kan timeplan
 Først må sannsynligvis noe grupper utgå dersom få har valgt faget, eller at elevene kommer fra så mange klasser at det ikke vil gå timeplanmessig. Dette tilsier omvalg for berørte elever. Deretter må man finne hvilke grupper som kan tmeplanlegges parallelt slik at elevenes timeplanen kan legges med et akseptabelt tidsramme. Til hjelp i denne prosessen tar man ut en _konfliktmatrise_. Konfliktmatrisen hentes fra _Timeplan > Rapporter > Matrise gruppefag_. 
 
 Eksemplet viser _Matrise gruppefag_ tatt ut for elever fra ST1. Rapporten kan tas ut uavhengig av hvordan valget at gruppefag har foregått.
+
 <img width="809" height="638" alt="image" src="https://github.com/user-attachments/assets/22f7c0bc-efa4-45d7-a598-4727a169b956" />
 
+Alle gruppene (13) som er markert horisontalt og vertikalt. Antall elever som har valgt hver fag fremgår av diagonalen.
+Eksempelvis er TY2 1 valgt av 25 elever. Av disse elevene har ingen valgt eksempelvis MAP 4 eller MAP 5. Det betyr at MAP 4 eller MAP 5 kan
+settes opp i en blokk, altså timeplanlegges prallelt. 
 
-Bildet på neste side viser her alle gruppene som er satt opp både horisontalt
-og vertikalt. Antall elever som har valgt hver fag fremgår av diagonalen.
-Eksempelvis er ST2KJ1 valgt av 21 elever. Av disse elevene har ingen valgt
-STENI eller ST2MED. Det betyr at ST2KJ1, ST2ENI og ST2MED kan
-settes opp i en blokk. Vi ser også at en av de 21 elevene som har valgt ST2KJ1 også har valgt ST2FR2, og at en elev (ikke nødvendigvis den samme
-eleven som har valgt ST2FR2) har valgt ST2SO1. Hvis denne eleven (eller
-disse to elevene) må gjøre omvalg, kan ST2FR2 og ST2SO1 timeplanlegges
-samtidig med ST2ENI (og ST2KJ1). Fagene utgjør da en blokk, se figur 2
-på side 14 som viser oppsett av gruppefag.
+Merk at ved å klikke på et tall, eksempelvis 7 på nederste linje, så vises 7 navn. Det er elevene som har valgt både TY2 1 og MAT 2.
 
-![Konfliktmatrise](/img/tk_konfliktmatrise.png 'Konfliktmatrise')
-
-Uten her å gå nærmere inn på detaljene skjønner man at det fort kan bli
-litt av et puslespill, med en del omvalg, før brikkene faller på plass. Resultatet
-skal til slutt kunne settes opp i et blokkskjema slik det allerede er beskrevet.
+Dersom man lar elevene velge mer eller mindre fritt, blir det litt av et puslespill som må løses for å komme i mål. Resultatet
+skal til slutt kunne settes opp i et blokkskjema slik det allerede er beskrevet. 
 Blokkskjemaet gir den optimale oversikten over hvordan undervisningen
 tenkes organisert, uten at man tar stilling til når på dagen undervisningen
-skal finne sted.
-
-![Timer](/img/tk_timeplan_time.png 'Timer')
+skal finne sted. Problemet er å begrense antall blokker slik at timeplanen ikke eser ut. 
 
 ### Menyvalgene for timeplanlegging av gruppefag
 Når man klikker på menyvalget _Timeplan_, får man oversikt over de
-forskjellige fasene i timeplanleggingen. Det faller natrulig å gjennomføre
-timeplanleggingen utfra rekkefølgen i menyen, men det er ikke påkrevet.
+forskjellige fasene i timeplanleggingen. Timeplanleggingen gjennomføres gjerne utfra rekkefølgen i menyen, men det er ikke påkrevet.
 De fire valgene som har med gruppefag å gjøre er listet opp under:
 
 1. Blokk
