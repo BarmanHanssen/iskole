@@ -308,8 +308,7 @@ Nå skal vi se på utfordringer med å få sammensatt gruppefagene slik at timep
 
 #### Den enkelte elevs valgmuligheter
 Hvilke grupper (altså valgfag) som skal tilbys fastsettes på den enkelte skole. 
-Tilbudet begrenser seg ut fra blant annet økonomiske hensyn. Men i utgangspunktet kan man tilbyr et mer omfattende utvalg av fag enn det som kan igangsettes. Får et
-fag for få påmeldte elever, kan faget sløyfes, og disse elevene må foreta omvalg.
+Tilbudet begrenser seg ut fra blant annet økonomiske hensyn. Men i utgangspunktet kan man tilbyr et mer omfattende utvalg av fag enn det som kan igangsettes. Får et fag for få påmeldte elever, kan faget sløyfes, og disse elevene må foreta omvalg blant de gjenværende grupppene.
 
 Fra iSkole kan eksempelvis årets vg1- og vg2-elever direkte velge blant gruppefag skolen vil tilby 
 kommende skoleår. Opplegget forenkler administreringen av fagvalgene, både for elevene og
@@ -317,31 +316,33 @@ administrasjonen. Vi skal nå se nærmere på arbeidet som går forut for
 elevenes valg. Vi skiller mellom to mulige strategier for oppsett av gruppefag
 til valg:
 
-1. Gruppene er satt opp i et skjema (vi kaller det _blokkskjema_) slik at elevene
-bare kan velge et fag fra hver blokk.
+1. Gruppene er satt opp i et skjema (vi kaller det _blokkskjema_) slik at elevene bare kan velge et fag fra hver blokk.
 1. Elevene får velge helt fritt fra listen som viser valgbare gruppefag.
 
 Ideelt sett burde alternativ to benyttes. Men uten restriksjoner på elevenes
 valg vil resultatet kunne bli at skoledagen ble vesentlig lengre enn det som er
-ansett som akseptabelt, og at kostnadene øker selvsagt dersom man ender opp med mange små grupper. 
+ansett som akseptabelt, og at kostnadene øker dersom man ender opp med mange uensartede grupper. 
 La oss nå se litt nærmere på fordeler og ulemper til de to tilnærmingsmåtene.
 
 <img width="507" height="206" alt="image" src="https://github.com/user-attachments/assets/c530e50c-c6d9-4d6f-a60e-7084669c94ac" />
 
-Her er valgfagene plassert i et blokkskjema. Elevene kan bare velge ett fag fra hver blokk.Her er det bestemt at undervisningen i fransk og matematikk
-skal gå samtidig (blokk 1), tysk, spansk og fysikk skal gå samtidig (blokk 2)
-og til sist at kjemi og biologi skal gå samtidig (blokk 3). 
+Her er valgfagene plassert i et blokkskjema. Elevene kan bare velge ett fag fra hver blokk. Her er det bestemt at undervisningen i fransk og matematikk skal gå samtidig (blokk 1), tysk, spansk og fysikk skal gå samtidig (blokk 2)
+og at kjemi og biologi skal gå samtidig (blokk 3). 
 
 En elev kan bare velge ett fag fra hver blokk. Kombinasjonen matematikk fra blokk 1, tysk fra blokk 2 og biologi fra blokk 3 er et mulig valg. Velger man biologi kan det ikke kombineres med kjemi. En elev kan heller ikke velge både tysk og spansk.
 
-Selve timeplanen for hver blokk er nødvendigvis ikke fastsatt. Men valget av gruppefag medfører at klassefag ikke kan timeplanlegges parallellt med gruppefag som elevene i klassen har valgt.
+Selve timeplanen for hver blokk er nødvendigvis ikke fastsatt. Men timeplanen for gruppefagene må legges slik at klassens timeplan også kan legges uten at elevene får kollisjon på sin timeplan. Vi tar utgangspunkt i viste blokkskjema. En elev har valgt matematikk, fysikk og kjemi. Disse fag skal tilsammen ha 15 timer på timeplanen. Dersom skoleuken skal begrenses til 30 timer på klassens timetall, må klassefagene i sum ikke kreve mer enn 15 timer dersom kollisjoner skal unngås.
 
 #### Elevene velger fritt blant alle alle fag
 
 Da vil enhver kombinasjon av fagene være valgbare. (Unntaket er at noen fag (eksempelvis Fysikk 2) krever at man allerede har tatt et annet fag (Fysikk 1)). 
 
 Da kan det bli krevende å finne ut hvilke kombinasjoner av fag som kan timeplanlegges parallellt.
-Først må sannsynligvis noe grupper utgå dersom få har valgt faget, eller at elevene kommer fra så mange klasser at det ikke vil timeplanmessig. Dette tilsier omvalg for berørte elever. Deretter må man finne hvilke grupper som kan tmeplanlegges parallelt slik at elevenes timeplanen kan legges med et akseptabelt uketimetall. Til hjelp i denne prosessen tar man ut en _konfliktmatrise_. Konfliktmatrisen hentes fra _Timeplan > Rapporter > Matrise gruppefag_. Rapporten kan tas ut selv om valget har gått via blokkskjema.
+Først må sannsynligvis noe grupper utgå dersom få har valgt faget, eller at elevene kommer fra så mange klasser at det ikke vil gå timeplanmessig. Dette tilsier omvalg for berørte elever. Deretter må man finne hvilke grupper som kan tmeplanlegges parallelt slik at elevenes timeplanen kan legges med et akseptabelt tidsramme. Til hjelp i denne prosessen tar man ut en _konfliktmatrise_. Konfliktmatrisen hentes fra _Timeplan > Rapporter > Matrise gruppefag_. 
+
+Eksemplet viser _Matrise gruppefag_ tatt ut for elever fra ST1. Rapporten kan tas ut uavhengig av hvordan valget at gruppefag har foregått.
+<img width="809" height="638" alt="image" src="https://github.com/user-attachments/assets/22f7c0bc-efa4-45d7-a598-4727a169b956" />
+
 
 Bildet på neste side viser her alle gruppene som er satt opp både horisontalt
 og vertikalt. Antall elever som har valgt hver fag fremgår av diagonalen.
