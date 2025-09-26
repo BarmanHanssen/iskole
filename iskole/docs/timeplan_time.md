@@ -41,9 +41,9 @@ Fordeler/ulemper med 2:
 \- Kan komme i skade for å velge feil timelengde når timene utplasseres.  
 
 ## Før en endrer oppsettet med timenes plassering/lengde
-Timene og timelengden som lagres her er altså en mal som benyttes når en legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen.
+Timene og timelengden som lagres her er altså en mal som benyttes når en legger timeplanen. 
 
-Det er også mulig å endre start- og sluttid for en enkel time fra _Timeplan>Klasser_ og _Timeplan>Grupper_. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra endret start- og sluttid på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper med en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
+Det er også mulig å endre start- og sluttid for en timeplanlagt time fra _Timeplan>Klasser_ og _Timeplan>Grupper_. Dersom man øker timelengden på en time på timeplanen slik at den overlapper med en annen time, så kan det selvsagt medføre en kollisjon for lærer eler elev, men det vil systemet avdekke.
 
 Her vises et eksempel på en mal. Ved å klikke på en time kan man gjøre endring på start- og slutt-tiden for timen, eller slette timen.
 
