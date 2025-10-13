@@ -7,14 +7,14 @@ sidebar_label: Elev
 For å bli definert som elev ved skolen et bestemt skoleår, må eleven være registrert med minimum fødselsnummer og navn, og være plassert i en klasse.
 
 :::info Merk
-Alle fag som skal på kompetansebevis/vitnmål til en elev må registreres på skoleåret faget tas. Desom fag tatt ved annen skole et skoleår eleven ikke var elev her, må eleven først plasseres i klasse. Deretter kan faget knyttes til eleven, det utføres fra Elevadmin.>Karakterdokumentasjon.
+Alle fag som skal på kompetansebevis/vitnemål til en elev må registreres på skoleåret faget tas. Desom fag tatt ved annen skole et skoleår eleven ikke var elev her, må eleven først plasseres i klasse. Deretter kan faget knyttes til eleven, det utføres fra Elevadmin.>Karakterdokumentasjon.
 :::
 
 Alternativer for å få inn elever til nytt skoleår kan være
 
 - Inntak via Inntaksportalen til iSkole (anbefales)
 - Oppflytting fra forrige skoleår (ved nytt skoleår)
-- Inntak via fylket inntaksystem (gjelder videregående elever)
+- Inntak via fylkets inntakssystem (gjelder videregående elever)
 - Via data fra annen skole som benytter iSkole (se nedenfor)
 - Ved å hente data fra egen skole ved overgang til iSkole (gjelder nye skoler)
 
@@ -28,7 +28,7 @@ Etter trykk på _+Ny..._ kan registrering av ny elev starte ut fra følgende skj
 
 ![image](https://user-images.githubusercontent.com/80097133/121347490-8b207600-c927-11eb-9b0b-93ef1ea91e18.png)
 
-Såfremt eleven har kjent personnummer, anbefales sterkt å taste inn elevens fødselsnummer. Dersom ikke personnummeret ikke er kjent, benytt eksempelvis 99001, 99002 osv. som personnummer, og man huker da av for _Midlertidig personnummer_. Dette kan erstattes senere når nummeret blir tilgjenngelig. 
+Såfremt eleven har kjent personnummer, anbefales sterkt å taste inn elevens fødselsnummer. Dersom ikke personnummeret ikke er kjent, benytt eksempelvis 99001, 99002 osv. som personnummer, og man huker da av for _Midlertidig personnummer_. Dette kan erstattes senere når nummeret blir tilgjengelig. 
 
 :::info Merk
 Dersom midlertidig personnummer benyttes, eventuell også fiktiv fødselsdato, er det to forhold som kan skape problemer/merarbeid:
@@ -58,7 +58,7 @@ Når gyldig fødselsnummer er registrert vil _Fornavn_ og _Etternavn_ kunne frem
 Merknad er bare synlig herfra for den skolen som legger inn merknaden. Bytter eleven skole, er den ikke synlig på den nye skolen.
 
 #### Foreldre 1 og Foreldre 2
-Fram til eleven er myndig, har foreldre innsyn i data til sine barn. Dersom foreldres fødselsnummer regsitreres, kan det også benyttes som brukernavn ved innlogging til iSkole.
+Fram til eleven er myndig, har foreldre innsyn i data til sine barn. Dersom foreldres fødselsnummer registreres, kan det også benyttes som brukernavn ved innlogging til iSkole.
 Data herfra benyttes også for skolens kommunikasjon med elevens foresatte. Vanligvis bare interessant til eleven har nådd myndighetsalder. 
 - E-varsel: Varsel til eleven, feks ved stort fravær, sendes også til foresatte som e-post.
 - Tilgang iSkole: Foresatte får tilgang til alle data knyttet til eleven så lenge eleven er elev ved skolen. Tilgangen stoppes ved myndighetsalderen til eleven, dersom ikke annen variant eksplisitt er valgt.
