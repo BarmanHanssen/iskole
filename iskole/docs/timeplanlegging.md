@@ -296,11 +296,11 @@ Vi har nå sett på timeplanlegging av klassefag. Her var time- og fagfordelinge
 Det er utfordrende for skolen å bestemme hvilke valgfag som skal tilbys neste skoleårs elever.
 Viktige faktorer er skolens størrelse, hvilke studieretninger skolen tilbyr, elevenes ønsker og lærernes fagkompetanse.
 
-Elevene blir ved opptak plassert i klasser. Klassene er satt opp med fag som i utgangspunktet alle elevene i klassen skal følge. Men det finnes fag som det ikke er naturlig å plassere i en klasse. Det gjelder fag som kan være valgbare for enkeltelever fra forskjellige klasser.  Fag av i denne kategorien klassifiserer vi som _gruppefag_. Når elevene får undervisning i gruppefaget, kan/bør ikke timen kolliderer med elevenes klassetimeplan.
+Elevene blir ved opptak plassert i klasser. Klassene er satt opp med fag som i utgangspunktet alle elevene i klassen skal følge. Men det finnes fag som det ikke er naturlig å plassere i en klasse. Det gjelder fag som kan være valgbare for elever fra forskjellige klasser.  Fag av i denne kategorien klassifiserer vi som _gruppefag_. Når elevene får undervisning i gruppefaget, kan/bør ikke timen kolliderer med elevens klassetimeplan.
 
 Hvis elever i en klasse bare har klassefag vil timeplanen være komplett for elevene når alle klassefagene er timeplanlagt. Timeplanleggingen av slike klasser kan trygt gjøres før elevgrunnlaget er kjent. Klassens timeplan vil være komplett og lik for alle elevene i klassen.
 
-Å legge timeplanen for klassefag er allerede vist i eksempelet i avsnittet _Timeplanlegge klasse_.
+Å legge timeplanen for klassefag er allerede vist i avsnittet _Timeplanlegge klasse_.
 
 Nå skal vi se på utfordringer med å få sammensatt gruppefagene slik at timeplanen lar seg realisere innenfor en akseptabel tidsramme.
 
@@ -308,9 +308,8 @@ Nå skal vi se på utfordringer med å få sammensatt gruppefagene slik at timep
 Hvilke grupper (altså valgfag) som skal tilbys fastsettes på den enkelte skole. 
 Tilbudet begrenser seg ut fra blant annet økonomiske hensyn. Men i utgangspunktet kan man tilbyr et mer omfattende utvalg av fag enn det som kan igangsettes. Får et fag for få påmeldte elever, kan faget sløyfes, og disse elevene må foreta omvalg blant de gjenværende grupppene.
 
-Fra iSkole kan eksempelvis årets vg1- og vg2-elever direkte velge blant gruppefag skolen vil tilby 
-kommende skoleår. Opplegget forenkler administreringen av fagvalgene, både for elevene og
-administrasjonen. Vi skal nå se nærmere på arbeidet som går forut for
+Fra iSkole kan eksempelvis årets vg1- og vg2-elever få tilgang til å velge blant gruppefag skolen vil tilby 
+kommende skoleår. Vi skal nå se nærmere på arbeidet som går forut for
 elevenes valg. Vi skiller mellom to mulige strategier for oppsett av gruppefag
 til valg:
 
@@ -319,7 +318,7 @@ til valg:
 
 Ideelt sett burde alternativ to benyttes. Men uten restriksjoner på elevenes
 valg vil resultatet kunne bli at skoledagen ble vesentlig lengre enn det som er
-ansett som akseptabelt, og at kostnadene øker dersom man ender opp med mange uensartede grupper. 
+ansett som akseptabelt, og at kostnadene øker dersom man ender opp med mange grupper. 
 La oss nå se litt nærmere på fordeler og ulemper til de to tilnærmingsmåtene.
 
 <img width="507" height="206" alt="image" src="https://github.com/user-attachments/assets/c530e50c-c6d9-4d6f-a60e-7084669c94ac" />
@@ -329,7 +328,9 @@ og at kjemi og biologi skal gå samtidig (blokk 3).
 
 En elev kan bare velge ett fag fra hver blokk. Kombinasjonen matematikk fra blokk 1, tysk fra blokk 2 og biologi fra blokk 3 er et mulig valg. Velger man biologi kan det ikke kombineres med kjemi. En elev kan heller ikke velge både tysk og spansk.
 
-Selve timeplanen for hver blokk er nødvendigvis ikke fastsatt. Men timeplanen for gruppefagene må legges slik at klassens timeplan også kan legges uten at elevene får kollisjon på sin timeplan. Vi tar utgangspunkt i viste blokkskjema. En elev har valgt matematikk, fysikk og kjemi. Disse fag skal tilsammen ha 15 timer på timeplanen. Dersom skoleuken skal begrenses til 30 timer på klassens timetall, må klassefagene i sum ikke kreve mer enn 15 timer dersom kollisjoner skal unngås.
+Timeplanen for hver blokk er nødvendigvis ikke fastsatt når elevene velger gruppe. Men timeplanen for gruppefagene må legges slik at klassenes timeplaner også kan legges uten at elevene får kollisjon på sin klassetimeplan. 
+
+Vi tar utgangspunkt i viste blokkskjema. En elev har valgt matematikk, fysikk og kjemi. Disse fag skal tilsammen ha 15 timer på timeplanen. Dersom skoleuken skal begrenses til 30 timer på klassens timetall, må klassefagene for nevnte elevs klasse ikke kreve mer enn 15 timer.
 
 #### Elevene velger fritt blant alle alle fag
 
@@ -350,9 +351,10 @@ Merk at ved å klikke på et tall, eksempelvis 7 på nederste linje, så vises 7
 
 Dersom man lar elevene velge mer eller mindre fritt, blir det litt av et puslespill som må løses for å komme i mål. Resultatet
 skal til slutt kunne settes opp i et blokkskjema slik det allerede er beskrevet. 
+
 Blokkskjemaet gir den optimale oversikten over hvordan undervisningen
 tenkes organisert, uten at man tar stilling til når på dagen undervisningen
-skal finne sted. Problemet er å begrense antall blokker slik at timeplanen ikke eser ut. 
+skal finne sted. Utfordringen er å begrense antall blokker slik at timeplanen ikke eser ut. 
 
 
 ## Endringer i timeplanen underveis i skoleåret
@@ -369,10 +371,10 @@ som skal ha vikar. Når man har valgt læreren, vises timeplanen til læreren.
 Ved å trykke på en time vil man få frem et vindu som viser hvilke lærere
 som er ledige denne timen. Her kan man da velge ønsket vikar, markere om
 timen skal utbetales eller ikke og deretter trykke _OK_. Når det er gjort har
-faget fått en vikar, og vikaren får opp timen på sin timeplan.
+faget fått en vikar, og vikaren (og elevene) får opp timen på sin timeplan.
 
 ### Bytte av lærer i fag
 Man kan bytte/legge til lærer fra  _Timeplan > Klasse_ og _Timeplan>Gruppefag_. 
 
 ## Etterord
-Alle brukere av iSkole hat tilgang til en brukerveiledning knyttet til det enkelte menyvalg.
+Som bruker av iSkole har alle tilgang til en brukerveiledning knyttet til det enkelte menyvalg.

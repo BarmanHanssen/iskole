@@ -8,7 +8,7 @@ En time på timeplanen er bestemt ved at vi angir når timen starter, og når de
 
 En timeplan har tradisjonelt inneholdt 6 timer per dag over 5 ukedager. Vanligvis har timelengden vært 45 minutter, og alle dagene har hatt samme oppsett hva angår når timene starter og slutter. Dette er en praktisk ordning som gjør det lettere for alle som har bruk for timeplanen.
 
-Dersom man ønsker det, er det enkelt å lage et annet oppsett. For grunnskolen kan 1. time på mandag for barnetrinnet ha annen starttid enn for ungdomstrinnet. Timelengden kan også være forskjellig. En slik timeplan kan bli krevende for timeplanlegger dersom oppsettet er slik at timer kan overlappe hverandre. 
+Dersom man ønsker det, er det enkelt å lage et annet oppsett. For grunnskolen kan 1. time på mandag for barnetrinnet ha annen starttid enn for ungdomstrinnet. Timelengden kan også være forskjellig. En slik timeplan kan bli krevende for timeplanlegger dersom det er slik at timer kan overlappe hverandre. 
 
 :::info Merk
 Timeoppsettet er en mal. Når en time timeplanlegges, får timen start- og sluttiden fra gjeldende mal. Dersom malen endres, vil det ikke påvirke timer som alt er timeplanlagt, men når nye timer timeplanlegges, vil alltid gjeldende mal benyttes. 
@@ -41,9 +41,9 @@ Fordeler/ulemper med 2:
 \- Kan komme i skade for å velge feil timelengde når timene utplasseres.  
 
 ## Før en endrer oppsettet med timenes plassering/lengde
-Timene og timelengden som lagres her er altså en mal som benyttes når en legger timeplanen. Dette må en ikke glemme dersom man får behov for å gjøre endringer på timeplanen.
+Timene og timelengden som lagres her er altså en mal som benyttes når en legger timeplanen. 
 
-Det er også mulig å endre start- og sluttid for en enkel time fra _Timeplan>Klasser_ og _Timeplan>Grupper_. Systemet sjekker at det ikke oppstår noen kollisjon for lærer og elever ut fra endret start- og sluttid på timen. Dersom man øker timelengden på en time på timeplanen slik at den overlapper med en annen time, så kan det selvsagt medføre en kollisjon, men det vil systemet avdekke.
+Det er også mulig å endre start- og sluttid for en timeplanlagt time fra _Timeplan>Klasser_ og _Timeplan>Grupper_. Dersom man øker timelengden på en time på timeplanen slik at den overlapper med en annen time, så kan det selvsagt medføre en kollisjon for lærer eler elev, men det vil systemet avdekke.
 
 Her vises et eksempel på en mal. Ved å klikke på en time kan man gjøre endring på start- og slutt-tiden for timen, eller slette timen.
 

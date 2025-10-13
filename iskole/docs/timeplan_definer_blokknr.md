@@ -4,15 +4,14 @@ title: Blokk
 sidebar_label: Blokk
 ---
 
+Timeplanlegging av gruppefag kan gjøres uten å benytte (eller ta hensyn til) timeplanen for et blokkid. Men timeplanleggingen av fag med blokkid kan gå raskere da alle timene i faget kan legges med ett museklikk. 
 
-Blokkid kan brukes som en mal for timeplanlegging av gruppefag som ikke er timeplanlagt. En endring av malen har ingen innvirkning på timeplanen for et gruppefag som alt er timeplanlagt.
-
-Timeplanlegging av gruppefagene kan gjøres uten å benytte (eller ta hensyn til) timeplanen for et blokkid. Men timeplanleggingen av fag med blokkid kan gå vesentlig raskere ved at alle timene i faget kan legges med ett museklikk. 
+Blokkid kan brukes som en mal for timeplanlegging av gruppefag. En endring av malen har ingen innvirkning på timeplanen for gruppefag som alt er timeplanlagt.
 
 Det er ikke mulig å timeplanlegge et blokkid slik at det medfører kollisjon med et annet blokkid. 
 
 :::info Merk
-Det er først etter at et blokkid er timeplanlagt at vi kan høste gevinsten ved timeplanlegging av gruppefag.
+Det er først når et blokkid er timeplanlagt at vi kan høste gevinsten ved timeplanlegging av gruppefag.
 :::
 
 Eksempel:
