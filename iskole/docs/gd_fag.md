@@ -87,8 +87,7 @@ Når et nytt fag registreres her, kan selvsagt ingen elever være knyttet til fa
 Når elevene er registrert vil tallene her vise status for det enkelte fag. Dersom det viser seg at et fag ikke har elever når skoleåret er starter, kan det muligens være fornuftig å slette faget?
 
 ## Fag med flere komponenter
-Dersom et fag skal deles slik at hver del kan ha egen lærer, kan selve faget deles slik at hver lærer får sin del av faget. Kan være aktuelt for klassefag med stort omfang. 
-Benyttes også når en gruppe elever undervises samlet i noen timer, men deles i flere grupper i andre timer. Eksempel: Språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget er registrert med fagkoden til majoriteten av elevene. I andre timer er de delt ut fra forhåndskompetanse. Til dette formålet registreres en kompontent til faget. Komponenten har fagkoden 999999, og knyttes alså til den opprinnelige spansk-gruppen. (At noen elever skal være registrert med annen fagkode enn majoriteten, rettes opp fra _Elevadmin.>Karakterer_.)
+Dersom et fag skal deles slik at hver del kan ha egen lærer, kan selve faget deles slik at hver lærer får sin del av faget. Kan være aktuelt for klassefag med stort omfang. Benyttes spesielt for gruppefag når en gruppe elever undervises samlet i noen timer, men deles i flere mindre grupper i andre timer. Eksempel: Språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget er registrert med fagkoden til majoriteten av elevene. I andre timer er de delt ut fra forhåndskompetanse. Til dette formålet registreres en kompontent til faget. Komponenten har fagkoden 999999, og knyttes alså til den opprinnelige spansk-gruppen. (At noen elever skal ha en annen fagkode enn majoriteten, registreres fra _Elevadmin.>Karakterer_.)
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
 
