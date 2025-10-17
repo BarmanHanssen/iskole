@@ -60,13 +60,13 @@ Husk å klikke på ikonet _Lagre_!.
 Alt endres, unntatt _Utdanningsprogram,Trinn_ og _Navn (kort)_! 
 
 :::info Fagkode
-Elever som tas inn i en klasse, får fagkoden knyttet til fagene i klassen, tilsvarende for elevens valgte gruppefag. Endres fagkoden i faget herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. Men for en elev kan fagkoden, både for klasse- og gruppefag, endre fra _Elevadmin>Karakterdokumentasjon_. 
+Elever som tas inn i en klasse, får fagkoden knyttet til fagene i klassen, tilsvarende for elevens valgte gruppefag. Endres fagkoden i faget herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. Men for en elev i faget kan fagkoden, både for klasse- og gruppefag, endre fra _Elevadmin>Karakterdokumentasjon_. 
 :::
 
 ## Velges
 ![image](https://github.com/user-attachments/assets/29f29846-42a9-46da-9d2a-7e2dbab8289b)
 
-Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. Fag med elever hvor det allerede er satt karakter i kan ikke slettes.
+Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. Fag hvor det allerede er satt karakter på elever kan ikke slettes.
 
 ## Noen av kolonne vedrørende tabellen for klasse- og gruppefag
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/ad2ff266-6032-415f-b5f9-b92467eed0d4)
