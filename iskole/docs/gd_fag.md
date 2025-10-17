@@ -16,7 +16,7 @@ Alle fag som skal tilordnes en klasse (se menyvalget _Klasser_) må først være
 
 Med denne todelingen av fag (klassefag og gruppefag)  kan fagene timeplanlegges slik at hver elev, uke for uke gjennom hele skoleåret, kan få en korrekt timeplan.
 
-Registrering/endring av fag er knyttet til skoleåret som er valgt. Å slette et fag vil derfor kun slette faget for dette skoleåret, og har ingen innvirkning på tidligere års datagrunnlag. Ved nytt skoleår kan det være greit å slette fag som en vet ikke vil være i bruk. Dersom en fagkode eksempelvis er brukt flere ganger på et bestemt klassetrinn bør en vurdere om det er nødvendig.
+Registrering/endring av fag er knyttet til skoleåret som er valgt. Å slette et fag vil derfor kun slette faget for dette skoleåret, og har ingen innvirkning på tidligere års datagrunnlag. Ved nytt skoleår kan det være greit å slette fag som en vet ikke vil bli brukt. Og dersom en fagkode eksempelvis er brukt flere ganger på et bestemt klassetrinn bør en vurdere om det er nødvendig.
 
 ## Klassefag og Gruppefag
 Datagrunnlaget for begge fag-gruppene er så likt at vi bruker kun klassefag for å vise hva som må gjøres.
