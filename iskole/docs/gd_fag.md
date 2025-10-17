@@ -12,7 +12,7 @@ Her starter det:
 Har du _Fagkode_ markert med rød farge, velg da _Utgåtte fagkoder_ for å oppdatere, se omtale nederst på siden.
 :::
 ## Generelt
-Alle fag som skal tilordnes en klasse (se menyvalget _Klasser_) må være først være registrert her som _Klassefag_. Fag som elevene skal kunne velge i tillegg til klassefagene (se menyvalget _Grupper_), må første være regitrert her som _Gruppefag_ før de kan registreres under _Grupper_. En bestemt fagkode kan forekomme både som klasse- og gruppefag. Alle fag som skal tilbys elevene i dette skoleåret må altså være registrert her. Men et faget registrert her må ikke nødvendigvis bli registrert under menyvalgene _Klasser_ eller _Grupper_.
+Alle fag som skal tilordnes en klasse (se menyvalget _Klasser_) må først være registrert her som _Klassefag_. Fag som elevene skal kunne velge i tillegg til klassefagene (se menyvalget _Grupper_), må første være regitrert her som _Gruppefag_ før de kan registreres under _Grupper_. En bestemt fagkode kan forekomme både som klasse- og gruppefag. Alle fag som skal tilbys elevene i dette skoleåret må altså være registrert her. Men et faget registrert her må ikke nødvendigvis bli registrert under menyvalgene _Klasser_ eller _Grupper_.
 
 Med denne todelingen av fag (klassefag og gruppefag)  kan fagene timeplanlegges slik at hver elev, uke for uke gjonnom hele skoleåret, kan få en korrekt timeplan.
 
