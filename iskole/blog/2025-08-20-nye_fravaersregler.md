@@ -12,6 +12,9 @@ tags: [fravær]
 # Innledning
 Den 1. august 2025 trådte det i kraft nye regler for fraværsgrensen i videregående skole. Den største endringen er at helserelatert fravær vil telle på 10%-regelen, selv om fraværet dokumenteres. Fravær som kan unntas iht. [forskrift til privatskolelova §6-8 b-i](https://lovdata.no/dokument/SF/forskrift/2024-06-03-901/KAPITTEL_3-2-1#%C2%A76-8) vil som før ikke omfattes av 10%-regelen. I den forbindelse vil fraværsføringen på iSkole måtte endres for å skille ut helserelatert fravær.
 
+:::info Merk
+Fraværsgrensen skal kun beregnes for 2. halvår og standpunkt, dermed skal høyt fravær allerede 1. halvår varsles for 2. halvår eller standpunkt. 1. halvår er det kun manglende vurderingsgrunnlag eller andre årsaker som kan føre til varsel og eventuelt IV. Dere følger som tidligere prosenten på startsiden og varsler når dere finner det passende.
+:::
 
 ## Endring for føring av fravær på iSkole
 
@@ -29,9 +32,6 @@ Dere skal alltid registrere fraværet med dokumentasjonstypen som passer til fra
 Eksempel for kontaktlærer som fører fravær på en elev:
 ![image](/img/Helsefravær.png)
 
-:::warning Viktig!
-Fravær som er registrert før 21. august må gjennomgås og få riktig dokumentasjonstype.
-:::
 
 ### Elever og foreldre
 Elever og foreldre leverer egenmelding som før. De oppgir ikke noen fraværskode, kun om de er borte og om de har dokumentasjon. Læreren som behandler egenmeldingen må eventuelt endre fraværskoden fra D (dagfravær) eller F (timefravær) til andre koder der dette er aktuelt, samt sette rett dokumentasjonstype. Udokumentert er standardverdi. 
