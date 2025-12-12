@@ -7,7 +7,7 @@ Fag som skal kunne være valgbare for elevene, klassifiserer vi som gruppefag. D
 
 Det kan også være aktuelt at et klassefag blir registreret som gruppefag. Eksempelvis at klassen deles i to (eller flere) grupper og hvor hver gruppe har sitt eget opplegg, og at gruppene undervises parallelt.
 
-Alle aktuelle gruppefag er registrert fra menyvalget _Fag_ under valget _Gruppefag_. 
+Alle aktuelle gruppefag er registrert fra menyvalget _Fag_ under valget _Gruppefag_.  
 
 Her skal vi fastsette hvilke gruppefag som skal tilbys årets kull av elever. 
 
