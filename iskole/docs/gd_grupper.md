@@ -33,7 +33,7 @@ Blokkid kan bare settes/endres herfra. Blokkid kan i betydelig grad forenkle tim
 ### Litt om kolonnene i skjermbildet
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d6a80ad7-6744-403e-8211-fcb36ee70830)
 
-Fagene er de samme som en finner under menyvalget _Fag>Gruppefag_. 
+Fagene er de samme som en finner under menyvalget _Fag>Gruppefag_.  
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6b69ae31-53bd-489e-ad7a-0e895f064bd5)  Bare fag som har en verdi (bokstav eller tall) skal igangsettes dette skoleåret.
 
