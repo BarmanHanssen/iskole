@@ -32,7 +32,7 @@ Når utfyllingen er gjort, trykkes _Lagre_. Endringer kan gjøres senere.
 
 :::tip Dersom klassen skal ha et fag som ikke står i listen under _Tilgjengelige fag (Uketimer:)_, må faget altså registreres fra menyvalget _Fag_. Klikk deretter på ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/eb9dcc07-e0a4-4db0-b891-c1bda5658efc) for å få plassert faget i klassen.
 
-_Antall elever_: Kolonnen viser elever som alt er tatt inn i den enkelte klasse. Når ny klasse legges inn, er tallet selvsagt lik null.
+_Antall elever_: Kolonnen viser elever som alt er tatt inn i den enkelte klasse. Når ny klasse legges inn, er tallet lik null.
 
 :::caution Advarsel
 Hvis man tar ut et fag av klassen etter skolestart, så vil alle elevene i klassen miste faget, og faget mister læreren fra time- og fagfordelingen, og timeplanlagte timer blir slettet. Men før sletting finner sted, får en opp beskjed om hva som står på spill, og man kan avbryte slettingen...
