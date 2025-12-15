@@ -50,6 +50,9 @@ Velges _Blokkfag_ og _+ Legg blokkid til fag_ fås dette skjermbilde:
 Huk av for fag, og velg hvilke blokkid som skal benyttes, og avslutt med _Lagre_.
 
 ### Blokktider klasse
+
+Her fås en nyttig oversikt nå elevens valg av gruppefag er registrert, og gruppefagene er timeplanlagt.
+
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3128651d-a41a-42e8-97ac-71beda745e03)
 
 Her fås en klassevis oversikt over elevenes valg av gruppefag.
