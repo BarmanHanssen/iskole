@@ -9,7 +9,7 @@ At en lærer er  reservert for et bestemt tidsrom innebærer at læreren ikke ka
 en lærer er reservert er synlig for alle som har tilgang til lærerens timeplan, men ingen andre plasser.
 
 Reservering av et _rom_ innebærer betyr tilsvarende at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. Disse tidene vises bare på rommets timeplan.
-
+ 
 Reservering av _rom og lærer_ innebærer at både rom og involvert(e) lærer(e) er opptatt. En slik reservering vises både på rommets og lærers timeplan.
 
 ## Reservere lærer
