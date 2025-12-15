@@ -46,7 +46,7 @@ Kan være aktuelt for en periode, eksempel grunnet oppussing.
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/e7587bc6-a3c7-4c8d-b35b-1b62b2b43339)
 
 :::info Merk
-Rektor kan gi noen/alle lærere tilgang til å reservere noen/alle rom. Lærerne kan da reservere rom fra _Mine sider>Timeplan>Rom_ uavhengig av egen timeplan. Altså kan en lærer reservere et rom selv om læreren har undervisning på samme tid i et annet rom. Timeplanlegger kan slette en reservasjon gjort av en lærer fra Mine sider, men en lærer kan ikke slette en reservasjon gjort av timeplanlegger herfra.
+Rektor kan gi noen/alle lærere tilgang til å reservere noen/alle rom. Lærerne kan da reservere rom fra _Mine sider>Timeplan>Rom_ uavhengig av egen timeplan. Altså kan en lærer reservere et rom selv om læreren har undervisning på samme tid i et annet rom. Timeplanlegger kan slette en reservasjon gjort av en lærer fra _Mine sider_, men en lærer kan ikke slette en reservasjon gjort av timeplanlegger herfra.
 :::
 
 ## Reserver rom og lærer
