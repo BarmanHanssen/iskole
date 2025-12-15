@@ -52,4 +52,6 @@ Huk av for fag, og velg hvilke blokkid som skal benyttes, og avslutt med _Lagre_
 ### Blokktider klasse
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3128651d-a41a-42e8-97ac-71beda745e03)
 
-Når elevene er registrert i sine respektive grupper får vi her en oversikt over timene hvor minst en av elevene har et gruppefag på sin timeplan. Av skjermbildet fremgår det at 7 timer dekker klassens  timeplan for gruppefag. Disse timene blokkerer for timeplanlegging av klassefag. Dersom klassen BY1C har klassefag som krever 23 timer undervisning, vil klassens timeplan totalt dekke 30 timer når klassefagene er timeplanlagt.
+Her fås en klassevis oversikt over elevenes valg av gruppefag.
+
+For gruppefag som er timeplanlagt får vi her en oversikt over timer hvor minst en av elevene i klassen har et gruppefag på sin timeplan. Av skjermbildet fremgår det at 7 timer dekker klassens  timeplan for gruppefag. Klassefag kan ikke timeplanlegges her. Dersom klassen BY1C har klassefag som krever 23 timer undervisning, vil klassens timeplan totalt dekke 30 timer når klassefagene er ferdig timeplanlagt.
