@@ -55,6 +55,6 @@ Her fås en nyttig oversikt nå elevens valg av gruppefag er registrert, og grup
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3128651d-a41a-42e8-97ac-71beda745e03)
 
-Her fås en klassevis oversikt over elevenes valg av gruppefag.
 
-For gruppefag som er timeplanlagt får vi her en oversikt over timer hvor minst en av elevene i klassen har et gruppefag på sin timeplan. Av skjermbildet fremgår det at 7 timer dekker klassens  timeplan for gruppefag. Klassefag kan ikke timeplanlegges her. Dersom klassen BY1C har klassefag som krever 23 timer undervisning, vil klassens timeplan totalt dekke 30 timer når klassefagene er ferdig timeplanlagt.
+
+Her vises timer hvor minst en av elevene i klassen har et gruppefag på sin timeplan. Av skjermbildet fremgår det at 7 timer dekker klassens  timeplan for gruppefag. Klassefag kan ikke timeplanlegges her. Dersom klassen BY1C har klassefag som krever 23 timer undervisning, vil klassens timeplan totalt dekke 30 timer når klassefagene er ferdig timeplanlagt. Men elevens timeplan kan ha færre timer avhengig av valg av gruppefag.
