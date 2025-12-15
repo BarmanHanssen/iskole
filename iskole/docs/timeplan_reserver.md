@@ -6,7 +6,7 @@ sidebar_label: Reserver
 
 ## Innledning
 At en lærer er  reservert for et bestemt tidsrom innebærer at læreren ikke kan pålegges undervisning i klasse- eller gruppefag på samme tid. Tiden hvor 
-en lærer er reservert er synlig for alle som har tilgang til lærerens timeplan, men ingen andre plasser.
+en lærer er reservert er synlig for alle som har tilgang til lærerens timeplan.
 
 Reservering av et _rom_ innebærer betyr tilsvarende at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. Disse tidene vises bare på rommets timeplan.
  
