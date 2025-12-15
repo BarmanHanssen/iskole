@@ -2,7 +2,7 @@
 id: timeplan_reserver
 title: Reserver
 sidebar_label: Reserver
----
+--- 
 
 ## Innledning
 At en lærer er  reservert for et bestemt tidsrom innebærer at læreren ikke kan pålegges undervisning i klasse- eller gruppefag på samme tid. Tiden hvor 
