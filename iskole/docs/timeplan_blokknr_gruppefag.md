@@ -16,10 +16,12 @@ Denne uken skal faget ha 2 timer, og 2 timer er alt timeplanlagt på tirsdagen. 
 
 Et gruppefag har vanligvis bare en lærer. Men det er mulig å timeplanlegge faget uten lærer, og faget kan ha flere lærere. Dersom flere lærere kan de ha noen timer sammen, eller fordele timene på annen måte på ukebasis. Altså full fleksibilitet!
 
+Ønskes kun oversikt over fag som ikke er ferdig timeplanlag, klikk på trakt-ikonet:
+<img width="517" height="266" alt="image" src="https://github.com/user-attachments/assets/ef7179f4-fadb-4b21-b430-902a4e67d5de" />
+
+
 Ved å klikk på en faglinje vil det valgte fagets timeplan komme til syne i en kalendervisning i skjermbildets nedre del. Man kan endre uker i en nedtrekksliste oppe til høyre.
 
-Ønskes kun oversikt over fag som ikke er ferdig timeplanlag, klikk på trakt-ikonet:
-![image](https://github.com/user-attachments/assets/0b6f8863-1b39-4073-afc1-5a127658023b)
 
 
 Gruppefagene timeplanlegges enkeltvis. Timen plasseres ved å klikke på et grønnt felt. Det er mulig å timeplanlegge flere timer under ett, se bunnteksten i vinduet.
