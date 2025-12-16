@@ -5,10 +5,11 @@ sidebar_label: Grupper
 --- 
 
 Første skjermbilde:
-Her vises årets gruppefag, og vi har valgt første skoleuke. Allerede timeplanlagte timer markeres med rommnummer. 
+Her vises årets gruppefag, og vi har valgt ST1 og første skoleuke. Allerede timeplanlagte timer markeres med rommnummer. 
 
 <img width="1176" height="438" alt="image" src="https://github.com/user-attachments/assets/f7336b09-50d1-4171-aa00-cc00735b8904" />
-Fagene hentes fra _Time- og fagfordeling>Gruppefag_. Fag uten lærer vises med rød skrift.
+Fagene hentes fra _Time- og fagfordeling>Gruppefag_. Fag uten lærer vil vises med rød skrift, likså vil timeplanlagt fag uten lærer markeres på rød bakgrunn.
+
 Utklipp av venstre hjørne: 
  
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/12ca06d9-73fa-48bd-bc92-b79de6d24097) 
