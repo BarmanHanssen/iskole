@@ -10,10 +10,6 @@ Vi har valgt ST1 og første skoleuke. Allerede timeplanlagte timer markeres med 
 <img width="1176" height="438" alt="image" src="https://github.com/user-attachments/assets/f7336b09-50d1-4171-aa00-cc00735b8904" />
 Fagene hentes fra _Time- og fagfordeling>Gruppefag_. Fag uten lærer vil vises med rød skrift, likså vil timeplanlagt fag uten lærer markeres på rød bakgrunn.
 
-Utklipp av venstre hjørne: 
- 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/12ca06d9-73fa-48bd-bc92-b79de6d24097) 
-
 Her ser vi at lærer PAA denne uken skal ha 5 timer, men ingen er timeplanlagt. M-P t (uten lærer) skal også ha 5 timer, men ingen timer er timeplanlagt. NA3 a skal ha 4 timer, og her er alle timene timeplanlagt i denne uken (to timer på tirsdag, en på onsdag og fredag).
 
 De timeplanlagte timene vises med farget bakgrunn. Hvis det er valgt rom for timen, så vises romnummeret som tekst i cellen for timen. Ved å trykke på en faglinje, så vil det valgte fagets timeplan komme til syne i en kalendervisning i skjermbildets nedre del. Man kan endre uker i en nedtrekksliste oppe til høyre.
