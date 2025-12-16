@@ -10,9 +10,12 @@ Vi har valgt ST1 og første skoleuke. Allerede timeplanlagte timer markeres med 
 <img width="1176" height="438" alt="image" src="https://github.com/user-attachments/assets/f7336b09-50d1-4171-aa00-cc00735b8904" />
 Fagene hentes fra _Time- og fagfordeling>Gruppefag_. Fag uten lærer vil vises med rød skrift, likså vil timeplanlagt fag uten lærer markeres på rød bakgrunn.
 
-Her ser vi at lærer PAA denne uken skal ha 5 timer, men ingen er timeplanlagt. M-P t (uten lærer) skal også ha 5 timer, men ingen timer er timeplanlagt. NA3 a skal ha 4 timer, og her er alle timene timeplanlagt i denne uken (to timer på tirsdag, en på onsdag og fredag).
+#### Vi ser på ST!:KRO 1
+Denne uken skal faget ha 2 timer, og 2 timer er alt timeplanlagt på onsdagen. Faget har bare en lærer, og vedkommende er tildelt begge timene.
 
-De timeplanlagte timene vises med farget bakgrunn. Hvis det er valgt rom for timen, så vises romnummeret som tekst i cellen for timen. Ved å trykke på en faglinje, så vil det valgte fagets timeplan komme til syne i en kalendervisning i skjermbildets nedre del. Man kan endre uker i en nedtrekksliste oppe til høyre.
+Et gruppefag har vanligvis bare en lærer. Men det er mulig å timeplanlegge faget uten lærer, og det er mulig at faget har flere lærere. Dersom flere lærere kan de ha noen timer sammen, eller fordele timene på annen måte på ukebasis. Altså full fleksibilitet!
+
+Ved å klikk på en faglinje vil det valgte fagets timeplan komme til syne i en kalendervisning i skjermbildets nedre del. Man kan endre uker i en nedtrekksliste oppe til høyre.
 
 
 Fag som er med rød skrift har ikke fått tildelt lærer. Ønskes kun oversikt over fag som ikke er ferdig timeplanlag, klikk på trakt-ikonet:
