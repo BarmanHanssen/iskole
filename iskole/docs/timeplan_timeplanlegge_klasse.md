@@ -20,7 +20,7 @@ Vi får oversikt over klassens fag og lærere i venstre del av skjermen, hvor ma
 
 Klassens timeplanen vises i høyre del av skjermen. Klassefagene vist på blå bakgrunn, og ledige timer for klassefag på grønn bakgrunn.
 
-Skjermen er delt i fire deler. I tillegg til  _Klasse_ og _Timeplan klasse_ plasseres _Vis timeplan for disse ansatte_ og _Timeplan lærer_ på nedre del av skjermen. 
+I tillegg til  _Klasse_ og _Timeplan klasse_ plasseres _Vis timeplan for disse ansatte_ og _Timeplan lærer_ på nedre del av skjermen. 
 
 Etter først å ha valgt klasse og uke velges nå et fag for timeplanlegging, eller for endring av fagets timeplan. Uansett grunn, idet vi velger fag vil klassens timeplanen bli mer detaljert såfremt elevene har valgt gruppefag, og disse alt er timeplanlagt.
 
