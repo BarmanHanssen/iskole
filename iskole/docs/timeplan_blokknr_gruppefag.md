@@ -9,7 +9,7 @@ Vi har valgt ST1 og første skoleuke. Allerede timeplanlagte timer markeres med 
 
 <img width="1176" height="438" alt="image" src="https://github.com/user-attachments/assets/f7336b09-50d1-4171-aa00-cc00735b8904" />
 
-Fagene hentes fra _Time- og fagfordeling>Gruppefag_. Fag uten lærer vil vises med rød skrift, likså vil timeplanlagt fag uten lærer markeres på rød bakgrunn.
+Fagene hentes fra _Time- og fagfordeling>Gruppefag_. Fag uten lærer vil vises med rød skrift, likså vil timeplanlagt time uten lærer markeres på rød bakgrunn.
 
 #### Vi ser på ST1:KRO 1
 Denne uken skal faget ha 2 timer, og 2 timer er alt timeplanlagt på onsdagen. Faget har bare en lærer, og vedkommende er tildelt begge timene.
