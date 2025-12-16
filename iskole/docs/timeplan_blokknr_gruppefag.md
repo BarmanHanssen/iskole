@@ -18,8 +18,7 @@ Et gruppefag har vanligvis bare en lærer. Men det er mulig å timeplanlegge fag
 
 Ved å klikk på en faglinje vil det valgte fagets timeplan komme til syne i en kalendervisning i skjermbildets nedre del. Man kan endre uker i en nedtrekksliste oppe til høyre.
 
-
-Fag som er med rød skrift har ikke fått tildelt lærer. Ønskes kun oversikt over fag som ikke er ferdig timeplanlag, klikk på trakt-ikonet:
+Ønskes kun oversikt over fag som ikke er ferdig timeplanlag, klikk på trakt-ikonet:
 ![image](https://github.com/user-attachments/assets/0b6f8863-1b39-4073-afc1-5a127658023b)
 
 
