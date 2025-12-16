@@ -2,7 +2,7 @@
 id: timeplan_blokknr_gruppefag
 title: Grupper
 sidebar_label: Grupper
----
+--- 
 
 Første skjermbilde:
 Her vises årets gruppefag, og vi har valgt første skoleuke. Allerede timeplanlagte timer markeres med rommnummer. 
