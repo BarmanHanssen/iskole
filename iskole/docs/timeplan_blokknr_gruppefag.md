@@ -12,7 +12,7 @@ Vi har valgt ST1 og første skoleuke. Allerede timeplanlagte timer markeres med 
 Fagene hentes fra _Time- og fagfordeling>Gruppefag_. Fag uten lærer vil vises med rød skrift, likså vil timeplanlagt time uten lærer markeres på rød bakgrunn.
 
 #### Vi ser på ST1:KRO 1
-Denne uken skal faget ha 2 timer, og 2 timer er alt timeplanlagt på onsdagen. Faget har bare en lærer, og vedkommende er tildelt begge timene.
+Denne uken skal faget ha 2 timer, og 2 timer er alt timeplanlagt på tirsdagen. Faget har bare en lærer, og vedkommende skal ha begge timene.
 
 Et gruppefag har vanligvis bare en lærer. Men det er mulig å timeplanlegge faget uten lærer, og det er mulig at faget har flere lærere. Dersom flere lærere kan de ha noen timer sammen, eller fordele timene på annen måte på ukebasis. Altså full fleksibilitet!
 
