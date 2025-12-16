@@ -32,16 +32,8 @@ Gruppefagene kan timeplanlegges enkeltvis. Timen plasseres ved å klikke på et 
 Dersom faget er markert med blokkid (se menyvalget _Time- og fagfordeling>Gruppefag_), og blokkid er timeplanlagt (se menyvalget _Blokk_), kan alle fagets timer plasseres med et museklikk!
 :::
 
-#### Vi velger er et fag med blokkid, LA1 AG3 1:
-![tp_grupper_timeplanlegg_med_blokkid](/img/tp_grupper_blokkid.png)
-
-Blokkid 2 er tildelt fem timer (se _Timeplan>Blokk_), men siden læreren har to timer velges automatisk bare de to første timene. Man står fritt til å endre hvilke timer som er avkrysset, begrenset av antall uketimer for læreren. Dersom man ønsker flere timer i denne uken kan uketimer for faget og for lærer endres ved å klikke på blyanten. Rom velges fra egen nedtrekksliste.
-
-Før lagring sjekkes det automatisk at rom, lærer og elever i faget, ikke allerede er opptatt. Man kan endre/slette allerede plassert time og endre rom. Se teksten under timeplanen for detaljer.
-
-#### Vi velger er et fag uten blokkid, LA1 AG4 1:
-![tp_grupper_timeplanlegg_uten_blokkid](/img/tp_grupper_uten_blokkid.png)
-Lærerns tre timer kan timeplanlegges time for time ved å klikke på de mørkegrønne timene. Her er  to timer alt plassert på tirsdag.(Selvsagt kan rom byttes og allerede plasserte timer slettes).
+#### Vi velger er et fag uten blokkid:
+Lærerns timer kan timeplanlegges time for time ved å klikke på de mørkegrønne timene. Rom kan byttes og allerede plasserte timer slettes)
 
 :::tip Tips - hurtigtaster
 Se beskrivelsen under timeplanen for tastatursnarveier som kan effektivisere arbeidet.
