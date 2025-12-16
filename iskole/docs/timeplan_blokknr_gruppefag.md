@@ -14,7 +14,7 @@ Fagene hentes fra _Time- og fagfordeling>Gruppefag_. Fag uten lærer vil vises m
 #### Vi ser på ST1:KRO 1
 Denne uken skal faget ha 2 timer, og 2 timer er alt timeplanlagt på tirsdagen. Faget har bare en lærer, og vedkommende skal ha begge timene.
 
-Et gruppefag har vanligvis bare en lærer. Men det er mulig å timeplanlegge faget uten lærer, og det er mulig at faget har flere lærere. Dersom flere lærere kan de ha noen timer sammen, eller fordele timene på annen måte på ukebasis. Altså full fleksibilitet!
+Et gruppefag har vanligvis bare en lærer. Men det er mulig å timeplanlegge faget uten lærer, og faget kan ha flere lærere. Dersom flere lærere kan de ha noen timer sammen, eller fordele timene på annen måte på ukebasis. Altså full fleksibilitet!
 
 Ved å klikk på en faglinje vil det valgte fagets timeplan komme til syne i en kalendervisning i skjermbildets nedre del. Man kan endre uker i en nedtrekksliste oppe til høyre.
 
