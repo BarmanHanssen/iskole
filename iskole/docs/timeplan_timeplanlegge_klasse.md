@@ -15,14 +15,14 @@ Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleå
 
 Man starter med å velge klasse, og hvilken uke som skal timeplanlegges (se første linje i skjermbildet).
 ![bilde](https://github.com/user-attachments/assets/081f9692-3183-446b-ad07-e394e0402da9)
+ 
+Vi får oversikt over klassens fag og lærere i venstre del av skjermen, hvor mange timer hvert fag skal ha, samt antall timer som alt er timeplanlagt. Dersom faget har en gjesteklasse, vil gjestklassen være markert.
 
-Vi får da oversikt over klassens fag og lærere, hvor mange timer hvert fag skal ha, samt antall timer som alt er timeplanlagt. Dersom faget har en gjesteklasse, vil gjestklassen være markert.
+Klassens timeplanen vises i høyre del av skjermen. Klassefagene vist på blå bakgrunn, og ledige timer for klassefag på grønn bakgrunn.
 
-Klassens timeplanen vises også. Klassefagene vist på blå bakgrunn, og timer som ikke inneholder klassefag på grønn bakgrunn
+Skjermen er delt i fire deler. I tillegg til  _Klasse_ og _Timeplan klasse_ plasseres _Vis timeplan for disse ansatte_ og _Timeplan lærer_ på nedre del av skjermen. 
 
-Legg merke til at skjermen er delt i fire deler. I tillegg til  _Klasse_ og _Timeplan klasse_ plasseres _Vis timeplan for disse ansatte_ og _Timeplan lærer_ på nedre del av skjermen. 
-
-Etter først å ha valgt klasse og uke velges nå et fag for å timeplanlegge faget, eller for endring av fagets timeplan. Uansett grunn, idet vi velger fag vil klassens timeplanen bli mer detaljert såfremt elevene har valgt gruppefag, og disse alt er timeplanlagt.
+Etter først å ha valgt klasse og uke velges nå et fag for timeplanlegging, eller for endring av fagets timeplan. Uansett grunn, idet vi velger fag vil klassens timeplanen bli mer detaljert såfremt elevene har valgt gruppefag, og disse alt er timeplanlagt.
 
 Dersom vi klikker på faglæreren i ENG fås dette skjermbilde:
 ![bilde](https://github.com/user-attachments/assets/e661ddfd-d1ff-4afc-a81c-11ac55bbdffb)
