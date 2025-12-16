@@ -26,9 +26,11 @@ Ved å klikk på en faglinje (her er valgt ST1:KRO1) vil fagets timeplan komme t
 <img width="1144" height="1111" alt="image" src="https://github.com/user-attachments/assets/ec5c9761-39ca-4dc6-bd88-4f2b7b107759" />
 
 
-Gruppefagene timeplanlegges enkeltvis. Timen plasseres ved å klikke på et grønnt felt. Det er mulig å timeplanlegge flere timer under ett, se bunnteksten i vinduet.
+Gruppefagene kan timeplanlegges enkeltvis. Timen plasseres ved å klikke på et grønnt felt. Det er mulig å timeplanlegge flere timer under ett, se bunnteksten i vinduet.
 
-Dersom fagene er markert med blokkid (se menyvalget _Time- og fagfordeling>Gruppefag_), og blokkid er tildelt blokknr (se menyvalget _Blokk_), kan alle fagets timer timeplanlegges under ett:
+:::tip Merk
+Dersom faget er markert med blokkid (se menyvalget _Time- og fagfordeling>Gruppefag_), og blokkid er timeplanlagt (se menyvalget _Blokk_), kan alle fagets timer timeplanlegges med ett museklikk!
+:::
 
 #### Vi velger er et fag med blokkid, LA1 AG3 1:
 ![tp_grupper_timeplanlegg_med_blokkid](/img/tp_grupper_blokkid.png)
