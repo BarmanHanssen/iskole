@@ -20,7 +20,8 @@ Et gruppefag har vanligvis bare en lærer. Men det er mulig å timeplanlegge fag
 <img width="517" height="266" alt="image" src="https://github.com/user-attachments/assets/b9678989-f8bf-4443-9ff6-fdc075bfffb3" />
 
 
-Ved å klikk på en faglinje vil det valgte fagets timeplan komme til syne i en kalendervisning i skjermbildets nedre del. Man kan endre uker i en nedtrekksliste oppe til høyre.
+
+Ved å klikk på en faglinje vil det valgte fagets timeplan komme til syne på rosa bakgrunn i skjermbildets nedre del. Man kan skifte uke i nedtrekkslisten oppe i høyre hjørne.
 
 
 
