@@ -32,8 +32,8 @@ Gruppefagene kan timeplanlegges enkeltvis. Timen plasseres ved å klikke på et 
 Dersom faget er markert med blokkid (se menyvalget _Time- og fagfordeling>Gruppefag_), og blokkid er timeplanlagt (se menyvalget _Blokk_), kan alle fagets timer plasseres med et museklikk!
 :::
 
-#### Vi velger er et fag uten blokkid:
-Lærerns timer kan timeplanlegges time for time ved å klikke på de mørkegrønne timene. Rom kan byttes og allerede plasserte timer slettes)
+#### Vi velger er et fag uten blokkid
+Fagets/lærerens timer timeplanlegges time for time ved å klikke på de mørkegrønne timene. Rom kan byttes og allerede plasserte timer slettes.
 
 :::tip Tips - hurtigtaster
 Se beskrivelsen under timeplanen for tastatursnarveier som kan effektivisere arbeidet.
