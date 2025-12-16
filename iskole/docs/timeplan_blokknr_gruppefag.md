@@ -4,7 +4,7 @@ title: Grupper
 sidebar_label: Grupper
 --- 
 
-Første skjermbilde:
+###Første skjermbilde:
 Vi har valgt ST1 og første skoleuke. Allerede timeplanlagte timer markeres med rommnummer. 
 
 <img width="1176" height="438" alt="image" src="https://github.com/user-attachments/assets/f7336b09-50d1-4171-aa00-cc00735b8904" />
