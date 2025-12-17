@@ -51,7 +51,7 @@ Dersom man har gjort en endring på en allerede lagt klassetimeplan, og endringe
 
 
 :::tip Tips
-Når alle klassefag og gruppefag er timeplanlagt, eksempelvis for første skoleuke, kan man kopiere timeplanen for klasse- og grupppefag under ett fremover i tid, se menyvalget _Kopiering_. Det er fullt mulig å kopiere bare en enkelt klassens timeplan fremover (eller et gruppefag). Det er selvsagt mer krevende, da kontroller må utføres mot alle allerede lagte timeplaner for klasser og grupper. Kopieringen blir ikke gjennomført  dersom kollisjoner blir avdekket.
+Når alle klassefag og gruppefag er timeplanlagt, eksempelvis for første skoleuke, kan man kopiere timeplanen for klasse- og grupppefag samlet, se menyvalget _Kopiering_. Det er fullt mulig å kopiere bare en enkelt klassens timeplan (eller et gruppefag). Det er selvsagt mer krevende, da kontroller må utføres mot alle allerede lagte timeplaner for klasser og grupper. Kopieringen blir ikke gjennomført  dersom kollisjoner blir avdekket.
 :::
 
 
