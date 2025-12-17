@@ -4,7 +4,7 @@ title: Klasser
 sidebar_label: Klasser
 ---
 Timeplanen for klassefag skal inneholde all organisert undervisning i  alle klassefag til klassen. Endring av fagsammensetningen i en klasse gjøres fra _Grunnlagsdata>Klassefag_. 
-
+ 
 Noen elever kan være fritatt i ett eller flere klassefag. Slike unntak får ingen innvirkning for legging av klassens timeplan. 
 
 Dersom elevene i klassen kan velge fag utover det som hele klassen er satt opp med, klassifiserer vi slike valgfrie fag som gruppefag. Gruppefag gir naturlig nok begrensninger for oppsettet av klassens timeplan. Timeplanen for elevens gruppefag skal ikke kollidere med elevens klassefag. Det er derfor naturlig å timeplanlegge gruppefagene før en starter med timeplanleggingen av klassefagene. Men rekkefølgen bestemmer timeplanlegger, man kan timeplanlegge klassefag og gruppefag om en annen. 
