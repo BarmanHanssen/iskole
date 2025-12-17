@@ -7,7 +7,7 @@ Timeplanen for klassefag skal inneholde all organisert undervisning i  alle klas
 
 Noen elever kan være fritatt i ett eller flere klassefag. Slike unntak får ingen innvirkning for legging av klassens timeplan. 
 
-Dersom elevene i klassen kan velge fag utover det som hele klassen er satt opp med, klassifiserer vi slike valgfrie fag som gruppefag. Gruppefag gir naturlig nok begrensninger for oppsettet av klassens timeplan. Timeplanen for elevens klassefag skal ikke kollidere med et gruppefag som eleven har valgt. Av den grunn er det naturlig først å timeplanlegge gruppefagene før en starter med timeplanleggingen av klassefagene. Men man kan timeplanlegge klassefagene før gruppefagene er timeplanlagt. 
+Dersom elevene i klassen kan velge fag utover det som hele klassen er satt opp med, klassifiserer vi slike valgfrie fag som gruppefag. Gruppefag gir naturlig nok begrensninger for oppsettet av klassens timeplan. Timeplanen for elevens gruppefag skal ikke kollidere med elevens klassefag. Det er derfor naturlig å timeplanlegge gruppefagene før en starter med timeplanleggingen av klassefagene. Men rekkefølgen bestemmer timeplanlegger, man kan timeplanlegge klassefag og gruppefag om en annen. 
 
 :::tip Tips
 Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleåret som utgangspunkt. Når alle klassene er timeplanlagt, kan man kopiere timeplanen for alle klassene fremover, se menyvalget _Kopiering_. Det er mulig å kopiere den ene klassens timeplan fremover. Det er krevende, da kontroller må utføres mot alle allerede lagte timeplaner for klasser og grupper, før kopieringen av den utvalgte klasse kan finne sted.
