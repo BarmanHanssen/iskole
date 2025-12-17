@@ -22,7 +22,8 @@ Dersom  vikarlæreren kan ta flere timer holder man shift-knappen nede og klikke
 
 Marker hvem som skal være vikar, og om vikaren skal varsles med en melding i iSkole. Dersom vikartimen ikke registreres for utbetaling, vil ressursen automatisk legges til lærerens stillingsprosent.  Klikk tilslutt _Lagre_.
 
-Etter at vikartimen er registrert vises den i klassens, lærerens og elevenes timeplan.
+Etter at vikartimen er registrert vil den vises på timeplanen til klassen, faglærer, vikar og elev.
+
 
 
 
