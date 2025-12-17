@@ -44,3 +44,6 @@ Se beskrivelsen under timeplanen for tastatursnarveier som kan effektivisere arb
 Etter å ha ferdigstilt timeplanen for gruppefagene i første skoleuke, vil det være naturlig å timeplanlegge også klassefagene for samme skoleuke. Deretter kan man kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, systemet vil til enhver tid avdekke dersom kollisjoner oppstår (gjelder lærer, elev og rom).
 :::
 
+#### Kopiering av timeplanen for gruppefag
+Klikk på markerte ikon:
+<img width="992" height="62" alt="image" src="https://github.com/user-attachments/assets/47f4fe9e-9595-4052-a3cf-2f8ddeafa37f" />
