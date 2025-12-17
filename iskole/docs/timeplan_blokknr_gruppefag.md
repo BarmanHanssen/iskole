@@ -33,7 +33,8 @@ Dersom faget er markert med blokkid (se menyvalget _Time- og fagfordeling>Gruppe
 :::
 
 #### Vi velger her et fag uten blokkid
-Fagets/lærerens timer timeplanlegges time for time ved å klikke på de mørkegrønne timene. Rom kan byttes og allerede plasserte timer slettes.
+Mørkegrønne felt viser viser timer hvor faget, med lærer, kan timepplanlegges.
+Fagets (og lærers) timeplan legges time for time ved å klikke på mørkegrønn time. Rom kan byttes og allerede plasserte timer slettes.
 
 :::tip Tips - hurtigtaster
 Se beskrivelsen under timeplanen for tastatursnarveier som kan effektivisere arbeidet.
