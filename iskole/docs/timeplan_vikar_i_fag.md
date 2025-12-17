@@ -5,7 +5,7 @@ sidebar_label: Vikarer
 ---
 Vikar i fag benyttes ved kortvarig endring på timeplanen når en lærer ikke kan gjennomføre planlagt undervisning i sine fag. 
 
-En vikar kan ta en eller flere timer i et fag, for en dag, eller kanskje flere dager. For å dekke et vikarbehov i et 5-timers fag trengs kanskje mer enn en lærer, også det går greit siden vikar settes inn på timebasis.
+En vikar kan ta en eller flere timer i et fag, for en dag, eller kanskje over flere dager. For å dekke et vikarbehov i et 5-timers fag trengs kanskje mer enn en lærer, også det går greit siden vikar settes inn på timebasis.
 
 Når vikaren er lagt inn, vil det umiddelbart vises på timeplanen til klassen, faglærer, vikar og elev.
 
