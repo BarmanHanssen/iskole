@@ -51,7 +51,7 @@ Se nærmere på (altså klikk på) disse tre ikonene:
 
 
 :::tip Tips
-Når timeplan for nytt skoleår skal legges, bør en velge første uke i skoleåret som utgangspunkt. Når alle klassene er timeplanlagt, kan man kopiere timeplanen for alle klassene fremover, se menyvalget _Kopiering_. Det er mulig å kopiere den ene klassens timeplan fremover. Det er krevende, da kontroller må utføres mot alle allerede lagte timeplaner for klasser og grupper, før kopieringen av den utvalgte klasse kan finne sted.
+Når alle klassefag og gruppefag er timeplanlagt , kan man kopiere timeplanen fremover i tid, se menyvalget _Kopiering_. Det er mulig å kopiere en enkelt klassens timeplan fremover (eller et gruppefag. Det er selvsagt mer krevende, da kontroller må utføres mot alle allerede lagte timeplaner for klasser og grupper, før kopieringen av  utvalgte klasse eller gruppefag kan godkjennes.
 :::
 
 
