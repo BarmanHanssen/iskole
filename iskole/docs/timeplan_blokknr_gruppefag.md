@@ -48,3 +48,6 @@ Etter å ha ferdigstilt timeplanen for gruppefagene i første skoleuke, vil det 
 Klikk på markert ikon:
 <img width="992" height="62" alt="image" src="https://github.com/user-attachments/assets/47f4fe9e-9595-4052-a3cf-2f8ddeafa37f" />
 Marker hvilke fag innen valgte filter (her: ST1) man ønsker å kopiere, og til hvilke uker. Før kopiering blir gjennomført, sjekkes det kopieringen ikke vil kollidere mot allerede lagte timer i ukene det kopieres til. 
+
+<img width="533" height="530" alt="image" src="https://github.com/user-attachments/assets/82c34cbf-2476-48eb-91e1-947f1b33bec0" />
+
