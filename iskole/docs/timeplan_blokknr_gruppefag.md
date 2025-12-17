@@ -51,3 +51,6 @@ Marker hvilke fag innen valgte filter (her: ST1) man ønsker å kopiere, og til 
 
 <img width="533" height="530" alt="image" src="https://github.com/user-attachments/assets/82c34cbf-2476-48eb-91e1-947f1b33bec0" />
 
+:::info Merk
+Vi anbefaler at skolens timeplan ferdigstilles både for gruppe- og klassefag, eksempelvis i første skoleuke. Da kan skolens timeplan kopieres samlet fremover i tid fra _Timeplan>Kopiering_.
+:::
