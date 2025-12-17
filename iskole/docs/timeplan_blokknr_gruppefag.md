@@ -47,4 +47,4 @@ Etter å ha ferdigstilt timeplanen for gruppefagene i første skoleuke, vil det 
 #### Kopiering av timeplanen for gruppefag
 Klikk på markert ikon:
 <img width="992" height="62" alt="image" src="https://github.com/user-attachments/assets/47f4fe9e-9595-4052-a3cf-2f8ddeafa37f" />
-Marker hvilke fag innen valgte filter (her: ST1) man ønsker å kopiere, og til hvilke uker. Før kopiering blir gjennomført, sjekkes det kopieringen ikke vil kollidere mot allerede lagte timer i ukene det kopieres til.
+Marker hvilke fag innen valgte filter (her: ST1) man ønsker å kopiere, og til hvilke uker. Før kopiering blir gjennomført, sjekkes det kopieringen ikke vil kollidere mot allerede lagte timer i ukene det kopieres til. 
