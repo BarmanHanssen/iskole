@@ -52,5 +52,3 @@ Når alle klassefag og gruppefag er timeplanlagt ,kan man kopiere timeplanen fre
 :::
 
 
-
-
