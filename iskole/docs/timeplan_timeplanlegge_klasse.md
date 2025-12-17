@@ -47,9 +47,11 @@ Her vises timeplanen til lærer(e) som står oppført unde _Vis timeplanen for d
 ## Kopier timeplan for klasse
 <img width="873" height="416" alt="image" src="https://github.com/user-attachments/assets/4b7db558-895a-4249-bae3-1722059c09cb" />
 
-Dersom man har gjorte en endring på en allerede lagt klassetimeplan, og endringen skal gjelde frem i tid, kan man
+Dersom man har gjort en endring på en allerede lagt klassetimeplan, og endringen skal gjelde frem i tid, kan man kopiere denne ukes timeplan frem i tid. Deresom endringen ikke medfører kollisjoner i valgte uker fremover, vil den ny klassetimeplan gjelde for alle valgte uker 
+
+
 :::tip Tips
-Når alle klassefag og gruppefag er timeplanlagt ,kan man kopiere timeplanen fremover i tid, se menyvalget _Kopiering_. Det er mulig å kopiere en enkelt klassens timeplan fremover (eller et gruppefag. Det er selvsagt mer krevende, da kontroller må utføres mot alle allerede lagte timeplaner for klasser og grupper, før kopieringen av  utvalgte klasse eller gruppefag kan godkjennes.
+Når alle klassefag og gruppefag er timeplanlagt, eksempelvis for første skoleuke, kan man kopiere timeplanen for klasse- og grupppefag under ett fremover i tid, se menyvalget _Kopiering_. Det er fullt mulig å kopiere bare en enkelt klassens timeplan fremover (eller et gruppefag). Det er selvsagt mer krevende, da kontroller må utføres mot alle allerede lagte timeplaner for klasser og grupper. Kopieringen blir ikke gjennomført  dersom kollisjoner blir avdekket.
 :::
 
 
