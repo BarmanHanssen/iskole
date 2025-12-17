@@ -38,7 +38,7 @@ Dersom det skal gjøres endringer på en timeplanlagt time, klikk på timen med 
 ![bilde](https://github.com/user-attachments/assets/658b68c1-b876-4323-8493-20f432d457f8)
 
 #### Vis timeplan for disse ansatte
-Lærer(e) i det valgte faget legges automatisk inn her. Timeplanen for alle fag til læreren(e) som alt er timeplanlagt vises i skjermbildet _Timeplanlærer_ på samme bakrunnsfarge.
+Lærer(e) i det valgte faget legges automatisk inn her. Timeplanen for alle fag til læreren(e) som alt er timeplanlagt vises i skjermbildet _Timeplan lærer_ på samme bakrunnsfarge.
 Timeplanlegger kan legge til en eller flere andre lærere fra nedtrekkslisten _Legg til lærer_.
 
 #### Timeplan lærer
