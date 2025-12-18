@@ -17,7 +17,7 @@ Men på klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det frem
 ## Matrise gruppefag
 Vi kan her få en komplett oversikt over alle gruppefag med hvilke elever som har valgt det enkelte gruppefag. Og i tillegg hvilke andre gruppefag hver av disse elevene også har valgt. 
 <img width="1089" height="717" alt="image" src="https://github.com/user-attachments/assets/7cc55044-e0e1-4705-98d9-27ff37ecb187" />
-I skjermbildet ovenfor har vi valgt gruppefag registrert under ST1. Ved å klikke på tallet 24 får da navnet på de 24 elevene som har har valgt ST1:MAP 3. Vi ser at blant disse 24 har 8 også har valgt ST1:TY2 1. Klikker vi deretter på tallet 8, får vi altså ikke frem navnene på alle som har ST1:TY2 1, vi får kun frem de 8 elevene som også har valgt ST1:MAP 1. (At ST1:TY2 1 har 26 elever ser vi nederst til høyre.)
+I skjermbildet ovenfor har vi valgt _Forhåndsvisning_ av gruppefag registrert under ST1. Ved å klikke på tallet 24 får da navnet på de 24 elevene som har har valgt ST1:MAP 3. Vi ser at blant disse 24 har 8 også har valgt ST1:TY2 1. Klikker vi deretter på tallet 8, får vi altså ikke frem navnene på alle som har ST1:TY2 1, vi får kun frem de 8 elevene som også har valgt ST1:MAP 1. (At ST1:TY2 1 har 26 elever ser vi nederst til høyre.)
 Merk at fagene med tallene markeres både vannrett og loddrett. 
 
 Felt uten tall betyr at ingen elever går i begge grupper. Det betyr at disse gruppene kan timeplanlegges likt med ST1:MAP 1 uten at noen av elevene i ST1:MAP 1 får kollisjon på sin timeplan av den grunn. Men da vil timeplan for elevene i disse klasser bli utvidet...
