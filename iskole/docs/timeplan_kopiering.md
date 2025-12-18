@@ -11,7 +11,8 @@ Kopiering herfra benytte dersom man har en komplett timeplan for klasse- og grup
 Kopieringen tar med timeplanen for alle klasser og alle gruppefag for skolen fra valgt uke. Alt som er timeplanlagt eller reservert i ukene det kopieres til vil bli slettet, og erstattet med timeplanen fra valgt uke.
 :::
 
-<img width="1072" height="392" alt="image" src="https://github.com/user-attachments/assets/62f0c544-d9b1-4ba4-aa23-f829c1752b11" />
+<img width="1107" height="352" alt="image" src="https://github.com/user-attachments/assets/f2ffa7d7-e350-4a71-a53a-22c66c601a18" />
+
 
 ### Kopier timeplanen...
 
