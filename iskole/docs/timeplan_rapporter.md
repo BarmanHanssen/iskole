@@ -14,7 +14,7 @@ Alle rapporter kan tas ut i pdf-format, og noen utvalgte også som regneark. Reg
 Rapporten viser dager og timer hvor noen av klassens elever har undervisning i gruppefag. Datagrunnlaget er hentet fra hva som er lagret som elevens gruppefag (se _Elevadmin.>Fag_) og hva som er timeplanlagt av gruppefag (se_Timeplan>Gruppper_). Tallene i parentes viser hvor mange av klassens elever som er deltar i hver av timene, eventuelt elever fra andre klasser er ikke medregnet. Rapporten viser ikke om det er et eller flere gruppefag som inngår. Eksempel: Elevene i klassen er delt i matematikk (praktisk/teoretisk). Dersom gruppene undervises parallelt i en time, vil tallet vise summen av elevene, uten henvisning til at det er to gruppers elever som inngår.
 Men på klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå hvilke grupper som inngår i hver av timene.
 
-## Matrise gruppefag
+## Matrise gruppefag 
 Vi kan her få en komplett oversikt over alle gruppefag med hvilke elever som har valgt det enkelte gruppefag. Og i tillegg hvilke andre gruppefag hver av disse elevene også har valgt. 
 <img width="1089" height="717" alt="image" src="https://github.com/user-attachments/assets/7cc55044-e0e1-4705-98d9-27ff37ecb187" />
 I skjermbildet ovenfor har vi valgt _Forhåndsvisning_ av gruppefag registrert under ST1. Ved å klikke på tallet 24 får da navnet på de 24 elevene som har har valgt ST1:MAP 3. Vi ser at blant disse 24 har 8 også har valgt ST1:TY2 1. Klikker vi deretter på tallet 8, får vi altså ikke frem navnene på alle som har ST1:TY2 1, vi får kun frem de 8 elevene som også har valgt ST1:MAP 1. (At ST1:TY2 1 har 26 elever ser vi nederst til høyre.)
