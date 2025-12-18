@@ -9,7 +9,7 @@ Rapportene som kan tas ut henter data hovedsakelig fra det som er lagt  inn via 
 Alle rapporter kan tas ut i pdf-format, og noen utvalgte også som regneark. Regneark er beste valg dersom man ønsker å kunne redigere resultat, eksempelvis sortere innholdet på egen hånd.
 
 ## Blokktimer klasse
-Rapporten viser dager og timer hvor elevene i klassen er i grupper. Datagrunnlaget er hentet fra hva som er lagret som elevens gruppefag (_Elevadmin.>Fag_) og _Timeplan>Gruppper_. Tallene i parentes viser hvor mange av klassens elever som er deltar i hver av timene, eventuelt elever fra andre klasser er ikke medregnet. Rapporten viser ikke om det er et eller flere gruppefag som ligger til grunn for antallet. 
+Rapporten viser dager og timer hvor elevene i klassen er i grupper. Datagrunnlaget er hentet fra hva som er lagret som elevens gruppefag (se _Elevadmin.>Fag_) og _Timeplan>Gruppper_. Tallene i parentes viser hvor mange av klassens elever som er deltar i hver av timene, eventuelt elever fra andre klasser er ikke medregnet. Rapporten viser ikke om det er et eller flere gruppefag som ligger til grunn for antallet. 
 På klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå hvilke grupper som inngår i hver av timene.
 
 ## Matrise gruppefag
