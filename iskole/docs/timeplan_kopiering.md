@@ -4,7 +4,6 @@ title: Kopiering
 sidebar_label: Kopiering
 ---
 
-## Kopiering
 Kopiering herfra benytte dersom man har en komplett timeplan for klasse- og gruppefag i en bestemt uke (eksempelvis første skoleuke), og ønsker benytte akkurat dette oppsettet for alle (eller noen) uker fremover. Kopiering kan gjennomføres selv om timplanen ikke er komplett.
 
 :::danger Advarsel
