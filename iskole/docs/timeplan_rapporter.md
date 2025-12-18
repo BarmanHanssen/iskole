@@ -11,7 +11,7 @@ Alle rapporter kan tas ut i pdf-format, og noen utvalgte også som regneark. Reg
 ## Blokktimer klasse
 <img width="925" height="303" alt="image" src="https://github.com/user-attachments/assets/7d82617e-95ec-47c1-a3bd-0baa30537b9c" />
 
-Rapporten viser dager og timer hvor noen av klassens elever har undervisning i gruppefag. Datagrunnlaget er hentet fra hva som er lagret som elevens gruppefag (se _Elevadmin.>Fag_) og hva som er timeplanlagt av gruppefag (se_Timeplan>Gruppper_). Tallene i parentes viser hvor mange av klassens elever som er deltar i hver av timene, eventuelt elever fra andre klasser er ikke medregnet. Rapporten viser ikke om det er et eller flere gruppefag som ligger til grunn for antallet. Eksempel: Elevene i klassen er delt i matematikk (praktisk/teoretisk). Dersom gruppene undervises parallelt i en time, vil tallet vise summen av elevene, uten henvisning til at det er to gruppers elever som inngår.
+Rapporten viser dager og timer hvor noen av klassens elever har undervisning i gruppefag. Datagrunnlaget er hentet fra hva som er lagret som elevens gruppefag (se _Elevadmin.>Fag_) og hva som er timeplanlagt av gruppefag (se_Timeplan>Gruppper_). Tallene i parentes viser hvor mange av klassens elever som er deltar i hver av timene, eventuelt elever fra andre klasser er ikke medregnet. Rapporten viser ikke om det er et eller flere gruppefag som inngår. Eksempel: Elevene i klassen er delt i matematikk (praktisk/teoretisk). Dersom gruppene undervises parallelt i en time, vil tallet vise summen av elevene, uten henvisning til at det er to gruppers elever som inngår.
 Men på klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå hvilke grupper som inngår i hver av timene.
 
 ## Matrise gruppefag
