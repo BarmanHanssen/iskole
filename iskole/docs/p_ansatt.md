@@ -3,9 +3,9 @@ id: p_ansatt
 title: Ansatt
 sidebar_label: Ansatt
 ---
-Her er første skjermbilde for de som har tilgang til dette menyvalget:
+Her er menyvalget for de som har tilgang personaldelen av iSkole:
 
-![image](https://github.com/user-attachments/assets/0f84cf29-2db9-458a-878d-9fb48eb5289a)
+<img width="274" height="365" alt="image" src="https://github.com/user-attachments/assets/c94450dd-6afe-4d45-a4b1-a29ba0bcb7d9" />
 
 ### Ansatt
 
