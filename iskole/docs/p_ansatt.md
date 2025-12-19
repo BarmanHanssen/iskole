@@ -5,7 +5,7 @@ sidebar_label: Ansatt
 ---
 Her er menyvalget for de som har tilgang personaldelen av iSkole:
 
-<img width="274" height="365" alt="image" src="https://github.com/user-attachments/assets/c94450dd-6afe-4d45-a4b1-a29ba0bcb7d9" />
+<img width="1229" height="535" alt="image" src="https://github.com/user-attachments/assets/98c5b331-5f51-4862-b23a-069304dc3cd2" />
 
 ### Ansatt
 
