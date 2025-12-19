@@ -63,13 +63,11 @@ Det er faglærer som registrerer prøver i sine fag. Faglærer får oversikt ove
 <img width="817" height="372" alt="image" src="https://github.com/user-attachments/assets/1887721d-dc55-4f05-aef3-694dbc749397" />
 
 Som det fremgår av skjermbildet velger mellom to sorteringsalternativ.
-
+#### Heldagsprøver
+Her fås prøver som er lagt inn med varighet på en dag, eller mer.
 
 #### Prøveoversikt
 Her fås alle prøver som er registrert, også heldagsprøver.
-
-#### Heldagsprøver
-Her fås prøver som er lagt inn med varighet på en dag, eller mer.
 
 ## Elevkollisjoner
 I utgangspunktet skal timeplanen legges slik at det ikke forkommer kollisjoner, eksempelvis på lærers eller elevs timeplan.
