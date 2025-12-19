@@ -60,6 +60,11 @@ Merk at denne rapporten bare gir mening når den tas ut i inneværende skoleår.
 Her fås oversikt over alle prøver som er registrert, forutsatt at publiseringsdatoen ikke setter stopp for visningen.
 Det er faglærer som registrerer prøver i sine fag. Faglærer får oversikt over prøver i sine fag fra _Mine sider>Vurderinger_.  
 
+<img width="817" height="372" alt="image" src="https://github.com/user-attachments/assets/1887721d-dc55-4f05-aef3-694dbc749397" />
+
+Som det fremgår av skjermbildet velger mellom to sorteringsalternativ.
+
+
 #### Prøveoversikt
 Her fås alle prøver som er registrert, også heldagsprøver.
 
