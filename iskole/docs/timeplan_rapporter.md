@@ -39,7 +39,7 @@ Se skjermbildet ovenfor. Her står gruppen ST1:FR1 1 uten elever og uten timepla
 **_Sum_** betår da av  _Timer_ minus (_Avlyst_ + _Fradrag_).
 **_Avvik_** er _Sum_ minus _Omfang_.
 
-Dersom noen fag er delt, vises en oversikt helt til slutt:
+Dersom noen fag er delt (altså har komponenter, se ), vises en oversikt helt til slutt:
 
 ![bilde](https://github.com/user-attachments/assets/ef6aef86-366f-496b-b772-c25d33dc08ee)
 
