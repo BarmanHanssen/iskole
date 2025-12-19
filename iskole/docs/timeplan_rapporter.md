@@ -3,7 +3,7 @@ id: timeplan_rapporter
 title: Rapporter
 sidebar_label: Rapporter
 ---
-
+ 
 Rapportene som kan tas ut henter data hovedsakelig fra det som er lagt  inn via meny-valgene fra _Timeplan_, samt det som er registring som elevenes valg av gruppefag.
 
 Alle rapporter kan tas ut i pdf-format, og noen utvalgte også som regneark. Regneark er beste valg dersom man ønsker å kunne redigere resultat, eksempelvis sortere innholdet på egen hånd.
