@@ -15,7 +15,7 @@ Rapporten viser dager og timer hvor noen av klassens elever har undervisning i g
 Men på klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå hvilke grupper som inngår i hver av timene.
 
 ## Matrise gruppefag 
-Vi kan her få en komplett oversikt over alle gruppefag med elever som har valgt faget. Og i tillegg hvilke andre gruppefag hver av disse elevene også har valgt. 
+Vi kan her få oversikt over alle gruppefag med elever som har valgt faget. Og i tillegg hvilke andre gruppefag hver av disse elevene også har valgt. 
 <img width="1089" height="717" alt="image" src="https://github.com/user-attachments/assets/7cc55044-e0e1-4705-98d9-27ff37ecb187" />
 I skjermbildet ovenfor har vi valgt _Forhåndsvisning_ av gruppefag registrert under _ST1_. Ved å klikke på tallet 24 får vi navnet på de 24 elevene som har har valgt ST1:MAP 3. Vi ser at blant disse 24 har 8 også har valgt ST1:TY2 1. Klikker vi deretter på tallet 8, får vi frem navnene til de 8 elevene som også har valgt ST1:MAP 1. (At ST1:TY2 1 har 26 elever ser vi nederst til høyre.)
 Merk at fagene med tallene markeres både vannrett og loddrett. 
