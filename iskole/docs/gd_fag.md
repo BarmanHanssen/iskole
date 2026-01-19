@@ -77,7 +77,7 @@ Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. F
 Omfanget er bestemt fra fagkoden til faget og kan ikke endres. Unntak: Fag med fagkode 999999, her legges omfanget inn manuelt.
 
 #### Årstimer
-Normalt vil årstimer settes likt med omfanget til fag. 
+Årstimer settes automtisk likt med omfanget til faget og er da angitt i klokketimer. Kan blant annet være aktuelt å justere for enkelte fag på Steinerskoler.
 
 #### Årsramme 
 Angir hvor mange timer man må undervise i faget for å full stilling. Dersom årstimer=omfang er det klokketimer som gjelder.
