@@ -22,7 +22,7 @@ En bestemt fagkode kan forekomme både som klasse- og gruppefag. Alle fag som sk
 Med denne todelingen av fag (klasse- og gruppefag)  kan hver elev få registrert akkurat sine fag. Og med elevenes fagvalg på plass kan timeplanen legges uten kollisjon for elevene.
 
 ## Klassefag og Gruppefag
-Datagrunnlaget for begge fag-gruppene er så likt at vi bruker kun klassefag for å vise hva som må gjøres.
+Datagrunnlaget er så likt at vi bruker kun klassefag for å vise hva som må gjøres.
 
 ## Velges 
 ![image](https://github.com/user-attachments/assets/91144dc5-613a-4a7d-9b14-e89e56e60907)
