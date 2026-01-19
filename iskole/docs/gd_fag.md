@@ -19,7 +19,7 @@ Alle fag som skal tilordnes en klasse (se menyvalget _Klasser_) må først være
 
 En bestemt fagkode kan forekomme både som klasse- og gruppefag. Alle fag som skal tilbys elevene i dette skoleåret må altså være registrert her. Men et faget registrert her må ikke nødvendigvis bli registrert under menyvalgene _Klasser_ eller _Grupper_.
 
-Med denne todelingen av fag (klassefag og gruppefag)  kan hver elev få registrert akkurat sine fag. Og  med elevenes fagvalg på plass kan timeplanen legges uten kollisjon for elevene.
+Med denne todelingen av fag (klasse- og gruppefag)  kan hver elev få registrert akkurat sine fag. Og med elevenes fagvalg på plass kan timeplanen legges uten kollisjon for elevene.
 
 ## Klassefag og Gruppefag
 Datagrunnlaget for begge fag-gruppene er så likt at vi bruker kun klassefag for å vise hva som må gjøres.
