@@ -4,7 +4,7 @@ title: Utdanning
 sidebar_label: Utdanning
 ---
 
-Her legges strukturen for hvilke klasser som skolen skal opprette.
+Her legges strukturen for hvilke klasser som skolen skal ha. Deretter kan man fra menyvalget _Klasse_ spesifiserer hvilke fag den enkelte klasse skal inneholde.
 
 Klikker man på _+Legg til program_ fås dette skjermbilde:
 
@@ -21,6 +21,7 @@ _Internnavn_ benyttes blant annet på timeplanen.
 Fra menyvalget _Klasse_ tildeles klassene sine spesifikke fag. Da vil  _Kode_ og _Klassetrinn_ være de tre første tegnene. Det fjerde velges fritt, ofte en bokstav, eksempelvis A for ST3A.
 
 ### Slette
+Det er kun data knyttet til valgte skoleår som kan slettes.
 Man kan endre eller slette innholdet i tabellen ved å velge ikonene under kolonnen _Valg_. For å slette en registrering må _Kode_ oppgis på nytt. Å slette en utdanning som alt er etablert har konsekvenser, derfor vises dette skjermbilde:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/dfa7903c-ea13-4d56-b6da-62e3ce25daf4)
