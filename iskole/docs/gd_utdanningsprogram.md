@@ -21,7 +21,7 @@ _Internnavn_ benyttes blant annet på timeplanen.
 Fra menyvalget _Klasse_ tildeles klassene sine spesifikke fag. Da vil  _Kode_ og _Klassetrinn_ være de tre første tegnene. Det fjerde velges fritt, ofte en bokstav, eksempelvis A for ST3A.
 
 ### Slette
-Man kan endre eller slette innholdet i tabellen ved å velge ikonene under kolonnen Valg. For å slette en registrering må _Kode_ oppgis på nytt. Å slette en utdanning som alt er etablert har konsekvenser, derfor vises dette skjermbilde:
+Man kan endre eller slette innholdet i tabellen ved å velge ikonene under kolonnen _Valg_. For å slette en registrering må _Kode_ oppgis på nytt. Å slette en utdanning som alt er etablert har konsekvenser, derfor vises dette skjermbilde:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/dfa7903c-ea13-4d56-b6da-62e3ce25daf4)
 
