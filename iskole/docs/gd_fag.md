@@ -69,7 +69,7 @@ Elever som tas inn i en klasse, får fagkoden knyttet til fagene i klassen, tils
 ## Velges
 ![image](https://github.com/user-attachments/assets/29f29846-42a9-46da-9d2a-7e2dbab8289b)
 
-Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. Fag hvor det allerede er satt karakter på elever kan ikke slettes.
+Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. Fag hvor det allerede er satt karakter på en elev kan ikke slettes.
 
 ## Noen av kolonne vedrørende tabellen for klasse- og gruppefag
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/ad2ff266-6032-415f-b5f9-b92467eed0d4)
