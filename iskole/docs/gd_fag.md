@@ -4,7 +4,7 @@ title: Fag
 sidebar_label: Fag
 ---
 
-Her starter det:
+Her starter det: 
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a3738e48-fd7b-4bf1-a113-97a5c4aa6c08)
 
