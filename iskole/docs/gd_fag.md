@@ -60,10 +60,10 @@ Husk å klikke på ikonet _Lagre_!.
 ## Velges 
 ![image](https://github.com/user-attachments/assets/b4813538-caeb-451d-9993-b574a424acfd)
 
-Alt endres, unntatt _Utdanningsprogram,Trinn_ og _Navn (kort)_! 
+Alt kan endres, unntatt _Utdanningsprogram,Trinn_ og _Navn (kort)_! 
 
 :::info Fagkode
-Elever som tas inn i en klasse, får fagkoden knyttet til fagene i klassen, tilsvarende for elevens valgte gruppefag. Endres fagkoden i faget herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. Men for en elev i faget kan fagkoden, både for klasse- og gruppefag, endre fra _Elevadmin>Karakterdokumentasjon_. 
+Elever som tas inn i en klasse, får fagkoden knyttet til fagene i klassen, tilsvarende for elevens valgte gruppefag. Endres fagkoden i faget herfra etter elevopptaket, vil det ikke endre fagkoden for allerede opptatte elever i faget. (Men for en elev i et fag kan fagkoden, både for klasse- og gruppefag, endres fra _Elevadmin>Karakterdokumentasjon_). 
 :::
 
 ## Velges
