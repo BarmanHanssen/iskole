@@ -26,7 +26,7 @@ For å få alle gruppene som alt er planlagt øverst/nederst i skjermbildet, try
 
 Gruppenr må gis en verdi, men blokkid kan stå blank. 
 
-Fag med samme blokkid ( gitt som et tall) skal undervises parallelt, selv om timeplanen for fagene på nåværende tidspunkt ikke er bestemt. Er fagene gitt blokkid kan en lærer ikke tildeles to fag med samme blokkid. Og en elev kan ikke velge to gruppefag samme blokkid. 
+Fag med samme blokkid ( gitt som et tall) skal undervises parallelt, selv om timeplanen for fagene på nåværende tidspunkt ikke er bestemt. Er fagene gitt blokkid kan en lærer ikke tildeles to fag med samme blokkid. Og en elev kan ikke velge to gruppefag med samme blokkid. 
 
 Blokkid kan bare settes/endres herfra. Blokkid kan i betydelig grad forenkle timplanlegging av gruppefagene da alle gruppefag med samme blokkid kan timeplanlegges samtidig. ( se _Timeplan>Grupper_).
 
