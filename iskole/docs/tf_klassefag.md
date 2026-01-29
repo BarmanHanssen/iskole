@@ -45,7 +45,7 @@ Dersom flere lærere må fagets ressurs fordeles.
  Vi ser at det første faget har to lærere. Ekspanderer vi AP3D HIS får vi frem detaljene:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/1043bd68-1862-4e8f-9b9b-686eb91fbc5b)
 
-Vi ser her at Jan-Erik er fagansvarlig (uthevet navn) og at fagets 140 årstimer skal fordeles (56+84) mellom lærerne. Bare 3 timer er foreløpig passert på timeplanen. For å endre årstimetallet, ressursen og uketimer for lærer: klikk på blyant-ikonet for lærerens navn.
+Vi ser her at Jan-Erik er fagansvarlig (uthevet navn) og at fagets 140 årstimer skal fordeles (56+84) mellom lærerne. Bare 3 timer er foreløpig plassert på timeplanen. For å endre årstimetallet, ressursen og uketimer for lærer: klikk på blyant-ikonet for lærerens navn.
 
 :::tip Faget er timeplanlagt for hele året med Peder som lærer. Men så slutter Peder og Berit skal overta som lærer fra nyttår og ut skoleåret. Gjør da følgende:
 - Legg til Berit som lærer i faget, men slett ikke Peder selv om han skal slutte. Ressursen til Berit må også tilpasses hennes inntreden i faget
