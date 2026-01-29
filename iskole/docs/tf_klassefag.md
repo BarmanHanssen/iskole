@@ -29,7 +29,7 @@ Eksempel: Skal registrere lærer i kroppsøving i klasse AD3D. Klikker på ikone
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ce8e4480-5c8f-4957-bb10-82f02d7ad683)
 
-Nedtrekkslisten _Lærer_ viser alle som er registrert som pedagoger (se _Personal>Ansatt_). Vi velger Peder Aas, og beholder default-verdiene slik de er. Etter lagring får vi dette reultatet:
+Vi velger Peder Aas, og beholder default-verdiene slik de er. Etter lagring får vi dette reultatet:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9bd451ee-9151-47cb-a635-51c7d7563220)
 
