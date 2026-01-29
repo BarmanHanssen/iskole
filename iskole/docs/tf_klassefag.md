@@ -19,12 +19,12 @@ Time- og fagfordelingen planlegges gjerne på vårparten for skoleåret som star
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/618410a6-0d9c-4df6-a363-41f3fa566d86)
 
-Tabellen er todelt. Fagene,som vises på hvit bakgrunn, er registrert fra  _Grunnlagsdata>Klasser_. Eventuell endring av klasser og klassens fagsammensetning må gjøres derfra. Endring av verdiene for fagnavn, fagkode, omfang, ressurs, uketimer og årstimer gjøres fra _Grunnlagsdata>Fag_.
+Tabellen er todelt. Fagene,som vises på hvit bakgrunn, er registrert fra  _Grunnlagsdata>Klasser_. Endring av klassens fagsammensetning må gjøres derfra. Endring av verdiene for fagnavn, fagkode, omfang, ressurs, uketimer og årstimer gjøres fra _Grunnlagsdata>Fag_.
 
 På lyseblå bakgrunn vises lærerne som skal undervise i fagene.
 
-## Vi ser på den lyseblå delen av tabellen
-Det er her vi legger inn faglærerne i det enkelte fag. For å registrere lærer i kroppsøving i klasse AD3D:
+## Registrer faglærer
+Eksempel:Skal registrere lærer i kroppsøving i klasse AD3D.
 Klikk på ikonet ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040) for å få frem følgende skjema:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ce8e4480-5c8f-4957-bb10-82f02d7ad683)
