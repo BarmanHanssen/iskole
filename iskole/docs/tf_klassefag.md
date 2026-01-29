@@ -1,4 +1,4 @@
----
+e---
 id: tf_klassefag
 title: Klassefag
 sidebar_label: Klassefag
@@ -23,7 +23,7 @@ Tabellen er todelt. Fagene,som vises på hvit bakgrunn, er registrert fra  _Grun
 
 På lyseblå bakgrunn vises lærerne som skal undervise i fagene.
 
-## Registrer faglærer
+## Registrere faglærer
 Eksempel: Skal registrere lærer i kroppsøving i klasse AD3D. Klikker på ikonet
  ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040) og får da frem følgende skjema:
 
