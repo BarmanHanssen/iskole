@@ -24,8 +24,8 @@ Tabellen er todelt. Fagene,som vises på hvit bakgrunn, er registrert fra  _Grun
 På lyseblå bakgrunn vises lærerne som skal undervise i fagene.
 
 ## Registrer faglærer
-Eksempel:Skal registrere lærer i kroppsøving i klasse AD3D.
-Klikk på ikonet ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040) for å få frem følgende skjema:
+Eksempel: Skal registrere lærer i kroppsøving i klasse AD3D. Klikk på ikonet
+ ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040) for å få frem følgende skjema:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ce8e4480-5c8f-4957-bb10-82f02d7ad683)
 
