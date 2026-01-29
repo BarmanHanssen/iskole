@@ -35,7 +35,7 @@ Vi velger Peder Aas, og beholder default-verdiene slik de er. Etter lagring får
 
 Nå kommer AP3D KRØ på to linjer. For Peder kan vi endre verdiene som er lagt inn (klikk blyant-ikonet), eller fjerne Peder som lærer. Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare mulig å slette læreren, faget blir stående.
 
-Dersom faget skal ha en ekstra lærer benytter vi på nytt ikonet  ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040) .
+Dersom faget skal ha en ekstra lærer benytter vi på nytt ikonet  ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9feb80ca-5ba0-468b-ab8a-887bdafbe040).
 
 ## Tabellens kolonner
 
