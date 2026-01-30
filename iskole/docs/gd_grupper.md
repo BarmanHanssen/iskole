@@ -3,9 +3,9 @@ id: gd_grupper
 title: Grupper
 sidebar_label: Grupper
 ---
-Fag som skal kunne være valgbare for elevene, klassifiserer vi som gruppefag. Det karakteristiske med gruppefag er at en elev skal kunne velge et slikt fag fritt, uavhengig av hvilken klasse eleven tilhører. Eksempelvis kan en elev på klassetrinn x også velge et grupefag som er registrert på klassetrinn y. Typisk vil et gruppefags elever komme fra flere klasser. Men det er også mulig et en gruppe kun har elever fra en klasse.
+Fag som skal kunne være valgbare for elevene, klassifiserer vi som gruppefag. Det karakteristiske med gruppefag er at en elev skal kunne tildeles, eller selv velge, et slikt fag fritt, uavhengig av hvilken klasse eleven tilhører. Eksempelvis kan en elev på klassetrinn x også kunne velge et grupefag som er registrert på klassetrinn y. Typisk vil et gruppefags elever komme fra flere klasser. Men det er også mulig et en gruppe kun har elever fra en klasse.
 
-Alle aktuelle gruppefag er registrert fra menyvalget _Fag_ under valget _Gruppefag_.  
+Gruppefag som er valgbare er registrert fra menyvalget _Fag_ under valget _Gruppefag_. Valgbare gruppefag er der markert ved at de er tildelt et gruppenummer.
 
 Her skal vi fastsette hvilke gruppefag som skal tilbys årets kull av elever. 
 
