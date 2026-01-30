@@ -3,15 +3,14 @@ id: gd_grupper
 title: Grupper
 sidebar_label: Grupper
 ---
-Fag som skal kunne være valgbare for elevene, klassifiserer vi som gruppefag. Det karakteristiske med gruppefag er at en elev skal kunne tildeles, eller selv velge, et slikt fag fritt, uavhengig av hvilken klasse eleven tilhører. Eksempelvis kan en elev på klassetrinn x også kunne velge et grupefag som er registrert på klassetrinn y. Typisk vil et gruppefags elever komme fra flere klasser. Men det er også mulig et en gruppe kun har elever fra en klasse.
+Fag som skal kunne være valgbare for elevene, klassifiserer vi som gruppefag. Det karakteristiske med gruppefag er at en elev skal kunne tildeles, eller selv velge, et slikt fag fritt, uavhengig av hvilken klasse eleven tilhører. Eksempelvis kan en elev på klassetrinn x også kunne velge et grupefag som er registrert på klassetrinn y. Typisk vil et gruppefags elever komme fra flere klasser. Men det er også mulig at en gruppe kun har elever fra en klasse.
 
-Gruppefag som er valgbare er registrert fra menyvalget _Fag_ under valget _Gruppefag_. Valgbare gruppefag er der markert ved at de er tildelt et gruppenummer.
+Gruppefag skolen kan tilby er registrert fra menyvalget _Gruppefag>Fag_.
 
-Her skal vi fastsette hvilke gruppefag som skal tilbys årets kull av elever. 
+Her skal vi fastsette hvilke gruppefag som skal tilbys årets kull av elever.  Dette markeres ved at gruppefaget tildeles et gruppenummer.
 
-For at et fag skal bli valgbart for årets elever må det gis et gruppenummer, se kolonnen  
+For at et fag skal bli valgbart for årets elever må det altså gis et gruppenummer, se kolonnen  
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6b69ae31-53bd-489e-ad7a-0e895f064bd5) .  Bare fag med gruppenummer vises i _Time- og fagfordeling>Gruppefag_. Og elevene kan bare velge fag som vises i klartekst fra  _Time- og fagfordeling>Gruppefag_.
-
 
 :::tip Tips
 For å få alle gruppene som alt er planlagt øverst/nederst i skjermbildet, trykk på gulmerket ikon.
