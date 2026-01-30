@@ -30,13 +30,12 @@ I bildet over har vi lagt inn de beskrevene timene for blokkid 2. Blokkid 1 er a
 #### Trinn
 Trinn henviser til klassetrinnet eleven er tilknyttet. Elever på videregående skole er gjerne fordelt på tre klassetrinn. Her kan vi legge til en ekstra betingelse, nemlig at fag med gitt blokkid bare kan velges dersom eleven befinner seg på angitt trinn.
 
-En elev kan i utgangspunktet tildeles grupppefag på fritt grunnlag ut fra det skolen tilbyr av grupppefag. Fagvalget er dog begrenset ved at enkelte fag krever forkunnskaper, eksempelvis kan ikke kjemi 2 velges uten at kjemi 1 allerede er tatt og bestått.
+Dersom blokkid ikke benyttes, kan en elev velge grupppefag på fritt grunnlag blant skolens tilbud. Fagvalget er dog begrenset ved at enkelte fag krever forkunnskaper, eksempelvis kan ikke kjemi 2 velges uten at kjemi 1 allerede er tatt og bestått.
 
 Dersom elevene selv skal kunne velge gruppefag for neste skoleår er fremgangsmåten slik:
 - Neste skoleår må opprettes, se _Grunnlagsdata>Skoleår_. Valgbare grupper må opprettes, gjerne med blokkid og trinn .
 - Aktuelle elever i år må flyttes opp til neste skoleår,  se _Elevadmin.>Oppflytting_
 - Det må åpnes for når årets elever skal kunne få velge av gruppefag for neste skoleår, se _Mine sider>Tilgang>Elevers valg av gruppefag_.
-
 
 ### Blokkfag
 Alle fag som er tildelt blokkid vises her. Blokkid kan registreres på fagene allerede når gruppefag opprettes fra _Grunnlagsdata>Grupper_.
@@ -44,7 +43,6 @@ Her kan en legge til/endre oppsettet av hvilke fag som skal ha blokkid.
 
 Velges _Blokkfag_ og _+ Legg blokkid til fag_ fås dette skjermbilde:
 ![image](https://github.com/user-attachments/assets/59e576ed-cb2e-493d-8e19-44ca2bc5cf3e)
-
 
 Huk av for fag, og velg hvilke blokkid som skal benyttes, og avslutt med _Lagre_.
 
