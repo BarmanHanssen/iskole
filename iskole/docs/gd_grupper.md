@@ -36,7 +36,7 @@ Blokkid kan i betydelig grad forenkle timplanlegging dersom blokkid-en er timepl
 
 Fagene er de samme som en finner under menyvalget _Fag>Gruppefag_.  
 
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6b69ae31-53bd-489e-ad7a-0e895f064bd5)  Bare fag som har en verdi (tall eller bokstav) skal igangsettes dette skoleåret.
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6b69ae31-53bd-489e-ad7a-0e895f064bd5)  Bare fag som har en verdi (tall eller bokstav) skal tilbys/være valgbare dette skoleåret.
 
 _Fagnavn, Uketimer, Fagkode, Omfang, Prosent_ hentes fra fra _Grunnlagsdata>Fag_.
 
