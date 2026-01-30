@@ -4,15 +4,15 @@ title: Blokk
 sidebar_label: Blokk
 ---
 ### Hvorfor benytte blokkid?
-Dersom elevene i utgangspunktet selv skal kunne gruppefag direkte fra iSkole:
+Dersom elevene i utgangspunktet selv skal kunne velge gruppefag direkte fra iSkole:
 - Valget begrenses ved at det ikke er mulig å velge to fag med samme blokkid
-- I tillegg vil timeplanleggingen av fag med blokkid kunne gjøres med ett museklikk. 
+- Dersom hver blokkid er timeplanlagtt vil timeplanleggingen av fag med blokkid kunne gjøres med ett museklikk. 
 
-Timeplanlegging av gruppefag kan gjøres uten å benytte (eller ta hensyn til) timeplanen for et blokkid. Men timeplanleggingen av fag med blokkid kan legges med ett museklikk. 
+Timeplanlegging av gruppefag kan gjøres uten å benytte (eller ta hensyn til) timeplanen for et blokkid. 
 
-Blokkid er en mal for timeplanlegging av gruppefag. En endring av malen har ingen innvirkning på timeplanen for gruppefag som alt er timeplanlagt.
+Blokkid, med eller uten timeplan for hver blokk, er en mal for timeplanlegging av gruppefag. En endring av malen har ingen innvirkning på timeplaner for gruppefag som alt er timeplanlagt.
 
-To fag med samme blokkid kan ikke timeplanllegges til samme tid i noen time. 
+Men to fag med samme blokkid kan ikke timeplanllegges til samme tid. 
 
 :::info Merk
 Det er først når et blokkid er timeplanlagt at vi kan høste gevinsten ved timeplanlegging av gruppefag.
