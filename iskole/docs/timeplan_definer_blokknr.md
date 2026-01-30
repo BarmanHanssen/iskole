@@ -1,7 +1,7 @@
 ---
 id: timeplan_definer_blokknr
 title: Blokk
-sidebar_label: Blokk
+sidebar_label: Blokk 
 ---
 ### Hvorfor benytte blokkid?
 Dersom elevene i utgangspunktet selv skal kunne velge gruppefag direkte fra iSkole:
