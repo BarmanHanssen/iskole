@@ -8,11 +8,10 @@ Dersom elevene i utgangspunktet selv skal kunne velge gruppefag direkte fra iSko
 - Valget begrenses ved at det ikke er mulig å velge to fag med samme blokkid.
 - Dersom hver blokkid er timeplanlagtt vil timeplanleggingen av fag med blokkid kunne gjøres med ett museklikk. 
 
-Timeplanlegging av gruppefag kan gjøres uten å benytte (eller ta hensyn til) timeplanen for et blokkid. 
+Timeplanlegging av gruppefag kan gjøres uten å benytte (eller ta hensyn til) timeplanen for et blokkid. Men to fag med samme blokkid kan ikke timeplanllegges til samme tid. 
 
 Blokkid, med eller uten timeplan for hver blokk, er en mal for timeplanlegging av gruppefag. En endring av malen har ingen innvirkning på timeplaner for gruppefag som alt er timeplanlagt.
 
-Men to fag med samme blokkid kan ikke timeplanllegges til samme tid. 
 
 :::info Merk
 Det er først når et blokkid er timeplanlagt at vi kan høste gevinsten ved timeplanlegging av gruppefag.
