@@ -40,6 +40,6 @@ Fagene er de samme som en finner under menyvalget _Fag>Gruppefag_.
 
 _Fagnavn, Uketimer, Fagkode, Omfang, Prosent_ hentes fra fra _Grunnlagsdata>Fag_.
 
-_Elever_ viser antallet elever som er påmeldt i faget. Når gruppen opprettes fra dette menyvalget, er tallet selvsagt null. 
+_Elever_ viser antallet elever som allerede har valgt faget. Når gruppen opprettes fra dette menyvalget, er tallet selvsagt null. 
 
 _Gruppenr:Blokkid_: Dersom blokkid er innført vises kombinasjonen gruppenr:blokkid. Dersom flere grupper i faget kommer de i rekkefølge. Ved å sortere på kolonnen (klikk på kolonnen), vil fag som skal timeplanelegges parallelt (altså med samme blokkid) komme etter hverandre.
