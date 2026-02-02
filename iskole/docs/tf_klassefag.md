@@ -1,4 +1,4 @@
-e---
+---
 id: tf_klassefag
 title: Klassefag
 sidebar_label: Klassefag
