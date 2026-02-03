@@ -27,9 +27,9 @@ Gruppenr må gis en verdi, men blokkid kan stå blank.
 
 Fag med samme blokkid ( gitt som et tall) skal undervises parallelt, selv om timeplanen for fagene på nåværende tidspunkt ikke er bestemt. Er fagene gitt blokkid kan en lærer ikke tildeles to fag med samme blokkid. Og en elev kan ikke velge to gruppefag med samme blokkid. 
 
-Gruppenummer kan bare settes/endres herfra. Men blokkid kan også settes/endres fra _Time- og fagfordelig>Gruppefag_. 
+Gruppenummer og blokkid kan bare settes/endres herfra. 
 
-Blokkid kan i betydelig grad forenkle timplanlegging dersom blokkid-en er timeplanlagt. Da kan gruppefag med timeplanlagt blokkid timeplanlegges med et museklikk. ( se _Timeplan>Grupper_).
+Dersom blokkid-en timeplanlegges (se _Timeplan>Grupper_), kan gruppefag med blokkid timeplanlegges med et museklikk!
 
 ### Litt om kolonnene i skjermbildet
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d6a80ad7-6744-403e-8211-fcb36ee70830)
