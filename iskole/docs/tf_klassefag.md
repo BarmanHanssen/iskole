@@ -45,15 +45,19 @@ Dersom flere lærere må fagets ressurs fordeles.
  Vi ser at det første faget har to lærere. Ekspanderer vi AP3D HIS får vi frem detaljene:
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/1043bd68-1862-4e8f-9b9b-686eb91fbc5b)
 
-Vi ser her at Jan-Erik er fagansvarlig (uthevet navn) og at fagets 140 årstimer skal fordeles (56+84) mellom lærerne. Bare 3 timer er foreløpig plassert på timeplanen. For å endre årstimetallet, ressursen og uketimer for lærer: klikk på blyant-ikonet for lærerens navn.
+Vi ser her at Jan-Erik er fagansvarlig (uthevet navn) og at fagets 140 årstimer skal fordeles (56+84) mellom lærerne. Også ressursen er fordelt.
+
+For å endre årstimetallet, ressursen og uketimer for lærer: klikk på blyant-ikonet for lærerens navn. 
+
+Til nå har timeplanlegger utplassert kun 3 timer på timeplanen. 
 
 :::tip Faget er timeplanlagt for hele året med Peder som lærer. Men så slutter Peder og Berit skal overta som lærer fra nyttår og ut skoleåret. Gjør da følgende:
 - Legg til Berit som lærer i faget, men slett ikke Peder selv om han skal slutte. Ressursen til Berit må også tilpasses hennes inntreden i faget
-- Klikk deretter på blyant-ikonet for Peder under kolonnen _Uketimer_. DU får frem en tabell med alle årets uker, et utsnitt av tabellen vises her:
+- Klikk deretter på blyant-ikonet for Peder under kolonnen _Uketimer_. Du får frem en tabell med alle årets uker, et utsnitt av tabellen vises her:
   
   ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3a5a8855-c2a6-4573-9806-115a594d3d84)
 
-  Finn Berit, og huk av ukene hvor Berit overtar timene til Peder, og avslutt med _Bytt lærer for valgte uker_. Dersom dette ikke medfører kollisjon for undervisning Berit allerede har, blir fagets timeplan er oppdatert.
+Finn Berit, og huk av ukene hvor Berit overtar timene til Peder, og avslutt med _Bytt lærer for valgte uker_. Dersom dette ikke medfører kollisjon for undervisning Berit allerede har, blir fagets timeplan er oppdatert.
 :::
  
 #### Uketimer
