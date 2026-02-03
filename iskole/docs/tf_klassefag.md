@@ -5,11 +5,13 @@ sidebar_label: Klassefag
 ---
   
 ## Generelt
+Her registreres hvem som skal være lærer(e) i det enkelte fag, og hvilken ressurs som tilkommer den enkelte lærer. Dersom flere lærere i et fag er det timeplanlegger som fastsetter fordelingen av timene (se _Timeplan>KLasser_).
+
 Klassens fag er registrert fra _Grunnlagsdata>Klasse_. Endring i fagsammensetningen for en klasse må gjøress derfra. 
 
-Her kan en knytte lærer(e) til klassefag. Dersom flere lærere er registrert i et fag, er det timeplanlegger som fastsetter når den enkelte lærer skal ha sine timer. Dersom man i tillegg til undervisningsressursen til læreren også registrere ressursbruk for eventuelt andre tjenester (menyvalget _Andre ressurser_) kan man kontrollere at læreren får en stillingsstørrelse som tilsvarer tilsettings-kontrakten (se _Rapporter>Stillingsoversikt_).
+Her knyttes lærer(e) til et klassefag. Dersom man i tillegg til undervisningsressursen til læreren også registrere ressursbruk for eventuelt andre tjenester (menyvalget _Andre ressurser_) kan man kontrollere at læreren får en stillingsstørrelse som tilsvarer tilsettings-kontrakten (se _Rapporter>Stillingsoversikt_).
 
-Time- og fagfordelingen planlegges gjerne på vårparten for skoleåret som starter til høsten. På den tid er antall elever i klassene og i gruppefagene ikke kjent, eller i beste fall usikre. Men fra skoleårets start vil en få oversikt over reelt elevtall i det enkelte fag, samt hvor mange timer som er timeplanlagt i det enkelte fag og for den enkelte lærer i fag (et faget kan ha flere lærere). Resultatet blir vist som klokketimer, og tar høyde for at undervisningstimene kan ha varierende lengde.
+Time- og fagfordelingen planlegges gjerne på vårparten for skoleåret som starter til høsten. På den tid er antall elever i klassene og i gruppefagene ikke kjent, eller i beste fall usikre. Men fra skoleårets start vil en få oversikt over reelt elevtall i det enkelte fag. Resultatet blir vist som klokketimer, og tar høyde for at undervisningstimene kan ha varierende lengde.
 
 ## Klasser og fag
 
