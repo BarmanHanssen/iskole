@@ -9,7 +9,7 @@ Her registreres faglærerne i valgfagene for dette skoleåret.
 Hvilke grupper som tilbys er satt opp fra _Grunnlagsdata>Grupper_.
 
 ## Kolonnene i tabellen for gruppefagene
-Strukturen er den samme som for klassefagene. Men gruppefagene har en ekstra kolonne, _Blokkid_. Blokkid registreres og endres fra _Grunnlagsdata>Grupper_.
+Strukturen er den samme som for klassefagene. Men gruppefagene har en ekstra kolonne, _Blokkid_. Se  _Grunnlagsdata>Grupper_ for nærmere omtale/registrering/endring .
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/095cd6a8-4f74-4cc8-a1fa-0c401d030f7e)
 
