@@ -21,7 +21,7 @@ Her vises også hvor mange timer timeplanlegger alt har plassert på timeplanen.
 
 Tabellen er todelt. Fagene,som vises på hvit bakgrunn, er registrert fra  _Grunnlagsdata>Klasser_. Endring av klassens fagsammensetning må gjøres derfra. Endring av verdiene for fagnavn, fagkode, omfang, ressurs, uketimer og årstimer gjøres fra _Grunnlagsdata>Fag_.
 
-På lyseblå bakgrunn vises lærerne som skal undervise i fagene.
+På lyseblå bakgrunn vises data for lærerne som skal undervise i fagene.
 
 ## Registrere faglærer
 Eksempel: Skal registrere lærer i kroppsøving i klasse AD3D. Klikker på ikonet
