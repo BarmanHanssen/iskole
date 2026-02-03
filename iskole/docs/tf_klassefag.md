@@ -3,7 +3,7 @@ id: tf_klassefag
 title: Klassefag
 sidebar_label: Klassefag
 ---
-  
+   
 ## Generelt
 Her registreres hvem som skal være lærer(e) i det enkelte fag, og hvilken ressurs som tilkommer den enkelte lærer. Dersom flere lærere i et fag er det timeplanlegger som fastsetter fordelingen av timene (se _Timeplan>KLasser_).
 
