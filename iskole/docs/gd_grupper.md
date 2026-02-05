@@ -26,7 +26,7 @@ For å få alle gruppene som alt er registrert med gruppenr øverst/nederst i sk
 Gruppenr må gis en verdi, men blokkid kan stå blank. 
 
 #### Gruppenr
-Grupper som skal kunne igangsettes dette skoleåret markeres ved å gi faget et gruppenr. Uten gruppenummer vil faget ikke vises under _Time- og fagfordelling>Grupper_, og elever kan heller ikke kunne  velge faget. Et fag kan ha flere grupper, eksempelvispå grunn av mange elever.
+Grupper som skal kunne igangsettes dette skoleåret markeres ved å gi faget et gruppenr. Uten gruppenummer vil faget ikke vises under _Time- og fagfordelling>Grupper_, og elever kan heller ikke kunne  velge faget. Et fag kan ha flere grupper, eksempelvis på grunn av mange elever.
 
 ##### Blokkid
 Dersom man har besluttet at enkelte fagkombinasjoner skal undervises på samme tid, kan dette registreres her. Fag med samme blokkid (gitt som et tall) skal undervises parallelt. Dette innebærer at en lærer ikke tildeles to fag med samme blokkid (se Timefordeling>Gruppefag). Tilsvarende kan en elev ikke velge/tildeles to gruppefag med samme blokkid. 
