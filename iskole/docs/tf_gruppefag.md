@@ -5,8 +5,9 @@ sidebar_label: Gruppefag
 ---
 
 ## Generelt
-Her registreres faglærerne i valgfagene for dette skoleåret. 
-Hvilke grupper som tilbys er satt opp fra _Grunnlagsdata>Grupper_.
+Hvilke grupper som tilbys dette skoleåret er satt opp fra _Grunnlagsdata>Grupper_.
+Her registreres faglærerne i valgfagene, og deres tilhørende undervisningsressurs.
+
 
 ## Kolonnene i tabellen for gruppefagene
 Strukturen er den samme som for klassefagene. Men gruppefagene har en ekstra kolonne, _Blokkid_. Se  _Grunnlagsdata>Grupper_ for registrering/endring.
