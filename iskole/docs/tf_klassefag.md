@@ -20,7 +20,7 @@ Antall timer timeplanlegger alt har plassert på timeplanen vises også. Resulta
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/618410a6-0d9c-4df6-a363-41f3fa566d86)
 
-Tabellen er todelt. Fagene,som vises på hvit bakgrunn, er registrert fra  _Grunnlagsdata>Klasser_. Endring av klassens fagsammensetning må gjøres derfra. Endring av verdiene for fagnavn, fagkode, omfang, ressurs, uketimer og årstimer gjøres fra _Grunnlagsdata>Fag_.
+Tabellen er todelt. Fagene som vises på hvit bakgrunn kan ikke endres herfra, de er registrert fra  _Grunnlagsdata>Klasser_. 
 
 På lyseblå bakgrunn vises data for lærerne som skal undervise i fagene.
 
