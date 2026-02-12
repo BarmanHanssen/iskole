@@ -80,10 +80,10 @@ Omfanget er bestemt fra fagkoden til faget og kan ikke endres. Unntak: Fag med f
 Årstimer settes automtisk likt med omfanget til fagets fagkode og er da angitt i klokketimer.
 
 #### Årsramme 
-Brøken Årsramme/Årstimer*100 gir fagets stillingsstørrelse. Altså hva faglærer får godskrevet for å undervise i faget.
+Brøken Årstimer/Årsramme*100 gir fagets stillingsstørrelse. Altså hva faglærer får godskrevet for å undervise i faget.
 
 #### Tilsvarer stillingsprosent
-Beregnes ut fra årsramme delt på årstimer multiplisert med 100. (Krever at årsrammen ikke er null.)
+Beregnes ut fra årstimer delt årsramme på multiplisert med 100. (Krever at årsrammen ikke er null.)
 
 ####  Elever
 I det et nytt fag registreres her, kan selvsagt ingen elever være knyttet til faget. Elevene kommer først når klassefaget er plassert i en klasse (fra menyvalget _Klasser_), og elever er tatt inn i klassen. Tilsvarende må det være registrert en gruppe i faget (fra menyvalget _Grupper_), før elever kan knyttes til gruppefaget.
@@ -91,8 +91,10 @@ Når elevene er registrert vil tallene her vise status for det enkelte fag. Ders
 
 ## Fag med flere komponenter
 #### Eksempel 1: Kan være aktuelt for klassefag med stort omfang.
-Dersom et fag skal deles slik at hver del kan ha egen lærer, kan selve faget deles slik at hver lærer får sin del av faget. 
-Benyttes spesielt for gruppefag når en gruppe elever undervises samlet i noen timer, men deles i flere mindre grupper i andre timer. Eksempel: Språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget er registrert med fagkoden til majoriteten av elevene. I andre timer er de delt ut fra forhåndskompetanse. Til dette formålet registreres en kompontent til faget. Komponenten har fagkoden 999999, og knyttes altså til den opprinnelige spansk-gruppen. (At noen elever skal ha en annen fagkode enn majoriteten, registreres fra _Elevadmin.>Karakterer_.)
+Faget deles slik at hver del skal kunne ha alle elevene i klassen, men med egen lærer i hver del. Enkel å grei løsning for slike klassefag!
+
+#### Eksempel 2: Kan være aktuelt for gruppefag.
+Typisk eksempel: En språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget registrert med fagkoden til majoriteten av elevene (se _Grunnlagsdata>Fag_. At noen elever skal ha en annen fagkode enn majoriteten, legges inn fra _Elevadmin.>Karakterer_). I andre timer er de delt ut fra forhåndskompetanse. Dette løses ved å registrere en kompontent til faget. Komponenten har fagkoden 999999, og knyttes altså til den opprinnelige spansk-gruppen. Det opprettes to gruppere for komponenten. I grupppe 1 kan elevene med størst forhåndskompetasen registreres, og de resterende i gruppe 2. 
 
 #### Eksempel 2: Kan være aktuelt for klassefag hvor noen elever skal ha egen støttelærer (IOP?).
 - Dersom elevene det gjelder har egen støttelærerer, men er sammen med klassen i faget. Kan løses ved at timene har ekstralærer som har ansvaret for disse elevene. Om ønskelig kan ekstra rom båndlegges som de alternativt benytter i disse timene.
