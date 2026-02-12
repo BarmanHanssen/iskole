@@ -3,14 +3,6 @@ id: gd_fag
 title: Fag
 sidebar_label: Fag
 ---
-
-Her starter det: 
-
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a3738e48-fd7b-4bf1-a113-97a5c4aa6c08)
-
-:::tip Tips
-Har du _Fagkode_ markert med rød farge, velg da _Utgåtte fagkoder_ for å oppdatere, se omtale nederst på siden.
-:::
 ## Generelt
 
 Registrering/endring av fag er knyttet til skoleåret som er valgt. Å slette et fag vil derfor kun slette faget for dette skoleåret, og har ingen innvirkning på andre skoleårs datagrunnlag. Ved nytt skoleår kan det være greit å slette fag som en vet ikke vil bli brukt. 
@@ -20,6 +12,15 @@ Alle fag som skal tilordnes en klasse (se menyvalget _Klasser_) må først være
 En bestemt fagkode kan forekomme både som klasse- og gruppefag. Alle fag som skal tilbys elevene i dette skoleåret må altså være registrert her. Men et faget registrert her må ikke nødvendigvis bli registrert under menyvalgene _Klasser_ eller _Grupper_.
 
 Med denne todelingen av fag (klasse- og gruppefag)  kan hver elev få registrert akkurat sine fag. Og med elevenes fagvalg på plass kan timeplanen legges uten kollisjon for elevene.
+
+
+Her starter det: 
+
+![image](https://github.com/BarmanHanssen/iskole/assets/80097133/a3738e48-fd7b-4bf1-a113-97a5c4aa6c08)
+
+:::tip Tips
+Har du _Fagkode_ markert med rød farge, velg da _Utgåtte fagkoder_ for å oppdatere, se omtale nederst på siden.
+:::
 
 ## Klassefag og Gruppefag
 Datagrunnlaget er så likt at vi bruker kun klassefag for å vise hva som må gjøres.
