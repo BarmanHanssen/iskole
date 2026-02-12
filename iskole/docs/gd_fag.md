@@ -90,11 +90,11 @@ I det et nytt fag registreres her, kan selvsagt ingen elever være knyttet til f
 Når elevene er registrert vil tallene her vise status for det enkelte fag. Dersom det viser seg at et fag ikke har elever når skoleåret er starter, kan det muligens være fornuftig å slette faget?
 
 ## Fag med flere komponenter
-# Eksempel 1: Kan være aktuelt for klassefag med stort omfang.
+### Eksempel 1: Kan være aktuelt for klassefag med stort omfang.
 Dersom et fag skal deles slik at hver del kan ha egen lærer, kan selve faget deles slik at hver lærer får sin del av faget. 
 Benyttes spesielt for gruppefag når en gruppe elever undervises samlet i noen timer, men deles i flere mindre grupper i andre timer. Eksempel: Språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget er registrert med fagkoden til majoriteten av elevene. I andre timer er de delt ut fra forhåndskompetanse. Til dette formålet registreres en kompontent til faget. Komponenten har fagkoden 999999, og knyttes altså til den opprinnelige spansk-gruppen. (At noen elever skal ha en annen fagkode enn majoriteten, registreres fra _Elevadmin.>Karakterer_.)
 
-# Eksempel 2: Kan være aktuelt for klassefag hvor noen elever skal ha egen støttelærer (IOP?).
+#### Eksempel 2: Kan være aktuelt for klassefag hvor noen elever skal ha egen støttelærer (IOP?).
 - Dersom elevene det gjelder har egen støttelærerer, men er sammen med klassen i faget. Kan løses ved at timene har ekstralærer som har ansvaret for disse elevene. Om ønskelig kan ekstra rom båndlegges som de alternativt benytter i disse timene.
 - Dersom elevene det gjelder skal ha egen timeplan, men disse timene skal timeplanlegges der klassen er opptatt. Dette er akktuelt dersom elevene det gjelder ikke har klassefaget, og derfor i utgangspunktet har fritimer. Mest ryddige løsning: Faget fjernes som klassefag og flyttes til gruppefag. Det opprettes en komponent til faget hvor disse elevene plasseres med sine støttelærer. Komponentens timeplan vil da kollidere med klassens timeplan, men det kan godkjennes. 
 
