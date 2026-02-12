@@ -77,20 +77,26 @@ Etter å ha valgt fag som skal slettes må man bekrefte at faget skal slettes. F
 Omfanget er bestemt fra fagkoden til faget og kan ikke endres. Unntak: Fag med fagkode 999999, her legges omfanget inn manuelt.
 
 #### Årstimer
-Årstimer settes automtisk likt med omfanget til faget og er da angitt i klokketimer. Kan blant annet være aktuelt å justere for enkelte fag på Steinerskoler.
+Årstimer settes automtisk likt med omfanget til fagets fagkode og er da angitt i klokketimer.
 
 #### Årsramme 
-Angir hvor mange timer man må undervise i faget for å full stilling. Dersom årstimer=omfang er det klokketimer som gjelder.
+Brøken Årsramme/Årstimer*100 gir fagets stillingsstørrelse. Altså hva faglærer får godskrevet for å undervise i faget.
 
 #### Tilsvarer stillingsprosent
-Beregnes ut fra årstimer delt på årsramme multiplisert med 100. (Krever at årsrammen ikke er null.)
+Beregnes ut fra årsramme delt på årstimer multiplisert med 100. (Krever at årsrammen ikke er null.)
 
 ####  Elever
-Når et nytt fag registreres her, kan selvsagt ingen elever være knyttet til faget. Elevene kommer først når klassefaget er plassert i en klasse (fra menyvalget _Klasser_), og elever er tatt inn i klassen. Tilsvarende må det være registrert en gruppe i faget (fra menyvalget _Grupper_), før elever kan knyttes til gruppefaget.
+I det et nytt fag registreres her, kan selvsagt ingen elever være knyttet til faget. Elevene kommer først når klassefaget er plassert i en klasse (fra menyvalget _Klasser_), og elever er tatt inn i klassen. Tilsvarende må det være registrert en gruppe i faget (fra menyvalget _Grupper_), før elever kan knyttes til gruppefaget.
 Når elevene er registrert vil tallene her vise status for det enkelte fag. Dersom det viser seg at et fag ikke har elever når skoleåret er starter, kan det muligens være fornuftig å slette faget?
 
 ## Fag med flere komponenter
-Dersom et fag skal deles slik at hver del kan ha egen lærer, kan selve faget deles slik at hver lærer får sin del av faget. Kan være aktuelt for klassefag med stort omfang. Benyttes spesielt for gruppefag når en gruppe elever undervises samlet i noen timer, men deles i flere mindre grupper i andre timer. Eksempel: Språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget er registrert med fagkoden til majoriteten av elevene. I andre timer er de delt ut fra forhåndskompetanse. Til dette formålet registreres en kompontent til faget. Komponenten har fagkoden 999999, og knyttes altså til den opprinnelige spansk-gruppen. (At noen elever skal ha en annen fagkode enn majoriteten, registreres fra _Elevadmin.>Karakterer_.)
+# Eksempel 1: Kan være aktuelt for klassefag med stort omfang.
+Dersom et fag skal deles slik at hver del kan ha egen lærer, kan selve faget deles slik at hver lærer får sin del av faget. 
+Benyttes spesielt for gruppefag når en gruppe elever undervises samlet i noen timer, men deles i flere mindre grupper i andre timer. Eksempel: Språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget er registrert med fagkoden til majoriteten av elevene. I andre timer er de delt ut fra forhåndskompetanse. Til dette formålet registreres en kompontent til faget. Komponenten har fagkoden 999999, og knyttes altså til den opprinnelige spansk-gruppen. (At noen elever skal ha en annen fagkode enn majoriteten, registreres fra _Elevadmin.>Karakterer_.)
+
+# Eksempel 2: Kan være aktuelt for klassefag hvor noen elever skal ha egen støttelærer (IOP?).
+- Dersom elevene det gjelder har egen støttelærerer, men er sammen med klassen i faget. Kan løses ved at timene har ekstralærer som har ansvaret for disse elevene. Om ønskelig kan ekstra rom båndlegges som de alternativt benytter i disse timene.
+- Dersom elevene det gjelder skal ha egen timeplan, men disse timene skal timeplanlegges der klassen er opptatt. Dette er akktuelt dersom elevene det gjelder ikke har klassefaget, og derfor i utgangspunktet har fritimer. Mest ryddige løsning: Faget fjernes som klassefag og flyttes til gruppefag. Det opprettes en komponent til faget hvor disse elevene plasseres med sine støttelærer. Komponentens timeplan vil da kollidere med klassens timeplan, men det kan godkjennes. 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
 
