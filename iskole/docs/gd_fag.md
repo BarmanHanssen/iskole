@@ -102,7 +102,7 @@ Typisk eksempel: En språkgruppe i spansk opprettes for elever med ulik forhånd
 - Mest ryddige løsning: Faget fjernes som klassefag og flyttes til gruppefag. Gruppefaget tildeles alle elevene i klassen. Det opprettes en komponent til faget (se Grunnlagsdata>Fag), og to grupper for komponenten (se _Grunnlagsdata_Grupper_).  Elevene uten støttelærer plasseres i gruppe 1, de øvrige i gruppe 2. Gruppe 2's timeplan vil da kunne kollidere med klassens timeplan, men det er ok og kan godkjennes. 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
-
+ 
 Det er bare fag med med fagkode 999999 som kan være komponent til et fag med fagkode forskjellig fra 999999. 
 
 Her fås en oversikt over fag som alt har en komponent. For elever i komponentfaget vil eksempelvis ført fravær i komponentfaget bli slått sammen med fraværet i faget som eier komponenten.
