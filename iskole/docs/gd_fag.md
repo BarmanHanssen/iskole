@@ -120,7 +120,7 @@ Nedtrekkslisten viser da alle fag som NOX kan være en komponent av. Utvalget er
 Disse fag kan timeplanlegges på valig måte. De fremkommer ikke direkte på karakterdokumentasjonen, og er heller ikke med på diverse oversikter, f.eks til Wis. 
 
 ### Oversikt
-Her vises alle fag som er registrert, men fokusert på gyldighet, og registrert elevtall på hvert fag. Fag med rød skrift er gått ut på dato, og må gis ny fagkode. Merk at en fagkode kan være registrert både som klasse- og gruppefag, og på flere årstrinn, det er ok. Men en elev kan ikke være registrert med to fag med samme fagkode i dette skoleåret. Dersom oversikten tas frem etter skolestart, vil _Elevantall_ vise hvor mange elever som er registrert med faget. Når nytt fag legges til, er selvsagt elevtallet null.
+Her vises alle fag som er registrert, men fokusert på gyldighet, og registrert elevtall på hvert fag. Fag med rød skrift er gått ut på dato, og må gis ny fagkode. Merk at en fagkode kan være registrert både som klasse- og gruppefag, og på flere årstrinn, det er ok. Men en elev tillastes ikke å få registrert to fag med samme fagkode i dette skoleåret. Dersom oversikten tas frem etter skolestart, vil _Elevantall_ vise hvor mange elever som er registrert med faget. Når nytt fag legges til, er selvsagt elevtallet null.
 
 ### Utgåtte fagkoder
 
