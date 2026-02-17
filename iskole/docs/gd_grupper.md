@@ -31,7 +31,7 @@ Grupper som skal kunne igangsettes dette skoleåret markeres ved å gi faget et 
 ##### Velg blokkid
 Dersom man har besluttet at enkelte fagkombinasjoner skal undervises på samme tid, kan dette registreres her. Fag med samme blokkid (gitt som et tall) skal undervises parallelt. Dette innebærer at en lærer ikke tildeles to fag med samme blokkid (se _Timefordeling>Gruppefag_). Tilsvarende kan en elev ikke velge/tildeles to gruppefag med samme blokkid. 
 
-Gruppenummer og blokkid kan bare settes/endres herfra. 
+Blokkid kan også settes/endres _Timeplan>Blokk_. 
 
 Tips til timeplanlegger: Dersom blokkid-en timeplanlegges (se _Timeplan>Grupper_), kan gruppefag med blokkid timeplanlegges med et museklikk!
 
