@@ -10,7 +10,7 @@ Aktuelle gruppefag skolen kan tilby er registrert fra menyvalget _Gruppefag>Fag_
 Her skal vi fastsette hvilke av disse gruppefag som skal tilbys årets elever.  Dette markeres ved at gruppefaget tildeles et gruppenummer.
 
 For at et fag skal bli valgbart for årets elever må det altså gis et gruppenummer, se kolonnen  
-![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6b69ae31-53bd-489e-ad7a-0e895f064bd5) .  Bare fag med gruppenummer vises i _Time- og fagfordeling>Gruppefag_. Og elevene kan bare velge fag som vises i klartekst fra  _Time- og fagfordeling>Gruppefag_.
+![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/6b69ae31-53bd-489e-ad7a-0e895f064bd5) .  Bare fag med gruppenummer vises i _Time- og fagfordeling>Gruppefag_. Og elevene kan bare velge fag som vises i  _Time- og fagfordeling>Gruppefag_.
 
 :::tip Tips
 For å få alle gruppene som alt er registrert med gruppenr øverst/nederst i skjermbildet, trykk på gulmerket ikon.
