@@ -25,7 +25,7 @@ For å få alle gruppene som alt er registrert med gruppenr øverst/nederst i sk
 
 Gruppenr må gis en verdi, men blokkid kan stå blank. 
 
-#### Vleg gruppenr
+##### Velg gruppenr
 Grupper som skal kunne igangsettes dette skoleåret markeres ved å gi faget et gruppenr. Uten gruppenummer vil faget ikke vises under _Time- og fagfordelling>Grupper_, og elever kan heller ikke kunne  velge faget. Et fag kan ha flere grupper, eksempelvis på grunn av mange elever.
 
 ##### Velg blokkid
