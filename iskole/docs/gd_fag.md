@@ -91,15 +91,15 @@ Når elevene er registrert vil tallene her vise status for det enkelte fag. Ders
 
 ## Fag med flere komponenter
 #### Eksempel 1: Kan være aktuelt for klassefag med stort omfang.
-Faget deles slik at hver del skal kunne ha alle elevene i klassen, men med egen lærer i hver del. Enkel å grei løsning for slike klassefag!
+Faget deles slik at hver del skal kunne ha alle elevene i klassen, men med egen lærer i hver del. Enkel å grei løsning for slike klassefag! Kan alternativt løses ved at faget er satt opp med flere lærere, men at disse fordeler ukens undervisningstimer slik at hver time bare har en lærer.
 
 #### Eksempel 2: Kan være aktuelt for gruppefag.
-Typisk eksempel: En språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget registrert med fagkoden til majoriteten av elevene (se _Grunnlagsdata>Fag_. At noen elever skal ha en annen fagkode enn majoriteten, legges inn fra _Elevadmin.>Karakterer_). I andre timer er de delt ut fra forhåndskompetanse. Dette løses ved å registrere en komponent til faget. Komponenten har fagkoden 999999, og knyttes altså til den opprinnelige spansk-gruppen. Det opprettes to grupper for komponenten (se _Grunnlagsdata>Grupper_). I grupppe 1 kan elevene med størst forhåndskompetasen registreres, og de resterende i gruppe 2. 
+Typisk eksempel: En språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget registrert med fagkoden til majoriteten av elevene (se _Grunnlagsdata>Fag_. At noen elever skal ha en annen fagkode enn majoriteten, legges inn fra _Elevadmin.>Karakterer_). I andre timer er de delt ut fra forhåndskompetanse. Dette løses ved å registrere en komponent til faget. Komponenten har fagkoden 999999, og knyttes altså til den opprinnelige spansk-gruppen. Det opprettes to grupper for komponenten (se _Grunnlagsdata>Grupper_). I grupppe 1 kan elevene med størst forhåndskompetasen registreres, og de resterende i gruppe 2. De to gruppene skal undervises på samme tid.
 
 #### Eksempel 3: Kan være aktuelt for klassefag hvor noen elever skal ha egen støttelærer (IOP?).
-- Dersom elevene det gjelder har egen støttelærerer, men er sammen med klassen i alle fagets timer. Kan løses ved ekstralærer i disse timene. Om ønskelig kan ekstra rom båndlegges som de alternativt benytter i disse timene.
-- Dersom elevene det gjelder skal ha egen timeplan for støtteunderrvisningen, men disse timene skal timeplanlegges der klassen er opptatt. Dette går greit dersom elevene det gjelder ikke har klassefaget som da er opptatt, og derfor i utgangspunktet har fritimer.
-- Mest ryddige løsning: Faget fjernes som klassefag og flyttes til gruppefag. Gruppefaget tildeles alle elevene i klassen. Det opprettes en komponent til faget (se Grunnlagsdata>Fag), og to grupper for komponenten (se _Grunnlagsdata_Grupper_).  Elevene uten støttelærer plasseres i gruppe 1, de øvrige i gruppe 2. Gruppe 2's timeplan vil da kunne kollidere med klassens timeplan, men det er ok og kan godkjennes. 
+- Dersom elevene det gjelder har egen støttelærerer i noen, eller alle timene i faget, og er sammen med klassen i alle fagets timer: Løses uten bruk av komponenter! Bruk av ekstralærer i disse timene. Om ønskelig kan ekstra rom båndlegges som alternativt benytter i disse timene. 
+
+- Dersom elevene det gjelder har egen støttelærerer, men er sammen med klassen i noen av fagets timer og har noen timer adskilt: Faget fjernes som klassefag og flyttes til gruppefag. Gruppefaget tildeles alle elevene i klassen og timeplanlegges der alle er samlet. Det opprettes en komponent til faget (se Grunnlagsdata>Fag), og to grupper for komponenten (se _Grunnlagsdata_Grupper_).  Elevene uten støttelærer plasseres i gruppe 1, de øvrige i gruppe 2. Gruppene kan da timeplanlegges separat. Gruppe 2's timeplan vil da kunne kollidere med klassens timeplan, men det er ok og kan godkjennes. 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
  
