@@ -5,7 +5,7 @@ sidebar_label: Fag
 ---
 ## Generelt
 
-Alle fag som skal tilordnes en klasse (se menyvalget _Klasser_) må først være registrert her som _Klassefag_. Og fag som elevene skal kunne velge i tillegg til klassefagene (se menyvalget _Grupper_), må første være regitrert her som _Gruppefag_. Et fag kan være registrert både som klasse- og gruppefag.
+Alle fag som skal tilordnes en klasse (se menyvalget _Klasser_) må først være registrert her som _Klassefag_. Og fag som elevene skal kunne velge i tillegg til klassefagene må være regitrert her som _Gruppefag_ (se menyvalget _Grupper_). Et fag kan være registrert både som klasse- og gruppefag.
 
 Registrering/endring av fag er knyttet til skoleåret som er valgt. Ved nytt skoleår kan det være greit å slette fag som en vet ikke vil bli brukt. Å slette et fag for dette skoleåret, har ingen innvirkning på andre skoleårs datagrunnlag.
 
