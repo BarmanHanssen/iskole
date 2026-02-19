@@ -93,7 +93,7 @@ Når elevene er registrert vil tallene her vise status for det enkelte fag. Ders
 #### Eksempel 1: Kan være aktuelt for klassefag med stort omfang.
 Faget deles slik at hver del skal kunne ha alle elevene i klassen, men med egen lærer i hver del. Enkel å grei løsning for slike klassefag! Kan alternativt løses ved at faget er satt opp med flere lærere, men at disse fordeler ukens undervisningstimer slik at hver time bare har en lærer.
 
-#### Eksempel 2: Kan være aktuelt for gruppefag.
+#### Eksempel 2: Kan være aktuelt for gruppefag. 
 Typisk eksempel: En språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget registrert med fagkoden til majoriteten av elevene (se _Grunnlagsdata>Fag_. At noen elever skal ha en annen fagkode enn majoriteten, legges inn fra _Elevadmin.>Karakterer_). I andre timer er de delt ut fra forhåndskompetanse. Dette løses ved å registrere en komponent til faget. Komponenten har fagkoden 999999, og knyttes altså til den opprinnelige spansk-gruppen. Det opprettes to grupper for komponenten (se _Grunnlagsdata>Grupper_). I grupppe 1 kan elevene med størst forhåndskompetasen registreres, og de resterende i gruppe 2. De to gruppene skal undervises på samme tid.
 
 #### Eksempel 3: Kan være aktuelt for klassefag hvor noen elever skal ha egen støttelærer (IOP?).
