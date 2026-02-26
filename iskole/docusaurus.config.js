@@ -1,11 +1,14 @@
-module.exports = {
+export default {
+  markdown: {
+    format: 'detect',
+  },
   title: 'iSkole - skoleadministrativt system',
   tagline: 'Dokumentasjon består av to deler. Den første delen dokumenterer hvert enkelt menyvalg på iSkole, den andre delen er basert på emner og forteller hvordan man utfører ulike oppgaver.',
   url: 'https://dokumentasjon.iskole.net/',
   baseUrl: '/',
   favicon: 'img/iskole.ico',
-  organizationName: 'BarmanHanssen', // Usually your GitHub org/user name.
-  projectName: 'iskole', // Usually your repo name.
+  organizationName: 'BarmanHanssen',
+  projectName: 'iskole',
   themeConfig: {
     navbar: {
       title: 'iSkole',
@@ -16,7 +19,6 @@ module.exports = {
       items: [
         {
           to: 'docs/oversikt',
-          //activeBasePath: 'docs',
           label: 'Dokumentasjon',
           position: 'left',
         },
@@ -41,8 +43,7 @@ module.exports = {
             {
               label: 'iSkole - Elev',
               to: 'docs/elev',
-            }
-            ,
+            },
             {
               label: 'iSkole - Plagiatkontroll',
               to: 'docs/plagiatkontroll',
@@ -65,20 +66,31 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Barman Hanssen AS. Built with Docusaurus.`,
     },
+    docsearch: {
+      appId: 'O8KNJW4BLE',
+      apiKey: '758bd3ca41360f2f878c7feb9955ad0a',
+      indexName: 'iskole_doc',
+      contextualSearch: true,
+    },
   },
+  plugins: ['@docsearch/docusaurus-adapter'],
   presets: [
     [
       '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: './sidebars.js',
           editUrl:
             'https://github.com/BarmanHanssen/iskole/tree/master/iskole/',
         },
+        blog: {
+          onInlineAuthors: 'ignore',
+          onUntruncatedBlogPosts: 'ignore',
+        },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: './src/css/custom.css',
         },
       },
     ],
-  ]
+  ],
 };
