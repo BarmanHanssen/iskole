@@ -73,7 +73,7 @@ export default {
       indexName: 'dokumentasjon_iskole_net_o8knjw4ble_pages',
       contextualSearch: false,
       askAi: {
-        assistantId: 'i381xRRcgSD5',
+        assistantId: 'BLz51vIm4GXN',
         sidePanel: true,
       },
     },
