@@ -72,10 +72,10 @@ export default {
       apiKey: '758bd3ca41360f2f878c7feb9955ad0a',
       indexName: 'dokumentasjon_iskole_net_o8knjw4ble_pages',
       contextualSearch: false,
-      askAi: {
+      /* askAi: {
         assistantId: 'BLz51vIm4GXN',
         sidePanel: true,
-      },
+      }, */
     },
   },
   headTags: [
