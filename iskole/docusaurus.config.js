@@ -73,6 +73,15 @@ export default {
       contextualSearch: true,
     },
   },
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'algolia-site-verification',
+        content: '521E4BFAFDA37CAA',
+      },
+    },
+  ],
   plugins: ['@docsearch/docusaurus-adapter'],
   presets: [
     [
