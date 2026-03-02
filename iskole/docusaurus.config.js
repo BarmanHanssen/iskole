@@ -23,7 +23,7 @@ export default {
           label: 'Dokumentasjon',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: 'blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -67,44 +67,55 @@ export default {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Barman Hanssen AS. Built with Docusaurus.`,
     },
-    docsearch: {
+    /* docsearch: {
       appId: 'O8KNJW4BLE',
       apiKey: '758bd3ca41360f2f878c7feb9955ad0a',
       indexName: 'dokumentasjon_iskole_net_o8knjw4ble_pages',
       contextualSearch: false,
+      askAi: {
+        assistantId: '5F3RCH4kX78f',
+        sidePanel: true,
+      },
+    },
+  }, */
+    docsearch: {
+      container: '#docsearch',
+      appId: 'XU805MVZ7K',
+      indexName: 'iskole_doc_search',
+      apiKey: '277cb0c091adca03145d0fa35d30e05b',
       /* askAi: {
-        assistantId: 'BLz51vIm4GXN',
+        assistantId: '5F3RCH4kX78f',
         sidePanel: true,
       }, */
     },
   },
   headTags: [
-    {
-      tagName: 'meta',
-      attributes: {
-        name: 'algolia-site-verification',
-        content: '521E4BFAFDA37CAA',
-      },
-    },
-  ],
-  plugins: ['@docsearch/docusaurus-adapter'],
-  presets: [
-    [
-      '@docusaurus/preset-classic',
       {
-        docs: {
-          sidebarPath: './sidebars.js',
-          editUrl:
-            'https://github.com/BarmanHanssen/iskole/tree/master/iskole/',
-        },
-        blog: {
-          onInlineAuthors: 'ignore',
-          onUntruncatedBlogPosts: 'ignore',
-        },
-        theme: {
-          customCss: './src/css/custom.css',
+        tagName: 'meta',
+        attributes: {
+          name: 'algolia-site-verification',
+          content: '521E4BFAFDA37CAA',
         },
       },
     ],
-  ],
-};
+    plugins: ['@docsearch/docusaurus-adapter'],
+    presets: [
+      [
+        '@docusaurus/preset-classic',
+        {
+          docs: {
+            sidebarPath: './sidebars.js',
+            editUrl:
+              'https://github.com/BarmanHanssen/iskole/tree/master/iskole/',
+          },
+          blog: {
+            onInlineAuthors: 'ignore',
+            onUntruncatedBlogPosts: 'ignore',
+          },
+          theme: {
+            customCss: './src/css/custom.css',
+          },
+        },
+      ],
+    ],
+  };
