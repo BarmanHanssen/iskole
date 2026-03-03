@@ -99,7 +99,7 @@ export default {
       tagName: 'meta',
       attributes: {
         name: 'algolia-site-verification',
-        content: '521E4BFAFDA37CAA',
+        content: 'BA805447CD276AA0',
       },
     },
   ],
