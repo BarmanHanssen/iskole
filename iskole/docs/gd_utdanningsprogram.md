@@ -4,8 +4,10 @@ title: Utdanning
 sidebar_label: Utdanning
 ---
 
-Her legges strukturen for hvilke klasser som skolen skal ha. Deretter kan man fra menyvalget _Klasse_ spesifiserer hvilke fag den enkelte klasse skal inneholde.
+## Skolens struktur
+Under utdanning legges strukturen for hvilke utdanningsprogram og trinn skolen gir undervisning. Deretter kan man fra menyvalget _Klasse_ opprette en eller flere klasser for hvert program og trinn og videre spesifiserer hvilke klassefag den enkelte klasse skal ha.
 
+## Legg til utdanningsprogram
 Klikker man på _+Legg til program_ fås dette skjermbilde:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/337d9614-9804-45cf-a7c1-6d1ece630dab)
@@ -18,11 +20,17 @@ _Utdanningsprogram_  er den offisielle betegnelsen, benytte på karakterutskrift
 
 _Internnavn_ benyttes blant annet på timeplanen.
 
-Fra menyvalget _Klasse_ tildeles klassene sine spesifikke fag. Da vil  _Kode_ og _Klassetrinn_ være de tre første tegnene. Det fjerde velges fritt, ofte en bokstav, eksempelvis A for ST3A.
+:::info Merk
+Fra menyvalget _Klasse_ opprettes klassene og tildeles sine spesifikke fag. Da vil  _Kode_ og _Klassetrinn_ være de tre første tegnene. Det fjerde velges fritt, ofte en bokstav, eksempelvis A for ST3A.
+:::
 
-### Slette
-Det er kun data knyttet til valgte skoleår som kan slettes.
-Man kan endre eller slette innholdet i tabellen ved å velge ikonene under kolonnen _Valg_. For å slette en registrering må _Kode_ oppgis på nytt. Å slette en utdanning som alt er etablert har store konsekvenser, derfor vises dette skjermbilde:
+## Slette
+Det er kun data knyttet til valgte skoleår som slettes.
+Man kan endre eller slette innholdet i tabellen ved å velge ikonene under kolonnen _Valg_. For å slette en registrering må _Kode_ oppgis på nytt for å bekrefte ta man virkelig ønsker å slette utdanningsprogrammet.
 
+:::danger Viktig
+Å slette en utdanning som alt er etablert har store konsekvenser, derfor vises dette skjermbildet:
+:::
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/dfa7903c-ea13-4d56-b6da-62e3ce25daf4)
+
 
