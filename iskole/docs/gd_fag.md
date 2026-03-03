@@ -5,11 +5,17 @@ sidebar_label: Fag
 ---
 ## Generelt
 
-Alle fag som skal tilordnes en klasse (se menyvalget _Klasser_) må først være registrert her som _Klassefag_. Og fag som elevene skal kunne velge i tillegg til klassefagene må være regitrert her som _Gruppefag_ (se menyvalget _Grupper_). Et fag kan være registrert både som klasse- og gruppefag.
+Kort fortalt representerer klassefag de undervisningsgruppene der alle klassens elever undervises sammen, mens gruppefag er undervisningsgrupper på tvers av klasser. Alle fag som skal tilordnes en klasse (se menyvalget _Klasser_) må først være registrert her som _Klassefag_. Undervisningsgruppene i de ulike gruppefagene som registreres her opprettes fra menyvalget _Grupper_. Der kan det opprettes flere grupper for hvert gruppefag dersom mange elever skal følge faget.
+
+![image](/img/gd_fagstruktur.png)
+:::info Merk 
+Klassefagene er her tildelt klassene ST2A og ST2B. Gruppefagene tildeles ikke til noen klasse, de identifiseres her med gruppenr 1 og 2.
+:::
+
 
 Registrering/endring av fag er knyttet til skoleåret som er valgt. Ved nytt skoleår kan det være greit å slette fag som en vet ikke vil bli brukt. Å slette et fag for dette skoleåret, har ingen innvirkning på andre skoleårs datagrunnlag.
 
-En bestemt fagkode kan forekomme både som klasse- og gruppefag. Alle fag som skal tilbys elevene i dette skoleåret må altså være registrert her. Men et faget registrert her må ikke nødvendigvis bli registrert under menyvalgene _Klasser_ eller _Grupper_. 
+En bestemt fagkode kan forekomme både som klasse- og gruppefag. Alle fag som skal tilbys elevene i dette skoleåret må altså være registrert her, men et faget registrert her må ikke nødvendigvis bli registrert under menyvalgene _Klasser_ eller _Grupper_. 
 
 Med denne todelingen av fag (klasse- og gruppefag)  kan hver elev få registrert akkurat sine fag. Og med elevenes fagvalg på plass kan timeplanen legges uten kollisjon for elevene.
 
