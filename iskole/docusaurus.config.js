@@ -10,6 +10,10 @@ export default {
   favicon: 'img/iskole.ico',
   organizationName: 'BarmanHanssen',
   projectName: 'iskole',
+  i18n: {
+    defaultLocale: 'no',
+    locales: ['no', 'en'],
+  },
   themeConfig: {
     navbar: {
       title: 'iSkole',
@@ -83,10 +87,17 @@ export default {
       appId: 'XU805MVZ7K',
       indexName: 'iskole_doc_search',
       apiKey: '277cb0c091adca03145d0fa35d30e05b',
-      /* For å unngå at overskrifter returneres mange ganger */
+      /* Unngå at lvl0-kategorier dominerer søkeresultatene */
       searchParameters: {
-        distinct: true,
-        attributesToRetrieve: ['hierarchy', 'content', 'url', 'type'],
+        restrictSearchableAttributes: [
+          'hierarchy.lvl1',
+          'hierarchy.lvl2',
+          'hierarchy.lvl3',
+          'hierarchy.lvl4',
+          'hierarchy.lvl5',
+          'hierarchy.lvl6',
+          'content',
+        ],
       },
       /* askAi: {
         assistantId: '5F3RCH4kX78f',

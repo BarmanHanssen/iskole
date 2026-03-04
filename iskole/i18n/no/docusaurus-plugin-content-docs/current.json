@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Neste",
+    "description": "The label for version current"
+  },
+  "sidebar.someSidebar.category.Mine sider": {
+    "message": "Mine sider",
+    "description": "The label for category 'Mine sider' in sidebar 'someSidebar'"
+  },
+  "sidebar.someSidebar.category.Grunnlagsdata": {
+    "message": "Grunnlagsdata",
+    "description": "The label for category 'Grunnlagsdata' in sidebar 'someSidebar'"
+  },
+  "sidebar.someSidebar.category.Time- og fagfordeling": {
+    "message": "Time- og fagfordeling",
+    "description": "The label for category 'Time- og fagfordeling' in sidebar 'someSidebar'"
+  },
+  "sidebar.someSidebar.category.Timeplan": {
+    "message": "Timeplan",
+    "description": "The label for category 'Timeplan' in sidebar 'someSidebar'"
+  },
+  "sidebar.someSidebar.category.Elevadmin": {
+    "message": "Elevadmin",
+    "description": "The label for category 'Elevadmin' in sidebar 'someSidebar'"
+  },
+  "sidebar.someSidebar.category.Personal": {
+    "message": "Personal",
+    "description": "The label for category 'Personal' in sidebar 'someSidebar'"
+  },
+  "sidebar.someSidebar.category.Internat": {
+    "message": "Internat",
+    "description": "The label for category 'Internat' in sidebar 'someSidebar'"
+  },
+  "sidebar.someSidebar.category.Utlån": {
+    "message": "Utlån",
+    "description": "The label for category 'Utlån' in sidebar 'someSidebar'"
+  },
+  "sidebar.someSidebar.category.Eksamen": {
+    "message": "Eksamen",
+    "description": "The label for category 'Eksamen' in sidebar 'someSidebar'"
+  },
+  "sidebar.someSidebar.category.Emner": {
+    "message": "Emner",
+    "description": "The label for category 'Emner' in sidebar 'someSidebar'"
+  }
+}
