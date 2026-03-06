@@ -3,25 +3,53 @@ id: elev
 title: iSkole for elever
 sidebar_label: iSkole elev
 ---
+<div className="row" style={{marginBottom: "1.5rem"}}>
+  <div className="col col--6">
+    <ActionCard
+      icon={<i className="fa-duotone fa-light fa-right-to-bracket fa-2x" style={{"--fa-primary-color": "rgb(46, 84, 152)", "--fa-secondary-color": "rgb(29, 154, 57)"}}></i>}
+      title="Innlogging for elever"
+      description="iSkole for elever"
+      to="https://iskole.net/elev"
+    />
+  </div>
+</div>
 
-iSkole er tilgjengelig for elever, og foreldre for elever under 18 år. iSkole gir tilgang til timeplan, fravær, prøver, eksamen, karakterer med mer.  Sidene tilpasser seg størrelsen på skjermen, og hva du ser vil derfor avhenge om du bruker PC, nettbrett eller mobiltelefon. iSkole kan altså installeres på  smarttelefoner som en «Progressive Web App» og dermed få sitt eget ikon som man kan starte iSkole fra.
 
-For iOS: Åpne Safari → Åpne en nettside → Del → Legg til på Hjem-skjerm → Velg navn → Legg til.
 
-For Android: Brukeren blir automatisk spurt om de ønsker å legge til iSkole som en applikasjon.
+iSkole er skolens digitale portal for elever — ett sted hvor du har full oversikt over skolehverdagen din. Gjennom iSkole får du tilgang til timeplanen din, kan følge med på fravær og karakterer, levere oppgaver, kommunisere med lærere og medelever, og holde orden på viktige dokumenter. Foreldre til elever under 18 år har også tilgang.
+
+Med iSkole slipper du å lure på om du har fravær som ikke er registrert, når neste prøve er, eller hva læreren la ut av fagstoff. Alt er samlet på ett sted, tilgjengelig fra både PC og mobil — når som helst og hvor som helst.
+
+
+:::tip tips
+iSkole kan installeres som en «Progressive Web App», iSkole legger seg da sammen med andre apper på hjemskjermen. 
+iOS: Åpne Safari → Åpne [iSkole for elever](https://iskole.net/elev) → Trykk på ... → Del → Legg til på Hjem-skjerm → Velg navn → Legg til.
+
+Android: Brukeren blir automatisk spurt om de ønsker å legge til iSkole som en applikasjon. Hvis du ikke blir spurt kan iSkole legges til manuelt.
+Åpne Chrome → Åpne [iSkole for elever](https://iskole.net/elev) → Trykk på ... → _Legg til på startskjermen_ eller _Install app_
+:::
 
 ## Adgangskontroll
 
 ### Innlogging i iSkole
-For å logge inn i iSkole må man være registrert som elev ved skolen i inneværende skoleår. Som brukernavn kan man alltid benytte sitt fødselsnummer (11 siffer) eller sin e-postadresse. Det forutsettes selvfølgelig at disse alt er innført i iSkole. Når man slutter ved skolen mister man tilgangen til iSkole.
-
-Førstegangsbruker av iSkole kan be om å få tilsendt passord på e-post. Trykk i såfall på _Glemt passord?_. 
-
-### Endre passord
-Når du har logget inn kan du endre passord ved å klikke på navnet ditt øverst til høyre i bildet. Velg _Innstillinger_ fra menyen. Alternativ til passord er en _Tilgsangsnøkkel_.
+For å logge inn i iSkole må du være registrert som elev ved skolen i inneværende skoleår. Når du slutter ved skolen, mister du tilgangen til iSkole.
 
 ### Innlogging via FEIDE
-Hvis skolen har avtale med FEIDE, og man har fått tildelt FEIDE-brukernavn kan man logge inn ved å trykke på knappen _FEIDE_.
+De aller fleste skoler tilbyr innlogging med FEIDE. Har du fått tildelt FEIDE-brukernavn kan du logge inn ved å trykke på knappen _FEIDE_. Dette er den foretrukne måten å logge inn på, og gir deg direkte tilgang mellom skolens ulike læringsressurser.
+
+### Innlogging med brukernavn og passord
+Er du førstegangsbruker av iSkole kan du be om å få tilsendt passord på e-post. Trykk i så fall på _Bestill nytt passord_. Som brukernavn kan du benytte fødselsnummeret ditt (11 siffer) eller e-postadressen skolen har registrert på deg.
+
+### Endre passord
+Når du har logget inn kan du endre passord ved å klikke på navnet ditt øverst til høyre i bildet. Velg _Innstillinger_ fra menyen. Du kan legge inn en _Passnøkkel_ for å slippe passord og eventuell to-faktor. Hvis du benytter direkte innlogging på iSkole, anbefaler vi å legge inn passnøkkel. Slik sikrer du rask og sikker innlogging.
+
+### To-faktor
+Uavhengig av innloggingsmetode anbefaler vi å aktivere to-faktor. Dette gjør du ved å klikke på navnet ditt øverst til høyre i bildet og velge _Innstillinger_. Last ned en autentiseringsapp, for eksempel Google Authenticator eller Microsoft Authenticator, og skann QR-koden. Bekreft aktiveringen ved å taste inn koden fra appen.
+
+:::tip Tips ved mistet to-faktor
+Dersom du mister tilgangen til appen med to-faktorkoden, kan du velge å få tilsendt koden på e-post. Etter innlogging kan du sette opp to-faktor på nytt.
+:::
+
 
 ## Utforming av skjermbildet i iSkole
 Hovedmenyen i iSkole vises ved å trykke på «burgerikonet» oppe til venstre på siden. Ved å trykke på menyikonet vises menyen til venstre i skjermbildet. Øverst til høyre i vinduet står navnet på eleven. Navnet er også en nedtrekksliste hvor man har menyvalg som _Endre passord_, _Logg ut_ og eventuelt _Bytt skole_. Mellom menyikonet og navnet til eleven vises skolens logo, skolens navn, og en overskrift for det valgte skjermbildet.

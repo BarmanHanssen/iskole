@@ -71,22 +71,12 @@ export default {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Barman Hanssen AS. Built with Docusaurus.`,
     },
-    /* docsearch: {
-      appId: 'O8KNJW4BLE',
-      apiKey: '758bd3ca41360f2f878c7feb9955ad0a',
-      indexName: 'dokumentasjon_iskole_net_o8knjw4ble_pages',
-      contextualSearch: false,
-      askAi: {
-        assistantId: '5F3RCH4kX78f',
-        sidePanel: true,
-      },
-    },
-  }, */
     docsearch: {
       container: '#docsearch',
       appId: 'XU805MVZ7K',
       indexName: 'iskole_doc_search',
       apiKey: '277cb0c091adca03145d0fa35d30e05b',
+      insights: true,
       /* Unngå at lvl0-kategorier dominerer søkeresultatene */
       searchParameters: {
         restrictSearchableAttributes: [
@@ -105,6 +95,12 @@ export default {
       }, */
     },
   },
+  scripts: [
+    {
+      src: 'https://kit.fontawesome.com/872a59c6c5.js',
+      crossorigin: 'anonymous',
+    },
+  ],
   headTags: [
     {
       tagName: 'meta',
