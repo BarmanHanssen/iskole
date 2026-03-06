@@ -17,7 +17,7 @@ Det er mulig å ta ut svært mange rapporter i forbindelse med eksamen. Rapporte
 Kontrollrapportene skal hjelpe til med å luke ut eventuelle feil som er gjort, eller avdekke mangler ved eksamensoppmeldingen.
 
 ##  Oversikt
-Man kan ta ut oversiktsrapporter for partier og kandidater, samt hvorvidt det skal være tilrettelegginger, PAS-kandiater og PAS-kandidater som ikke har fått karakterer ennå. 
+Man kan ta ut oversiktsrapporter for partier og kandidater, samt hvorvidt det skal være tilrettelegginger, PAS-kandidater og PAS-kandidater som ikke har fått karakterer ennå. 
 
 ##  Partier og protokoll
 Herfra kan man ta ut eksamenslister med og uten resultater. 

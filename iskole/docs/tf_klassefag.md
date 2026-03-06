@@ -30,7 +30,7 @@ Eksempel: Skal registrere lærer i kroppsøving i klasse AD3D. Klikker på ikone
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/ce8e4480-5c8f-4957-bb10-82f02d7ad683) 
 
-Vi velger Peder Aas. Han skal være eneste lærer i faget hele skoleåret, så vi beholder default-verdiene slik de er. Etter lagring får vi dette reultatet:
+Vi velger Peder Aas. Han skal være eneste lærer i faget hele skoleåret, så vi beholder default-verdiene slik de er. Etter lagring får vi dette resultatet:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9bd451ee-9151-47cb-a635-51c7d7563220)
 
@@ -67,9 +67,9 @@ Dette tallet er utgangspunktet for timeplanlegger. Når timeplanen legges (fra _
 #### Ressurs, årstimer,timeplanlagt
 Dersom faget har flere lærere vises summen av tildelt _Ressurs_, _Årstimer_ og _Timeplanlagt_ for alle lærerne på første linje. Verdiene for den enkelte lærer kommer bak lærerens navn. 
 
-Skolen kan dokumentere undevisningstilbud med henvisning til _Årstimer_ gitt på blå bakgrunn. Antall årstimer skal da motsvare fagets omfang som står på hvit bakgrunn. Dersom fagets årstimer på hvit bakgrunn er lavere enn summen av tallene for faget på blå bakgrunn må avviket kunne dokumenteres på annen måte.
+Skolen kan dokumentere undervisningstilbud med henvisning til _Årstimer_ gitt på blå bakgrunn. Antall årstimer skal da motsvare fagets omfang som står på hvit bakgrunn. Dersom fagets årstimer på hvit bakgrunn er lavere enn summen av tallene for faget på blå bakgrunn må avviket kunne dokumenteres på annen måte.
 
-Når timeplanen er ferdiglagt, skal timeplanlagte timer være likt med årstimer. Timeplanlagte timer blir beregnet ut fra hva som timeplalagt når denne tabellen vises.
+Når timeplanen er ferdiglagt, skal timeplanlagte timer være likt med årstimer. Timeplanlagte timer blir beregnet ut fra hva som timeplanlagt når denne tabellen vises.
 
 #### Fagansvarlig
 Det kan kun være én fagansvarlig lærer i faget, og denne blir da vist med navnet i fet skrift i kolonnen for lærer. Dersom flere lærer i faget kan en gjøre endring.

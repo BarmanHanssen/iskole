@@ -4,7 +4,7 @@ title: Ny versjon av mine sider for ansatte
 sidebar_label: Ny versjon
 ---
 ## Innloggingsside
-Man kan nå lagre tilgangsnøkkel for enklere innlogging på iSkole. Denne kan lagres på enheten etter innlogging og vil være et raskt og sikkert alternativ til innlogging med to-faktorkode. Ulike enheter (telefon, pc, etc.) har ulike måter å beskytte tilgangsnøklene. Dette kan for eksempel være fingeravtrykk, ansiktsgjennkjenning eller passord. Produsentene har ulike måter å sykronisere tilgangsnøklene mellom brukerens enhter. F.eks. vil brukere av Mac og iPhone kunne få sine nøkler synkronisert gjennom iCloud.
+Man kan nå lagre tilgangsnøkkel for enklere innlogging på iSkole. Denne kan lagres på enheten etter innlogging og vil være et raskt og sikkert alternativ til innlogging med to-faktorkode. Ulike enheter (telefon, pc, etc.) har ulike måter å beskytte tilgangsnøklene. Dette kan for eksempel være fingeravtrykk, ansiktsgjenkjenning eller passord. Produsentene har ulike måter å synkronisere tilgangsnøklene mellom brukerens enheter. F.eks. vil brukere av Mac og iPhone kunne få sine nøkler synkronisert gjennom iCloud.
 
 Videoen viser at brukeren har lagret en tilgangsnøkkel. I det øyeblikket fingeravtrykket blir avlest i dette eksempelet blir brukeren logget inn.
 
@@ -28,7 +28,7 @@ Menyen er omarbeidet slik at de menyvalgene som benyttes oftest er flyttet høye
 
 ## Timeplan
 
-Timeplanene er gjenkjennelig fra den gamle versjonen. Arkfanen _Tid_ er tatt ut siden man får informasjon om timenes start- og sluttider i alle timeplanene. Det er i hovedsak gjort forbedringer i visningen av romtimeplanen og funksjonaliteten rundt reserveringer av rom for lærerne. I skjermbildet for romtimeplanen kan man nå finne ledige rom direkte. Tidligere var denne funskjonaliteten kun tilgjengelig i rapporter.
+Timeplanene er gjenkjennelig fra den gamle versjonen. Arkfanen _Tid_ er tatt ut siden man får informasjon om timenes start- og sluttider i alle timeplanene. Det er i hovedsak gjort forbedringer i visningen av romtimeplanen og funksjonaliteten rundt reserveringer av rom for lærerne. I skjermbildet for romtimeplanen kan man nå finne ledige rom direkte. Tidligere var denne funksjonaliteten kun tilgjengelig i rapporter.
 Andre nyheter i romtimeplanen er:
 
 1. Man kan søke på alle ledige rom ved å la feltet være tomt.
@@ -59,7 +59,7 @@ Fravær for kontaktelever består hovedsakelig av tre visninger. To visninger fo
 
 #### All fraværsinformasjon for en kontaktelev
 1. Man kan klikke på øyet i tabellen for å vise all fraværsinformasjon for eleven. Dette er samme oversikt som finnes under menyvalget _Elever_.
-1. Ved å klikke på en time i fraværsoversikten kan man føre dag- og timefraværfravær for denne timens dag.
+1. Ved å klikke på en time i fraværsoversikten kan man føre dag- og timefravær for denne timens dag.
 
 ![Kontaktelev - se alle fraværsopplysninger](/img/Fravær_kontaktelev_øye.gif 'Kontaktelev - se alle fraværsopplysninger')
 
@@ -87,7 +87,7 @@ Man kan også her slette flere meldinger på en gang om man ønsker det.
 
 ### Send SMS
 
-Der man før kun kunne sende til enten alle ansatte eller alle elever med foredre, så er det nå mulig å sende SMS til enkeltelever og til enkteltforeldre. I tillegg kan man også herfra sende til gruppemottakere, som f.eks. utvalgte klasser. Alle ansatte, alle elever og alle foreldre er også egne grupper man kan sende til. 
+Der man før kun kunne sende til enten alle ansatte eller alle elever med foredre, så er det nå mulig å sende SMS til enkeltelever og til enkeltforeldre. I tillegg kan man også herfra sende til gruppemottakere, som f.eks. utvalgte klasser. Alle ansatte, alle elever og alle foreldre er også egne grupper man kan sende til. 
 
 ## Dokumenter
 Skjermbildet _Dokumenter_ er en sammenslåing av _Arkiv_ og _Dokumenter_ fra forrige iSkole.
@@ -123,7 +123,7 @@ I skjermbildene for vurderinger har vi sørget for at man får utført de samme 
 
 
 ## Installering på smartenheter
-iSkole kan installeres på smartenheter som en «Progressiv Web App» og dermed på sitt egen ikon hvor man kan starte iSkole.
+iSkole kan installeres på smartenheter som en «Progressiv Web App» og dermed på sitt eget ikon hvor man kan starte iSkole.
 ### For iOS (Apple)
 1. Naviger til innloggingssiden for iSkole. [https://iskole.net](https://iskole.net/jet_iskole_login)
 1. Velg symbolet for å dele siden (firkant med pil opp). 
@@ -134,4 +134,4 @@ iSkole kan installeres på smartenheter som en «Progressiv Web App» og dermed 
 ![PWA](/img/PWA_PB.gif 'PWA')
 
 ### For Android
-Brukeren blir atuomatisk spurt om det er ønskelig å legge til iSkole som en applikasjon.
+Brukeren blir automatisk spurt om det er ønskelig å legge til iSkole som en applikasjon.

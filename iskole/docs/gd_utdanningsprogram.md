@@ -14,7 +14,7 @@ Klikker man på _+Legg til program_ fås dette skjermbilde:
 
 _Kode_ er to tegn som blir første del av navnet på en klasse. Gjør det mulig å legge inn samme utdanningsprogram flere ganger. Eksempelvis kan _Utdanningsprogram_ GS=Grunnskole legges inn med kodene BT og UT for henholdsvis barne- og ungdomstrinnet. 
 
-_Klassetrinn_ angir på hvilke trinn skolen vil opprette klasser på angitte utdanningsprogram. For videregående skole er det vanligvis fra 1 til 3, trinn 4 benyttes ofte for påbyggingsår. For grunnskolen vil det tilvarende være trinn 1 til 7 for barnetrinnet og 8 til 10 for ungdomstrinnet.
+_Klassetrinn_ angir på hvilke trinn skolen vil opprette klasser på angitte utdanningsprogram. For videregående skole er det vanligvis fra 1 til 3, trinn 4 benyttes ofte for påbyggingsår. For grunnskolen vil det tilsvarende være trinn 1 til 7 for barnetrinnet og 8 til 10 for ungdomstrinnet.
 
 _Utdanningsprogram_  er den offisielle betegnelsen, benytte på karakterutskrifter etc. Nedtrekkslisten kommer fra Udir. Merk at barne- og ungdomsskolen bare er tilgodesett med GS som kode.
 
@@ -26,7 +26,7 @@ Fra menyvalget _Klasse_ opprettes klassene og tildeles sine spesifikke fag. Da v
 
 ## Slette
 Det er kun data knyttet til valgte skoleår som slettes.
-Man kan endre eller slette innholdet i tabellen ved å velge ikonene under kolonnen _Valg_. For å slette en registrering må _Kode_ oppgis på nytt for å bekrefte ta man virkelig ønsker å slette utdanningsprogrammet.
+Man kan endre eller slette innholdet i tabellen ved å velge ikonene under kolonnen _Valg_. For å slette en registrering må _Kode_ oppgis på nytt for å bekrefte at man virkelig ønsker å slette utdanningsprogrammet.
 
 :::danger Viktig
 Å slette en utdanning som alt er etablert har store konsekvenser, derfor vises dette skjermbildet:

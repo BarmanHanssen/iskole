@@ -5,11 +5,11 @@ sidebar_label: Stillingsstørrelser
 ---
 Ved ansettelse blir stillingsstørrelsen registrert fra _Personal>Ansatt_, se under kolonnen _Stilling %_, hvor 100 % betegner heltidsstilling. 
 
-Hvilken oppgaver den enkelte lærer skal ha, vil avtales og gjelder for et skoleår. For undervisning vil de enkelte fag vektlegges ut fra brøken årstimer/årsramme, registrert fra _Grunnlagsdata>Fag_. Dersom flere lærere deler underviningen i et fag, fordeles stillingsprosenten mellom de involverte lærere.
+Hvilken oppgaver den enkelte lærer skal ha, vil avtales og gjelder for et skoleår. For undervisning vil de enkelte fag vektlegges ut fra brøken årstimer/årsramme, registrert fra _Grunnlagsdata>Fag_. Dersom flere lærere deler undervisningen i et fag, fordeles stillingsprosenten mellom de involverte lærere.
 
 Hvilke fag læreren skal undervise i registreres fra menyvalgene _Time- og fagfordeling>Klassefag_ og  _Time- og fagfordeling>Gruppefag_. 
 
-Kontaktlærer registreres fra _Elevadmin.>Kontaktlærer_ og utløser også en ressurs som automatisk plasseres under _Andre ressurseer_.
+Kontaktlærer registreres fra _Elevadmin.>Kontaktlærer_ og utløser også en ressurs som automatisk plasseres under _Andre ressurser_.
 
 Ressurs som ikke er knyttet til undervisning, registreres på den enkelte lærer fra _Time- og fagfordeling>Andre ressurser_. 
 
@@ -28,5 +28,5 @@ Her vises en oversikt over skolens lærerne:
 Dersom timeplanleggingen alt er startet, vil _Timeplanlagt_ vise status for klasse- og gruppe-fagstimene til læreren. (Vikartimer kan tilkomme i løpet av skoleåret.)
 
 :::info Merk
-For valgt person er summen av _Prosent_ fra _Undervisningsressurser_  og _Andre ressurser_ lik _Bsekjeftilgelse %_ fra _Oversikt_ .
+For valgt person er summen av _Prosent_ fra _Undervisningsressurser_  og _Andre ressurser_ lik _Beskjeftigelse %_ fra _Oversikt_ .
 :::

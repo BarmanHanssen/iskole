@@ -23,7 +23,7 @@ Klikk på knappen _Legg til..._. Følgende skjermbilde vises:
 - _Klasseid_: Her velges en bokstav eller tall. Sammentrekking av  _Klassetrinn_ og _Klasseid_ gir navnet på denne klassen (se kolonnen _Klasse_). 
 - _Velg programkode_: Her får man opp en omfattende liste som dekker både grunnskole og videregående skole. Man kan filtrere ved skrive inn tekst, eksempelvis:
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/c8f40fe2-4a4c-4161-9d7e-41e1aa988e58)
-- _Dokumentasjonstype_: Vitnemål gjelder som regel for fagene i avgangsklassene. (Flere muligheter på elevnivå, eksempelvis kompetansebevis eller karakterustskrift.)
+- _Dokumentasjonstype_: Vitnemål gjelder som regel for fagene i avgangsklassene. (Flere muligheter på elevnivå, eksempelvis kompetansebevis eller karakterutskrift.)
 - _Rom_: Dersom klassens stort sett benytter et bestemt klasserom kan det markeres her. Letter arbeidet for timeplanlegger, da dette rommet er forhåndsvalgt. Men timeplanlegger står fritt til å velge annet rom.
 - _Maksimalt elevantall_: Kan noteres, men klassen kan ha flere elever.
 - _Klassen inngår i eksport til læringsplattform_: Dersom skolen også benytter eksempelvis ItsLearning, avhukes det her.

@@ -18,7 +18,7 @@ Gir oversikt over hendelser og oppgaver knyttet til din rolle. Hvilket innhold s
 
 ### Nye meldinger
 
-Antall meldinger som du ennå ikke har åpnet angis her. Trykker du på ikonet ledes du til menyvalget _Meldinger_. Velges deretter _Ny melding_ kommer dette skjembilde frem:
+Antall meldinger som du ennå ikke har åpnet angis her. Trykker du på ikonet ledes du til menyvalget _Meldinger_. Velges deretter _Ny melding_ kommer dette skjermbildet frem:
 
 ![image](https://github.com/user-attachments/assets/6a30244c-beaa-4ef4-8f01-e0b7b31395c9)
 
@@ -27,7 +27,7 @@ Her kan en sende melding internt for brukerne av iSkole til enkelte ansatte/elev
 
 ### Nye bulletenger
 
-Skolens ledere og ansatte kan sende ut meldinger til alle brukerne av iSkole, altså  til elever og/eller foreldre og ansatte. Utsteder av bulletengen angir når den skal vises, og hvor lange den skal være synlig. Når tiden er inne for visning, vil meldingen automatisk vises mottakerene ved innlogging. Merk at rektor må gi tilgang til hvem som sende ut en bulleteng.
+Skolens ledere og ansatte kan sende ut meldinger til alle brukerne av iSkole, altså  til elever og/eller foreldre og ansatte. Utsteder av bulletengen angir når den skal vises, og hvor lenge den skal være synlig. Når tiden er inne for visning, vil meldingen automatisk vises mottakerne ved innlogging. Merk at rektor må gi tilgang til hvem som sende ut en bulleteng.
 
 ### Fravær
 
@@ -58,7 +58,7 @@ Vises for kontaktlærere og angir hvor mange kontaktelever som samlet har flere 
 Dersom du allerede er lagt inn som vikar vil antall timer, og betingelser vises her. Klikker du på ikonet hvor vikartimer er større enn 0, vil du få opp timeplanen hvor vikartimene er markert med egen farge.
 
 ### Avslutt fraværsføring 
-Viser kontaktlæreren hvor mange av kontaktelevene som har avvik mellom fraværsregistreret og det antall dager og timer som er overført til karakterdokumentasjonen.
+Viser kontaktlæreren hvor mange av kontaktelevene som har avvik mellom fraværsregistrert og det antall dager og timer som er overført til karakterdokumentasjonen.
 
 ## Skolens oversikt
-Skolens oversikt vises for skolens ledelse. Den inneholder ansattfravær, vikartimer, alle skolens elever med udokumentart fravær over valgt prosent som ikke har mottatt varsel, antall varselbrev som ikke er åpnet og permisjonssøknader. Også her kan man klikke på alle boksene for å få flere detaljer.
+Skolens oversikt vises for skolens ledelse. Den inneholder ansattfravær, vikartimer, alle skolens elever med udokumentert fravær over valgt prosent som ikke har mottatt varsel, antall varselbrev som ikke er åpnet og permisjonssøknader. Også her kan man klikke på alle boksene for å få flere detaljer.

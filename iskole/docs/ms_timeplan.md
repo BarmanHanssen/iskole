@@ -41,7 +41,7 @@ Knappen viser en liste med alle klassens faglærere, altså også faglærere i g
 ## Romtimeplan
 Her vises timeplanen til et bestemt rom. Alle rom vises i nedtrekkslisten. 
 
-Dersom du kan reservere rommet, vil ledige timer være farget grønn. Du kan reservere et ekstra rom i en time hvor du allerede er opptatt med undervisning et annet sted. Ved å klikke på en grønn time vises et dialogvindnu, angi tekst og klikk _Reserver_.  Du kan endre teksten eller slette reservasjonen ved å klikke på den reserverte timen. Rommet blir bare reservert for denne ene uken. 
+Dersom du kan reservere rommet, vil ledige timer være farget grønn. Du kan reservere et ekstra rom i en time hvor du allerede er opptatt med undervisning et annet sted. Ved å klikke på en grønn time vises et dialogvindu, angi tekst og klikk _Reserver_.  Du kan endre teksten eller slette reservasjonen ved å klikke på den reserverte timen. Rommet blir bare reservert for denne ene uken. 
 
 ### Egne reserveringer
 Her får du oversikt over alle rom som du har reservert denne uken. Du kan endre og slette reservasjonene ved å klikke på blyanten.

@@ -12,7 +12,7 @@ En naturlig start her vil være å velge klasse, og  sjekke elev for elev at fag
 
 ![image](https://user-images.githubusercontent.com/80097133/137276739-c2604f31-e0b6-4d50-a984-9cff5bb4028b.png)
 
-Det er et omfattende, og komplisert lovverk som fastsetter hvilke fagsammensetning som kan godkjennes for at et vitnemål skal kunne bli utstedt. Denne kontrollen kan heldigvis gjøres via programvare fra Udir. Vårt bidrag er alltid å ha sist versjon av kotrollmotoren tilgjengelig. 
+Det er et omfattende, og komplisert lovverk som fastsetter hvilke fagsammensetning som kan godkjennes for at et vitnemål skal kunne bli utstedt. Denne kontrollen kan heldigvis gjøres via programvare fra Udir. Vårt bidrag er alltid å ha sist versjon av kontrollmotoren tilgjengelig. 
 
 :::info Merk 
 Ikonene i høyre kant er enten blå- eller gråfarget. Fargevalget kan variere avhengig av hvilken elev du har utpekt. Bare de blå ikonene er valgbare.
@@ -31,9 +31,9 @@ Eksempel med vitnemål som ikke slipper gjennom kontrollen:
 
 ![image](https://user-images.githubusercontent.com/80097133/137270739-91b580e9-d60a-43af-948b-4844bafaa1ac.png)
 
-Før alle karakterer er innført, altså før vitnemålet kan godkjentes av kontrollmotoren, kan en fra _Vis kladd_ ta en utskrift av alle fag som er registrert på eleven. 
+Før alle karakterer er innført, altså før vitnemålet kan godkjennes av kontrollmotoren, kan en fra _Vis kladd_ ta en utskrift av alle fag som er registrert på eleven. 
 
-Dersom _Kontoller vitnemål_ viser at alt er ok, er det klart for _Generer vitnemål_. Vitnemålet lagres med et vitnemålsnummer, og kan hentes frem fra _Vis vitnemål_.
+Dersom _Kontroller vitnemål_ viser at alt er ok, er det klart for _Generer vitnemål_. Vitnemålet lagres med et vitnemålsnummer, og kan hentes frem fra _Vis vitnemål_.
 
 ![image](https://user-images.githubusercontent.com/80097133/137270836-91154968-b4e5-449e-b0f7-8b27f3d5d6d3.png)
 

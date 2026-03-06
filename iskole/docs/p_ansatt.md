@@ -23,7 +23,7 @@ Her må alt fylles ut for å få lagret dataene.
 - _Personnr_: Her kontrolleres at det er et riktig norsk personnummer. Dersom vedkommende mangler personnummer, kan en midlertidig registrere et femsifret nummer som starter med tallet 9. Det anbefales å få registrert riktig personnummer så raskt som mulig. Etterregistrering kan i noen tilfeller medføre komplikasjoner.
 
 :::info Merk
-Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med dette fødselsnummer i vår database. Dersom personen har vært elev, eller ansatt, ved en skole som bruker iSkole, vil for- og etternavn hentes frem og automtisk fylles inn. 
+Når fødselsdato og personnummer er inntastet, vil systemet sjekke om det finns en registrering med dette fødselsnummer i vår database. Dersom personen har vært elev, eller ansatt, ved en skole som bruker iSkole, vil for- og etternavn hentes frem og automatisk fylles inn. 
 :::
  
 - _Fornavn/Etternavn_ må registreres, og kan endres.
@@ -40,7 +40,7 @@ Her er det mye data som etterspørres. Ikke alt må legges inn med en gang. Vi a
 - _E-post arbeid_
 - _Mobil_
 
-Under **Diverse** kan det avhukes for Eksport og Jubileum. Fra menyvalget _Rapporter_ kan en liste ut alle ansatte som i inneværende år runder 40, 40, 60, eller 70 år. Dersom en ansatt ikke ønsker å komme på denne listen, markeres det her.
+Under **Diverse** kan det avhukes for Eksport og Jubileum. Fra menyvalget _Rapporter_ kan en liste ut alle ansatte som i inneværende år runder 40, 50, 60, eller 70 år. Dersom en ansatt ikke ønsker å komme på denne listen, markeres det her.
 
 Klikk på _Lagre_ før du fortsetter på den nedre del av skjermbildet.
 
@@ -52,13 +52,13 @@ _Ansettelse_
 - Prosent: Stillingsstørrelsen til den ansatte angitt i prosent.
 - Pedagogisk ansatt: Hukes av dersom vedkommende skal kunne tildeles undervisningsoppdrag.
 
-_Ansiennitet/Funksjonstillegg/Lønnsplasering_
+_Ansiennitet/Funksjonstillegg/Lønnsplassering_
 
 Dette er nøkkeltall dersom iSkole benyttes til budsjettering/lønn.
 
 ### Undervisningsfag
 
-Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer.  Tabellen fylles atomatisk opp med fag som læreren får tildelt fra _Time- og fagfordeling_, Fagene her gjør det lettere å finne kompetent lærer når time- og fagfordelingen skal settes opp. Men fagene innført her begrenser ikke oppdrag læreren kan pålegges.
+Her kan man _+Legge til..._ fagkoder som vedkommende har kompetanse i som lærer.  Tabellen fylles automatisk opp med fag som læreren får tildelt fra _Time- og fagfordeling_, Fagene her gjør det lettere å finne kompetent lærer når time- og fagfordelingen skal settes opp. Men fagene innført her begrenser ikke oppdrag læreren kan pålegges.
 
 ### Fravær
 

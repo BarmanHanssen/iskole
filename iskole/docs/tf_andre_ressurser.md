@@ -5,7 +5,7 @@ sidebar_label: Andre ressurser
 ---
 
 :::info Ny versjon av iSkole
-Vi har endret oppbyggingen av timeplane på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/tf_andre_ressurser_old). 
+Vi har endret oppbyggingen av timeplanen på iSkole, les mer om dette [her](https://dokumentasjon.iskole.net/blog/timeplan). Dokumentasjon av gammel løsning finner du [her](https://dokumentasjon.iskole.net/docs/tf_andre_ressurser_old). 
 :::
 
 Her kan en registrere hvilke ressurser som tilkommer læreren utover det som direkte blir tildelt for undervisning i klasse- og gruppefag. Dersom læreren er registrert som kontaktlærer, vil denne ressursen automatisk vises her, og kan ikke endres herfra.

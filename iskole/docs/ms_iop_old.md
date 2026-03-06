@@ -10,7 +10,7 @@ iSkole kan benyttes for å håndtere hele søknadsprosessen i forbindelse med IO
 2. Eleven, eller foresatte til elever som ikke er myndige godkjenner søknaden ved å logge inn på iSkole.
 3. Skolen oppretter en felles søknad for skolen og legger til de elevene som denne søknaden skal omfatte. Skolen laster ned en PDF med alle elevenes IOP-søknader inkludert vedlegg.
 4. Skolen mottar vedtak fra fylket/kommunen.
-5. Basert på vedtak om IOP registrerers elevstatus Spesialundervisning.
+5. Basert på vedtak om IOP registreres elevstatus Spesialundervisning.
 6. Skolen oppretter IOP-del 1. Kartlegging, mål med opplæringen, fagene osv.
 7. Faglærerne fyller inn kompetansemålene i de ulike fagene. (IOP del 2)
 8. Elever og foreldre gis tilgang til IOPen.
@@ -54,7 +54,7 @@ Valgene beskrevet i dette kapittelet er tilgjengelig i fanen Søknader. De søkn
 #### Legg til skolesøknad
 Klikk Legg til over tabellen _Søknader_. Inntil videre er det ikke behov for å gjøre noe i dette dialogvinduet. Klikk OK.
 #### Legg elever til søknaden
-Marker søknaden du ønsker å knytte elever til i tabellen _Søknader_. Klikk deretter knappen Legg til over tabllen Elever knyttet til søknaden. Du kan markere flere elever ved å holde inne _Crtl-_ eller shifttasten samtidig som du klikker på elevene. Alternativt _Ctrl+A_ for å velge alle. Avslutt med _OK_.
+Marker søknaden du ønsker å knytte elever til i tabellen _Søknader_. Klikk deretter knappen Legg til over tabellen Elever knyttet til søknaden. Du kan markere flere elever ved å holde inne _Ctrl-_ eller shifttasten samtidig som du klikker på elevene. Alternativt _Ctrl+A_ for å velge alle. Avslutt med _OK_.
 #### Skrive ut søknadene med vedlegg
 I tabellen _Søknader_ klikk på blyanten i kolonnen _Behandle_ på raden til søknaden du ønsker å skrive ut. Klikk _Generer og vis søknadsdokument_. En PDF-fil blir lastet ned til din maskin. Denne inneholder alle tilknyttede søknader og eventuelle vedlegg. Når søknaden er skrevet ut og sendt til fylket/kommunen kan du registrere dato i feltet _Sendt_. 
 :::tip Tips
@@ -76,5 +76,5 @@ Beskrivelse av skjermbildet:
 2. **Venter på godkjenning** Skolen har gjort søknaden tilgjengelig for elev og foreldre og venter på at søknaden skal godkjennes.
 3. **Godkjent** Eleven/foreldrene har godkjent at skolen sender søknaden.
 4. **Under behandling** Elevens søknad er knyttet til skolens søknad som er sendt til fylke/kommune.
-5. **Innvilget/avslått** Frem til man registrerer innvilet eller avslått vises begge alternativer. Når dette er registrert vil kun _Innvilget_ eller _Avslått_
+5. **Innvilget/avslått** Frem til man registrerer innvilget eller avslått vises begge alternativer. Når dette er registrert vil kun _Innvilget_ eller _Avslått_
 vises.

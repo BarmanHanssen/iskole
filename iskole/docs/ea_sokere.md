@@ -3,7 +3,7 @@ id: ea_sokere
 title: Søkere
 sidebar_label: Søkere
 ---
-### Første skjermbilde for skoler som ikke har tatt i bruke søkerpotalen:
+### Første skjermbilde for skoler som ikke har tatt i bruk søkerportalen:
 
 <img width="1269" height="712" alt="image" src="https://github.com/user-attachments/assets/c39d3edf-859d-4140-8857-eef6d00e47b1" />
 

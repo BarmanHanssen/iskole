@@ -5,7 +5,7 @@ sidebar_label: Års-/ukeplan
 ---
 
 Faglæreren får fram en liste over sine fag.
-Velg det faget du ønsker å lage års- eller ukeplan for. Skjembilde blir da tilsvarende dette:
+Velg det faget du ønsker å lage års- eller ukeplan for. Skjermbildet blir da tilsvarende dette:
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/bd9f6e03-bb3e-44ef-8e17-216e95ba52b0)
 

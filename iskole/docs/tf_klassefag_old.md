@@ -35,7 +35,7 @@ Brukes ved utskrift av timeplanen og er hentet fra _Grunnlagsdata>Fag_ se _Timep
 
 Første gang et fag får tildelt lærer, vil læreren som velges automatisk få tildelt undervisning i hele planperioden.
 Hvis man senere gjør en endring av faglæreren, så vil ikke iSkole sette
-den nye læreren inn i ukene hvor det allerede er regsitret en lærer. Et fag kan skifte faglærer i løpet av skoleåret. Gjør da følgende:
+den nye læreren inn i ukene hvor det allerede er registrert en lærer. Et fag kan skifte faglærer i løpet av skoleåret. Gjør da følgende:
 - Ekspander faget ved å klikke på pilen først på linja.
 - Marker alle ukene som skal ha ny faglærer. For å markere flere uker i en serie, klikk på første uke, hold inne «shift» og klikk på siste uke. For å markere flere enkeltuker, klikk på uken mens du holder inne «ctrl»-tasten.
 - Klikk _Endre lærer_.
@@ -55,7 +55,7 @@ Ressursfordelingen for faget gis til faglæreren som står oppført på første 
 ![bilde](https://user-images.githubusercontent.com/80097133/194858834-62731284-434c-4ba9-8688-cf11fbba31a6.png)
 
 
-Dersom et fag skal ha mer enn en lærer, kan en legge til ekstra lærer(e) her. Her skal man også oppgi uketimetallet, og antall årstimer. Tolærer har sine timer på samme tidspunkt som fageet, men kanskje ikke i alle ukene i skoleåret. Disse timene kan kan først plasseres på timeplanen når faget timeplanlegges.
+Dersom et fag skal ha mer enn en lærer, kan en legge til ekstra lærer(e) her. Her skal man også oppgi uketimetallet, og antall årstimer. Tolærer har sine timer på samme tidspunkt som faget, men kanskje ikke i alle ukene i skoleåret. Disse timene kan først plasseres på timeplanen når faget timeplanlegges.
 :::note Merk
 Tolærerfag har et eget menyvalg. Du må inntil videre inn der for å slette en tolærer.
 :::

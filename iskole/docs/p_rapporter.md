@@ -6,7 +6,7 @@ sidebar_label: Rapporter
 
 ![image](https://github.com/user-attachments/assets/dae945de-27d0-4ceb-89e9-ebd4b8525989)
 
-Alle rapportene vises på skjerm, men de kan også ta ut som pdf- eller xls-fil.
+Alle rapportene vises på skjerm, men de kan også tas ut som pdf- eller xls-fil.
 
 ### Navneliste
 
@@ -45,7 +45,7 @@ Alle fag som læreren har undervist i, og skal undervise i, listes opp her. List
 Datagrunnlaget for rapportene er lagt inn fra menyvalget Eksamen, og kan endres derfra.
 
 ## Avdelinger
-Hvilke avdelinger skolen har, med leder, er registrert fra Griunnlagsdata>Skole. Hvilke avdeling(er) den enkelte ansatte tilhører registeres fra Personal>Ansatt.
+Hvilke avdelinger skolen har, med leder, er registrert fra Grunnlagsdata>Skole. Hvilke avdeling(er) den enkelte ansatte tilhører registreres fra Personal>Ansatt.
 
 ## Grupper
 Her vises alle gruppene, med leder og medlemmer.

@@ -8,7 +8,7 @@ På grunn av all informasjonen som vises og redigeres, vil bare et fåtall bruke
 Fagene som vises kommer fra flere kilder. Når en elev tildeles en klasse, får eleven alle klassefagene tildelt. I tillegg kommer eventuelle gruppefag som eleven velger. Fagene akkumuleres, slik at fagene for alle skoleårene vises.
 
 Dokumentasjon som er samlet her er påkrevd for å kunne skrive ut kompetansebevis og vitnemål til eleven. Herfra kan man gjøre tilføying/endring/tilpasninger dersom det skulle være nødvendig. 
-Standard er at termin- stanpunktkarakterer føres inn av faglærer fra Mine sider>Karakterer. Orden og atferd fører kontaktlærer fra Mine sider>Orden/atferd. Kontaktlærer har også ansvar for at fagfraværet blir sluttført, det gjøres fra Mine sider>Fravær (siste post på siden).
+Standard er at termin- standpunktkarakterer føres inn av faglærer fra Mine sider>Karakterer. Orden og atferd fører kontaktlærer fra Mine sider>Orden/atferd. Kontaktlærer har også ansvar for at fagfraværet blir sluttført, det gjøres fra Mine sider>Fravær (siste post på siden).
 
 For å lette oversikten inneholder skjermbildet flere arkfaner.
 
@@ -49,7 +49,7 @@ Det er bare Karakteransvarlig som kan slette et fag herfra.
 
 ![image](https://user-images.githubusercontent.com/80097133/137116192-c7f7d71a-1948-4b4a-a41c-5c1504c78acb.png)
 
-_Programliste_ oppsummerer hva som er registrert i henhold til kolonnene i tabellen. Dersom det er behov for endringer, må det markeres under _Overstyr vitnemål/kompetsebevis_.
+_Programliste_ oppsummerer hva som er registrert i henhold til kolonnene i tabellen. Dersom det er behov for endringer, må det markeres under _Overstyr vitnemål/kompetansebevis_.
 
 ## Fravær/orden/atferd
 
@@ -64,7 +64,7 @@ _Vitnemålstype_ beregnes automatisk, men kan endres her dersom nødvendig.
 
 _Merknad på vitnemål/kompetansebevis_ Her legges det til VMM- merknader etter behov.
 
-_Utskrvevne vitnemål/kompetansebevis_ Dersom det er tatt noen utskrift, vil det markeres her. Utskriften er lagret, og kan hentes fram fra Elevadmin.>Vitnemål. 
+_Utskrevne vitnemål/kompetansebevis_ Dersom det er tatt noen utskrift, vil det markeres her. Utskriften er lagret, og kan hentes fram fra Elevadmin.>Vitnemål. 
 
 ## Dokumenter
 

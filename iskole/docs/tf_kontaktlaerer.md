@@ -8,7 +8,7 @@ En lærer blir registrert som kontaktlærer fra _Elevadmin.>Kontaktlærer_. Hvor
 Under planleggingen av stillingsstørrelsen for den enkelte lærer kan det være greit å ha oversikt over hvem som er tiltenkt å være kontaktlærere.
 For å få full oversikt over ressursforbruket til kontaktlærere før neste års elever er tatt inn, kan en benytte to fremgangsmåter:
 
-1. Ressursen legges den enkelte kontaktlærer som Annet tillegg. Se mynyvalget _Andre ressurser_.
+1. Ressursen legges den enkelte kontaktlærer som Annet tillegg. Se menyvalget _Andre ressurser_.
 2. Ressursen registreres ved å knytte læreren som kontaktlærer til en elev. Se _Elevadmin.>Kontaktlærer_.
  
 Benyttes 1: man må enkeltvis legge inn ressursen på hver lærer, og senere fjerne den når elevene er kommet på plass. Da kan registreringen av kontaktlærer foretas (fra _Elevadmin.>Kontaktlærer_). 

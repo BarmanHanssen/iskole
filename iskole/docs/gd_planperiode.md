@@ -33,7 +33,7 @@ Halvårsskille markerer overgangen fra 1.- til 2.halvår. Etter denne datoen få
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/78d08e97-7878-4ac3-b40b-3a58c5501e88)
 
-For skoler som alt har tatt iSkole i bruk velges forrige skoleår. Da kan data om klasser og fag gjenbrukes. Dersom man stort sett har samme oppsett for valgfagene, hukkes det av for _kopier grupper. Andre ressurser kan være faste tilegg for enkelte lærere, eksempelvis ressurs for rektor. Justering av gruppene gjøres senere fra menyvalget _Fag>Gruppefag_ og for andre ressurser fra _Time- og fagfrdeling>Andre ressurser_.
+For skoler som alt har tatt iSkole i bruk velges forrige skoleår. Da kan data om klasser og fag gjenbrukes. Dersom man stort sett har samme oppsett for valgfagene, hukkes det av for _kopier grupper. Andre ressurser kan være faste tillegg for enkelte lærere, eksempelvis ressurs for rektor. Justering av gruppene gjøres senere fra menyvalget _Fag>Gruppefag_ og for andre ressurser fra _Time- og fagfordeling>Andre ressurser_.
 
 :::danger Viktig
 Baser **alltid** neste skoleår på et tidligere skoleår. Eneste unntak er hvis du er **helt** sikker på at du ønsker å begynne helt fra start med skolens klasse og fagstruktur.
@@ -45,7 +45,7 @@ Baser **alltid** neste skoleår på et tidligere skoleår. Eneste unntak er hvis
 Dersom alt ser greit ut gjenstår bare å klikke på _Opprett nytt skoleår_. Skoleåret kan enkelt slettes før elever er tatt inn.
 
 ## Redigere skoleår
-Det eneste som kan redigeres her er halvårsskile. Justering/endring av planlagte fridager gjøres fra neste menyvalg, altså fra _Skolerute_.
+Det eneste som kan redigeres her er halvårsskille. Justering/endring av planlagte fridager gjøres fra neste menyvalg, altså fra _Skolerute_.
 
 
 

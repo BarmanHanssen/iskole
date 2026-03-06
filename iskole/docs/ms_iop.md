@@ -10,7 +10,7 @@ iSkole kan benyttes for å håndtere hele søknadsprosessen i forbindelse med IO
 2. Eleven, eller foresatte til elever som ikke er myndige, godkjenner søknaden ved å logge inn på iSkole.
 3. Skolen oppretter en felles søknad for skolen og legger til de elevene som denne søknaden skal omfatte. Skolen laster ned en PDF med alle elevenes IOP-søknader inkludert vedlegg.
 4. Skolen mottar vedtak fra fylket/kommunen.
-5. Basert på vedtak om IOP registrerers elevstatus Spesialundervisning.
+5. Basert på vedtak om IOP registreres elevstatus Spesialundervisning.
 6. Skolen oppretter IOP-del 1. Kartlegging, mål med opplæringen, fagene osv.
 7. Faglærerne fyller inn kompetansemålene i de ulike fagene. (IOP del 2)
 8. Elever og foreldre gis tilgang til IOPen.
@@ -33,7 +33,7 @@ Faglærere kan hoppe til avsnittet for [Elevens IOP](#elev_iop).
 Ny elev registreres ved å klikke _Legg til elevsøknad_. Et dialogvindu viser alle elever ved skolen som ikke er registrert med en IOP allerede. Du kan søke etter eleven du ønsker å legge til ved å benytte filteret over tabellen. Klikk på _Legg til_ bak eleven for å registrere søknad for denne eleven.
 
 ### Fyll inn informasjon til søknaden
-Skriv inn opplysninger om sakkyndig vurdering, elevens mål med opplæringen, fagene det søkes IOP for og eventuelt andre opplysninger. Fag legges til ved å klikke _Legg til_ over tabellen _Tilrådning om spesialundervisning_. Dokumenter som skal være vedlegg til søknaden lastes opp ved å klikke _Legg til_ over tabellen _Elevens IOP-dokumenter (Alle år)_. Du kan enten velge som allerede er knyttet til elevens IOP, eller laste opp et nytt dokument. Dokumentet vil bli en del av søknaden som sendes til fylket/kommunen. Dokumentet må være på PDF-format for å flettes inn med resten av søknaden. Dokumenter som lastes opp til søkanden vil også bli tilgengelig under _Dokumenter_ på elevens IOP.
+Skriv inn opplysninger om sakkyndig vurdering, elevens mål med opplæringen, fagene det søkes IOP for og eventuelt andre opplysninger. Fag legges til ved å klikke _Legg til_ over tabellen _Tilrådning om spesialundervisning_. Dokumenter som skal være vedlegg til søknaden lastes opp ved å klikke _Legg til_ over tabellen _Elevens IOP-dokumenter (Alle år)_. Du kan enten velge som allerede er knyttet til elevens IOP, eller laste opp et nytt dokument. Dokumentet vil bli en del av søknaden som sendes til fylket/kommunen. Dokumentet må være på PDF-format for å flettes inn med resten av søknaden. Dokumenter som lastes opp til søknaden vil også bli tilgjengelig under _Dokumenter_ på elevens IOP.
 
 :::info Merk
 Listen over fag inneholder alle fag eleven er registrert med i _Elevadmin > Fag_.
@@ -111,7 +111,7 @@ Dersom dokumentet er knyttet til elevens IOP-søknad, må man først gå til sø
 #### Dokumenter som genereres av iSkole.
 - **IOP** Inneholder overordnet mål for IOP ([se IOP del 1](#iop_del_1)), overordnet plan for de enkelte fag, samt kompetansemål, læringsmål og innhold for hvert enkelt fag.
 - **Vurdering 1. halvår** Inneholder vurdering av elevens utvikling og elevens videre utviklingsmuligheter i det enkelte fag.
-- **Årsrapport** Inneholder overordnet oversikt over opplæringen eleven har fått i de ulike fag, overordnet vurdering av undervisningne som er gitt, behov for videre IOP, samt årsvurderingen i det enkelte fag.
+- **Årsrapport** Inneholder overordnet oversikt over opplæringen eleven har fått i de ulike fag, overordnet vurdering av undervisningen som er gitt, behov for videre IOP, samt årsvurderingen i det enkelte fag.
 
 ### IOP del 1 {#iop_del_1}
 Før man har opprettet IOP del 1 vises en stor knapp _Opprett IOP del 1_. Når man klikker på denne knappen og IOP del 1 blir opprettet vises publiseringsstatusen for IOPen, samt knapper for å vise og endre IOP del 1 og for å skrive årsrapport.
@@ -131,7 +131,7 @@ Man kan hoppe direkte til en publiseringsstatus ved å klikke på den
 Her fyller IOP-ansvarlig ut overordnet informasjon om IOPen.
 - Ingår IOPen i en helhetlig individuell plan (IP) etter helselovgivningen?
 - Grunnlagsdokumenter
-- Skolens pedagogiske karlegging, faglig/sosialt
+- Skolens pedagogiske kartlegging, faglig/sosialt
 - Mål med opplæringen (Studiekompetanse, yrkeskompetanse eller grunnkompetanse)
 - Langsiktig plan for opplæringen. (Hvilke år skal eleven ta de ulike skoletrinnene?)
 - Eventuell utvidelse av opplæringstiden på bakgrunn av ny sakkyndig vurdering
@@ -142,11 +142,11 @@ Her fyller IOP-ansvarlig ut overordnet informasjon om IOPen.
 - Tidspunkt for evaluering av gjennomført opplæring og elevens utvikling
 
 :::info Spesialundervisning
-Så lenge det ikke er lagt til noen fag kan fagene hentes fra søknaden. Etter overføring fra søknaden kan de endres eller sletttet iht. elevens vedtak.
+Så lenge det ikke er lagt til noen fag kan fagene hentes fra søknaden. Etter overføring fra søknaden kan de endres eller slettet iht. elevens vedtak.
 :::
 
 ### Logg
-I loggen kan man notere oppdukkende hendelser. Det kan være dokumentasjon på tiltak skolen har gjort etter utfordringer eleven har møtt på. Hver logginlinje består av ett fritekst felt. Etter lagring vises dato for når logglinjen ble oppretett og hvem som opprettet den. Dersom teksten enedres vil dato for siste endring vises under _Sist endret_. Navnet vil være til den som skrev teksten eller sist endret den.
+I loggen kan man notere oppdukkende hendelser. Det kan være dokumentasjon på tiltak skolen har gjort etter utfordringer eleven har møtt på. Hver logginlinje består av ett fritekst felt. Etter lagring vises dato for når logglinjen ble opprettet og hvem som opprettet den. Dersom teksten endres vil dato for siste endring vises under _Sist endret_. Navnet vil være til den som skrev teksten eller sist endret den.
 
 ### IOP del 2
 IOP del to er den delen av IOPen som faglærerne vi arbeide med gjennom hele skoleåret. I starten av skoleåret legger faglæreren inn kompetansemålene med tilhørende læringsmål og innhold. Videre gjennom året skrives vurdering for 1. halvår og til slutt en årsvurdering.
@@ -165,7 +165,7 @@ Klikk på faget, velg deretter fanen _Vurdering 1. halvår_ i arkfanen under tab
 Klikk på faget, velg deretter fanen _Årsvurdering_ i arkfanen under tabellen med fag. Ellers samme felter og funksjonalitet som _Vurdering 1. halvår_.
 
 :::info Merk
-Markeringen _Ferdig_ er ment som en indikator på at innholdet kan publiseres til elev og foreldre. Det er fortsatt mulig å gjøre endringer. F.eks. kan vurderingen pulibseres så snart man har gjort første vurdering og deretter kontinuering oppdatere vurderingen underveis i skoleåret.
+Markeringen _Ferdig_ er ment som en indikator på at innholdet kan publiseres til elev og foreldre. Det er fortsatt mulig å gjøre endringer. F.eks. kan vurderingen publiseres så snart man har gjort første vurdering og deretter kontinuerlig oppdatere vurderingen underveis i skoleåret.
 :::
 
 ### Vedlegg til kompetansebevis

@@ -48,7 +48,7 @@ Her vises en kronologisk liste over sendte meldinger. Dersom en dato står i par
 Adresselisten for SMS er bygget på samme måte som ved sending av melding, men i tillegg vises personens telefonnummer bak navnet. SMS faktureres per melding . Under tekstfeltet vises derfor antall tegn meldingen består av, og hvor mange meldinger dette vil utgjøre.
 
 :::info Merk
-En ny meldingen sendes bare en gang til et mobilnummer, selv om nummeret er registrert på eksempelvis både elev og foresatt.
+En melding sendes bare en gang til et mobilnummer, selv om nummeret er registrert på eksempelvis både elev og foresatt.
 :::
 
 :::info Merk 2

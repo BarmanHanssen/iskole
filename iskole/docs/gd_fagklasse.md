@@ -9,7 +9,7 @@ Dersom elevene skal grupperes på annen måte, altså ikke sammenslåing av hele
 
 Fellesfaget kan bare ligge i en klasse da en elev bare kan følge et bestemt fag i en gruppe/klasse. Klassen hvor undervisningen skal foregå (omtales som moderklassen) blir "eier" av faget. Klassene med de øvrige elevene kaller vi i for **gjesteklasser**. 
 
-**Eksempl:** To klasser (A og B) har kroppsøving sammen i A-klassen. Da er faget registrert i A-klassen, og skal under menyvalget _Klasser_ ikke finnes blant B-klassens fag.
+**Eksempel:** To klasser (A og B) har kroppsøving sammen i A-klassen. Da er faget registrert i A-klassen, og skal under menyvalget _Klasser_ ikke finnes blant B-klassens fag.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/1ad15ab4-a3ef-4652-8f52-a69df0499455)
 

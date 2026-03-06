@@ -8,7 +8,7 @@ sidebar_label: PAS
 PAS er ikke et eget menyvalg, men er integrert i de ulike delene av eksamensmodulen. Integrasjonen mot PAS forenkler arbeidet med eksamen og sikrer at elevene får riktige karakterer, derfor har vi valgt å ta med PAS som et eget punkt i dokumentasjonen. PAS-funksjonene finnes under menyvalgene _Eksamenspartier_ og _Prøver_. I tillegg vil klager automatisk eksporteres til PAS hvis eleven har fått kandidatnummer fra PAS.
 
 :::caution Merk
-Henting av planer og oppmelding til PAS forutsetter at skolen har registert det organisasjonsnummeret de benytter på PAS under _Grunnlagsdata > Skole > Organisasjon_. Dersom skolen har annet organisasjonsnummer for PAS enn de ellers benytter, så kan dette registreres i feltet _Organisasjonsnummer PAS_. I tillegg må dere registrere i PAS-portalen at dere benytter iSkole som skoleadministrativt system.
+Henting av planer og oppmelding til PAS forutsetter at skolen har registrert det organisasjonsnummeret de benytter på PAS under _Grunnlagsdata > Skole > Organisasjon_. Dersom skolen har annet organisasjonsnummer for PAS enn de ellers benytter, så kan dette registreres i feltet _Organisasjonsnummer PAS_. I tillegg må dere registrere i PAS-portalen at dere benytter iSkole som skoleadministrativt system.
 :::
 
 ## Eksamenspartier
@@ -22,10 +22,10 @@ Hvis dere sletter kandidater vil de ikke slettes i PAS, men nye kandidater vil l
 Hvis dere ser partiene og kandidatene i PAS, men ikke har fått kandidatnummer på iSkole kan dere benytte valget _Importer kandidatnummer_. Dette er kun nødvendig dersom dere har brukt for kandidatnumrene, import av resultater vil fungere uavhengig av dette.
 
 ### Importer resultater
-Etter sensuren har falt kan man importere resultatene, karaktererne vil vises for elevene straks de er importert til iSkole. Import av resultater kan også gjøres så mange ganger dere vil. Resultatet fra evetnuelle klager hentes også i denne importen. Dersom klagen var registrert på iSkole vil den oppdateres med resultatet. Hvis klagen kun var opprettet direkte i PAS vil den også bli opprettet på iSkole ved import. Dermed vil dere få oversikt over alle klagene også på iSkole.
+Etter sensuren har falt kan man importere resultatene, karaktererne vil vises for elevene straks de er importert til iSkole. Import av resultater kan også gjøres så mange ganger dere vil. Resultatet fra eventuelle klager hentes også i denne importen. Dersom klagen var registrert på iSkole vil den oppdateres med resultatet. Hvis klagen kun var opprettet direkte i PAS vil den også bli opprettet på iSkole ved import. Dermed vil dere få oversikt over alle klagene også på iSkole.
 
 ## Prøver
-Skoler som skal avholde kartleggignsprøver kan importere sin prøveplan fra PAS. Når prøvepartiene er opprettet og elevene lagt til kan de eksporteres til PAS fra knappen _PAS_ og undervalget _Eksporter prøvepartier_. Fra dialogvinduet kan man velge å eksportere ett eller flere av prøvepartiene.
+Skoler som skal avholde kartleggingsprøver kan importere sin prøveplan fra PAS. Når prøvepartiene er opprettet og elevene lagt til kan de eksporteres til PAS fra knappen _PAS_ og undervalget _Eksporter prøvepartier_. Fra dialogvinduet kan man velge å eksportere ett eller flere av prøvepartiene.
 
 :::info Merk
 Prøveplanen er tilpasset hver skole basert på skolens organisasjonsnummer. Du kan kontrollere skolens organisasjonsnummer fra _Grunnlagsdata > Skole > Organisasjon_.

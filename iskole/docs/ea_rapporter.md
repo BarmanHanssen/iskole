@@ -31,13 +31,13 @@ Dersom innført karakter på et fag for en elev endres, blir dette loggført. He
 
 ## Fravær
 Her er det samlet flere rapporter. Felles for rapportene:
-De tar bare med elever som ikke har sluttet på _Til dato_ ( eller rapporteringsdatoen dersom Til-dato ikke inngår). Sumering av timer er i tidsrommet mellom oppgitt _Fra-_ og _Til dato_. Standardverdier er henholdsvis første skoledag og dags dato. Oppgitte timer er klokketimer, slik at en undervisningstime på eksempelvis 45 minutter blir 0,75 time. (Det er klokketimer som skal stå på karakterutskrifter og på vitnemål.)
+De tar bare med elever som ikke har sluttet på _Til dato_ ( eller rapporteringsdatoen dersom Til-dato ikke inngår). Summering av timer er i tidsrommet mellom oppgitt _Fra-_ og _Til dato_. Standardverdier er henholdsvis første skoledag og dags dato. Oppgitte timer er klokketimer, slik at en undervisningstime på eksempelvis 45 minutter blir 0,75 time. (Det er klokketimer som skal stå på karakterutskrifter og på vitnemål.)
 
 ![image](https://user-images.githubusercontent.com/80097133/207847160-004e0f4a-f89f-460c-921c-73eed90ed644.png)
 
 ### Totalt timefravær
 Gir skoleledelsen en statusrapport som vil kunne avdekke om ekstra oppfølging er nødvendig. Dersom skolen bare har en klasse per trinn (altså ikke både A og B-klasse),
-vil valgene _Totalt timefravær for klasser_ og_Totalt timefravær for trinn_ gi nøyaktig samme resultat.
+vil valgene _Totalt timefravær for klasser_ og _Totalt timefravær for trinn_ gi nøyaktig samme resultat.
 
 ![image](https://user-images.githubusercontent.com/80097133/208851195-ce81876d-6986-4acb-8a6f-e9f104ee750c.png)
 
@@ -52,7 +52,7 @@ Velges _Diverse_, får vi frem en rekke nye valg:
 
 ![bilde](https://user-images.githubusercontent.com/80097133/201046379-ea5053f7-ab3b-488b-8873-2071eef95c43.png)
 
-Fagkoderegistreret oppdateres regelmesig, og enkelte fagkoder går ut på dato. Her kan en enkelt kontrollere at alt er ok!
+Fagkoderegisteret oppdateres regelmessig, og enkelte fagkoder går ut på dato. Her kan en enkelt kontrollere at alt er ok!
 
 ### Skolebevis
 

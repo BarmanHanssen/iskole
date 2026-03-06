@@ -44,7 +44,7 @@ Uketimer, registrert fra _Grunnlagsdata>Fag_, er gjerne fast gjennom hele skole�
 Totalt antall timer som skal timeplanlegges. Det er timeplanlegger som må påse at faget får nok undervisningstid ut fra ferdiglagt timeplan. Årstimer kan avvike fra fagets omfang. Fagets _Omfang_ er fastsatt i fagplanen, og er angitt i klokketimer. Dersom skolen har timelengde som ikke er på 60 minutter, vil timer på timeplanen (årstimer) avvike fra fagets omfang. Det fins rapporter som summerer timer for hvert timeplanlagte fag, og gir svaret i klokketimer. 
 
 ### %
-Angir leseprosenten i faget, beregenet ut fra brøken årstimer/årsramme. Verdien på årstimer og årsramme er registert på faget, se _Grunnlagsdata>Fag_.
+Angir leseprosenten i faget, beregnet ut fra brøken årstimer/årsramme. Verdien på årstimer og årsramme er registrert på faget, se _Grunnlagsdata>Fag_.
 
 ### Lærer
 Kortnavn som identifiserer lærerens hele navn. Brukes blant annet på timeplanen.
@@ -53,7 +53,7 @@ Kortnavn som identifiserer lærerens hele navn. Brukes blant annet på timeplane
 Omtales til slutt.
 
 ### Fagkode og omfang
-Offiselle koder, benyttes på karakterutskrifter. Fag med fagkode 999999 timeplanlegges, men kommer ikke med på slike karakterutskrifer. 
+Offisielle koder, benyttes på karakterutskrifter. Fag med fagkode 999999 timeplanlegges, men kommer ikke med på slike karakterutskrifter. 
 
 ### Kostnadssted
 Kan benyttes dersom skolen også bruker iSkole til f.eks budsjettering/regnskap.
@@ -70,10 +70,10 @@ Vi får da frem alle ukene i planperioden, se eksemplet:
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/30b601ba-5d4c-41b7-8ac6-379a3fd27845)
 
-Når en legger til gruppens lærer, blir læreren satt som lærer hele skoleåret. Dersom det i løpet av skoleåret må sette inn en ny lærer (velg _Endre gruppe_), registreres endringen her. Anta at lærerbyttet skjer i uke 34, og skal gjelde ut skoleåret. Man markerer uke 34, holdlder Shift-tasten ned  og marker siste uke for læreren. Merk at fagansvarlig (første linje) ikke endres automatisk, selv om lærerskiftet gjelder for resten av skoleåret. Og at læreren som står på første linje får hele ressursen for faget! Eventuelle justeringer på ressurstildeling gjøres fra menyvalget _Andre ressurser_.
+Når en legger til gruppens lærer, blir læreren satt som lærer hele skoleåret. Dersom det i løpet av skoleåret må sette inn en ny lærer (velg _Endre gruppe_), registreres endringen her. Anta at lærerbyttet skjer i uke 34, og skal gjelde ut skoleåret. Man markerer uke 34, holder Shift-tasten ned  og marker siste uke for læreren. Merk at fagansvarlig (første linje) ikke endres automatisk, selv om lærerskiftet gjelder for resten av skoleåret. Og at læreren som står på første linje får hele ressursen for faget! Eventuelle justeringer på ressurstildeling gjøres fra menyvalget _Andre ressurser_.
 
 :::note Merk
-Dersom det er et vikariat (altså begrenset periode med annen lærer), kan menyvalget _Vikar i fag_ være et bedre alterntiv.
+Dersom det er et vikariat (altså begrenset periode med annen lærer), kan menyvalget _Vikar i fag_ være et bedre alternativ.
 :::
 
 ![bilde](https://user-images.githubusercontent.com/80097133/195068769-d4313ffe-b00b-47eb-8992-c21182c4d81a.png)

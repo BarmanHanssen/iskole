@@ -80,7 +80,7 @@ Her kan faglærer gi andre ansatte tilgang til fraværsføring i faget. Klikk p�
 ## Egenmeldinger
 
 ### Klager
-Hvis elevene er uenig i fraværet som er ført så har de mulighet til å registere en klage. 
+Hvis elevene er uenig i fraværet som er ført så har de mulighet til å registrere en klage. 
 Svaralternativene er:
 
 - _Aksepter_: klagen tas til følge, dvs. fraværet endres til typen angitt i klagen, og klagen slettes.
@@ -130,7 +130,7 @@ For kontaktlærere og vikarer/assistenter tilordnet av kontaktlæreren fra _Mine
 ![Kontaktelev - se alle fraværsopplysninger](/img/Fravær_kontaktelev_øye.gif 'Kontaktelev - se alle fraværsopplysninger')
 
 ### Føre fravær på kontaktelev ukesvis  {#kontaktelev_detaljer}
-Ved å klikke på blyanten kan man føre all fraværsinformasjon for en elev for en uke. Hver dag i valgt uke vil vise _Dagfravær_, _Dokumentert jf §3-9_ og _Merknad_, (Dagmerknad) etterfulgt av en tabell med de timene eleven har denne dagen. Det er ikke mulig å føre fravær på en time hvor eleven ikke har timeplanlagt undervisning. For gyldige verdier, se oversikten øverst på siden. Det er faglærerne som i hovedsak førerer timefraværet, men kontaktlæreren har allikevel fulle rettigheter til alle timene. Det er kun kontaktlæreren som har mulighet til å føre dagfravær. Kontaktlærer kan også markere at fraværet er dokumentert.
+Ved å klikke på blyanten kan man føre all fraværsinformasjon for en elev for en uke. Hver dag i valgt uke vil vise _Dagfravær_, _Dokumentert jf §3-9_ og _Merknad_, (Dagmerknad) etterfulgt av en tabell med de timene eleven har denne dagen. Det er ikke mulig å føre fravær på en time hvor eleven ikke har timeplanlagt undervisning. For gyldige verdier, se oversikten øverst på siden. Det er faglærerne som i hovedsak fører timefraværet, men kontaktlæreren har allikevel fulle rettigheter til alle timene. Det er kun kontaktlæreren som har mulighet til å føre dagfravær. Kontaktlærer kan også markere at fraværet er dokumentert.
 
 :::info Merk
 Når det føres dagfravær låses muligheten for å endre timefraværet. Dersom det gjøres endringer på timeplanen eller eleven tildeles nye fag kan det forekomme tomme timer som er låst av dagfraværet. Kontaktlæreren må ta stilling til om eleven skulle hatt fravær på disse timene, hvis så må dagfraværet slettes og deretter legges inn igjen.

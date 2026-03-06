@@ -7,7 +7,7 @@ sidebar_label: Foto
 
 ![image](https://github.com/user-attachments/assets/d2101d1f-791b-42a3-8d15-76ef8f6853d7)
 
-Inntak av av bilder fra fotograf gjøres i to trinn.
+Inntak av bilder fra fotograf gjøres i to trinn.
 
 _Eksport_ av en datafil til fotografen slik at denne kan gi bildene riktig navn (ansattnr). 
 
@@ -16,7 +16,7 @@ _Eksport_ av en datafil til fotografen slik at denne kan gi bildene riktig navn 
 
 Fotografen må gi Peder Aas sitt bilde navnet 20022134 osv. Dersom man har mange bilder som under ett skal legges inn, er dette en grei fremgangsmåte. Når bildefilen er klar, kan alle bildene importeres samlet. 
 
-Dersom noen få bilder skal legges inn, gjøres det enkelere fra menyvalget _Ansatt_. Der er det ikke noe krav om et spesift navn på bildefilen, og et bilde kan dras og slippes direkte på den ansatte.
+Dersom noen få bilder skal legges inn, gjøres det enklere fra menyvalget _Ansatt_. Der er det ikke noe krav om et spesifikt navn på bildefilen, og et bilde kan dras og slippes direkte på den ansatte.
 
 
  

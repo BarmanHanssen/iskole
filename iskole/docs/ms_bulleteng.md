@@ -7,7 +7,7 @@ Oppslagstavlen benyttes for raskt å få kontakt med alle elever og/eller alle a
 
 Oppslaget blir publisert på dato og klokkeslett som redaktøren av oppslaget har bestemt. Rektor kan gi redaktøransvar til ansatte og elever (eksempelvis elevrådsleder).
 
-Hvem som er mottaker av et bestemt oppslag fastsettes av redaktøren av oppslaget. Mottaker av oppslaget er alså ansatte, eller alle som har tilgang til iSkole. Helt til sluttdato for oppslaget er passert kan alle publiserte oppslag fås frem fra dette menyvalget.
+Hvem som er mottaker av et bestemt oppslag fastsettes av redaktøren av oppslaget. Mottaker av oppslaget er altså ansatte, eller alle som har tilgang til iSkole. Helt til sluttdato for oppslaget er passert kan alle publiserte oppslag fås frem fra dette menyvalget.
 
 ## Legge til redaktører
 Rektor eller rektors stedfortreder kan innsette redaktører fra _Tilgang>Oppslagstavle_. Skolen kan ha flere redaktører på samme tid.

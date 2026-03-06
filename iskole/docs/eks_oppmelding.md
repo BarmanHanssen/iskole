@@ -10,12 +10,12 @@ Her registreres eksamenspartiene som skal avholdes ved skolen. Først registrere
 ![Eksamenspartier](/img/eks_eksamenspartier.png 'Eksamenspartier')
 
 ## Innledende arbeid
-iSkole er integrert med PAS, dermed kan partier og kandidater i sentralgitte eksamener lastes opp til PAS. Planleggingen av partier og kandidater bør derfor gjøres på iSkole slik at dere etter sensuren kan hente resultatene fra UDIR og få disse lagrert direkte på elevene.
+iSkole er integrert med PAS, dermed kan partier og kandidater i sentralgitte eksamener lastes opp til PAS. Planleggingen av partier og kandidater bør derfor gjøres på iSkole slik at dere etter sensuren kan hente resultatene fra UDIR og få disse lagret direkte på elevene.
 
 Før dere oppretter partier på iSkole, klikk på knappen _PAS_ og velg _Importer eksamensplan_. Eksamensplanen inneholder dato for når eksamen skal avholdes. Importen kan ta noe tid, etter innhenting får dere en bekreftelse på antall planer som er importert.
 
 :::caution Merk
-Henting av planer og oppmelding til PAS forutsetter at skolen har registert det organisasjonsnummeret de benytter på PAS under _Grunnlagsdata > Skole > Organisasjon_. Dersom skolen har annet organisasjonsnummer for PAS enn de ellers benytter, så kan dette registreres i feltet _Organisasjonsnummer PAS_. I tillegg må dere registrere i PAS-portalen at dere benytter iSkole som skoleadministrativt system.
+Henting av planer og oppmelding til PAS forutsetter at skolen har registrert det organisasjonsnummeret de benytter på PAS under _Grunnlagsdata > Skole > Organisasjon_. Dersom skolen har annet organisasjonsnummer for PAS enn de ellers benytter, så kan dette registreres i feltet _Organisasjonsnummer PAS_. I tillegg må dere registrere i PAS-portalen at dere benytter iSkole som skoleadministrativt system.
 :::
 
 ## Legg til eksamensparti
@@ -33,7 +33,7 @@ Det kan knyttes en rekke informasjon til partiet. Tidspunkt, sted, eksaminator, 
 Nedre del av skjermbildet omhandler kandidater, her legges de til partiet, kan oppføres med tilrettelegging, program, karakterstatus og oppmøte.
 
 ### Legg til kandidater
-Etter å ha valgt et parti kan man klikke _Legg til..._ i nedre del av vinduet. Listen med elever som vises vil som standard være elever som har undervisning i partiets fagkode og som ikke allerede er oppmeldt til eksamen på denne fagkode. Dersom partiet er muntlig eksamen med egen fagkode, så viser vi elevene som har den skriftlige fagkoden. Ved å klikke på _Alle elever_ kan man søke opp alle skolens elever, untatt de som allerede er oppmeldt. Marker én eller flere elever og klikk _OK_. Tabellen støtter markering i serie ved å hode shift-tasten inne mellom første og siste markering.
+Etter å ha valgt et parti kan man klikke _Legg til..._ i nedre del av vinduet. Listen med elever som vises vil som standard være elever som har undervisning i partiets fagkode og som ikke allerede er oppmeldt til eksamen på denne fagkode. Dersom partiet er muntlig eksamen med egen fagkode, så viser vi elevene som har den skriftlige fagkoden. Ved å klikke på _Alle elever_ kan man søke opp alle skolens elever, unntatt de som allerede er oppmeldt. Marker én eller flere elever og klikk _OK_. Tabellen støtter markering i serie ved å holde shift-tasten inne mellom første og siste markering.
 
 ### Slett kandidat
 Marker kandidaten som skal slettes og klikk _Slett_.
@@ -54,7 +54,7 @@ Dersom kandidaten trenger tilrettelegging på eksamen kan dette registreres her.
 #### Program
 Dersom kandidaten skal ha et annet programområde enn det de har som elev kan dette registreres her. Dette gjelder i hovedsak NUS-eksamen.
 
-#### Karakterstaus
+#### Karakterstatus
 Dersom kandidaten har Ny, utsatt eller særskilt prøve registreres dette her.
 
 ### Oppmøtestatus

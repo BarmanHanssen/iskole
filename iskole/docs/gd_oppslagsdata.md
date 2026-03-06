@@ -5,11 +5,11 @@ sidebar_label: Oppslagsdata
 ---
 Tabellene kommer fra Utdanningsdirektoratet (UDIR) og kan ikke endres av brukerne av iSkole. 
 
-Tabellene innholdet data som benyttes i iSkole. Tabellene dekker videregående skole, fagskolen, grunnskolen, Steinerskolen og Montesorriskolen. 
+Tabellene inneholder data som benyttes i iSkole. Tabellene dekker videregående skole, fagskolen, grunnskolen, Steinerskolen og Montessoriskolen. 
 
 For å begrense hva som vises, kan en legge inn filter. Da vises rader som inneholder filteret i en eller flere av kolonnene som vises.
 
-## Utdaningsprogram
+## Utdanningsprogram
 
 Merk at grunnskolen bare er representert med en kode, GS, mens videregående skole har et finmasket kodeverk for å angi innholdet i utdanningen. Teksten herfra benyttes ved utskrift av blant annet av kompetansebevis og vitnemål. Kompetansebevis og vitnemål kan også utskrives med engelsk tekst.
 
@@ -42,13 +42,13 @@ Alle fag som er godkjent av UDIR er samlet i denne tabellen. Den inneholder mer 
 
 Her vises kodene som benyttes for de enkelte vurderingsalternativ som er definert. Vurderingsformen (gitt med en eller to bokstaver) tas med på kompetansebevis og vitnemål.
 
-## Fagmarknader
+## Fagmerknader
 
 Udir har en gruppe merknader som skal kunne brukes ved utskrift av kompetansebevis/vitnemål. Disse FAM-kodene skal benyttes på elevnivå, se _Elevadmin>Karakterdokumentasjon_ og _Elevadmin>Karakterer/FAM_. Utgåtte fagmerknader vises også, men da med rød skrift.
 
 ## Ekskluderende fag
 
-Noen fag, typisk norskfaget, tas over flere år. Men på kompetansebevis/vitnemål skal bare fagkoden på høyeste nivå, ofte på vg3-nivå, tas med.  Andre fag som tas over flere år, typisk fysikk/kjemi/engelsk, har ikke dette opplegget, da de kan avsluttes uten å ta høyeste nivå. Denne tabellen fås ikke fra Udir, så det er vi som må legge til nye fagkombinasjoner når det skjer endringer. Dette kan skje ved at bruker av iSkole gir beskjed til oss, eksempelvis via support@barman-hanssen.no. Når slike fakoder er lagt inn, vil utskrift av kompetansebevis/vitnemål automatisk sløyfe fagene på underliggende nivå.
+Noen fag, typisk norskfaget, tas over flere år. Men på kompetansebevis/vitnemål skal bare fagkoden på høyeste nivå, ofte på vg3-nivå, tas med.  Andre fag som tas over flere år, typisk fysikk/kjemi/engelsk, har ikke dette opplegget, da de kan avsluttes uten å ta høyeste nivå. Denne tabellen fås ikke fra Udir, så det er vi som må legge til nye fagkombinasjoner når det skjer endringer. Dette kan skje ved at bruker av iSkole gir beskjed til oss, eksempelvis via support@barman-hanssen.no. Når slike fagkoder er lagt inn, vil utskrift av kompetansebevis/vitnemål automatisk sløyfe fagene på underliggende nivå.
 
 ## Toterminsfag
 Ved skoleårets slutt skal elevens fagkarakter innføres enten som standpunkt-, eller som 2. halvårs-karakter, altså ikke begge deler. Regelen er at standpunkt bare settes når faget avsluttes. Norsk og kroppsøving er eksempler på fag hvor det kunne være lett å føre feil. Denne tabellen holder orden! Nå tillater iSkole at termin 2-vurdering bare kan settes for fag som er listet opp her. For alle andre fag vil det være standpunkt-vurdering som gjelder.

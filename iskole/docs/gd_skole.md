@@ -14,7 +14,7 @@ Benyttes på utskrift av vitnemål, og på rapporter etc.  Skolen kan også få 
 Øvrige data som kan legges inn benyttes kun der de blir etterspurt av mottaker. Av eksterne mottakere kan nevnes Lånekassen og Nasjonal Vitnemålsdatabase (NVB).
  
 ## Avdelinger
-Man kan gruppere ansatte, eksempelvis i en realfags- og en språkfagseksjon, som avdelinger. Her opprettes lederen. De ansatte kan knyttes til en avdeling fra _Personal>Ansatt_ under fanen _Diverse_. Fra _Personal>Rapporter>Avdelinger_ kan en liste ut hvem som er leder, samt medlemmer i den enklete avdeling.
+Man kan gruppere ansatte, eksempelvis i en realfags- og en språkfagseksjon, som avdelinger. Her opprettes lederen. De ansatte kan knyttes til en avdeling fra _Personal>Ansatt_ under fanen _Diverse_. Fra _Personal>Rapporter>Avdelinger_ kan en liste ut hvem som er leder, samt medlemmer i den enkelte avdeling.
 
 ## Skoler underlagt
 Hvis skolen utdanner elever under andre konsesjoner/organisasjonsnummer enn det som er definert over kan dette legges inn som en underlagt skole. Elever kan knyttes til denne skolen og således meldes korrekt opp til eksamen gjennom PAS og ved rapportering til VIGO.

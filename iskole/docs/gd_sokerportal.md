@@ -5,7 +5,7 @@ sidebar_label: Søkerportal
 ---
 Søkerportalen ble introdusert i 2014 og brukes av et stigende antall skoler.
 
-Ved bruk av søkerportalen vil skolen forenkle, og derigjennom spare tid, ved behandlingen av søkere. Alle skoler kan kostadsfritt teste ut søkerportalen. Portalen medfører kostnader først etter at søkeren gjennom søkerportalen blir tatt opp og registrert som elev ved skolen. Altså vil en skole med 1000 søkere hvor kun 100 blir tatt opp faktureres for 100. 
+Ved bruk av søkerportalen vil skolen forenkle, og derigjennom spare tid, ved behandlingen av søkere. Alle skoler kan kostnadsfritt teste ut søkerportalen. Portalen medfører kostnader først etter at søkeren gjennom søkerportalen blir tatt opp og registrert som elev ved skolen. Altså vil en skole med 1000 søkere hvor kun 100 blir tatt opp faktureres for 100. 
 
 **Skolen henviser til portalen fra sin hjemmeside**. 
 
@@ -13,7 +13,7 @@ Søkerportalen lar søkeren selv fylle inn nødvendige data, og legge ved dokume
 
 For å kunne ta i bruk søkerportalen må skolen legge oversikt over hva skolen tilbyr, og hva som en potensiell søkeren må legge inn som dokumentasjon om seg selv.
 
-Her følger en detaljert beskrivelse av hvordan søkerportalen implimenteres. 
+Her følger en detaljert beskrivelse av hvordan søkerportalen implementeres. 
 
 ### Felles opplysninger for alle skoleår
 
