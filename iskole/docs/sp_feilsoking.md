@@ -63,10 +63,6 @@ Programmer som vises i rød tekst har **stengt inntak**. Du kan fortsatt velge d
 - Prøv et annet filformat (PDF er alltid trygt)
 - Sjekk at du har valgt en dokumenttype før du laster opp
 
-### Jeg ser ikke dokumentet mitt etter opplasting
-
-Vent noen sekunder og oppdater listen. Dersom dokumentet fortsatt ikke vises, prøv å laste det opp på nytt.
-
 ## Generelle tips
 
 - Bruk en **oppdatert nettleser** for best opplevelse

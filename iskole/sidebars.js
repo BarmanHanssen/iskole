@@ -15,7 +15,7 @@ export default {
     {
       type: 'category',
       label: 'Søkerportal',
-      items: ['sp_oversikt','sp_registrering','sp_personalia','sp_soknad','sp_dokumenter','sp_behandling','sp_interessent','sp_feilsoking'],
+      items: ['sp_oversikt','sp_registrering','sp_personalia','sp_soknad','sp_behandling','sp_interessent','sp_feilsoking'],
     },
     {
       type: 'category',
