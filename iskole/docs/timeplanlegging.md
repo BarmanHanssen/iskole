@@ -7,17 +7,17 @@ sidebar_label: Timeplanlegging
 ## Innledning
 ### Forord
 Her kommer litt bakgrunnstoff for brukerne av timeplanverktøyet som benyttes i iSkole. Hvordan en ideell timeplan bør 
-utformes diskuteres ikke her. Fokus er hvordan man time for time kan bygge en timeplan. Siktemålet er fremskaffe en timeplanen som entydig vise hvor, når og hvem som er lærere i hvert fag, og hvilke elever som følger undervisningen i fagene gjennom
+utformes diskuteres ikke her. Fokus er hvordan man time for time kan bygge en timeplan. Siktemålet er å fremskaffe en timeplan som entydig viser hvor, når og hvem som er lærere i hvert fag, og hvilke elever som følger undervisningen i fagene gjennom
 hele skoleåret, dag for dag, time for time. Tenker man på alle varianter av
 elevsammensetninger, fordeling av enkelt- og dobbeltimer, og at fagenes timetall kan variere fra uke til uke, da vet 
-man at det kan bli arbeidskrevende å få på plass en fullstendig timeplan. Men, når uketimeplanene er på
-plass, da skal alle involverte parter ha oversikt over hele skoleårets undervisningsplan.
+man at det kan bli arbeidskrevende å få på plass en fullstendig timeplan. Men når uketimeplanene er på
+plass, skal alle involverte parter ha oversikt over hele skoleårets undervisningsplan.
 
 ### Typografi
 Tekst som refererer til noe i iSkole er ofte skrevet i _kursiv_. Eksempelvis:
 Fyll inn feltet _Navn_. Kursiv benyttes også når vi refererer til steder i iSkole
 som er dokumentert, da er denne teksten også en lenke. Eksempelvis: Se
-_innholdsfortegnelsen_. Hovedmenyen for dokumentasjonen av iSkole finner du i venstre marg,  undervalgene i høyre marg.
+_innholdsfortegnelsen_. Hovedmenyen for dokumentasjonen av iSkole finner du i venstre marg, undervalgene i høyre marg.
 
 ### Rettigheter
 iSkole er registrert varemerke i Norge og kan ikke benyttes til andre formål
@@ -36,9 +36,9 @@ Vi starter med å se på sentrale begreper som benyttes i manualen.
 ### Planperiode
 Vi omtaler et skoleår som en planperiode. Planperioden er vanligvis fra 1. august til og 
 med 31. juli året etter. Vi benytter skoleruten (se _Grunnlagsdata>Skolerute_) til å 
-markere dagene hva som er skoledager, planleggingsdager og aktivitetsdager. Øvrige dager er fridager. 
+markere hvilke dager som er skoledager, planleggingsdager og aktivitetsdager. Øvrige dager er fridager. 
 Elevene kan logge seg inn i iSkole i planperioden hvor de er registrert som elev, helt fram til 31. juli
-dersom de ikke avslutter før denne dato. Ansatte har tilgang til iSkole helt til de slutter.
+dersom de ikke avslutter før denne datoen. Ansatte har tilgang til iSkole helt til de slutter.
 
 ### Tid
 Timene for hver dag registreres fra _Timeplan > Timer_. Vanligvis
@@ -52,13 +52,13 @@ klokkeslett for når timen starter, og når den slutter. Timelengden er vanligvi
 45 eller 60 minutter, men kan variere fra fag til fag, og fra time til time.
 
 Et vanlig oppsett har åtte timer per dag, alle med 45 minutters lengde, og med samme start- og sluttid for 
-alle ukedagene. iSkole kan ut fra lagt timeplane beregne summert undervisning i klokketimer for det enkelte fag for 
+alle ukedagene. iSkole kan ut fra den lagte timeplanen beregne summert undervisning i klokketimer for det enkelte fag for 
 hele skoleåret. Skolens timeplan kan derfor være dokumentasjon for omfanget av undervisningen i det enkelte fag.
 
 :::tip Merk
 Timene bestemt her er en mal. Når en time i et fag timeplanlegges, blir start - og slutt-tiden for timen 
 fastlagt ut fra denne malen. Men timeplanlegger kan da om ønskelig endre både start og slutt-tiden på timen.
-:::tip
+:::
 
 ### Rom
 Nye rom legges inn fra _Grunnlagsdata > Rom_. Kortnavnet for rom er på inntil fire tegn. Romtype og 
@@ -100,7 +100,7 @@ fag som skal på karakterdokumentasjonen, eller faget er en komponent av et
 annet fag, vil fagkoden være "999999". Timeplanleggeren trenger som nevnt
 kun å forholde seg til fagets kortnavn. 
 
-[^1] Det er noen få unntak fra denne regelen. Blandt annet har Steinerskolen bokstavene RS i fjerde og femte posisjon.
+[^1] Det er noen få unntak fra denne regelen. Blant annet har Steinerskolen bokstavene RS i fjerde og femte posisjon.
 
 ### Klasse og klassefag
 En klasse settes opp for å samle elever som følger et bestemt undervisningsprogram[^2].
@@ -108,12 +108,12 @@ Vanligvis vil elevene i en klasse ha alle fag i klassen i sin fagkrets.
 Vi kaller fag som er knyttet direkte til klassen, og som altså alle elevene i
 klassen kan følge, for klassefag.
 
-Hver klasse kan ha et varierende antall elever, vanligvis er det ikke mere
+Hver klasse kan ha et varierende antall elever, vanligvis er det ikke mer
 enn 30 elever i en klasse. En elev kan bare være registrert i en klasse i et skoleår.
 
 Om en klasse har 0 eller 30 elever er i utgangspunktet uten betydning for timeplanlegger!
 
-[^2] Elevene kan ha avvikende programkode i forhold til klassen. Den settes i skjermbildet _Elevadmin > Elev_
+[^2] Elevene kan ha avvikende programkode i forhold til klassen. Den settes i skjermbildet _Elevadmin > Elev_.
 
 ### Gruppefag
 Gruppefag er fag som har elever fra flere klasser, eller at elevene i en klasse er delt i flere grupper. Typisk vil fag eleven fritt kan velge, altså fag som ikke inngår i klassens fagkrets, bli definert som gruppefag. Et eksempel kan være faget 
@@ -125,7 +125,7 @@ I noen tilfeller er det aktuelt å slå to eller flere klasser sammen for
 undervisning i et felles fag. Dette kan administreres ved å opprette faget
 som gruppefag. Men når alle elevene i klassene skal følge faget, er det enklere
 å opprette en fagklasse. Det skjer ved at undervisningen legges i den
-ene klassen, og den andre klassen regisreres som gjesteklasse til faget i den
+ene klassen, og den andre klassen registreres som gjesteklasse til faget i den
 førstnevnte klassen. Vi kaller klassen som eierfaget for _moderklasse_, og den
 andre klassen for _gjesteklasse_. (Se _Grunnlagsdata>Klasse_)
 Et typisk eksempel er faget kroppsøving, hvor man slår sammen to
@@ -143,7 +143,7 @@ mulig er at
 
 1. Alle klassene er registrert i _Grunnlagsdata > Klasse_.
 1. Hver klasse er satt opp med alle sine fag i _Grunnlagsdata > Fag>klassefag_.
-1. Gjeldende start- og slutt-tider for undervisningen er på plass, se _Timeplan > Time_.
+1. Gjeldende start- og slutt-tider for undervisningen er på plass, se _Timeplan > Timer_.
 1. Årets gruppefagene er registrert i _Time- og fagfordeling > Gruppefag_.
 1. Alle rom hvor det skal foregå undervisning er registrert i _Grunnlagsdata > Rom_.
 1. Elevene er registrert i sine respektive klasser.
@@ -169,7 +169,7 @@ fag han eller hun ønsker undervisning i de timene hvor fagene undervises samtid
 Men lærer- og romkollisjon tillates ikke!
 
 Timeplanleggingen skjer på skjermen. Selve utplasseringen av timer skjer ved at 
-timeplanleggeren klikker på plass fag på timeplanen. 
+timeplanleggeren klikker for å plassere fag på timeplanen. 
 Den grafiske utformingen av skjermbildene letter arbeidet, og forskjellige
 teknikker benyttes for raskt å kunne plassere timene på ønsket dag og time.
 
@@ -184,14 +184,14 @@ at faget ikke kommer på timeplanen den uken.
 
 Hvert fag har gitt omfang. Omfanget er fagets årstimetall. Timeplanleggeren må påse at
 summen av timeplanlagt undervisning i hvert fag for hele skoleåret er i samsvar med fagets omfang/årstimetall. 
-Timeplanleggeren kan ta ut rapporer som 
+Timeplanleggeren kan ta ut rapporter som 
 summerer antall timer som er timeplanlagt hvor undervisningstimene er omregnet til klokketimer. Rapporten tar hensyn til 
 skoleruten slik at fridager og planleggingsdager ikke tas med. Rapporten kan brukes 
 til å dokumentere hva som er gitt av undervisning i det enkelte fag.
 
 ## Planlegging av neste års timeplan
 Når iSkole er tatt i bruk, vil forberedende arbeid for neste års timeplan
-kunne start tidlig, gjerne allerede i januar.
+kunne starte tidlig, gjerne allerede i januar.
 
 Nytt skoleår opprettes fra menyvalget _Grunnlagsdata > Planperiode_,
 og bør ta utgangspunkt på årets planperiode. iSkole foreslår dette som standard. Den nye 
@@ -224,7 +224,7 @@ Planperioden kan vare fra 1. august til 31. juli, men det er skoleruten som fast
 undervisning. Skoleruten blir satt opp når man oppretter en ny planperiode, og kan siden redigeres fra
 _Grunnlagsdata > Skolerute_.
 
-Før timeplanen for en klasse legges, bør klassen være satt opp med alle fag i klassen. Det beste vil være om fagene er registrert med lærer, og at elevene i klassen også er registrert. Dersom man senere må gjøre endringer, vil programvaren sjekke om endringene medfører kollisjoner på timeplanen for klasse,lærer eller elev.
+Før timeplanen for en klasse legges, bør klassen være satt opp med alle fag i klassen. Det beste vil være om fagene er registrert med lærer, og at elevene i klassen også er registrert. Dersom man senere må gjøre endringer, vil programvaren sjekke om endringene medfører kollisjoner på timeplanen for klasse, lærer eller elev.
 
 Det anbefales å velge skoleårets første uke når man skal starte
 timeplanleggingen, selv om det ikke er definert skoledager hele uken i
@@ -244,7 +244,7 @@ dato, f.eks. frem til første skoledag. Det kan være greit for å skjerme
 timeplanleggeren i arbeidet helt frem til timeplanen er lagt ferdig.
 :::
 
-Skal timeplanen justeringes i løpet av skoleåret, går man rett inn på den uken
+Skal timeplanen justeres i løpet av skoleåret, går man rett inn på den uken
 det gjelder, og endrer direkte der før man eventuelt kopierer endringen fremover 
 i tid. Merk at man bare kan kopiere timeplanen fremover i tid.
 
@@ -255,13 +255,13 @@ Man kan føre inn fravær på en elev frem i tid dersom eleven har dokumentert a
 frem i tid. Hvis timeplanlegger fjerner en time hvor det er ført fravær, så vil fraværet
 slettes. Regelen er at fravær er knyttet til timeplanlagte timer.
 
-Skjermbildet er er delt inn i flere deler som binder det hele sammen. Øverst i bildet 
+Skjermbildet er delt inn i flere deler som binder det hele sammen. Øverst i bildet 
 vises hvilken klasse og uke vi skal timeplanlegge.
 
 Vi har valgt klasse ST1A som eksempel.
 
 #### Fag
-Til venstre i bildet vises klassens fag. Merk at et fag kan ha flere lærer (se GEO). Kolonnen _Timer_ forteller 
+Til venstre i bildet vises klassens fag. Merk at et fag kan ha flere lærere (se GEO). Kolonnen _Timer_ forteller 
 hvor mange timer fagene skal timeplanlegges denne uken, mens kolonnen _Lagt_ viser 
 hvor mange timer som alt er timeplanlagt i denne uken. I kolonnen _Timer_ er det et ikon (en blyant) til venstre for 
 timetallet. Ved å trykke på ikonet kan man justere timetallet for faget og/eller lærer(e) i denne uken.
@@ -269,7 +269,7 @@ timetallet. Ved å trykke på ikonet kan man justere timetallet for faget og/ell
 Timeplanlegger vil spesielt ha fokus på skjermbildene  _Timeplan klasse_ og _Timeplan lærer_.
 
 #### Timeplan klasse
-Her er klassens timeplan allerede lagt for uke 37. Klassefag vises på blå bakgrunn og gruppefag på grønn bakgrunn. Når man velger fag fra tabellen _Fag_, her er ENG valgt, vil faget vises på rosa bakgrunn både på klassens og lærerens timeplan. Timer i klassen som ikke er timeplanlagte har en mørkere grønnefarge. Blanke/hvite felt kan ikke timeplanlegges. 
+Her er klassens timeplan allerede lagt for uke 37. Klassefag vises på blå bakgrunn og gruppefag på grønn bakgrunn. Når man velger fag fra tabellen _Fag_, her er ENG valgt, vil faget vises på rosa bakgrunn både på klassens og lærerens timeplan. Timer i klassen som ikke er timeplanlagte har en mørkere grønnfarge. Blanke/hvite felt kan ikke timeplanlegges. 
 
 #### Timeplan lærer
 Her vises alle timeplanlagte fag til faglæreren som har faget som er valgt fra _Fag_ (her: ENG).
@@ -278,15 +278,15 @@ Her vises alle timeplanlagte fag til faglæreren som har faget som er valgt fra 
 Her kan man legge til lærer(e) som da vil vises sammen med _Timeplan lærer_. Slik får man oversikt over flere lærere samtidig, dersom det er ønskelig.
 
 #### Rom
-Når man velger fag, vil automatisk rommet som er tildelt faget fra  _Grunnlagsdata > Rom_, eller fra _Grunnlagsdata > Klasse_ velges. Man kan også forhåndsvelge rom  fra nedtrekksisten  _Velg rom_ som er plassert oppe i venstre hjørne.
-For å endre romvalgdersom på en allerede timeplanlagt time: Klikk på faget på klassens timeplan. Nedtrekkslisten _Timeplanlagte rom_ vil bare inneholder rom som er ledige for den valgte timen.
+Når man velger fag, vil automatisk rommet som er tildelt faget fra  _Grunnlagsdata > Rom_, eller fra _Grunnlagsdata > Klasse_ velges. Man kan også forhåndsvelge rom fra nedtrekkslisten _Velg rom_ som er plassert oppe i venstre hjørne.
+For å endre romvalg på en allerede timeplanlagt time: Klikk på faget på klassens timeplan. Nedtrekkslisten _Timeplanlagte rom_ vil bare inneholde rom som er ledige for den valgte timen.
 
 ## Timeplanlegge klasse
 Følgende trinn som må gjøres for å timeplanlegge klassefag:
 
 1. Velg klasse og uke, og eventuelt rom.
 1. Velg fag og lærer i listen over fag.
-1. Plasser en time i faget ved å klikke på grønn time i klassens timeplanen 
+1. Plasser en time i faget ved å klikke på grønn time i klassens timeplan.
 
 For å fjerne en enkelt time: Klikk  på timen på timeplanen, og velg _Slett time_. For å slette alle timeplanlagte i klassen, eller for et enkelt fag, eller valgte lærers timeplan for denne uken: Valgene fås frem ved å klikke på  _Slett timeplan..._. Sletting skjer ikke umiddelbart, men først etter at man bekrefter at sletting skal finne sted.
 
@@ -296,7 +296,7 @@ Vi har nå sett på timeplanlegging av klassefag. Her var time- og fagfordelinge
 Det er utfordrende for skolen å bestemme hvilke valgfag som skal tilbys neste skoleårs elever.
 Viktige faktorer er skolens størrelse, hvilke studieretninger skolen tilbyr, elevenes ønsker og lærernes fagkompetanse.
 
-Elevene blir ved opptak plassert i klasser. Klassene er satt opp med fag som i utgangspunktet alle elevene i klassen skal følge. Men det finnes fag som det ikke er naturlig å plassere i en klasse. Det gjelder fag som kan være valgbare for elever fra forskjellige klasser.  Fag av i denne kategorien klassifiserer vi som _gruppefag_. Når elevene får undervisning i gruppefaget, kan/bør ikke timen kolliderer med elevens klassetimeplan.
+Elevene blir ved opptak plassert i klasser. Klassene er satt opp med fag som i utgangspunktet alle elevene i klassen skal følge. Men det finnes fag som det ikke er naturlig å plassere i en klasse. Det gjelder fag som kan være valgbare for elever fra forskjellige klasser. Fag i denne kategorien klassifiserer vi som _gruppefag_. Når elevene får undervisning i gruppefaget, kan/bør ikke timen kollidere med elevens klassetimeplan.
 
 Hvis elever i en klasse bare har klassefag vil timeplanen være komplett for elevene når alle klassefagene er timeplanlagt. Timeplanleggingen av slike klasser kan trygt gjøres før elevgrunnlaget er kjent. Klassens timeplan vil være komplett og lik for alle elevene i klassen.
 
@@ -306,7 +306,7 @@ Nå skal vi se på utfordringer med å få sammensatt gruppefagene slik at timep
 
 #### Den enkelte elevs valgmuligheter
 Hvilke grupper (altså valgfag) som skal tilbys fastsettes på den enkelte skole. 
-Tilbudet begrenser seg ut fra blant annet økonomiske hensyn. Men i utgangspunktet kan man tilbyr et mer omfattende utvalg av fag enn det som kan igangsettes. Får et fag for få påmeldte elever, kan faget sløyfes, og disse elevene må foreta omvalg blant de gjenværende grupppene.
+Tilbudet begrenser seg ut fra blant annet økonomiske hensyn. Men i utgangspunktet kan man tilby et mer omfattende utvalg av fag enn det som kan igangsettes. Får et fag for få påmeldte elever, kan faget sløyfes, og disse elevene må foreta omvalg blant de gjenværende gruppene.
 
 Fra iSkole kan eksempelvis årets vg1- og vg2-elever få tilgang til å velge blant gruppefag skolen vil tilby 
 kommende skoleår. Vi skal nå se nærmere på arbeidet som går forut for
@@ -332,12 +332,12 @@ Timeplanen for hver blokk er nødvendigvis ikke fastsatt når elevene velger gru
 
 Vi tar utgangspunkt i viste blokkskjema. En elev har valgt matematikk, fysikk og kjemi. Disse fag skal tilsammen ha 15 timer på timeplanen. Dersom skoleuken skal begrenses til 30 timer på klassens timetall, må klassefagene for nevnte elevs klasse ikke kreve mer enn 15 timer.
 
-#### Elevene velger fritt blant alle alle fag
+#### Elevene velger fritt blant alle fag
 
 Da vil enhver kombinasjon av fagene være valgbare. (Unntaket er at noen fag (eksempelvis Fysikk 2) krever at man allerede har tatt et annet fag (Fysikk 1)). 
 
-Da kan det bli krevende å finne ut hvilke kombinasjoner av fag som kan timeplanlegges parallellt.
-Først må sannsynligvis noe grupper utgå dersom få har valgt faget, eller at elevene kommer fra så mange klasser at det ikke vil gå timeplanmessig. Dette tilsier omvalg for berørte elever. Deretter må man finne hvilke grupper som kan tmeplanlegges parallelt slik at elevenes timeplanen kan legges med et akseptabelt tidsramme. Til hjelp i denne prosessen tar man ut en _konfliktmatrise_. Konfliktmatrisen hentes fra _Timeplan > Rapporter > Matrise gruppefag_. 
+Da kan det bli krevende å finne ut hvilke kombinasjoner av fag som kan timeplanlegges parallelt.
+Først må sannsynligvis noen grupper utgå dersom få har valgt faget, eller at elevene kommer fra så mange klasser at det ikke vil gå timeplanmessig. Dette tilsier omvalg for berørte elever. Deretter må man finne hvilke grupper som kan timeplanlegges parallelt slik at elevenes timeplan kan legges innenfor en akseptabel tidsramme. Til hjelp i denne prosessen tar man ut en _konfliktmatrise_. Konfliktmatrisen hentes fra _Timeplan > Rapporter > Matrise gruppefag_. 
 
 Eksemplet viser _Matrise gruppefag_ tatt ut for elever fra ST1. Rapporten kan tas ut uavhengig av hvordan valget at gruppefag har foregått.
 
@@ -345,7 +345,7 @@ Eksemplet viser _Matrise gruppefag_ tatt ut for elever fra ST1. Rapporten kan ta
 
 Alle gruppene (13) som er markert horisontalt og vertikalt. Antall elever som har valgt hver fag fremgår av diagonalen.
 Eksempelvis er TY2 1 valgt av 25 elever. Av disse elevene har ingen valgt eksempelvis MAP 4 eller MAP 5. Det betyr at MAP 4 eller MAP 5 kan
-settes opp i en blokk, altså timeplanlegges prallelt. 
+settes opp i en blokk, altså timeplanlegges parallelt. 
 
 Merk at ved å klikke på et tall, eksempelvis 7 på nederste linje, så vises 7 navn. Det er elevene som har valgt både TY2 1 og MAT 2.
 
@@ -374,7 +374,7 @@ timen skal utbetales eller ikke og deretter trykke _OK_. Når det er gjort har
 faget fått en vikar, og vikaren (og elevene) får opp timen på sin timeplan.
 
 ### Bytte av lærer i fag
-Man kan bytte/legge til lærer fra  _Timeplan > Klasse_ og _Timeplan>Gruppefag_. 
+Man kan bytte/legge til lærer fra _Timeplan > Klasser_ og _Timeplan > Grupper_. 
 
 ## Etterord
 Som bruker av iSkole har alle tilgang til en brukerveiledning knyttet til det enkelte menyvalg.

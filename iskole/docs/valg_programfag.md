@@ -18,7 +18,7 @@ Denne veiledningen beskriver hvordan skolene skal sette opp valg av programfag f
 
 1. Gå til modulen *Elevadmin*.
 2. Velg menyvalget *Oppflytting*.
-3. Flytt opp de elever som skal fortsette til neste skoleår.
+3. Flytt opp de elevene som skal fortsette til neste skoleår.
 
 ## Steg 3: Oppsett av fagvalg
 
@@ -28,7 +28,7 @@ Denne veiledningen beskriver hvordan skolene skal sette opp valg av programfag f
 2. Velg menyvalget *Grupper*.
 3. I tabellen over alle skolens gruppefag, gjør følgende:
    - For å opprette en ny gruppe for skoleåret:
-     - Klikk på *+ ikonet* på fags linje i tabellen.
+     - Klikk på *+*-ikonet på fagets linje i tabellen.
      - Angi en blokkid til fagene som skal undervises parallelt (samme blokkid).
    - For å endre eller legge til blokkid for et allerede opprettet fag:
      - Klikk på *blyantikonet* på fagets linje.

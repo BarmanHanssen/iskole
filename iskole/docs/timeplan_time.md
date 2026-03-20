@@ -25,7 +25,7 @@ Eksempelvis kan en skole som har både barne- og ungdomsstrinnet ha forskjellig 
 **Alternativ 1**: Vi timeplanlegger barnetrinnet før vi timeplanlegger ungdomstrinnet (eller i omvendt rekkefølge).
 Da må timeoppsettet være tilpasset barnetrinnet. Alle timene får da riktig start- og sluttid.
 
-Når alle fag på barnetrinnet er timeplanlagt (fra _Timplan>Klasse_), endres malen slik at start- og sluttidene dekker  ungdomstrinnet. Da er alt klart for å legge timeplanen for ungdomstrinnet.
+Når alle fag på barnetrinnet er timeplanlagt (fra _Timeplan>Klasser_), endres malen slik at start- og sluttidene dekker ungdomstrinnet. Da er alt klart for å legge timeplanen for ungdomstrinnet.
 
 Fordeler/ulemper med 1:  
 \+ Veldig god oversikt, ingen mulighet til feil tidspunkt for undervisningen.  
@@ -43,7 +43,7 @@ Fordeler/ulemper med 2:
 ## Før en endrer oppsettet med timenes plassering/lengde
 Timene og timelengden som lagres her er altså en mal som benyttes når en legger timeplanen. 
 
-Det er også mulig å endre start- og sluttid for en timeplanlagt time fra _Timeplan>Klasser_ og _Timeplan>Grupper_. Dersom man øker timelengden på en time på timeplanen slik at den overlapper med en annen time, så kan det selvsagt medføre en kollisjon for lærer eler elev, men det vil systemet avdekke.
+Det er også mulig å endre start- og sluttid for en timeplanlagt time fra _Timeplan>Klasser_ og _Timeplan>Grupper_. Dersom man øker timelengden på en time på timeplanen slik at den overlapper med en annen time, så kan det selvsagt medføre en kollisjon for lærer eller elev, men det vil systemet avdekke.
 
 Her vises et eksempel på en mal. Ved å klikke på en time kan man gjøre endring på start- og slutt-tiden for timen, eller slette timen.
 

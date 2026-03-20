@@ -14,6 +14,11 @@ export default {
     },
     {
       type: 'category',
+      label: 'Søkerportal',
+      items: ['sp_oversikt','sp_registrering','sp_personalia','sp_soknad','sp_dokumenter','sp_behandling','sp_interessent','sp_feilsoking'],
+    },
+    {
+      type: 'category',
       label: 'Mine sider',
       items: ['ms_startside','ms_timeplan','ms_fravaer','ms_meldinger','ms_bulleteng','ms_dokumenter','ms_vurderinger','ms_karakterer','ms_yrkesfaglig_fordypning','ms_arsplan','ms_elever',
       'ms_elevsamtaler','ms_orden_atferd','ms_elevmappe','ms_brev','ms_iop','ms_permisjon','ms_sensor','ms_rapporter','ms_internat',

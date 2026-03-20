@@ -8,12 +8,12 @@ sidebar_label: Reserver
 At en lærer er  reservert for et bestemt tidsrom innebærer at læreren ikke kan pålegges undervisning i klasse- eller gruppefag på samme tid. Tiden hvor 
 en lærer er reservert er synlig for alle som har tilgang til lærerens timeplan.
 
-Reservering av et _rom_ innebærer betyr tilsvarende at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. Disse tidene vises bare på rommets timeplan.
+Reservering av et _rom_ betyr tilsvarende at rommet ikke er tilgjengelig når timeplanen for skolefagene skal legges. Disse tidene vises bare på rommets timeplan.
  
 Reservering av _rom og lærer_ innebærer at både rom og involvert(e) lærer(e) er opptatt. En slik reservering vises både på rommets og lærers timeplan.
 
 ## Reservere lærer
-Benyttes hovedsaklig før skolens ordinære timeplan legges da en reservasjon blokkerer for annen timeplanlagt aktivitet for læreren. Eksempelvis kan en reservasjon markere at læreren er opptatt med møtevirksomhet.
+Benyttes hovedsakelig før skolens ordinære timeplan legges da en reservasjon blokkerer for annen timeplanlagt aktivitet for læreren. Eksempelvis kan en reservasjon markere at læreren er opptatt med møtevirksomhet.
 
 ![image](https://github.com/user-attachments/assets/faa8b3bc-18ce-4ffe-a4db-6092ba682c84)
 
@@ -22,18 +22,18 @@ Lærer velges fra listen, og lærerens timeplan for valgt uke hentes frem og led
 ![image](https://github.com/user-attachments/assets/f159ec6c-e78b-4697-a5e4-0d703b517013)
 
 
-Her kan du endre standardteksen. Dersom reservasjonen kun skal gjelde for uke 48, avslutter du med å _Lagre lærerreservasjonen_. 
+Her kan du endre standardteksten. Dersom reservasjonen kun skal gjelde for uke 48, avslutter du med å _Lagre lærerreservasjonen_. 
 
-Skal reservasjonen gjelde for flere uker, kanskje for resten av skoleåret, velges _Kopering av gjeldende reservajon_, og dette skjermbnilde vises:
+Skal reservasjonen gjelde for flere uker, kanskje for resten av skoleåret, velges _Kopiering av gjeldende reservasjon_, og dette skjermbildet vises:
 
 ![image](https://github.com/user-attachments/assets/3ef68971-fe4a-4615-83c3-0e427958d162)
 
 
-Reservert tid gjelder i utgangspunktet bare for valgt uke (må avhukes) . Her kan du markere at resevasjonen skal gjelde for flere uker. Lagring skjer ved å klikke på ![image](https://github.com/user-attachments/assets/82496f15-c922-4c92-8774-4fb5ceed7073)
+Reservert tid gjelder i utgangspunktet bare for valgt uke (må avhukes) . Her kan du markere at reservasjonen skal gjelde for flere uker. Lagring skjer ved å klikke på ![image](https://github.com/user-attachments/assets/82496f15-c922-4c92-8774-4fb5ceed7073)
  
 
 :::tip Tips - Møte med flere
-Hvis flere lærere skal ha møte sammen, benytt romreservervasjon og legg til alle aktuelle lærere i de aktuelle ukene. Alle deltakerene får samme melding på sin timeplan og reservasjonene kan endres samlet.
+Hvis flere lærere skal ha møte sammen, benytt romreservering og legg til alle aktuelle lærere i de aktuelle ukene. Alle deltakerne får samme melding på sin timeplan og reservasjonene kan endres samlet.
 :::
 
 ### Slett reservasjon

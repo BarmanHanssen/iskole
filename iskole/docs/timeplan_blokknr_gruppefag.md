@@ -21,19 +21,19 @@ Et gruppefag har vanligvis bare en lærer. Men det er mulig å timeplanlegge fag
 
 
 
-Ved å klikk på en faglinje (her er valgt ST1:KRO1) vil fagets timeplan komme til syne på rosa bakgrunn i skjermbildets nedre del. Man kan skifte uke i nedtrekkslisten oppe i høyre hjørne.
+Ved å klikke på en faglinje (her er valgt ST1:KRO1) vil fagets timeplan komme til syne på rosa bakgrunn i skjermbildets nedre del. Man kan skifte uke i nedtrekkslisten oppe i høyre hjørne.
 
 <img width="1144" height="1111" alt="image" src="https://github.com/user-attachments/assets/ec5c9761-39ca-4dc6-bd88-4f2b7b107759" />
 
 
-Gruppefagene kan timeplanlegges enkeltvis. Timen plasseres ved å klikke på et grønnt felt. Det er mulig å timeplanlegge flere timer under ett, se bunnteksten i vinduet.
+Gruppefagene kan timeplanlegges enkeltvis. Timen plasseres ved å klikke på et grønt felt. Det er mulig å timeplanlegge flere timer under ett, se bunnteksten i vinduet.
 
 :::tip Merk
 Dersom faget er markert med blokkid (se menyvalget _Time- og fagfordeling>Gruppefag_), og blokkid er timeplanlagt (se menyvalget _Blokk_), kan alle fagets timer plasseres med et museklikk!
 :::
 
 #### Vi velger her et fag uten blokkid
-Mørkegrønne felt viser viser timer hvor faget, med lærer, kan timepplanlegges.
+Mørkegrønne felt viser timer hvor faget, med lærer, kan timeplanlegges.
 Fagets (og lærers) timeplan legges time for time ved å klikke på mørkegrønn time. Rom kan byttes og allerede plasserte timer slettes.
 
 :::tip Tips - hurtigtaster
@@ -41,7 +41,7 @@ Se beskrivelsen under timeplanen for tastatursnarveier som kan effektivisere arb
 :::
 
 :::info Merk
-Etter å ha ferdigstilt timeplanen for gruppefagene i første skoleuke, vil det være naturlig å timeplanlegge også klassefagene for samme skoleuke. Deretter kan man kopierer resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, systemet vil til enhver tid avdekke dersom kollisjoner oppstår (gjelder lærer, elev og rom).
+Etter å ha ferdigstilt timeplanen for gruppefagene i første skoleuke, vil det være naturlig å timeplanlegge også klassefagene for samme skoleuke. Deretter kan man kopiere resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, systemet vil til enhver tid avdekke dersom kollisjoner oppstår (gjelder lærer, elev og rom).
 :::
 
 ## Kopiering av timeplanen for gruppefag

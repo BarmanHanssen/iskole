@@ -4,7 +4,7 @@ title: Blokk
 sidebar_label: Blokk 
 ---
 ### Hvorfor benytte blokkid?
-Man insnevrer elevers valg av gruppefag, likeså læreres fagsammensetning.
+Man innsnevrer elevers valg av gruppefag, likeså læreres fagsammensetning.
 - Valget begrenses ved at det ikke er mulig for en elev å velge to fag med samme blokkid.
 - En lærer kan ikke tildeles to fag med samme blokkid.
 - Og to fag med samme blokkid kan ikke timeplanlegges til samme tid. 
@@ -29,12 +29,13 @@ Anta at blokkid=2 skal timeplanlegges med fem uketimer. Vi ønsker å plassere e
 - Klikker på _Blokkid_ 2 
 - Klikk på timene på timeplanen.
 
-I bildet over har vi lagt inn de beskrevene timene for blokkid 2. Blokkid 1 er allerede timeplanlagt med to dobbeltimer. 
+I bildet over har vi lagt inn de beskrevne timene for blokkid 2. Blokkid 1 er allerede timeplanlagt med to dobbeltimer. 
+
 
 #### Trinn
 Trinn henviser til klassetrinnet eleven er tilknyttet. Elever på videregående skole er gjerne fordelt på tre klassetrinn. Her kan vi legge til en ekstra betingelse, nemlig at fag med gitt blokkid bare kan velges dersom eleven befinner seg på angitt trinn.
 
-Dersom blokkid ikke benyttes, kan en elev velge grupppefag på fritt grunnlag blant skolens tilbud. Fagvalget er dog begrenset ved at enkelte fag krever forkunnskaper, eksempelvis kan ikke kjemi 2 velges uten at kjemi 1 allerede er tatt og bestått.
+Dersom blokkid ikke benyttes, kan en elev velge gruppefag på fritt grunnlag blant skolens tilbud. Fagvalget er dog begrenset ved at enkelte fag krever forkunnskaper, eksempelvis kan ikke kjemi 2 velges uten at kjemi 1 allerede er tatt og bestått.
 
 Dersom elevene selv skal kunne velge gruppefag for neste skoleår er fremgangsmåten slik:
 - Neste skoleår må opprettes, se _Grunnlagsdata>Skoleår_. Valgbare grupper må opprettes, gjerne med blokkid og trinn .
@@ -52,7 +53,7 @@ Huk av for fag, og velg hvilke blokkid som skal benyttes, og avslutt med _Lagre_
 
 ### Blokktider klasse
 
-Her fås en nyttig oversikt nå elevens valg av gruppefag er registrert, og gruppefagene er timeplanlagt.
+Her fås en nyttig oversikt når elevens valg av gruppefag er registrert, og gruppefagene er timeplanlagt.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3128651d-a41a-42e8-97ac-71beda745e03)
 

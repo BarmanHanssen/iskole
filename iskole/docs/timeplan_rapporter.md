@@ -4,14 +4,14 @@ title: Rapporter
 sidebar_label: Rapporter
 ---
  
-Rapportene som kan tas ut henter data hovedsakelig fra det som er lagt  inn via meny-valgene fra _Timeplan_, samt det som er registring som elevenes valg av gruppefag.
+Rapportene som kan tas ut henter data hovedsakelig fra det som er lagt inn via menyvalgene fra _Timeplan_, samt det som er registrert som elevenes valg av gruppefag.
 
 Alle rapporter kan tas ut i pdf-format, og noen utvalgte også som regneark. Regneark er beste valg dersom man ønsker å kunne redigere resultat, eksempelvis sortere innholdet på egen hånd.
 
 ## Blokktimer klasse
 <img width="925" height="303" alt="image" src="https://github.com/user-attachments/assets/7d82617e-95ec-47c1-a3bd-0baa30537b9c" />
 
-Rapporten viser dager og timer hvor noen av klassens elever har undervisning i gruppefag. Datagrunnlaget er hentet fra hva som er lagret som elevens gruppefag (se _Elevadmin.>Fag_) og hva som er timeplanlagt av gruppefag (se_Timeplan>Gruppper_). Tallene i parentes viser hvor mange av klassens elever som er deltar i hver av timene, eventuelt elever fra andre klasser er ikke medregnet. Rapporten viser ikke om det er et eller flere gruppefag som inngår. Eksempel: Elevene i klassen er delt i matematikk (praktisk/teoretisk). Dersom gruppene undervises parallelt i en time, vil tallet vise summen av elevene, uten henvisning til at det er to gruppers elever som inngår.
+Rapporten viser dager og timer hvor noen av klassens elever har undervisning i gruppefag. Datagrunnlaget er hentet fra hva som er lagret som elevens gruppefag (se _Elevadmin.>Fag_) og hva som er timeplanlagt av gruppefag (se _Timeplan>Grupper_). Tallene i parentes viser hvor mange av klassens elever som deltar i hver av timene, eventuelt elever fra andre klasser er ikke medregnet. Rapporten viser ikke om det er et eller flere gruppefag som inngår. Eksempel: Elevene i klassen er delt i matematikk (praktisk/teoretisk). Dersom gruppene undervises parallelt i en time, vil tallet vise summen av elevene, uten henvisning til at det er to gruppers elever som inngår.
 Men på klassens timeplan (se _Mine sider>Timeplan>Klassetimeplan_) vil det fremgå hvilke grupper som inngår i hver av timene.
 
 ## Matrise gruppefag 
@@ -33,10 +33,10 @@ Rapporten summerer timer som er timeplanlagt fra _Grupper_ og _Klasser_ under me
 
 Se skjermbildet ovenfor. Her står gruppen ST1:FR1 1 uten elever og uten timeplan. Gruppen er tydeligvis ikke igangsatt, og burde kanskje vært fjernet fra Grunnlagsdata>Grupper?
 
-**_Omfanget_** er gitt via fagkoden. Fag med fagkode 999999 skal ikke være med på kompentansebevis eller vitnemål og har omfang=0.
-**_Timer_** er sum timeplangte klokketimer.
+**_Omfanget_** er gitt via fagkoden. Fag med fagkode 999999 skal ikke være med på kompetansebevis eller vitnemål og har omfang=0.
+**_Timer_** er sum timeplanlagte klokketimer.
 **_Avlyst/Fradrag_** er korrigeringer faglærer gjør i løpet av skoleåret. 
-**_Sum_** betår da av  _Timer_ minus (_Avlyst_ + _Fradrag_).
+**_Sum_** består da av  _Timer_ minus (_Avlyst_ + _Fradrag_).
 **_Avvik_** er _Sum_ minus _Omfang_.
 
 Dersom noen fag er delt (altså har komponenter), vises en oversikt helt til slutt:
@@ -54,7 +54,7 @@ Rapporten lister alle fag som ikke har blitt tildelt rom i alle timeplanlagte ti
 ## Timeplanlagte timer uten lærer
 ![bilde](https://github.com/user-attachments/assets/6b7a0be4-84ae-45e0-9702-2008717a853b)
 
-Merk at denne rapporten bare gir mening når den tas ut i inneværende skoleår. I eksemplet ovenfor er vi i skoleåret 2024-25, og utskrift planlegges tatt ut i uke 25. Her visese timer i fag som  er timeplanlgt uten lærer fra om med uke 25 og ut skoleåret. Sluttdato er bestemt ut fra siste skoledag i følge skoleruten. (Se _Mine sider>Skolerute_.)
+Merk at denne rapporten bare gir mening når den tas ut i inneværende skoleår. I eksemplet ovenfor er vi i skoleåret 2024-25, og utskrift planlegges tatt ut i uke 25. Her vises timer i fag som er timeplanlagt uten lærer fra og med uke 25 og ut skoleåret. Sluttdato er bestemt ut fra siste skoledag i følge skoleruten. (Se _Mine sider>Skolerute_.)
 
 ## Prøver
 Her fås oversikt over alle prøver som er registrert, forutsatt at publiseringsdatoen ikke setter stopp for visningen.
@@ -71,5 +71,5 @@ Her fås prøver som er lagt inn med varighet på en dag, eller mer.
 Her fås alle prøver som er registrert, også heldagsprøver.
 
 ## Elevkollisjoner
-I utgangspunktet skal timeplanen legges slik at det ikke forkommer kollisjoner på en elevs timeplan.
+I utgangspunktet skal timeplanen legges slik at det ikke forekommer kollisjoner på en elevs timeplan.
 Det er imidlertid åpnet for å kunne timeplanlegge med kollisjoner på elevens timeplan. Det er timeplanlegger som eventuelt kan godkjenne en kollisjon. Rapporten viser dato og tid og hvilke fag på elevens timeplan som er timeplanlagt på samme tid. Dersom kollisjon må det avtales med eleven hvilket fag som skal følges.
