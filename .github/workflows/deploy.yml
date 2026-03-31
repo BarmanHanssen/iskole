@@ -1,5 +1,9 @@
 name: Deploy Docusaurus to GitHub Pages
 
+# This workflow lives in the gh-pages branch (the default branch).
+# - workflow_dispatch: can be triggered manually from the Actions tab.
+# - push to master: works once this workflow file is also merged into master.
+# GitHub Pages source must be set to "GitHub Actions" in repository Settings → Pages.
 on:
   push:
     branches:
@@ -21,6 +25,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # Always build from the master branch where the Docusaurus source lives,
+          # even when this workflow is triggered from the gh-pages default branch.
+          ref: master
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
