@@ -13,5 +13,5 @@ Herfra kan man justere antall skoledager samt legge til, eller fjerne, planleggi
 Det er mulig å inkludere også enkelte lørdager og søndager som skoledager. Slike dager kan også timeplanlegges og er i så måte likestilt med alle andre dager. 
 
 :::caution Merk
-Det er mulig å endre skoleruten etter at skoleåret er startet. Dersom en skoledag endres til fridag, vil timeplanen slettes for denne dagen. Tilsvarende vil en fridag som endres til skoledag måtte timeplanlegges. 
+Det er mulig å endre skoleruten etter at skoleåret er startet. Dersom en skoledag endres til fridag, vil timeplanen ikke vises for denne dagen. Dersom en fridag endres til skoledag vil timeplanen komme frem igjen. 
 :::
