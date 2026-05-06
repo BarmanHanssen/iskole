@@ -33,9 +33,8 @@ burde nedtones. Benytt gjerne e-postadressen som står på tittelsiden.
 ## Sentrale begreper
 Vi starter med å se på sentrale begreper som benyttes i manualen.
 
-### Planperiode
-Vi omtaler et skoleår som en planperiode. Planperioden er vanligvis fra 1. august til og 
-med 31. juli året etter. Vi benytter skoleruten (se _Grunnlagsdata>Skolerute_) til å 
+### Skoleår
+Skoleåret start1. august og varer til med 31. juli året etter. Vi benytter skoleruten (se _Grunnlagsdata>Skolerute_) til å 
 markere hvilke dager som er skoledager, planleggingsdager og aktivitetsdager. Øvrige dager er fridager. 
 Elevene kan logge seg inn i iSkole i planperioden hvor de er registrert som elev, helt fram til 31. juli
 dersom de ikke avslutter før denne datoen. Ansatte har tilgang til iSkole helt til de slutter.
@@ -143,7 +142,7 @@ mulig er at
 
 1. Alle klassene er registrert i _Grunnlagsdata > Klasse_.
 1. Hver klasse er satt opp med alle sine fag i _Grunnlagsdata > Fag>klassefag_.
-1. Gjeldende start- og slutt-tider for undervisningen er på plass, se _Timeplan > Timer_.
+1. Gjeldende start- og sluttider for undervisningen er på plass, se _Timeplan > Timer_.
 1. Årets gruppefagene er registrert i _Time- og fagfordeling > Gruppefag_.
 1. Alle rom hvor det skal foregå undervisning er registrert i _Grunnlagsdata > Rom_.
 1. Elevene er registrert i sine respektive klasser.
