@@ -112,7 +112,7 @@ Typisk eksempel: En språkgruppe i spansk opprettes for elever med ulik forhånd
 #### Eksempel 3: Kan være aktuelt for klassefag hvor noen elever skal ha egen støttelærer (IOP?).
 - Dersom elevene det gjelder har egen støttelærere i noen, eller alle timene i faget, og er sammen med klassen i alle fagets timer: Løses uten bruk av komponenter! Bruk ekstralærer i disse timene! Om ønskelig kan ekstra rom båndlegges som alternativt benyttes i disse timene. 
 
-- Dersom elevene det gjelder har egen støttelærere, men er sammen med klassen i noen av fagets timer og har noen timer adskilt: Faget fjernes som klassefag og flyttes til gruppefag. Gruppefaget tildeles alle elevene i klassen og timeplanlegges der alle er samlet. Det opprettes en komponent til faget (se Grunnlagsdata>Fag), og to grupper for komponenten (se _Grunnlagsdata>Grupper_).  Elevene uten støttelærer plasseres i gruppe 1, de øvrige i gruppe 2. Gruppene kan da timeplanlegges separat. Gruppe 2's timeplan vil da kunne kollidere med klassens timeplan, men det er ok og kan godkjennes. 
+- Dersom elevene det gjelder har egene støttelærere, men er sammen med klassen i noen av fagets timer og har noen timer adskilt: Faget fjernes som klassefag og flyttes til gruppefag. Gruppefaget tildeles alle elevene i klassen og timeplanlegges der alle er samlet. Det opprettes en komponent til faget (se Grunnlagsdata>Fag), og to grupper for komponenten (se _Grunnlagsdata>Grupper_).  Elevene uten støttelærer plasseres i gruppe 1, de øvrige i gruppe 2. Gruppene kan da timeplanlegges separat. Gruppe 2's timeplan vil da kunne kollidere med klassens timeplan, men det er ok og kan godkjennes. 
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
  
