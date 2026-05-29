@@ -16,7 +16,7 @@ Klassefaget ST2 NOR er her tildelt klassene ST2A og ST2B. Gruppefagene tildeles 
 Registrering/endring av fag er knyttet til skoleåret som er valgt. Ved nytt skoleår kan det være greit å slette fag som en vet ikke vil bli brukt. Å slette et fag for dette skoleåret, har ingen innvirkning på andre skoleårs datagrunnlag.
 
 ### Fag og fagkoder
-Klasse- og gruppefag skal ha en fagkode. Alle fag som skal timeplanlegges, og som skal tilbys elevene, i dette skoleåret må være registrert her. Men et faget blir ikke tilgjengelig for timeplanlegger, eller elev, før det blir registrert under menyvalget _Klasser_ og/eller _Grupper_. 
+Klasse- og gruppefag skal ha en fagkode. Alle fag som skal timeplanlegges, og som skal kunne tilbys elevene, må være registrert her. Men et faget blir ikke tilgjengelig for timeplanlegger, eller elev, før det blir registrert under menyvalget _Klasser_ og/eller _Grupper_. 
 
 Med denne todelingen av fag (i klasse- og gruppefag) kan hver elev få registrert akkurat sine fag. Og med elevenes fagvalg på plass har timeplanlegger full kontroll på at timeplanen kan legges uten kollisjon på elevens timeplan.
 
