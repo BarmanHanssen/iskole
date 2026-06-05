@@ -13,3 +13,7 @@ Det er mulig å begrunne karakterene under fanene _Begrunnelse 1. halvår_ og _�
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/33736d09-60ac-4750-8b78-54068784794e)
 
 For å få frem detaljer: Klikk på ikonet under kolonnen _Vis_.
+
+:::tip Publisering for elevene
+Karakterene for orden og oppførsel publiseres samtidig med karakterer i fag. Tidspunkt vises nederst i skjermbildet.
+:::
