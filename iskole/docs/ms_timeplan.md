@@ -35,6 +35,8 @@ Her vises alle klasse- og gruppefag eleven følger, med faglærer og eventuelle 
 ## Klassetimeplan
 Nedtrekkslisten inneholder skoleårets klasser. Timeplanlagte gruppefag med minst en elev fra valgte klasse kommer også med på utskriften. Klassefag kommer på blå bakgrunn og gruppefag med elever fra klassen vises på grønn bakgrunn.
 
+Ved å klikke på en timeplanlagt time fås flere data om timen.
+
 ### Faglærere
 Knappen viser en liste med alle klassens faglærere, altså også faglærere i gruppefag som elevene måtte ha i sin fagkrets.
 
