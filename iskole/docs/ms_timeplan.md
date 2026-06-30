@@ -33,7 +33,9 @@ Dersom faglærer har lagt inn ukeplan for gjeldende uke, vil planen i faget vise
 Her vises alle klasse- og gruppefag eleven følger, med faglærer og eventuelle tolærere.
 
 ## Klassetimeplan
-Nedtrekkslisten inneholder bare klasser som har fått timer lagt ut på timeplanen. Klassefag kommer på blå kant og gruppefag har grønn. Bare gruppefag som minst en elev i klassen har valgt kommer med. 
+Nedtrekkslisten inneholder skoleårets klasser. Timeplanlagte gruppefag med minst en elev fra valgte klasse kommer også med på utskriften. Klassefag kommer på blå bakgrunn og gruppefag med elever fra klassen vises på grønn bakgrunn.
+
+Ved å klikke på en timeplanlagt time fås flere data om timen.
 
 ### Faglærere
 Knappen viser en liste med alle klassens faglærere, altså også faglærere i gruppefag som elevene måtte ha i sin fagkrets.

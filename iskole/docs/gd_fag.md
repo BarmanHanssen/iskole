@@ -16,9 +16,9 @@ Klassefaget ST2 NOR er her tildelt klassene ST2A og ST2B. Gruppefagene tildeles 
 Registrering/endring av fag er knyttet til skoleåret som er valgt. Ved nytt skoleår kan det være greit å slette fag som en vet ikke vil bli brukt. Å slette et fag for dette skoleåret, har ingen innvirkning på andre skoleårs datagrunnlag.
 
 ### Fag og fagkoder
-En bestemt fagkode kan forekomme både som klasse- og gruppefag. Alle fag som skal tilbys elevene i dette skoleåret må altså være registrert her, men et faget registrert her må ikke nødvendigvis bli registrert under menyvalgene _Klasser_ eller _Grupper_. 
+Klasse- og gruppefag skal ha en fagkode. Alle fag som skal timeplanlegges, og som skal kunne tilbys elevene, må være registrert her. Men et faget blir ikke tilgjengelig for timeplanlegger, eller elev, før det blir registrert under menyvalget _Klasser_ og/eller _Grupper_. 
 
-Med denne todelingen av fag (klasse- og gruppefag) kan hver elev få registrert akkurat sine fag. Og med elevenes fagvalg på plass kan timeplanen legges uten kollisjon for elevene.
+Med denne todelingen av fag (i klasse- og gruppefag) kan hver elev få registrert akkurat sine fag. Og med elevenes fagvalg på plass har timeplanlegger full kontroll på at timeplanen kan legges uten kollisjon på elevens timeplan.
 
 ### Slik ser oversikten over klassefag ut
 
@@ -49,7 +49,7 @@ Følgende skjermbilde vises:
 Når timeplan er lagt for hele skoleåret kan rapporten _Timeplan>Rapporter>Sum undervisning_ tas ut for kontroll. Her blir samtlige timeplanlagte timer i faget summert ut fra hver times lengde, resultatet vises i klokketimer og kan da sammenliknes med fagets omfang. 
 
 ### Karakterdokumentasjon
-- _Fagkode_: Alle fag i grunnskolen og i videregående skole som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klare for bruk. Trykk _Endre fagkode_, så får du opp en overveldende lang liste! For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden (eller deler av navn eller del av fagkoden). Unntaket er koden 999999 som vi bruker for fag som skal på timeplanen, men ikke skal tas med på karakterutskrifter. Slike fag kan være en komponent av et fag med UDIR-fagkode. Mer om komponenter nedenfor.
+- _Fagkode_: Alle fag i grunnskolen og i videregående skole som skal dokumenteres via kompetansebevis eller vitnemål,  har en egen fagkode. Fagets fagkode (og fagplan med mere) er bestemt av Udir, og iSkole har alle fagene liggende klare for bruk. Trykk _Endre fagkode_, så får du opp en overveldende lang liste! For å begrense innholdet i nedtrekkslisten: Tast inn navnet på faget, eller fagkoden (eller deler av navn eller del av fagkoden). Unntaket er koden 999999 som vi bruker for fag som skal på timeplanen, men ikke skal tas med på vitnemål eller kompetansebevis. Slike fag kan være en komponent av et fag som har UDIR-fagkode. Mer om komponenter nedenfor.
 
 :::info Merk 
 Fagkoder for Steinerskolene har RS i posisjon 3 og 4, altså xxRSxxx. Steinerskolene kan endre omfanget på sine fag. Det kan ingen andre skoler gjøre.
@@ -110,9 +110,9 @@ Faget deles slik at hver del skal kunne ha alle elevene i klassen, men med egen 
 Typisk eksempel: En språkgruppe i spansk opprettes for elever med ulik forhåndskompetanse. De undervises noen timer samlet, her er faget registrert med fagkoden til majoriteten av elevene (se _Grunnlagsdata>Fag_. At noen elever skal ha en annen fagkode enn majoriteten, legges inn fra _Elevadmin.>Karakterer_). I andre timer er de delt ut fra forhåndskompetanse. Dette løses ved å registrere en komponent til faget. Komponenten har fagkoden 999999, og knyttes altså til den opprinnelige spansk-gruppen. Det opprettes to grupper for komponenten (se _Grunnlagsdata>Grupper_). I grupppe 1 kan elevene med størst forhåndskompetansen registreres, og de resterende i gruppe 2. De to gruppene skal undervises på samme tid.
 
 #### Eksempel 3: Kan være aktuelt for klassefag hvor noen elever skal ha egen støttelærer (IOP?).
-- Dersom elevene det gjelder har egen støttelærere i noen, eller alle timene i faget, og er sammen med klassen i alle fagets timer: Løses uten bruk av komponenter! Bruk ekstralærer i disse timene! Om ønskelig kan ekstra rom båndlegges som alternativt benytter i disse timene. 
+- Dersom elevene det gjelder har egen støttelærere i noen, eller alle timene i faget, og er sammen med klassen i alle fagets timer: Løses uten bruk av komponenter! Bruk ekstralærer i disse timene! Om ønskelig kan ekstra rom båndlegges som alternativt benyttes i disse timene. 
 
-- Dersom elevene det gjelder har egen støttelærere, men er sammen med klassen i noen av fagets timer og har noen timer adskilt: Faget fjernes som klassefag og flyttes til gruppefag. Gruppefaget tildeles alle elevene i klassen og timeplanlegges der alle er samlet. Det opprettes en komponent til faget (se Grunnlagsdata>Fag), og to grupper for komponenten (se _Grunnlagsdata>Grupper_).  Elevene uten støttelærer plasseres i gruppe 1, de øvrige i gruppe 2. Gruppene kan da timeplanlegges separat. Gruppe 2's timeplan vil da kunne kollidere med klassens timeplan, men det er ok og kan godkjennes. 
+- Dersom elevene det gjelder har egene støttelærere, men er sammen med klassen i noen av fagets timer og har noen timer adskilt: Faget fjernes som klassefag og flyttes til gruppefag. Gruppefaget tildeles alle elevene i klassen og timeplanlegges der alle er samlet. Det opprettes en komponent til faget (se Grunnlagsdata>Fag), og to grupper for komponenten (se _Grunnlagsdata>Grupper_).  Elevene uten støttelærer plasseres i gruppe 1, de øvrige i gruppe 2. Gruppene kan da timeplanlegges separat.
 
 ![bilde](https://github.com/BarmanHanssen/iskole/assets/80097133/a2dc278b-7b08-4820-b642-9c7b0c4bf201)
  
