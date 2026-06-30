@@ -34,7 +34,7 @@ Dersom man har behov for å skrive ut etiketter til maskinene finnes det ulike v
 - Etikett-mal - LBX-fil. Kan benyttes med f.eks. Brother P-touch editor. Velg de maskinene du vil ha etikett for, klikk _Eksporter CSV_. Klikk _Etikett-mal_ for å laste ned malen. Når du åpner malen blir du bedt om å angi kildefil, velg da den nedlastede CSV-filen. I editoren kan du selv endre etikettstørrelse, endre layout og velge andre kolonner fra csv-filen. Spar på malen, du kan senere laste ned nye csv-filer og velge disse som datakilde.
 
 :::warning Merk
-Angi skolens navn på etiketten. 
+Ved bruk av etikettmal - Husk å angi skolens navn på etiketten. 
 :::
 
 ### Utlån
