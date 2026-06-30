@@ -11,23 +11,33 @@ PC-registeret åpner for å lagre data om alle skolens datamaskiner. Utlån kan 
 
 De to arkfanene beskrives under.
 
-### Register og utlån
+## Register og utlån
 Skjermbildet viser en tabell med alle skolens registrerte datamaskiner. Man kan registrere nye PCer enten ved å legge dem til via knappen «Legg til» eller importere data fra en fil. For å importere fra fil må man trykke på ikonet «Importer fra fil» til høyre over tabellen.
 
 ![bilde](/img/utl_pcregister_register_og_utlaan_oversikt.png)
 ![bilde](/img/utl_pcregister_register_og_utlaan_import_fra_fil.png)
 
-#### Funksjoner
+### Funksjoner
 
 De funksjonene man har tilgjengelig i skjermbidet kan aktiveres ved å benytte knappene over tabellen. Knappene er lagt i to rader hvor den første raden gjelder _låneobjekter_, dvs. PCene i registeret. Andre knapperad gjelder _utlån_ av PCer til ansatte og elever.
 
-#### Låneobjekter
+### Låneobjekter
 
 Skulle en PC gå i stykker og derfor tas ut av registeret kan det registreres fra knappen «Tapt/kassert». PCen får da en merkelapp på seg om at den ikke er tilgjengelig for utlån lenger. Den forsvinner ikke fra registert, men er ikke synlig i tabellen. Om man ønsker det kan man inkludere tapte/kasserte PCer i utlistingen i tabellen ved å trykke på ikonet «Vis alle» lengst til venstre på den øverste knapperaden.
 
 Hvis en PC som var tapt/kassert skulle bli reparert og ønsket gjort tilgjengelig for utlån igjen, så kan man markere PCen i listen og trykke på ikonet «Tilbakefør». Ikonet «Vis historikk» viser utlånshistorikken til en PC.
 
-#### Utlån
+#### Etiketter
+Dersom man har behov for å skrive ut etiketter til maskinene finnes det ulike valg. 
+- 3x8 - PDF på A4 format. Kan skrives ut på vanlig skriver og etikettark. Ulempe: Vanskelig å utnytte arkene.
+- 90x29 mm - PDF på angitt format. En side per maskin. Skrives ut på en etikett-printer tilpasset dette formatet.
+- Etikett-mal - LBX-fil. Kan benyttes med f.eks. Brother P-touch editor. Velg de maskinene du vil ha etikett for, klikk _Eksporter CSV_. Klikk _Etikett-mal_ for å laste ned malen. Når du åpner malen blir du bedt om å angi kildefil, velg da den nedlastede CSV-filen. I editoren kan du selv endre etikettstørrelse, endre layout og velge andre kolonner fra csv-filen. Spar på malen, du kan senere laste ned nye csv-filer og velge disse som datakilde.
+
+:::warning Merk
+Angi skolens navn på etiketten. 
+:::
+
+### Utlån
 
 Ønsker man å levere ut en PC, må PCen markeres i tabellen, og man trykker deretter på knappen «Utlever». Man får da frem en dialog for å velge hvem man skal levere den ut til. Ved å velge ønsket person, så lukkes dialogen og det kommer frem en dialog for å registrere utlånet og eventuelt sette en dato for retur av PCen.
 
@@ -37,7 +47,7 @@ Ved å trykke på knappen «Endre utlån» får man frem en dialog hvor man kan 
 
 Om en ansatt eller elev skulle få tilbud om å kjøpe PCen, så kan det registreres ved å velge PCen i tabellen og trykke på knappen «Kjøp fri». Man får da frem en dialog for å bekrefte at PCen skal kjøpes fri.
 
-### Oversikt
+## Oversikt
 
 I arkfanen for oversikt kan man liste ut fire lister med informasjon om:
 
