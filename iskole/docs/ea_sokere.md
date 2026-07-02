@@ -17,11 +17,36 @@ mange søkere samtidig.
 
 ![Søkerlisten](/img/soker_oversikt.png 'Søkerlisten')
 
-Øverst til høyre velger du skoleår. Listen viser alle søknader for valgt
-skole og skoleår, med program, navn, fødselsdato, gjeldende status (med
-farge), når statusen sist ble endret, antall plasser på tilbudet, hvor
-mange som er tatt inn, samt klasse (for søkere som allerede er plassert)
-og hybel.
+<!-- TODO skjermbilde: reta soker_oversikt.png (2026-27) — kolonnelayouten
+     er endret: stablede celler, Inntak, Kontakt, Opprettet, Poeng og
+     sorteringsvelger. Tas med Playwright når siden er mer ferdig. -->
+
+Øverst til høyre velger du skoleår. Listen er komprimert slik at mye
+informasjon får plass uten sidescrolling — flere kolonner har en primær-
+og en sekundærlinje:
+
+- **Program** — kode og navn samlet («BABAT1 – Bygg- og anleggsteknikk»).
+- **Inntak** — opptatte plasser av konsesjonen (se under).
+- **Søker** — navn med fødselsdato og alder på linjen under. Et flagg-ikon
+  markerer fortrinnsrett (når skolen bruker det), og en blå
+  **«Tidl. elev»-merkelapp** viser at søkeren har vært elev ved skolen
+  før — hold musen over for å se hvilke skoleår.
+- **Status** — gjeldende status, med samme farger som statusstripen.
+- **Opprettet** — når søknaden ble sendt inn — og **Endret** — siste
+  statusendring.
+- **Poeng, Klasse**, (etter skolens oppsett) **Internat/Hybel**, og
+  **Fylke** sist — fylket har særlig betydning for skoler med botilbud.
+
+E-post, telefon og merknader vises ikke i listen — de finnes i
+detaljpanelet og i Rapport egendefinert.
+
+Etter status-chipsene ligger **egenskapsfiltre** med egen, nøytral stil:
+**Fortrinnsrett**, **Tidligere elev** og (for hybelskoler) **Hybel** —
+med antall. De kan kombineres med program, søk og statusfilter, og er
+nyttige for å prioritere i inntaket.
+
+<!-- TODO skjermbilde: statusstripen med egenskapsfiltrene, gjerne ett
+     aktivt (2026-27). -->
 
 **Statusstripen** rett under filtrene viser hvor mange søknader som står i
 hver status. Klikk på en status for å filtrere listen til bare de
@@ -33,6 +58,13 @@ søknadene — klikk igjen for å slå av. Telleren til høyre viser alltid
 **Program**-nedtrekket avgrenser til ett utdanningsprogram, og **Søk på
 navn** filtrerer mens du skriver (fornavn eller etternavn).
 
+**Sortering**-velgeren ved siden av søkefeltet sorterer listen: standard
+(program), **Opprettet** (eldste eller nyeste først) eller **sist
+endret**. Opprettet-sorteringen er laget for grunnskole-inntak, der
+søkerne ikke rangeres og tidspunktet søknaden kom inn er avgjørende.
+
+<!-- TODO skjermbilde: sorteringsvelgeren åpen med valgene (2026-27). -->
+
 ### Inntak-kolonnen
 
 **Inntak** hører til programmet og viser **opptatte plasser av
@@ -41,6 +73,10 @@ er besvart eller plassert. Merket blir gult når programmet nærmer seg
 fullt (fra 80 %) og rødt når alle plassene er tildelt.
 
 ![Inntak-kolonnen](/img/soker_inntak.png 'Inntak — opptatt av konsesjon')
+
+<!-- TODO skjermbilde: reta soker_inntak.png (og soker_filter.png,
+     soker_detalj.png) — tabellayouten er endret etter at bildene ble
+     tatt. Tas samlet med Playwright. -->
 
 Systemet håndhever konsesjonen: når alle plassene er tildelt, avvises nye
 tilbud — både enkeltvis og i bulk — med beskjed om hvor mange som er
@@ -187,6 +223,15 @@ av hvem som skal med. Filtrene (program, søk) virker som normalt, så du
 kan for eksempel avgrense til ett program før du velger alle.
 
 ![Bulk: gi tilbud](/img/soker_bulk_tilbud.png 'Bulk — kandidater valgt')
+
+For grunnskoler, der søkerne ikke rangeres og tidspunktet søknaden kom
+inn er avgjørende, finnes en snarvei: med programfilter valgt viser
+banneret **«Velg de N første»** — den krysser av de eldste søknadene
+(fortrinnsrett først, deretter opprettet-tidspunkt) inntil de ledige
+plassene er fylt. Kontroller utvalget og trykk Kjør.
+
+<!-- TODO skjermbilde: bulk-banneret med «Velg de N første»-knappen og
+     utvalget fylt (2026-27, gjerne et grunnskoleprogram). -->
 
 **Kjør** åpner en oppsummering før noe skjer:
 
