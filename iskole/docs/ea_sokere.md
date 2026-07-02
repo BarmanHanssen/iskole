@@ -115,6 +115,15 @@ er innhold (foresatte, statusendringer, vedlegg, spørsmål/svar).
 - **Vurdering** — poengsum, poeng fra karakterer, rettstype, merknad fra
   søkeren og skolens egen merknad.
 
+**Foreldre**-fanen viser et kort per forelder med navn, adresse og
+kontaktinformasjon. Kortene redigeres med blyanten (navn, e-post, mobil,
+telefon, adresse og om forelderen skal **varsles på e-post**), og mangler
+en forelder kan den legges til. Som med personalia låses kortene når
+søkeren er plassert i klasse.
+
+<!-- TODO skjermbilde: Foreldre-fanen med ett kort i redigeringsmodus
+     (2026-27). -->
+
 **Behandling**-fanen viser hele statushistorikken for søknaden — hvert
 steg med tidspunkt og hvem som gjorde endringen. Rader med e-postvarsel
 kan åpnes for å se hva som ble sendt.
@@ -122,8 +131,16 @@ kan åpnes for å se hva som ble sendt.
 ![Statushistorikk](/img/soker_behandling.png 'Behandling — statushistorikk')
 
 **Vedlegg**-fanen lister dokumentene søkeren har lastet opp
-(karakterutskrifter, legeerklæringer osv.) med nedlasting, og **Fagvalg**
-og **Spørsmål/svar** viser søkerens valg og svar fra søknaden.
+(karakterutskrifter, legeerklæringer osv.). Skolen kan **laste ned**,
+**laste opp** egne vedlegg (med dokumenttype), **slette** (med
+bekreftelse — kopier i elevmappen påvirkes ikke) og **arkivere
+enkeltvedlegg til elevmappen** når søkeren er plassert i klasse.
+
+<!-- TODO skjermbilde: Vedlegg-fanen med verktøylinjen og
+     opplastingsdialogen (2026-27). -->
+
+**Fagvalg** og **Spørsmål/svar** viser søkerens valg og svar fra
+søknaden.
 
 ## Arbeidsflyt: endre status
 
