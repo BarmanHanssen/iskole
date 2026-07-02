@@ -33,6 +33,20 @@ søknadene — klikk igjen for å slå av. Telleren til høyre viser alltid
 **Program**-nedtrekket avgrenser til ett utdanningsprogram, og **Søk på
 navn** filtrerer mens du skriver (fornavn eller etternavn).
 
+### Inntak-kolonnen
+
+**Inntak** hører til programmet og viser **opptatte plasser av
+konsesjonen**: elever som er tatt inn *pluss* aktive tilbud som ennå ikke
+er besvart eller plassert. Merket blir gult når programmet nærmer seg
+fullt (fra 80 %) og rødt når alle plassene er tildelt.
+
+![Inntak-kolonnen](/img/soker_inntak.png 'Inntak — opptatt av konsesjon')
+
+Systemet håndhever konsesjonen: når alle plassene er tildelt, avvises nye
+tilbud — både enkeltvis og i bulk — med beskjed om hvor mange som er
+inntatt eller har aktivt tilbud. Plasser frigjøres når tilbud avslås,
+søknader trekkes eller søkere avvises.
+
 Fanene øverst gir i tillegg:
 
 - **Søknader, ikke sendt** — påbegynte søknader som søkeren ikke har
@@ -129,6 +143,32 @@ Poengsum, poeng fra karakterer, rettstype (U — ungdomsrett, V —
 voksenrett, F — fullføringsrett, I — ikke rett) og skolens merknad.
 Vurderingen kan redigeres også etter at søkeren er plassert.
 
+## Flere handlinger
+
+Ved siden av **Endre status** ligger **Flere handlinger** — menyen for de
+tunge operasjonene på én søker. Valgene er bare aktive når de er lovlige
+for søkerens tilstand.
+
+![Flere handlinger](/img/soker_flere_handlinger.png 'Flere handlinger-menyen')
+
+### Plasser i klasse (én søker)
+
+For en søker med akseptert plass som ennå ikke er plassert: velg klasse og
+eventuelt **Kopier søknadsvedlegg til elevmappen**, akkurat som i
+bulk-varianten (se under) — men for denne ene søkeren.
+
+![Plasser i klasse — én søker](/img/soker_plasser_dialog.png 'Plasser i klasse')
+
+### Slett søknad
+
+Sletter søknaden med hele behandlingshistorikken. Er dette søkerens eneste
+søknad, slettes også søkeren med opplastede dokumenter og foresatte —
+handlingen kan ikke angres. Som sperre mot feilklikk må du bekrefte med
+**søkerens fødselsdato**; stemmer den ikke, avvises slettingen. En søker
+som er plassert i klasse kan ikke slettes.
+
+![Slett søknad](/img/soker_slett_dialog.png 'Slett søknad med fødselsdato-bekreftelse')
+
 ## Bulk-handlinger
 
 **Bulk-handling**-knappen over tabellen brukes når mange søknader skal
@@ -193,6 +233,7 @@ kjennetegnes ved at **Klasse**-kolonnen i listen er fylt ut.
 | Venteliste | Søkeren står på venteliste og kan senere få tilbud |
 | Avslått av skolen / Tilbud avslått av søker / Trukket av søker | Avsluttede løp |
 | Kontrakt sendt / Kontrakt signert / Betalt 1. avdrag | Brukes av skoler med kontrakt/skolepenger |
+| Oppsagt | Søkeren har sagt opp plassen etter å ha akseptert — plassen frigjøres i inntakstellingen |
 | Gjenåpnet av skolen | En avsluttet søknad er tatt opp igjen |
 
 Fargene i listen følger samme logikk overalt: grønt for positive
