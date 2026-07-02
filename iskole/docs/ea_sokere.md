@@ -86,9 +86,20 @@ søknader trekkes eller søkere avvises.
 Fanene øverst gir i tillegg:
 
 - **Søknader, ikke sendt** — påbegynte søknader som søkeren ikke har
-  fullført. Nyttig for å følge opp søkere som har stoppet underveis.
+  fullført. Nyttig for å følge opp søkere som har stoppet underveis:
+  søkerens og foreldrenes kontaktinformasjon vises rett i listen.
+  En valgt rad kan **slettes** — som ellers bekreftes slettingen ved å
+  oppgi søkerens fødselsdato, og søkeren med alle opplysninger fjernes
+  permanent.
 - **Interessenter** — personer som har meldt interesse for skolen uten å
-  søke (vises bare hvis skolen bruker interessent-funksjonen).
+  søke (vises bare hvis skolen bruker interessent-funksjonen). Listen
+  viser ønskede program, kontaktinformasjon og om interessenten senere
+  har registrert en søknad (grønn markering). Interessenter som er
+  fulgt opp eller har søkt kan **slettes** fra listen — en eventuell
+  registrert søknad påvirkes ikke.
+
+<!-- TODO skjermbilde: Søknader ikke sendt-fanen og Interessenter-fanen
+     med stablede celler og slett-knapp (2026-27). -->
 - **Rapport egendefinert** — tabellrapport over alle søkere der du selv
   velger hvilke kolonner som skal med (kolonnevelger), og kan eksportere
   til Excel.
