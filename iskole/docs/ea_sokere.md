@@ -176,8 +176,13 @@ ut automatisk — teksten hentes fra skolens statustekst (Grunnlagsdata →
 Søkerportal) og kan redigeres i riktekst-editoren før sending.
 Mottakerne vises med adresse og kan velges av og på enkeltvis, og
 skolens egen adresse ligger klar i **Kopi til**-feltet så dere får
-kontrollkopi av det som sendes. PDF-vedlegg kan legges ved e-posten —
-dra dem inn eller klikk i vedleggsfeltet (bare PDF godtas). For statuser
+kontrollkopi av det som sendes. Har skolen brevmal for
+statusen (inntaksbrev, avslagsbrev eller ventelistebrev i Grunnlagsdata),
+kan **brevet legges ved e-posten** — det flettes for hver enkelt søker,
+med skolens standardvedlegg og eventuelle PDF-vedlegg samlet i én fil.
+**Forhåndsvis brevet** viser nøyaktig hva søkeren får. PDF-vedlegg kan
+legges ved e-posten — dra dem inn eller klikk i vedleggsfeltet (bare PDF
+godtas). For statuser
 som krever varsling er avhukingen forhåndsvalgt. E-posten sendes i
 bakgrunnen kort tid etter statusendringen, og innholdet lagres i
 Behandling-fanen slik at dere alltid kan se hva som ble sendt. Det samme
