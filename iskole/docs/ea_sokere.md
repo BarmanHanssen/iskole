@@ -166,8 +166,22 @@ Eksempel: en søknad som står i «Søknad komplett — venter på inntaksmøte�
 tilbyr **Gi tilbud om skoleplass** (★), **Sett på venteliste**,
 **Avvis søkeren**, **Fortsett behandling** og **Søknad trukket**.
 
-Noen handlinger åpner en e-postdialog slik at søkeren (og eventuelt
-foresatte) varsles om utfallet; teksten kan tilpasses før sending.
+Bekreftelsesdialogen har en varslingsseksjon: huk av **Send e-post til
+søkeren og foreldre med e-varsel**, så fylles emnet og meldingsteksten
+ut automatisk — teksten hentes fra skolens statustekst (Grunnlagsdata →
+Søkerportal) og kan redigeres i riktekst-editoren før sending.
+Mottakerne vises med adresse og kan velges av og på enkeltvis, og
+skolens egen adresse ligger klar i **Kopi til**-feltet så dere får
+kontrollkopi av det som sendes. PDF-vedlegg kan legges ved e-posten —
+dra dem inn eller klikk i vedleggsfeltet (bare PDF godtas). For statuser
+som krever varsling er avhukingen forhåndsvalgt. E-posten sendes i
+bakgrunnen kort tid etter statusendringen, og innholdet lagres i
+Behandling-fanen slik at dere alltid kan se hva som ble sendt. Det samme
+gjelder bulk-handlinger — da får alle de valgte søkerne samme melding,
+og mottakervalget gjøres per rolle (søkeren, forelder 1, forelder 2).
+
+<!-- TODO skjermbilde: statusendrings-dialogen med varslingsseksjonen
+     utfylt (2026-27). -->
 
 Skulle en kollega ha endret søknaden mens du så på den, stoppes
 endringen trygt med beskjed om å laste siden på nytt — ingenting
