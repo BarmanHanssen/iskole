@@ -137,7 +137,11 @@ søkeren er plassert i klasse.
 
 **Behandling**-fanen viser hele statushistorikken for søknaden — hvert
 steg med tidspunkt og hvem som gjorde endringen. Rader med e-postvarsel
-kan åpnes for å se hva som ble sendt.
+har en **Levering**-kolonne som viser om e-posten faktisk ble levert
+(«Levert 4/4»), og **Vis melding** åpner innholdet med status per
+mottaker. Står en adresse som **blokkert**, kan mottakeren ikke nås på
+e-post (adressen har tidligere feilet eller blitt markert som
+søppelpost) — be om ny adresse eller varsle på annen måte.
 
 ![Statushistorikk](/img/soker_behandling.png 'Behandling — statushistorikk')
 
