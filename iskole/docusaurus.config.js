@@ -123,6 +123,11 @@ export default {
         blog: {
           onInlineAuthors: 'ignore',
           onUntruncatedBlogPosts: 'ignore',
+          // 'all' gir feed.json i tillegg til rss/atom — BFF-en
+          // (/bff/ansatt/nyheter) foretrekker JSON-feeden.
+          feedOptions: {
+            type: 'all',
+          },
         },
         theme: {
           customCss: './src/css/custom.css',

@@ -9,8 +9,9 @@ tags: [timeplan]
 ---
 
 
-# Innledning
 Modulene for time- og fagfordeling og timeplan kommer i løpet av kort tid ut med samme type utseende som _Mine sider_ og _Grunnlagsdata_. Skjermbildene blir mer responsive og tilpasset forskjellige skjermstørrelser. Vi har her sammenfattet noen av de viktigste endringene i forbindelse med denne fornyelsen. Etter KL06 ble innført, gikk man bort fra skoletimer og over til klokketimer. 
+
+<!-- truncate -->
 
 ## Time- og fagfordelingen
 ### Klassefag og gruppefag
