@@ -6,4 +6,4 @@ sidebar_label: Karakterer/FAM
 
 Noen fag, eller noen elever, skal ha utfyllende merknader i tillegg til karakteren som gis i faget. Disse karakterer/merknader kan også legges inn på enkeltelever fra  Elevadmin.>Karakterdokumentasjon>Karakterer.
 
-![image](https://user-images.githubusercontent.com/80097133/137298371-f43a1347-75c6-4710-85c6-cc2db0a4ec95.png)
+![Karakterer/FAM](/img/ea_kar_fam.png 'Karakter for fagkode: velg fag, og listen viser elevene som mangler karakter')

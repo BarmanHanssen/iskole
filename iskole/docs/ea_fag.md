@@ -6,6 +6,8 @@ sidebar_label: Fag
  Fra dette valget kan en finjustere fagvalget til enkeltelever.  Fagene til en elev er delt i to grupper: Klassefag og gruppefag.
  
  Ut fra klassetilhørighet finner du først frem eleven som fagvalget skal justeres for.
+
+![Fag — elev og fag](/img/ea_fag.png 'Elevens fag: velg elev til venstre, og arbeid med gruppefag/klassefag i fanene til høyre')
  
 :::info Merk
  En elev kan ta et fag (fag er definert ut fra fagkoden) bare en gang. Altså ikke både som klassefag og gruppefag. Det er heller ikke tillatt å ta samme fag på nytt i et etterfølgende skoleår.
