@@ -3,76 +3,108 @@ id: ea_kardok
 title: Karakterdokumentasjon
 sidebar_label: Karakterdokumentasjon
 ---
-På grunn av all informasjonen som vises og redigeres, vil bare et fåtall brukere få tilgang til dette valget. De utvalgte tilhører brukergruppen _Kontor_ og _Elevinspektør_ (se _Mine sider>Tilgang>Brukere_).
 
-Fagene som vises kommer fra flere kilder. Når en elev tildeles en klasse, får eleven alle klassefagene tildelt. I tillegg kommer eventuelle gruppefag som eleven velger. Fagene akkumuleres, slik at fagene for alle skoleårene vises.
+På grunn av all informasjonen som vises og redigeres her, vil bare et fåtall
+brukere få tilgang til dette valget. De utvalgte tilhører brukergruppene
+*Kontor* og *Elevinspektør* (se *Mine sider > Tilgang > Brukere*).
 
-Dokumentasjon som er samlet her er påkrevd for å kunne skrive ut kompetansebevis og vitnemål til eleven. Herfra kan man gjøre tilføying/endring/tilpasninger dersom det skulle være nødvendig. 
-Standard er at termin- standpunktkarakterer føres inn av faglærer fra Mine sider>Karakterer. Orden og atferd fører kontaktlærer fra Mine sider>Orden/atferd. Kontaktlærer har også ansvar for at fagfraværet blir sluttført, det gjøres fra Mine sider>Fravær (siste post på siden).
+Fagene som vises kommer fra flere kilder: Når en elev plasseres i en klasse,
+får eleven alle klassefagene tildelt, og i tillegg kommer eventuelle
+gruppefag som eleven velger. Fagene akkumuleres, slik at fag fra alle
+skoleårene vises samlet.
 
-For å lette oversikten inneholder skjermbildet flere arkfaner.
+Dokumentasjonen som samles her er påkrevd for å kunne skrive ut
+kompetansebevis og vitnemål til eleven, og herfra kan man gjøre tilføyelser,
+endringer og tilpasninger når det er nødvendig. Standarden er at termin- og
+standpunktkarakterer føres inn av faglærer fra *Mine sider > Karakterer*,
+orden og oppførsel føres av kontaktlærer fra *Mine sider > Orden/atferd*,
+og kontaktlærer har også ansvar for at fagfraværet blir sluttført fra
+*Mine sider > Fravær*.
+
+Du kommer inn via elevsøket, og kan bytte direkte til neste elev fra
+nedtrekkslisten **Bytt elev** øverst — lista husker utvalget fra søket ditt.
+Innholdet er organisert i faner.
 
 :::info Merk
-Her vises alle fag med offisiell fagkode som er registrert på eleven over alle år. Dersom noen fag er fullført på annen skole som benytter iSkole, vises skolenummeret til skolen i kolonne 2. Det er ikke mulig å gjøre andre endringer på fag avlagt på annen skole enn å utelukke det fra utskrift på kompetansebevis/vitnemål.
+Her vises alle fag med offisiell fagkode som er registrert på eleven,
+over alle år. Fag som er fullført ved en annen skole som benytter iSkole,
+vises med skolenummeret til den andre skolen. På slike fag kan du ikke
+gjøre andre endringer enn å utelate dem fra utskrift av
+kompetansebevis/vitnemål.
 :::
 
 ## Karakterer
-![image](https://user-images.githubusercontent.com/80097133/137099248-494d2ad0-fa97-4bee-9d28-38415adb7194.png)
 
-### Ikonene til høyre på skjermbildet:
+![Karakterer-fanen](/img/ea_kardok_karakterer.png 'Elevens fag med karakterer, og verktøylinjen for endringer')
 
-![image](https://user-images.githubusercontent.com/80097133/136935122-e69f2f0b-4780-44b6-9d66-7e6a884d784c.png)
+Fanen viser elevens fag per skoleår med omfang, status, karakterer for
+1. og 2. halvår, standpunkt og eksamen. Marker en rad for å bruke knappene
+i verktøylinjen:
 
-Dersom eleven kan dokumentere fag tatt ved annen skole, og dette faget ønskes med på vitnemål/kompetansebevis, kan det legges til herfra. For å få lagt inn et fag eksempelvis tatt våren 2015 ved en annen skole, må først eleven registreres i en klasse i planperioden 2014-15 på nåværende skole (se Elevadmin.>Elev +Ny...). En kan opprette en egen klasse for slike tilfeller, en klasse uten fag (fra Grunnlagsdata>KLasse), og bruke denne klassen som innfallsport for alle elever, uansett studieretning og klassetrinn, som skal få lagt inn avgangsfag fra annen skole.
-
-![image](https://user-images.githubusercontent.com/80097133/137087920-672ad919-195d-4c67-a7df-4ad43b497781.png)
-
-Det er som regel faglærer som setter karakterene på sine fag, unntatt eksamenskarakterer. I tillegg vil de som tilhører brukergruppen Kontor kunne føre inn alle karakterer. Når en karakter først er innført, og lagret, er det kun to personer ved skolen som kan endre den: rektor og Karakteransvarlig (se Mine sider>Tilgang>Nøkkelpersoner). Endringer blir loggført, se fanen _Karakter endret av_.
-
-![image](https://user-images.githubusercontent.com/80097133/137087613-4f46fe53-1469-4d92-a336-a77cfb727666.png)
-
-Alle fag hvor det er innført standpunkt- og/eller eksamenskarakter blir tatt med ved utskrift av vitnemål og kompetansebevis. Dersom et fag ikke skal med, kan en markere det her.
-
-![image](https://user-images.githubusercontent.com/80097133/137088788-c555c6dc-a5c2-440d-a2f5-17c940bed3b9.png)
-
-Dersom et fag skal ha en FAM-merknad kan den legges til her.
-
-![image](https://user-images.githubusercontent.com/80097133/137089305-48384170-3aad-439d-8e1a-f1af56e6cf4a.png)
-
-Dersom ny eller utsatt prøve, eller særskilt prøve, er avlagt på høsten, skal det registreres her.
-
-![image](https://user-images.githubusercontent.com/80097133/137092437-1ab1a3bc-ac8e-4f10-9397-879220024cf2.png)
-
-Det er bare Karakteransvarlig som kan slette et fag herfra. 
+- **Legg til fag…** — legger til et fag på eleven, for eksempel et fag
+  dokumentert fra en annen skole som skal med på vitnemål/kompetansebevis.
+  For å legge inn et fag tatt et tidligere skoleår må eleven først være
+  registrert i en klasse i den planperioden (se [Elev](/docs/ea_elev)).
+  Et tips er å opprette en egen klasse uten fag (fra *Grunnlagsdata >
+  Klasse*) som brukes som innfallsport for alle slike elever, uavhengig av
+  studieretning og klassetrinn.
+- **Endre…** — fører eller endrer karakterene på faget. Det er som regel
+  faglærer som setter karakterene på sine fag, unntatt eksamenskarakterer;
+  i tillegg kan brukergruppen *Kontor* føre alle karakterer. Når en
+  karakter først er lagret, er det kun to personer ved skolen som kan endre
+  den: rektor og *Karakteransvarlig* (se *Mine sider > Tilgang >
+  Nøkkelpersoner*). Endringer loggføres, se fanen *Karakter endret av*.
+- **Fagmerknad…** — legger til en FAM-merknad på faget.
+- **Karakterstatus høst…** — registrerer ny, utsatt eller særskilt prøve
+  som er avlagt på høsten.
+- **Slett…** — fjerner faget. Det er bare *Karakteransvarlig* som kan
+  slette et fag herfra.
+- **Utgår vitnemål** / **Utgår kompetansebevis** — alle fag med
+  standpunkt- og/eller eksamenskarakter tas normalt med ved utskrift.
+  Skal et fag ikke med, markeres det her; fargene i listen viser hva som
+  er unntatt fra hvilken dokumenttype.
 
 ## Program
 
-![image](https://user-images.githubusercontent.com/80097133/137116192-c7f7d71a-1948-4b4a-a41c-5c1504c78acb.png)
+![Program-fanen](/img/ea_kardok_program.png 'Programlisten og overstyring av vitnemål/kompetansebevis')
 
-_Programliste_ oppsummerer hva som er registrert i henhold til kolonnene i tabellen. Dersom det er behov for endringer, må det markeres under _Overstyr vitnemål/kompetansebevis_.
+**Programliste** oppsummerer elevens programtilhørighet per skoleår, med
+fravær (dager/timer) og fullførtkode. Ved behov for avvik gjøres endringene
+under **Overstyr vitnemål/kompetansebevis**: per nivå (Vg1–Vg5) kan du
+overstyre program, fraværsdager og -timer, fullførtkode og orden/oppførsel.
+Merk at programmet må overstyres på et nivå for at de andre feltene på
+nivået skal tre i kraft — tøm programfeltet og lagre for å fjerne en
+overstyring.
 
-## Fravær/orden/atferd
+## Orden og oppførsel
 
-![image](https://user-images.githubusercontent.com/80097133/137268116-98aa0404-bec1-4cb7-9ce5-a2fed4feef1f.png)
+Fanen viser orden og oppførsel per skoleår, for 1. og 2. halvår/standpunkt.
+På vitnemål og kompetansebevis brukes alltid verdiene fra 2. halvår.
+Standarden er at kontaktlærer fører dette fra *Mine sider > Orden/atferd*;
+her kan de justeres ved behov, og de kan også overstyres per nivå fra
+*Program*-fanen.
 
+## Vitnemål og kompetansebevis
 
-Det er summert dager og timer som kommer på vitnemål/kompetansebevis. Her vil det bli 2 dager og 5 timer. Orden og atferd tas alltid fra 2. halvår. Men disse data kan altså overstyres fra _Program_.
+![Vitnemål og kompetansebevis-fanen](/img/ea_kardok_vitnemal.png 'Vitnemålstype, merknader og utskrevne dokumenter')
 
-## Vitnemål/kompetansebevis
-
-_Vitnemålstype_ beregnes automatisk, men kan endres her dersom nødvendig.
-
-_Merknad på vitnemål/kompetansebevis_ Her legges det til VMM- merknader etter behov.
-
-_Utskrevne vitnemål/kompetansebevis_ Dersom det er tatt noen utskrift, vil det markeres her. Utskriften er lagret, og kan hentes fram fra Elevadmin.>Vitnemål. 
+- **Vitnemålstype** beregnes automatisk, men kan endres her når det er
+  nødvendig.
+- **Merknader på vitnemål/kompetansebevis** — VMM-merknader legges til og
+  slettes her.
+- **Utskrevne vitnemål/kompetansebevis** — viser dokumentene som er
+  skrevet ut, med utstedelsesdato og om de er overført NVB. Utskriftene er
+  lagret og kan hentes frem fra *Elevadmin > Vitnemål*. **Annuller…**
+  annullerer et utstedt dokument, med registrering av årsak (klage, feil
+  eller annet).
 
 ## Dokumenter
 
-Det er tre dokumenthoder som kan benyttes: Annullering av eksamen, årsak til fravær, eller forsøk. Utfyllende tekst innføres fra _Dokumentlinjer_.
+Det er tre dokumenttyper som kan benyttes: annullering av eksamen, årsak
+til fravær, og forsøk. Opprett dokumenthodet, og før utfyllende tekst i
+dokumentlinjene.
 
-## Karakter innført av/Karakterendret av/Program endret av
+## Karakterer innført av / Karakter endret av / Program endret av
 
-Oppsummering av hvem som har utført endringer, og dato for endringen.
-
-
-
+Loggfaner som viser hvem som har ført inn og endret karakterer og
+programoverstyringer, med dato for endringen.

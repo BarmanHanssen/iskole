@@ -17,9 +17,9 @@ Fanen viser alle søknader om tilrettelegging ved eksamen. Hver søknad kan
 omfatte ett eller flere tiltak, og hvert tiltak behandles for seg:
 
 - **Ekstra tid** (med antall minutter)
-- **Eget rom**
+- **Tilpasset rom**
 - **Opplest tekst**
-- **Hjelpemidler**
+- **Annet** (hjelpemidler o.l., med søkers egen beskrivelse)
 
 Listen viser status per tiltak, hvilke fag som er innvilget, avslått og
 ubehandlet, og hvem som er saksbehandler. Over listen kan du filtrere på
