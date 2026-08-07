@@ -3,15 +3,33 @@ id: ea_oppflytting
 title: Oppflytting
 sidebar_label: Oppflytting
 ---
-Nye elever til skolen vil bli tatt inn via iSkoles inntaksportal, Vigo inntak, eller ved manuell registrering.
+Nye elever til skolen vil bli tatt inn via iSkoles inntaksportal, VIGO
+inntak, eller ved manuell registrering.
 
-For skoler med flerårig løp, vil vanligvis en elev være tilknyttet skolen i flere planperioder.  Menyvalget _Oppflytting_ gjør det mulig å flytte opp årets elever til neste års planperiode. For at valget skal være mulig, må neste års planperiode være definert, ellers er det ingen klasser i nedtrekkslisten _*Klasse neste år_.
+For skoler med flerårig løp vil en elev vanligvis være tilknyttet skolen i
+flere planperioder. Menyvalget *Oppflytting* gjør det mulig å flytte opp
+årets elever til neste års planperiode. For at valget skal kunne brukes, må
+neste års planperiode være definert — ellers er nedtrekkslisten
+*Klasse neste år* tom.
 
-![image](https://user-images.githubusercontent.com/80097133/122378766-86327680-cf66-11eb-8084-b9d2bb9838d3.png)
+Oppflytting er nyttig for å kunne starte planleggingen av neste skoleår før
+inntaket foreligger; benytter man VIGO inntak, ser man etterpå hvilke elever
+som faktisk ble tildelt skoleplass.
 
-Benytter man VIGO inntak vil man etterpå kunne se hvilke eleversom faktisk ble tildelt skoleplass. Oppflytting av elever er nyttig slik at man kan starte planleggingen av neste skoleår før inntaket foreligger. Man flytter opp elever klassevis eller enkeltvis. Når man velger en klasse fra _*Klasse i år_, fylles listen 
-under av elever i klassen. Neste skritt er å velge hvilken klasse elevene skal flyttes opp i fra nedtrekkslisten _*Klasse neste år_. Deretter kan man velge å flytte opp alle elevene i klassen ved å trykke på knappen _Flytt opp alle_ eller velge elever i listen og så trykke på _Flytt opp merkede_.
+![Oppflytting](/img/ea_oppflytting.png 'Velg klasse i år og klasse neste år, og flytt opp alle eller valgte')
+
+Man flytter opp elever klassevis eller enkeltvis:
+
+1. Velg klassen i **Klasse** — listen fylles med klassens elever, og
+   kolonnen *Klasse neste år* viser hvor allerede oppflyttede elever er
+   plassert.
+2. Velg målklassen i **Klasse neste år**.
+3. Trykk **Flytt opp alle**, eller marker enkeltelever og trykk
+   **Flytt opp valgte**.
 
 :::info Merk
-Det er kun elever som er registrert som elev fra og med 1. september som vil bli overført til Vigo. Dersom noen av de oppflyttede elever likevel ikke fortsetter, får det ingen konsekvenser dersom de slettes innen denne datoen.
+Det er kun elever som er registrert som elev fra og med 1. september som
+blir overført til VIGO. Dersom noen av de oppflyttede elevene likevel ikke
+fortsetter, får det ingen konsekvenser så lenge de slettes innen denne
+datoen.
 :::

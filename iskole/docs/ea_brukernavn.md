@@ -3,11 +3,26 @@ id: ea_brukernavn
 title: Brukernavn
 sidebar_label: Brukernavn
 ---
-Eleven kan alltid benytte fødselsnummer, eller e-postadressen som er registrert i iSkole, som brukernavn. Det er også mulig at skolen i tillegg kan generere et brukernavn til den enkelte. Men altså ikke påkrevd...
 
-Det er også mulig å gi brukernavn fra _Elevadmin.>Elev_Personlig>Brukernavn_. Det gjøres alltid en sjekk slik at et brukernavnet bare henviser til en person i databasen til iSkole.
+Eleven kan alltid benytte fødselsnummer, eller e-postadressen som er
+registrert i iSkole, som brukernavn. I tillegg kan skolen generere et eget
+brukernavn til den enkelte — men det er altså ikke påkrevd. Husk at et kort
+brukernavn er lettere å huske og bruke enn et langt!
 
-Av skjermbilde fremgår hvilke muligheter som foreligger. Ikke glem at et kort brukernavn er lettere å huske/bruke enn et langt brukernavn!
+![Brukernavn](/img/ea_brukernavn.png 'Sett opp sammensetningen, velg elever og generer')
 
-![image](https://user-images.githubusercontent.com/80097133/137476410-22086355-68f9-44dd-9360-b5028978cadf.png)
-  
+Bildet er delt i to steg:
+
+1. **Sett opp brukernavnet** — velg sammensetningen: valgfritt prefiks,
+   årstall, antall bokstaver fra fornavn og etternavn, og eventuelt
+   fødselsdato. Eksempelet nederst viser resultatet fortløpende.
+2. **Velg elever** — fanen *Elever uten brukernavn* viser hvem som mangler;
+   marker elevene (øverste boks velger alle) og trykk
+   **Generer brukernavn**. Fanen *Alle elever* viser hele skolen med
+   dagens brukernavn.
+
+Det gjøres alltid en kontroll slik at et brukernavn bare kan vise til én
+person i databasen til iSkole.
+
+Brukernavn kan også settes manuelt for én elev fra
+[Elev-siden](/docs/ea_elev): *Rediger* og fyll feltet *Brukernavn*.

@@ -4,10 +4,27 @@ title: Tilgang foreldre
 sidebar_label: Tilgang foreldre
 ---
 
-![image](https://user-images.githubusercontent.com/80097133/137470507-4548ba6b-765e-43d7-aa52-817ea687699a.png)
+Fram til eleven er myndig kan foresatte følge opp sine barn i iSkole.
+Herfra sender skolen **informasjonsbrev** til foresatte om tilgangen, og
+har samtidig oversikt over hvem som kan nås og hvem som allerede har fått
+brev.
+
+Foresatte logger inn i iSkole med sin egen elektroniske ID (for eksempel
+ID-porten) — det brukes ikke egne passord.
+
+![Tilgang foreldre](/img/ea_tilgang_foreldre.png 'Klassevis oversikt over foresatte, med utsending av informasjonsbrev')
+
+Velg klasse, og listen viser elevene med registrerte foresatte: nummer
+(forelder 1/2), navn, e-postadresse, elevens myndighetsdato og om
+informasjonsbrev er sendt. Marker mottakerne — *Velg alle med e-post* tar
+alle som kan nås — og trykk **Send informasjonsbrev**.
+**Vis informasjonsbrev uten å sende** åpner brevet som PDF, for eksempel
+for utskrift til foresatte uten e-postadresse.
 
 :::info Merk
-Kun elever hvor det er registrert hvem som er foreldre, med epost og/eller postadresse, kan få tilsendt informasjonsbrev med foreldrekode til å koble seg opp mot sine barn. Foreldredata legges inn fra Elevadmin.>Elev.
+Kun elever der foresatte er registrert med e-post og/eller postadresse kan
+følges opp herfra. Foresattdata legges inn fra [Elev-siden](/docs/ea_elev)
+— der styres også *E-varsel* og *Tilgang iSkole* per forelder. Tilgangen
+stoppes automatisk ved elevens myndighetsalder, dersom ikke en annen
+variant eksplisitt er valgt.
 :::
-
-Dersom foreldrenes fødselsnummer og e-post er registrert, kan foreldre selv få tilsendt passord på epost. Ved pålogging på iSkole bruker de da sitt eget fødselsnr som brukernavn, og klikker på _Glemt passord?_. De vil trenge foreldrekoden fra informasjonsbrevet for å koble seg sammen med sine barn.
