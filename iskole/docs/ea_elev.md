@@ -20,62 +20,119 @@ Alternativer for å få inn elever til nytt skoleår kan være
 
 I tillegg kan selvsagt elevdata tastes inn manuelt.
 
+## Finn eleven
+
+Menyvalget **Elev** åpner elevsøket. Søk opp eleven — med fritekst på navn,
+klasse, fødselsnummer, e-post, telefon eller foresatt — og velg raden for å
+åpne elevsiden. Fjerner du krysset *Kun årets elever*, kan du også søke på
+tvers av skoleår med fødselsnummer eller navn.
+
 ### Registrere ny elev
 
-![image](https://user-images.githubusercontent.com/80097133/121346113-fbc69300-c925-11eb-92ea-4cf69f1da3bb.png)
+Fra elevsøket trykker du **Legg til ny elev…**:
 
-Etter trykk på _+Ny..._ kan registrering av ny elev starte ut fra følgende skjermbilde:
+![Legg til ny elev](/img/ea_elev_ny.png 'Legg til ny elev — fødselsdatoen utledes av fødselsnummeret')
 
-![image](https://user-images.githubusercontent.com/80097133/121347490-8b207600-c927-11eb-9b0b-93ef1ea91e18.png)
-
-Såfremt eleven har kjent personnummer, anbefales sterkt å taste inn elevens fødselsnummer. Dersom personnummeret ikke er kjent, benytt eksempelvis 99001, 99002 osv. som personnummer, og man huker da av for _Midlertidig personnummer_. Dette kan erstattes senere når nummeret blir tilgjengelig. 
+- **Fødselsnr land** angir formatet: norsk fødselsnr/D-nummer, svensk
+  fødselsnr — eller *Midlertidig fødselsnr* dersom nummeret ikke er kjent.
+- Når hele fødselsnummeret er tastet, **utledes fødselsdatoen automatisk**.
+  Er personen allerede registrert i iSkole (for eksempel fra en annen
+  skole), hentes også navnet inn automatisk.
+- Velg **klasse** og trykk *Lagre* — eleven opprettes, får automatisk
+  klassens fag, og elevsiden åpnes.
 
 :::info Merk
-Dersom midlertidig personnummer benyttes, eventuell også fiktiv fødselsdato, er det to forhold som kan skape problemer/merarbeid:
-- Eleven blir lagt inn på nytt, men da registrert med "ekte" personnummer
-- Eleven er allerede registrert i iSkole med "ekte" personnummer, eksempelvis fra en annen skole
+Brukes midlertidig fødselsnummer, er det to forhold som kan skape
+merarbeid senere: eleven kan bli lagt inn på nytt med «ekte» nummer, eller
+eleven finnes allerede i iSkole med «ekte» nummer. Begge deler gir
+dobbeltregistrering som må ryddes opp i. Registrer derfor ekte
+fødselsnummer så snart det er kjent — det gjøres fra blyanten ved
+*Fødselsnr* på elevsiden.
 :::
 
-Problemet nevnt ovenfor skyldes at vi da får en dobbeltregistrering av eleven, og grad av oppryddingsarbeidet vil avhenge hvor mye annet som er registrert på eleven med "midlertidig personnummer" før dobbeltregistreringen oppdages.  
+## Elevsiden
 
-Når gyldig fødselsnummer er registrert vil _Fornavn_ og _Etternavn_ kunne fremkomme automatisk. Det betyr i såfall at eleven alt er registrert i databasen til iSkole. Da gjenstår det bare å plassere eleven i en klasse før en trykker på _Lagre_. Da vises følgende skjermbilde:
- 
-![image](https://user-images.githubusercontent.com/80097133/121496236-8ec10500-c9da-11eb-8b3e-fd1d925c17d9.png)
+![Elevsiden](/img/ea_elev_persondata.png 'Elevsiden: persondata, skolegang og utdanning, og fanene under Annet')
 
-#### Tilknytting til skolen
-- Begynt settes default til registreringsdatoen. Helt OK at datoen er før skolestart, men ikke før planperiodens start.
-- Sluttet settes default til 31. juli, og endres bare dersom eleven slutter før siste skoledag. Merk at eleven mister tilgangen til iSkole straks etter denne datoen er passert.
-- Klasse er allerede lagt inn, men kan endres. Eleven får automatisk tildelt klassens fag.
-- Elevstatus settes default til E, men kan endres.
-- Rettstype settes default til blank, se nedtrekksliste for alternativer.
+Øverst vises elevens portrettbilde, navn, klasse og program, med
+persondataene i fire kolonner:
 
-#### Utdanning
-- Programkode og Bevistype er fastsatt fra Grunnlagsdata>Klasse, men kan her endres på individnivå.
-- Fullførtkode skal ikke endres før ved skoleslutt.
-- Fremmedspråk gs angis for elever som ikke har norsk som morsmål.
+- **Personlig** — navn, fødselsdato, fødselsnummer, elevnr, brukernavn,
+  målform og morsmål.
+- **Kontakt** — e-postadresser, telefon og e-varsel.
+- **Forelder 1** og **Forelder 2** — navn, adresse, telefon, e-post,
+  e-varsel og tilgang til iSkole.
+- **Merknad** — fritekst. Merknaden er bare synlig for skolen som legger
+  den inn; bytter eleven skole, følger den ikke med.
 
-#### Merknad
-Merknad er bare synlig herfra for den skolen som legger inn merknaden. Bytter eleven skole, er den ikke synlig på den nye skolen.
+### Rediger personalia
 
-#### Foreldre 1 og Foreldre 2
-Fram til eleven er myndig, har foreldre innsyn i data til sine barn. Dersom foreldres fødselsnummer registreres, kan det også benyttes som brukernavn ved innlogging til iSkole.
-Data herfra benyttes også for skolens kommunikasjon med elevens foresatte. Vanligvis bare interessant til eleven har nådd myndighetsalder. 
-- E-varsel: Varsel til eleven, f.eks. ved stort fravær, sendes også til foresatte som e-post.
-- Tilgang iSkole: Foresatte får tilgang til alle data knyttet til eleven så lenge eleven er elev ved skolen. Tilgangen stoppes ved myndighetsalderen til eleven, dersom ikke annen variant eksplisitt er valgt.
+**Rediger**-knappen gjør alle feltene redigerbare i samme bilde:
 
-#### Søsken
-Dersom flere elever til foresatte, kan disse registreres her. For oversikt over registrerte søsken, se _Elevadmin.>Rapporter>Navnelister>Søsken_.
+![Rediger personalia](/img/ea_elev_rediger.png 'Rediger-modus: alle felter i ett bilde, og nytt profilbilde kan droppes rett på')
 
-#### Elevadresse
-Dersom elevens adresse ikke er identisk med Forelder 1, kan riktig adresse innføres her.
+- **Nytt profilbilde** droppes (eller velges) i feltet ved siden av
+  avataren, og lastes opp når du trykker *Lagre*. Skal fotografens bilder
+  lastes opp samlet for hele skolen, gjøres det fra *Elevadmin > Foto*.
+- **Fødselsdato** og **fødselsnummer** endres via blyantene — de er
+  sjeldne operasjoner med egne bekreftelsesdialoger.
+- **Forelders fødselsnummer** kobles via blyanten i forelder-kolonnen. For
+  norske nummer utledes fødselsdatoen automatisk, og finnes forelderen
+  allerede i personregisteret, hentes navn og kontaktinfo derfra.
 
-#### Portrettbilde
-Kan legge inn bilde fra _Last opp_. Dersom fotograf tar bilde for hele skolen, se _Mine sider>Foto_ for alternativ innlasting av bilde.
+### Foreldre
 
-### Slett elev
-Normalt sletter man ikke en elev, men setter i stedet sluttdato. Ved feilregistrering, at eleven ikke startet eller av andre grunner ønsker å slette eleven er dette mulig med knappen _Slett_. iSkole vil gjennomføre følgende kontroll før sletting.
-1. Har eleven fått karakterer dette skoleåret? **Nei**: Eleven slettes fra dette skoleåret. **Ja**: Sletting avbrytes og sluttdato må benyttes.
-2. Har eleven karakterer andre skoleår? 
-3. Har eleven andre roller på iSkole? (Elev annen skole, forelder, ansatt)
+Fram til eleven er myndig har foreldre innsyn i data om sine barn. Dersom
+forelderens fødselsnummer registreres, kan det også benyttes som
+brukernavn ved innlogging til iSkole. Data herfra brukes i skolens
+kommunikasjon med foresatte.
 
-Hvis nei i punkt 2 og 3, så vil personen slettes helt fra iSkole.
+- **E-varsel**: varsler til eleven, for eksempel ved stort fravær, sendes
+  også til foresatte på e-post.
+- **Tilgang iSkole**: foresatte har tilgang til elevens data så lenge
+  eleven går på skolen. Tilgangen stoppes ved myndighetsalder, dersom ikke
+  en annen variant eksplisitt er valgt.
+
+## Skolegang og utdanning
+
+- **Startdato** settes som standard til registreringsdatoen. Det er greit
+  at datoen er før skolestart, men ikke før planperiodens start.
+- **Sluttdato** settes som standard til 31. juli, og endres bare dersom
+  eleven slutter før siste skoledag. Merk at eleven mister tilgangen til
+  iSkole straks datoen er passert.
+- **Klasse** kan endres — eleven får automatisk klassens fag.
+- **Elevstatus** settes som standard til E, men kan endres.
+- **Rettstype** settes som standard til blank, se nedtrekkslisten for
+  alternativer.
+- **Program** og **bevistype** er fastsatt fra *Grunnlagsdata > Klasse*,
+  men kan endres på individnivå her.
+- **Fullførtkode** skal ikke endres før ved skoleslutt.
+- **Fremmedspråk (GS)** angis for elever som ikke har norsk som morsmål.
+  Her ligger også avkrysningene for *fritatt sidemål* og *vedtak om
+  særskilt språkopplæring*.
+
+## Annet
+
+Nederst på elevsiden ligger fanene for øvrige registreringer:
+
+- **Allergier** — matallergier fra allergiregisteret, pluss fritekstfeltet
+  *Andre allergier*.
+- **Hybel** og **Internat** — botilbud knyttet til eleven.
+- **Bank og betaling** — kontonummer og betalingsinformasjon.
+- **Passinformasjon** — for skoler som registrerer dette, for eksempel
+  ved studieturer.
+- **Søsken** — dersom foresatte har flere elever ved skolen, registreres
+  søskenkoblingen her. For samlet oversikt, se
+  *Elevadmin > Rapporter > Navnelister > Søsken*.
+
+## Slett elev
+
+Normalt sletter man ikke en elev, men setter i stedet sluttdato. Ved
+feilregistrering, eller om eleven aldri startet, kan **Slett…**-knappen
+benyttes. iSkole kontrollerer før sletting:
+
+1. Har eleven fått karakterer dette skoleåret? **Nei**: eleven slettes fra
+   dette skoleåret. **Ja**: slettingen avbrytes, og sluttdato må benyttes.
+2. Har eleven karakterer fra andre skoleår?
+3. Har eleven andre roller i iSkole? (Elev ved annen skole, forelder,
+   ansatt.)
