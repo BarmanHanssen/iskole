@@ -44,8 +44,8 @@ export default {
     {
       type: 'category',
       label: 'Elevadmin',
-      items: ['ea_sokere','ea_elev','ea_mappe','ea_kontaktlaerer','ea_fag','ea_frav_ord_atf','ea_kardok','ea_kar_fam','ea_vitnemaal','ea_nvb'
-          ,'ea_kompetansebevis','ea_vigo','ea_skyss','ea_oppflytting','ea_passord_foreldre','ea_brukernavn','ea_permisjon','ms_foto','ea_rapporter'],
+      items: ['ea_oversikt','ea_sokere','ea_elev','ea_kontaktlaerer','ea_fag','ea_kardok','ea_kar_fam','ea_vitnemaal'
+          ,'ea_kompetansebevis','ea_vigo','ea_skyss','ea_oppflytting','ea_passord_foreldre','ea_brukernavn','ea_soknader','ms_foto','ea_rapporter'],
     },
     {
       type: 'category',
