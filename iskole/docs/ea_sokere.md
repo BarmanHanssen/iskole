@@ -17,9 +17,6 @@ mange søkere samtidig.
 
 ![Søkerlisten](/img/soker_oversikt.png 'Søkerlisten')
 
-<!-- TODO skjermbilde: reta soker_oversikt.png (2026-27) — kolonnelayouten
-     er endret: stablede celler, Inntak, Kontakt, Opprettet, Poeng og
-     sorteringsvelger. Tas med Playwright når siden er mer ferdig. -->
 
 Øverst til høyre velger du skoleår. Listen er komprimert slik at mye
 informasjon får plass uten sidescrolling — flere kolonner har en primær-
@@ -45,8 +42,7 @@ Etter status-chipsene ligger **egenskapsfiltre** med egen, nøytral stil:
 med antall. De kan kombineres med program, søk og statusfilter, og er
 nyttige for å prioritere i inntaket.
 
-<!-- TODO skjermbilde: statusstripen med egenskapsfiltrene, gjerne ett
-     aktivt (2026-27). -->
+![Egenskapsfiltre](/img/soker_egenskapsfiltre.png 'Egenskapsfiltre — «Tidligere elev» aktivt')
 
 **Statusstripen** rett under filtrene viser hvor mange søknader som står i
 hver status. Klikk på en status for å filtrere listen til bare de
@@ -63,7 +59,7 @@ navn** filtrerer mens du skriver (fornavn eller etternavn).
 endret**. Opprettet-sorteringen er laget for grunnskole-inntak, der
 søkerne ikke rangeres og tidspunktet søknaden kom inn er avgjørende.
 
-<!-- TODO skjermbilde: sorteringsvelgeren åpen med valgene (2026-27). -->
+![Sortering](/img/soker_sortering.png 'Sorteringsvalgene')
 
 ### Inntak-kolonnen
 
@@ -74,14 +70,34 @@ fullt (fra 80 %) og rødt når alle plassene er tildelt.
 
 ![Inntak-kolonnen](/img/soker_inntak.png 'Inntak — opptatt av konsesjon')
 
-<!-- TODO skjermbilde: reta soker_inntak.png (og soker_filter.png,
-     soker_detalj.png) — tabellayouten er endret etter at bildene ble
-     tatt. Tas samlet med Playwright. -->
 
 Systemet håndhever konsesjonen: når alle plassene er tildelt, avvises nye
 tilbud — både enkeltvis og i bulk — med beskjed om hvor mange som er
 inntatt eller har aktivt tilbud. Plasser frigjøres når tilbud avslås,
 søknader trekkes eller søkere avvises.
+
+### Inntak-fanen
+
+**Inntak**-fanen gir fugleperspektivet på inntaket — tallene bak
+Inntak-merkene, samlet per program. Øverst står nøkkeltallene for hele
+skolen: **Søkere**, **Plasser**, **Inntatt**, **I prosess**, **Ledig** —
+og, når det gjelder, antall **fulle programmer** og programmer **uten
+plasstall**.
+
+![Inntak-fanen](/img/soker_inntak_fane.png 'Inntak — nøkkeltall og programtabell')
+
+Tellingen er den samme som Inntak-kolonnen og overbookingsvakten bruker:
+
+- **Inntatt** — elever som står i programmets klasser.
+- **I prosess** — aktive tilbud (tilbud gitt, akseptert, kontrakt) som
+  ennå ikke er plassert.
+- **Ledig** — plasser − inntatt − i prosess.
+
+Tabellen under viser det samme per program, med fargebånd når et program
+er fullt eller nærmer seg. Programradene kan utvides for å se søkerne som
+teller med. Merk at søkere plasseres i klasse med programkoden de fikk
+tilbud på — endres elevens programkode senere, frigjøres plassen på
+tilbudsprogrammet.
 
 Fanene øverst gir i tillegg:
 
@@ -98,11 +114,14 @@ Fanene øverst gir i tillegg:
   fulgt opp eller har søkt kan **slettes** fra listen — en eventuell
   registrert søknad påvirkes ikke.
 
-<!-- TODO skjermbilde: Søknader ikke sendt-fanen og Interessenter-fanen
-     med stablede celler og slett-knapp (2026-27). -->
 - **Rapport egendefinert** — tabellrapport over alle søkere der du selv
   velger hvilke kolonner som skal med (kolonnevelger), og kan eksportere
   til Excel.
+
+![Søknader, ikke sendt](/img/soker_ikke_sendt.png 'Søknader, ikke sendt')
+
+![Interessenter](/img/soker_interessenter.png 'Interessenter')
+
 
 ## Søkeren i detalj
 
@@ -132,8 +151,7 @@ telefon, adresse og om forelderen skal **varsles på e-post**), og mangler
 en forelder kan den legges til. Som med personalia låses kortene når
 søkeren er plassert i klasse.
 
-<!-- TODO skjermbilde: Foreldre-fanen med ett kort i redigeringsmodus
-     (2026-27). -->
+![Rediger forelder](/img/soker_foreldre_rediger.png 'Foreldre — kort i redigeringsmodus')
 
 **Behandling**-fanen viser hele statushistorikken for søknaden — hvert
 steg med tidspunkt og hvem som gjorde endringen. Rader med e-postvarsel
@@ -151,8 +169,7 @@ søppelpost) — be om ny adresse eller varsle på annen måte.
 bekreftelse — kopier i elevmappen påvirkes ikke) og **arkivere
 enkeltvedlegg til elevmappen** når søkeren er plassert i klasse.
 
-<!-- TODO skjermbilde: Vedlegg-fanen med verktøylinjen og
-     opplastingsdialogen (2026-27). -->
+![Vedlegg](/img/soker_vedlegg.png 'Vedlegg — med opplastingsdialogen')
 
 **Fagvalg** og **Spørsmål/svar** viser søkerens valg og svar fra
 søknaden.
@@ -189,8 +206,7 @@ Behandling-fanen slik at dere alltid kan se hva som ble sendt. Det samme
 gjelder bulk-handlinger — da får alle de valgte søkerne samme melding,
 og mottakervalget gjøres per rolle (søkeren, forelder 1, forelder 2).
 
-<!-- TODO skjermbilde: statusendrings-dialogen med varslingsseksjonen
-     utfylt (2026-27). -->
+![Statusendring med varsling](/img/soker_varsling_dialog.png 'Gi tilbud — brev og varsling')
 
 Skulle en kollega ha endret søknaden mens du så på den, stoppes
 endringen trygt med beskjed om å laste siden på nytt — ingenting
@@ -246,6 +262,24 @@ bulk-varianten (se under) — men for denne ene søkeren.
 
 ![Plasser i klasse — én søker](/img/soker_plasser_dialog.png 'Plasser i klasse')
 
+### Sett status — angre og gjenopprette
+
+**Sett status** er den administrative nødutgangen når noe er gjort feil
+eller en søknad skal gjenopprettes: den setter søknaden til en status du
+velger fritt, uavhengig av de vanlige overgangene — for eksempel tilbake
+fra «Trukket av søker» til venteliste, eller fra avslag til nytt tilbud.
+
+![Sett status](/img/soker_sett_status.png 'Sett status — fritt statusvalg')
+
+Handlingen går i to trinn: velg ny status, og bekreft deretter i den
+vanlige statusendringsdialogen — med samme varslingsseksjon, så søker og
+foresatte kan få beskjed også når statusen settes administrativt.
+Sikkerhetsnettene gjelder fortsatt: endringer gjort av andre i mellomtiden
+stopper handlingen, konsesjonsvakten slår inn hvis et tilbud ville
+overbooket et fullt program, og endringen logges med ditt navn i
+Behandling-fanen — historikken beholdes alltid. Sett status gjøres bevisst
+bare på én søker om gangen, aldri i bulk.
+
 ### Slett søknad
 
 Sletter søknaden med hele behandlingshistorikken. Er dette søkerens eneste
@@ -281,8 +315,7 @@ banneret **«Velg de N første»** — den krysser av de eldste søknadene
 (fortrinnsrett først, deretter opprettet-tidspunkt) inntil de ledige
 plassene er fylt. Kontroller utvalget og trykk Kjør.
 
-<!-- TODO skjermbilde: bulk-banneret med «Velg de N første»-knappen og
-     utvalget fylt (2026-27, gjerne et grunnskoleprogram). -->
+![Velg de N første](/img/soker_bulk_forste.png 'Bulk — «Velg de N første» fyller ledige plasser')
 
 **Kjør** åpner en oppsummering før noe skjer:
 
