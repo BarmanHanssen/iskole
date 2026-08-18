@@ -4,53 +4,141 @@ title: Grupper
 sidebar_label: Grupper
 --- 
 
-### Første skjermbilde:
-Vi har valgt ST1 og første skoleuke. Allerede timeplanlagte timer markeres med romnummer. 
+:::info Viktigste endringer (ny side)
+Grupper-siden er bygget om til én sammenhengende ukematrise:
 
-<img width="1176" height="438" alt="image" src="https://github.com/user-attachments/assets/f7336b09-50d1-4171-aa00-cc00735b8904" />
-
-Fagene hentes fra _Time- og fagfordeling>Gruppefag_. Fag uten lærer vil vises med rød skrift, likså vil timeplanlagt time uten lærer markeres på rød bakgrunn.
-
-#### Vi ser på ST1:KRO 1
-Denne uken skal faget ha 2 timer, og 2 timer er alt timeplanlagt på tirsdagen. Faget har bare en lærer, og vedkommende skal ha begge timene.
-
-Et gruppefag har vanligvis bare en lærer. Men det er mulig å timeplanlegge faget uten lærer, og faget kan ha flere lærere. Dersom flere lærere kan de ha noen timer sammen, eller fordele timene på annen måte på ukebasis. Altså full fleksibilitet!
-
-Ønskes kun oversikt over fag som ikke er ferdig timeplanlagt, klikk på trakt-ikonet:
-<img width="517" height="266" alt="image" src="https://github.com/user-attachments/assets/b9678989-f8bf-4443-9ff6-fdc075bfffb3" />
-
-
-
-Ved å klikke på en faglinje (her er valgt ST1:KRO1) vil fagets timeplan komme til syne på rosa bakgrunn i skjermbildets nedre del. Man kan skifte uke i nedtrekkslisten oppe i høyre hjørne.
-
-<img width="1144" height="1111" alt="image" src="https://github.com/user-attachments/assets/ec5c9761-39ca-4dc6-bd88-4f2b7b107759" />
-
-
-Gruppefagene kan timeplanlegges enkeltvis. Timen plasseres ved å klikke på et grønt felt. Det er mulig å timeplanlegge flere timer under ett, se bunnteksten i vinduet.
-
-:::tip Merk
-Dersom faget er markert med blokkid (se menyvalget _Time- og fagfordeling>Gruppefag_), og blokkid er timeplanlagt (se menyvalget _Blokk_), kan alle fagets timer plasseres med et museklikk!
+- **Alt i ett bilde**: fagene og lærerne deres er rader i en tidslinje for valgt
+  uke — den gamle todelingen (tabell øverst, timeplan nederst) er borte.
+  Ønsker du fortsatt kalenderformat, åpner **Kalender**-knappen valgt linje
+  som dagsøyler nederst (størrelsen justeres med håndtaket).
+- **Klikk hvor som helst på en rad** for å velge linjen. Da vises ledige
+  timer (grønn stiplet) direkte på linjen, og handlingsknappene dukker opp.
+  Klikk på et ledig felt legger timen **rett inn** — ingen
+  bekreftelsesdialog, så du kan trykke deg raskt gjennom uken.
+- **Zoom**: forstørrelsesglassene i verktøylinjen veksler mellom fem
+  nivåer — fra ekstra kompakt ukesoversikt (romnummer kan klippes) til
+  brede kolonner med kvartersruter.
+- **Andres undervisning kan vises**: elevenes klassefag/øvrige gruppefag på
+  faglinjen, lærerens øvrige undervisning, vikartimer og reservasjoner på
+  lærerlinjen — dempet, og kan skrus av/på med øye-knappen.
+- **Rom**: timen får rommet fra romvelgeren i verktøylinjen — forhåndsstilt
+  til fagets rom (fra _Time- og fagfordeling_), og den husker siste valg.
+  Opptatt rom stopper ikke forsøket — du får varsel ved lagring med valgene
+  *bytt rom* eller *overta rommet*.
+- **Lærer på time**: «Legg til»-merker viser fagets timer læreren kan legges
+  på, og «Legg på fagets timer» legger læreren på flere timer i
+  én operasjon.
+- **Flytting og endring**: timer kan dras til ny tid — den nye tiden
+  bekreftes og kan finjusteres i en dialog før lagring.
+- **Fargene er nye**: blå = planlagt time med lærer, oransje = time uten
+  lærer, gul = vikartime. (Tidligere rød markering for manglende lærer er
+  nå oransje, og tellerne viser fremdrift per linje.)
 :::
 
-#### Vi velger her et fag uten blokkid
-Mørkegrønne felt viser timer hvor faget, med lærer, kan timeplanlegges.
-Fagets (og lærers) timeplan legges time for time ved å klikke på mørkegrønn time. Rom kan byttes og allerede plasserte timer slettes.
+![Ukematrisen](/img/tp_grupper_matrise.png)
 
-:::tip Tips - hurtigtaster
-Se beskrivelsen under timeplanen for tastatursnarveier som kan effektivisere arbeidet.
-:::
+### Ukematrisen
+Velg uke øverst til høyre — pilknappene går til forrige/neste uke. Hver rad
+viser ett gruppefag med lærerne sine under (↳). Telleren til høyre på raden
+viser fremdriften, for eksempel **2 av 5** timeplanlagte uketimer; oransje
+tall betyr at linjen mangler timer.
+
+Fagene hentes fra _Time- og fagfordeling>Gruppefag_. Allerede timeplanlagte
+timer vises med romnummer. En time i faget uten lærer vises oransje.
+Forstørrelsesglassene i verktøylinjen zoomer matrisen i fem nivåer — på de
+mest kompakte får du hele uken i ett blikk, mot at romnummer kan klippes.
+
+Et gruppefag har vanligvis én lærer, men full fleksibilitet er ivaretatt:
+faget kan timeplanlegges uten lærer, med én eller med flere lærere — og
+flere lærere kan dele timer eller fordele dem ulikt fra uke til uke.
+
+### Søk og filter
+Skriv i søkefeltet for å avgrense til bestemte fag eller lærere (listen
+filtreres mens du skriver). Chipen **Kun ikke ferdig** viser bare fag som
+mangler timer — tallet på chipen forteller hvor mange. Øye-knappen
+**Annen undervisning** viser/skjuler de dempede markeringene av elevenes og
+lærernes øvrige aktiviteter.
+
+![Valgt linje med ledige timer](/img/tp_grupper_valgt_linje.png)
+
+### Velge linje og timeplanlegge
+Klikk på en rad (navnet, en tom rute eller en markering) for å velge
+linjen. Da skjer tre ting:
+
+1. **Ledige timer** vises som grønne, stiplede felt på linjen — beregnet ut
+   fra skolens rammetimer minus alt som er opptatt (elevenes og lærerens
+   øvrige undervisning). Vises kun når linjen har ledig kvote; er faget
+   ferdig timeplanlagt, må timetallet økes først (**Juster timetall**).
+2. **Handlingsraden** dukker opp over matrisen: Blokk, Kopier uke,
+   Juster timetall, Kalender og Tøm uke (fag) / Fjern og Legg på fagets
+   timer (lærer). De samme handlingene ligger som ikoner på selve raden.
+3. **Romvelgeren** stiller seg på fagets rom (fra _Time- og fagfordeling_)
+   eller husker forrige valg.
+
+Klikk på et ledig felt — timen legges rett inn med rommet fra romvelgeren.
+Feilklikk rettes like raskt: klikk timen og slett eller juster den.
+Kollisjoner kontrolleres alltid ved lagring:
+
+- **Elevkollisjon**: du får se hvem og hva som kolliderer, og kan avbryte
+  eller tillate kollisjonen.
+- **Romkollisjon**: du får vite hvem som har rommet, og kan avbryte, velge
+  annet rom (åpner en romvelger med ledige rom for tidsrommet) eller
+  **overta rommet**.
+
+Planlegger du på en **lærerlinje**, legges timen på faget og læreren
+samtidig. Oransje stiplede **Legg til**-felt viser fagets eksisterende timer
+som læreren kan legges på (en time uten denne læreren — samme farge som
+«time uten lærer», stiplet fordi den ikke er lagt ennå).
+
+Trykk `Esc` for å nullstille valget.
+
+### Endre, flytte og slette timer
+Klikk på en planlagt time for å åpne **Endre time**-dialogen: juster start-
+og sluttid, bytt rom (timens eget rom og ledige rom vises), se og fjern
+lærere på timen, eller slett timen. Har timen fraværsregistreringer, får du
+varsel — de følger timen ved endring og slettes sammen med den.
+
+Timer kan også **dras** til nytt tidspunkt eller strekkes/krympes i endene.
+Den nye tiden bekreftes i dialogen før lagring, så du kan finjustere
+klokkeslettene manuelt.
+
+### Lærer på fagets timer
+På en lærerlinje gir **Legg på fagets timer** en liste over fagets timer som
+læreren ikke har og er ledig til. Timene er forhåndsvalgt opp til lærerens
+timetall — har læreren likt timetall som faget, er alle valgt. Fjern
+læreren fra en enkelt time i Endre time-dialogen, eller fra hele uken med
+**Fjern**.
+
+### Blokkid: alle timene i én operasjon
+Er faget knyttet til en blokkid (_Time- og fagfordeling>Gruppefag_) med
+timeplanlagte blokktider (_Blokk_), åpner **Blokk**-knappen en planlegger
+med blokkens tider for uken: allerede planlagte timer har hake, kollisjoner
+er merket per tid, og kollisjonfrie tider er forhåndsvalgt opp til fagets
+kvote. Velg rom, kryss av og planlegg alle med ett klikk — resultatet vises
+ærlig («4 av 5 planlagt») med forklaring på det som eventuelt stoppet.
+Fag uten blokkid kan tildeles en direkte i samme dialog.
+
+![Blokkid-planleggeren](/img/tp_grupper_blokk.png)
 
 :::info Merk
-Etter å ha ferdigstilt timeplanen for gruppefagene i første skoleuke, vil det være naturlig å timeplanlegge også klassefagene for samme skoleuke. Deretter kan man kopiere resultatet til resten av skoleåret. Justeringer senere kan selvsagt gjøres, systemet vil til enhver tid avdekke dersom kollisjoner oppstår (gjelder lærer, elev og rom).
+Etter å ha ferdigstilt timeplanen for gruppefagene i første skoleuke, vil
+det være naturlig å timeplanlegge også klassefagene for samme skoleuke.
+Deretter kan man kopiere resultatet til resten av skoleåret. Justeringer
+senere kan selvsagt gjøres, systemet vil til enhver tid avdekke dersom
+kollisjoner oppstår (gjelder lærer, elev og rom).
 :::
 
 ## Kopiering av timeplanen for gruppefag
-Klikk på markert ikon:
-<img width="992" height="62" alt="image" src="https://github.com/user-attachments/assets/47f4fe9e-9595-4052-a3cf-2f8ddeafa37f" />
-Marker hvilke fag innen valgte filter (her: ST1) man ønsker å kopiere, og til hvilke uker. Før kopiering blir gjennomført, sjekkes det at kopieringen ikke vil kollidere mot allerede lagte timer i ukene det kopieres til. 
+Klikk på kopieringsikonet i verktøylinjen. Velg hvilke fag som skal
+kopieres (står du på en linje, er faget forhåndsvalgt) og hvilke uker det
+skal kopieres til — bare fremtidige uker med skoledager tilbys. Kopieringen kontrollerer kollisjoner mot allerede lagte
+timer i mottaksukene — fag som stopper på lærer- eller romkollisjon listes
+med forklaring, og elevkollisjoner kan tillates med egen avkryssing.
 
-<img width="533" height="530" alt="image" src="https://github.com/user-attachments/assets/82c34cbf-2476-48eb-91e1-947f1b33bec0" />
+![Kopiering av gruppefag](/img/tp_grupper_kopiering.png)
 
 :::info Merk
-Vi anbefaler at skolens timeplan ferdigstilles både for gruppe- og klassefag, eksempelvis i første skoleuke. Da kan skolens timeplan kopieres samlet fremover i tid fra _Timeplan>Kopiering_.
+Vi anbefaler at skolens timeplan ferdigstilles både for gruppe- og
+klassefag, eksempelvis i første skoleuke. Da kan skolens timeplan kopieres
+samlet fremover i tid fra _Timeplan>Kopiering_.
 :::
