@@ -17,14 +17,17 @@ mange søkere samtidig.
 
 ![Søkerlisten](/img/soker_oversikt.png 'Søkerlisten')
 
-
-Øverst til høyre velger du skoleår. Listen er komprimert slik at mye
+:::tip Skoleår
+Husk på å velge riktig skoleår, når man arbeider med søkere gjelder dette ofte neste skoleår.
+:::
+Listen med søkere er komprimert slik at mye
 informasjon får plass uten sidescrolling — flere kolonner har en primær-
 og en sekundærlinje:
 
-- **Program** — kode og navn samlet («BABAT1 – Bygg- og anleggsteknikk»).
+- **Program** — kode og navn samlet («BABAT1 – Bygg- og anleggsteknikk»). Avviker tilbudt program fra
+søkerens 1. valg vises dette på linje 2.
 - **Inntak** — opptatte plasser av konsesjonen (se under).
-- **Søker** — navn med fødselsdato og alder på linjen under. Et flagg-ikon
+- **Søker** — navn med fødselsdato, kjønn og alder på linjen under. Et flagg-ikon
   markerer fortrinnsrett (når skolen bruker det), og en blå
   **«Tidl. elev»-merkelapp** viser at søkeren har vært elev ved skolen
   før — hold musen over for å se hvilke skoleår.
@@ -35,13 +38,13 @@ og en sekundærlinje:
   **Fylke** sist — fylket har særlig betydning for skoler med botilbud.
 
 E-post, telefon og merknader vises ikke i listen — de finnes i
-detaljpanelet og i Rapport egendefinert.
+detaljpanelet og i _Rapport egendefinert_.
 
-Etter status-chipsene ligger **egenskapsfiltre** med egen, nøytral stil:
+De ulike statusene har fargede filterknapper over listen, med antall søkere som har denne statusen. Etter statusfiltrene ligger **egenskapsfiltre** med egen, nøytral stil:
 **Fortrinnsrett**, **Tidligere elev** og (for hybelskoler) **Hybel** —
 med antall. De kan kombineres med program, søk og statusfilter, og er
 nyttige for å prioritere i inntaket.
-
+ 
 ![Egenskapsfiltre](/img/soker_egenskapsfiltre.png 'Egenskapsfiltre — «Tidligere elev» aktivt')
 
 **Statusstripen** rett under filtrene viser hvor mange søknader som står i
