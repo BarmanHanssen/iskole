@@ -18,6 +18,15 @@ Grupper-siden er bygget om til én sammenhengende ukematrise:
 - **Zoom**: forstørrelsesglassene i verktøylinjen veksler mellom fem
   nivåer — fra ekstra kompakt ukesoversikt (romnummer kan klippes) til
   brede kolonner med kvartersruter.
+- **Dagvis visning**: kalender-knappen med retningspil legger dagene
+  nedover med én dags timeakse bortover — hele uken uten sidescroll,
+  nyttig på liten skjerm.
+- **Elevkollisjoner er ikke lenger en blindvei**: klikk på elevenes
+  dempede undervisning viser hvem det gjelder, med mulighet til å
+  planlegge likevel; på lærerlinjen vises ledig-feltet når *læreren* kan,
+  og elevkollisjonen varsles ved klikk.
+- **Bytt rom på flere timer**: velg fagets timer i en liste og sett nytt
+  rom på alle under ett — opptatte rom avdekkes i listen.
 - **Andres undervisning kan vises**: elevenes klassefag/øvrige gruppefag på
   faglinjen, lærerens øvrige undervisning, vikartimer og reservasjoner på
   lærerlinjen — dempet, og kan skrus av/på med øye-knappen.
@@ -48,6 +57,11 @@ timer vises med romnummer. En time i faget uten lærer vises oransje.
 Forstørrelsesglassene i verktøylinjen zoomer matrisen i fem nivåer — på de
 mest kompakte får du hele uken i ett blikk, mot at romnummer kan klippes.
 
+Kalender-knappen med retningspil bytter til **dagvis visning**: dagene
+legges nedover med fag- og lærerradene gjentatt per dag, og timeaksen viser
+én dags timer i full bredde — hele uken uten sidescroll. Nyttig på liten
+skjerm; valget huskes til neste gang.
+
 Et gruppefag har vanligvis én lærer, men full fleksibilitet er ivaretatt:
 faget kan timeplanlegges uten lærer, med én eller med flere lærere — og
 flere lærere kan dele timer eller fordele dem ulikt fra uke til uke.
@@ -65,13 +79,17 @@ lærernes øvrige aktiviteter.
 Klikk på en rad (navnet, en tom rute eller en markering) for å velge
 linjen. Da skjer tre ting:
 
-1. **Ledige timer** vises som grønne, stiplede felt på linjen — beregnet ut
-   fra skolens rammetimer minus alt som er opptatt (elevenes og lærerens
-   øvrige undervisning). Vises kun når linjen har ledig kvote; er faget
-   ferdig timeplanlagt, må timetallet økes først (**Juster timetall**).
+1. **Ledige timer** vises som grønne, stiplede felt på linjen. På
+   *faglinjen* er de beregnet ut fra skolens rammetimer minus alt elevene
+   og faget er opptatt med. På en *lærerlinje* vises feltet når **læreren**
+   er ledig — også om elevene har annen undervisning da; klikket varsler i
+   så fall om elevkollisjonen, som kan tillates (se under). Vises kun når
+   linjen har ledig kvote; er faget ferdig timeplanlagt, må timetallet
+   økes først (**Juster timetall**).
 2. **Handlingsraden** dukker opp over matrisen: Blokk, Kopier uke,
-   Juster timetall, Kalender og Tøm uke (fag) / Fjern og Legg på fagets
-   timer (lærer). De samme handlingene ligger som ikoner på selve raden.
+   Juster timetall, Bytt rom, Kalender og Tøm uke (fag) / Fjern og Legg på
+   fagets timer (lærer). De samme handlingene ligger som ikoner på selve
+   raden.
 3. **Romvelgeren** stiller seg på fagets rom (fra _Time- og fagfordeling_)
    eller husker forrige valg.
 
@@ -91,6 +109,24 @@ som læreren kan legges på (en time uten denne læreren — samme farge som
 «time uten lærer», stiplet fordi den ikke er lagt ennå).
 
 Trykk `Esc` for å nullstille valget.
+
+### Elevenes andre undervisning — se hvem, og planlegg likevel
+Klikk på et av de dempede feltene for elevenes klassefag eller andre
+gruppefag på en valgt faglinje: en dialog viser **hvilke elever fra
+gruppen** som har undervisningen, gruppert per fag og tidsrom.
+
+Har faget ledig kvote, tilbyr dialogen også **Planlegg likevel**: fagets
+time legges i tidsrommet med tillatt elevkollisjon — nyttig når gruppen
+*skal* gå på tvers av annen undervisning. Lærere legges aldri på ved slik
+planlegging; de legges til etterpå på vanlig måte.
+
+### Bytt rom på flere timer
+**Bytt rom** på faglinjen åpner en liste over fagets timer i uken. Velg
+nytt rom øverst — listen avdekker med en gang hvilke timer rommet er
+opptatt i («rom opptatt»): de står umarkert, og må velges aktivt hvis du
+vil overta rommet. Kryss av timene (radklikk holder — og øverste boks
+velger alle/ingen) og bytt rom på alle valgte i én operasjon. Resultatet
+rapporteres ærlig hvis noe stoppet.
 
 ### Endre, flytte og slette timer
 Klikk på en planlagt time for å åpne **Endre time**-dialogen: juster start-
