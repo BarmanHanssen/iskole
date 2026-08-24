@@ -17,7 +17,7 @@ Meldingstjenesten i iSkole er bygget om fra bunnen av. Den nye tjenesten er lik 
 Meldinger og svar holdes nå samlet i én samtale. Du slipper å lete frem tidligere meldinger for å se sammenhengen — hele forløpet ligger i samme tråd, med det nyeste øverst. Uleste meldinger er tydelig markert, antallet uleste vises fortsatt i menyen så du ser det uansett hvor i iSkole du er.
 
 ## Flere mottakere
-iSkole har alltid sendt meldinger som blind-kopi, altså at de ulike mottakerne ikke kan se hverandre. Dette har vi valgt å videreføre, da dette er naturlig når man sender melding til alle elever, en klasse eller andre grupper på iSkole. Som et tillegg kan man nå legge til mottakere som skal være synlige for hverandre. Ved svar på en slik melding får man valget mellom å kun svare avsenderen eller å svare alle. 
+iSkole har alltid sendt meldinger som blind-kopi, altså at de ulike mottakerne ikke kan se hverandre. Dette har vi valgt å videreføre, da dette er naturlig når man sender melding til alle elever, en klasse eller andre grupper på iSkole. Som et tillegg kan man nå legge til mottakere som skal være synlige for hverandre.
 
 ## Svar til riktige mottakere
 
