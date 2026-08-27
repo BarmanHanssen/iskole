@@ -3,6 +3,10 @@ id: timeplan_definer_blokknr
 title: Blokk
 sidebar_label: Blokk 
 ---
+Dersom skolens elever kan velge fag som ikke inngår i klassens fagsammensetning, klassifiserer vi de valgbare fagene som gruppefag. Det er naturlig å timeplanlegge gruppefagene og klassefagene hver for seg. Krav til timeplanlegger blir at timeplan fremstår uten kollisjon mellom elevens klasse- og gruppefag. 
+
+Vi ser her hvordan vi kan forenkle timeplanleggingen av gruppefag dersom fag samles i en blokk. Utgangspunktet blir da: En blokk inneholder minst ett gruppefag. En elev kan bare velge et fag fra hver blokk. Og en lærer kan bare tildeles et fag fra hver blokk. Vi navngir hver blokk med et nummer som vi kaller blokkid.
+
 ### Hvorfor benytte blokkid?
 Man innsnevrer elevers valg av gruppefag, likeså læreres fagsammensetning.
 - Valget begrenses ved at det ikke er mulig for en elev å velge to fag med samme blokkid.
@@ -10,7 +14,7 @@ Man innsnevrer elevers valg av gruppefag, likeså læreres fagsammensetning.
 - Og to fag med samme blokkid kan ikke timeplanlegges til samme tid. 
 
 Tilleggsgevinst:
-- Dersom et blokkid er timeplanlagt, kan timeplanleggingen av fag med denne blokkid kunne gjøres med ett museklikk. 
+- Dersom et blokkid er timeplanlagt, kan timeplanleggingen av et fag med denne blokkid gjøres med ett museklikk. 
 
 Timeplanlegging av gruppefag kan gjøres uten å benytte (eller ta hensyn til) timeplanen for et blokkid. 
 
