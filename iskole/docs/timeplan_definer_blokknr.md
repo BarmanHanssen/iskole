@@ -23,7 +23,7 @@ Blokkid, med eller uten timeplan for hver blokk, er en mal for timeplanlegging a
 Det er forhåndsdefinert 10 blokker. Vanligvis benytter en videregående skole 5 til 7 blokker.
 
 :::info Merk
-Det er først når et blokkid er timeplanlagt at vi kan høste gevinsten ved timeplanlegging av gruppefagene i blokken..
+Det er først når et blokkid er timeplanlagt at vi kan høste gevinsten ved timeplanlegging av gruppefagene i blokken.
 :::
 
 Eksempel:
@@ -43,10 +43,12 @@ Dersom trinn er lagt inn begrenser det ikke direkte timeplanleggers arbeid.
 Men dersom trinn innføres vil det begrense elevens valgmuligheter. En elev kan bare velge gruppefag fra en blokk hvor elevens klassetrinn inngår. 
 Timeplanlegger vil uansett få melding dersom en elev får kollisjon på sin timeplan.
 
+:::info Merk
 Dersom elevene selv skal kunne velge gruppefag for neste skoleår er fremgangsmåten slik:
 - Neste skoleår må opprettes, se _Grunnlagsdata>Skoleår_. Valgbare grupper må opprettes, gjerne med blokkid og trinn .
 - Aktuelle elever i år må flyttes opp til neste skoleår,  se _Elevadmin.>Oppflytting_
 - Det må åpnes for når årets elever skal kunne få velge av gruppefag for neste skoleår, se _Mine sider>Tilgang>Elevers valg av gruppefag_.
+:::
 
 ### Blokkfag
 Alle fag som er tildelt blokkid vises her. Blokkid kan registreres på fagene allerede når gruppefag opprettes fra _Grunnlagsdata>Grupper_.
