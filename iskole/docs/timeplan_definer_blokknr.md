@@ -38,9 +38,10 @@ I bildet over har vi lagt inn de beskrevne timene for blokkid 2. Blokkid 1 er al
 
 
 #### Trinn
-Hva som legges inn som trinn for hver blokkid innvirker på elevenes valg av gruppefag. Men det det begrenser ikke direkte timeplanleggers arbeid.
+Dersom trinn er lagt inn begrenser det ikke direkte timeplanleggers arbeid.
 
-Dersom blokkid benyttes, kan en elev velge et gruppefag fra hver blokk. Her kan vi legge til ekstra en betingelse for elevenes valg av gruppefag, nemlig at bare elever fra angitte klassetrinn gis adgang.
+Men dersom trinn innføres vil det begrense elevens valgmuligheter. En elev kan bare velge gruppefag fra en blokk hvor elevens klassetrinn inngår. 
+Timeplanlegger vil uansett få melding dersom en elev får kollisjon på sin timeplan.
 
 Dersom elevene selv skal kunne velge gruppefag for neste skoleår er fremgangsmåten slik:
 - Neste skoleår må opprettes, se _Grunnlagsdata>Skoleår_. Valgbare grupper må opprettes, gjerne med blokkid og trinn .
