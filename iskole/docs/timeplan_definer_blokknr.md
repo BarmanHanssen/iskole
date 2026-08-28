@@ -3,12 +3,12 @@ id: timeplan_definer_blokknr
 title: Blokk
 sidebar_label: Blokk 
 ---
-Dersom skolens elever kan velge fag som ikke inngår i klassens fagsammensetning, klassifiserer vi de valgbare fagene som gruppefag. Det er naturlig å timeplanlegge gruppefagene og klassefagene hver for seg. Krav til timeplanlegger blir at timeplan fremstår uten kollisjon mellom elevens klasse- og gruppefag. 
+Dersom skolens elever kan velge fag som ikke inngår i klassens fagsammensetning, kaller vi de valgbare fagene for gruppefag. Det er naturlig å timeplanlegge gruppefagene og klassefagene hver for seg. Uansett fremgangsmåte skal timeplanen legges uten kollisjon mellom elevens klasse- og gruppefag. 
 
 Vi ser her hvordan vi kan forenkle timeplanleggingen av gruppefag dersom fag samles i en blokk. Utgangspunktet blir da: En blokk inneholder minst ett gruppefag. En elev kan bare velge et fag fra hver blokk. Og en lærer kan bare tildeles et fag fra hver blokk. Vi navngir hver blokk med et nummer som vi kaller blokkid.
 
 ### Hvorfor benytte blokkid?
-Man innsnevrer elevers valg av gruppefag, likeså læreres fagsammensetning.
+Man innsnevrer elevers og læreres valg av gruppefag.
 - Valget begrenses ved at det ikke er mulig for en elev å velge to fag med samme blokkid.
 - En lærer kan ikke tildeles to fag med samme blokkid.
 - Og to fag med samme blokkid kan ikke timeplanlegges til samme tid. 
@@ -16,13 +16,14 @@ Man innsnevrer elevers valg av gruppefag, likeså læreres fagsammensetning.
 Tilleggsgevinst:
 - Dersom et blokkid er timeplanlagt, kan timeplanleggingen av et fag med denne blokkid gjøres med ett museklikk. 
 
-Timeplanlegging av gruppefag kan gjøres uten å benytte (eller ta hensyn til) timeplanen for et blokkid. 
+Timeplanlegging av gruppefag kan gjøres uten å benytte (eller ta hensyn til) timeplanen for et blokkid.(Unbefales ikke!)
 
-Blokkid, med eller uten timeplan for hver blokk, er en mal for timeplanlegging av gruppefag. En endring av malen har ingen innvirkning på timeplaner for gruppefag som alt er timeplanlagt.
+Blokkid, med eller uten timeplan for hver blokk, er en mal for timeplanlegging av gruppefag. En endring av malen har ingen innvirkning på timeplanen for et gruppefag som alt er timeplanlagt.
 
+Det er forhåndsdefinert 10 blokker. Vanligvis benytter en videregående skole 5 til 7 blokker.
 
 :::info Merk
-Det er først når et blokkid er timeplanlagt at vi kan høste gevinsten ved timeplanlegging av gruppefag.
+Det er først når et blokkid er timeplanlagt at vi kan høste gevinsten ved timeplanlegging av gruppefagene i blokken..
 :::
 
 Eksempel:
