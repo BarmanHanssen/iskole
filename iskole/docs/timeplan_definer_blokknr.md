@@ -16,7 +16,7 @@ Man innsnevrer elevers og læreres valg av gruppefag.
 Tilleggsgevinst:
 - Dersom et blokkid er timeplanlagt, kan timeplanleggingen av et fag med denne blokkid gjøres med ett museklikk. 
 
-Timeplanlegging av gruppefag kan gjøres uten å benytte (eller ta hensyn til) timeplanen for et blokkid.(Unbefales ikke!)
+Timeplanlegging av gruppefag kan gjøres uten å benytte (eller ta hensyn til) timeplanen for et blokkid. (Anbefales ikke!)
 
 Blokkid, med eller uten timeplan for hver blokk, er en mal for timeplanlegging av gruppefag. En endring av malen har ingen innvirkning på timeplanen for et gruppefag som alt er timeplanlagt.
 
@@ -38,9 +38,9 @@ I bildet over har vi lagt inn de beskrevne timene for blokkid 2. Blokkid 1 er al
 
 
 #### Trinn
-Trinn henviser til klassetrinnet eleven er tilknyttet. Elever på videregående skole er gjerne fordelt på tre klassetrinn. Her kan vi legge til en ekstra betingelse, nemlig at fag med gitt blokkid bare kan velges dersom eleven befinner seg på angitt trinn.
+Hva som legges inn som trinn for hver blokkid innvirker på elevenes valg av gruppefag. Men det det begrenser ikke direkte timeplanleggers arbeid.
 
-Dersom blokkid ikke benyttes, kan en elev velge gruppefag på fritt grunnlag blant skolens tilbud. Fagvalget er dog begrenset ved at enkelte fag krever forkunnskaper, eksempelvis kan ikke kjemi 2 velges uten at kjemi 1 allerede er tatt og bestått.
+Dersom blokkid benyttes, kan en elev velge et gruppefag fra hver blokk. Her kan vi legge til ekstra en betingelse for elevenes valg av gruppefag, nemlig at bare elever fra angitte klassetrinn gis adgang.
 
 Dersom elevene selv skal kunne velge gruppefag for neste skoleår er fremgangsmåten slik:
 - Neste skoleår må opprettes, se _Grunnlagsdata>Skoleår_. Valgbare grupper må opprettes, gjerne med blokkid og trinn .
@@ -61,7 +61,5 @@ Huk av for fag, og velg hvilke blokkid som skal benyttes, og avslutt med _Lagre_
 Her fås en nyttig oversikt når elevens valg av gruppefag er registrert, og gruppefagene er timeplanlagt.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3128651d-a41a-42e8-97ac-71beda745e03)
-
-
 
 Her vises timer hvor minst en av elevene i klassen har et gruppefag på sin timeplan. Av skjermbildet fremgår det at 7 timer dekker klassens  timeplan for gruppefag. Klassefag kan ikke timeplanlegges her. Dersom klassen BY1C har klassefag som krever 23 timer undervisning, vil klassens timeplan totalt dekke 30 timer når klassefagene er ferdig timeplanlagt. Men elevens timeplan kan ha færre timer avhengig av valg av gruppefag.
