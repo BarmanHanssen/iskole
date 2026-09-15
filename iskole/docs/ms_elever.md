@@ -22,4 +22,7 @@ Ved å dobbeltklikke på en elev fås frem flere data til eleven. Hvilke data fr
 
 ![bilde](https://github.com/user-attachments/assets/c2408048-3b70-4dfd-8311-76b18f07a3e4)
 
+### Samtaler 
+Kontaktlærer, rådgiver/helsesykepleier og andre med utvidede elevrettigheter gis innsyn i elevs fagsamtaler. Innføringen av samtalene gjøres fra _Mine sider>Elev_.
+
  
