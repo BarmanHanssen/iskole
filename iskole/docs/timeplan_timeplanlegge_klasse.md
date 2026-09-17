@@ -113,12 +113,16 @@ tiden bekreftes i dialogen før lagring. Skal timen til en annen dag,
 slettes den og legges på nytt med et klikk på riktig dag.
 
 ### Elevenes andre undervisning
-Klikk på et dempet felt (gruppefag, gjesteklasse eller annet klassefag)
-med et fag eller en lærer valgt: en dialog viser hvilke av fagets
-elever som har undervisningen, med klassens elever og gjester hver for
-seg. Har faget (og valgt lærer) ledig kvote, tilbyr dialogen
+Klikk på et dempet felt (gruppefag, gjesteklasse, annet klassefag eller
+et grått **Elever opptatt**-felt) med et fag eller en lærer valgt: en
+dialog viser hvilke av fagets elever som har undervisningen, med
+klassens elever og gjester hver for seg. Grå «Elever opptatt»-felt
+betyr at noen av fagets elever følger undervisning i en annen klasse i
+tidsrommet — tallet i parentes er hvor mange — og dialogen viser hvem
+og hvilket fag. Har faget (og valgt lærer) ledig kvote, tilbyr dialogen
 **Planlegg likevel** — fagets time legges i tidsrommet med tillatt
-elevkollisjon.
+elevkollisjon. Dekker feltet flere skoletimer, krysser du av hvilke av
+dem som skal planlegges.
 
 ### Bytt rom på flere timer
 **Bytt rom** på faglinjen lister fagets timer i uken. Velg nytt rom —
