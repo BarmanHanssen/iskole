@@ -221,10 +221,13 @@ For at kontaklæreren raskere skal kunne føre dagfravær på alle kontakteleven
 ![Alle kontaktelever](/img/ms_fravaer_alle.png 'Alle kontaktelever')
 
 ## Alle elever
-Skolens ledelse har full tilgang til all fraværsføring. De kan velge mellom to ulike innfallsvinkler, den første for fag og den andre for elever.
+Skolens ledelse har full tilgang til all fraværsføring. De kan velge mellom ulike innfallsvinkler, fag, klasse og enkeltelever.
 
 ### Fagfravær
 I filteret kan man søke etter fag eller faglærer. Ved å klikke på raden med ønsket fag kommer man til den samme visningen som faglæreren i faget har.
+
+### Klasse
+Fraværsføring for en klasse gir en ukesvisning med alle klassens elever. Mulighet til å endre både dag- og timefravær og all tilhørende informasjon om fraværet som dokumentasjonstype, merknad og lengde.
 
 ### Elever
 Her kan det søkes blant alle skolens elever. Ved å klikke på raden til ønsket elev får man frem den samme detaljerte fraværsføringen som kontaktlæreren.
