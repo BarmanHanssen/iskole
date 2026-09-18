@@ -99,58 +99,55 @@ I eksempelet under har eleven 6,3 timer fravær i KRO1019 (11,25 %) og ligger de
 Beregningen av udokumentert + helsefravær og grunnlaget for udokumentert fravær over 10 % teller begge **alt fravær med unntak av det som er dokumentert iht. §6-8 b-i**. Det er mulig at elever kan få karakter selv om udokumentert + helsefravær overstiger 10 %. Når en elev har over 10 % fravær i et fag, er det viktig å kontrollere at alt fravær som overstiger 10 % er dokumentert. Dersom en elev har udokumentert fravær over 10 %, men leverer dokumentasjon for §6-8 b-i for tidligere fravær, kan dette bringe det udokumenterte fraværet innenfor 10 % igjen.
 
 ## Fagfravær
-Føring av fagfravær starter med at faglærer velger faget det skal føres fravær i. Fravær kan bare føres i de timene som er timeplagt i faget. Ved føring av fagfravær kan man velge mellom _Fullvisning_ og _Komprimert visning_. Den komprimerte er beregnet for små skjermer og viser kun timene i det valgte faget for en uke. Fullvisningen viser timeoppsettet for alle ukens timer og markerer alt som er fraværsført på den enkelte elev. Faglæreren kan dermed se om eleven også har vært borte tidligere på dagen. 
+Føring av fagfravær starter med at faglærer velger faget det skal føres fravær i, og hvordan uka skal vises. Fravær kan bare føres i de timene som er timeplanlagt i faget. Fagkortet har to valg, og inne i visningen bytter du fritt mellom dem med knappen øverst:
 
-Dersom en time ikke blir avholdt kan faglærer registrere dette i fullvisningen. I fullvisningen vises informasjon om timen (fag, merknad, minutter fravær, og tiden for timen) ved å holde musepekeren over fraværskoden, dette er ikke tilgjengelig i komprimert visning. Øvrig funksjonalitet er lik i de to visningene.
+- **Komprimert visning**: bare timene i det valgte faget, én rad per elev. Rask å føre i, og den som brukes på mobil.
+- **Fullvisning**: hele timeplanen for alle elevene, med fravær som andre faglærere har ført. Her kan du se om eleven også har vært borte tidligere på dagen, og her registreres avvik i undervisningen.
 
+Verktøylinja er lik i begge: _Angre_ og _Lagre_ øverst, knapperekken med fraværstypene, _Før oppmøte_ og _Orden og oppførsel_. Alt du gjør samles som **ulagrede endringer** (stiplet ramme på cella) til du trykker _Lagre_. Knappen viser hvor mange endringer som venter. Forlater du siden med ulagrede endringer, får du et varsel.
 
-![Fravær](/img/ms_fravaer_oversikt.png 'Fravær')
+![Fagfravær](/img/ms_fagfravaer_fagets_timer.gif 'Komprimert visning: velg type, klikk timene, før oppmøte og lagre')
 
-:::tip Tips
-I begge visninger kan man klikke på en elevs navn for å få frem bilde og alle fraværsdetaljer i dette faget. (Fraværstype, lengde, dokumentert og merknad)
-:::
+### Pensel: velg type, klikk timene
+Registreringen fungerer som en pensel: velg fraværstypen i knapperekken (F, S, M, O, A eller _Fjern_), og klikk på timene som skal ha den. Standardvalget er fravær (F). Skift-klikk på en time fjerner registreringen.
 
-### Komprimert visning
-Den komprimerte visningen er tenkt brukt på enheter med mindre skjermer, gjerne med berøring. Her vil kun fagets timer vises og fraværet føres ved å velge verdi fra knapperekken over tabellen og deretter klikke på de timene som skal ha denne fraværstypen. Standardvalget er fravær (F). 
-
-![Fagfravær komprimert](/img/ms_fagfravaer_komp.gif 'Komprimert')
+Knappen **Velg** (hånden) helt til venstre i knapperekken markerer en time uten å male. Da åpnes detaljene for timen i et panel: fraværstype, antall minutter, dokumentasjonstype og merknad. _Tilbakestill denne cellen_ tar bort det du har gjort i denne timen, og _Ferdig_ lukker panelet. Endringene beholdes som ulagret til du trykker _Lagre_.
 
 :::tip Tips
-1. Hvis du klikker feil kan du angre ved å klikke på den runde knappen med pil tilbake.
-1. Hvis du har tastatur kan du holde inne shift-tasten for å fjerne et fravær. Musepekeren viser hvilken verdi som vil bli ført på timen.
-1. Du kan holde inne shift+S for å sette inn S på timen.
+1. Klikk på elevens navn for å se hele uka til én elev.
+1. Prikken bak navnet viser hvor mange udokumenterte timer eleven har i faget denne uka.
+1. _Angre_ (Ctrl+Z) tar tilbake siste endring.
 :::
 
+### Komprimert visning på mobil
+På mobil tar elevlisten hele skjermen, og knapperekken ligger nederst. Har faget flere timer i uka enn det er plass til på én linje, kommer det et dagfilter øverst (_Alle_, _Man_, _Tir_ …) med antall timer per dag, og dagens dag er valgt når du åpner. Trykk på en time for å føre valgt type. Med **Velg** åpnes detaljene i en skuff nedenfra; _Ferdig_ lukker skuffen. _Lagre_ ligger i topplinja, og menyen med tre prikker samler resten (blant annet _Orden og oppførsel_ og tegnforklaringen).
+
+![Fagfravær på mobil](/img/ms_fagfravaer_telefon.gif 'Dagfilter, knapperekke nederst og detaljer i skuff')
 
 ### Fullvisning
-Fullvisningen inneholder informasjon om alle elevenes timer. Timene i tabellen vil være markert med «-» hvis eleven ikke har undervisning. Fraværsføring i andre fag vises, men kan ikke endres her. Tomme felt betyr at eleven har undervisning, men at det ikke er registrert noe fravær.
+Fullvisningen viser alle elevenes timer. Øverst til venstre står et kort med fagkode, fagnavn og antall elever. Timene i det valgte faget har et lite **felt** i cella – det er der du kan føre. Andre fag vises med den fraværskoden som er ført der, men kan ikke endres her; strek betyr at eleven ikke har undervisning. Hold musepekeren over en celle for å se fag, tidspunkt, fraværskode, merknad og lengde.
 
-Fravær kan kun føres der valgt fag er timeplanlagt. Gyldige verdier er F for fravær og S for forsentkomming. Det kan føres M for å dokumentere at eleven har møtt til undervisning. O benyttes for organisert studiearbeid, altså at eleven ikke er tilstede i undervisningen, men hvor timen ikke bokføres som fravær. 
+Penselen virker på samme måte som i komprimert visning. Slår du penselen av, kan du i stedet klikke i et felt og bruke tastaturet: F, S, M, O eller A setter typen, piltastene flytter deg mellom feltene, ⌫ fjerner, _Enter_ åpner panelet, _Esc_ avbryter og Ctrl+S lagrer. Marker flere felt ved å dra eller skift-klikke, og sett typen på alle med knapperekken eller tasten.
 
-:::tip Tips
-Når du står i et tekstfelt kan du navigere til andre felter ved å benytte piltastene, alternativt _Enter_ for nedover og _Tab_ til høyre.
-:::
+![Fullvisning](/img/ms_fagfravaer_hele_uka.gif 'Fullvisning: felt i fagets timer, pensel og tastatur')
 
-![Fagfravær](/img/Fagfravær.gif 'Fagfravær')
+#### Avvik i undervisningen
+Nederst i fullvisningen ligger raden _Avvik_ med én rute per time i faget. Alle timeplanlagte timer regnes i utgangspunktet som avholdt (1). Ble timen ikke avholdt, setter du 2 (timen mistet på grunn av læreplanrelaterte aktiviteter i andre fag) eller 3 (timen mistet av andre grunner). Avvik 2 og 3 sletter fravær som er ført i timen når du lagrer – også fravær som følger av dagfravær – slik at timen ikke teller mot fraværsgrensen.
 
 ### Oppmøte
-Dersom du skal markere for oppmøte (kode M), gjøres dette raskt og effektiv ved å benytte knappen _Før oppmøte_. Du kan velge mellom å føre oppmøte for en og en time eller å føre oppmøte i alle timene i listen. Denne funksjonen fører M på alle elever i de aktuelle timene hvor eleven ikke allerede har en fraværskode. Vi anbefaler derfor at man først registrer og lagrer fraværet, deretter benytter funksjonen for oppmøte.
-
-![Oppmøte](/img/ms_fagfravaer_oppmote.png 'Oppmøte')
+Skal du markere for oppmøte (kode M), gjør du det raskest med knappen _Før oppmøte_. Den setter M på alle tomme timer blant fagets avholdte timer **i det du ser**: hele uka, eller bare den valgte dagen når dagfilteret på mobil står på én dag. I fullvisningen kan du også føre oppmøte for én time om gangen fra kolonneoverskriften. Timer som allerede har en registrering, dagfravær eller avvik hoppes over, og meldingen forteller hvor mange. Resultatet er vanlige ulagrede endringer, så du kan se over, angre og lagre som ellers. Vi anbefaler å registrere fraværet først, og deretter føre oppmøte.
 
 :::info Merk
-Det er kun mulig å masseregistrere oppmøte på avholdte timer.
+Det er kun mulig å masseregistrere oppmøte på avholdte timer. I komprimert visning er andre fags timer ikke lastet, så fravær en annen faglærer har ført i samme time kan ikke sjekkes der – bytt til fullvisning for å se det.
 :::
 
-
 ### Orden- og atferd
-Dersom det skal føres en anmerkning på en elev, benyttes knappen _Orden- og atferd_. Dette er en snarvei til menyvalget _Vurderinger > «fag» > Orden og Atferd_.
-
+Dersom det skal føres en anmerkning på en elev, benyttes knappen _Orden og oppførsel_. Dette er en snarvei til menyvalget _Vurderinger > «fag» > Orden og Atferd_.
 
 ### Merknader for dag- og timefravær
-Merknader kan registreres på hver eleves time i faget faget. Eksempelvis grunn for fravær og forsentkomming. Merknaden trenger med andre ord ikke bety brudd på skolens reglement. Merknader for brudd på skolens reglement kan føres som _Orden- og atferdsvurderinger_. 
+Merknader kan registreres på hver elevs time i faget, for eksempel grunn for fravær eller forsentkomming. Merknaden trenger med andre ord ikke bety brudd på skolens reglement. Merknader for brudd på skolens reglement føres som _Orden- og atferdsvurderinger_.
 
-Merknader for dag og andre fag vises i fullvisningen ved å holde musepekeren over fraværskoden. Merknader i timer tilknyttet valgt fag vises og føres ved å klikke på elevens navn.
+Merknader i timer tilknyttet valgt fag føres i panelet (bruk **Velg** og klikk på timen). Merknader for dag og andre fag vises i fullvisningen ved å holde musepekeren over cella.
 
 ### Fraværsførere
 Her kan faglærer gi andre ansatte tilgang til fraværsføring i faget. Klikk på _Legg til_ for å åpne et dialogvindu med en tabell over andre ansatte.
@@ -202,11 +199,16 @@ For kontaktlærere og vikarer/assistenter tilordnet av kontaktlæreren fra _Mine
 
 ![Fravær kontaktelever](/img/ms_fravaer_kontaktelever.png 'Fravær kontaktelever')
 
-### All fraværsinformasjon for en kontaktelev
-1. Man kan klikke på øyet i tabellen for å vise all fraværsinformasjon for eleven. Dette er samme oversikt som finnes under menyvalget _Elever_.
-1. Ved å klikke på en time i fraværsoversikten kan man føre dag- og timefravær for denne timens dag.
+### All fraværsinformasjon for en kontaktelev {#kontaktelev_oversikt}
+Klikk på øyet i tabellen for å åpne all fraværsinformasjon for eleven – samme oversikt som under menyvalget _Elever_. Øverst ligger regnskapet mot fraværsgrensen per fag (_Helserelatert og udokumentert fravær_, _Udokumentert fravær over 10 %_) og listene over timer avholdt, egenmeldinger, timefravær innenfor klagefristen og merknader. Nederst ligger **Fraværsoversikt**: en kalender over hele skoleåret med én rute per skoledag.
 
-![Kontaktelev - se alle fraværsopplysninger](/img/Fravær_kontaktelev_øye.gif 'Kontaktelev - se alle fraværsopplysninger')
+Stripene i en rute er dagens undervisningstimer i rekkefølge, og fargen forteller hvordan fraværet er dokumentert – samme farger som ellers i fraværsføringen: rød _Udokumentert_, lys blå _Helse — egenmeldt_, mørk blå _Helse — dokumentert_, grønn _Dokumentert §6-8 b-i_ og gul for sent. Timer uten fravær er nøytrale: tynn strek betyr ingen registrering, grå stripe møtt (M) og åpen stripe borte uten at det teller (O/A, vist som kode ved datoen). Lilla merke betyr registrert dagfravær, skravert stripe at egenmelding er levert men ikke behandlet, og en prikk i stripen at timen har merknad.
+
+- **Filtrer:** hold pekeren over en av knappene over kalenderen for å fremheve dagene med den typen, og klikk for å låse filteret. _Nullstill filter_ eller Esc tar det bort.
+- **Dagdetaljer:** klikk på en dag for å få hver time i panelet til høyre – fag, klokkeslett, fraværstype og dokumentasjon, eventuell egenmelding og merknad.
+- **Behandle:** knappen _Behandle fravær for dagen_ nederst i panelet åpner registreringen av dag- og timefravær for denne dagen, som før.
+
+![Kontaktelev – fraværsoversikt](/img/ms_fravaer_kontaktelev_oversikt.gif 'Øyet åpner elevens fraværsoversikt: filter, dagdetaljer og behandling av dagen')
 
 ### Føre fravær på kontaktelev ukesvis  {#kontaktelev_detaljer}
 Ved å klikke på blyanten kan man føre all fraværsinformasjon for en elev for en uke. Hver dag i valgt uke vil vise _Dagfravær_, _Dokumentasjonstype_ og _Merknad_, (Dagmerknad) etterfulgt av en tabell med de timene eleven har denne dagen. Det er ikke mulig å føre fravær på en time hvor eleven ikke har timeplanlagt undervisning. For gyldige verdier, se oversikten øverst på siden. Det er faglærerne som i hovedsak fører timefraværet, men kontaktlæreren har allikevel fulle rettigheter til alle timene. Det er kun kontaktlæreren som har mulighet til å føre dagfravær. Kontaktlærer kan også sette dokumentasjonstype på fraværet.
@@ -215,10 +217,18 @@ Ved å klikke på blyanten kan man føre all fraværsinformasjon for en elev for
 Når det føres dagfravær låses muligheten for å endre timefraværet. Dersom det gjøres endringer på timeplanen eller eleven tildeles nye fag kan det forekomme tomme timer som er låst av dagfraværet. Kontaktlæreren må ta stilling til om eleven skulle hatt fravær på disse timene, hvis så må dagfraværet slettes og deretter legges inn igjen.
 :::
 
-### Behandle dagfravær for alle kontaktelever
-For at kontaklæreren raskere skal kunne føre dagfravær på alle kontaktelevene for en uke kan knappen _Behandle dagfravær for alle_ benyttes. Her listes alle elevene og eventuelle fraværskoder vises for hver enkelt time. Velg fraværstypen du ønsker å føre (dagfravær er standard), klikk deretter på ruten til de dagene denne koden skal settes inn. Husk å lagre. Timer med - betyr at eleven ikke har undervisning, dette gjør det enklere å avgjøre om eleven har vært borte hele dagen. Ved å klikke på elevens navn vises den samme oversikten som beskrevet i avsnittet [Føre fravær på kontaktelev ukesvis](#kontaktelev_detaljer) Alle celler har verktøyhjelp (tooltip) med unntak av de som har en strek som markerer at eleven har fritime. Verktøyhjelpen viser fag, tidspunkt og eventuell fraværskode, merknad og lengde på fraværet.
+### Behandle dagfravær for alle kontaktelever {#alle_kontaktelever}
+Knappen _Behandle dagfravær for alle_ åpner ukevisningen for kontaktelevene: én rad per elev og ukas dager som kolonner. For hver dag står først ruten _Dag_ for dagfravær, deretter elevens timer den dagen. Nytt er at både dag- **og timefravær** føres her – du trenger ikke gå via den enkelte elev for å rette en time faglæreren har ført, eller for å føre en time selv. Fravær faglærerne har ført vises med fraværskoden, og prikk betyr at eleven ikke har undervisning i timen.
 
-![Alle kontaktelever](/img/ms_fravaer_alle.png 'Alle kontaktelever')
+Marker først rutene, velg deretter typen i knapperekken: for _Dag_ er valgene D, I, O, M og A, for timer F, S, M, O og A. Klikk markerer én rute; skift-klikk eller dra markerer flere, slik at du kan sette dagfravær på mange elever i ett grep. Markeringen åpner samtidig panelet til høyre med detaljene: dokumentasjonstype og merknad, og for timer antall minutter. Fører du dagfravær, får dagens timer merket «følger dagen» og låses – fjern dagfraværet for å føre timene enkeltvis. _Tilbakestill denne cellen_ tar bort det du har gjort i ruten. Vil du heller velge typen først og klikke rutene etterpå, slår du på _Pensel_.
+
+Alt samles som ulagrede endringer (stiplet ramme) til du trykker _Lagre_; knappen viser hvor mange som venter, og _Angre_ tar tilbake siste endring. Hold musepekeren over en rute for fag, tidspunkt, fraværskode, merknad og lengde. Klikk på elevens navn for å markere alle elevens dager og åpne elevens uke nederst i bildet – dag for dag med timene, slik at du kan redigere hver dag i panelet. Det tilsvarer [Føre fravær på kontaktelev ukesvis](#kontaktelev_detaljer).
+
+![Alle kontaktelever](/img/ms_fravaer_alle.gif 'Dag- og timefravær for alle kontaktelever i én uke')
+
+:::tip Tips
+Lenken _Gammel visning_ øverst til høyre tar deg tilbake til det forrige rutenettet; valget huskes til neste gang.
+:::
 
 ## Alle elever
 Skolens ledelse har full tilgang til all fraværsføring. De kan velge mellom ulike innfallsvinkler, fag, klasse og enkeltelever.
@@ -227,7 +237,7 @@ Skolens ledelse har full tilgang til all fraværsføring. De kan velge mellom ul
 I filteret kan man søke etter fag eller faglærer. Ved å klikke på raden med ønsket fag kommer man til den samme visningen som faglæreren i faget har.
 
 ### Klasse
-Fraværsføring for en klasse gir en ukesvisning med alle klassens elever. Mulighet til å endre både dag- og timefravær og all tilhørende informasjon om fraværet som dokumentasjonstype, merknad og lengde.
+Fraværsføring for en klasse gir en ukesvisning med alle klassens elever, med mulighet til å endre både dag- og timefravær og all tilhørende informasjon om fraværet – dokumentasjonstype, merknad og lengde. Visningen er den samme som kontaktlærerens [Behandle dagfravær for alle kontaktelever](#alle_kontaktelever), bare for hele klassen.
 
 ### Elever
 Her kan det søkes blant alle skolens elever. Ved å klikke på raden til ønsket elev får man frem den samme detaljerte fraværsføringen som kontaktlæreren.
