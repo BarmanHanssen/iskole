@@ -18,6 +18,17 @@ skolens hjemmeside, for eksempel `skolenavn.iskole.net/soker`.
 For å søke må du ha norsk fødselsnummer eller D-nummer. Ta kontakt med
 skolen.
 
+### Feil ved innlogging fra elevportalen (Feide)
+
+- «Du må ha norsk fødselsnummer eller D-nummer for å søke. Ta kontakt med
+  skolen din.» – skolen har ikke registrert norsk fødselsnummer eller
+  D-nummer på deg.
+- «Det er ikke registrert e-post på deg i skolens system. Ta kontakt med
+  skolen din.» – skolen må legge inn e-postadressen din før du kan gå til
+  søkerportalen fra elevportalen.
+
+Du kan også logge inn direkte med ID-porten.
+
 ### Jeg får ikke brukt ID-porten
 
 Bruk **Få innloggingslenke på e-post** på innloggingssiden. Lenken sendes

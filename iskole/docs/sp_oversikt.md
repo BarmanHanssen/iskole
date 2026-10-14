@@ -26,8 +26,10 @@ Går du til `iskole.net/soker` uten skolenavn, blir du bedt om å
 - **Skal barnet ditt søke til grunnskolen**, logger du inn som deg selv
   med ID-porten og søker for barnet. Se [Søke for barn](sp_foreldre.md).
 
-Du logger inn med **ID-porten** (BankID, MinID osv.). Har du ikke
-mulighet til det, kan du få en **innloggingslenke på e-post**. Du må ha
+Du logger inn med **ID-porten** (BankID, MinID osv.). Er du elev i
+iSkole, kan du også bruke **innlogging med Feide (via elevportalen)**. Har
+du ikke mulighet til noen av dem, kan du få en **innloggingslenke på
+e-post**. Du må ha
 norsk fødselsnummer eller D-nummer for å søke. Brukernavn og passord
 brukes ikke lenger.
 

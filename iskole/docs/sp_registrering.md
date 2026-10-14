@@ -55,10 +55,13 @@ Med innloggingslenke kan du fylle ut og sende søknaden. Noe krever
 likevel ID-porten: å invitere foreldre, og å søke for barn hvis kontoen din
 aldri har vært innlogget med ID-porten.
 
-## Fra elevportalen
+## Innlogging med Feide (via elevportalen)
 
-Er du allerede elev i iSkole, kan du gå til søkerportalen fra menyvalget
-**Søkerportal** i elevportalen uten å logge inn på nytt.
+Er du allerede elev i iSkole, kan du logge inn i elevportalen med Feide og
+gå til søkerportalen fra menyvalget **Søkerportal** uten å logge inn på
+nytt. Har du ikke søkerkonto fra før, opprettes den fra elevprofilen din.
+Også her må du ha norsk fødselsnummer eller D-nummer, og skolen må ha
+registrert e-postadressen din.
 
 ## Bekrefte e-postadressen
 
