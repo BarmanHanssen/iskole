@@ -42,7 +42,7 @@ Avhengig av skolen kan du krysse av for **Jeg søker med fortrinnsrett**,
 **Jeg søker internatplass** og **Jeg søker hybel**. Fortrinnsrett må
 søkes før fristen som står under avkryssingen.
 
-Tilbyr skolen ikke heltid, kan det også vises **Startdato** og
+Tilbyr skolen elevplass deler av et skoleår, vises **Startdato** og
 **Sluttdato**.
 
 ## Dokumenter
