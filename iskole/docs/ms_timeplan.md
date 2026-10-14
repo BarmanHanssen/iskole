@@ -7,11 +7,20 @@ sidebar_label: Timeplan
 _Timeplan_ består av undermenyene _Min timeplan, Lærertimeplan, Elevtimeplan, Klassetimeplan og Romtimeplan_. Når du velger en av undermenyene vil du automatisk komme til gjeldende uke. Du kan fritt velge en annen uke fra nedtrekkslisten eller med pil-knappene før og etter listen.
 
 :::info Merk
-Med pilen som peker nedover kan du lagre timeplanen i PDF-format. Pilen som peker oppover eksporterer timeplanen slik at den kan importeres i en kalender.
+Under _Last ned_ kan du lagre timeplanen i PDF-format. På _Min timeplan_ finner du i tillegg _iCal synkronisering_, som gir deg en lenke du kan abonnere på i din egen kalenderapp.
 :::
  
 ## Min timeplan
 Dine timer vises med fag og romnr. Dersom du har fått reservert ekstra rom til en time, vil det rommet også vises på din timeplan. Klikk på en time for å få frem flere detaljer om timen. Vikartimer er farget med gul kant og reservasjoner med orange.
+
+### iCal-synkronisering
+Du kan abonnere på din egen timeplan i en kalenderapp ved hjelp av en iCal-lenke. For å hente lenken, gå til _Last ned_ > _iCal synkronisering_ på _Min timeplan_. Lenken gjelder skolen du er logget inn på; jobber du ved flere skoler, henter du én lenke per skole. Kalenderen viser timene dine 30 dager bakover og ett år fram, inkludert vikartimer (merket «Vikar:»), og oppdateres av kalenderappen din med jevne mellomrom.
+
+Fremgangsmåten i kalenderappen er den samme som for elever, se [iCal-synkronisering for elever](/docs/elev#ical-synkronisering).
+
+:::info Merk
+Lenken gir bare lesetilgang til din egen timeplan og skal ikke deles med andre. Den slutter å virke når du ikke lenger er registrert som ansatt ved skolen.
+:::
 
 ### Ukeplan
 Hvis du har lagret en ukeplan til et fag (fra Års-/ukeplan_) vil planen i faget vises her. 
