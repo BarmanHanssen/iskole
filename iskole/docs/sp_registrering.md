@@ -34,8 +34,8 @@ Klikk **Bekreft**. Kontoen opprettes i ditt navn, med fødselsnummeret fra
 ID-porten.
 
 :::caution Registrer deg med dine egne opplysninger
-Kontoen er alltid din egen. Er du forelder og har fylt 20 år, legger du
-til barnet ditt etterpå – du skal ikke registrere deg med barnets navn.
+Kontoen er alltid din egen. Er du forelder, legger du til barnet ditt
+etterpå – du skal ikke registrere deg med barnets navn.
 Se [Søke for barn](sp_foreldre.md).
 :::
 
