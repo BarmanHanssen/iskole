@@ -1,70 +1,87 @@
 ---
-title: Registrering og innlogging
+title: Innlogging og registrering
 ---
 
-# Registrering og innlogging
+# Innlogging og registrering
 
-## Registrere ny bruker
+## Logge inn med ID-porten
 
-Første gang du bruker søkerportalen må du opprette en brukerkonto.
+1. Gå til skolens søkerportal (lenke på skolens hjemmeside).
+2. Klikk på knappen **Logg inn med ID-porten**.
+3. Logg inn med BankID, MinID eller en annen metode i ID-porten.
+4. Du kommer tilbake til skolens søkerportal.
 
-1. Gå til søkerportalen i nettleseren din
-2. Klikk på knappen **Registrer deg**
-3. Fyll ut registreringsskjemaet:
-   - **Elevens fornavn** – Fornavn på eleven som skal søke
-   - **Elevens etternavn** – Etternavn på eleven
-   - **Elevens fødselsdato** – Velg dato
-   - **Elevens personnummer (5 siffer)** – De fem siste sifrene i fødselsnummeret
-   - **Landkode** – Velg riktig landkode for telefonnummeret
-   - **Telefon** – Telefonnummer
-   - **Elevens e-postadresse** – En gyldig e-postadresse
-4. Klikk **Bekreft**
-5. Du vil motta en e-post med passord. Sjekk også søppelpost/spam-mappen din.
+Etter innlogging kommer du rett til der du var: uten søknad til
+**Personalia**, med en påbegynt søknad til **Søknad**, og med en sendt
+søknad til **Behandling**. Søker du for barn, kommer du først til
+[«Hvem søker du for?»](sp_foreldre.md).
 
-:::caution Viktig
-Kontoen må opprettes i **søkerens navn**. Er du forelder og skal søke for flere barn, må du opprette en konto til hvert barn.
+:::info Norsk fødselsnummer eller D-nummer
+For å søke må du ha norsk fødselsnummer eller D-nummer.
 :::
 
-## Logge inn
+## Ny søker – fullfør registreringen
 
-1. Skriv inn **søkerens fødselsnummer** (alle 11 siffer) i feltet for brukernavn
-2. Skriv inn **passordet** du mottok på e-post (eller som du selv har satt)
-3. Klikk **Logg inn**
+Første gang du logger inn med ID-porten, finnes det ingen søkerkonto på
+deg. Da åpnes **Fullfør registreringen**:
 
-## Glemt passord
+- **Søkerens fornavn** og **Søkerens etternavn** (obligatorisk). Mellomnavn
+  skrives sammen med fornavnet.
+- **Landkode** og **Telefon** (valgfritt).
+- **Søkerens e-postadresse** (obligatorisk).
 
-Hvis du har glemt passordet ditt:
+Klikk **Bekreft**. Kontoen opprettes i ditt navn, med fødselsnummeret fra
+ID-porten.
 
-1. Klikk på lenken **Glemt passord?** under innloggingsskjemaet
-2. Skriv inn **søkerens fødselsnummer** (11 siffer)
-3. Klikk **Bestill nytt passord**
-4. Du vil motta et nytt passord på e-postadressen som er registrert på kontoen
+:::caution Registrer deg med dine egne opplysninger
+Kontoen er alltid din egen. Er du forelder og har fylt 20 år, legger du
+til barnet ditt etterpå – du skal ikke registrere deg med barnets navn.
+Se [Søke for barn](sp_foreldre.md).
+:::
 
-## Endre passord
+## Innloggingslenke på e-post
 
-Etter at du har logget inn kan du endre passordet ditt:
+Får du ikke brukt ID-porten, kan du logge inn med en lenke på e-post:
 
-1. Klikk på brukermenyen oppe til høyre
-2. Velg **Endre passord**
-3. Skriv inn ditt nåværende passord
-4. Skriv inn nytt passord (to ganger)
-5. Klikk **Lagre**
+1. Klikk **Få innloggingslenke på e-post** på innloggingssiden.
+2. Skriv inn e-postadressen som er registrert på søkerkontoen.
+3. Klikk **Send innloggingslenke**.
+4. Åpne e-posten og klikk på lenken. Lenken er gyldig i 15 minutter.
 
-### Krav til passord
+Er samme e-postadresse registrert på flere søkere, får du én lenke per
+søker i e-posten.
 
-Passordet ditt må oppfylle følgende krav:
+Med innloggingslenke kan du fylle ut og sende søknaden. Noe krever
+likevel ID-porten: å invitere foreldre, og å søke for barn hvis kontoen din
+aldri har vært innlogget med ID-porten.
 
-- Minst **8 tegn**
-- Minst **2 store bokstaver**
-- Minst **1 tall**
+## Fra elevportalen
 
-En passordstyrkeindikator viser deg hvor sterkt passordet ditt er mens du skriver.
+Er du allerede elev i iSkole, kan du gå til søkerportalen fra menyvalget
+**Søkerportal** i elevportalen uten å logge inn på nytt.
+
+## Bekrefte e-postadressen
+
+Skolen sender kvitteringer og beskjeder om søknaden til e-postadressen
+din. Er adressen ikke bekreftet, vises en påminnelse øverst i portalen:
+
+1. Klikk **Send bekreftelseslenke**.
+2. Åpne e-posten og klikk på lenken.
+3. Siden viser «E-postadressen din er bekreftet».
+
+## Logge ut
+
+Klikk på navnet ditt oppe til høyre og velg **Logg ut**. Logget du inn med
+ID-porten, logges du også ut av ID-porten. Du kommer tilbake til
+innloggingssiden for skolen.
 
 ## Velg skole
 
-Dersom du ikke allerede er koblet til en bestemt skole via lenken du brukte, vil du bli bedt om å velge skole:
-- Klikk på ønsket skole i listen for å gå videre
+Bruker du adressen `iskole.net/soker` uten skolenavn, vises **Velg skole**
+med alle skolene som bruker søkerportalen. Klikk på skolen du vil søke til.
 
 ## Personvern
 
-Du finner personvernerklæringen ved å klikke på lenken **Personvernerklæring** på innloggingssiden. Denne beskriver hvordan iSkole behandler og bruker personopplysningene dine.
+Du finner personvernerklæringen ved å klikke på lenken
+**Personvernerklæring** på innloggingssiden. Den beskriver hvordan iSkole
+behandler og bruker personopplysningene dine.

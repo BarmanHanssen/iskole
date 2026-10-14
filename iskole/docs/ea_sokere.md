@@ -119,7 +119,11 @@ Fanene øverst gir i tillegg:
 
 - **Rapport egendefinert** — tabellrapport over alle søkere der du selv
   velger hvilke kolonner som skal med (kolonnevelger), og kan eksportere
-  til Excel.
+  til Excel. **Født** (fødselsdato) er standardkolonne; fødselsnummeret
+  kan velges inn ved behov. Kolonnene **Signering søker** og **Signering
+  forelder** viser status for Posten-signeringen.
+- **Foreldrekoblinger** — kontrolliste over foreldre som bør sees på, se
+  [Foreldrekoblinger](#foreldrekoblinger) under.
 
 ![Søknader, ikke sendt](/img/soker_ikke_sendt.png 'Søknader, ikke sendt')
 
@@ -146,13 +150,17 @@ er innhold (foresatte, statusendringer, vedlegg, spørsmål/svar).
   (avhengig av skolens oppsett) fortrinnsrett, internat og hybel, samt
   knapper for inntaksbrev og kontrakter (PDF) når de finnes.
 - **Vurdering** — poengsum, poeng fra karakterer, rettstype, merknad fra
-  søkeren og skolens egen merknad.
+  søkeren og skolens egen merknad. Bruker skolen digital signering, vises
+  nederst to merker: **Signering søker** og **Forelder** med status for
+  signeringen hos Posten (for eksempel «Signert», «Venter på signatur»,
+  «Utløpt», «Reservert mot digital signering» eller «Avvist»).
 
-**Foreldre**-fanen viser et kort per forelder med navn, adresse og
-kontaktinformasjon. Kortene redigeres med blyanten (navn, e-post, mobil,
-telefon, adresse og om forelderen skal **varsles på e-post**), og mangler
-en forelder kan den legges til. Som med personalia låses kortene når
-søkeren er plassert i klasse.
+**Foreldre**-fanen viser et kort per forelder (**Forelder 1** og
+**Forelder 2**) med navn, fødselsdato, adresse, e-post, telefon og om
+forelderen skal ha **e-varsel**. Øverst på kortet viser et merke hvordan
+forelderen er knyttet til søkeren — se [Foreldre og
+koblinger](#foreldre-og-koblinger) under. Som med personalia låses kortene
+når søkeren er plassert i klasse; foreldrene redigeres da på eleven.
 
 ![Rediger forelder](/img/soker_foreldre_rediger.png 'Foreldre — kort i redigeringsmodus')
 
@@ -176,6 +184,73 @@ enkeltvedlegg til elevmappen** når søkeren er plassert i klasse.
 
 **Fagvalg** og **Spørsmål/svar** viser søkerens valg og svar fra
 søknaden.
+
+## Foreldre og koblinger
+
+I den nye søkerportalen kan en forelder logge inn med ID-porten og bli
+**koblet** til barnet sitt. En koblet forelder ser søknaden i portalen,
+og foreldre til grunnskolesøkere kan søke for barnet. Søkere til
+videregående søker selv; foreldrene deres inviteres, bekrefter med
+ID-porten og signerer avtalen sammen med søkeren når søkeren er under 18 år.
+
+### Merket på forelderkortet
+
+Merket øverst på kortet viser hvor opplysningene kommer fra:
+
+- **Grønt** (lenke-ikon) — forelderen er koblet, for eksempel «Koblet ved
+  innlogging med ID-porten», «Koblet av skolen med fødselsnummer» eller
+  «Koblet ved godtatt invitasjon», med dato for koblingen.
+- **Grått** — forelderen er oppgitt, men ikke koblet, for eksempel
+  «Oppgitt av søkeren», «Hentet fra iSkole (elevens foresatte)»,
+  «Registrert av skolen» eller «Overført fra gammel søkerportal».
+- **Gult** (forbuds-ikon) — «Sperret – kobles ikke ved innlogging».
+
+Et blått merke **Relasjon ikke kontrollert** betyr at forelderen selv
+registrerte barnet med ID-porten — skolen bør kontrollere at personen
+faktisk er forelder. Et gult merke **Ikke koblet: navnet stemmer ikke med
+fødselsnummeret** betyr at fødselsnummeret hører til en person med et
+annet navn.
+
+### Redigere og koble
+
+Blyanten åpner kortet for redigering (navn, fødselsnummer, e-post,
+telefon, adresse og e-varsel). Lagrer du et gyldig fødselsnummer på en
+forelder som ikke er koblet, kobles forelderen til søkeren og får se
+søknaden. Forelderen blir likevel ikke koblet hvis navnet ikke stemmer med
+fødselsnummeret, hvis forelderen er under 20 år, eller hvis plassen er
+sperret — da lagres opplysningene med beskjed om hvorfor.
+
+For en forelder som er koblet, er fødselsnummeret låst. Endringer lagres
+på forelderens egen profil, gjelder alle barna og logges. Er
+fødselsnummeret feil, må plassen sperres eller fjernes først.
+
+Når søkeren er under 18 år, er **e-varsel** alltid på for forelder 1.
+
+### Fjern, Sperr og Opphev sperre
+
+Under kortet ligger tre knapper. Alle krever bekreftelse, og handlingen
+logges med ditt navn.
+
+- **Fjern** — fjerner forelderen fra søknaden. For en koblet forelder
+  beholdes forelderens egen profil; logger forelderen inn igjen og oppgir
+  barnet, kan koblingen opprettes på nytt. Bruk **Sperr** hvis det skal
+  hindres.
+- **Sperr** (bare for koblede foreldre) — fjerner koblingen, slik at
+  forelderen ikke lenger ser søknaden og ikke selv kan knytte seg til
+  barnet igjen. Opplysningene står igjen slik de er.
+- **Opphev sperre** — fjerner sperren. Er fødselsnummeret kjent, kobles
+  forelderen igjen med en gang; ellers kobles forelderen neste gang
+  forelderen logger inn med ID-porten.
+
+### Foreldrekoblinger
+
+Fanen **Foreldrekoblinger** øverst er en kontrolliste over foreldre som
+bør sees på: koblinger som ble stoppet eller avvist ved innlogging,
+sperrede plasser, foreldre som registrerte barnet selv (relasjonen er ikke
+kontrollert), navn som ikke stemmer med fødselsnummeret, og koblede
+foreldre uten adresse (inntaksbrevet trenger den). Listen viser årsak,
+søker, forelder, kilde og tidspunkt. **Vis søker** åpner søkeren med
+Foreldre-fanen, og **Oppdater** henter listen på nytt.
 
 ## Arbeidsflyt: endre status
 

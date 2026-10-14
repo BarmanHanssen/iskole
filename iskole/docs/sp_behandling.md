@@ -4,79 +4,84 @@ title: Behandling og tilbud
 
 # Behandling og tilbud
 
-På behandlingssiden kan du følge statusen på søknaden din og håndtere tilbud fra skolen.
+På Behandling følger du søknaden mens skolen behandler den, og svarer på
+tilbud om skoleplass.
 
-## Oversikt over behandlingsprosessen
+## Følge behandlingen
 
-Når du åpner behandlingssiden ser du:
+- **Søknad** – velg søknad hvis du har flere.
+- **Fremdrift** – en måler som viser hvor langt skolen har kommet.
+- **Oppdater** – henter siste status fra skolen.
+- **Historikk** – alle statuser med dato. Har skolen sendt en melding med
+  en status, åpner **Vis melding** den.
 
-1. **Velg søknad** – Har du flere søknader, velg hvilken du vil se i nedtrekkslisten
-2. **Behandlingsstatus** – En oversikt over hvor søknaden din er i behandlingsprosessen
+## Tilbud om skoleplass
 
-## Når du mottar tilbud
+Når skolen gir tilbud, vises kortet **Tilbud om skoleplass**.
 
-Når skolen har behandlet søknaden din og gir deg et tilbud, vil du se et grønt panel med informasjon om tilbudet.
+- **Last ned inntaksbrevet** – laster ned inntaksbrevet som PDF. Når
+  avtalen er ferdig signert, heter knappen **Last ned signert
+  inntaksbrev**.
+- **Aksepter tilbudet** – takker ja til plassen (når skolen ikke krever
+  signering).
+- **Signér og aksepter** – når skolen krever signert avtale (se under).
+- **Avslå tilbudet** – takker nei til plassen.
 
-### Laste ned inntaksbrev
-
-Klikk på knappen **Inntaksbrev gitt** (eller **Inntaksbrev signert** etter signering) for å laste ned inntaksbrevet som PDF.
-
-### Svare på tilbud
-
-Du har to valg når du mottar et tilbud:
-
-#### Akseptere tilbud
-
-- Dersom skolen krever signatur: Klikk **Signér og aksepter** for å signere digitalt
-- Dersom signatur ikke kreves: Klikk **Aksepter tilbud**
-
-#### Avslå tilbud
-
-- Klikk **Avslå tilbud** dersom du ikke ønsker plassen
-
-:::caution Viktig
-Å avslå et tilbud kan ikke angres. Vær sikker på at du ønsker å gi fra deg plassen før du klikker.
+:::caution Avslå
+Å avslå et tilbud kan ikke angres. Vær sikker før du klikker.
 :::
+
+### Opplysninger ved aksept
+
+Har skolen spørsmål til deg når du takker ja, åpnes **Fullfør aksepten**
+før du aksepterer. Der kan skolen spørre om matallergier, egne spørsmål og
+passinformasjon. Obligatoriske spørsmål må besvares; resten kan du svare
+på senere under **Opplysninger til skolen** på Behandling, og sende med
+**Send inn opplysninger**.
 
 ## Digital signering
 
-Noen skoler krever digital signering av inntaksbrevet. Prosessen er som følger:
+Noen skoler krever at avtalen om skoleplass signeres med BankID.
+Signeringen skjer hos **Posten**, og avtalen kan gjennomgås før du
+signerer.
 
-### For elever (videregående)
-1. Klikk **Signér og aksepter**
-2. Følg instruksjonene for å signere digitalt
-3. Etter signering oppdateres statusen til «Dokumentet er signert»
-4. For elever som ikke er myndig kreves signatur av forelder 1:
-   - Klikke på lenken i e-posten som ble sendt da eleven signerte
-   - Signere direkte fra søkerportalen via knappen **Signér avtalen**
-   - Alternativt kan du kopiere signeringslenken med **Kopier lenke** og sende den til forelder 1.
+### Søker til videregående
 
+1. Søkeren klikker **Signér og aksepter** og signerer hos Posten.
+2. Er søkeren under 18 år, må også **forelder 1** signere. Forelder 1 får
+   en e-post med lenke, eller signerer i søkerportalen med **Signér
+   avtalen**. Søkeren kan også bruke **Kopier lenke** og sende lenken til
+   forelder 1.
 
-### For foreldre (grunnskole)
-1. Forelder 1 klikker **Forelder 1: Signér og aksepter**
-2. Følg instruksjonene for å signere digitalt
+Mens det venter, vises «Venter på signatur fra ‹forelder›».
 
-Mens du venter på forelderens signatur, vises meldingen: *«Venter på signatur fra [navn på forelder]»*
+Forelder 1 må være logget inn med ID-porten og koblet til søkeren (eller
+skolen må ha registrert fødselsnummeret til forelder 1) før avtalen kan
+signeres. Søkeren signerer alltid før forelder 1.
 
-## Etter aksept – opplysninger til skolen
+### Søker til grunnskolen
 
-Når du har akseptert et tilbud, kan det dukke opp et skjema med tilleggsspørsmål fra skolen:
+Forelder 1 klikker **Forelder 1: Signér og aksepter** og signerer hos
+Posten. På «Hvem søker du for?» vises også **Signer avtalen for
+‹fornavn›** når en signatur venter.
 
-- **Matallergier** – Velg eventuelle matallergier fra listen
-- **Andre spørsmål** – Svar på skolens spørsmål
-- Klikk **Send inn opplysninger** når du er ferdig
-
-## Trekke søknad
-
-Dersom du ønsker å trekke søknaden din (før den er akseptert):
-
-1. Klikk **Trekk søknad** øverst til høyre
-2. Bekreft at du ønsker å trekke søknaden
-
-:::info Merk
-Knappen for å trekke søknad er kun tilgjengelig så lenge du ikke har akseptert et tilbud. Dersom du allikevel ikke ønsker skoleplassen etter å ha akseptert et tilbudet må du ta kontakt med skolen.
+:::info Signeringslenker fra den gamle portalen
+Signeringslenker fra den gamle søkerportalen virker ikke lenger. Har du
+fått tilbud, signerer du i den nye portalen.
 :::
 
-## Statushistorikk
+## Trekke søknaden
 
-Behandlingssiden viser en tidslinje over alle hendelser i behandlingen av søknaden din. Klikk på en status for å se mer informasjon.
+Så lenge du ikke har akseptert et tilbud, kan du trekke søknaden nederst
+på siden:
+
+1. Klikk **Trekk søknad**.
+2. Bekreft med **Trekk søknaden**.
+
+Søknader til videregående trekkes bare av søkeren selv. Søknader til
+grunnskolen trekkes av forelderen.
+
+:::info Merk
+Har du akseptert tilbudet og likevel ikke ønsker plassen, må du kontakte
+skolen.
+:::
