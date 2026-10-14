@@ -24,8 +24,8 @@ Fyll ut følgende opplysninger:
 | E-postadresse | Gyldig e-postadresse | Ja |
 | Skoleår | Velg hvilket skoleår du er interessert i | Ja |
 | Førstevalg | Velg ønsket utdanningsprogram | Ja |
-| Andrevalg | Eventuelt andrevalg av program | Nei |
-| Tredjevalg | Eventuelt tredjevalg av program | Nei |
+| Andrevalg | Eventuelt andrevalg av program (bare videregående) | Nei |
+| Tredjevalg | Eventuelt tredjevalg av program (bare videregående) | Nei |
 | Annen informasjon | Fritekstfelt for kommentarer til skolen | Nei |
 
 ## Sende inn
@@ -35,5 +35,5 @@ Fyll ut følgende opplysninger:
 3. Når opplysningene er sendt, vises en bekreftelse: *«Opplysninger sendt til skolen»*
 
 :::info Merk
-Interessentregistrering er ikke det samme som en søknad. For å søke om skoleplass formelt må du bruke søknadsskjemaet. Skolen tar kontakt og kan hjelpe deg med søknadsprosessen.
+Interessentregistrering er ikke det samme som en søknad, og du trenger ikke logge inn. For å søke om skoleplass formelt logger du inn i søkerportalen og sender en søknad. Skolen tar kontakt og kan hjelpe deg med søknadsprosessen.
 :::

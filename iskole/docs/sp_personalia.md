@@ -4,75 +4,118 @@ title: Personalia
 
 # Personalia
 
-På personalia-siden registrerer du opplysninger om eleven og foresatte. Informasjonen her brukes av skolen i behandlingen av søknaden.
-
-## Elevinformasjon
-
-Felter som skal fylles ut for eleven:
-
-| Felt | Beskrivelse | Obligatorisk |
-|------|-------------|:------------:|
-| Fornavn | Elevens fornavn | Ja |
-| Etternavn | Elevens etternavn | Ja |
-| E-post | Elevens e-postadresse (kan endres via egen knapp) | Ja |
-| Målform | Velg bokmål eller nynorsk | Ja |
-| Landkode | Landkode for telefonnummer | Betinget |
-| Telefon | Elevens telefonnummer | Betinget |
-| Land | Hvilket land eleven bor i | Ja |
-| Adresse | Gateadresse | Betinget |
-| Postnummer | Poststed fylles inn automatisk for norske adresser | Betinget |
-| Sted | Fylles automatisk for Norge, manuelt for utlandet | Ja |
-
-### Endre e-postadresse
-
-E-postadressen kan ikke redigeres direkte i skjemaet. For å endre den:
-
-1. Klikk på **blyant-ikonet** ved siden av e-postfeltet
-2. Skriv inn den nye e-postadressen
-3. En verifiseringskode sendes til adressen
-4. Oppgi verifiseringskoden for å bekreft endringen
-
-### Automatisk poststedoppslag
-
-Når du skriver inn et norsk postnummer, fylles poststed automatisk inn. For adresser i utlandet må du skrive inn sted manuelt.
-
-## Redigere opplysninger
-
-1. Klikk på **Endre**-knappen øverst til høyre i personalia-seksjonen
-2. Skjemaet går over i redigeringsmodus (bakgrunnen endrer farge)
-3. Gjør de ønskede endringene
-4. Klikk **Lagre** for å lagre endringene, eller **Avbryt** for å angre
-
-## Foresattinformasjon
-
-Dersom skolen krever informasjon om foresatte, vil det være en egen seksjon for dette. Du kan registrere opplysninger for opptil to foresatte.
-
-### Foresatt 1
-
-| Felt | Beskrivelse |
-|------|-------------|
-| Fornavn | Foresattes fornavn |
-| Etternavn | Foresattes etternavn |
-| E-post | Foresattes e-postadresse |
-| Fødselsdato | Foresattes fødselsdato |
-| Personnummer | Kreves av skoler med skolepenger eller ved digital signering |
-| Landkode | Landkode for telefonnummer |
-| Telefon | Foresattes telefonnummer |
-| Adresse | Gateadresse (kan være lik elevens) |
-| Postnummer/Sted | Postadresse |
-
-### Foresatt 2 (valgfritt)
-
-Samme felter som foresatt 1. Denne seksjonen er valgfri.
-
-:::info Fakturakontakt
-Forelder 1 vil være fakturakontakt og den som signerer en eventuell elektronisk kontrakt.
-:::
+På Personalia registrerer du opplysninger om søkeren og foreldrene.
+Skolen bruker dem i behandlingen av søknaden og for å kontakte dere.
 
 ## Informasjon fra skolen
 
-Øverst på siden kan det vises en informasjonsboks med viktig informasjon fra skolen. Les denne informasjonen nøye – det kan være spesifikke instruksjoner knyttet til utfylling av personalia.
+Øverst kan det stå **Informasjon fra skolen** med instruksjoner for
+utfyllingen. Klikk **Vis** eller **Skjul**. Les informasjonen nøye.
+
+## Søkeren
+
+Kortet **Søkeren** viser portrettbildet (hvis det er lastet opp under
+Søknad → Dokumenter), navnet og merker som **E-post bekreftet** og
+**ID-porten**.
+
+Klikk **Endre** for å redigere, og **Lagre** eller **Avbryt** når du er
+ferdig.
+
+| Felt | Beskrivelse | Obligatorisk |
+|------|-------------|:------------:|
+| Fornavn | Søkerens fornavn (med mellomnavn) | Ja |
+| Etternavn | Søkerens etternavn | Ja |
+| Fødselsdato | Hentes fra kontoen og kan ikke endres | – |
+| E-post | Endres med blyant-knappen, se under | Ja |
+| Målform | Bokmål, nynorsk eller samisk | Ja |
+| Landkode og Telefon | Søkerens eget mobilnummer | Betinget |
+| Land | Landet søkeren bor i | Ja |
+| Adresse og Postnummer | Gateadresse og postnummer | Betinget |
+| Sted | Fylles ut automatisk for norske postnummer | Ja |
+
+**Telefon** er obligatorisk for søkere til videregående når skolen krever
+mobilnummer. Det gjelder ikke grunnskole. Søkerens telefon kan ikke være
+den samme som telefonen til en forelder – har søkeren ikke egen telefon,
+lar du feltet stå tomt.
+
+**Adresse** og **postnummer** er obligatoriske når skolen krever adresse.
+For Norge fylles **Sted** ut automatisk fra postnummeret. For utlandet
+skriver du sted selv.
+
+Fødselsnummeret vises ikke i portalen.
+
+### Endre e-postadresse
+
+E-postfeltet endres med blyant-knappen ved siden av:
+
+- **Søkeren selv:** skriv den nye adressen, klikk **Send
+  verifiseringskode**, skriv inn koden fra e-posten og klikk **Bekreft**.
+- **Forelder som søker for et barn:** skriv den nye adressen og klikk
+  **Lagre**. Adressen lagres med en gang, og barnet får en lenke for å
+  bekrefte den.
+
+### Pass
+
+Spør skolen om passinformasjon, vises seksjonen **Pass** med
+**Passnummer**, **Nasjonalitet** og **Utløpsdato pass**. Har søkeren ikke
+pass, krysser du av for **Har ikke pass**.
+
+Du kan fylle ut feltene automatisk med **Les inn fra passet**: ta bilde av
+eller last opp bildesiden i passet. Sjekk feltene og klikk **Lagre**.
+
+## Forelder / kontaktperson 1 og 2
+
+Søkere under 18 år må ha **forelder / kontaktperson 1** med navn, adresse
+og e-post før søknaden kan sendes. Kortet for forelder 2 vises når
+forelder 1 er registrert, og er valgfritt.
+
+| Felt | Beskrivelse |
+|------|-------------|
+| Fornavn og Etternavn | Forelderens navn (obligatorisk) |
+| E-post | Forelderens e-postadresse (obligatorisk) |
+| Landkode og Telefon | Forelderens eget mobilnummer (obligatorisk for forelder 1) |
+| Land, Adresse, Postnummer, Sted | Forelderens adresse |
+| E-postvarsel | Om forelderen skal få e-post om søknaden |
+
+Når søkeren er under 18 år, får forelder 1 alltid e-post om søknaden.
+
+:::info Signering
+Krever skolen signert avtale og søkeren er under 18 år, er det forelder 1
+som signerer avtalen om skoleplass med BankID.
+:::
+
+### Foreldre som er koblet med ID-porten
+
+Et merke på kortet viser hvordan forelderen er registrert, for eksempel
+**Bekreftet med ID-porten**, **Registrert av skolen** eller **Deg**.
+
+- En forelder som er koblet med ID-porten holder opplysningene sine
+  oppdatert selv. Er du ikke innlogget med ID-porten, kan du ikke endre
+  dem.
+- Står det **Deg** på kortet, er det din egen konto. Endringer lagres på
+  kontoen din og gjelder alle barna du søker for.
+
+### Invitere en forelder
+
+En forelder som er registrert, men ikke koblet, kan inviteres til å
+bekrefte med ID-porten. Klikk **Inviter til å bekrefte med ID-porten**.
+Forelderen får en e-post med en lenke som er gyldig i 7 dager. Da
+oppdaterer forelderen opplysningene sine selv.
+
+- En søker som har fylt 18 år, kan invitere sine egne foreldre.
+- En forelder som søker for et barn, kan invitere den andre forelderen.
+- For å invitere må du være logget inn med ID-porten, og forelderen må ha
+  en e-postadresse.
+
+Du kan **Sende på nytt** eller **Trekke tilbake** en invitasjon. Se også
+[Søke for barn](sp_foreldre.md#inviter-den-andre-forelderen).
+
+## Gå videre
+
+Knappen **Søknad →** nederst lagrer kort som står åpne, og går til
+søknaden.
 
 :::tip Tips
-Sørg for at all kontaktinformasjon er riktig – dette brukes av skolen for å kontakte deg om søknaden.
+Sørg for at kontaktinformasjonen er riktig – skolen bruker den for å
+kontakte dere om søknaden.
 :::

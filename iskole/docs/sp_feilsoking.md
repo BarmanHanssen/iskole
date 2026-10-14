@@ -8,64 +8,121 @@ Her finner du løsninger på vanlige problemer.
 
 ## Innlogging
 
-### Jeg klarer ikke å logge inn
+### Jeg kommer til «Velg skole» etter innlogging
 
-- Sjekk at du bruker **hele fødselsnummeret** (11 siffer) som brukernavn
-- Sjekk at passordet er riktig (store/små bokstaver teller)
-- Prøv å bestille nytt passord via **Glemt passord?**
+Du har brukt adressen uten skolenavn. Bruk lenken til søkerportalen på
+skolens hjemmeside, for eksempel `skolenavn.iskole.net/soker`.
 
-### Jeg har ikke mottatt e-post med passord
+### Jeg har ikke norsk fødselsnummer eller D-nummer
 
-- Sjekk **søppelpost/spam**-mappen i e-postklienten din
-- Sjekk at e-postadressen du registrerte er riktig
-- Vent noen minutter – e-posten kan ta litt tid
-- Kontakt skolen dersom problemet vedvarer
+For å søke må du ha norsk fødselsnummer eller D-nummer. Ta kontakt med
+skolen.
 
-### Jeg blir logget ut automatisk
+### Feil ved innlogging fra elevportalen (Feide)
 
-Sesjonen din utløper etter en periode med inaktivitet. Logg inn på nytt. Arbeid som var lagret før utloggingen er ikke tapt.
+- «Du må ha norsk fødselsnummer eller D-nummer for å søke. Ta kontakt med
+  skolen din.» – skolen har ikke registrert norsk fødselsnummer eller
+  D-nummer på deg.
+- «Det er ikke registrert e-post på deg i skolens system. Ta kontakt med
+  skolen din.» – skolen må legge inn e-postadressen din før du kan gå til
+  søkerportalen fra elevportalen.
+
+Du kan også logge inn direkte med ID-porten.
+
+### Jeg får ikke brukt ID-porten
+
+Bruk **Få innloggingslenke på e-post** på innloggingssiden. Lenken sendes
+bare hvis e-postadressen er registrert på en søkerkonto.
+
+### Jeg har ikke fått innloggingslenken eller koden
+
+- Sjekk **søppelpost/spam**-mappen.
+- Sjekk at du skrev e-postadressen som er registrert på søkerkontoen.
+- Innloggingslenken er gyldig i 15 minutter. Be om en ny om den er
+  utløpt.
+- Kontakt skolen dersom problemet vedvarer.
+
+### Jeg blir sendt til innloggingssiden
+
+Økten din er utløpt. Logg inn på nytt – det du har lagret er ikke tapt.
+
+### Jeg ser ikke barnet mitt / «Hvem søker du for?»
+
+- Du må være logget inn med ID-porten og ha fylt 20 år for å søke for
+  barn.
+- Barnet blir koblet automatisk bare når skolen har registrert
+  fødselsnummeret ditt og navnet ditt stemmer. Ellers bruker du **Registrer
+  et barn**. Se [Søke for barn](sp_foreldre.md).
+- Barn som søker til videregående, sender søknaden selv.
 
 ## Skjemautfylling
 
 ### Postnummeret gir feil poststed
 
-Dersom poststedet som fylles inn automatisk er feil, kontakt skolen. For utenlandske adresser må du fylle inn sted manuelt.
+Kontakt skolen. For utenlandske adresser fyller du inn sted selv.
 
 ### Jeg kan ikke redigere felter
 
-- Klikk på **Endre**-knappen for å aktivere redigeringsmodus
-- Noen felter (som e-post) har egne endringsknapper
-- Dersom søknaden er sendt inn, kan enkelte felter være låst
+- Klikk **Endre** for å redigere.
+- E-post endres med blyant-knappen ved siden av feltet.
+- En forelder som er koblet med ID-porten, oppdaterer opplysningene sine
+  selv.
+- Når søknaden er sendt, er søknaden låst.
+
+### Telefonnummeret godtas ikke
+
+Søkerens telefon kan ikke være den samme som telefonen til en forelder.
+Har søkeren ikke egen telefon, lar du feltet stå tomt (søkere til
+videregående må likevel oppgi eget mobilnummer når skolen krever det).
 
 ### Validering feiler
 
-Rødt markerte felter har valideringsfeil. Sjekk at:
-- Obligatoriske felter er fylt ut
-- E-postadresser har gyldig format
-- Telefonnumre har riktig format for valgt landkode
-- Postnummer er gyldig
+Rødt markerte felter har feil. Sjekk at obligatoriske felter er fylt ut,
+at e-postadresser og telefonnumre har riktig format, og at postnummeret er
+gyldig.
 
 ## Søknad
 
+### Jeg får ikke sendt søknaden
+
+Den gule boksen **Dette må ordnes før du kan sende søknaden** viser hva
+som mangler, med lenker til feltet. Vanlige årsaker er manglende adresse,
+telefon, pass, forelder 1, obligatoriske spørsmål eller avkryssing for
+reglement og vilkår.
+
 ### Jeg kan ikke endre søknaden etter innsending
 
-Etter at en søknad er sendt inn, kan du ikke gjøre endringer selv. Kontakt skolen direkte for å be om endringer.
+Kontakt skolen for å be om endringer.
 
 ### Utdanningsprogram vises i rødt
 
-Programmer som vises i rød tekst har **stengt inntak**. Du kan fortsatt velge dem, men vær oppmerksom på at inntaket kan være fullt.
+Programmer i rødt har **stengt inntak** og kan ikke velges.
 
 ## Dokumenter
 
 ### Opplasting feiler
 
-- Sjekk at filen ikke er for stor
-- Prøv et annet filformat (PDF er alltid trygt)
-- Sjekk at du har valgt en dokumenttype før du laster opp
+- Velg dokumenttype før du laster opp.
+- Last opp maks 10 filer om gangen.
+- Portrettbilde må være et bilde (jpg, png o.l.).
+- Prøv et annet filformat (PDF er alltid trygt).
+
+## Signering
+
+### Signeringslenken virker ikke
+
+Lenker fra den gamle søkerportalen virker ikke lenger. Logg inn i
+søkerportalen og signer fra **Behandling** (eller fra «Hvem søker du for?»
+for grunnskolesøknader).
+
+### Forelder 1 kan ikke signere
+
+Forelder 1 må logge inn med ID-porten og være koblet til søkeren, eller
+skolen må ha registrert fødselsnummeret til forelder 1. Søker til
+videregående signerer alltid først.
 
 ## Generelle tips
 
-- Bruk en **oppdatert nettleser** for best opplevelse
-- **Lagre underveis** – ikke vent til alt er fylt ut
-- **Ta vare på passordet ditt** – du trenger det for å logge inn igjen
-- Ved tekniske problemer, kontakt skolen du søker til
+- Bruk en **oppdatert nettleser**.
+- **Lagre underveis** – ikke vent til alt er fylt ut.
+- Ved tekniske problemer, kontakt skolen du søker til.

@@ -4,108 +4,111 @@ title: Søknad
 
 # Søknad
 
-På søknadssiden oppretter og sender du inn søknaden din om skoleplass.
+På Søknad oppretter du søknaden, velger utdanningsprogram, svarer på
+skolens spørsmål, laster opp dokumenter og sender søknaden.
 
 ## Opprette ny søknad
 
-Første gang du besøker søknadssiden vil du se et kort med **Opprett ny søknad**. Klikk på dette for å starte.
+Har du ingen søknad, klikker du flisen **Opprett ny søknad**. Har du en
+søknad fra før og skal søke for et nytt skoleår, bruker du knappen
+**Opprett ny søknad** øverst.
 
-Dersom du allerede har en tidligere søknad og vil opprette en ny for et nytt skoleår, klikk på knappen **Opprett ny søknad** øverst til høyre.
+1. **Velg skoleår** – hvert skoleår viser søkeperioden. Skoleår som ikke
+   er åpne, eller der du allerede har søknad, er merket.
+2. **Velg program** – velg **Program 1. valg**. Programmer med stengt
+   inntak kan ikke velges.
+3. Klikk **Opprett søknad**.
+
+Foreldre som søker for et barn, kan bare opprette søknader til
+grunnskolen.
 
 ## Fylle ut søknaden
 
-### Velg søknad
+### Velg søknad og program
 
-Har du flere søknader, velg hvilken du vil se eller redigere i nedtrekkslisten **Søknad**.
+Har du flere søknader, velger du skoleår i nedtrekkslisten **Søknad**.
 
-### Programvalg
+- **Program 1. valg** endres med **Endre**. Bytter du 1. valg, nullstilles
+  2. og 3. valg og eventuelle programfag.
+- **Program 2. valg** og **Program 3. valg** (valgfritt) vises bare for
+  videregående.
 
-Du må velge utdanningsprogram for søknaden din:
+Listen viser søknadsfrist og siste inntak for hvert program. Programmer
+med stengt inntak vises i rødt og kan ikke velges.
 
-1. **Program 1. valg** – Klikk på blyant-ikonet for å velge ditt førstevalg av utdanningsprogram
-2. **Program 2. valg** – Velg ditt andrevalg (valgfritt, vises kun for videregående)
-3. **Program 3. valg** – Velg ditt tredjevalg (valgfritt, vises kun for videregående)
+### Fortrinnsrett, internat og hybel
 
-:::info Merk
-For grunnskoler er det kun førstevalg som er relevant. Andre- og tredjevalg vises kun for videregående skoler.
-:::
+Avhengig av skolen kan du krysse av for **Jeg søker med fortrinnsrett**,
+**Jeg søker internatplass** og **Jeg søker hybel**. Fortrinnsrett må
+søkes før fristen som står under avkryssingen.
 
-Når du velger program, vises informasjon om:
-- **Søknadsfrist** – Når søknadsfristen er
-- **Inntaksstatus** – Om inntaket er åpent eller stengt. Programmer med stengt inntak vises i rød tekst.
-
-### Tilleggsopplysninger
-
-Avhengig av skolen kan det være tilleggsspørsmål du må svare på. Disse er skolespesifikke og varierer fra skole til skole.
-
-### Internatplass
-
-Noen skoler tilbyr internatplass. Dersom dette er aktuelt for din skole, vil det vises et eget felt for dette.
+Tilbyr skolen elevplass deler av et skoleår, vises **Startdato** og
+**Sluttdato**.
 
 ## Dokumenter
 
-Her kan du se og håndtere dokumenter som er relevante for søknaden din. Dette kan være karakterutskrifter eller dokumentasjon på tilrettelegging. Øverst i avsnittet for dokumenter kan det være en informasjonsboks fra skolen med instruksjoner om hvilke dokumenter som kreves. Les denne nøye.
+Under **Dokumenter** laster du opp dokumentasjon til skolen, for eksempel
+karakterutskrift eller dokumentasjon på tilrettelegging. Les
+**Informasjon fra skolen** om hvilke dokumenter som kreves.
 
-### Laste opp dokumenter
+1. Klikk **Legg til dokument**.
+2. Velg **Dokumenttype**.
+3. Klikk **Last opp fil**, eller dra filene inn i feltet (inntil 10 om
+   gangen).
+4. Klikk **Ferdig**.
 
-1. Velg **dokumenttype** fra nedtrekkslisten (for eksempel vitnemål, attest, etc.)
-2. Klikk på **Last opp fil** eller dra-og-slipp filer inn i opplastingsområdet
-3. Du kan laste opp flere filer samtidig
+- **Portrettbilde** må være et bilde (for eksempel jpg eller png).
+- **Passkopi** leses automatisk: passnummer, nasjonalitet og utløpsdato
+  legges inn under Personalia.
+- Portrettbilder og passkopier sjekkes automatisk. Ser bildet ikke ut som
+  forventet, får du **Velg et annet bilde** eller **Bruk bildet likevel**.
 
-:::tip Støttede filformater
-Du kan laste opp de vanligste filformatene, inkludert:
-- **PDF** – Vitnemål, attester og andre dokumenter
-- **Bilder** – JPG, PNG og lignende
-- **Office-dokumenter** – Word, Excel, PowerPoint
-:::
+Listen viser filnavn, dokumenttype og når dokumentet sist ble endret. Du
+kan **laste ned** og **slette** dokumenter. Dokumenter kan lastes opp også
+etter at søknaden er sendt, men ikke slettes.
 
-### Oversikt over opplastede dokumenter
+## Programfag
 
-Under opplastingsområdet finner du en liste over alle dokumenter du har lastet opp. For hvert dokument vises:
+Har skolen programfag å velge mellom, vises **Programfag**. Velg ett fag i
+hver blokk og klikk **Lagre programfag**.
 
-- **Filnavn** – Navnet på filen
-- **Dokumenttype** – Hvilken type dokument det er
-- **Sist endret** – Når dokumentet ble lastet opp eller endret
-- **Filtype-ikon** – Visuelt ikon som viser filtypen (PDF, Word, Excel, etc.)
+## Opplysninger
 
-### Handlinger
+Under **Opplysninger** svarer du på skolens tilleggsspørsmål. Spørsmål
+merket som obligatoriske må besvares før søknaden kan sendes. Svarene
+lagres sammen med søknaden.
 
-For hvert dokument i listen kan du:
+## Lagre og sende
 
-- **Laste ned** – Klikk på nedlastingsikonet (grønt pilikon) for å laste ned dokumentet
-- **Slette** – Klikk på sletteikonet (rødt søppelbøtte-ikon) for å fjerne dokumentet
+- **Lagre søknad** – lagrer uten å sende. Du kan fortsette senere. Bytter
+  du fane, lagres endringene automatisk.
+- **Send søknad** – viser en oppsummering. Klikk **Send søknad** igjen for
+  å sende søknaden til skolen.
 
-:::caution Obs
-Slettede dokumenter kan ikke gjenopprettes. Vær sikker på at du ikke trenger dokumentet før du sletter det.
-:::
+Før du sender må du:
 
-### Når ingen dokumenter er lastet opp
+- krysse av for at du har lest og akseptert **skolens reglement for
+  inntak** og **skolens vilkår for inntak** (når skolen har dem)
+- besvare de obligatoriske spørsmålene
+- ha forelder / kontaktperson 1 med navn, adresse og e-post (søkere under
+  18 år)
 
-Dersom du ikke har lastet opp noen dokumenter ennå, vises meldingen *«Ingen dokumenter lastet opp enda»*.
+Mangler noe, viser den gule boksen **Dette må ordnes før du kan sende
+søknaden** hva som mangler, med lenker rett til feltet under Personalia
+(for eksempel adresse, telefon eller pass). Søkere til videregående må
+oppgi eget mobilnummer når skolen krever det.
 
-## Lagre og sende inn
-
-Du har to alternativer:
-
-- **Lagre** – Lagrer søknaden som kladd. Du kan komme tilbake og gjøre endringer senere.
-- **Send inn** – Sender søknaden til skolen for behandling.
+**Merknad til søknaden** (maks 500 tegn) sendes til skolen. Ikke oppgi
+sensitive opplysninger.
 
 :::caution Etter innsending
-Når søknaden er sendt inn kan du ikke lenger gjøre endringer på søknaden selv. Du vil se en melding: *«Denne søknaden er sendt til skolen. Gå til Behandling for å se status. Kontakt skolen for å gjøre endringer.»*
-
-Du kan fortsatt endre personalia og laste opp dokumenter etter at søknaden er sendt.
+Når søknaden er sendt, kan du ikke endre den selv. Kontakt skolen hvis noe
+må rettes. Du kan fortsatt endre personalia og laste opp dokumenter.
 :::
 
 ## Status
 
-Søknaden har en statusindikator som viser:
-- **Ikke sendt** – Søknaden er lagret som kladd
-- **Sendt** – Søknaden er sendt til skolen
-- **Under behandling** – Skolen behandler søknaden
-- **Tilbud gitt** - Skolen har tilbudt deg skoleplass
-- **Venteliste** - Skolen har satt deg på venteliste
-- **Akseptert av søker** - Du har akseptert skoleplassen
-
-## Opprettelsesdato
-
-Feltet **Opprettet** viser når søknaden ble opprettet. Dette er kun til informasjon og kan ikke endres.
+Statusmerket øverst viser hvor søknaden står, for eksempel **Ikke sendt**,
+**Søknad sendt til skolen**, **Tilbud gitt** eller **Akseptert av søker**.
+Under står når søknaden ble opprettet. Følg behandlingen under
+[Behandling og tilbud](sp_behandling.md).
