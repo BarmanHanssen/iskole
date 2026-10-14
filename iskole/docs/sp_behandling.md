@@ -25,10 +25,11 @@ Når skolen gir tilbud, vises kortet **Tilbud om skoleplass**.
 - **Aksepter tilbudet** – takker ja til plassen (når skolen ikke krever
   signering).
 - **Signér og aksepter** – når skolen krever signert avtale (se under).
-- **Avslå tilbudet** – takker nei til plassen.
+- **Avslå tilbudet** – takker nei til plassen. Du må bekrefte i en
+  dialog før tilbudet avslås.
 
 :::caution Avslå
-Å avslå et tilbud kan ikke angres. Vær sikker før du klikker.
+Å avslå et tilbud kan ikke angres.
 :::
 
 ### Opplysninger ved aksept
@@ -50,8 +51,8 @@ signerer.
 1. Søkeren klikker **Signér og aksepter** og signerer hos Posten.
 2. Er søkeren under 18 år, må også **forelder 1** signere. Forelder 1 får
    en e-post med lenke, eller signerer i søkerportalen med **Signér
-   avtalen**. Søkeren kan også bruke **Kopier lenke** og sende lenken til
-   forelder 1.
+   avtalen**. Søkeren kan også bruke **Kopier lenke** (knappen viser
+   «Kopiert!») og sende lenken til forelder 1.
 
 Mens det venter, vises «Venter på signatur fra ‹forelder›».
 

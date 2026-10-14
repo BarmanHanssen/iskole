@@ -33,6 +33,10 @@ oppe til høyre med **Bytt søker**.
 Barn som søker til videregående, merkes **Søker selv**. Du ser status for
 søknaden, men kan ikke endre den.
 
+Mangler adressen din, vises «Legg inn adressen din. Skolen trenger den før
+søknaden kan sendes.» Knappen **Gå til Personalia** åpner dine egne
+opplysninger.
+
 ## Barn blir koblet automatisk
 
 Har skolen registrert fødselsnummeret ditt som forelder til et barn, blir
