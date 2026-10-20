@@ -103,7 +103,7 @@ En effektiv måte for å publisere meldinger til alle aktive brukere av iSkole! 
 
 #### Opprett redaktør
 
-<img width="1249" height="306" alt="image" src="https://github.com/user-attachments/assets/ef068f7c-2444-4f73-9632-cb6adb70f426" />
+<img width="1249" height="308" alt="image" src="https://github.com/user-attachments/assets/05328f6b-6807-4e19-a019-f9f9d8fea737" />
 
 Klikk _Legg til_ for å opprette en ny redaktør. Merk at også en elev kan få redaktørstatus (feks elevrådsleder). 
 
