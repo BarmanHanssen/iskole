@@ -98,7 +98,7 @@ Dersom andre enn timeplanlegger skal kunne reservere et rom, kan en her angi hvi
 Dette er eneste mulighet for at en lærer skal kunne reservere mer enn et rom når læreren har en undervisningstime.
 :::
 
-## Bulleteng
+## Oppslagstavle
 En effektiv måte for å publisere meldinger til alle aktive brukere av iSkole! Dersom en ny melding legges ut, vil den vises straks en bruker logger seg på iSkole. Altså vil alle brukere få frem meldingen en gang, uten noe ekstra museklikk. Redaktøren bestemmer hvor lenge meldingen skal ligge ute. En melding kan publiseres bare til ansatte, eller til både elever og ansatte.
 
 #### Opprett redaktør
