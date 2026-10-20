@@ -102,9 +102,8 @@ Dette er eneste mulighet for at en lærer skal kunne reservere mer enn et rom n�
 En effektiv måte for å publisere meldinger til alle aktive brukere av iSkole! Dersom en ny melding legges ut, vil den vises straks en bruker logger seg på iSkole. Altså vil alle brukere få frem meldingen en gang, uten noe ekstra museklikk. Redaktøren bestemmer hvor lenge meldingen skal ligge ute. En melding kan publiseres bare til ansatte, eller til både elever og ansatte.
 
 #### Opprett redaktør
-Dersom du er redaktør vises dette  skjermbilde:
 
-![bilde](https://user-images.githubusercontent.com/80097133/153401777-2046ff7a-0323-4fd9-a724-477c0e0c62fd.png)
+<img width="1249" height="306" alt="image" src="https://github.com/user-attachments/assets/ef068f7c-2444-4f73-9632-cb6adb70f426" />
 
 Klikk _Legg til_ for å opprette en ny redaktør. Merk at også en elev kan få redaktørstatus (feks elevrådsleder). 
 
