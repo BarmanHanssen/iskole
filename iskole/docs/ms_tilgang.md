@@ -26,7 +26,7 @@ Her vises alle tilleggsfunksjoner/moduler tilknyttet iSkole, og om tilvalget med
 _Navn_ og _Beskrivelse_ lister opp 26 grupper. Fra _Grupperettigheter_ gis en oversikt over hvilke menyvalg den enkelte brukergruppe får tilgang til.
 
 :::info Merk
-Rektor og rektors stedfortreder kan gi den enkelte ansatte tilgang til det enkelte menyvalg uavhengig av brukergruppe.
+Rektor og rektors stedfortreder kan gi en ansatt direkte tilgang til det en brukergruppe. 
 :::
 
 ![bilde](/img/ms_tilgang_brukergrupper.png 'Brukergrupper')
