@@ -4,26 +4,26 @@ title: Tilgang
 sidebar_label: Tilgang
 ---
 
-Dette menyvalget er tilgjengelig for alle ansatte som er registrert. Men når en ansatt blir registrert med sluttet-dato, vil vedkommende etter slutte-datoen ikke få tilgang til iSkole. Kun rektor og administrator kan øke eller minske den enkeltes rettigheter utover det som automatisk blir tildelt. 
+Dette menyvalget er tilgjengelig for alle ansatte frem til den ansattes sluttet-dato. Rektor og administrator kan øke eller minske den enkeltes rettigheter utover det som automatisk blir tildelt. 
 Arkfanene _Brukere_ og _Romreservering_ er ikke synlig for andre enn rektor og administrator.
 
 ## Nøkkelpersoner
 Nøkkelpersonene kan endres av rektor, rektors stedfortreder og skoleeier. Unntak er rektor som bare kan endres av skoleeier, og administrator som bare kan endres av skoleeier og rektor.
 - Rektor har alle rettigheter når det gjelder innsyn og bruk av systemet.
 - Administrator har i hovedsak de samme rettigheter som rektor, men kan ikke endre elevers karakterer.
-- Karakteransvarlig, og rektor, kan rette en innført karakter for et fag etter at standunkt/eksamenskarakter er satt. Rettingen blir loggført, slik at en i ettertid kan se hva som er endret.
+- Karakteransvarlig, og rektor, kan rette en innført karakter for et fag etter at standunkt/eksamenskarakter er satt. Rettinger blir loggført.
 - Kontaktperson for iSkole er vanligvis den som har best kjennskap til iSkoles virkemåte og derfor er den som kan gi råd og veiledning. Vedkommende er også den som kan henvende seg til leverandøren angående feil/mangler og ønsker vedrørende bruk av iSkole. Viktigste kanal er support@barman-hanssen.no
 - NVBkontakt er den som har ansvaret for at vitnemål blir overført til Norsk vitnemåls database. Gjelder bare vitnemål for videregående skole.
-- Eksamensansvarlig har med oppsett av såvel muntlige som skriftlige eksamenspartier.
+- Eksamensansvarlig administrer oppsett av muntlige og skriftlige eksamenspartier.
 - PASansvarlig har ansvaret for at oppsatte eksamenspartier blir overført til PAS.
 
 ## Funksjoner
-Her vises oversikt over tilleggsfunksjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnader. Når det avhukes for en tilleggsfunksjon, eksempelvis for internat, vil _Internat_ tilføyes som arkfane på _mine sider_, og  denne programvaren blir da tilgjengelig.
+Her vises alle tilleggsfunksjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnader. Når det avhukes for en tilleggsfunksjon, eksempelvis for internat, vil _Internat_ tilføyes som arkfane på _mine sider_, og programvaren er da tilgjengelig.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9f4428c7-2662-47d4-900c-e8c068ee48da)
 
 ## Brukergrupper
-_Navn_ og _Beskrivelse_ sier det meste om de 25 definerte gruppene. Fra _Grupperettigheter_ fås detaljert oversikt over hvilke menyvalg den enkelte brukergruppe får tilgang til.
+_Navn_ og _Beskrivelse_ lister opp 26 grupper. Fra _Grupperettigheter_ gis en oversikt over hvilke menyvalg den enkelte brukergruppe får tilgang til.
 
 :::info Merk
 Rektor og rektors stedfortreder kan gi den enkelte ansatte tilgang til det enkelte menyvalg uavhengig av brukergruppe.
