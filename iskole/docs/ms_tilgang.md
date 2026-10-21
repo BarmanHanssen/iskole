@@ -18,7 +18,7 @@ Nøkkelpersonene kan endres av rektor, rektors stedfortreder og skoleeier. Unnta
 - PASansvarlig har ansvaret for at oppsatte eksamenspartier blir overført til PAS.
 
 ## Funksjoner
-Her vises alle tilleggsfunksjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnad. Når det avhukes for en tilleggsfunksjon, eksempelvis for internat, vil _Internat_ tilføyes som arkfane på _mine sider_, og programvaren er da tilgjengelig.
+Her vises alle tilleggsfunksjoner/moduler tilknyttet iSkole, og om tilvalget medfører ekstra kostnad. Når det avhukes for en tilleggsfunksjon, eksempelvis for internat, vil _Internat_ tilføyes som arkfane på _mine sider_, og programvaren er da tilgjengelig. En tilleggstjeneste kan avsuttes når som helt. Eksempelvis kan det åpnes for å sende SMS i en begrenset periode av skoleåret.
 
 ![image](https://github.com/BarmanHanssen/iskole/assets/80097133/9f4428c7-2662-47d4-900c-e8c068ee48da)
 
