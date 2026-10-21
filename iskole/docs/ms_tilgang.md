@@ -24,6 +24,7 @@ Her vises alle tilleggsfunksjoner/moduler tilknyttet iSkole, og om tilvalget med
 
 ## Brukergrupper
 _Navn_ og _Beskrivelse_ lister opp 26 grupper. Fra _Grupperettigheter_ gis en oversikt over hvilke menyvalg den enkelte brukergruppe får tilgang til.
+For brukergrupper som ikke tildeles automatisk ut fra ansattes gjøremål: Her vises vises hvilke ansatte som allerede er registrert som medlem.
 
 :::info Merk
 Rektor og rektors stedfortreder kan gi en ansatt direkte tilgang til det en brukergruppe. 
@@ -31,11 +32,12 @@ Rektor og rektors stedfortreder kan gi en ansatt direkte tilgang til det en bruk
 
 ![bilde](/img/ms_tilgang_brukergrupper.png 'Brukergrupper')
 
-_Ansatt_: For å kunne få tilgang til denne modulen av iSkole må personen være registrert fra _Personal>Ansatt_. Tilgangen er tidsbegrenset til datoene gitt mellom _Begynte_ og _Sluttet_.
 
-For ansatte hvor det er avhuket med _Pedagogisk ansatt_ tildeles noen rettigheter automatisk utfra pålagte oppgaver. Eksempelvis: Tildeles undervisning (fra _Time- og fagfordeling_) fås rettigheter til _Faglærer_ og _Fraværsfører_. I de fleste tilfeller skal pedagogisk ansatte ikke ha flere rettigheter. Eventuelt utvidede rettigheter kan tildeles av rektor/administrator, se under _Brukere_.
+_Ansatt_: Listen inneholder alle nåværende ansatte, altså  alle hvor dagens dato ligger i intervallet mellom  _Begynte_ og _Sluttet_.
 
-_Kontor_: Denne gruppen gis tilgang til utvalgte deler av menyvalget _Elevadmin._ Ingen automatisk tilgang til denne gruppen!
+For ansatte hvor det er avhuket med _Pedagogisk ansatt_ tildeles noen rettigheter automatisk utfra pålagte oppgaver. Eksempelvis: Tildeles undervisning (fra _Time- og fagfordeling_) fås rettigheter til _Faglærer_ og _Fraværsfører_. I de fleste tilfeller skal pedagogisk ansatte ikke ha flere rettigheter. 
+
+_Kontor_: Denne gruppen gis tilgang til utvalgte deler av menyvalget _Elevadmin._ Kan stå som eksempel på en brukergruppe som ingen får automatisk tilgang til. Tilgangen må gis av rektor eller rektors stedfortreder.
 
 Mer detaljert oversikt over hvilken tilgang som tildeles når en bruker tildeles en brukergruppe fås fra _Grupperettigheter_.
 
