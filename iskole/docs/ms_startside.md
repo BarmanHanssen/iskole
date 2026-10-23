@@ -4,7 +4,7 @@ title: Startside
 sidebar_label: Startside
 ---
 
-Startsiden gir en pekepinn til dagens oppgaver. Informasjonsboksene har lenker slik at man kan navigere til sider hvor man kan få flere detaljer. Siden startsiden er ment å gi en pekepinn til dagens oppgaver, så vil utførte oppgaver ikke vises. Startsiden består av _Min timeplan_, _Min oversikt_ og – for skolens ledelse og kontor – _Skolens oversikt_. Nederst ligger _Nytt i iSkole_ og _Kjente feil_.
+Startsiden gir en pekepinn til dagens oppgaver. Informasjonsboksene har lenker for å navigere til sider hvor man kan få flere detaljer. Siden startsiden er ment å gi en pekepinn til dagens oppgaver, vil utførte oppgaver ikke vises. Startsiden består av _Min timeplan_, _Min oversikt_ og – for skolens ledelse og kontor – _Skolens oversikt_. Nederst ligger _Nytt i iSkole_ og _Kjente feil_.
 
 ![Startsiden](/img/ms_startsiden.png 'Startsiden')
 
