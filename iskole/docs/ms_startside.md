@@ -4,7 +4,7 @@ title: Startside
 sidebar_label: Startside
 ---
 
-Startsiden gir en pekepinn til dagens oppgaver. Informasjonsboksene har lenker slik at man kan navigere til sider hvor man kan få flere detaljer. Siden startsiden er ment å gi en pekepinn til dagens oppgaver, så vil utførte oppgaver ikke vises. Startsiden består av _Min timeplan_, _Min oversikt_ og – for skolens ledelse og kontor – _Skolens oversikt_. Nederst ligger _Nytt i iSkole_ og _Kjente feil_.
+Startsiden gir en pekepinn til dagens oppgaver. Informasjonsboksene har lenker for å navigere til sider hvor man kan få flere detaljer. Siden startsiden er ment å gi en pekepinn til dagens oppgaver, vil utførte oppgaver ikke vises. Startsiden består av _Min timeplan_, _Min oversikt_ og – for skolens ledelse og kontor – _Skolens oversikt_. Nederst ligger _Nytt i iSkole_ og _Kjente feil_.
 
 ![Startsiden](/img/ms_startsiden.png 'Startsiden')
 
@@ -16,12 +16,12 @@ Timen i timeplanen er en lenke som går direkte til fraværsføringen for dette 
 Klassefag er grønne, gruppefag blå, vikartimer gule og romreservasjoner oransje. Romreservasjoner er ikke knyttet til et fag og fører ingen steder.
 
 ## Min oversikt
-Gir oversikt over hendelser og oppgaver knyttet til din rolle. Hvilket innhold som skal vises kan tilpasses ved å klikke på blyanten oppe i høyre hjørne. Da får hver flis et rødt kryss (_Fjern_) eller et grønt pluss (_Legg til_): grønn bakgrunn betyr at flisen vises, rød at den er skjult. Klikk på haken når du er ferdig.
+Hvilket innhold som skal vises kan tilpasses ved å klikke på blyanten oppe i høyre hjørne. Grønne bokser har et rødt kryss, røde bokser har et grønt pluss-tegn.  Det er bare grønne bokser som vises i oversikten. Her kan du gjøre endringer ved trykke på rødt kryss eller grønt pluss-tegn. Avslutt med trykk på haken oppe i høyre hjørne når du er ferdig.
 
 ![Tilpass Min oversikt](/img/ms_startside_tilpass.png 'Tilpass Min oversikt')
 
 :::info Merk
-Valget av fliser, og grensene du setter for fraværsprosent og antall merknader, huskes i nettleseren du bruker. Bruker du en annen PC eller telefon, må du velge på nytt der.
+Valget av bokser som vises, og grensene du setter for fraværsprosent og antall merknader, huskes i nettleseren du bruker. Bruker du en annen PC eller telefon, må du velge på nytt der.
 :::
 
 ### Nye meldinger
