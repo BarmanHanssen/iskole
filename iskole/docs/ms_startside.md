@@ -16,7 +16,7 @@ Timen i timeplanen er en lenke som går direkte til fraværsføringen for dette 
 Klassefag er grønne, gruppefag blå, vikartimer gule og romreservasjoner oransje. Romreservasjoner er ikke knyttet til et fag og fører ingen steder.
 
 ## Min oversikt
-Gir oversikt over hendelser og oppgaver knyttet til din rolle. Hvilket innhold som skal vises kan tilpasses ved å klikke på blyanten oppe i høyre hjørne. Da får hver flis et rødt kryss (_Fjern_) eller et grønt pluss (_Legg til_): grønn bakgrunn betyr at flisen vises, rød at den er skjult. Klikk på haken når du er ferdig.
+Hvilket innhold som skal vises kan tilpasses ved å klikke på blyanten oppe i høyre hjørne. Grønne bokser har et rødt kryss, røde bokser har et grønt pluss-tegn.  Det er bare grønne bokser som vises i oversikten. Her kan du gjøre endringer ved trykke på rødt kryss eller grønt pluss-tegn. Avslutt med trykk på haken oppe i høyre hjørne når du er ferdig.
 
 ![Tilpass Min oversikt](/img/ms_startside_tilpass.png 'Tilpass Min oversikt')
 
