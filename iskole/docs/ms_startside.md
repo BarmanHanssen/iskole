@@ -21,7 +21,7 @@ Hvilket innhold som skal vises kan tilpasses ved å klikke på blyanten oppe i h
 ![Tilpass Min oversikt](/img/ms_startside_tilpass.png 'Tilpass Min oversikt')
 
 :::info Merk
-Valget av fliser, og grensene du setter for fraværsprosent og antall merknader, huskes i nettleseren du bruker. Bruker du en annen PC eller telefon, må du velge på nytt der.
+Valget av bokser som vises, og grensene du setter for fraværsprosent og antall merknader, huskes i nettleseren du bruker. Bruker du en annen PC eller telefon, må du velge på nytt der.
 :::
 
 ### Nye meldinger
