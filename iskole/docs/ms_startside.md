@@ -4,7 +4,7 @@ title: Startside
 sidebar_label: Startside
 ---
 
-Startsiden gir en pekepinn til dagens oppgaver.  Informasjonsboksene har lenker slik at man kan navigere til sider hvor man kan få flere detaljer. Siden startsiden er ment å gi en pekepinn for dagens oppgaver, så vil utførte oppgaver ikke vises. 
+Startsiden gir en pekepinn til dagens oppgaver.  Informasjonsboksene har lenker slik at man kan navigere til sider hvor man kan få flere detaljer. Siden startsiden er ment å gi en pekepinn til dagens oppgaver, så vil utførte oppgaver ikke vises. 
 
 ![Startsiden](/img/ms_startsiden.png 'Startsiden')
 
