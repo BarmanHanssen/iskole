@@ -37,7 +37,7 @@ Kontaktelever med fravær første time for den dagen som velges.
 Fravær registrert som organisert studiearbeid for kontaktelever. Fraværet er summert for hele året.
 
 #### Alt fravær
-Rapporten tar med alt fravær, men man må sette inn avgrensninger som fra- og tildato, og hvor mye fravær i prosent man elevene minst må ha for å bli tatt med. Lar man prosenten stå åpen tas alle med. Prosentgrensen gjelder kun den summerte rapporten. Rapporten kan også sorteres enten etter klasse og navn eller antall timer fravær. Rapporten kan tas ut enten summert eller detaljert. Den detaljerte viser alt fravær for hver kontaktelev, hvor eventuelle merknader ført på dag eller time er inkludert. Det er også en kolonne som angir om fraværet er dokumentert som helse-/velferdsfravær.
+Rapporten tar med alt fravær, men man må sette inn avgrensninger som fra- og tildato, og hvor mye fravær i prosent elevene minst må ha for å bli tatt med. Skal alle elevene med, skriver du 0. Prosentgrensen gjelder kun den summerte rapporten. Velg også sortering, enten etter klasse og navn eller antall timer fravær. Rapporten kan tas ut enten summert eller detaljert. Den detaljerte viser alt fravær for hver kontaktelev, hvor eventuelle merknader ført på dag eller time er inkludert. Kolonnen _Dokumentert_ viser datoen fraværet fikk en annen dokumentasjonstype enn _Udokumentert_, men ikke hvilken type det er.
 
 #### Udokumentert fravær over 10 %
 Dine kontaktelever med fravær som ikke er dokumentert etter at eleven passerte 10 % fravær i faget. Se [Fraværsgrensen](/docs/ms_fravaer#fravaersgrensen).
@@ -99,7 +99,7 @@ Lister alle fagsamtalene elevene har hatt i det valgte faget i valgt periode.
 Denne rapporten lister alle elevene i faget, karakter for 1. halvår, 2. halvår og standpunkt. Den viser også karakterer på prøver og enkeltvurderinger.
 
 ### Karakterutskrift
-Denne rapporten er for kontaktlærer. Den gir karakterutskrift for de valgte elevene. Karakterutskriften inneholder karakterer for 1. halvår, 2. halvår, standpunkt og eksamen. Den summerer omfang, regner ut gjennomsnittskarakter, viser fravær og karakter i orden og atferd. Fraværet som vises her er det som er sluttført fra menyvalget _Fravær_. Du kan velge å inkludere begrunnelse.
+Denne rapporten er for kontaktlærer. Den gir karakterutskrift for de valgte elevene. Karakterutskriften inneholder karakterer for 1. halvår, 2. halvår, standpunkt og eksamen. Den summerer omfang, regner ut gjennomsnittskarakter, viser fravær og karakter i orden og atferd. Fraværet regnes fra det som er ført i _Fravær_ fram til i dag: dager med dagfravær (D) og timer med timefravær (F). Timer på dager med dagfravær telles ikke. Du kan velge å inkludere begrunnelse.
 
 ### Eksamenskarakterer
 Rapporten lister standpunkt- og eksamenskarakterer for kontaktelevene i de fagene elevene har hatt eksamen.
@@ -120,7 +120,7 @@ Velg utvalg: kontaktelever, elever i mine fag, alle fag eller internat. Det foru
 Alle ansatte listes med navn og bilde. Ved å trykke på knappen _Vis rapport_ vil det genereres en PDF som man kan skrive ut.
 
 ## Ukeplan
-Hvis man har lagt inn ukeplaner under menyvalget _Års-/ukeplan_ vises ukeplanene for hele året vises i denne rapporten. Vær oppmerksom på at rapportverktøyet ikke støtter alle fonter. Hvis du får melding om at filen er ødelagt, gå til _Års-/ukeplan_ og endre teksten til ingen font eller _Times New Roman_.
+Hvis man har lagt inn ukeplaner under menyvalget _Års-/ukeplan_ vises ukeplanene for hele året i denne rapporten. Vær oppmerksom på at rapportverktøyet ikke støtter alle fonter. Hvis du får melding om at filen er ødelagt, gå til _Års-/ukeplan_ og endre teksten til ingen font eller _Times New Roman_.
 ### Fag
 Denne rapporten lister ut årets ukeplaner for det valgte faget.
 ### Klasse

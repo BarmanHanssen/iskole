@@ -4,37 +4,48 @@ title: Startside
 sidebar_label: Startside
 ---
 
-Startsiden gir en pekepinn til dagens oppgaver.  Informasjonsboksene har lenker slik at man kan navigere til sider hvor man kan få flere detaljer. Siden startsiden er ment å gi en pekepinn til dagens oppgaver, så vil utførte oppgaver ikke vises. 
+Startsiden gir en pekepinn til dagens oppgaver. Informasjonsboksene har lenker slik at man kan navigere til sider hvor man kan få flere detaljer. Siden startsiden er ment å gi en pekepinn til dagens oppgaver, så vil utførte oppgaver ikke vises. Startsiden består av _Min timeplan_, _Min oversikt_ og – for skolens ledelse og kontor – _Skolens oversikt_. Nederst ligger _Nytt i iSkole_ og _Kjente feil_.
 
 ![Startsiden](/img/ms_startsiden.png 'Startsiden')
 
-## Timeplan
+## Min timeplan {#timeplan}
 
-Her vises din timeplanen for i dag. Timeplanen for hele uken fås fra menyvalget [Timeplan](/docs/ms_timeplan).
-Timen i timeplanen er en lenke som går direkte til fraværsføringen for dette faget. For små skjermer benyttes automatisk den komprimerte visningen, ellers fullvisningen.
+Her vises timeplanen din for i dag. Over timene ligger en ukestripe: klikk på en annen dag for å se timene den dagen (på telefon kan du også sveipe). I helgen åpner timeplanen på mandagen i neste uke. Timeplanen for hele uken fås fra menyvalget [Timeplan](/docs/ms_timeplan).
+Timen i timeplanen er en lenke som går direkte til fraværsføringen for dette faget, i uken timen ligger i. For små skjermer benyttes automatisk den komprimerte visningen, ellers fullvisningen (se [Fravær](/docs/ms_fravaer)).
+
+Klassefag er grønne, gruppefag blå, vikartimer gule og romreservasjoner oransje. Romreservasjoner er ikke knyttet til et fag og fører ingen steder.
 
 ## Min oversikt
-Gir oversikt over hendelser og oppgaver knyttet til din rolle. Hvilket innhold som skal vises kan tilpasses ved å klikke på blyanten oppe i høyre hjørne. 
+Gir oversikt over hendelser og oppgaver knyttet til din rolle. Hvilket innhold som skal vises kan tilpasses ved å klikke på blyanten oppe i høyre hjørne. Da får hver flis et rødt kryss (_Fjern_) eller et grønt pluss (_Legg til_): grønn bakgrunn betyr at flisen vises, rød at den er skjult. Klikk på haken når du er ferdig.
+
+![Tilpass Min oversikt](/img/ms_startside_tilpass.png 'Tilpass Min oversikt')
+
+:::info Merk
+Valget av fliser, og grensene du setter for fraværsprosent og antall merknader, huskes i nettleseren du bruker. Bruker du en annen PC eller telefon, må du velge på nytt der.
+:::
 
 ### Nye meldinger
 
-Antall meldinger som du ennå ikke har åpnet angis her. Trykker du på ikonet ledes du til menyvalget _Meldinger_. Velges deretter _Ny melding_ kommer dette skjermbildet frem:
+Antall meldinger som du ennå ikke har åpnet angis her. Trykker du på flisen ledes du til menyvalget _Meldinger_. Se [Meldinger](/docs/ms_meldinger) for hvordan du leser og sender meldinger.
 
-![image](https://github.com/user-attachments/assets/6a30244c-beaa-4ef4-8f01-e0b7b31395c9)
+### Nye oppslag {#nye-bulletenger}
 
-Her kan en sende melding internt for brukerne av iSkole til enkelte ansatte/elever, eller til en gruppe (se under _Gruppemottakere_). Legg merke til at meldingen også kan varsles via epost, se nederst i skjermbilde. 
+Antall oppslag på oppslagstavlen som du ennå ikke har sett. Klikk på flisen for å gå til menyvalget [Oppslagstavle](/docs/ms_bulleteng).
 
+Skolens ledere og ansatte med redaktørtilgang kan publisere oppslag til elever og/eller ansatte. Redaktøren bestemmer når oppslaget skal vises, og hvor lenge det skal være synlig. Når tiden er inne, vises oppslaget automatisk for mottakerne ved innlogging. Det er rektor som bestemmer hvem som kan være redaktør.
 
-### Nye bulletenger
+### Nye permisjonssøknader {#nye-permisjonssoknader}
 
-Skolens ledere og ansatte kan sende ut meldinger til alle brukerne av iSkole, altså  til elever og/eller foreldre og ansatte. Utsteder av bulletengen angir når den skal vises, og hvor lenge den skal være synlig. Når tiden er inne for visning, vil meldingen automatisk vises mottakerne ved innlogging. Merk at rektor må gi tilgang til hvem som sende ut en bulleteng.
+Flisen vises bare når det ligger permisjonssøknader fra elever til behandling som du kan behandle – fra dine kontaktelever, eller fra alle elever hvis du er i skolens ledelse. Klikk på flisen for å gå til menyvalget [Permisjon](/docs/ms_permisjon).
 
 ### Fravær
 
-Her vises antall klager og egenmeldinger som du ennå ikke har behandlet. For kontaktlærere er det også en lenke direkte til føringen av dagfravær for hele uka.
+Her vises antall klager og egenmeldinger som du ennå ikke har behandlet. Klikk på flisen for å gå til _Fravær_ og fanen _Egenmeldinger_, der du behandler dem. For kontaktlærere er knappen _Gå til dagfravær_ en snarvei direkte til [føringen av dagfravær for alle kontaktelevene](/docs/ms_fravaer#alle_kontaktelever) for hele uka.
 
-### Udokumentert fravær - mine fag
-Fraværsprosenten beregnes 1. halvår ut i fra timeplanlagte timer og for hele skoleåret mot fagets omfang, altså antall timer for hele skoleåret. For å få oversikt over hvem som kan være i faresonen, kan du få listet ut elevene i dine fag som har prosentvis fravær på minst prosentsatsen som er lagt inn. Prosentsatsen kan du selv velge. Ved å klikke på tallene for 1. halvår eller hele skoleåret sendes du til menyvalget _Brev > Varselbrev_ og fanen _Elever over fraværsgrense_. Her vises en liste med alle elevene over den angitte prosenten. Som standard ekskluderes de som har fått varsel, men du kan huke av _Inkluder elever som har fått varsel_ for å se alle elever. Ved å klikke på en elev kan du sende varsel i dette faget.
+### Fravær – mine fag {#udokumentert-fravær---mine-fag}
+For å få oversikt over hvem som kan være i faresonen, viser flisen hvor mange elever i dine fag som har udokumentert fravær over prosentgrensen, og som ikke har fått varsel. Fraværsprosenten beregnes for hele skoleåret mot fagets omfang, altså antall timer for hele skoleåret. Prosentgrensen velger du selv: skriv inn et tall mellom 0 og 10 og klikk på oppdater-knappen ved siden av. Grensen er felles for _Fravær – mine fag_ og _Fravær – kontaktelever_.
+
+Ved å klikke på tallet for _Hele skoleåret_ sendes du til menyvalget _Brev > Varselbrev_ og fanen _Elever over fraværsgrense_. Her vises en liste med alle elevene over den angitte prosenten. Som standard ekskluderes de som har fått varsel, men du kan huke av _Inkluder elever som har fått varsel_ for å se alle elever. Ved å klikke på en elev kan du sende varsel i dette faget.
 
 [Se reglement hos Udir](https://www.udir.no/regelverkstolkninger/opplaring/Vitnemal/fravarsgrense---udir-3-2016/)
 
@@ -46,19 +57,29 @@ For at en elev skal regnes som varslet, må varselet være opprettet med avhukin
 Varslet skal gis «straks». Det vil si at når det er fare for at eleven kan overskride fraværsgrensen, skal det varsles. Selv om det ble varslet i forbindelse med halvårskarakteren, må det varsles på nytt i forbindelse med standpunktkarakteren.
 :::
 
-### Udokumentert fravær - kontaktlærer
-Samme funksjonalitet som for _mine fag_, men utvalget er alle dine kontaktelevene. Listen kontaktlærerne kommer til er kun en oversikt, man kan se eventuelle brev som er sendt, men ikke sende brev.
+### Fravær – kontaktelever {#udokumentert-fravær---kontaktlærer}
+Vises for kontaktlærere. Samme telling som for _mine fag_, men utvalget er alle kontaktelevene dine, i alle fag. Klikk på tallet for å åpne lista over kontaktelevene som er over grensen, med fraværstimer, fagets omfang og fraværsprosent per fag, og dato for eventuelt varsel. I lista kan du justere grensen med glidebryteren, ta med elever som har fått varsel, søke på klasse, navn, fag eller lærer, og laste ned lista som regneark (_Last ned_). Klikk på en elev for å se brevene som er sendt. Lista er kun en oversikt – varsel sendes av faglærer fra _Brev > Varselbrev_. Pila øverst til venstre tar deg tilbake til startsiden.
 
-
-### Orden/oppførsel
-Vises for kontaktlærere og angir hvor mange kontaktelever som samlet har flere merknader i orden og oppførsel enn den angitte grensen. Ved å klikke på tallet sendes du til menyvalget _Brev > Varselbrev_ og fanen _Orden og oppførsel_. Her vises detaljert oversikt over kontaktelevene og fordelingen av anmerkninger 1. og 2. halvår.
+### Orden/oppførsel – etter siste varsel {#ordenoppførsel}
+Vises for kontaktlærere og angir hvor mange kontaktelever som har minst så mange merknader som grensen du har valgt (standard 2) – telt hver for seg i orden og i oppførsel, og bare merknader gitt etter siste varsel. Tellingen nullstilles ved terminskillet. Ved å klikke på et av tallene sendes du til menyvalget _Brev > Varselbrev_ og fanen _Orden og oppførsel_. Her vises detaljert oversikt over kontaktelevene og fordelingen av anmerkninger 1. og 2. halvår.
 
 ### Fremtidige vikartimer
 
-Dersom du allerede er lagt inn som vikar vil antall timer, og betingelser vises her. Klikker du på ikonet hvor vikartimer er større enn 0, vil du få opp timeplanen hvor vikartimene er markert med egen farge.
+Dersom du allerede er lagt inn som vikar vil antall timer vises her, fordelt på timer som betales (_Betalt_) og ikke betales (_Ubetalt_). Klikk på flisen for å gå til [Timeplan > Min timeplan](/docs/ms_timeplan#stillingsoversikt), fanen _Stillingsoversikt_, der vikartimene dine denne uken og hele skoleåret er listet opp. I timeplanen er vikartimene gule.
 
-### Avslutt fraværsføring 
-Viser kontaktlæreren hvor mange av kontaktelevene som har avvik mellom fraværsregistrert og det antall dager og timer som er overført til karakterdokumentasjonen.
+## Skolens oversikt {#skolens-oversikt}
+Skolens oversikt vises for skolens ledelse og kontor (rektor, administrator og brukergruppen _Kontor_). Time- og fagfordelere ser bare flisene for ansattfravær og vikartimer. Også her velger du hvilke fliser som skal vises med blyanten, og du kan klikke på flisene for å få flere detaljer. Pila øverst til venstre i detaljvisningen tar deg tilbake til startsiden.
 
-## Skolens oversikt
-Skolens oversikt vises for skolens ledelse. Den inneholder ansattfravær, vikartimer, alle skolens elever med udokumentert fravær over valgt prosent som ikke har mottatt varsel, antall varselbrev som ikke er åpnet og permisjonssøknader. Også her kan man klikke på alle boksene for å få flere detaljer.
+- _Ansattfravær (perioder)_: antall ansatte som er borte i dag, og antall fraværsperioder i skoleåret – registrert av den ansatte selv under [Eget fravær](/docs/ms_eget_fravaer) eller av kontoret. Gir oversikt over dagens vikarbehov.
+- _Vikartimer_: vikartimer denne uken og i skoleåret. I lista kan du bytte mellom denne uken og hele året.
+- _Fravær_: alle skolens elever med udokumentert fravær over valgt prosent for hele skoleåret, som ikke har fått varsel. Lista kan lastes ned som regneark.
+- _Varselbrev ikke åpnet_: varselbrev som mottakeren ikke har åpnet, totalt og hvor mange som er eldre enn 10 dager. Brev du har fulgt opp, kan du fjerne fra lista (_Fjern linje fra listen_).
+- _Permisjonssøknader: Elev_: søknader til behandling og totalt. Klikk for å gå til [Permisjon](/docs/ms_permisjon).
+- _Permisjonssøknader: Ansatt_: søknader fra ansatte som venter på behandling. Klikk for å behandle dem i _Personal_.
+- _Orden/oppførsel – etter siste varsel_: elever ved skolen med minst angitt antall merknader i orden eller oppførsel etter siste varsel.
+- _E-post uten levering_: e-postadresser til skolens elever, foresatte, ansatte og søkere som iSkole ikke får levert e-post til (_Blokkert_), eller som har meldt seg av (_Avmeldt_). I lista kan du rette adressen (_Rett adresse_), bekrefte at en blokkert adresse er riktig (_Bekreft riktig_, som sender en bekreftelses-e-post) og se historikken for adressen. Avmeldte mottakere kan bare melde seg på igjen selv.
+
+![Skolens oversikt](/img/ms_startside_skolens_oversikt.png 'Skolens oversikt')
+
+## Nytt i iSkole og Kjente feil {#nytt-i-iskole}
+Nederst på startsiden viser _Nytt i iSkole_ de siste nyhetene fra dokumentasjonssiden, med lenke til hele innlegget (_Les mer på dokumentasjonssiden_). _Kjente feil_ lister feil vi kjenner til, med en beskrivelse og eventuelt hvordan du kan komme rundt feilen.

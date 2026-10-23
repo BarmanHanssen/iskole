@@ -4,21 +4,19 @@ title: Personalia
 sidebar_label: Personalia
 ---
 
-Her kan du se personalia skolen har registrert på deg. Du kan selv endre egen adresse og telefon, samt data om hvem som er _Pårørende_. Dersom noe annet skal endres må du ta kontakt med administrasjonen.
+Her kan du se personalia skolen har registrert på deg. Du kan selv endre egen adresse og telefon, samt data om hvem som er _Pårørende_. Klikk _Endre_ i boksen du vil endre, gjør endringene og klikk _Lagre_. Dersom noe annet skal endres må du ta kontakt med administrasjonen. Siden viser også ansettelsesforholdet ditt (blant annet stillingskode, ansettelsesform og stillingsstørrelse) og undervisningsfagene dine.
 
+![Personalia](/img/ms_personalia.png 'Personalia')
 
-![image](https://github.com/user-attachments/assets/07c93a59-320e-4ae6-8510-5831e2cdbc09)
+## Innstillinger {#innstillinger}
+Klikk på navnet ditt oppe i høyre hjørne og velg _Innstillinger_. Her finner du:
 
+- **Passnøkler**: Med _Opprett passnøkkel…_ lagrer du en passnøkkel på enheten du bruker. Neste gang kan du logge inn raskt og sikkert med for eksempel fingeravtrykk, ansiktsgjenkjenning eller koden du låser opp enheten med. Passnøkler kan synkroniseres mellom enhetene dine, for eksempel via iCloud på Mac og iPhone.
+- **Varslinger**: Slå på varsler for å få beskjed når du får en ny melding i iSkole, også når iSkole ikke er åpent. Klikk _Se status_ for å se om varsler er tillatt og aktivert, og deretter _Aktiver varslinger_ (eller _Deaktiver varslinger_). Valget gjelder bare enheten og nettleseren du bruker. På iPhone må iSkole først være lagt til på Hjem-skjermen; lenken _Hjem-skjerm_ forklarer hvordan.
+- **Navn i lister**: Velg om navn skal vises og sorteres som _Etternavn, Fornavn_ eller _Fornavn Etternavn_ i elevlister og andre personlister. Lister med klasse sorteres alltid på klasse først, deretter navn. Valget lagres på deg og gjelder på alle enheter. Har du ikke valgt ennå, spør iSkole deg første gang du logger inn.
+
+![Innstillinger](/img/ms_personalia_innstillinger.png 'Innstillinger')
 
 :::info Merk
-#### For å endre passordet, se oppe i høyre hjørne:
-
-![image](https://github.com/user-attachments/assets/c72a41d3-ea2f-4011-8a11-77125bc73760)
-
-Velg _Innstillinger_:
-
-![image](https://github.com/user-attachments/assets/c395fed0-4a1e-48e9-94b9-cc0b2e5bb28f)
-
+Passord og tofaktorkode settes ikke lenger opp i iSkole. Du logger inn med for eksempel Feide, ID-porten, lenke på e-post eller passnøkkel.
 :::
-
-Ønsker man å slå på tofaktorautentisering ved innlogging, så må man generere en kode som den ansatte kan legge inn i en kodegenerator som f.eks. Google Authenticator på sin telefon. Koden kan enten tastes inn på telefonen, eller avleses av QR-koden som kommer frem på skjermen etter man har trykket på knappen _Generer kode_. Ønsker man siden å slå av kravet om tofaktorautentisering, så kan man slette koden ved å trykke på knappen _Slett kode_.

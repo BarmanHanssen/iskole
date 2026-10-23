@@ -4,7 +4,7 @@ title: Fravær
 sidebar_label: Fravær
 ---
 
-Dette menyvalget inneholder fagfravær, egenmeldinger, klager, heldagsprøver, fravær for eventuelle kontaktelever, sluttføring av fravær og fraværsføring for skolens ledelse. Tilganger og visninger tilpasses automatisk brukerens rolle. Rollene tilknyttet fraværsføring er faglærer, kontaktlærer og skolens ledelse. Faglærer har ansvaret for å føre fravær i sine fag og behandle eventuelle klager elevene har på fraværet som er ført. Skolen kan gi faglærer ansvaret for å behandle egenmeldinger i sine timer. Kontaktlærer har det overordnede ansvaret for fraværet og omgjør timefravær til dagfravær og behandler egenmeldt dag- og timefravær. Skolen ledelse har samme rettighet som kontaktlæreren i føringen av fravær på alle skolens elever. De kan også søke opp fag eller faglærere for å føre fravær i fag.
+Dette menyvalget inneholder fagfravær, egenmeldinger, klager,fravær for eventuelle kontaktelever og fraværsføring for skolens ledelse. Innholdet ligger i fanene _Egenmeldinger_, _Fagfravær_ og _Kontaktelever_, og for skolens ledelse også _Alle elever_. Tilganger og visninger tilpasses automatisk brukerens rolle. Rollene tilknyttet fraværsføring er faglærer, kontaktlærer og skolens ledelse. Faglærer har ansvaret for å føre fravær i sine fag og behandle eventuelle klager elevene har på fraværet som er ført. Skolen kan gi faglærer ansvaret for å behandle egenmeldinger i sine timer. Kontaktlærer har det overordnede ansvaret for fraværet og omgjør timefravær til dagfravær og behandler egenmeldt dag- og timefravær. Skolens ledelse har samme rettighet som kontaktlæreren i føringen av fravær på alle skolens elever. De kan også søke opp fag eller faglærere for å føre fravær i fag.
 
 :::important Fraværskoder
 
@@ -15,6 +15,8 @@ Dette menyvalget inneholder fagfravær, egenmeldinger, klager, heldagsprøver, f
 - S = For sent til timen
 - M = Møtt
 - A = Annen organisert opplæring (Teller ikke som fravær)
+
+I nedtrekkslister og tabeller vises koden sammen med forklaringen, for eksempel _F – Timefravær_ og _I – Dagfravær, ikke på karakterdok._
 
 Fargen på fraværet viser hvilken dokumentasjonstype som er satt: rød er _Udokumentert_, lys blå er _Helse — egenmeldt_, mørk blå er _Helse — dokumentert_, og grønn er _Dokumentert §6-8 b-i_ — det eneste som ikke teller mot 10 %-grensen.
 
@@ -36,7 +38,7 @@ Avkryssingen for om fraværet er dokumentert er derfor erstattet av en nedtrekks
 Registrer alltid fraværet med den dokumentasjonstypen som passer til fraværsmeldingen du har fått — uavhengig av hva elevens fraværsprosent er i faget.
 :::
 
-![Dokumentasjonstype](/img/Helsefravær.png 'Kontaktlærer fører fravær med dokumentasjonstype')
+![Dokumentasjonstype](/img/ms_fravaer_dokumentasjonstype_panel.png 'Kontaktlærer fører fravær med dokumentasjonstype')
 
 ### Elever og foreldre
 Elever og foreldre leverer egenmelding som før. De oppgir ikke fraværskode, kun om eleven er borte og om de har dokumentasjon. Læreren som behandler egenmeldingen må eventuelt endre fraværskoden fra D (dagfravær) eller F (timefravær) til en annen kode, og sette riktig dokumentasjonstype. _Udokumentert_ er standardverdi.
@@ -76,9 +78,9 @@ Det er dette skillet de to helsetypene dekker: _Helse — egenmeldt_ er elevens 
 Dokumentasjon leveres gjennom **egenmelding**. Eleven kan levere egenmelding i ettertid for å ettersende dokumentasjon, også i tilfeller der det allerede er levert en egenmelding for det samme fraværet på forhånd. Læreren som behandler egenmeldingen setter riktig dokumentasjonstype.
 
 ### Oversikt for faglærere
-Faglærere får oversikt over udokumentert og egenmeldt helsefravær over 10 % fra _Mine sider > [Rapporter](/docs/ms_rapporter) > Fravær > Fag_. Dette er fravær som eleven må dokumentere for å kunne få karakter i faget. Listen viser elevene og en summering av hvor mange fag og undervisningsøkter det gjelder. Ved å klikke på pilen til venstre i tabellen vises hvert enkelt fravær med fag, tidspunkt, varighet, informasjon om fraværet og eventuell egenmelding.
+Faglærere får oversikt over udokumentert og egenmeldt helsefravær over 10 % fra _Mine sider > [Rapporter](/docs/ms_rapporter) > Fravær > Fag_. Dette er fravær som eleven må dokumentere for å kunne få karakter i faget. Listen viser elevene og en summering av hvor mange fag og undervisningsøkter det gjelder. Klikk på pilen ved eleven for å se fagene, og på pilen ved faget for å se hvert enkelt fravær med tidspunkt, varighet, fraværstype, dokumentasjonstype, merknad og eventuell egenmelding. Kontaktlærere har den samme oversikten for kontaktelevene under _Rapporter > Fravær > Kontaktelever_.
 
-![Udokumentert fravær over 10 %](/img/blog_udok_over10.png 'Oversikt for faglærere')
+![Udokumentert fravær over 10 %](/img/ms_fravaer_udok_over10.png 'Oversikt for faglærere')
 
 ### Oversikt for elever og foreldre
 Elever og foreldre ser to oversikter.
@@ -104,7 +106,7 @@ Føring av fagfravær starter med at faglærer velger faget det skal føres frav
 - **Komprimert visning**: bare timene i det valgte faget, én rad per elev. Rask å føre i, og den som brukes på mobil.
 - **Fullvisning**: hele timeplanen for alle elevene, med fravær som andre faglærere har ført. Her kan du se om eleven også har vært borte tidligere på dagen, og her registreres avvik i undervisningen.
 
-Verktøylinja er lik i begge: _Angre_ og _Lagre_ øverst, knapperekken med fraværstypene, _Før oppmøte_ og _Orden og oppførsel_. Alt du gjør samles som **ulagrede endringer** (stiplet ramme på cella) til du trykker _Lagre_. Knappen viser hvor mange endringer som venter. Forlater du siden med ulagrede endringer, får du et varsel.
+Verktøylinja er lik i begge: _Angre_ og _Lagre_ øverst, knapperekken med fraværstypene, _Før oppmøte_, _Orden og oppførsel_ og _Fraværsførere_. Tegnforklaringen under elevlisten kan skjules med info-knappen ved fagvelgeren, eller med krysset i selve forklaringen, når du trenger mer plass. Alt du gjør samles som **ulagrede endringer** (stiplet ramme på cella) til du trykker _Lagre_. Knappen viser hvor mange endringer som venter. Forlater du siden med ulagrede endringer, får du et varsel.
 
 ![Fagfravær](/img/ms_fagfravaer_fagets_timer.gif 'Komprimert visning: velg type, klikk timene, før oppmøte og lagre')
 
@@ -149,14 +151,14 @@ Merknader kan registreres på hver elevs time i faget, for eksempel grunn for fr
 
 Merknader i timer tilknyttet valgt fag føres i panelet (bruk **Velg** og klikk på timen). Merknader for dag og andre fag vises i fullvisningen ved å holde musepekeren over cella.
 
-### Fraværsførere
-Her kan faglærer gi andre ansatte tilgang til fraværsføring i faget. Klikk på _Legg til_ for å åpne et dialogvindu med en tabell over andre ansatte.
+### Fraværsførere {#fraværsførere}
 
+Faglærerne i timeplanen har automatisk tilgang til å føre fravær i faget. Skal andre ansatte også kunne føre fravær, trykker du _Fraværsførere_ i verktøylinja (på mobil ligger valget i menyen med tre prikker). Øverst i vinduet står de som har tilgang i dag. Under _Legg til_ finner du pedagogene ved skolen som ikke har tilgang fra før, og du kan søke på navn. _Legg til_ og _Fjern_ lagres med en gang – du trenger ikke trykke _Lagre_. Faglærerne fra timeplanen kan ikke fjernes her. Du kan ikke legge til deg selv, så fjerner du din egen tilgang, må noen andre gi deg den tilbake.
 
 ## Egenmeldinger
 
 ### Klager
-Hvis elevene er uenig i fraværet som er ført så har de mulighet til å registrere en klage. 
+Hvis elevene er uenig i fraværet som er ført så har de mulighet til å registrere en klage. Klagene ligger øverst i fanen _Egenmeldinger_ (_Klager på fravær_), og du når dem også med knappen _Klager_ i fanen _Fagfravær_.
 Svaralternativene er:
 
 - _Aksepter_: klagen tas til følge, dvs. fraværet endres til typen angitt i klagen, og klagen slettes.
@@ -177,27 +179,25 @@ Ansvarlig faglærer kan behandle klager gjennom hele året. Dersom andre har und
 
 ### Elevers egenmeldinger
 
-Egenmeldinger for fravær vises bare inntil en uke etter datoen for fraværet er passert.
+Egenmeldingene står i listene til de er behandlet.
 
-Eleven kan selv registrere dag- og timefravær. Kontaktlærer får egenmeldinger både for dag og time, mens faglærer får egenmeldinger knyttet til sine timer. Egenmeldinger kan registreres før skoledagen starter, men det kan også registreres etter at fraværet har funnet sted. Elevers egenmeldinger viser under overskriftene _Elevers egenmeldinger (dag)_ og _Elevers egenmeldinger (time)_. For dagfravær vises dato for dagfraværet, om det allerede er registrert fravær, meldingen fra eleven, elevens navn samt når egenmeldingen ble registrert. 
+Eleven kan selv registrere dag- og timefravær. Kontaktlærer får egenmeldinger både for dag og time, mens faglærer får egenmeldinger knyttet til sine timer. Egenmeldinger kan registreres før skoledagen starter, men det kan også registreres etter at fraværet har funnet sted. Elevers egenmeldinger vises under overskriftene _Elevers egenmeldinger dagfravær_ og _Elevers egenmeldinger timefravær_, med antallet i parentes. For dagfravær vises dato for dagfraværet, om det allerede er registrert fravær, meldingen fra eleven, elevens navn samt når egenmeldingen ble registrert. 
 
-Timefravær har i tillegg er en kolonne for time. 
+Timefravær har i tillegg en kolonne for tidspunkt. 
 
 #### Behandle egenmelding
-Vinduet for behandling er delt i tre deler. Først vises elevens egenmelding med eventuell opplastet dokumentasjon, etterfulgt av eventuelt allerede ført fravær og til slutt det som vil bli ført ved å godkjenne egenmeldingen. Verdiene vil være forhåndsutfylt basert på elevens egenmelding, men det kan være behov for å gjøre endringer. Kanskje skal fraværstypen endres fra D til I, eller dokumentasjonstypen settes til _Helse — dokumentert_ eller _Dokumentert §6-8 b-i_, dersom dokumentasjonen viser dette. Se [Dokumentasjonstype](#dokumentasjonstype).
+Vinduet for behandling er delt i tre deler. Først vises elevens egenmelding med eventuell opplastet dokumentasjon, etterfulgt av eventuelt allerede ført fravær og til slutt det som vil bli ført ved å godkjenne egenmeldingen. Verdiene vil være forhåndsutfylt basert på elevens egenmelding, men det kan være behov for å gjøre endringer. Fraværstypen vises med forklaring, for eksempel _D – Dagfravær_. Kanskje skal fraværstypen endres fra D til I, eller dokumentasjonstypen settes til _Helse — dokumentert_ eller _Dokumentert §6-8 b-i_, dersom dokumentasjonen viser dette. Se [Dokumentasjonstype](#dokumentasjonstype).
 
 :::info Merk
 Dersom egenmeldingen er meldt inn av en forelder, så vil dette vises i feltet _Ført av_.
 :::
 
-
-![Egenmelding timefravær](/img/ms_fravaer_egenmelding.png 'Egenmelding timefravær')
-
+![Behandle egenmelding](/img/ms_fravaer_egenmelding.png 'Behandle egenmelding')
 
 ## Kontaktelever
-For kontaktlærere og vikarer/assistenter tilordnet av kontaktlæreren fra _Mine sider > Elever_ vises en tabell med alle elevene og en summering av fravær, forsentkomming og anmerkninger fordelt på 1. og 2. halvår. Hvis noen av dagene er registrert med I og ikke skal med på vitnemålet, vil disse vises i parentes  bak antall dager. Vær oppmerksom på at første tallet viser totalt antall dager med fravær, så tallet i parentes skal ikke legges til dette. _Kontaktelev_ består hovedsakelig av tre visninger. To visninger for den enkelte kontaktelev og én ukesvisning for alle kontaktelever.
+For kontaktlærere og vikarer/assistenter tilordnet av kontaktlæreren fra _Mine sider > Elever_ vises en tabell med alle elevene og en summering av fravær, forsentkomming og anmerkninger fordelt på 1. og 2. halvår. Hvis noen av dagene er registrert med I og ikke skal med på vitnemålet, vil disse vises i parentes bak antall dager. Vær oppmerksom på at første tallet viser totalt antall dager med fravær, så tallet i parentes skal ikke legges til dette. _Kontaktelev_ består hovedsakelig av tre visninger. To visninger for den enkelte kontaktelev og én ukesvisning for alle kontaktelever.
 
-![Fravær kontaktelever](/img/ms_fravaer_kontaktelever.png 'Fravær kontaktelever')
+![Fravær kontaktelever](/img/ms_fravaer_kontaktelever_tabell.png 'Fravær kontaktelever')
 
 ### All fraværsinformasjon for en kontaktelev {#kontaktelev_oversikt}
 Klikk på øyet i tabellen for å åpne all fraværsinformasjon for eleven – samme oversikt som under menyvalget _Elever_. Øverst ligger regnskapet mot fraværsgrensen per fag (_Helserelatert og udokumentert fravær_, _Udokumentert fravær over 10 %_) og listene over timer avholdt, egenmeldinger, timefravær innenfor klagefristen og merknader. Nederst ligger **Fraværsoversikt**: en kalender over hele skoleåret med én rute per skoledag.
@@ -210,7 +210,7 @@ Stripene i en rute er dagens undervisningstimer i rekkefølge, og fargen fortell
 
 ![Kontaktelev – fraværsoversikt](/img/ms_fravaer_kontaktelev_oversikt.gif 'Øyet åpner elevens fraværsoversikt: filter, dagdetaljer og behandling av dagen')
 
-### Føre fravær på kontaktelev ukesvis  {#kontaktelev_detaljer}
+### Føre fravær på kontaktelev ukesvis {#kontaktelev_detaljer}
 Ved å klikke på blyanten kan man føre all fraværsinformasjon for en elev for en uke. Hver dag i valgt uke vil vise _Dagfravær_, _Dokumentasjonstype_ og _Merknad_, (Dagmerknad) etterfulgt av en tabell med de timene eleven har denne dagen. Det er ikke mulig å føre fravær på en time hvor eleven ikke har timeplanlagt undervisning. For gyldige verdier, se oversikten øverst på siden. Det er faglærerne som i hovedsak fører timefraværet, men kontaktlæreren har allikevel fulle rettigheter til alle timene. Det er kun kontaktlæreren som har mulighet til å føre dagfravær. Kontaktlærer kan også sette dokumentasjonstype på fraværet.
 
 :::info Merk
