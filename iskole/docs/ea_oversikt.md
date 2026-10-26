@@ -41,6 +41,12 @@ Noen ting går igjen i alle skjermbildene:
 - **Byttes skole eller skoleår**, lastes siden du står på med de nye
   dataene automatisk.
 
+## Nye menyvalg
+
+- **[Samtykker](/docs/ea_samtykker)** gir oversikt over svarene på
+  samtykkeskjemaet og lar deg purre på dem som ikke har svart, både for hele
+  skolen og for valgt elev.
+
 ## Menyvalg som ikke er videreført
 
 Noen menyvalg fra den gamle versjonen er bevisst ikke tatt med videre —
@@ -49,7 +55,7 @@ form:
 
 | Gammelt menyvalg | Hvor gjøres dette nå |
 |---|---|
-| **Mappe** | [Elevmappen i Mine sider](/docs/ms_elevmappe). |
+| **Mappe** | Heter nå **[Elevmappe](/docs/ea_elevmappe)** og ligger under valgt elev. Det er den samme elevmappen som i [Mine sider](/docs/ms_elevmappe). |
 | **Fravær/orden/atferd** | Føres av kontakt- og faglærerne i Mine sider — se [Fravær](/docs/ms_fravaer) og [Orden/atferd](/docs/ms_orden_atferd). |
 | **NVB-overføring** | Egen **fane på Vitnemål**-siden, sammen med kontroll og generering. |
 | **Permisjon** | Heter nå **[Søknader](/docs/ea_soknader)** og rommer mer: både permisjon og tilrettelagt eksamen. |
