@@ -34,7 +34,7 @@ Anta at blokkid=2 skal timeplanlegges med fem uketimer. Vi ønsker å plassere e
 - Klikker på _Blokkid_ 2 i tabellen til venstre
 - Klikk på timene på timeplanen.
 
-I bildet overer blokkid 2 valgt og har fått dobbelttimen på mandag; onsdag og fredag gjenstår. Blokkid 1 er allerede timeplanlagt med to dobbeltimer og én time til. 
+I bildet over er blokkid 2 valgt og har fått dobbelttimen på mandag.  Onsdag og fredag gjenstår. Blokkid 1 er allerede timeplanlagt med to dobbeltimer og én time til. 
 
 Kalenderen viser én vanlig skoleuke med skolens timer; lørdag og søndag vises bare når skolen har timer der. En time uten blokkid er merket **Tildel**, og en time som er plassert i en blokk, får blokkens farge og nummer.
 
