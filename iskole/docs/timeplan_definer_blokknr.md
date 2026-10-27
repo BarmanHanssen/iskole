@@ -28,14 +28,19 @@ Det er først når et blokkid er timeplanlagt at vi kan høste gevinsten ved tim
 
 Eksempel:
 
-![bilde](/img/tp_blokk.png)
+![Blokk](/img/tp_blokk.png 'Blokkid 2 valgt i fanen Blokk')
 
-Anta at blokkid=2 skal timeplanlegges med fem uketimer. Vi ønsker å plassere en dobbelt-time på mandag og onsdag, og en time på fredag. Da starter vi  slik:
-- Klikker på _Blokkid_ 2 
+Anta at blokkid=2 skal timeplanlegges med fem uketimer. Vi ønsker å plassere en dobbelt-time på mandag og onsdag, og en time på fredag. Da starter vi slik:
+- Klikker på _Blokkid_ 2 i tabellen til venstre
 - Klikk på timene på timeplanen.
 
-I bildet over har vi lagt inn de beskrevne timene for blokkid 2. Blokkid 1 er allerede timeplanlagt med to dobbeltimer. 
+I bildet overer blokkid 2 valgt og har fått dobbelttimen på mandag; onsdag og fredag gjenstår. Blokkid 1 er allerede timeplanlagt med to dobbeltimer og én time til. 
 
+Kalenderen viser én vanlig skoleuke med skolens timer; lørdag og søndag vises bare når skolen har timer der. En time uten blokkid er merket **Tildel**, og en time som er plassert i en blokk, får blokkens farge og nummer.
+
+- **Plassere**: velg blokkid i tabellen til venstre og klikk på en time merket _Tildel_. Har du ikke valgt blokkid, får du beskjed om å gjøre det først.
+- **Slette**: klikk på en plassert blokktime og bekreft med _Ja, slett_.
+- **Finne igjen en blokk**: hold musepekeren over en rad i blokkid-tabellen, så markeres blokkens timer i kalenderen.
 
 #### Trinn
 Dersom trinn er lagt inn begrenser det ikke direkte timeplanleggers arbeid.
@@ -43,26 +48,34 @@ Dersom trinn er lagt inn begrenser det ikke direkte timeplanleggers arbeid.
 Men dersom trinn innføres vil det begrense elevens valgmuligheter. En elev kan bare velge gruppefag fra en blokk hvor elevens klassetrinn inngår. 
 Timeplanlegger vil uansett få melding dersom en elev får kollisjon på sin timeplan.
 
+Trinn legges inn med **Rediger trinn for blokkid** over blokkid-tabellen: kryss av trinn 1, 2 og/eller 3 for hver blokkid og avslutt med _Lagre_ (eller _Avbryt_). Mens du redigerer trinn, kan du ikke plassere eller slette blokktimer. Knappen vises bare for skoler med videregående opplæring.
+
 :::info Merk
 Dersom elevene selv skal kunne velge gruppefag for neste skoleår er fremgangsmåten slik:
 - Neste skoleår må opprettes, se _Grunnlagsdata>Skoleår_. Valgbare grupper må opprettes, gjerne med blokkid og trinn .
-- Aktuelle elever i år må flyttes opp til neste skoleår,  se _Elevadmin.>Oppflytting_
+- Aktuelle elever i år må flyttes opp til neste skoleår, se _Elevadmin.>Oppflytting_
 - Det må åpnes for når årets elever skal kunne få velge av gruppefag for neste skoleår, se _Mine sider>Tilgang>Elevers valg av gruppefag_.
 :::
+
+### Tidskjema {#tidskjema}
+Har skolen flere tidskjemaer (egne sett med start- og sluttider, se [_Timer_](/docs/timeplan_time#tidskjema)), vises nedtrekket **Tidskjema** over kalenderen i fanen _Blokk_. Timene merket _Tildel_ hentes fra valgt tidskjema, mens timer som alt er plassert i en blokk, vises uansett hvilket skjema som er valgt. Valget huskes i nettleseren og gjelder også de andre timeplanvinduene (Timer, Reserver, Grupper og Klasser).
 
 ### Blokkfag
 Alle fag som er tildelt blokkid vises her. Blokkid kan registreres på fagene allerede når gruppefag opprettes fra _Grunnlagsdata>Grupper_.
 Her kan en legge til/endre oppsettet av hvilke fag som skal ha blokkid. 
 
 Velges _Blokkfag_ og _+ Legg blokkid til fag_ fås dette skjermbilde:
-![image](https://github.com/user-attachments/assets/59e576ed-cb2e-493d-8e19-44ca2bc5cf3e)
 
-Huk av for fag, og velg hvilke blokkid som skal benyttes, og avslutt med _Lagre_.
+![Blokkfag](/img/tp_blokk_blokkfag.png 'Legg blokkid til fag')
+
+Velg ett eller flere fag i _Velg fag_ (bare fag som ikke har blokkid, tilbys), velg blokkid i _Velg blokkid_ og avslutt med _Lagre_.
+
+I tabellen endrer blyanten blokkid for ett fag, og papirkurven tar blokkid bort fra faget med en gang, uten bekreftelse. Holder du musepekeren over en blokkid, vises blokkens timer (blokknr, dag og tid). Blokkid kan også settes fra [_Grupper_](/docs/timeplan_blokknr_gruppefag) med **Blokk**-knappen på faglinjen.
 
 ### Blokktider klasse
 
-Her fås en nyttig oversikt når elevens valg av gruppefag er registrert, og gruppefagene er timeplanlagt.
+Her fås en nyttig oversikt når elevens valg av gruppefag er registrert, og gruppefagene er timeplanlagt. Velg klasse og uke øverst (pilene går til forrige/neste uke). Tabellen viser dag, tid, antall elever i klassen og gruppefaget.
 
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/3128651d-a41a-42e8-97ac-71beda745e03)
+![Blokktider klasse](/img/tp_blokk_blokktider_klasse.png 'Blokktider for klassen AP3D i uke 43')
 
-Her vises timer hvor minst en av elevene i klassen har et gruppefag på sin timeplan. Av skjermbildet fremgår det at 7 timer dekker klassens  timeplan for gruppefag. Klassefag kan ikke timeplanlegges her. Dersom klassen BY1C har klassefag som krever 23 timer undervisning, vil klassens timeplan totalt dekke 30 timer når klassefagene er ferdig timeplanlagt. Men elevens timeplan kan ha færre timer avhengig av valg av gruppefag.
+Her vises timer hvor minst en av elevene i klassen har et gruppefag på sin timeplan. Av skjermbildet fremgår det at 9 timer dekker klassens timeplan for gruppefag. Klassefag kan ikke timeplanlegges her. Dersom klassen AP3D har klassefag som krever 23 timer undervisning, vil klassens timeplan totalt dekke 32 timer når klassefagene er ferdig timeplanlagt. Men elevens timeplan kan ha færre timer avhengig av valg av gruppefag.
