@@ -12,7 +12,7 @@ Søk opp eleven i elevsøket. _Elevmappe_ finner du deretter i elevens meny,
 mellom _Karakterdokumentasjon_ og _VIGO_. Eleven må gå ved skolen i valgt
 skoleår.
 
-Menyvalget er tilgjengelig for rektor/administrator og _Kontor -
+Menyvalget er tilgjengelig for rektor, rektors stedfortreder og _Kontor -
 elevadministrasjon_ (full tilgang), og for elevinspektør (lesetilgang). I
 tillegg finnes brukergruppene _Elevadmin > Elevmappe - lese_ og _Elevadmin >
 Elevmappe - full_ for dem som bare skal ha tilgang til elevmappen.
