@@ -6,15 +6,18 @@ sidebar_label: Klassefag
    
 ## Generelt
 
-Eventuell endring i klassenes fagsammensetningen må gjøres fra  _Grunnlagsdata>Klasse_. 
+Eventuell endring i klassenes fagsammensetningen må gjøres fra  _Grunnlagsdata>Klasse_. Fagets omfang, uketimer, årstimer og årsramme registreres under _Grunnlagsdata >Fag_.
 
-Her registreres hvem som skal være lærer(e) i det enkelte fag, og hvilken ressurs som skal tilkommer den enkelte lærer. Dersom flere lærere i et fag er det timeplanlegger som fastsetter fordelingen av timene (se _Timeplan>KLasser_).
+Her registreres hvem som skal være lærer(e) i det enkelte fag, og hvilken ressurs som skal tilkomme den enkelte lærer. Dersom flere lærere i et fag er det timeplanlegger som fastsetter fordelingen av timene (se _Timeplan>KLasser_).
 
-Tips: Dersom man i tillegg til undervisningsressursen til læreren også registrere ressursbruk for eventuelt andre tjenester (menyvalget _Andre ressurser_) kan man kontrollere at læreren får en stillingsstørrelse som tilsvarer tilsettings-kontrakten (se _Rapporter>Stillingsoversikt_).
+Tips: Dersom man i tillegg til undervisningsressursen til læreren også registrere ressurs for eventuelt andre tjenester (menyvalget _Andre ressurser_) kan man kontrollere at læreren får en stillingsstørrelse som tilsvarer tilsettings-kontrakten (se _Rapporter>Stillingsoversikt_).
+Stillingsstørrelsen er registrert som _Prosent_ fra _Personell>Ansatte_.
 
 Time- og fagfordelingen planlegges gjerne på vårparten for skoleåret som starter til høsten. På den tid er antall elever i klassene og i gruppefagene ikke kjent, eller i beste fall usikre. Men fra skoleårets start vil en herfra få oversikt over reelt elevtall i det enkelte fag. 
 
 Antall timer timeplanlegger alt har plassert på timeplanen vises også. Resultatet blir vist som klokketimer, og tar høyde for at undervisningstimene kan ha varierende lengde.
+
+Klikker du Legg til lærer på et fag i Timeplan > Klasser, åpnes Klassefag i en ny fane med vinduet Legg til lærer for det faget.
 
 ## Klasser og fag
 
