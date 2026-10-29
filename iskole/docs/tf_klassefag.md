@@ -152,6 +152,8 @@ Faget er timeplanlagt for hele året med Peder som lærer. Men så slutter Peder
 1. Velg Berit i listen _Lærer_, og klikk _Bytt lærer for valgte uker_. Berit legges til i faget og overtar Peders timer i disse ukene. Ikke legg til Berit i faget først: lærere som allerede står i faget, vises ikke i listen.
 1. Juster ressurs og årstimer for både Peder og Berit (blyanten foran navnet), og flytt eventuelt fagansvaret til Berit.
 
+Tilsvarende må andre fag til Peder gis ny lærer.
+
 Ikke slett Peder. Da fjernes han fra alle timene i hele skoleåret, også ukene før nyttår.
 
 Skal byttet bare gjelde én uke, kan det også gjøres fra _Timeplan_, se [Bytte av lærer i fag](/docs/timeplanlegging#bytte-av-lærer-i-fag).
