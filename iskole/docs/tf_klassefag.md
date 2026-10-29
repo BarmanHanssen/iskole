@@ -5,7 +5,7 @@ sidebar_label: Klassefag
 ---
    
 ## Generelt
-
+ 
 Eventuell endring i klassenes fagsammensetningen må gjøres fra [_Grunnlagsdata > Klasser_](/docs/gd_klasse). Fagets omfang, uketimer, årstimer og årsramme registreres under [_Grunnlagsdata > Fag_](/docs/gd_fag). 
 
 Her registreres hvem som skal være lærer(e) i det enkelte fag, og hvilken ressurs som skal tilkomme den enkelte lærer. Dersom flere lærere i et fag er det timeplanlegger som fastsetter fordelingen av timene (se [_Timeplan > Klasser_](/docs/timeplan_timeplanlegge_klasse#lærer-på-timen)).
