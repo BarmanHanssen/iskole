@@ -43,7 +43,7 @@ Eksempel: Skal registrere lærer i engelsk i klasse LA1B. Klikker på ikonet
 
 Feltene i vinduet:
 
-- _Lærer_: Listen viser pedagogisk ansatte som ikke allerede står i faget. Med _Vis kun lærere som har fagkoden_ krysset av vises bare lærere som har fagkoden som undervisningsfag (se [_Personal > Ansatt_](/docs/p_ansatt#undervisningsfag)), eller som underviser i samme fagkode i en annen klasse eller gruppe. Finner du ikke læreren, fjerner du krysset, eller klikker _Vis alle skolens lærere_ nederst i listen.
+- _Lærer_: Listen viser pedagogisk ansatte som ikke allerede står i faget. Med _Vis kun lærere som har fagkoden_ krysset av vises bare lærere som har fagkoden som undervisningsfag (se [_Personal > Ansatt_](/docs/p_ansatt#undervisningsfag)), eller som underviser i samme fagkode i en annen klasse eller gruppe. Finner du ikke læreren, fjerner du krysset.
 - _Årstimer_, _Prosent_ og _Uketimer_ er forhåndsutfylt med fagets verdier, som også står i parentes. Endrer du årstimene, regnes prosenten ut på nytt. Uketimene legges inn for alle ukene i skoleåret som har skoledager.
 - _Funksjon/stilling_, _Fagansvarlig_, _Tilrettelagt_ og _Karaktertilgang_: se [Tabellens kolonner](#tabellens-kolonner). _Karaktertilgang_ er krysset av fra start, og den første læreren i et fag blir automatisk fagansvarlig.
 
