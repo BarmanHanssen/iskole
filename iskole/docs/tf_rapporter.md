@@ -12,8 +12,6 @@ Alle rapportene gjelder skoleåret som er valgt øverst på siden. _Vis rapport_
 
 Marker de ansatte rapporten skal gjelde, i tabellen (avkrysningsboksen i overskriftsraden markerer alle), og klikk _Vis rapport_. Tabellen viser de samme tallene som [Stillingsstørrelser](/docs/tf_stillingsstorrelser).
 
-![image](https://github.com/user-attachments/assets/c5a0b9cf-6e05-4afc-aa06-ae634db5db3c)
-
 _Beskjeftigelse %_ er summen av undervisningsressurs og andre ressurser. Ressurs for eventuelle vikartimer tas ikke med i denne rapporten.
 Den enkelte lærer får frem sin stillingsoversikt fra [Mine sider>Timeplan>Min timeplan](/docs/ms_timeplan#stillingsoversikt), fanen _Stillingsoversikt_.
 
