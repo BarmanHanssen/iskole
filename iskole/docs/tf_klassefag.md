@@ -31,7 +31,8 @@ Hver linje er ett fag i en klasse, for eksempel _AP3D NOR_ (klassen og fagets ko
 
 - Søkefeltet øverst filtrerer på fag, fagnavn, fagkode, lærer (navn eller kortnavn) og funksjon. Trykk Enter eller klikk forstørrelsesglasset; krysset tømmer feltet. Treffer søket en lærer eller en funksjon, vises faget med lærerne som passer, og lærerlinjene er åpnet med en gang.
 - Kolonnene _Fag_, _Fagnavn_, _Fagkode_, _Omfang_ og _Elever_ kan sorteres ved å klikke på overskriften.
-- _Årstimer_ i den hvite delen er grønn når den er lik _Omfang_, ellers oransje. _Ressurs_ på fagets linje i den lyseblå delen er grønn når lærernes ressurs til sammen er lik fagets ressurs, ellers oransje. På en lærerlinje blir ressursen oransje hvis læreren har mer enn fagets ressurs.
+- _Årstimer_ i den hvite delen er grønn når den er lik _Omfang_, ellers oransje.
+- _Ressurs_ på fagets linje i den lyseblå delen er grønn når lærernes ressurs til sammen er lik fagets ressurs, ellers oransje. På en lærerlinje blir ressursen oransje hvis læreren har mer enn fagets ressurs.
 - Forklaringen under tabellen viser hva ikonene gjør: legge til en lærer i faget, endre læreren og slette læreren fra faget (faget slettes ikke).
 
 ## Registrere faglærer {#registrere-faglærer}
