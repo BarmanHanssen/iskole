@@ -51,7 +51,7 @@ Vi velger Gunnhild Kongsmor. Hun skal være eneste lærer i faget hele skoleåre
 
 Etter lagring står læreren på en egen linje under faget. For læreren kan vi endre verdiene som er lagt inn (klikk blyant-ikonet), eller fjerne læreren som lærer. Ikonet for å slette virker kun på fag som har fått registrert lærer. Det er bare mulig å slette læreren, faget blir stående.
 
-Et fag vil kunne være registrert med flere lærere. Eksempelvis skal en lærer som slutter ikke slettes når ny lærer innføres (se [Når en lærer slutter](#når-en-lærer-slutter)). Og enkelte fag kan kreve flere lærere i noen timer (se [Tolærerfag](/docs/tf_tolaererfag)). Hvilke lærer(e) som er knyttet til den enkelte time vil fremgå av timeplanen. Dersom faget skal ha en ekstra lærer benytter vi på nytt ikonet med person og pluss. 
+Et fag vil kunne være registrert med flere lærere. Eksempelvis skal en lærer som slutter ikke slettes når ny lærer innføres (se [Når en lærer slutter](#når-en-lærer-slutter)). Og enkelte fag kan kreve flere lærere i noen timer. Hvilke lærer(e) som er knyttet til den enkelte time vil fremgå av timeplanen. Dersom faget skal ha en ekstra lærer benytter vi på nytt ikonet med person og pluss. 
 Dersom flere lærere må fagets ressurs fordeles. Juster _Årstimer_ og _Prosent_ for hver lærer slik at summen blir lik fagets ressurs; da blir _Ressurs_ på fagets linje grønn.
 
 ### Endre lærer {#endre-lærer}
