@@ -52,7 +52,7 @@ Alle som ser hele elevmappen, kan dele enkeltdokumenter med elevens faglærere: 
    - _Forhåndsvis det faglærerne ser_ viser dokumentet slik faglæreren får det.
 3. Klikk _Del med faglærere_. Panelet viser hvem som delte og når, dokumentet får faglærer-ikonet i lista, og delingen står i aktivitetsloggen.
 
-Delingen gjelder alle som underviser eleven, også lærere som kommer til senere, for eksempel neste skoleår. Den står til noen klikker _Opphev deling_ i det samme panelet. Da ser ikke faglærerne dokumentet lenger, og det står i aktivitetsloggen. Du deler og opphever i gjeldende skoleår.
+Delingen gjelder alle som underviser eleven, også lærere som kommer til senere, for eksempel neste skoleår. Den står til noen klikker _Opphev deling_ i det samme panelet. Da ser ikke faglærerne dokumentet lenger, og det står i aktivitetsloggen. Du deler og opphever i gjeldende eller neste skoleår, så du kan dele for nye elever før skolestart.
 
 Faglærere er lærerne i elevens klasse- og gruppefag i gjeldende skoleår. Vikarer i enkelttimer får ikke tilgang, og elever som har sluttet, vises ikke for faglærerne. Bytter eleven lærer, følger tilgangen med, så det finnes ingen lister å vedlikeholde.
 
