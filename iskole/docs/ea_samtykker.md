@@ -6,7 +6,7 @@ sidebar_label: Samtykker
 
 _Samtykker_ gir skolen oversikt over svarene på samtykkeskjemaet og lar deg
 purre på dem som ikke har svart. Spørsmålene i skjemaet defineres i
-[Grunnlagsdata › Samtykker](/docs/gd_samtykkeskjema). Elevene og foreldrene svarer i
+<del>[Grunnlagsdata › Samtykker](/docs/gd_samtykkeskjema)</del> <mark>[Grunnlagsdata › Samtykkeskjema](/docs/gd_samtykkeskjema)</mark>. Elevene og foreldrene svarer i
 Elevportalen og Foreldreportalen.
 
 Hvem som skal svare, følger **aldersgrensen** på spørsmålet: er eleven yngre
