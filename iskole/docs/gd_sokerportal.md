@@ -7,7 +7,7 @@ Søkerportalen ble introdusert i 2014 og brukes av et stigende antall skoler.
 
 Ved bruk av søkerportalen vil skolen forenkle, og derigjennom spare tid, ved behandlingen av søkere. Alle skoler kan kostnadsfritt teste ut søkerportalen. Portalen medfører kostnader først etter at søkeren gjennom søkerportalen blir tatt opp og registrert som elev ved skolen. Altså vil en skole med 1000 søkere hvor kun 100 blir tatt opp faktureres for 100. 
 
-**Skolen henviser til portalen fra sin hjemmeside**. <mark>Adressen til skolens søkerportal står under fanen [Innstillinger](#innstillinger).</mark>
+**Skolen henviser til portalen fra sin hjemmeside**. Adressen til skolens søkerportal står under fanen [Innstillinger](#innstillinger).
 
 Søkerportalen lar søkeren selv fylle inn nødvendige data, og legge ved dokumentasjon. Ved innvilgelse av skoleplass skal da eleven være plassert i en klasse, og klar for skolestart med tilgang til iSkole.
 
@@ -15,22 +15,18 @@ For å kunne ta i bruk søkerportalen må skolen legge oversikt over hva skolen 
 
 Her følger en detaljert beskrivelse av hvordan søkerportalen implementeres. 
 
-<mark>Menyvalget har sju faner. _Tilbud_ og _Spørsmål_ gjelder skoleåret som er valgt øverst på siden. De andre fanene gjelder skolen for alle skoleår.</mark>
+Menyvalget har sju faner. _Tilbud_ og _Spørsmål_ gjelder skoleåret som er valgt øverst på siden. De andre fanene gjelder skolen for alle skoleår.
 
-<mark>Slik kommer skolen i gang:</mark>
+Slik kommer skolen i gang:
 
-1. <mark>Kryss av for _Søkerportal_ og/eller _Interessentportal_ under [Innstillinger](#innstillinger), og fyll ut resten av fanen.</mark>
-2. <mark>Legg inn periode og tilbud for skoleåret under [Tilbud](#tilbud).</mark>
-3. <mark>Velg [vedleggstyper](#vedleggstyper), legg inn eventuelle [spørsmål](#spørsmål) og skriv [tekstene til søkerne](#tekst-til-søkere).</mark>
-4. <mark>Lenk til adressen til søkerportalen fra skolens hjemmeside.</mark>
+1. Kryss av for _Søkerportal_ og/eller _Interessentportal_ under [Innstillinger](#innstillinger), og fyll ut resten av fanen.
+2. Legg inn periode og tilbud for skoleåret under [Tilbud](#tilbud).
+3. Velg [vedleggstyper](#vedleggstyper), legg inn eventuelle [spørsmål](#spørsmål) og skriv [tekstene til søkerne](#tekst-til-søkere).
+4. Lenk til adressen til søkerportalen fra skolens hjemmeside.
 
-## <del>Felles opplysninger for alle skoleår</del> Innstillinger <span class="endret">ENDRET</span> {#innstillinger}
-
-<div class="nytt-bilde">
+## Innstillinger {#innstillinger}
 
 ![Fanen Innstillinger med seksjonene Portaler, Kontakt og lenk](/img/gd_sokerportal_innstillinger.png 'Fanen Innstillinger med seksjonene Portaler, Kontakt og lenk')
-
-</div>
 
 Innstillingene gjelder skolen for alle skoleår. Fanen er delt i seksjoner, og
 alt lagres samlet med _Lagre_ nederst på siden.
@@ -39,37 +35,19 @@ alt lagres samlet med _Lagre_ nederst på siden.
 
 For å kunne ta portalen i bruk, må man huke av for minst en av boksene.
 
-<del>**_Skolen benytter søkerportalen til å ta imot søknader til iSkole:_**  Dette er fullversjonen av søkerportalen hvor søkeren selv kan fullføre søkerprosessen helt ut med vedlegg av all dokumentasjon som skolen krever.</del>
-
-<del>**_Skolen benytter seg av søkerportalen til å ta imot interessenter til iSkole:_** Her kan potensiell søker legge inn info om seg selv slik at skolen skal kunne kontakte vedkommende. Skolen vil da kunne bistå søkeren for en eventuell fullstendig søknad via inntaksportalen.</del>
-
 - **_Søkerportal_**: fullversjonen av søkerportalen, der søkeren selv fullfører
   søknadsprosessen og laster opp dokumentasjonen skolen krever. Under
   avkrysningen står _Adressen til søkerportalen_, som skolen lenker til fra
   hjemmesiden. Avkrysningen krever at funksjonen _Søkerportal_ er slått på under
-  [Mine sider › Tilgang › Funksjoner](/docs/ms_tilgang#funksjoner). Er den ikke
+[Mine sider › Tilgang › Funksjoner](/docs/ms_tilgang#funksjoner). Er den ikke
   det, kan portalen ikke slås på, men en portal som allerede er i bruk, kan
   slås av.
 - **_Interessentportal_**: potensielle søkere legger inn opplysninger om seg
   selv, slik at skolen kan kontakte dem og hjelpe dem med en søknad (se
-  [Meld interesse](/docs/sp_interessent)). _Adressen til interessentportalen_
+[Meld interesse](/docs/sp_interessent)). _Adressen til interessentportalen_
   vises når avkrysningen er lagret.
 
-<div class="fjernet">
-
-Hele skjemaet er som følgende:
-
-![image](https://github.com/BarmanHanssen/iskole/assets/80097133/d10e606c-4454-4ace-a345-d8da719674c5)
-
-</div>
-
 ### Kontakt og lenker
-
-<del>**_E-post:_**  Her kan en legge inn spesifikk e-post knyttet til søknad om skoleplass.</del>
-
-<del>**_Lenke til skolens reglement for inntak_ og _Lenke til skolens vilkår for søknad om skoleplass_:**</del>
-
-<del>Dokument(er) som skolen kan legge inn på sin hjemmeside hvor en redegjør for søknadsprosessen, herunder hva som kreves av dokumentasjon.</del>
 
 - **_E-post_**: skolens kontaktadresse for søkerne. Den brukes som avsender og
   kopimottaker når skolen sender e-post til søkerne, og det er hit skolens egne
@@ -85,7 +63,7 @@ Hele skjemaet er som følgende:
 - **_Heltid_**: søkerne kan bare søke for hele skoleåret. Uten avkrysning kan
   søkeren oppgi start- og sluttdato for skoleplassen.
 - **_Fortrinnsrett_**: søkerne kan krysse av for at de søker med fortrinnsrett.
-  _Dag_ og _Måned_ er fristen for å søke med fortrinnsrett. Fristen vises for
+_Dag_ og _Måned_ er fristen for å søke med fortrinnsrett. Fristen vises for
   søkeren.
 - **_Internatplass_** og **_Hybel_**: søkerne kan krysse av for at de ønsker
   internatplass eller hybel.
@@ -120,13 +98,9 @@ Skolens egne spørsmål legges inn under fanen [Spørsmål](#spørsmål).
   inntaksbrevet med BankID når tilbudet aksepteres. For søkere under 18 år må
   også forelder 1 signere. Se [Digital signering](/docs/sp_behandling#digital-signering).
 
-## <del>Informasjon til søkere</del> Tekst til søkere <span class="endret">ENDRET</span> {#tekst-til-søkere}
-
-<div class="nytt-bilde">
+## Tekst til søkere {#tekst-til-søkere}
 
 ![Fanen Tekst til søkere, underfanen Informasjon til søker, me](/img/gd_sokerportal_tekst_til_sokere.png 'Fanen Tekst til søkere, underfanen Informasjon til søker, me')
-
-</div>
 
 Fanen har to underfaner, og tekstene gjelder skolen for alle skoleår. Klikk
 _Rediger tekst_ under en tekst for å endre den i en tekstbehandler, og klikk
@@ -151,20 +125,11 @@ statusene _Venter på søker_, _Tilbud gitt_, _Avslått av skolen_, _Betalt 1.
 avdrag_, _Gjenåpent av skolen_, _Søknad komplett – venter på inntaksmøte_,
 _Venteliste_ og _Oppsagt_. Er teksten tom, sendes e-posten uten ekstratekst.
 
-## Tilbud <span class="endret">ENDRET</span> {#tilbud}
+## Tilbud {#tilbud}
 
 Her legger skolen inn hva skolen kan tilby av linjer og fag for kommende skoleår. Alt på fanen gjelder skoleåret som er valgt øverst på siden.
 
-<div class="nytt-bilde">
-
 ![Fanen Tilbud med periode og svarfrist, tabellen over tilbud ](/img/gd_sokerportal_tilbud.png 'Fanen Tilbud med periode og svarfrist, tabellen over tilbud ')
-
-</div>
-
-<del>**_Tilbud for valgt skoleår:_** og 
-**_Programfag til valg:_**</del>
-
-<del>Her kan en velge data ut fra det skolen alt har lagt inn av Grunnlagsdata for gjeldende skoleår.</del>
 
 ### Periode og svarfrist
 
@@ -189,10 +154,10 @@ søkerportalen og kan ikke velges.
   trinn med 28 plasser, søknadsfrist 1. mars og siste inntak 20. august, begge
   året skoleåret begynner. Trinn som allerede ligger inne, legges ikke inn på
   nytt. Søknader til grunnskolen sendes av en forelder (se
-  [Søke for barn](/docs/sp_foreldre)).
+[Søke for barn](/docs/sp_foreldre)).
 - _Legg vg1..._, _Legg vg2..._, _Legg vg3..._ og _Legg fagskole..._ åpner en
   dialog der du velger program fra lista og angir antall plasser (standard 30).
-  Lista kan filtreres på programkode og navn, og _Vis kun grunnkoder_ viser bare
+Lista kan filtreres på programkode og navn, og _Vis kun grunnkoder_ viser bare
   grunnkodene. Søknadsfristen settes til 1. mars året skoleåret begynner og siste
   inntak til 1. juni året etter. Begge kan endres etterpå.
 - Blyanten åpner linjen for redigering av teksten (_Klassetrinn_), plasser,
@@ -207,7 +172,7 @@ grupper for skoleåret (se blokkid under [Grupper](/docs/gd_grupper)). Klikk
 _Legg til_ ved hvert fag. Dialogen står åpen til du klikker _Lukk_. Søkeren
 velger ett fag i hver blokk. Søppelbøtta fjerner et fag fra lista.
 
-## Brevmaler <span class="ny">NY</span> {#brevmaler}
+## Brevmaler {#brevmaler}
 
 Her legger skolen inn sine egne brev som Word-maler (docx) med flettefelt, for
 eksempel inntaksbrev, avslagsbrev eller ventelistebrev. Brevene velges når
@@ -215,11 +180,7 @@ søknaden får ny status i [Elevadmin › Søkere](/docs/ea_sokere#arbeidsflyt-e
 og flettes med opplysningene om hver søker. Malene gjelder skolen for alle
 skoleår.
 
-<div class="nytt-bilde">
-
 ![Fanen Brevmaler med lista over skolens maler og knappene Sor](/img/gd_sokerportal_brevmaler.png 'Fanen Brevmaler med lista over skolens maler og knappene Sor')
-
-</div>
 
 ### Lage en mal
 
@@ -260,15 +221,11 @@ statusendring. Brevene settes sammen i én fil, med brevene for statusen først
 og deretter brevene som gjelder alle statuser. Knappen er aktiv når skolen har
 minst to maler.
 
-## Spørsmål <span class="endret">ENDRET</span> {#spørsmål}
+## Spørsmål {#spørsmål}
 
 Her nedtegnes det som forventes at søkeren skal gi av opplysninger for å kunne bli tilbudt opptak som elev for kommende skoleår. Spørsmålene gjelder skoleåret som er valgt øverst på siden.
 
-<div class="nytt-bilde">
-
 ![Fanen Spørsmål med et spørsmål valgt, og eksklusjonene for d](/img/gd_sokerportal_sporsmal.png 'Fanen Spørsmål med et spørsmål valgt, og eksklusjonene for d')
-
-</div>
 
 Tabellen viser hvert spørsmål med beskrivelse, om det er aktivt og
 obligatorisk, svartype, fase og hvor mange søkere som har svart. Inaktive
@@ -286,15 +243,11 @@ _Endre..._:
   spørsmålet når søkeren har fått tilbud, og et obligatorisk spørsmål må
   besvares før tilbudet aksepteres.
 - _Svartype_: _Fritekst_, _Tall_, _Dato_, _E-postadresse_, _Kontonummer_,
-  _Nedtrekksliste (ett valg)_ eller _Flervalg (avkrysning)_. Søkerportalen viser
+_Nedtrekksliste (ett valg)_ eller _Flervalg (avkrysning)_. Søkerportalen viser
   et felt av riktig type og sjekker svaret. For nedtrekksliste og flervalg
   skriver du alternativene, ett per linje (minst to).
 
-<div class="nytt-bilde">
-
 ![Dialogen Legg til spørsmål utfylt med svartypen Nedtrekkslis](/img/gd_sokerportal_sporsmal_dialog.png 'Dialogen Legg til spørsmål utfylt med svartypen Nedtrekkslis')
-
-</div>
 
 _Aktiver_ og _Deaktiver_ viser eller skjuler det valgte spørsmålet for søkerne
 uten å slette det. _Slett..._ sletter spørsmålet. Dialogen sier hvor mange svar
@@ -308,7 +261,7 @@ trinn_ og velg ett eller flere program. Tabellen viser hvilke program hvert
 spørsmål ikke stilles for. _Slett..._ fjerner alle eksklusjonene for spørsmålet
 som er valgt i denne tabellen, uten å spørre først.
 
-## <del>Vedleggstype</del> Vedleggstyper <span class="endret">ENDRET</span> {#vedleggstyper}
+## Vedleggstyper {#vedleggstyper}
 
 Her velger skolen hvilke typer dokumenter søkerne kan laste opp, for eksempel
 karakterutskrifter, portrettbilde eller dokumentasjon på behov for
@@ -321,15 +274,9 @@ og klikk _Slett_ for å fjerne den. Den fjernes uten å spørre først.
 
 Eksempel på hva som kan legges inn her:
 
-<div class="nytt-bilde">
-
 ![Fanen Vedleggstyper med skolens valgte dokumenttyper](/img/gd_sokerportal_vedleggstyper.png 'Fanen Vedleggstyper med skolens valgte dokumenttyper')
 
-</div>
-
-## Historikk <span class="endret">ENDRET</span> {#historikk}
-
- <del>Her kan en fortløpende følge med utviklingen dag for dag i søkerperioden.</del>
+## Historikk {#historikk}
 
 Tabellen viser hvor mange søkere og interessenter skolen har hatt for hvert
 skoleår, og om søkerdataene for skoleåret er slettet, når og av hvem.
@@ -345,8 +292,4 @@ tatt over til elevmappen, er borte. Slett ikke søkerne i et skoleår før
 inntaket er helt ferdig.
 :::
 
-<div class="nytt-bilde">
-
 ![Fanen Historikk med antall søkere og interessenter per skole](/img/gd_sokerportal_historikk.png 'Fanen Historikk med antall søkere og interessenter per skole')
-
-</div>

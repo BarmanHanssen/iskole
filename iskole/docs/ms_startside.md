@@ -16,7 +16,7 @@ Timen i timeplanen er en lenke som går direkte til fraværsføringen for dette 
 Klassefag er grønne, gruppefag blå, vikartimer gule og romreservasjoner oransje. Romreservasjoner er ikke knyttet til et fag og fører ingen steder.
 
 ## Min oversikt
-Hvilket innhold som skal vises kan tilpasses ved å klikke på blyanten oppe i høyre hjørne. Grønne bokser har et rødt kryss, røde bokser har et grønt pluss-tegn.  Det er bare grønne bokser som vises i oversikten. Her kan du gjøre endringer ved trykke på rødt kryss eller grønt pluss-tegn. Avslutt med trykk på haken oppe i høyre hjørne.
+Hvilket innhold som skal vises kan tilpasses ved å klikke på blyanten oppe i høyre hjørne. Grønne bokser har et rødt kryss, røde bokser har et grønt pluss-tegn. Det er bare grønne bokser som vises i oversikten. Her kan du gjøre endringer ved trykke på rødt kryss eller grønt pluss-tegn. Avslutt med trykk på haken oppe i høyre hjørne.
 
 ![Tilpass Min oversikt](/img/ms_startside_tilpass.png 'Tilpass Min oversikt')
 
@@ -61,7 +61,7 @@ Varslet skal gis «straks». Det vil si at når det er fare for at eleven kan ov
 Vises for kontaktlærere. Samme telling som for _mine fag_, men utvalget er alle kontaktelevene dine, i alle fag. Klikk på tallet for å åpne lista over kontaktelevene som er over grensen, med fraværstimer, fagets omfang og fraværsprosent per fag, og dato for eventuelt varsel. I lista kan du justere grensen med glidebryteren, ta med elever som har fått varsel, søke på klasse, navn, fag eller lærer, og laste ned lista som regneark (_Last ned_). Klikk på en elev for å se brevene som er sendt. Lista er kun en oversikt – varsel sendes av faglærer fra _Brev > Varselbrev_. Pila øverst til venstre tar deg tilbake til startsiden.
 
 ### Orden/oppførsel – etter siste varsel {#ordenoppførsel}
-Vises for kontaktlærere og angir hvor mange kontaktelever som har minst så mange merknader som grensen du har valgt (standard 2) – telt hver for seg i orden og i oppførsel, og bare merknader gitt etter siste varsel. Tellingen nullstilles ved <del>terminskillet</del> <mark>halvårsskillet</mark>. Ved å klikke på et av tallene sendes du til menyvalget _Brev > Varselbrev_ og fanen _Orden og oppførsel_. Her vises detaljert oversikt over kontaktelevene og fordelingen av anmerkninger 1. og 2. halvår.
+Vises for kontaktlærere og angir hvor mange kontaktelever som har minst så mange merknader som grensen du har valgt (standard 2) – telt hver for seg i orden og i oppførsel, og bare merknader gitt etter siste varsel. Tellingen nullstilles ved halvårsskillet. Ved å klikke på et av tallene sendes du til menyvalget _Brev > Varselbrev_ og fanen _Orden og oppførsel_. Her vises detaljert oversikt over kontaktelevene og fordelingen av anmerkninger 1. og 2. halvår.
 
 ### Fremtidige vikartimer
 
