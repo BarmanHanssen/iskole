@@ -68,7 +68,7 @@ Vises for kontaktlærere og angir hvor mange kontaktelever som har minst så man
 Dersom du allerede er lagt inn som vikar vil antall timer vises her, fordelt på timer som betales (_Betalt_) og ikke betales (_Ubetalt_). Klikk på flisen for å gå til [Timeplan > Min timeplan](/docs/ms_timeplan#stillingsoversikt), fanen _Stillingsoversikt_, der vikartimene dine denne uken og hele skoleåret er listet opp. I timeplanen er vikartimene gule.
 
 ## Skolens oversikt {#skolens-oversikt}
-Skolens oversikt vises for skolens ledelse og kontor (rektor, administrator og brukergruppen _Kontor_). Time- og fagfordelere ser bare flisene for ansattfravær og vikartimer. Også her velger du hvilke fliser som skal vises med blyanten, og du kan klikke på flisene for å få flere detaljer. Pila øverst til venstre i detaljvisningen tar deg tilbake til startsiden.
+Skolens oversikt vises for skolens ledelse og kontor (rektor, administrator og brukergruppen _Kontor_). Time- og fagfordelere ser bare flisene for ansattfravær og vikartimer. Brukergruppen _Elevinspektør_ ser bare flisene _Fravær_ og _Orden/oppførsel – etter siste varsel_, med de samme listene bak som kontoret får. Også her velger du hvilke fliser som skal vises med blyanten, og du kan klikke på flisene for å få flere detaljer. Pila øverst til venstre i detaljvisningen tar deg tilbake til startsiden.
 
 - _Ansattfravær (perioder)_: antall ansatte som er borte i dag, og antall fraværsperioder i skoleåret – registrert av den ansatte selv under [Eget fravær](/docs/ms_eget_fravaer) eller av kontoret. Gir oversikt over dagens vikarbehov.
 - _Vikartimer_: vikartimer denne uken og i skoleåret. I lista kan du bytte mellom denne uken og hele året.
