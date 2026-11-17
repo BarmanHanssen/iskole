@@ -51,14 +51,16 @@ i verktøylinjen:
 - **Endre…** — fører eller endrer karakterene på faget. Det er som regel
   faglærer som setter karakterene på sine fag, unntatt eksamenskarakterer;
   i tillegg kan brukergruppen *Kontor* føre alle karakterer. Når en
-  karakter først er lagret, er det kun to personer ved skolen som kan endre
-  den: rektor og *Karakteransvarlig* (se *Mine sider > Tilgang >
-  Nøkkelpersoner*). Endringer loggføres, se fanen *Karakter endret av*.
+  standpunkt- eller eksamenskarakter først er lagret, kan den bare endres
+  av rektor, rektors stedfortreder og *Karakteransvarlig* (se *Mine sider >
+  Tilgang > Nøkkelpersoner*). Det gjelder også eksamensform og privatist.
+  Karakterene for 1. og 2. halvår kan endres av alle med full tilgang til
+  menyvalget. Endringer loggføres, se fanen *Karakter endret av*.
 - **Fagmerknad…** — legger til en FAM-merknad på faget.
 - **Karakterstatus høst…** — registrerer ny, utsatt eller særskilt prøve
   som er avlagt på høsten.
-- **Slett…** — fjerner faget. Det er bare *Karakteransvarlig* som kan
-  slette et fag herfra.
+- **Slett…** — fjerner faget. Bare rektor, rektors stedfortreder og
+  *Karakteransvarlig* kan slette et fag herfra.
 - **Utgår vitnemål** / **Utgår kompetansebevis** — alle fag med
   standpunkt- og/eller eksamenskarakter tas normalt med ved utskrift.
   Skal et fag ikke med, markeres det her; fargene i listen viser hva som
@@ -80,9 +82,10 @@ overstyring.
 
 Fanen viser orden og oppførsel per skoleår, for 1. og 2. halvår/standpunkt.
 På vitnemål og kompetansebevis brukes alltid verdiene fra 2. halvår.
-Standarden er at kontaktlærer fører dette fra *Mine sider > Orden/atferd*;
-her kan de justeres ved behov, og de kan også overstyres per nivå fra
-*Program*-fanen.
+Standarden er at kontaktlærer fører dette fra *Mine sider > Orden/atferd*.
+Her kan alle med full tilgang fylle ut tomme felt, mens lagrede verdier bare
+kan endres av rektor, rektors stedfortreder og *Karakteransvarlig*. Verdiene
+kan også overstyres per nivå fra *Program*-fanen.
 
 ## Vitnemål og kompetansebevis
 

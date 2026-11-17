@@ -8,7 +8,7 @@ Kontaktlærere kan legge inn dokumenter i kontaktelevens elevmappe, med knappen 
 
 Når du åpner menyvalget, vises elevene som kort. Klikk på et kort, eller velg eleven i _Velg elev_, for å se dokumentene i elevens mappe. Pila til venstre tar deg tilbake til kortene.
 
-Kontaktlærer ser sine kontaktelever, og en vikar/assistent for kontaktlæreren ser dem i vikarperioden. Rektor, administrator, rådgiver/helsesykepleier og kontoret ser alle elevene ved skolen, også de som har sluttet. Har skolen slått på deling med faglærere, ser faglærere også elevene de underviser, men bare dokumentene som er delt med dem (se [Som faglærer](#som-faglaerer)).
+Kontaktlærer ser sine kontaktelever, og en vikar/assistent for kontaktlæreren ser dem i vikarperioden. Rektor, rektors stedfortreder, rådgiver/helsesykepleier og kontoret ser alle elevene ved skolen, også de som har sluttet. Har skolen slått på deling med faglærere, ser faglærere også elevene de underviser, men bare dokumentene som er delt med dem (se [Som faglærer](#som-faglaerer)).
 
 Under kolonnene _Innsyn elev/foresatt_ fremgår det hva som er synlig for elev og foresatt. 
 
@@ -43,7 +43,12 @@ Klikk på et dokument i listen for å åpne detaljene i et panel til høyre. Der
 
 ## Del med faglærere {#del-med-faglaerere}
 
-Alle som ser hele elevmappen, kan dele enkeltdokumenter med elevens faglærere: kontaktlærer, rektor, administrator, rådgiver/helsesykepleier og kontoret. Faglærerne ser da dokumentet i sin elevmappe, men ikke resten av elevmappen. Panelet _Faglærere_ i dokumentdetaljene vises bare når skolen har slått på funksjonen (se [Slå på deling med faglærere](#sla-pa-deling-med-faglaerere)).
+Alle som ser hele elevmappen, kan dele enkeltdokumenter med elevens faglærere. Hvilke dokumenter du kan dele, kommer an på rollen din:
+
+- **Rektor, rektors stedfortreder, rådgiver/helsesykepleier og kontoret** kan dele alle dokumentene i elevmappen.
+- **Kontaktlærer, og vikar/assistent for kontaktlæreren,** kan dele dokumenter de selv har lastet opp, og dokumenter eleven har lastet opp, for eksempel dokumentasjon til en egenmelding. For andre dokumenter står det i panelet _Faglærere_ hvem som kan dele.
+
+Faglærerne ser da dokumentet i sin elevmappe, men ikke resten av elevmappen. Panelet _Faglærere_ i dokumentdetaljene vises bare når skolen har slått på funksjonen (se [Slå på deling med faglærere](#sla-pa-deling-med-faglaerere)).
 
 1. Klikk på dokumentet. Panelet _Faglærere_ viser _Ikke delt med faglærerne._
 2. Klikk _Del med faglærere …_. Før du deler, ser du hvem som får se dokumentet, og hva de får se:
@@ -52,7 +57,7 @@ Alle som ser hele elevmappen, kan dele enkeltdokumenter med elevens faglærere: 
    - _Forhåndsvis det faglærerne ser_ viser dokumentet slik faglæreren får det.
 3. Klikk _Del med faglærere_. Panelet viser hvem som delte og når, dokumentet får faglærer-ikonet i lista, og delingen står i aktivitetsloggen.
 
-Delingen gjelder alle som underviser eleven, også lærere som kommer til senere, for eksempel neste skoleår. Den står til noen klikker _Opphev deling_ i det samme panelet. Da ser ikke faglærerne dokumentet lenger, og det står i aktivitetsloggen. Du deler og opphever i gjeldende eller neste skoleår, så du kan dele for nye elever før skolestart.
+Delingen gjelder alle som underviser eleven, også lærere som kommer til senere, for eksempel neste skoleår. Den står til noen klikker _Opphev deling_ i det samme panelet. Alle som ser hele elevmappen, kan oppheve en deling, uansett hvem som delte. Da ser ikke faglærerne dokumentet lenger, og det står i aktivitetsloggen. Du deler og opphever i gjeldende eller neste skoleår, så du kan dele for nye elever før skolestart.
 
 Faglærere er lærerne i elevens klasse- og gruppefag i gjeldende skoleår. Vikarer i enkelttimer får ikke tilgang, og elever som har sluttet, vises ikke for faglærerne. Bytter eleven lærer, følger tilgangen med, så det finnes ingen lister å vedlikeholde.
 
@@ -76,7 +81,7 @@ Som faglærer ser du ikke andre dokumenter i elevmappen, resymé, innsyn eller h
 
 ## Slå på deling med faglærere {#sla-pa-deling-med-faglaerere}
 
-Funksjonen er av som standard. Rektor eller administrator slår den på under _Tilgang > Funksjoner_: klikk _Rediger_, kryss av for _Faglærere kan se dokumenter i elevmappen som er delt med faglærere_ og klikk _Lagre_ (se [Tilgang](/docs/ms_tilgang)).
+Funksjonen er av som standard. Rektor eller rektors stedfortreder slår den på under _Tilgang > Funksjoner_: klikk _Rediger_, kryss av for _Faglærere kan se dokumenter i elevmappen som er delt med faglærere_ og klikk _Lagre_ (se [Tilgang](/docs/ms_tilgang)).
 
 - Faglærerne kommer automatisk i brukergruppen _Faglærer – elevmappe_. Ingen må tildele noe.
 - Dokumentene som allerede ligger i elevmappen, blir ikke synlige for faglærerne før noen deler dem, ett og ett.

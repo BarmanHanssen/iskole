@@ -29,6 +29,10 @@ på e-post. Nå kan du dele akkurat det de trenger, rett fra elevmappa.
 Alle som har tilgang til hele elevmappa, kan dele: kontaktlærer, rådgiver,
 kontor og rektor. Gå til **Mine sider › Elevmappe**.
 
+_Oppdatert 17.11.2026:_ Kontaktlæreren deler nå egne dokumenter og dokumenter
+eleven har lastet opp. Rektor, rektors stedfortreder, rådgiver/helsesykepleier
+og kontoret deler alle dokumenter som før.
+
 1. **Velg eleven.** Elevkortet viser hvor mange dokumenter eleven har, og hvor
    mange av dem som er delt med faglærere.
 2. **Klikk på dokumentet.** Detaljene åpnes til høyre. Panelet **Faglærere**
@@ -119,7 +123,9 @@ før under Brev. Faglærerne ser ikke brevene.
 
 - Hva skal deles? Det faglærerne trenger for å tilrettelegge undervisningen,
   og ikke mer.
-- Hvem deler? Alle med tilgang til hele elevmappa kan dele.
+- Hvem deler? Kontaktlæreren deler egne dokumenter og dokumenter eleven har
+  lastet opp. Rektor, rektors stedfortreder, rådgiver/helsesykepleier og
+  kontoret kan dele alle.
 - Når vurderes delingene på nytt?
 
 **Sporbarhet:** Aktivitetsloggen viser hvem som delte og opphevet delingen, og

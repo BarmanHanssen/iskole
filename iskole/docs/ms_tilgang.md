@@ -11,8 +11,8 @@ Alle fanene kan ses av alle ansatte, men bare rektor og administrator kan gjøre
 ## Nøkkelpersoner
 Nøkkelpersonene kan endres av rektor, rektors stedfortreder og skoleeier. Unntak er rektor som bare kan endres av skoleeier, og administrator som bare kan endres av skoleeier og rektor. Klikk på blyanten på kortet, velg person og klikk på lagre-ikonet.
 - Rektor har alle rettigheter når det gjelder innsyn og bruk av systemet.
-- Administrator (står som _Rektors stedfortreder_ på kortet) har i hovedsak de samme rettigheter som rektor, men kan ikke endre elevers karakterer.
-- Karakteransvarlig, og rektor, kan rette en innført karakter for et fag etter at standunkt/eksamenskarakter er satt. Rettinger blir loggført.
+- Administrator (står som _Rektors stedfortreder_ på kortet) har i hovedsak de samme rettigheter som rektor.
+- Rektor, rektors stedfortreder og karakteransvarlig kan rette en lagret standpunkt- eller eksamenskarakter, og lagret orden og atferd, i _Elevadmin > Karakterdokumentasjon_. Karakteransvarlig må også ha full tilgang til menyvalget. Rettinger blir loggført. Forskriften sier at skolen skal rette føringsfeil, og iSkole avgrenser det til disse tre.
 - Kontaktperson for iSkole er vanligvis den som har best kjennskap til iSkoles virkemåte og derfor er den som kan gi råd og veiledning. Vedkommende er også den som kan henvende seg til leverandøren angående feil/mangler og ønsker vedrørende bruk av iSkole. Viktigste kanal er support@barman-hanssen.no
 - NVBkontakt er den som har ansvaret for at vitnemål blir overført til Norsk vitnemåls database. Gjelder bare vitnemål for videregående skole.
 - Eksamensansvarlig administrer oppsett av muntlige og skriftlige eksamenspartier.
