@@ -48,6 +48,19 @@ for å finne boktittelen man er ute etter.
 #### Legg til nye eksemplarer
 Hvis man har fått nye eksemplarer av en bok man allerede har registrert, så kan man raskt legge dem inn ved først å søke opp boktittelen og markere den i listen, og deretter trykke på knappen «Legg til eksemplarer» . I dialogen som kommer frem blir man bedt om å oppgi det hvor mange nye eksemplarer man har. Skriv inn antallet og trykk på «Lagre».
 
+#### Merknad på et eksemplar
+Man kan skrive en merknad på hvert enkelt eksemplar, for eksempel «Forside mangler» eller «Litt vannskadet». Da er skader som var der fra før notert, og låneren får ikke skylden for dem når boken leveres inn.
+
+1. Velg boken i den øverste tabellen.
+2. Kryss av for eksemplaret i tabellen _Eksemplarer_ og trykk på knappen «Endre» over tabellen.
+3. Skriv merknaden og trykk på «Lagre». Merknaden kan ha inntil 250 tegn.
+
+Merknaden vises i kolonnen _Merknad_ i tabellen _Eksemplarer_, og den kommer med når man laster ned eksemplarene som Excel eller CSV med knappen «Eksporter». Den vises også når boken leveres inn, se avsnittet [Innlevering](#innlevering).
+
+Krysser man av for flere eksemplarer før man trykker på «Endre», får alle den samme merknaden. Har eksemplarene ulike merknader fra før, er feltet tomt når vinduet åpnes, og merknadene blir erstattet når man lagrer.
+
+For å fjerne en merknad lar man feltet stå tomt og trykker på «Lagre».
+
 #### Utskrift av merkelapper
 Det er to måter å produsere merkelapper på, enten utskrift på en vanlig skriver som har ark med klistrelapper i format 3x8, eller utskrift på en etikettskriver.
 
@@ -89,16 +102,20 @@ på boken.
 ### Innlevering
 
 1. Velg arkfanen Innlevering.
-2. Kryss av Lever boken automatisk ved skanning om man ønsker det.
-3. Sett markøren i tekstfeltet Eksemplar# og skann boken. Alternativt skriv inn eksemplarnummeret fra etiketten og klikk knappen Søk.
+2. Kryss av Automatisk innlevering ved skanning om man ønsker det.
+3. Sett markøren i tekstfeltet Eksemplar# og skann boken. Alternativt skriv inn eksemplarnummeret fra etiketten og trykk på entertasten.
 4. Informasjon om boken og hvem den er utlånt til vil vises. Boken blir registrert som innlevert om man har valgt automatisk innlevering i punkt 2.
 
 ![bilde](/img/utl_bibliotek_innlevering_bokiformasjon.png)
 
+Har eksemplaret en merknad, står den uthevet nederst i feltet _Eksemplar_. Da ser man hvilke skader som var notert på boken før den ble lånt ut, se avsnittet [Merknad på et eksemplar](#merknad-på-et-eksemplar). Merknaden i feltet _Utlånt til_ gjelder selve utlånet, og er den man skrev da boken ble lånt ut.
+
+En bok som allerede er levert inn, blir ikke levert inn på nytt, selv om automatisk innlevering er valgt. Da vises i stedet hvem som lånte boken sist, og når den ble levert.
+
 #### Informasjon om en bok
 1. Gå til fanen Innlevering
-2. La krysset Lever boken automatisk ved skanning være umarkert
-3. Sett markøren i feltet Eksemplar# og skann boken. Alternativt skriv inn eksemplarnummeret fra etiketten og trykk på knappen Søk
+2. La krysset Automatisk innlevering ved skanning være umarkert
+3. Sett markøren i feltet Eksemplar# og skann boken. Alternativt skriv inn eksemplarnummeret fra etiketten og trykk på entertasten
 4. Informasjon om boken og hvem som eventuelt har lånt den vil vises
 
 #### Utvide lånetiden
