@@ -32,11 +32,20 @@ Når skolen gir tilbud, vises kortet **Tilbud om skoleplass**.
 Å avslå et tilbud kan ikke angres.
 :::
 
+### Dokumenter du må levere før du aksepterer
+
+Krever skolen dokumenter du ikke har levert, står de under **Dokumenter du
+må levere før du aksepterer**, med samme linjer og opplasting som under
+[Søknad › Dokumenter](sp_soknad.md#dokumenter-du-må-levere). Det gjelder
+også **Kopi av bildesiden i passet**. Tilbudet kan ikke aksepteres eller
+signeres før alle dokumentene er levert. Prøver du likevel, får du beskjed
+om hvilke som mangler.
+
 ### Opplysninger ved aksept
 
 Har skolen spørsmål til deg når du takker ja, åpnes **Fullfør aksepten**
-før du aksepterer. Der kan skolen spørre om matallergier, egne spørsmål og
-passinformasjon. Obligatoriske spørsmål må besvares; resten kan du svare
+før du aksepterer. Der kan skolen spørre om matallergier og egne spørsmål.
+Obligatoriske spørsmål må besvares; resten kan du svare
 på senere under **Opplysninger til skolen** på Behandling, og sende med
 **Send inn opplysninger**.
 

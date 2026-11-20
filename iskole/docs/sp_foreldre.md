@@ -20,6 +20,8 @@ innlogget med ID-porten før, kan du også bruke innloggingslenke på e-post.
 
 Etter innlogging viser portalen **Hvem søker du for?**:
 
+![Hvem søker du for?](/img/sp_hvem_soker_du_for.png 'Hvem søker du for? — deg selv og barna')
+
 - **Deg selv** – kortet **Søk for deg selv**, med dine egne søknader.
 - **Barn** – ett kort per barn du er koblet til, med fødselsdato,
   foreldrene og søknadene. Søknadene har fargemerke: gult når noe venter

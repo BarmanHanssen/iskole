@@ -83,10 +83,13 @@ _Dag_ og _Måned_ er fristen for å søke med fortrinnsrett. Fristen vises for
 
 - **_Spør om matallergi_**: søkeren får spørsmål om matallergier når tilbudet om
   skoleplass aksepteres.
-- **_Spør om passinformasjon_**: søkeren får spørsmål om pass under
-  personalia.
 
 Skolens egne spørsmål legges inn under fanen [Spørsmål](#spørsmål).
+
+**Pass** er ikke lenger et spørsmål under personalia. Pass etterspørres som
+vedlegget _Kopi av bildesiden i passet_, og passopplysningene leses fra
+passkopien. Om passkopien er obligatorisk, og i hvilken fase, velger skolen
+under fanen [Vedleggstyper](#vedleggstyper).
 
 ### Varsling og signering
 
@@ -249,6 +252,9 @@ _Nedtrekksliste (ett valg)_ eller _Flervalg (avkrysning)_. Søkerportalen viser
 
 ![Dialogen Legg til spørsmål utfylt med svartypen Nedtrekkslis](/img/gd_sokerportal_sporsmal_dialog.png 'Dialogen Legg til spørsmål utfylt med svartypen Nedtrekkslis')
 
+Når skolen oppretter et nytt skoleår, kopieres spørsmålene med svartype og
+alternativer.
+
 _Aktiver_ og _Deaktiver_ viser eller skjuler det valgte spørsmålet for søkerne
 uten å slette det. _Slett..._ sletter spørsmålet. Dialogen sier hvor mange svar
 som slettes sammen med det.
@@ -264,17 +270,57 @@ som er valgt i denne tabellen, uten å spørre først.
 ## Vedleggstyper {#vedleggstyper}
 
 Her velger skolen hvilke typer dokumenter søkerne kan laste opp, for eksempel
-karakterutskrifter, portrettbilde eller dokumentasjon på behov for
-tilrettelegging. Søkeren velger dokumenttype fra denne lista når et dokument
-lastes opp. Lista gjelder skolen for alle skoleår.
+karakterutskrifter, vitnemål, portrettbilde, passkopi eller dokumentasjon på
+behov for tilrettelegging. For hver type velger skolen om vedlegget er
+obligatorisk, i hvilken fase det etterspørres, og hvilke trinn det gjelder for.
+Lista gjelder skolen for alle skoleår.
+
+![Fanen Vedleggstyper med kolonnene Obligatorisk, Fase og Gjelder for trinn](/img/gd_sokerportal_vedleggstyper.png 'Fanen Vedleggstyper med kolonnene Obligatorisk, Fase og Gjelder for trinn')
 
 Klikk _Legg til..._, velg én eller flere typer og klikk _Lagre_. Lista i
 dialogen viser bare typene som ikke allerede er valgt. Velg en type i tabellen
 og klikk _Slett_ for å fjerne den. Den fjernes uten å spørre først.
 
-Eksempel på hva som kan legges inn her:
+### Obligatorisk, fase og trinn
 
-![Fanen Vedleggstyper med skolens valgte dokumenttyper](/img/gd_sokerportal_vedleggstyper.png 'Fanen Vedleggstyper med skolens valgte dokumenttyper')
+Velg en type i tabellen og klikk _Endre..._:
+
+- **_Angi om vedlegget må leveres av søkerne_**: vedlegget er obligatorisk.
+- **_Fase_**: I fase 1 etterspørres vedlegget straks søknaden er opprettet. I
+  fase 2 etterspørres det når tilbud er gitt, og det må leveres før tilbudet
+  aksepteres.
+- **_Gjelder for trinn_**: Uten valg gjelder vedlegget alle søkere. Velger du
+  trinn, vises vedlegget bare for søkere til de trinnene, enten det er
+  obligatorisk eller ikke. Lista viser trinnene i tilbudet for skoleåret som er
+  valgt øverst på siden. Valget gjelder alle skoleår.
+
+![Dialogen Endre vedleggstype med Fase og Gjelder for trinn](/img/gd_sokerportal_vedlegg_endre.png 'Dialogen Endre vedleggstype med Fase og Gjelder for trinn')
+
+Slik virker reglene:
+
+- Et obligatorisk vedlegg i **fase 1** må være lastet opp før søknaden kan
+  sendes.
+- **Alle** obligatoriske vedlegg må være lastet opp før et tilbud kan
+  aksepteres.
+- Et vedlegg i **fase 2** etterspørres først når søkeren har fått tilbud.
+
+Søkeren ser kravene under **Dokumenter du må levere** i søknaden, med én linje
+og egen opplasting for hvert vedlegg (se
+[Søknad › Dokumenter](/docs/sp_soknad#dokumenter)). Vedlegg som ikke er
+obligatoriske, laster søkeren opp under _Andre dokumenter_. I Elevadmin viser
+flisa _Vedlegg_ hvilke obligatoriske vedlegg som mangler (se
+[Elevadmin › Søkere](/docs/ea_sokere#vedlegg)).
+
+### Vitnemål og pass
+
+- **Vitnemål** er egen vedleggstype. Legg den til hvis skolen vil be om
+  vitnemål.
+- **Pass** leveres som vedlegget _Kopi av bildesiden i passet_. Passnummer,
+  nasjonalitet og utløpsdato leses fra bildet, og søkeren kontrollerer dem.
+  Søkeren kan også velge _Har ikke pass_. Skoler som spurte om pass tidligere,
+  har fått passkopien som obligatorisk vedlegg i fase 2, og kan selv flytte den
+  til fase 1. Passkopier som bildekontrollen har merket, vurderer skolen under
+  [Bilder til vurdering](/docs/ea_sokere#bilder-til-vurdering).
 
 ## Historikk {#historikk}
 

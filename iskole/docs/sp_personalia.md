@@ -56,12 +56,10 @@ E-postfeltet endres med blyant-knappen ved siden av:
 
 ### Pass
 
-Spør skolen om passinformasjon, vises seksjonen **Pass** med
-**Passnummer**, **Nasjonalitet** og **Utløpsdato pass**. Har søkeren ikke
-pass, krysser du av for **Har ikke pass**.
-
-Du kan fylle ut feltene automatisk med **Les inn fra passet**: ta bilde av
-eller last opp bildesiden i passet. Sjekk feltene og klikk **Lagre**.
+Pass registreres ikke lenger på Personalia. Krever skolen pass, laster du
+opp **Kopi av bildesiden i passet** under
+[Søknad › Dokumenter](sp_soknad.md#kopi-av-bildesiden-i-passet). Der kan du
+også velge **Har ikke pass**.
 
 ## Forelder / kontaktperson 1 og 2
 

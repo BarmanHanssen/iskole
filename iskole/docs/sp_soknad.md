@@ -48,24 +48,80 @@ Tilbyr skolen elevplass deler av et skoleår, vises **Startdato** og
 ## Dokumenter
 
 Under **Dokumenter** laster du opp dokumentasjon til skolen, for eksempel
-karakterutskrift eller dokumentasjon på tilrettelegging. Les
-**Informasjon fra skolen** om hvilke dokumenter som kreves.
+karakterutskrift, vitnemål eller dokumentasjon på tilrettelegging. Les
+**Informasjon fra skolen** om hvilke dokumenter skolen ber om.
 
-1. Klikk **Legg til dokument**.
-2. Velg **Dokumenttype**.
-3. Klikk **Last opp fil**, eller dra filene inn i feltet (inntil 10 om
+### Dokumenter du må levere
+
+Krever skolen bestemte dokumenter, står de under **Dokumenter du må
+levere**, med én linje for hvert dokument. Merket på linja viser om
+dokumentet **Mangler** eller er **Lastet opp**.
+
+![Dokumenter du må levere](/img/sp_dokumenter.png 'Dokumenter du må levere')
+
+- Klikk **Last opp** på linja, eller dra filene dit. Fila lagres som
+  dokumentet på linja, så du trenger ikke velge dokumenttype.
+- Dokumentene skolen ber om i søknaden, må være lastet opp før søknaden kan
+  sendes.
+- Noen dokumenter ber skolen om først når du har fått tilbud. De vises da
+  her og på [Behandling](sp_behandling.md#dokumenter-du-må-levere-før-du-aksepterer),
+  og må leveres før du kan akseptere tilbudet.
+
+### Kopi av bildesiden i passet
+
+Krever skolen pass, har passet sin egen linje:
+
+1. Klikk **Last opp passkopi**, og ta bilde av eller last opp bildesiden i
+   passet.
+2. Passnummer, nasjonalitet og utløpsdato leses fra bildet. Sjekk at de
+   stemmer med passet, og klikk **Lagre**. Kan bildet ikke leses, fyller du
+   ut feltene selv.
+
+![Passopplysninger](/img/sp_pass_opplysninger.png 'Passopplysningene er lest fra passkopien')
+
+Linja har disse valgene:
+
+- **Har ikke pass** – velg dette hvis søkeren ikke har pass. **Angre** tar
+  valget tilbake.
+- **Bruk passet du lastet opp …** – har du lastet opp pass i en tidligere
+  søknad, kan du bruke det samme passet uten å laste opp på nytt.
+- **Bytt passkopi** – laster opp en ny passkopi, som erstatter den gamle.
+- **Fjern passet** – fjerner passkopien og passopplysningene fra alle
+  søknadene dine, for eksempel hvis du lastet opp feil pass. Har skolen
+  godkjent passkopien, kan du ikke fjerne passet, bare bytte kopien.
+
+Ber skolen deg bytte passkopien, står merket **Må byttes** på linja. Last
+opp en ny med **Bytt passkopi**.
+
+![Må byttes](/img/sp_pass_ma_byttes.png 'Skolen har bedt om ny passkopi')
+
+### Andre dokumenter
+
+Under **Andre dokumenter** laster du opp dokumenter skolen ikke krever:
+
+1. Velg **Dokumenttype**.
+2. Klikk **Last opp fil**, eller dra filene inn i feltet (inntil 10 om
    gangen).
-4. Klikk **Ferdig**.
 
-- **Portrettbilde** må være et bilde (for eksempel jpg eller png).
-- **Passkopi** leses automatisk: passnummer, nasjonalitet og utløpsdato
-  legges inn under Personalia.
-- Portrettbilder og passkopier sjekkes automatisk. Ser bildet ikke ut som
-  forventet, får du **Velg et annet bilde** eller **Bruk bildet likevel**.
+Krever ikke skolen noen dokumenter, bruker du knappen **Legg til dokument**
+i stedet: velg dokumenttype, last opp filene og klikk **Ferdig**.
 
-Listen viser filnavn, dokumenttype og når dokumentet sist ble endret. Du
-kan **laste ned** og **slette** dokumenter. Dokumenter kan lastes opp også
-etter at søknaden er sendt, men ikke slettes.
+**Portrettbilde** må være et bilde (for eksempel jpg eller png).
+
+### Kontroll av bilder
+
+Portrettbilder og passkopier sjekkes automatisk. Ser bildet ikke ut som
+forventet, eller er fødselsdatoen i passet en annen enn søkerens, får du
+valget mellom **Velg et annet bilde** og **Bruk bildet likevel**. Bruker du
+bildet likevel, ser skolen på det, og skolen kan be deg bytte det.
+
+![Sjekk av bildet](/img/sp_bildekontroll.png 'Sjekk av bildet før opplasting')
+
+### Opplastede dokumenter
+
+Listen nederst viser filnavn, dokumenttype og når dokumentet sist ble
+endret. Du kan **laste ned** og **slette** dokumenter. Dokumenter kan lastes
+opp også etter at søknaden er sendt, men ikke slettes.
 
 ## Programfag
 
@@ -90,12 +146,13 @@ Før du sender må du:
 - krysse av for at du har lest og akseptert **skolens reglement for
   inntak** og **skolens vilkår for inntak** (når skolen har dem)
 - besvare de obligatoriske spørsmålene
+- ha lastet opp dokumentene under **Dokumenter du må levere**
 - ha forelder / kontaktperson 1 med navn, adresse og e-post (søkere under
   18 år)
 
 Mangler noe, viser den gule boksen **Dette må ordnes før du kan sende
 søknaden** hva som mangler, med lenker rett til feltet under Personalia
-(for eksempel adresse, telefon eller pass). Søkere til videregående må
+(for eksempel adresse eller telefon). Søkere til videregående må
 oppgi eget mobilnummer når skolen krever det.
 
 **Merknad til søknaden** (maks 500 tegn) sendes til skolen. Ikke oppgi

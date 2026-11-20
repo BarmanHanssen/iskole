@@ -31,15 +31,17 @@ Du kan også logge inn direkte med ID-porten.
 
 ### Jeg får ikke brukt ID-porten
 
-Bruk **Få innloggingslenke på e-post** på innloggingssiden. Lenken sendes
-bare hvis e-postadressen er registrert på en søkerkonto.
+Er du allerede registrert, bruker du **få innloggingslenke på e-post** på
+innloggingssiden. Lenken sendes bare hvis e-postadressen er registrert på
+en søkerkonto. Er du ikke registrert, tar du kontakt med skolen, så
+registrerer skolen deg.
 
 ### Jeg har ikke fått innloggingslenken eller koden
 
 - Sjekk **søppelpost/spam**-mappen.
 - Sjekk at du skrev e-postadressen som er registrert på søkerkontoen.
 - Innloggingslenken er gyldig i 15 minutter. Be om en ny om den er
-  utløpt.
+  utløpt. Emnet i e-posten viser når lenken ble sendt.
 - Kontakt skolen dersom problemet vedvarer.
 
 ### Jeg blir sendt til innloggingssiden
@@ -87,8 +89,8 @@ gyldig.
 
 Den gule boksen **Dette må ordnes før du kan sende søknaden** viser hva
 som mangler, med lenker til feltet. Vanlige årsaker er manglende adresse,
-telefon, pass, forelder 1, obligatoriske spørsmål eller avkryssing for
-reglement og vilkår.
+telefon, forelder 1, obligatoriske spørsmål, dokumenter under
+**Dokumenter du må levere** eller avkryssing for reglement og vilkår.
 
 ### Jeg kan ikke endre søknaden etter innsending
 
@@ -106,6 +108,18 @@ Programmer i rødt har **stengt inntak** og kan ikke velges.
 - Last opp maks 10 filer om gangen.
 - Portrettbilde må være et bilde (jpg, png o.l.).
 - Prøv et annet filformat (PDF er alltid trygt).
+
+### Passet kan ikke leses
+
+Ta et nytt bilde der hele bildesiden er med, og de to linjene nederst er
+skarpe. Du kan også fylle ut passnummer, nasjonalitet og utløpsdato selv.
+
+### Jeg får ikke akseptert tilbudet
+
+Får du beskjeden «Du må levere før du kan akseptere tilbudet», mangler det
+dokumenter skolen krever. Last dem opp under **Dokumenter du må levere før
+du aksepterer** på Behandling, se
+[Behandling og tilbud](sp_behandling.md#dokumenter-du-må-levere-før-du-aksepterer).
 
 ## Signering
 

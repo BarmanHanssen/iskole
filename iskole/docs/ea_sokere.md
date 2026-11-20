@@ -13,6 +13,12 @@ Alt arbeid med **én søker** gjøres i detaljpanelet nederst; verktøylinjen
 over tabellen brukes til å filtrere listen og til **bulk-handlinger** på
 mange søkere samtidig.
 
+:::info Nytt høsten 2026
+Søkerportalen og Søkere-bildet ble fornyet 14. oktober og 17. november 2026.
+[Nytt i søkerportalen](/blog/ny_sokerportal) gir en samlet oversikt over
+endringene.
+:::
+
 ## Oversikten
 
 ![Søkerlisten](/img/soker_oversikt.png 'Søkerlisten')
@@ -41,9 +47,12 @@ E-post, telefon og merknader vises ikke i listen — de finnes i
 detaljpanelet og i _Rapport egendefinert_.
 
 De ulike statusene har fargede filterknapper over listen, med antall søkere som har denne statusen. Etter statusfiltrene ligger **egenskapsfiltre** med egen, nøytral stil:
-**Fortrinnsrett**, **Tidligere elev** og (for hybelskoler) **Hybel** —
-med antall. De kan kombineres med program, søk og statusfilter, og er
-nyttige for å prioritere i inntaket.
+**Fortrinnsrett**, **Tidligere elev**, **Søsken** og (for hybelskoler)
+**Hybel** — med antall. De kan kombineres med program, søk og statusfilter,
+og er nyttige for å prioritere i inntaket. **Søsken** viser søkere som har
+søsken blant søkerne eller elevene ved skolen. Knappen **Bilder til
+vurdering** vises når det finnes bilder skolen må se på, se
+[Bilder til vurdering](#bilder-til-vurdering).
  
 ![Egenskapsfiltre](/img/soker_egenskapsfiltre.png 'Egenskapsfiltre — «Tidligere elev» aktivt')
 
@@ -54,8 +63,10 @@ søknadene — klikk igjen for å slå av. Telleren til høyre viser alltid
 
 ![Filtrert liste](/img/soker_filter.png 'Filtrert på status')
 
-**Program**-nedtrekket avgrenser til ett utdanningsprogram, og **Søk på
-navn** filtrerer mens du skriver (fornavn eller etternavn).
+**Søkefeltet** filtrerer mens du skriver, på navn, fødselsnummer, e-post,
+telefon og foreldre. Knappene **1. valg** og **Tilbud** avgrenser lista til
+ett utdanningsprogram: programmet søkeren har som førstevalg, eller
+programmet i skolens tilbud.
 
 **Sortering**-velgeren ved siden av søkefeltet sorterer listen: standard
 (program), **Opprettet** (eldste eller nyeste først) eller **sist
@@ -105,45 +116,56 @@ tilbudsprogrammet.
 Fanene øverst gir i tillegg:
 
 - **Søknader, ikke sendt** — påbegynte søknader som søkeren ikke har
-  fullført. Nyttig for å følge opp søkere som har stoppet underveis:
-  søkerens og foreldrenes kontaktinformasjon vises rett i listen.
-  En valgt rad kan **slettes** — som ellers bekreftes slettingen ved å
-  oppgi søkerens fødselsdato, og søkeren med alle opplysninger fjernes
-  permanent.
+  fullført. Her følger skolen opp søkere som har stoppet underveis, se
+  [Søknader, ikke sendt](#søknader-ikke-sendt).
 - **Interessenter** — personer som har meldt interesse for skolen uten å
-  søke (vises bare hvis skolen bruker interessent-funksjonen). Listen
-  viser ønskede program, kontaktinformasjon og om interessenten senere
-  har registrert en søknad (grønn markering). Interessenter som er
-  fulgt opp eller har søkt kan **slettes** fra listen — en eventuell
-  registrert søknad påvirkes ikke.
-
+  søke (vises bare hvis skolen bruker interessent-funksjonen), se
+  [Interessenter](#interessenter).
 - **Rapport egendefinert** — tabellrapport over alle søkere der du selv
   velger hvilke kolonner som skal med (kolonnevelger), og kan eksportere
   til Excel. **Født** (fødselsdato) er standardkolonne; fødselsnummeret
   kan velges inn ved behov. Kolonnene **Signering søker** og **Signering
-  forelder** viser status for Posten-signeringen.
+  forelder** viser status for Posten-signeringen. Rapporten viser også når
+  søknaden ble **opprettet**, med klokkeslett, og **foreldrenes adresse**.
 - **Foreldrekoblinger** — kontrolliste over foreldre som bør sees på, se
   [Foreldrekoblinger](#foreldrekoblinger) under.
-
-![Søknader, ikke sendt](/img/soker_ikke_sendt.png 'Søknader, ikke sendt')
-
-![Interessenter](/img/soker_interessenter.png 'Interessenter')
 
 
 ## Søkeren i detalj
 
-Klikk på en rad, og detaljpanelet trekkes opp fra bunnen. Delelinjen
-mellom liste og panel kan dras for å endre fordelingen, og panelet kan
-maksimeres med pil-knappen oppe til høyre. Fanene viser antall der det
-er innhold (foresatte, statusendringer, vedlegg, spørsmål/svar).
+Klikk på en rad, og detaljpanelet trekkes opp fra bunnen. Alt om søkeren
+står samlet på én flate, delt i fliser: **Søker**, **Søknad**,
+**Vurdering**, **Foreldre**, **Behandling**, **Vedlegg** og
+**Spørsmål/svar**. Tallet i overskriften på flisa viser antallet (foreldre,
+statusendringer, vedlegg og svar).
 
-![Detaljpanelet](/img/soker_detalj.png 'Detaljpanelet med kortene')
+![Detaljpanelet](/img/soker_detalj.png 'Søkerlista med detaljpanelet under')
 
-**Søker**-fanen er delt i tre kort:
+Knappene oppe til høyre i panelet:
 
-- **Person** — portrett (bildet søkeren har lastet opp som vedlegg av
-  typen «Portrettbilde»), fødselsdato og -nummer, målform, adresse,
-  e-post, mobil og siste innlogging i søkerportalen.
+- **Personalia** — laster ned søkerens opplysninger som PDF.
+- **Endre status** og **Flere handlinger** — se
+  [Arbeidsflyt: endre status](#arbeidsflyt-endre-status) og
+  [Flere handlinger](#flere-handlinger).
+- **Vis lista til venstre** — legger søkerlista ved siden av detaljene, så
+  du kan gå fra søker til søker uten å miste oversikten. **Vis lista over**
+  legger den tilbake.
+- **Maksimer** — gir panelet hele flaten. **Gjenopprett** går tilbake.
+- **Lukk** — lukker panelet.
+
+Delelinjen mellom liste og panel kan dras for å endre fordelingen.
+
+![Lista til venstre](/img/soker_liste_venstre.png 'Søkerlista til venstre for detaljene')
+
+### Søker, Søknad og Vurdering
+
+- **Søker** — portrett (bildet søkeren har lastet opp som vedlegg av typen
+  «Portrettbilde»), fødselsdato og -nummer, målform, adresse, e-post, mobil
+  og siste innlogging i søkerportalen. Har søkeren levert passkopi til
+  søknaden ved skolen, viser linja **Pass** passnummer, nasjonalitet og
+  utløpsdato, med lenken **Vis passkopi**. Er passet gått ut, står merket
+  **Utløpt**. Venter passkopien på skolens kontroll, står det på linja, se
+  [Bilder til vurdering](#bilder-til-vurdering).
 - **Søknad** — programønskene i prioritert rekkefølge. Ønsket som
   tilsvarer skolens tilbud er markert med **Tilbud**-merke, og når tilbud
   er sendt vises dato og svarfrist. Nederst: flagg for lest reglement og
@@ -155,32 +177,55 @@ er innhold (foresatte, statusendringer, vedlegg, spørsmål/svar).
   signeringen hos Posten (for eksempel «Signert», «Venter på signatur»,
   «Utløpt», «Reservert mot digital signering» eller «Avvist»).
 
-**Foreldre**-fanen viser et kort per forelder (**Forelder 1** og
-**Forelder 2**) med navn, fødselsdato, adresse, e-post, telefon og om
-forelderen skal ha **e-varsel**. Øverst på kortet viser et merke hvordan
-forelderen er knyttet til søkeren — se [Foreldre og
-koblinger](#foreldre-og-koblinger) under. Som med personalia låses kortene
-når søkeren er plassert i klasse; foreldrene redigeres da på eleven.
+Har søkeren søsken blant søkerne eller elevene ved skolen, vises flisa
+**Søsken** med navn, status og **Vis søknad**.
 
-![Rediger forelder](/img/soker_foreldre_rediger.png 'Foreldre — kort i redigeringsmodus')
+### Foreldre
 
-**Behandling**-fanen viser hele statushistorikken for søknaden — hvert
-steg med tidspunkt og hvem som gjorde endringen. Rader med e-postvarsel
-har en **Levering**-kolonne som viser om e-posten faktisk ble levert
-(«Levert 4/4»), og **Vis melding** åpner innholdet med status per
-mottaker. Står en adresse som **blokkert**, kan mottakeren ikke nås på
-e-post (adressen har tidligere feilet eller blitt markert som
-søppelpost) — be om ny adresse eller varsle på annen måte.
+Flisa **Foreldre** har én linje per forelder (**forelder 1** og
+**forelder 2**) med navn, e-post og telefon. Et merke viser hvordan
+forelderen er knyttet til søkeren, for eksempel **ID-porten**.
 
-![Statushistorikk](/img/soker_behandling.png 'Behandling — statushistorikk')
+- **Klikk på navnet** (pila foran) for å brette ut fødselsdato, adresse, om
+  forelderen har **e-varsel**, og knappene **Sperr**, **Opphev sperre** og
+  **Slett**.
+- **Blyanten** åpner forelderen for redigering.
 
-**Vedlegg**-fanen lister dokumentene søkeren har lastet opp
-(karakterutskrifter, legeerklæringer osv.). Skolen kan **laste ned**,
+Se [Foreldre og koblinger](#foreldre-og-koblinger) under. Som med
+personalia låses foreldrene når søkeren er plassert i klasse; foreldrene
+redigeres da på eleven.
+
+![Foreldre](/img/soker_foreldre.png 'Foreldre — forelder 1 brettet ut')
+
+### Behandling
+
+Flisa **Behandling** viser statushistorikken som en tidslinje, nyeste
+først: hvert steg med tidspunkt og hvem som gjorde endringen. De sju siste
+stegene vises, og **Vis alle** henter resten.
+
+Steg med pil til høyre har en melding. **Klikk på steget** for å se emne,
+mottakere, vedlegg, tekst og om e-posten ble levert til hver mottaker. Kom
+en e-post ikke fram, står det et merke på steget. Står en adresse som
+**blokkert**, kan mottakeren ikke nås på e-post (adressen har tidligere
+feilet eller blitt markert som søppelpost) — be om ny adresse eller varsle
+på annen måte.
+
+![Behandling](/img/soker_behandling.png 'Behandling som tidslinje')
+
+### Vedlegg
+
+Flisa **Vedlegg** lister dokumentene søkeren har lastet opp
+(karakterutskrifter, vitnemål, passkopi osv.). Skolen kan **laste ned**,
 **laste opp** egne vedlegg (med dokumenttype), **slette** (med
 bekreftelse — kopier i elevmappen påvirkes ikke) og **arkivere
 enkeltvedlegg til elevmappen** når søkeren er plassert i klasse.
 
-![Vedlegg](/img/soker_vedlegg.png 'Vedlegg — med opplastingsdialogen')
+Krever skolen vedlegg som søkeren ikke har levert, står det øverst i
+flisa: **Obligatoriske vedlegg mangler**, med navnet på vedleggene. Hvilke
+vedlegg som er obligatoriske, velger skolen under
+[Grunnlagsdata › Søkerportal › Vedleggstyper](gd_sokerportal.md#vedleggstyper).
+
+![Vedlegg](/img/soker_vedlegg.png 'Vedlegg — et obligatorisk vedlegg mangler')
 
 **Fagvalg** og **Spørsmål/svar** viser søkerens valg og svar fra
 søknaden.
@@ -193,9 +238,10 @@ og foreldre til grunnskolesøkere kan søke for barnet. Søkere til
 videregående søker selv; foreldrene deres inviteres, bekrefter med
 ID-porten og signerer avtalen sammen med søkeren når søkeren er under 18 år.
 
-### Merket på forelderkortet
+### Merkene på forelderen
 
-Merket øverst på kortet viser hvor opplysningene kommer fra:
+På linja står et kort merke, for eksempel **ID-porten**. Når forelderen er
+brettet ut (klikk på navnet), viser merket hvor opplysningene kommer fra:
 
 - **Grønt** (lenke-ikon) — forelderen er koblet, for eksempel «Koblet ved
   innlogging med ID-porten», «Koblet av skolen med fødselsnummer» eller
@@ -213,7 +259,7 @@ annet navn.
 
 ### Redigere og koble
 
-Blyanten åpner kortet for redigering (navn, fødselsnummer, e-post,
+Blyanten åpner forelderen for redigering (navn, fødselsnummer, e-post,
 telefon, adresse og e-varsel). Lagrer du et gyldig fødselsnummer på en
 forelder som ikke er koblet, kobles forelderen til søkeren og får se
 søknaden. Forelderen blir likevel ikke koblet hvis navnet ikke stemmer med
@@ -222,25 +268,53 @@ sperret — da lagres opplysningene med beskjed om hvorfor.
 
 For en forelder som er koblet, er fødselsnummeret låst. Endringer lagres
 på forelderens egen profil, gjelder alle barna og logges. Er
-fødselsnummeret feil, må plassen sperres eller fjernes først.
+fødselsnummeret feil, må forelderen sperres eller slettes først.
 
 Når søkeren er under 18 år, er **e-varsel** alltid på for forelder 1.
 
-### Fjern, Sperr og Opphev sperre
+### Slett, Sperr og Opphev sperre
 
-Under kortet ligger tre knapper. Alle krever bekreftelse, og handlingen
-logges med ditt navn.
+Knappene ligger under forelderen når den er brettet ut (klikk på navnet).
+Alle krever bekreftelse, og handlingen logges med ditt navn.
 
-- **Fjern** — fjerner forelderen fra søknaden. For en koblet forelder
+- **Slett** — sletter forelderen fra søknaden. For en koblet forelder
   beholdes forelderens egen profil; logger forelderen inn igjen og oppgir
   barnet, kan koblingen opprettes på nytt. Bruk **Sperr** hvis det skal
   hindres.
 - **Sperr** (bare for koblede foreldre) — fjerner koblingen, slik at
   forelderen ikke lenger ser søknaden og ikke selv kan knytte seg til
-  barnet igjen. Opplysningene står igjen slik de er.
+  barnet igjen. Opplysningene står igjen slik de er. En sperret forelder
+  får ingen meldinger om søknaden. Blir søkeren plassert i klasse, legges
+  forelderen inn på eleven uten tilgang til å logge inn i iSkole.
 - **Opphev sperre** — fjerner sperren. Er fødselsnummeret kjent, kobles
   forelderen igjen med en gang; ellers kobles forelderen neste gang
   forelderen logger inn med ID-porten.
+
+:::caution Sperring av forelder 1
+Er søkeren under 18 år og skolen bruker digital signering, signerer
+forelder 1 avtalen om skoleplass. Så lenge forelder 1 er sperret, kan
+avtalen ikke signeres. Dialogen varsler om det før du sperrer.
+:::
+
+### Hvem får meldinger fra skolen
+
+Når skolen endrer status eller sender en melding, vises mottakerne med
+adresse, og de kan velges av og på enkeltvis. Slik settes kryssene:
+
+- Er søkeren **under 18 år**, er **forelder 1** alltid mottaker, uansett
+  e-varsel.
+- Andre foreldre er mottakere når de har krysset av for **e-varsel**.
+- En forelder **uten e-varsel** står likevel i mottakerlista, uten kryss
+  og med merket **Har ikke krysset av for e-varsel**. Krysser du av, får
+  forelderen meldingen. Da er det skolen som har valgt det.
+- En forelder som er **sperret**, står ikke i lista og får ingen meldinger.
+
+Det samme gjelder SMS, for skoler med SMS-avtale. Sender du til mange på én
+gang, velges mottakerne per rolle (søkeren, forelder 1, forelder 2), med
+ett eget kryss: **Send også til foreldre som ikke har krysset av for
+e-varsel**.
+
+![Mottakere](/img/soker_melding_dialog.png 'Send melding — forelder 2 har ikke krysset av for e-varsel')
 
 ### Foreldrekoblinger
 
@@ -249,8 +323,40 @@ bør sees på: koblinger som ble stoppet eller avvist ved innlogging,
 sperrede plasser, foreldre som registrerte barnet selv (relasjonen er ikke
 kontrollert), navn som ikke stemmer med fødselsnummeret, og koblede
 foreldre uten adresse (inntaksbrevet trenger den). Listen viser årsak,
-søker, forelder, kilde og tidspunkt. **Vis søker** åpner søkeren med
-Foreldre-fanen, og **Oppdater** henter listen på nytt.
+søker, forelder, kilde og tidspunkt. **Vis søker** åpner søkeren, og
+**Oppdater** henter listen på nytt.
+
+## Bilder til vurdering
+
+Portrettbilder og passkopier blir kontrollert automatisk når søkeren laster
+dem opp. Finner kontrollen noe, får søkeren beskjed og kan velge et annet
+bilde eller bruke bildet likevel. Bilder som er brukt likevel, samles under
+filterknappen **Bilder til vurdering** over søkerlista. Knappen vises bare
+når det finnes bilder å vurdere.
+
+![Bilder til vurdering](/img/soker_bilder_vurdering.png 'Bilder til vurdering — fødselsdatoen i passet er ikke søkerens')
+
+Velg en linje til venstre. Bildet vises til høyre, med det bildekontrollen
+fant.
+
+- **Bildet er OK** — godtar bildet, og saken lukkes.
+- **Må byttes** — markerer bildet og åpner **Send melding**, så du kan be
+  søkeren om et nytt. Saken står som «Venter på nytt bilde» til søkeren har
+  lastet opp et nytt bilde av samme type. Imens kan du bruke **Send
+  påminnelse** eller **Bildet er OK likevel**.
+
+For **passkopier** gjelder i tillegg:
+
+- Er **fødselsdatoen i passet** en annen enn søkerens, blir passkopien
+  merket. Personkortet viser da «Venter på skolens kontroll», og passet
+  skrives ikke til eleven før skolen har godkjent kopien.
+- Velger du **Må byttes**, ser søkeren det på passlinja i portalen og kan
+  laste opp en ny passkopi.
+- Har skolen godkjent passkopien, kan ikke søkeren fjerne passet selv, bare
+  bytte kopien.
+
+Søkerens side av dette står i
+[Søknad › Dokumenter](sp_soknad.md#kopi-av-bildesiden-i-passet).
 
 ## Arbeidsflyt: endre status
 
@@ -279,10 +385,12 @@ med skolens standardvedlegg og eventuelle PDF-vedlegg samlet i én fil.
 legges ved e-posten — dra dem inn eller klikk i vedleggsfeltet (bare PDF
 godtas). For statuser
 som krever varsling er avhukingen forhåndsvalgt. E-posten sendes i
-bakgrunnen kort tid etter statusendringen, og innholdet lagres i
-Behandling-fanen slik at dere alltid kan se hva som ble sendt. Det samme
+bakgrunnen kort tid etter statusendringen, og innholdet lagres under
+Behandling slik at dere alltid kan se hva som ble sendt. Det samme
 gjelder bulk-handlinger — da får alle de valgte søkerne samme melding,
 og mottakervalget gjøres per rolle (søkeren, forelder 1, forelder 2).
+Hvilke foreldre som er mottakere, står under
+[Hvem får meldinger fra skolen](#hvem-får-meldinger-fra-skolen).
 
 ![Statusendring med varsling](/img/soker_varsling_dialog.png 'Gi tilbud — brev og varsling')
 
@@ -292,9 +400,9 @@ overskrives i stillhet.
 
 ## Redigere søkerens opplysninger
 
-Hvert kort i Søker-fanen har en blyant oppe til høyre. Klikk den, endre
-feltene, og bekreft med **Lagre** (eller **Avbryt**). Resten av panelet
-er fortsatt lesbart mens du redigerer.
+Flisene **Søker**, **Søknad** og **Vurdering** har en blyant oppe til
+høyre. Klikk den, endre feltene, og bekreft med **Lagre** (eller
+**Avbryt**). Resten av panelet er fortsatt lesbart mens du redigerer.
 
 ### Personalia
 
@@ -304,6 +412,10 @@ Fornavn, etternavn, fødselsdato, fødselsnummer og e-post.
 Fødselsnummeret kontrolleres (gyldighet og at ingen annen søker har samme
 nummer). Når søkeren er **plassert i klasse**, er personalia låst — kortet
 viser en hengelås, og opplysningene redigeres da på eleven i stedet.
+
+Endrer du navn, e-post eller fødselsnummer, fjernes bekreftelsen søkeren
+har gitt for det feltet. E-post og fødselsnummer bekreftes igjen når
+søkeren logger inn med e-postlenke eller ID-porten.
 
 ### Søknad
 
@@ -375,10 +487,15 @@ behandles under ett — typisk etter inntaksmøtet.
 
 ![Bulk-menyen](/img/soker_bulk_meny.png 'Bulk-handlinger')
 
-**Gi tilbud om skoleplass** og **Sett på venteliste** er de to
-statushandlingene som kan kjøres i bulk. De øvrige handlingene vises
+**Gi tilbud om skoleplass**, **Avvis søkeren** og **Sett på venteliste** er
+statushandlingene som kan kjøres i bulk. De øvrige statushandlingene vises
 nedtonet — de krever individuell vurdering og gjøres per søker fra
-detaljpanelet. I tillegg finnes **Plasser i klasse** (se under).
+detaljpanelet. I tillegg finnes **Plasser i klasse** (se under) og **Send
+melding**, som sender e-post til de valgte søkerne uten å endre status.
+
+**Avvis søkeren** kan brukes på søknader med status Under behandling,
+Søknad sendt til skolen, Søknad komplett og Venteliste. Det er nyttig når
+skolen er full og alle på ventelista skal ha avslag.
 
 Når du velger en handling, går siden i bulk-modus: listen viser bare
 **kandidatene** — søknadene som lovlig kan få handlingen — og du krysser
@@ -399,9 +516,11 @@ plassene er fylt. Kontroller utvalget og trykk Kjør.
 
 ![Bekreft bulk](/img/soker_bulk_bekreft.png 'Bekreftelse før kjøring')
 
-Merk at bulk-kjøring i denne versjonen **ikke** sender e-post/SMS eller
-brev — varsling og brev håndteres separat. Hver endring logges med ditt
-navn i statushistorikken.
+I oppsummeringen velger du om søkerne skal varsles på e-post (og SMS,
+for skoler med SMS-avtale). Alle de valgte får samme melding, og
+mottakerne velges per rolle, se
+[Hvem får meldinger fra skolen](#hvem-får-meldinger-fra-skolen). Hver
+endring logges med ditt navn i statushistorikken.
 
 Etterpå vises resultatet per søker. Søknader som var endret av andre i
 mellomtiden hoppes trygt over og rapporteres — de andre påvirkes ikke.
@@ -426,6 +545,64 @@ i klassens fag.
 
 Søknadsstatusen endres **ikke** ved plassering — plasserte søkere
 kjennetegnes ved at **Klasse**-kolonnen i listen er fylt ut.
+
+## Oppfølging før søknaden er sendt
+
+Fanene **Søknader, ikke sendt** og **Interessenter** er laget for å følge
+opp dem som ikke har søkt ennå.
+
+### Søknader, ikke sendt
+
+Fanen viser påbegynte søknader som søkeren ikke har sendt. Lista viser
+søkeren, programmet, kontaktinformasjon til søkeren og foreldrene, når
+søknaden ble opprettet, når søkeren sist var innlogget, og skolens merknad.
+
+![Søknader, ikke sendt](/img/soker_ikke_sendt.png 'Søknader, ikke sendt — med detaljpanelet')
+
+Klikk på en rad for å åpne detaljpanelet, som for sendte søknader:
+
+- **Oppfølging** — skolens merknad. Skriv ned hva som er avtalt med
+  søkeren, så oppfølgingen er loggført.
+- **Endre opplysninger** — blyanten på flisene retter e-post, telefon og
+  andre opplysninger om søkeren og foreldrene, for eksempel når dere
+  snakker med søkeren på telefon og adressen viser seg å være feil.
+- **Send inn for søkeren** — sender søknaden på vegne av søkeren. Søknaden
+  får status «Søknad sendt til skolen» og flyttes til Søknader, og søkeren
+  får kvitteringen «Søknad mottatt». Mangler noe i søknaden, viser dialogen
+  hva. Da kan du rette det først, eller velge **Send inn likevel**.
+  Reglement og vilkår godtar søkeren selv når et tilbud aksepteres.
+
+![Send inn for søkeren](/img/soker_send_inn.png 'Send inn for søkeren')
+
+Over lista:
+
+- **Eksporter Excel** gir lista slik den står i fanen.
+- **Kopier-ikonet** på hver linje kopierer e-postadressene på linja, til
+  søkeren og foreldrene, så du kan skrive til dem fra ditt eget
+  e-postprogram. En sperret forelder er ikke med.
+- **Slett søknad** sletter den valgte søknaden. Slettingen bekreftes med
+  søkerens fødselsdato, og søkeren med alle opplysninger fjernes permanent.
+
+### Interessenter
+
+Fanen viser personer som har meldt interesse for skolen uten å søke, og
+vises bare hvis skolen bruker interessent-funksjonen. Lista viser ønskede
+program, kontaktinformasjon, merknaden fra interessenten, skolens merknad,
+og om interessenten senere har registrert en søknad (grønn markering).
+
+![Interessenter](/img/soker_interessenter.png 'Interessenter')
+
+- **Endre** — åpner **Endre interessent**, der du retter navn, e-post og
+  mobil, og skriver **Skolens merknad**.
+- **Registrer som søker** — oppretter en søknad med ønskene fra
+  interessentlista, med status «Under behandling av skolen». Søkeren logger
+  inn med ID-porten. Knappen er av når interessenten allerede har en søknad.
+- **Slett interessent** — fjerner interessenten fra lista. En søknad
+  interessenten har registrert, påvirkes ikke.
+- **Eksporter Excel** og **kopier-ikonet** virker som i Søknader, ikke
+  sendt.
+
+![Endre interessent](/img/soker_interessent_endre.png 'Endre interessent')
 
 ## Statusoversikt
 
